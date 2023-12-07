@@ -1,0 +1,217 @@
+[
+  {
+    "sn": 1,
+    "rankLevel": 1,
+    "name": "D",
+    "pic": "tansuodu-icon-gongdianmibao-bangqiu.png",
+    "challenges": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "upgradeEvents": [
+      1102
+    ],
+    "upgradeDesc": "累计通关2关",
+    "reward": 210732,
+    "awardShow": [
+      [
+        4,
+        2000,
+        2000
+      ],
+      [
+        1,
+        600,
+        600
+      ],
+      [
+        302407,
+        4,
+        5
+      ]
+    ],
+    "taskGroup": 1,
+    "starGroup": 1,
+    "isDemotion": 0,
+    "maxStar": 33
+  },
+  {
+    "sn": 2,
+    "rankLevel": 2,
+    "name": "C",
+    "pic": "tansuodu-icon-anquanwu.png",
+    "challenges": [
+      201,
+      202,
+      203,
+      204
+    ],
+    "upgradeEvents": [
+      1103
+    ],
+    "upgradeDesc": "累计通关3关",
+    "reward": 210733,
+    "awardShow": [
+      [
+        4,
+        2000,
+        2000
+      ],
+      [
+        1,
+        800,
+        800
+      ],
+      [
+        302407,
+        5,
+        6
+      ]
+    ],
+    "taskGroup": 2,
+    "starGroup": 2,
+    "isDemotion": 0,
+    "maxStar": 36
+  },
+  {
+    "sn": 3,
+    "rankLevel": 3,
+    "name": "B",
+    "pic": "tansuodu-icon-hexinbaoxiang.png",
+    "challenges": [
+      301,
+      302,
+      303,
+      304
+    ],
+    "upgradeEvents": [
+      1104
+    ],
+    "upgradeDesc": "累计通关4关",
+    "reward": 210734,
+    "awardShow": [
+      [
+        4,
+        2000,
+        2000
+      ],
+      [
+        1,
+        1100,
+        1100
+      ],
+      [
+        302408,
+        1,
+        2
+      ],
+      [
+        302407,
+        4,
+        5
+      ]
+    ],
+    "taskGroup": 3,
+    "starGroup": 3,
+    "isDemotion": 0,
+    "maxStar": 39
+  },
+  {
+    "sn": 4,
+    "rankLevel": 4,
+    "name": "A",
+    "pic": "tansuodu-icon-gaojibaoxiang.png",
+    "challenges": [
+      401,
+      402,
+      403,
+      404
+    ],
+    "upgradeEvents": [
+      1201
+    ],
+    "upgradeDesc": "累计获得10颗星",
+    "reward": 210735,
+    "awardShow": [
+      [
+        4,
+        2000,
+        2000
+      ],
+      [
+        1,
+        1400,
+        1400
+      ],
+      [
+        302409,
+        0,
+        1
+      ],
+      [
+        302408,
+        1,
+        2
+      ],
+      [
+        302407,
+        2,
+        3
+      ]
+    ],
+    "taskGroup": 4,
+    "starGroup": 4,
+    "isDemotion": 0,
+    "maxStar": 39
+  },
+  {
+    "sn": 5,
+    "rankLevel": 5,
+    "name": "S",
+    "pic": "tansuodu-icon-zhongjibaoxiang.png",
+    "challenges": [
+      501,
+      502,
+      503,
+      504
+    ],
+    "upgradeEvents": [
+      1202
+    ],
+    "upgradeDesc": "累计获得20颗星",
+    "reward": 210736,
+    "awardShow": [
+      [
+        4,
+        2000,
+        2000
+      ],
+      [
+        1,
+        1700,
+        1700
+      ],
+      [
+        302409,
+        0,
+        1
+      ],
+      [
+        302408,
+        2,
+        3
+      ],
+      [
+        302407,
+        2,
+        3
+      ]
+    ],
+    "taskGroup": 5,
+    "starGroup": 5,
+    "isDemotion": 1,
+    "maxStar": 39
+  }
+]

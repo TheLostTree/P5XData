@@ -1,0 +1,85 @@
+[
+  {
+    "sn": "Resolution",
+    "Level": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "sn": "FrameRate",
+    "Level": [
+      30,
+      60
+    ]
+  },
+  {
+    "sn": "AntiAliasing",
+    "Level": []
+  },
+  {
+    "sn": "GraphicQuality",
+    "Level": [
+      1,
+      2
+    ]
+  },
+  {
+    "sn": "EffectsQuality",
+    "Level": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "sn": "LOD",
+    "Level": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "sn": "DepthOfField",
+    "Level": []
+  },
+  {
+    "sn": "Bloom",
+    "Level": []
+  },
+  {
+    "sn": "RenderScale",
+    "Level": [
+      0.75,
+      1,
+      1.5,
+      2
+    ]
+  },
+  {
+    "sn": "ShaderQuality",
+    "Level": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "sn": "ShadowQuality",
+    "Level": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "sn": "PostProcessQuality",
+    "Level": [
+      0,
+      1,
+      2
+    ]
+  }
+]

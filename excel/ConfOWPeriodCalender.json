@@ -1,0 +1,122 @@
+[
+  {
+    "sn": 1,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      1
+    ],
+    "nextSn": 2
+  },
+  {
+    "sn": 2,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      31
+    ],
+    "nextSn": 3
+  },
+  {
+    "sn": 3,
+    "dayType": 3,
+    "dayTemplateFirstSn": [
+      41
+    ],
+    "nextSn": 4
+  },
+  {
+    "sn": 4,
+    "dayType": 2,
+    "dayTemplateFirstSn": [
+      51
+    ],
+    "nextSn": 5
+  },
+  {
+    "sn": 5,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      61
+    ],
+    "nextSn": 6
+  },
+  {
+    "sn": 6,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      71
+    ],
+    "nextSn": 7
+  },
+  {
+    "sn": 7,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      81
+    ],
+    "nextSn": 8
+  },
+  {
+    "sn": 8,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      91
+    ],
+    "nextSn": 9
+  },
+  {
+    "sn": 9,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      101
+    ],
+    "nextSn": 10
+  },
+  {
+    "sn": 10,
+    "dayType": 3,
+    "dayTemplateFirstSn": [
+      1001
+    ],
+    "nextSn": 11
+  },
+  {
+    "sn": 11,
+    "dayType": 2,
+    "dayTemplateFirstSn": [
+      1001
+    ],
+    "nextSn": 12
+  },
+  {
+    "sn": 12,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      101
+    ],
+    "nextSn": 13
+  },
+  {
+    "sn": 13,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      101
+    ],
+    "nextSn": 14
+  },
+  {
+    "sn": 14,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      101
+    ],
+    "nextSn": 15
+  },
+  {
+    "sn": 15,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      101
+    ],
+    "nextSn": 9
+  }
+]

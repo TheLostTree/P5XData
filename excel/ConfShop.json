@@ -1,0 +1,430 @@
+[
+  {
+    "sn": 1,
+    "dependUnion": 1,
+    "shopTypePic": "shop-title-fanmaiji.png",
+    "shopName": "自动贩卖机",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 2,
+    "dependUnion": 1,
+    "shopTypePic": "shop-title-bianlidian.png",
+    "shopName": "777便利店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "Amb0105",
+    "close_sound": "Amb0104"
+  },
+  {
+    "sn": 3,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-bujidian.png",
+    "shopName": "联盟商店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      9
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 4,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-bujidian.png",
+    "shopName": "竞技场商店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      10
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 5,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-shudian.png",
+    "shopName": "太平堂",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "Amb0113",
+    "close_sound": "Amb0112"
+  },
+  {
+    "sn": 6,
+    "dependUnion": 2,
+    "shopTypePic": "shop-title-tianpindian.png",
+    "shopName": "百万甜品",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "Amb0111",
+    "close_sound": "Amb0110"
+  },
+  {
+    "sn": 7,
+    "dependUnion": 2,
+    "shopTypePic": "shop-title-hanbaodian.png",
+    "shopName": "大汉堡",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "Amb0107",
+    "close_sound": "Amb0106"
+  },
+  {
+    "sn": 8,
+    "dependUnion": 2,
+    "shopTypePic": "shop-title-niudongdian.png",
+    "shopName": "俺牛",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "Amb0109",
+    "close_sound": "Amb0108"
+  },
+  {
+    "sn": 9,
+    "dependUnion": 1,
+    "shopTypePic": "shop-title-yaozhuangdian.png",
+    "shopName": "药妆店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "Amb0105",
+    "close_sound": "Amb0104"
+  },
+  {
+    "sn": 10,
+    "dependUnion": 1,
+    "shopTypePic": "shop-title-wuqidian.png",
+    "shopName": "生存游戏专卖店",
+    "shopTag": 4,
+    "topForeverSnList": [
+      1
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 13,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopName": "棒球积分兑换",
+    "shopTag": 1,
+    "topForeverSnList": [
+      16
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 14,
+    "dependUnion": 0,
+    "shopTypePic": "yishijie-icon-bangqiuguan-new.png",
+    "shopName": "gongdian-mingzi-bangqiuguan.png",
+    "shopTag": 2,
+    "topForeverSnList": [],
+    "topForeverSn": 1038,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 15,
+    "dependUnion": 0,
+    "shopTypePic": "yishijie-icon-bangqiuguan-new.png",
+    "shopName": "gongdian-mingzi-bangqiuguan.png",
+    "shopTag": 2,
+    "topForeverSnList": [],
+    "topForeverSn": 1038,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 16,
+    "dependUnion": 0,
+    "shopTypePic": "yishijie-icon-bangqiuguan-new.png",
+    "shopName": "gongdian-mingzi-bangqiuguan.png",
+    "shopTag": 2,
+    "topForeverSnList": [],
+    "topForeverSn": 1038,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 17,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-diaochangdian.png",
+    "shopName": "",
+    "shopTag": 1,
+    "topForeverSnList": [
+      29
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 21,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-chaoshi.png",
+    "shopName": "超市",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 22,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-ershouzahuodian.png",
+    "shopName": "二手杂货店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 23,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-fanmaiji.png",
+    "shopName": "自动贩卖机",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 24,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-zhekoushangdian.png",
+    "shopName": "折扣商品店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 25,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-huadian.png",
+    "shopName": "花店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 26,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-fanmaiji.png",
+    "shopName": "自动贩卖机",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 27,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-shudian.png",
+    "shopName": "日乃国屋",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 28,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-bianlidian.png",
+    "shopName": "777便利店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 29,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-zhubao.png",
+    "shopName": "珠宝店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 31,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-meizhuang.png",
+    "shopName": "美妆店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 32,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-shipin.png",
+    "shopName": "饰品店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 33,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-zhubao.png",
+    "shopName": "珠宝店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 34,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-hefeng.png",
+    "shopName": "和风杂货店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 35,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-gaojichaoshi.png",
+    "shopName": "高级超市",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 36,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-huadian.png",
+    "shopName": "花店",
+    "shopTag": 1,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 37,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopName": "宗久-近战武器购买",
+    "shopTag": 3,
+    "topForeverSnList": [],
+    "topForeverSn": 22,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 38,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopName": "宗久-远程武器皮肤购买",
+    "shopTag": 3,
+    "topForeverSnList": [],
+    "topForeverSn": 2,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 39,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopName": "宗久-武器订制",
+    "shopTag": 3,
+    "topForeverSnList": [],
+    "topForeverSn": 302904,
+    "open_sound": "",
+    "close_sound": ""
+  },
+  {
+    "sn": 40,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopName": "宗久-武器兑换",
+    "shopTag": 3,
+    "topForeverSnList": [],
+    "topForeverSn": 302901,
+    "open_sound": "",
+    "close_sound": ""
+  }
+]

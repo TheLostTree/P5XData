@@ -1,0 +1,54 @@
+[
+  {
+    "sn": 2,
+    "QualityName": "寻常",
+    "CardLevelMax": 10,
+    "exabilityNum": [
+      1
+    ],
+    "exabilityMaxNum": 1,
+    "exabilityNumPR": [
+      1
+    ],
+    "strenExp": 40
+  },
+  {
+    "sn": 3,
+    "QualityName": "稀有",
+    "CardLevelMax": 15,
+    "exabilityNum": [
+      2
+    ],
+    "exabilityMaxNum": 2,
+    "exabilityNumPR": [
+      1
+    ],
+    "strenExp": 75
+  },
+  {
+    "sn": 4,
+    "QualityName": "罕见",
+    "CardLevelMax": 20,
+    "exabilityNum": [
+      3
+    ],
+    "exabilityMaxNum": 4,
+    "exabilityNumPR": [
+      1
+    ],
+    "strenExp": 100
+  },
+  {
+    "sn": 5,
+    "QualityName": "绝世",
+    "CardLevelMax": 25,
+    "exabilityNum": [
+      4
+    ],
+    "exabilityMaxNum": 4,
+    "exabilityNumPR": [
+      1
+    ],
+    "strenExp": 125
+  }
+]

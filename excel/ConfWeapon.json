@@ -1,0 +1,7940 @@
+[
+  {
+    "sn": 200101,
+    "name": "乌兹钢刀",
+    "quality": 2,
+    "developPic": "gacha-weapon-1.png",
+    "gachaPic": "wonder-2-01.png",
+    "evolveName": "wuqi-guaidaoming-wonder.png",
+    "namePic": "",
+    "model": 200101,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 1,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      15.85,
+      0.0115
+    ],
+    "initialUpPropertyValue": [
+      1.6,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302803
+      ],
+      [
+        302602,
+        302803
+      ],
+      [
+        302602,
+        302803
+      ],
+      [
+        302603,
+        302803
+      ],
+      [
+        302603,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      200101,
+      0,
+      0,
+      200101
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50021
+      ],
+      [
+        50021
+      ],
+      [
+        50021
+      ],
+      [
+        50021
+      ],
+      [
+        50021
+      ]
+    ]
+  },
+  {
+    "sn": 200102,
+    "name": "致命匕首",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-03.png",
+    "gachaPic": "wonder-3-01.png",
+    "evolveName": "wuqi-guaidaoming-wonder.png",
+    "namePic": "",
+    "model": 200102,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 1,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      19.82,
+      0.0144
+    ],
+    "initialUpPropertyValue": [
+      2,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302803
+      ],
+      [
+        302602,
+        302803
+      ],
+      [
+        302602,
+        302803
+      ],
+      [
+        302603,
+        302803
+      ],
+      [
+        302603,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      200102,
+      0,
+      0,
+      200102
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50031
+      ],
+      [
+        50031
+      ],
+      [
+        50031
+      ],
+      [
+        50031
+      ],
+      [
+        50031
+      ]
+    ]
+  },
+  {
+    "sn": 200103,
+    "name": "极昼刀",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "wonder-4-01.png",
+    "evolveName": "wuqi-guaidaoming-wonder.png",
+    "namePic": "",
+    "model": 200103,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 1,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      27.74,
+      0.0202
+    ],
+    "initialUpPropertyValue": [
+      2.81,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        36.99,
+        0.0363
+      ],
+      [
+        36.99,
+        0.0363
+      ],
+      [
+        36.99,
+        0.0363
+      ],
+      [
+        36.99,
+        0.0363
+      ],
+      [
+        36.99,
+        0.0363
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302803
+      ],
+      [
+        302602,
+        302803
+      ],
+      [
+        302602,
+        302803
+      ],
+      [
+        302603,
+        302803
+      ],
+      [
+        302603,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      200103,
+      0,
+      0,
+      200103
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50041,
+        50042
+      ],
+      [
+        50041,
+        50042
+      ],
+      [
+        50041,
+        50042
+      ],
+      [
+        50041,
+        50042
+      ],
+      [
+        50041,
+        50042
+      ]
+    ]
+  },
+  {
+    "sn": 200104,
+    "name": "七日之焰",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "wonder-5-01.png",
+    "evolveName": "wuqi-guaidaoming-wonder.png",
+    "namePic": "",
+    "model": 200104,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 1,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      39.63,
+      0.0288
+    ],
+    "initialUpPropertyValue": [
+      4.01,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        52.84,
+        0.0519
+      ],
+      [
+        52.84,
+        0.0519
+      ],
+      [
+        52.84,
+        0.0519
+      ],
+      [
+        52.84,
+        0.0519
+      ],
+      [
+        52.84,
+        0.0519
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302803
+      ],
+      [
+        302602,
+        302803
+      ],
+      [
+        302602,
+        302803
+      ],
+      [
+        302603,
+        302803
+      ],
+      [
+        302603,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      200104,
+      0,
+      0,
+      200104
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50051,
+        50052,
+        50053
+      ],
+      [
+        50051,
+        50052,
+        50053
+      ],
+      [
+        50051,
+        50052,
+        50053
+      ],
+      [
+        50051,
+        50052,
+        50053
+      ],
+      [
+        50051,
+        50052,
+        50053
+      ]
+    ]
+  },
+  {
+    "sn": 210101,
+    "name": "普通棍棒",
+    "quality": 2,
+    "developPic": "wuqi-lihui-shuiguan-01.png",
+    "gachaPic": "skull-2-01.png",
+    "evolveName": "wuqi-guaidaoming-skull.png",
+    "namePic": "",
+    "model": 210101,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 3,
+    "property": [
+      261,
+      243
+    ],
+    "initialPropertyValue": [
+      16.01,
+      0.0141
+    ],
+    "initialUpPropertyValue": [
+      1.62,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        21.35,
+        0.0254
+      ],
+      [
+        21.35,
+        0.0254
+      ],
+      [
+        21.35,
+        0.0254
+      ],
+      [
+        21.35,
+        0.0254
+      ],
+      [
+        21.35,
+        0.0254
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210101,
+      0,
+      0,
+      210101
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50121
+      ],
+      [
+        50121
+      ],
+      [
+        50121
+      ],
+      [
+        50121
+      ],
+      [
+        50121
+      ]
+    ]
+  },
+  {
+    "sn": 210102,
+    "name": "重型钉锤",
+    "quality": 3,
+    "developPic": "wuqi-lihui-dachui-01.png",
+    "gachaPic": "skull-3-01.png",
+    "evolveName": "wuqi-guaidaoming-skull.png",
+    "namePic": "",
+    "model": 210102,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 3,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      20.01,
+      0.0144
+    ],
+    "initialUpPropertyValue": [
+      2.02,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        26.68,
+        0.0259
+      ],
+      [
+        26.68,
+        0.0259
+      ],
+      [
+        26.68,
+        0.0259
+      ],
+      [
+        26.68,
+        0.0259
+      ],
+      [
+        26.68,
+        0.0259
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210102,
+      0,
+      0,
+      210102
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50131
+      ],
+      [
+        50131
+      ],
+      [
+        50131
+      ],
+      [
+        50131
+      ],
+      [
+        50131
+      ]
+    ]
+  },
+  {
+    "sn": 210103,
+    "name": "盖亚镇压者",
+    "quality": 4,
+    "developPic": "wuqi-lihui-dachui-02.png",
+    "gachaPic": "skull-4-01.png",
+    "evolveName": "wuqi-guaidaoming-skull.png",
+    "namePic": "",
+    "model": 210103,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 3,
+    "property": [
+      261,
+      281
+    ],
+    "initialPropertyValue": [
+      28.02,
+      0.0121
+    ],
+    "initialUpPropertyValue": [
+      2.83,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        37.36,
+        0.0218
+      ],
+      [
+        37.36,
+        0.0218
+      ],
+      [
+        37.36,
+        0.0218
+      ],
+      [
+        37.36,
+        0.0218
+      ],
+      [
+        37.36,
+        0.0218
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210103,
+      0,
+      0,
+      210103
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50141
+      ],
+      [
+        50141
+      ],
+      [
+        50141
+      ],
+      [
+        50141
+      ],
+      [
+        50141
+      ]
+    ]
+  },
+  {
+    "sn": 210104,
+    "name": "复仇者的尖齿",
+    "quality": 5,
+    "developPic": "wuqi-lihui-dachui-02.png",
+    "gachaPic": "skull-5-01.png",
+    "evolveName": "wuqi-guaidaoming-skull.png",
+    "namePic": "",
+    "model": 210104,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 3,
+    "property": [
+      261,
+      291
+    ],
+    "initialPropertyValue": [
+      40.03,
+      0.0346
+    ],
+    "initialUpPropertyValue": [
+      4.05,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        53.37,
+        0.0623
+      ],
+      [
+        53.37,
+        0.0623
+      ],
+      [
+        53.37,
+        0.0623
+      ],
+      [
+        53.37,
+        0.0623
+      ],
+      [
+        53.37,
+        0.0623
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210104,
+      0,
+      0,
+      210104
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50151,
+        50152,
+        50153
+      ],
+      [
+        50151,
+        50152,
+        50153
+      ],
+      [
+        50151,
+        50152,
+        50153
+      ],
+      [
+        50151,
+        50152,
+        50153
+      ],
+      [
+        50151,
+        50152,
+        50153
+      ]
+    ]
+  },
+  {
+    "sn": 210201,
+    "name": "弯刃大刀",
+    "quality": 2,
+    "developPic": "wuqi-lihui-dadao-02.png",
+    "gachaPic": "mona-2-01.png",
+    "evolveName": "wuqi-guaidaoming-mona.png",
+    "namePic": "",
+    "model": 210201,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 2,
+    "property": [
+      261,
+      243
+    ],
+    "initialPropertyValue": [
+      15.54,
+      0.0141
+    ],
+    "initialUpPropertyValue": [
+      1.57,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        20.71,
+        0.0254
+      ],
+      [
+        20.71,
+        0.0254
+      ],
+      [
+        20.71,
+        0.0254
+      ],
+      [
+        20.71,
+        0.0254
+      ],
+      [
+        20.71,
+        0.0254
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210201,
+      0,
+      0,
+      210201
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50221
+      ],
+      [
+        50222
+      ],
+      [
+        50223
+      ],
+      [
+        50224
+      ],
+      [
+        50225
+      ]
+    ]
+  },
+  {
+    "sn": 210202,
+    "name": "音速刀",
+    "quality": 3,
+    "developPic": "wuqi-lihui-dadao-03.png",
+    "gachaPic": "mona-3-01.png",
+    "evolveName": "wuqi-guaidaoming-mona.png",
+    "namePic": "",
+    "model": 210202,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 2,
+    "property": [
+      261,
+      243
+    ],
+    "initialPropertyValue": [
+      19.42,
+      0.0177
+    ],
+    "initialUpPropertyValue": [
+      1.96,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        25.89,
+        0.0318
+      ],
+      [
+        25.89,
+        0.0318
+      ],
+      [
+        25.89,
+        0.0318
+      ],
+      [
+        25.89,
+        0.0318
+      ],
+      [
+        25.89,
+        0.0318
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210202,
+      0,
+      0,
+      210202
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50231
+      ],
+      [
+        50232
+      ],
+      [
+        50233
+      ],
+      [
+        50234
+      ],
+      [
+        50235
+      ]
+    ]
+  },
+  {
+    "sn": 210203,
+    "name": "新月刀",
+    "quality": 4,
+    "developPic": "wuqi-lihui-dadao-01.png",
+    "gachaPic": "mona-4-01.png",
+    "evolveName": "wuqi-guaidaoming-mona.png",
+    "namePic": "",
+    "model": 210203,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 2,
+    "property": [
+      261,
+      281
+    ],
+    "initialPropertyValue": [
+      27.19,
+      0.0121
+    ],
+    "initialUpPropertyValue": [
+      2.75,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        36.25,
+        0.0218
+      ],
+      [
+        36.25,
+        0.0218
+      ],
+      [
+        36.25,
+        0.0218
+      ],
+      [
+        36.25,
+        0.0218
+      ],
+      [
+        36.25,
+        0.0218
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210203,
+      0,
+      0,
+      210203
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50241
+      ],
+      [
+        50242
+      ],
+      [
+        50243
+      ],
+      [
+        50244
+      ],
+      [
+        50245
+      ]
+    ]
+  },
+  {
+    "sn": 210204,
+    "name": "黄金战利品",
+    "quality": 5,
+    "developPic": "wuqi-lihui-dadao-01.png",
+    "gachaPic": "mona-5-01.png",
+    "evolveName": "wuqi-guaidaoming-mona.png",
+    "namePic": "",
+    "model": 210204,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 2,
+    "property": [
+      261,
+      671
+    ],
+    "initialPropertyValue": [
+      38.84,
+      0.0136
+    ],
+    "initialUpPropertyValue": [
+      3.93,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        51.78,
+        0.0245
+      ],
+      [
+        51.78,
+        0.0245
+      ],
+      [
+        51.78,
+        0.0245
+      ],
+      [
+        51.78,
+        0.0245
+      ],
+      [
+        51.78,
+        0.0245
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210204,
+      0,
+      0,
+      210204
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50251,
+        50250
+      ],
+      [
+        50252,
+        50250
+      ],
+      [
+        50253,
+        50250
+      ],
+      [
+        50254,
+        50250
+      ],
+      [
+        50255,
+        50250
+      ]
+    ]
+  },
+  {
+    "sn": 210301,
+    "name": "链球",
+    "quality": 2,
+    "developPic": "wuqi-lihui-liuxingchui-02.png",
+    "gachaPic": "closer-2-01.png",
+    "evolveName": "wuqi-guaidaoming-closer.png",
+    "namePic": "",
+    "model": 210301,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 10,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      16.64,
+      0.0283
+    ],
+    "initialUpPropertyValue": [
+      1.68,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        22.19,
+        0.0509
+      ],
+      [
+        22.19,
+        0.0509
+      ],
+      [
+        22.19,
+        0.0509
+      ],
+      [
+        22.19,
+        0.0509
+      ],
+      [
+        22.19,
+        0.0509
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210301,
+      0,
+      0,
+      210301
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50321
+      ],
+      [
+        50321
+      ],
+      [
+        50321
+      ],
+      [
+        50321
+      ],
+      [
+        50321
+      ]
+    ]
+  },
+  {
+    "sn": 210302,
+    "name": "雷鸣链球",
+    "quality": 3,
+    "developPic": "wuqi-lihui-liuxingchui-03.png",
+    "gachaPic": "closer-3-01.png",
+    "evolveName": "wuqi-guaidaoming-closer.png",
+    "namePic": "",
+    "model": 210302,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 10,
+    "property": [
+      261,
+      301
+    ],
+    "initialPropertyValue": [
+      20.81,
+      0.0105
+    ],
+    "initialUpPropertyValue": [
+      2.1,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        27.74,
+        0.0189
+      ],
+      [
+        27.74,
+        0.0189
+      ],
+      [
+        27.74,
+        0.0189
+      ],
+      [
+        27.74,
+        0.0189
+      ],
+      [
+        27.74,
+        0.0189
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210302,
+      0,
+      0,
+      210302
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50331
+      ],
+      [
+        50331
+      ],
+      [
+        50331
+      ],
+      [
+        50331
+      ],
+      [
+        50331
+      ]
+    ]
+  },
+  {
+    "sn": 210303,
+    "name": "罪罚链球",
+    "quality": 4,
+    "developPic": "wuqi-lihui-liuxingchui-01.png",
+    "gachaPic": "closer-4-01.png",
+    "evolveName": "wuqi-guaidaoming-closer.png",
+    "namePic": "",
+    "model": 210303,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 10,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      29.13,
+      0.0202
+    ],
+    "initialUpPropertyValue": [
+      2.95,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        38.84,
+        0.0363
+      ],
+      [
+        38.84,
+        0.0363
+      ],
+      [
+        38.84,
+        0.0363
+      ],
+      [
+        38.84,
+        0.0363
+      ],
+      [
+        38.84,
+        0.0363
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210303,
+      0,
+      0,
+      210303
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50341
+      ],
+      [
+        50341
+      ],
+      [
+        50341
+      ],
+      [
+        50341
+      ],
+      [
+        50341
+      ]
+    ]
+  },
+  {
+    "sn": 210304,
+    "name": "电磁类星体",
+    "quality": 5,
+    "developPic": "wuqi-lihui-liuxingchui-01.png",
+    "gachaPic": "closer-5-01.png",
+    "evolveName": "wuqi-guaidaoming-closer.png",
+    "namePic": "",
+    "model": 210304,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 10,
+    "property": [
+      261,
+      281
+    ],
+    "initialPropertyValue": [
+      41.61,
+      0.0173
+    ],
+    "initialUpPropertyValue": [
+      4.21,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        55.48,
+        0.1031
+      ],
+      [
+        55.48,
+        0.1031
+      ],
+      [
+        55.48,
+        0.1031
+      ],
+      [
+        55.48,
+        0.1031
+      ],
+      [
+        55.48,
+        0.1031
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210304,
+      0,
+      0,
+      210304
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50351,
+        50352
+      ],
+      [
+        50351,
+        50352
+      ],
+      [
+        50351,
+        50352
+      ],
+      [
+        50351,
+        50352
+      ],
+      [
+        50351,
+        50352
+      ]
+    ]
+  },
+  {
+    "sn": 210401,
+    "name": "浮萍拐",
+    "quality": 2,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "cattle-2-01.png",
+    "evolveName": "wuqi-guaidaoming-cattle.png",
+    "namePic": "",
+    "model": 210401,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 14,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      15.22,
+      0.0283
+    ],
+    "initialUpPropertyValue": [
+      1.54,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        20.29,
+        0.0509
+      ],
+      [
+        20.29,
+        0.0509
+      ],
+      [
+        20.29,
+        0.0509
+      ],
+      [
+        20.29,
+        0.0509
+      ],
+      [
+        20.29,
+        0.0509
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210401,
+      0,
+      0,
+      210401
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50421
+      ],
+      [
+        50421
+      ],
+      [
+        50421
+      ],
+      [
+        50421
+      ],
+      [
+        50421
+      ]
+    ]
+  },
+  {
+    "sn": 210402,
+    "name": "冲锋拐",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "cattle-3-01.png",
+    "evolveName": "wuqi-guaidaoming-cattle.png",
+    "namePic": "",
+    "model": 210402,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 14,
+    "property": [
+      261,
+      301
+    ],
+    "initialPropertyValue": [
+      19.02,
+      0.0105
+    ],
+    "initialUpPropertyValue": [
+      1.92,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        25.36,
+        0.0189
+      ],
+      [
+        25.36,
+        0.0189
+      ],
+      [
+        25.36,
+        0.0189
+      ],
+      [
+        25.36,
+        0.0189
+      ],
+      [
+        25.36,
+        0.0189
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210402,
+      0,
+      0,
+      210402
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50431
+      ],
+      [
+        50432
+      ],
+      [
+        50433
+      ],
+      [
+        50434
+      ],
+      [
+        50435
+      ]
+    ]
+  },
+  {
+    "sn": 210403,
+    "name": "熔炎拐",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "cattle-4-01.png",
+    "evolveName": "wuqi-guaidaoming-cattle.png",
+    "namePic": "",
+    "model": 210403,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 14,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      26.63,
+      0.0202
+    ],
+    "initialUpPropertyValue": [
+      2.69,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        35.51,
+        0.0363
+      ],
+      [
+        35.51,
+        0.0363
+      ],
+      [
+        35.51,
+        0.0363
+      ],
+      [
+        35.51,
+        0.0363
+      ],
+      [
+        35.51,
+        0.0363
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210403,
+      0,
+      0,
+      210403
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50441
+      ],
+      [
+        50442
+      ],
+      [
+        50443
+      ],
+      [
+        50444
+      ],
+      [
+        50445
+      ]
+    ]
+  },
+  {
+    "sn": 210404,
+    "name": "神降光辉",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "cattle-5-01.png",
+    "evolveName": "wuqi-guaidaoming-cattle.png",
+    "namePic": "",
+    "model": 210404,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 14,
+    "property": [
+      261,
+      671
+    ],
+    "initialPropertyValue": [
+      38.05,
+      0.0136
+    ],
+    "initialUpPropertyValue": [
+      3.85,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        50.73,
+        0.0245
+      ],
+      [
+        50.73,
+        0.0245
+      ],
+      [
+        50.73,
+        0.0245
+      ],
+      [
+        50.73,
+        0.0245
+      ],
+      [
+        50.73,
+        0.0245
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210404,
+      0,
+      0,
+      210404
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50451,
+        50450
+      ],
+      [
+        50452,
+        50450
+      ],
+      [
+        50453,
+        50450
+      ],
+      [
+        50454,
+        50450
+      ],
+      [
+        50455,
+        50450
+      ]
+    ]
+  },
+  {
+    "sn": 210701,
+    "name": "EX跃动长枪",
+    "quality": 2,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "",
+    "evolveName": "wuqi-guaidaoming-leo.png",
+    "namePic": "",
+    "model": 210701,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 11,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      16.49,
+      0.0283
+    ],
+    "initialUpPropertyValue": [
+      1.67,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        21.98,
+        0.0509
+      ],
+      [
+        21.98,
+        0.0509
+      ],
+      [
+        21.98,
+        0.0509
+      ],
+      [
+        21.98,
+        0.0509
+      ],
+      [
+        21.98,
+        0.0509
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210701,
+      0,
+      0,
+      210701
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50721
+      ],
+      [
+        50721
+      ],
+      [
+        50721
+      ],
+      [
+        50721
+      ],
+      [
+        50721
+      ]
+    ]
+  },
+  {
+    "sn": 210702,
+    "name": "EX审判长枪",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "",
+    "evolveName": "wuqi-guaidaoming-leo.png",
+    "namePic": "",
+    "model": 210702,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 11,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      20.61,
+      0.0144
+    ],
+    "initialUpPropertyValue": [
+      2.08,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        27.48,
+        0.0259
+      ],
+      [
+        27.48,
+        0.0259
+      ],
+      [
+        27.48,
+        0.0259
+      ],
+      [
+        27.48,
+        0.0259
+      ],
+      [
+        27.48,
+        0.0259
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210702,
+      0,
+      0,
+      210702
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50731
+      ],
+      [
+        50731
+      ],
+      [
+        50731
+      ],
+      [
+        50731
+      ],
+      [
+        50731
+      ]
+    ]
+  },
+  {
+    "sn": 210703,
+    "name": "最强战戟X",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "",
+    "evolveName": "wuqi-guaidaoming-leo.png",
+    "namePic": "",
+    "model": 210703,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 11,
+    "property": [
+      261,
+      243
+    ],
+    "initialPropertyValue": [
+      28.85,
+      0.0247
+    ],
+    "initialUpPropertyValue": [
+      2.92,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        38.47,
+        0.0445
+      ],
+      [
+        38.47,
+        0.0445
+      ],
+      [
+        38.47,
+        0.0445
+      ],
+      [
+        38.47,
+        0.0445
+      ],
+      [
+        38.47,
+        0.0445
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210703,
+      0,
+      0,
+      210703
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50741
+      ],
+      [
+        50741
+      ],
+      [
+        50741
+      ],
+      [
+        50741
+      ],
+      [
+        50741
+      ]
+    ]
+  },
+  {
+    "sn": 210704,
+    "name": "破碎毁灭者MR",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "",
+    "evolveName": "wuqi-guaidaoming-leo.png",
+    "namePic": "",
+    "model": 210704,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 11,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      41.22,
+      0.0288
+    ],
+    "initialUpPropertyValue": [
+      4.17,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        54.95,
+        0.0519
+      ],
+      [
+        54.95,
+        0.0519
+      ],
+      [
+        54.95,
+        0.0519
+      ],
+      [
+        54.95,
+        0.0519
+      ],
+      [
+        54.95,
+        0.0519
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302612,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ],
+      [
+        302613,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      210704,
+      0,
+      0,
+      210704
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        50751,
+        50752
+      ],
+      [
+        50751,
+        50752
+      ],
+      [
+        50751,
+        50752
+      ],
+      [
+        50751,
+        50752
+      ],
+      [
+        50751,
+        50752
+      ]
+    ]
+  },
+  {
+    "sn": 211301,
+    "name": "链锤",
+    "quality": 2,
+    "developPic": "wuqi-lihui-liuxingchui-02.png",
+    "gachaPic": "yuki-2-01.png",
+    "evolveName": "wuqi-guaidaoming-tembin.png",
+    "namePic": "",
+    "model": 211301,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 9,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      15.85,
+      0.0115
+    ],
+    "initialUpPropertyValue": [
+      1.6,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211301,
+      0,
+      0,
+      211301
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51321
+      ],
+      [
+        51322
+      ],
+      [
+        51323
+      ],
+      [
+        51324
+      ],
+      [
+        51325
+      ]
+    ]
+  },
+  {
+    "sn": 211302,
+    "name": "尖刺链锤",
+    "quality": 3,
+    "developPic": "wuqi-lihui-liuxingchui-03.png",
+    "gachaPic": "yuki-3-01.png",
+    "evolveName": "wuqi-guaidaoming-tembin.png",
+    "namePic": "",
+    "model": 211302,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 9,
+    "property": [
+      261,
+      411
+    ],
+    "initialPropertyValue": [
+      19.82,
+      0.0063
+    ],
+    "initialUpPropertyValue": [
+      2,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        26.42,
+        0.0113
+      ],
+      [
+        26.42,
+        0.0113
+      ],
+      [
+        26.42,
+        0.0113
+      ],
+      [
+        26.42,
+        0.0113
+      ],
+      [
+        26.42,
+        0.0113
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211302,
+      0,
+      0,
+      211302
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51331
+      ],
+      [
+        51332
+      ],
+      [
+        51333
+      ],
+      [
+        51334
+      ],
+      [
+        51335
+      ]
+    ]
+  },
+  {
+    "sn": 211303,
+    "name": "万宝重锤",
+    "quality": 4,
+    "developPic": "wuqi-lihui-liuxingchui-01.png",
+    "gachaPic": "yuki-4-01.png",
+    "evolveName": "wuqi-guaidaoming-tembin.png",
+    "namePic": "",
+    "model": 211303,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 9,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      27.74,
+      0.0495
+    ],
+    "initialUpPropertyValue": [
+      2.77,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        36.99,
+        0.089
+      ],
+      [
+        36.99,
+        0.089
+      ],
+      [
+        36.99,
+        0.089
+      ],
+      [
+        36.99,
+        0.089
+      ],
+      [
+        36.99,
+        0.089
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211303,
+      0,
+      0,
+      211303
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51341
+      ],
+      [
+        51342
+      ],
+      [
+        51343
+      ],
+      [
+        51344
+      ],
+      [
+        51345
+      ]
+    ]
+  },
+  {
+    "sn": 211304,
+    "name": "归净乐土",
+    "quality": 5,
+    "developPic": "wuqi-lihui-liuxingchui-01.png",
+    "gachaPic": "yuki-5-01.png",
+    "evolveName": "wuqi-guaidaoming-tembin.png",
+    "namePic": "",
+    "model": 211304,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 9,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      39.63,
+      0.0707
+    ],
+    "initialUpPropertyValue": [
+      4.01,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        52.84,
+        0.1272
+      ],
+      [
+        52.84,
+        0.1272
+      ],
+      [
+        52.84,
+        0.1272
+      ],
+      [
+        52.84,
+        0.1272
+      ],
+      [
+        52.84,
+        0.1272
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211304,
+      0,
+      0,
+      211304
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51351,
+        51350
+      ],
+      [
+        51352,
+        51350
+      ],
+      [
+        51353,
+        51350
+      ],
+      [
+        51354,
+        51350
+      ],
+      [
+        51355,
+        51350
+      ]
+    ]
+  },
+  {
+    "sn": 211401,
+    "name": "刺剑",
+    "quality": 2,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "seiji-3-01.png",
+    "evolveName": "wuqi-guaidaoming-comte.png",
+    "namePic": "",
+    "model": 211401,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 12,
+    "property": [
+      261,
+      243
+    ],
+    "initialPropertyValue": [
+      15.85,
+      0.0141
+    ],
+    "initialUpPropertyValue": [
+      1.6,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        21.14,
+        0.0254
+      ],
+      [
+        21.14,
+        0.0254
+      ],
+      [
+        21.14,
+        0.0254
+      ],
+      [
+        21.14,
+        0.0254
+      ],
+      [
+        21.14,
+        0.0254
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211401,
+      0,
+      0,
+      211401
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51421
+      ],
+      [
+        51421
+      ],
+      [
+        51421
+      ],
+      [
+        51421
+      ],
+      [
+        51421
+      ]
+    ]
+  },
+  {
+    "sn": 211402,
+    "name": "古典迅捷剑",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "seiji-3-01.png",
+    "evolveName": "wuqi-guaidaoming-comte.png",
+    "namePic": "",
+    "model": 211402,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 12,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      19.82,
+      0.0144
+    ],
+    "initialUpPropertyValue": [
+      2,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211402,
+      0,
+      0,
+      211402
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51431
+      ],
+      [
+        51431
+      ],
+      [
+        51431
+      ],
+      [
+        51431
+      ],
+      [
+        51431
+      ]
+    ]
+  },
+  {
+    "sn": 211403,
+    "name": "授勋之剑",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "seiji-4-01.png",
+    "evolveName": "wuqi-guaidaoming-comte.png",
+    "namePic": "",
+    "model": 211403,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 12,
+    "property": [
+      261,
+      281
+    ],
+    "initialPropertyValue": [
+      27.74,
+      0.0121
+    ],
+    "initialUpPropertyValue": [
+      2.81,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        36.99,
+        0.0218
+      ],
+      [
+        36.99,
+        0.0218
+      ],
+      [
+        36.99,
+        0.0218
+      ],
+      [
+        36.99,
+        0.0218
+      ],
+      [
+        36.99,
+        0.0218
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211403,
+      0,
+      0,
+      211403
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51441
+      ],
+      [
+        51441
+      ],
+      [
+        51441
+      ],
+      [
+        51441
+      ],
+      [
+        51441
+      ]
+    ]
+  },
+  {
+    "sn": 211404,
+    "name": "启明之星",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "seiji-5-01.png",
+    "evolveName": "wuqi-guaidaoming-comte.png",
+    "namePic": "",
+    "model": 211404,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 12,
+    "property": [
+      261,
+      411
+    ],
+    "initialPropertyValue": [
+      39.63,
+      0.0126
+    ],
+    "initialUpPropertyValue": [
+      4.01,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        52.84,
+        0.0226
+      ],
+      [
+        52.84,
+        0.0226
+      ],
+      [
+        52.84,
+        0.0226
+      ],
+      [
+        52.84,
+        0.0226
+      ],
+      [
+        52.84,
+        0.0226
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211404,
+      0,
+      0,
+      211404
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51451,
+        51452,
+        51453
+      ],
+      [
+        51451,
+        51452,
+        51453
+      ],
+      [
+        51451,
+        51452,
+        51453
+      ],
+      [
+        51451,
+        51452,
+        51453
+      ],
+      [
+        51451,
+        51452,
+        51453
+      ]
+    ]
+  },
+  {
+    "sn": 211501,
+    "name": "仿制光剑",
+    "quality": 2,
+    "developPic": "wuqi-lihui-guangjian-02.png",
+    "gachaPic": "crow-2-01.png",
+    "evolveName": "wuqi-guaidaoming-crow.png",
+    "namePic": "",
+    "model": 211501,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 8,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      15.38,
+      0.0283
+    ],
+    "initialUpPropertyValue": [
+      1.55,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        20.5,
+        0.0509
+      ],
+      [
+        20.5,
+        0.0509
+      ],
+      [
+        20.5,
+        0.0509
+      ],
+      [
+        20.5,
+        0.0509
+      ],
+      [
+        20.5,
+        0.0509
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211501,
+      0,
+      0,
+      211501
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51521
+      ],
+      [
+        51521
+      ],
+      [
+        51521
+      ],
+      [
+        51521
+      ],
+      [
+        51521
+      ]
+    ]
+  },
+  {
+    "sn": 211502,
+    "name": "祈光剑",
+    "quality": 3,
+    "developPic": "wuqi-lihui-guangjian-01.png",
+    "gachaPic": "crow-3-01.png",
+    "evolveName": "wuqi-guaidaoming-crow.png",
+    "namePic": "",
+    "model": 211502,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 8,
+    "property": [
+      261,
+      243
+    ],
+    "initialPropertyValue": [
+      19.22,
+      0.0177
+    ],
+    "initialUpPropertyValue": [
+      1.94,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        25.63,
+        0.0318
+      ],
+      [
+        25.63,
+        0.0318
+      ],
+      [
+        25.63,
+        0.0318
+      ],
+      [
+        25.63,
+        0.0318
+      ],
+      [
+        25.63,
+        0.0318
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211502,
+      0,
+      0,
+      211502
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51531
+      ],
+      [
+        51531
+      ],
+      [
+        51531
+      ],
+      [
+        51531
+      ],
+      [
+        51531
+      ]
+    ]
+  },
+  {
+    "sn": 211503,
+    "name": "青沼光剑",
+    "quality": 4,
+    "developPic": "wuqi-lihui-guangjian-03.png",
+    "gachaPic": "crow-4-01.png",
+    "evolveName": "wuqi-guaidaoming-crow.png",
+    "namePic": "",
+    "model": 211503,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 8,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      26.91,
+      0.0202
+    ],
+    "initialUpPropertyValue": [
+      2.72,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        35.88,
+        0.0363
+      ],
+      [
+        35.88,
+        0.0363
+      ],
+      [
+        35.88,
+        0.0363
+      ],
+      [
+        35.88,
+        0.0363
+      ],
+      [
+        35.88,
+        0.0363
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211503,
+      0,
+      0,
+      211503
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51541
+      ],
+      [
+        51541
+      ],
+      [
+        51541
+      ],
+      [
+        51541
+      ],
+      [
+        51541
+      ]
+    ]
+  },
+  {
+    "sn": 211504,
+    "name": "天炽神心",
+    "quality": 5,
+    "developPic": "wuqi-lihui-guangjian-03.png",
+    "gachaPic": "crow-5-01.png",
+    "evolveName": "wuqi-guaidaoming-crow.png",
+    "namePic": "",
+    "model": 211504,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 8,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      38.44,
+      0.0288
+    ],
+    "initialUpPropertyValue": [
+      3.89,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        51.26,
+        0.0519
+      ],
+      [
+        51.26,
+        0.0519
+      ],
+      [
+        51.26,
+        0.0519
+      ],
+      [
+        51.26,
+        0.0519
+      ],
+      [
+        51.26,
+        0.0519
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211504,
+      0,
+      0,
+      211504
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51551,
+        51552,
+        51553
+      ],
+      [
+        51551,
+        51552,
+        51553
+      ],
+      [
+        51551,
+        51552,
+        51553
+      ],
+      [
+        51551,
+        51552,
+        51553
+      ],
+      [
+        51551,
+        51552,
+        51553
+      ]
+    ]
+  },
+  {
+    "sn": 211601,
+    "name": "斩铜刀",
+    "quality": 2,
+    "developPic": "wuqi-lihui-taidao-01.png",
+    "gachaPic": "fox-2-01.png",
+    "evolveName": "wuqi-guaidaoming-fox.png",
+    "namePic": "",
+    "model": 211601,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 5,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      13.95,
+      0.0283
+    ],
+    "initialUpPropertyValue": [
+      1.4,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        18.6,
+        0.0509
+      ],
+      [
+        18.6,
+        0.0509
+      ],
+      [
+        18.6,
+        0.0509
+      ],
+      [
+        18.6,
+        0.0509
+      ],
+      [
+        18.6,
+        0.0509
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211601,
+      0,
+      0,
+      211601
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51621
+      ],
+      [
+        51621
+      ],
+      [
+        51621
+      ],
+      [
+        51621
+      ],
+      [
+        51621
+      ]
+    ]
+  },
+  {
+    "sn": 211602,
+    "name": "制式刀",
+    "quality": 3,
+    "developPic": "wuqi-lihui-taidao-02.png",
+    "gachaPic": "fox-3-01.png",
+    "evolveName": "wuqi-guaidaoming-fox.png",
+    "namePic": "",
+    "model": 211602,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 5,
+    "property": [
+      261,
+      411
+    ],
+    "initialPropertyValue": [
+      17.44,
+      0.0063
+    ],
+    "initialUpPropertyValue": [
+      1.74,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        23.25,
+        0.0113
+      ],
+      [
+        23.25,
+        0.0113
+      ],
+      [
+        23.25,
+        0.0113
+      ],
+      [
+        23.25,
+        0.0113
+      ],
+      [
+        23.25,
+        0.0113
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211602,
+      0,
+      0,
+      211602
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51631
+      ],
+      [
+        51631
+      ],
+      [
+        51631
+      ],
+      [
+        51631
+      ],
+      [
+        51631
+      ]
+    ]
+  },
+  {
+    "sn": 211603,
+    "name": "居合刀",
+    "quality": 4,
+    "developPic": "wuqi-lihui-taidao-03.png",
+    "gachaPic": "fox-4-01.png",
+    "evolveName": "wuqi-guaidaoming-fox.png",
+    "namePic": "",
+    "model": 211603,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 5,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      24.41,
+      0.0495
+    ],
+    "initialUpPropertyValue": [
+      2.44,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        32.55,
+        0.089
+      ],
+      [
+        32.55,
+        0.089
+      ],
+      [
+        32.55,
+        0.089
+      ],
+      [
+        32.55,
+        0.089
+      ],
+      [
+        32.55,
+        0.089
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211603,
+      0,
+      0,
+      211603
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51641
+      ],
+      [
+        51641
+      ],
+      [
+        51641
+      ],
+      [
+        51641
+      ],
+      [
+        51641
+      ]
+    ]
+  },
+  {
+    "sn": 211604,
+    "name": "金纹影切",
+    "quality": 5,
+    "developPic": "wuqi-lihui-taidao-03.png",
+    "gachaPic": "fox-5-01.png",
+    "evolveName": "wuqi-guaidaoming-fox.png",
+    "namePic": "",
+    "model": 211604,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 5,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      34.88,
+      0.0707
+    ],
+    "initialUpPropertyValue": [
+      3.49,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        46.5,
+        0.1272
+      ],
+      [
+        46.5,
+        0.1272
+      ],
+      [
+        46.5,
+        0.1272
+      ],
+      [
+        46.5,
+        0.1272
+      ],
+      [
+        46.5,
+        0.1272
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211604,
+      0,
+      0,
+      211604
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51651,
+        51652,
+        51653
+      ],
+      [
+        51651,
+        51652,
+        51653
+      ],
+      [
+        51651,
+        51652,
+        51653
+      ],
+      [
+        51651,
+        51652,
+        51653
+      ],
+      [
+        51651,
+        51652,
+        51653
+      ]
+    ]
+  },
+  {
+    "sn": 211701,
+    "name": "笔记型电脑",
+    "quality": 2,
+    "developPic": "wuqi-lihui-liuxingchui-03.png",
+    "gachaPic": "navi-2-01-02.png",
+    "evolveName": "wuqi-guaidaoming-navi.png",
+    "namePic": "",
+    "model": 211701,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 16,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      15.85,
+      0.0115
+    ],
+    "initialUpPropertyValue": [
+      1.6,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ],
+      [
+        21.14,
+        0.0207
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211701,
+      0,
+      0,
+      211701
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51721
+      ],
+      [
+        51721
+      ],
+      [
+        51721
+      ],
+      [
+        51721
+      ],
+      [
+        51721
+      ]
+    ]
+  },
+  {
+    "sn": 211702,
+    "name": "IDS监视电脑",
+    "quality": 3,
+    "developPic": "wuqi-lihui-liuxingchui-03.png",
+    "gachaPic": "navi-3-01.png",
+    "evolveName": "wuqi-guaidaoming-navi.png",
+    "namePic": "",
+    "model": 211702,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 16,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      19.82,
+      0.0144
+    ],
+    "initialUpPropertyValue": [
+      2,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ],
+      [
+        26.42,
+        0.0259
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211702,
+      0,
+      0,
+      211702
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51731
+      ],
+      [
+        51731
+      ],
+      [
+        51731
+      ],
+      [
+        51731
+      ],
+      [
+        51731
+      ]
+    ]
+  },
+  {
+    "sn": 211703,
+    "name": "C型号便携式",
+    "quality": 4,
+    "developPic": "wuqi-lihui-liuxingchui-03.png",
+    "gachaPic": "navi-4-01.png",
+    "evolveName": "wuqi-guaidaoming-navi.png",
+    "namePic": "",
+    "model": 211703,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 16,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      27.74,
+      0.0202
+    ],
+    "initialUpPropertyValue": [
+      2.81,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        36.99,
+        0.0363
+      ],
+      [
+        36.99,
+        0.0363
+      ],
+      [
+        36.99,
+        0.0363
+      ],
+      [
+        36.99,
+        0.0363
+      ],
+      [
+        36.99,
+        0.0363
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211703,
+      0,
+      0,
+      211703
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51741,
+        51742
+      ],
+      [
+        51741,
+        51742
+      ],
+      [
+        51741,
+        51742
+      ],
+      [
+        51741,
+        51742
+      ],
+      [
+        51741,
+        51742
+      ]
+    ]
+  },
+  {
+    "sn": 211704,
+    "name": "HACK专业型",
+    "quality": 5,
+    "developPic": "wuqi-lihui-liuxingchui-03.png",
+    "gachaPic": "navi-5-01.png",
+    "evolveName": "wuqi-guaidaoming-navi.png",
+    "namePic": "",
+    "model": 211704,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 16,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      39.63,
+      0.0288
+    ],
+    "initialUpPropertyValue": [
+      4.01,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        52.84,
+        0.0519
+      ],
+      [
+        52.84,
+        0.0519
+      ],
+      [
+        52.84,
+        0.0519
+      ],
+      [
+        52.84,
+        0.0519
+      ],
+      [
+        52.84,
+        0.0519
+      ]
+    ],
+    "breachItem": [
+      [
+        302601,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302602,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ],
+      [
+        302603,
+        302802
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211704,
+      0,
+      0,
+      211704
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51751,
+        51752
+      ],
+      [
+        51751,
+        51752
+      ],
+      [
+        51751,
+        51752
+      ],
+      [
+        51751,
+        51752
+      ],
+      [
+        51751,
+        51752
+      ]
+    ]
+  },
+  {
+    "sn": 211901,
+    "name": "炽红鞭",
+    "quality": 2,
+    "developPic": "wuqi-lihui-bian-01.png",
+    "gachaPic": "panther-2-01.png",
+    "evolveName": "wuqi-guaidaoming-panther.png",
+    "namePic": "",
+    "model": 211901,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 4,
+    "property": [
+      261,
+      243
+    ],
+    "initialPropertyValue": [
+      17.12,
+      0.0141
+    ],
+    "initialUpPropertyValue": [
+      1.73,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        22.83,
+        0.0254
+      ],
+      [
+        22.83,
+        0.0254
+      ],
+      [
+        22.83,
+        0.0254
+      ],
+      [
+        22.83,
+        0.0254
+      ],
+      [
+        22.83,
+        0.0254
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302801
+      ],
+      [
+        302612,
+        302801
+      ],
+      [
+        302612,
+        302801
+      ],
+      [
+        302613,
+        302801
+      ],
+      [
+        302613,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211901,
+      0,
+      0,
+      211901
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51921
+      ],
+      [
+        51922
+      ],
+      [
+        51923
+      ],
+      [
+        51924
+      ],
+      [
+        51925
+      ]
+    ]
+  },
+  {
+    "sn": 211902,
+    "name": "分铜锁",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bian-02.png",
+    "gachaPic": "panther-3-01.png",
+    "evolveName": "wuqi-guaidaoming-panther.png",
+    "namePic": "",
+    "model": 211902,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 4,
+    "property": [
+      261,
+      301
+    ],
+    "initialPropertyValue": [
+      21.4,
+      0.0105
+    ],
+    "initialUpPropertyValue": [
+      2.16,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        28.53,
+        0.0189
+      ],
+      [
+        28.53,
+        0.0189
+      ],
+      [
+        28.53,
+        0.0189
+      ],
+      [
+        28.53,
+        0.0189
+      ],
+      [
+        28.53,
+        0.0189
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302801
+      ],
+      [
+        302612,
+        302801
+      ],
+      [
+        302612,
+        302801
+      ],
+      [
+        302613,
+        302801
+      ],
+      [
+        302613,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211902,
+      0,
+      0,
+      211902
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51931
+      ],
+      [
+        51932
+      ],
+      [
+        51933
+      ],
+      [
+        51934
+      ],
+      [
+        51935
+      ]
+    ]
+  },
+  {
+    "sn": 211903,
+    "name": "幻象鞭",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bian-03.png",
+    "gachaPic": "panther-4-01.png",
+    "evolveName": "wuqi-guaidaoming-panther.png",
+    "namePic": "",
+    "model": 211903,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 4,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      29.96,
+      0.0202
+    ],
+    "initialUpPropertyValue": [
+      3.03,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        39.95,
+        0.0363
+      ],
+      [
+        39.95,
+        0.0363
+      ],
+      [
+        39.95,
+        0.0363
+      ],
+      [
+        39.95,
+        0.0363
+      ],
+      [
+        39.95,
+        0.0363
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302801
+      ],
+      [
+        302612,
+        302801
+      ],
+      [
+        302612,
+        302801
+      ],
+      [
+        302613,
+        302801
+      ],
+      [
+        302613,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211903,
+      0,
+      0,
+      211903
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51941
+      ],
+      [
+        51942
+      ],
+      [
+        51943
+      ],
+      [
+        51944
+      ],
+      [
+        51945
+      ]
+    ]
+  },
+  {
+    "sn": 211904,
+    "name": "玫瑰之棘",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bian-03.png",
+    "gachaPic": "panther-5-01.png",
+    "evolveName": "wuqi-guaidaoming-panther.png",
+    "namePic": "",
+    "model": 211904,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 4,
+    "property": [
+      261,
+      411
+    ],
+    "initialPropertyValue": [
+      42.8,
+      0.0126
+    ],
+    "initialUpPropertyValue": [
+      4.33,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        57.07,
+        0.0226
+      ],
+      [
+        57.07,
+        0.0226
+      ],
+      [
+        57.07,
+        0.0226
+      ],
+      [
+        57.07,
+        0.0226
+      ],
+      [
+        57.07,
+        0.0226
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302801
+      ],
+      [
+        302612,
+        302801
+      ],
+      [
+        302612,
+        302801
+      ],
+      [
+        302613,
+        302801
+      ],
+      [
+        302613,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      211904,
+      0,
+      0,
+      211904
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        51951,
+        51950
+      ],
+      [
+        51952,
+        51950
+      ],
+      [
+        51953,
+        51950
+      ],
+      [
+        51954,
+        51950
+      ],
+      [
+        51955,
+        51950
+      ]
+    ]
+  },
+  {
+    "sn": 212001,
+    "name": "三角拳套",
+    "quality": 2,
+    "developPic": "wuqi-lihui-zhitao-01.png",
+    "gachaPic": "queen-2-01.png",
+    "evolveName": "wuqi-guaidaoming-queen.png",
+    "namePic": "",
+    "model": 212001,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 6,
+    "property": [
+      261,
+      243
+    ],
+    "initialPropertyValue": [
+      16.17,
+      0.0141
+    ],
+    "initialUpPropertyValue": [
+      1.64,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        21.56,
+        0.0254
+      ],
+      [
+        21.56,
+        0.0254
+      ],
+      [
+        21.56,
+        0.0254
+      ],
+      [
+        21.56,
+        0.0254
+      ],
+      [
+        21.56,
+        0.0254
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302803
+      ],
+      [
+        302622,
+        302803
+      ],
+      [
+        302622,
+        302803
+      ],
+      [
+        302623,
+        302803
+      ],
+      [
+        302623,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212001,
+      0,
+      0,
+      212001
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52021
+      ],
+      [
+        52021
+      ],
+      [
+        52021
+      ],
+      [
+        52021
+      ],
+      [
+        52021
+      ]
+    ]
+  },
+  {
+    "sn": 212002,
+    "name": "重击拳套",
+    "quality": 3,
+    "developPic": "wuqi-lihui-zhitao-02.png",
+    "gachaPic": "queen-3-01.png",
+    "evolveName": "wuqi-guaidaoming-queen.png",
+    "namePic": "",
+    "model": 212002,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 6,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      20.21,
+      0.0353
+    ],
+    "initialUpPropertyValue": [
+      2.04,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        26.95,
+        0.0636
+      ],
+      [
+        26.95,
+        0.0636
+      ],
+      [
+        26.95,
+        0.0636
+      ],
+      [
+        26.95,
+        0.0636
+      ],
+      [
+        26.95,
+        0.0636
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302803
+      ],
+      [
+        302622,
+        302803
+      ],
+      [
+        302622,
+        302803
+      ],
+      [
+        302623,
+        302803
+      ],
+      [
+        302623,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212002,
+      0,
+      0,
+      212002
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52031
+      ],
+      [
+        52031
+      ],
+      [
+        52031
+      ],
+      [
+        52031
+      ],
+      [
+        52031
+      ]
+    ]
+  },
+  {
+    "sn": 212003,
+    "name": "马赫拳套",
+    "quality": 4,
+    "developPic": "wuqi-lihui-zhitao-03.png",
+    "gachaPic": "queen-4-01.png",
+    "evolveName": "wuqi-guaidaoming-queen.png",
+    "namePic": "",
+    "model": 212003,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 6,
+    "property": [
+      261,
+      411
+    ],
+    "initialPropertyValue": [
+      28.3,
+      0.0088
+    ],
+    "initialUpPropertyValue": [
+      2.86,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        37.73,
+        0.0159
+      ],
+      [
+        37.73,
+        0.0159
+      ],
+      [
+        37.73,
+        0.0159
+      ],
+      [
+        37.73,
+        0.0159
+      ],
+      [
+        37.73,
+        0.0159
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302803
+      ],
+      [
+        302622,
+        302803
+      ],
+      [
+        302622,
+        302803
+      ],
+      [
+        302623,
+        302803
+      ],
+      [
+        302623,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212003,
+      0,
+      0,
+      212003
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52041
+      ],
+      [
+        52041
+      ],
+      [
+        52041
+      ],
+      [
+        52041
+      ],
+      [
+        52041
+      ]
+    ]
+  },
+  {
+    "sn": 212004,
+    "name": "核热终结",
+    "quality": 5,
+    "developPic": "wuqi-lihui-zhitao-03.png",
+    "gachaPic": "queen-5-01.png",
+    "evolveName": "wuqi-guaidaoming-queen.png",
+    "namePic": "",
+    "model": 212004,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 6,
+    "property": [
+      261,
+      273
+    ],
+    "initialPropertyValue": [
+      40.42,
+      0.0707
+    ],
+    "initialUpPropertyValue": [
+      4.04,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        53.9,
+        0.1272
+      ],
+      [
+        53.9,
+        0.1272
+      ],
+      [
+        53.9,
+        0.1272
+      ],
+      [
+        53.9,
+        0.1272
+      ],
+      [
+        53.9,
+        0.1272
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302803
+      ],
+      [
+        302622,
+        302803
+      ],
+      [
+        302622,
+        302803
+      ],
+      [
+        302623,
+        302803
+      ],
+      [
+        302623,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212004,
+      0,
+      0,
+      212004
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52051,
+        52052,
+        52053,
+        52054
+      ],
+      [
+        52051,
+        52052,
+        52053,
+        52054
+      ],
+      [
+        52051,
+        52052,
+        52053,
+        52054
+      ],
+      [
+        52051,
+        52052,
+        52053,
+        52054
+      ],
+      [
+        52051,
+        52052,
+        52053,
+        52054
+      ]
+    ]
+  },
+  {
+    "sn": 212101,
+    "name": "骑兵刀",
+    "quality": 2,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "mont-2-01.png",
+    "evolveName": "wuqi-guaidaoming-frost.png",
+    "namePic": "",
+    "model": 212101,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 13,
+    "property": [
+      261,
+      243
+    ],
+    "initialPropertyValue": [
+      16.33,
+      0.0141
+    ],
+    "initialUpPropertyValue": [
+      1.65,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        21.77,
+        0.0254
+      ],
+      [
+        21.77,
+        0.0254
+      ],
+      [
+        21.77,
+        0.0254
+      ],
+      [
+        21.77,
+        0.0254
+      ],
+      [
+        21.77,
+        0.0254
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212101,
+      0,
+      0,
+      212101
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52121
+      ],
+      [
+        52121
+      ],
+      [
+        52121
+      ],
+      [
+        52121
+      ],
+      [
+        52121
+      ]
+    ]
+  },
+  {
+    "sn": 212102,
+    "name": "皇家军刀",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "mont-3-01.png",
+    "evolveName": "wuqi-guaidaoming-frost.png",
+    "namePic": "",
+    "model": 212102,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 13,
+    "property": [
+      261,
+      301
+    ],
+    "initialPropertyValue": [
+      20.41,
+      0.0105
+    ],
+    "initialUpPropertyValue": [
+      2.06,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        27.21,
+        0.0189
+      ],
+      [
+        27.21,
+        0.0189
+      ],
+      [
+        27.21,
+        0.0189
+      ],
+      [
+        27.21,
+        0.0189
+      ],
+      [
+        27.21,
+        0.0189
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212102,
+      0,
+      0,
+      212102
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52131
+      ],
+      [
+        52131
+      ],
+      [
+        52131
+      ],
+      [
+        52131
+      ],
+      [
+        52131
+      ]
+    ]
+  },
+  {
+    "sn": 212103,
+    "name": "守誓刀",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "mont-4-01.png",
+    "evolveName": "wuqi-guaidaoming-frost.png",
+    "namePic": "",
+    "model": 212103,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 13,
+    "property": [
+      261,
+      411
+    ],
+    "initialPropertyValue": [
+      28.57,
+      0.0088
+    ],
+    "initialUpPropertyValue": [
+      2.89,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        38.1,
+        0.0159
+      ],
+      [
+        38.1,
+        0.0159
+      ],
+      [
+        38.1,
+        0.0159
+      ],
+      [
+        38.1,
+        0.0159
+      ],
+      [
+        38.1,
+        0.0159
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212103,
+      0,
+      0,
+      212103
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52141
+      ],
+      [
+        52141
+      ],
+      [
+        52141
+      ],
+      [
+        52141
+      ],
+      [
+        52141
+      ]
+    ]
+  },
+  {
+    "sn": 212104,
+    "name": "凛冬女王",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "mont-5-01.png",
+    "evolveName": "wuqi-guaidaoming-frost.png",
+    "namePic": "",
+    "model": 212104,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 13,
+    "property": [
+      261,
+      291
+    ],
+    "initialPropertyValue": [
+      40.82,
+      0.0346
+    ],
+    "initialUpPropertyValue": [
+      4.13,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        54.43,
+        0.0623
+      ],
+      [
+        54.43,
+        0.0623
+      ],
+      [
+        54.43,
+        0.0623
+      ],
+      [
+        54.43,
+        0.0623
+      ],
+      [
+        54.43,
+        0.0623
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212104,
+      0,
+      0,
+      212104
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52151,
+        52152
+      ],
+      [
+        52151,
+        52152
+      ],
+      [
+        52151,
+        52152
+      ],
+      [
+        52151,
+        52152
+      ],
+      [
+        52151,
+        52152
+      ]
+    ]
+  },
+  {
+    "sn": 212501,
+    "name": "战斧",
+    "quality": 2,
+    "developPic": "wuqi-lihui-fuzi-02.png",
+    "gachaPic": "noir-2-01.png",
+    "evolveName": "wuqi-guaidaoming-noir.png",
+    "namePic": "",
+    "model": 212501,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 7,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      15.06,
+      0.0115
+    ],
+    "initialUpPropertyValue": [
+      1.52,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        20.08,
+        0.0207
+      ],
+      [
+        20.08,
+        0.0207
+      ],
+      [
+        20.08,
+        0.0207
+      ],
+      [
+        20.08,
+        0.0207
+      ],
+      [
+        20.08,
+        0.0207
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212501,
+      0,
+      0,
+      212501
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52521
+      ],
+      [
+        52522
+      ],
+      [
+        52523
+      ],
+      [
+        52524
+      ],
+      [
+        52525
+      ]
+    ]
+  },
+  {
+    "sn": 212502,
+    "name": "半月斧",
+    "quality": 3,
+    "developPic": "wuqi-lihui-fuzi-03.png",
+    "gachaPic": "noir-3-01.png",
+    "evolveName": "wuqi-guaidaoming-noir.png",
+    "namePic": "",
+    "model": 212502,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 7,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      18.82,
+      0.0144
+    ],
+    "initialUpPropertyValue": [
+      1.9,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        25.1,
+        0.0259
+      ],
+      [
+        25.1,
+        0.0259
+      ],
+      [
+        25.1,
+        0.0259
+      ],
+      [
+        25.1,
+        0.0259
+      ],
+      [
+        25.1,
+        0.0259
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212502,
+      0,
+      0,
+      212502
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52531
+      ],
+      [
+        52532
+      ],
+      [
+        52533
+      ],
+      [
+        52534
+      ],
+      [
+        52535
+      ]
+    ]
+  },
+  {
+    "sn": 212503,
+    "name": "基加美修战斧",
+    "quality": 4,
+    "developPic": "wuqi-lihui-fuzi-01.png",
+    "gachaPic": "noir-4-01.png",
+    "evolveName": "wuqi-guaidaoming-noir.png",
+    "namePic": "",
+    "model": 212503,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 7,
+    "property": [
+      261,
+      301
+    ],
+    "initialPropertyValue": [
+      26.35,
+      0.0147
+    ],
+    "initialUpPropertyValue": [
+      2.67,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        35.14,
+        0.0264
+      ],
+      [
+        35.14,
+        0.0264
+      ],
+      [
+        35.14,
+        0.0264
+      ],
+      [
+        35.14,
+        0.0264
+      ],
+      [
+        35.14,
+        0.0264
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212503,
+      0,
+      0,
+      212503
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52541
+      ],
+      [
+        52542
+      ],
+      [
+        52543
+      ],
+      [
+        52544
+      ],
+      [
+        52545
+      ]
+    ]
+  },
+  {
+    "sn": 212504,
+    "name": "神圣战歌",
+    "quality": 5,
+    "developPic": "wuqi-lihui-fuzi-01.png",
+    "gachaPic": "noir-5-01.png",
+    "evolveName": "wuqi-guaidaoming-noir.png",
+    "namePic": "",
+    "model": 212504,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 7,
+    "property": [
+      261,
+      301
+    ],
+    "initialPropertyValue": [
+      37.65,
+      0.021
+    ],
+    "initialUpPropertyValue": [
+      3.81,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        50.2,
+        0.0377
+      ],
+      [
+        50.2,
+        0.0377
+      ],
+      [
+        50.2,
+        0.0377
+      ],
+      [
+        50.2,
+        0.0377
+      ],
+      [
+        50.2,
+        0.0377
+      ]
+    ],
+    "breachItem": [
+      [
+        302621,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302622,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ],
+      [
+        302623,
+        302801
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212504,
+      0,
+      0,
+      212504
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52551,
+        52550
+      ],
+      [
+        52552,
+        52550
+      ],
+      [
+        52553,
+        52550
+      ],
+      [
+        52554,
+        52550
+      ],
+      [
+        52555,
+        52550
+      ]
+    ]
+  },
+  {
+    "sn": 212601,
+    "name": "冰封匕首",
+    "quality": 2,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "joker-2-01.png",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 212601,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 17,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      15.22,
+      0.0115
+    ],
+    "initialUpPropertyValue": [
+      1.54,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        20.29,
+        0.0207
+      ],
+      [
+        20.29,
+        0.0207
+      ],
+      [
+        20.29,
+        0.0207
+      ],
+      [
+        20.29,
+        0.0207
+      ],
+      [
+        20.29,
+        0.0207
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212601,
+      0,
+      0,
+      212601
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52621
+      ],
+      [
+        52621
+      ],
+      [
+        52621
+      ],
+      [
+        52621
+      ],
+      [
+        52621
+      ]
+    ]
+  },
+  {
+    "sn": 212602,
+    "name": "仪式小刀",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-03.png",
+    "gachaPic": "joker-3-01.png",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 212602,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 17,
+    "property": [
+      261,
+      263
+    ],
+    "initialPropertyValue": [
+      19.02,
+      0.0144
+    ],
+    "initialUpPropertyValue": [
+      1.92,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        25.36,
+        0.0259
+      ],
+      [
+        25.36,
+        0.0259
+      ],
+      [
+        25.36,
+        0.0259
+      ],
+      [
+        25.36,
+        0.0259
+      ],
+      [
+        25.36,
+        0.0259
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212602,
+      0,
+      0,
+      212602
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52631
+      ],
+      [
+        52631
+      ],
+      [
+        52631
+      ],
+      [
+        52631
+      ],
+      [
+        52631
+      ]
+    ]
+  },
+  {
+    "sn": 212603,
+    "name": "开山刀",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "joker-4-01.png",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 212603,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 17,
+    "property": [
+      261,
+      281
+    ],
+    "initialPropertyValue": [
+      26.63,
+      0.0121
+    ],
+    "initialUpPropertyValue": [
+      2.69,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        35.51,
+        0.0218
+      ],
+      [
+        35.51,
+        0.0218
+      ],
+      [
+        35.51,
+        0.0218
+      ],
+      [
+        35.51,
+        0.0218
+      ],
+      [
+        35.51,
+        0.0218
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212603,
+      0,
+      0,
+      212603
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52641
+      ],
+      [
+        52641
+      ],
+      [
+        52641
+      ],
+      [
+        52641
+      ],
+      [
+        52641
+      ]
+    ]
+  },
+  {
+    "sn": 212604,
+    "name": "不死鸟",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "joker-5-01.png",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 212604,
+    "weaponmodelUI": "",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [],
+    "weaponmodelPosition": [],
+    "typeSN": 17,
+    "property": [
+      261,
+      411
+    ],
+    "initialPropertyValue": [
+      38.05,
+      0.0126
+    ],
+    "initialUpPropertyValue": [
+      3.85,
+      0
+    ],
+    "BreachPropertyValue": [
+      [
+        50.73,
+        0.0226
+      ],
+      [
+        50.73,
+        0.0226
+      ],
+      [
+        50.73,
+        0.0226
+      ],
+      [
+        50.73,
+        0.0226
+      ],
+      [
+        50.73,
+        0.0226
+      ]
+    ],
+    "breachItem": [
+      [
+        302611,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302612,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ],
+      [
+        302613,
+        302803
+      ]
+    ],
+    "breachItemCount": [
+      [
+        8,
+        2
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        16,
+        5
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        16,
+        10
+      ]
+    ],
+    "reformMaterial": [
+      212604,
+      0,
+      0,
+      212604
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "skill": [
+      [
+        52651,
+        52650,
+        52652
+      ],
+      [
+        52651,
+        52650,
+        52652
+      ],
+      [
+        52651,
+        52650,
+        52652
+      ],
+      [
+        52651,
+        52650,
+        52652
+      ],
+      [
+        52651,
+        52650,
+        52652
+      ]
+    ]
+  }
+]

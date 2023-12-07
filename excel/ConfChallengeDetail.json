@@ -1,0 +1,406 @@
+[
+  {
+    "sn": 101,
+    "frontChallenge": 0,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡1",
+    "buffName": "冰",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      6,
+      7
+    ],
+    "battleSn": 1,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 102,
+    "frontChallenge": 101,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡2",
+    "buffName": "火",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      4,
+      5
+    ],
+    "battleSn": 2,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 103,
+    "frontChallenge": 102,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡3",
+    "buffName": "雷",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      2,
+      6,
+      8
+    ],
+    "battleSn": 3,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 104,
+    "frontChallenge": 103,
+    "type": 2,
+    "difficultNum": 2,
+    "challengeName": "关卡4",
+    "buffName": "风",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      2,
+      9
+    ],
+    "battleSn": 4,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 201,
+    "frontChallenge": 0,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡1",
+    "buffName": "冰",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      4
+    ],
+    "battleSn": 1,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 202,
+    "frontChallenge": 201,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡2",
+    "buffName": "火",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      4,
+      5,
+      7
+    ],
+    "battleSn": 2,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 203,
+    "frontChallenge": 202,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡3",
+    "buffName": "雷",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      6,
+      7
+    ],
+    "battleSn": 3,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 204,
+    "frontChallenge": 203,
+    "type": 2,
+    "difficultNum": 3,
+    "challengeName": "关卡4",
+    "buffName": "风",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      4,
+      5
+    ],
+    "battleSn": 4,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 301,
+    "frontChallenge": 0,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡1",
+    "buffName": "冰",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      2,
+      6,
+      8
+    ],
+    "battleSn": 1,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 302,
+    "frontChallenge": 301,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡2",
+    "buffName": "火",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      2,
+      9
+    ],
+    "battleSn": 2,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 303,
+    "frontChallenge": 302,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡3",
+    "buffName": "雷",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      4
+    ],
+    "battleSn": 3,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 304,
+    "frontChallenge": 303,
+    "type": 2,
+    "difficultNum": 5,
+    "challengeName": "关卡4",
+    "buffName": "风",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      4,
+      5,
+      7
+    ],
+    "battleSn": 4,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 401,
+    "frontChallenge": 0,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡1",
+    "buffName": "冰",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      6,
+      7
+    ],
+    "battleSn": 1,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 402,
+    "frontChallenge": 401,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡2",
+    "buffName": "火",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      4,
+      5
+    ],
+    "battleSn": 2,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 403,
+    "frontChallenge": 402,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡3",
+    "buffName": "雷",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      2,
+      6,
+      8
+    ],
+    "battleSn": 3,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 404,
+    "frontChallenge": 403,
+    "type": 2,
+    "difficultNum": 7,
+    "challengeName": "关卡4",
+    "buffName": "风",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      2,
+      9
+    ],
+    "battleSn": 4,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 501,
+    "frontChallenge": 0,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡1",
+    "buffName": "冰",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      4
+    ],
+    "battleSn": 1,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 502,
+    "frontChallenge": 501,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡2",
+    "buffName": "火",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      4,
+      5,
+      7
+    ],
+    "battleSn": 2,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 503,
+    "frontChallenge": 502,
+    "type": 1,
+    "difficultNum": 0,
+    "challengeName": "关卡3",
+    "buffName": "雷",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      4,
+      5
+    ],
+    "battleSn": 3,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  },
+  {
+    "sn": 504,
+    "frontChallenge": 503,
+    "type": 2,
+    "difficultNum": 9,
+    "challengeName": "关卡4",
+    "buffName": "风",
+    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
+    "buffSn": [],
+    "sceneSn": 18001,
+    "recomRes": [
+      2,
+      6,
+      8
+    ],
+    "battleSn": 4,
+    "guide": [
+      "COMBAT_1",
+      "COMBAT_2"
+    ]
+  }
+]

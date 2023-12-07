@@ -1,0 +1,910 @@
+[
+  {
+    "sn": 11,
+    "switch": 1,
+    "priority": 0,
+    "steps": 111,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "301"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 12,
+    "switch": 1,
+    "priority": 0,
+    "steps": 121,
+    "key": 0,
+    "trigger": [
+      3,
+      9,
+      10
+    ],
+    "triggerValue": [
+      "11",
+      "268001",
+      "UI_NpcInteractiveView"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 14,
+    "switch": 1,
+    "priority": 0,
+    "steps": 141,
+    "key": 0,
+    "trigger": [
+      4,
+      18
+    ],
+    "triggerValue": [
+      "10061",
+      "1"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 15,
+    "switch": 1,
+    "priority": 0,
+    "steps": 151,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "201"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 16,
+    "switch": 1,
+    "priority": 0,
+    "steps": 161,
+    "key": 0,
+    "trigger": [
+      4
+    ],
+    "triggerValue": [
+      "11110"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 21,
+    "switch": 1,
+    "priority": 0,
+    "steps": 211,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "101"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 22,
+    "switch": 1,
+    "priority": 0,
+    "steps": 221,
+    "key": 0,
+    "trigger": [
+      6,
+      19
+    ],
+    "triggerValue": [
+      "20001",
+      "4"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 31,
+    "switch": 1,
+    "priority": 0,
+    "steps": 311,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "102"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 32,
+    "switch": 1,
+    "priority": 0,
+    "steps": 321,
+    "key": 0,
+    "trigger": [
+      3,
+      6,
+      10
+    ],
+    "triggerValue": [
+      "31",
+      "20003",
+      "UI_AttackOneMoreSkill"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 41,
+    "switch": 1,
+    "priority": 0,
+    "steps": 411,
+    "key": 0,
+    "trigger": [
+      6,
+      19
+    ],
+    "triggerValue": [
+      "20004",
+      "2"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 42,
+    "switch": 1,
+    "priority": 0,
+    "steps": 421,
+    "key": 0,
+    "trigger": [
+      6,
+      19
+    ],
+    "triggerValue": [
+      "20004",
+      "5"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 43,
+    "switch": 1,
+    "priority": 0,
+    "steps": 431,
+    "key": 0,
+    "trigger": [
+      6,
+      19
+    ],
+    "triggerValue": [
+      "20004",
+      "8"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 44,
+    "switch": 1,
+    "priority": 0,
+    "steps": 441,
+    "key": 0,
+    "trigger": [
+      6,
+      10
+    ],
+    "triggerValue": [
+      "20004",
+      "UI_AttackOneMoreSkill"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 45,
+    "switch": 1,
+    "priority": 0,
+    "steps": 451,
+    "key": 0,
+    "trigger": [
+      16,
+      6,
+      10
+    ],
+    "triggerValue": [
+      "103",
+      "20004",
+      "UI_AttackOneMoreSkill"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 46,
+    "switch": 1,
+    "priority": 0,
+    "steps": 461,
+    "key": 0,
+    "trigger": [
+      4,
+      10
+    ],
+    "triggerValue": [
+      "10090",
+      "UI_OpenWorldMap"
+    ],
+    "skip": 0
+  },
+  {
+    "sn": 48,
+    "switch": 0,
+    "priority": 0,
+    "steps": 481,
+    "key": 0,
+    "trigger": [
+      6,
+      19,
+      16
+    ],
+    "triggerValue": [
+      "20301",
+      "10",
+      "109"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 49,
+    "switch": 1,
+    "priority": 0,
+    "steps": 491,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "204"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 50,
+    "switch": 1,
+    "priority": 0,
+    "steps": 501,
+    "key": 0,
+    "trigger": [
+      6,
+      19
+    ],
+    "triggerValue": [
+      "20100",
+      "5"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 51,
+    "switch": 1,
+    "priority": 0,
+    "steps": 511,
+    "key": 0,
+    "trigger": [
+      6,
+      19,
+      10
+    ],
+    "triggerValue": [
+      "20100",
+      "5",
+      "UI_AttackOneMoreSkill"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 54,
+    "switch": 1,
+    "priority": 0,
+    "steps": 541,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "110"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 60,
+    "switch": 1,
+    "priority": 0,
+    "steps": 601,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "105"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 61,
+    "switch": 1,
+    "priority": 0,
+    "steps": 611,
+    "key": 0,
+    "trigger": [
+      6,
+      19
+    ],
+    "triggerValue": [
+      "20300",
+      "2"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 62,
+    "switch": 1,
+    "priority": 0,
+    "steps": 621,
+    "key": 0,
+    "trigger": [
+      6,
+      19
+    ],
+    "triggerValue": [
+      "20300",
+      "3"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 63,
+    "switch": 1,
+    "priority": 0,
+    "steps": 631,
+    "key": 0,
+    "trigger": [
+      6,
+      19
+    ],
+    "triggerValue": [
+      "20300",
+      "4"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 64,
+    "switch": 1,
+    "priority": 0,
+    "steps": 641,
+    "key": 0,
+    "trigger": [
+      12
+    ],
+    "triggerValue": [
+      "3710726"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 65,
+    "switch": 1,
+    "priority": 0,
+    "steps": 651,
+    "key": 0,
+    "trigger": [
+      6
+    ],
+    "triggerValue": [
+      "20101"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 66,
+    "switch": 1,
+    "priority": 0,
+    "steps": 661,
+    "key": 0,
+    "trigger": [
+      6,
+      10
+    ],
+    "triggerValue": [
+      "20101",
+      "UI_AttackOneMoreSkill"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 67,
+    "switch": 1,
+    "priority": 0,
+    "steps": 671,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "108"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 111,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1111,
+    "key": 0,
+    "trigger": [
+      2,
+      10
+    ],
+    "triggerValue": [
+      "10250",
+      "UI_Divination"
+    ],
+    "skip": 0
+  },
+  {
+    "sn": 112,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1121,
+    "key": 0,
+    "trigger": [
+      4
+    ],
+    "triggerValue": [
+      "10085"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 113,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1131,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "321"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 114,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1141,
+    "key": 0,
+    "trigger": [
+      4,
+      20,
+      10
+    ],
+    "triggerValue": [
+      "10297",
+      "609",
+      "UI_MainUI"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 115,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1151,
+    "key": 0,
+    "trigger": [
+      4,
+      16
+    ],
+    "triggerValue": [
+      "10301",
+      "205"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 116,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1161,
+    "key": 0,
+    "trigger": [
+      4
+    ],
+    "triggerValue": [
+      "10340"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 117,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1171,
+    "key": 0,
+    "trigger": [
+      4,
+      10
+    ],
+    "triggerValue": [
+      "10456",
+      "UI_Divination"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 118,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1181,
+    "key": 0,
+    "trigger": [
+      4,
+      10
+    ],
+    "triggerValue": [
+      "10260",
+      "UI_MainMenu_Right"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 119,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1191,
+    "key": 0,
+    "trigger": [
+      3,
+      4,
+      10
+    ],
+    "triggerValue": [
+      "163",
+      "10460",
+      "UI_MainMenu_Right"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 141,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1411,
+    "key": 0,
+    "trigger": [
+      4,
+      20,
+      10
+    ],
+    "triggerValue": [
+      "10468",
+      "605",
+      "UI_MainUI"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 142,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1421,
+    "key": 0,
+    "trigger": [
+      16,
+      10
+    ],
+    "triggerValue": [
+      "322",
+      "UI_NewOpenWorldEvent"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 143,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1431,
+    "key": 0,
+    "trigger": [
+      4,
+      10
+    ],
+    "triggerValue": [
+      "10464",
+      "UI_NewOpenWorldEvent"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 144,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1441,
+    "key": 0,
+    "trigger": [
+      4,
+      10
+    ],
+    "triggerValue": [
+      "10470",
+      "UI_NewOpenWorldEvent"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 145,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1451,
+    "key": 0,
+    "trigger": [
+      2
+    ],
+    "triggerValue": [
+      "10630"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 146,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1461,
+    "key": 0,
+    "trigger": [
+      4,
+      10
+    ],
+    "triggerValue": [
+      "10696",
+      "UI_PersonaMainView"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 147,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1471,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "556"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 148,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1481,
+    "key": 0,
+    "trigger": [
+      4,
+      10,
+      16
+    ],
+    "triggerValue": [
+      "10476",
+      "UI_Cook",
+      "323"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 150,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1501,
+    "key": 0,
+    "trigger": [
+      4,
+      16,
+      22
+    ],
+    "triggerValue": [
+      "10479",
+      "324",
+      "1"
+    ],
+    "skip": 0
+  },
+  {
+    "sn": 153,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1531,
+    "key": 0,
+    "trigger": [
+      4,
+      16
+    ],
+    "triggerValue": [
+      "10354",
+      "203"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 155,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1551,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "552"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 156,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1561,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "553"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 157,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1571,
+    "key": 0,
+    "trigger": [
+      4,
+      20,
+      10
+    ],
+    "triggerValue": [
+      "10261",
+      "903",
+      "UI_PalaceUI"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 158,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1581,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "501"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 159,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1591,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "502"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 160,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1601,
+    "key": 0,
+    "trigger": [
+      4,
+      20,
+      10
+    ],
+    "triggerValue": [
+      "10120",
+      "905",
+      "UI_MainUI"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 161,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1611,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "310"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 162,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1621,
+    "key": 0,
+    "trigger": [
+      4,
+      10,
+      20
+    ],
+    "triggerValue": [
+      "10460",
+      "UI_MainUI",
+      "6"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 163,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1631,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "503"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 164,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1641,
+    "key": 0,
+    "trigger": [
+      4,
+      10
+    ],
+    "triggerValue": [
+      "10696",
+      "UI_PersonaMainView"
+    ],
+    "skip": 0
+  },
+  {
+    "sn": 165,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1651,
+    "key": 0,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "557"
+    ],
+    "skip": 1
+  }
+]

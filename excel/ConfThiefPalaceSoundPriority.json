@@ -1,0 +1,106 @@
+[
+  {
+    "sn": "CampaignStart",
+    "priority": 99
+  },
+  {
+    "sn": "Transport",
+    "priority": 80
+  },
+  {
+    "sn": "Destination",
+    "priority": 79
+  },
+  {
+    "sn": "PossibleWay",
+    "priority": 98
+  },
+  {
+    "sn": "LockedDoor",
+    "priority": 96
+  },
+  {
+    "sn": "WrongWay",
+    "priority": 97
+  },
+  {
+    "sn": "MissionComplete",
+    "priority": 105
+  },
+  {
+    "sn": "NearChest",
+    "priority": 90
+  },
+  {
+    "sn": "BadState",
+    "priority": 85
+  },
+  {
+    "sn": "OpeningChest",
+    "priority": 91
+  },
+  {
+    "sn": "OpenedChest",
+    "priority": 92
+  },
+  {
+    "sn": "HideEnemy",
+    "priority": 93
+  },
+  {
+    "sn": "FindSafeHouse",
+    "priority": 100
+  },
+  {
+    "sn": "EnterSafeHouse",
+    "priority": 1
+  },
+  {
+    "sn": "LeavePalace",
+    "priority": 0
+  },
+  {
+    "sn": "CampaignEnd",
+    "priority": 0
+  },
+  {
+    "sn": "Remind",
+    "priority": 85
+  },
+  {
+    "sn": "RemindSafeHouse",
+    "priority": 0
+  },
+  {
+    "sn": "NearTreasure",
+    "priority": 0
+  },
+  {
+    "sn": "ManyEnemy",
+    "priority": 0
+  },
+  {
+    "sn": "FewEnemy",
+    "priority": 0
+  },
+  {
+    "sn": "LockedChest",
+    "priority": 0
+  },
+  {
+    "sn": "Trap",
+    "priority": 0
+  },
+  {
+    "sn": "Mechanism",
+    "priority": 0
+  },
+  {
+    "sn": "thiefGachaSoundOne",
+    "priority": 0
+  },
+  {
+    "sn": "thiefGachaSoundTwo",
+    "priority": 0
+  }
+]

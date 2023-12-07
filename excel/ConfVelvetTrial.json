@@ -1,0 +1,62 @@
+[
+  {
+    "sn": 1,
+    "chapterNameRes": "shilian-wenzi03.png",
+    "chapterNameBgRes": "shilian-wenzi02.png",
+    "chapterImg": "shilian-tu02.png",
+    "chapterNameResResult": "试炼伊始",
+    "openingLv": 1,
+    "levelList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "bubbleString": "你完蛋了吼~|啊哈!|嘻嘻……|赶快互相伤害吼~！",
+    "timeline": "TL_VelvetTrial_Chapter01.prefab"
+  },
+  {
+    "sn": 2,
+    "chapterNameRes": "shilian-wenzi05.png",
+    "chapterNameBgRes": "shilian-wenzi04.png",
+    "chapterImg": "shilian-tu03.png",
+    "chapterNameResResult": "巧匠之作",
+    "openingLv": 30,
+    "levelList": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "bubbleString": "你打算殴打小孩吗~！？|可怕的大人啊—！|当小孩子的对手，真丢人！|诶嘿嘿嘿嘿！|笨~蛋笨~蛋！|嘁~！|我不会饶了你~！|怎么办呢~",
+    "timeline": "TL_VelvetTrial_Chapter02.prefab"
+  },
+  {
+    "sn": 3,
+    "chapterNameRes": "shilian-wenzi07.png",
+    "chapterNameBgRes": "shilian-wenzi06.png",
+    "chapterImg": "shilian-tu04.png",
+    "chapterNameResResult": "连锁打击",
+    "openingLv": 80,
+    "levelList": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "bubbleString": "杀了你HO~|HAW!|Hee……|赶快互相伤害HO~！！",
+    "timeline": "TL_VelvetTrial_Chapter01.prefab"
+  }
+]

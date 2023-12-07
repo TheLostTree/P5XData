@@ -1,0 +1,54 @@
+[
+  {
+    "sn": 1,
+    "title": "开运占卜",
+    "desc": "都市生活的下5次行动中，人格指数获得数量加成。",
+    "owStorySn": 30011,
+    "divinationEffectSn": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "sn": 2,
+    "title": "财运占卜",
+    "desc": "都市生活的下5次行动中，日元获得数量加成。",
+    "owStorySn": 30012,
+    "divinationEffectSn": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "sn": 3,
+    "title": "恋爱占卜",
+    "desc": "都市生活的下5次行动中，好感度获得数量加成。",
+    "owStorySn": 30013,
+    "divinationEffectSn": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "sn": 4,
+    "title": "武运占卜",
+    "desc": "材料副本的奖励提升。",
+    "owStorySn": 30014,
+    "divinationEffectSn": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  }
+]

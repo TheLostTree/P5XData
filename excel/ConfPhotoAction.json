@@ -1,0 +1,123 @@
+[
+  {
+    "sn": 1,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 0,
+    "action": "wonder_uniform@stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 2,
+    "name": "抱胸站立",
+    "pic": "paizhao-dongzuo-07.png",
+    "CharacterSn": 0,
+    "action": "wonder_uniform@paizhao_baoxiongzhanli",
+    "method": 100118,
+    "param": 1,
+    "description": "拥有一个40级怪盗后解锁",
+    "sort": 2
+  },
+  {
+    "sn": 3,
+    "name": "单手插兜",
+    "pic": "paizhao-dongzuo-02.png",
+    "CharacterSn": 0,
+    "action": "wonder_uniform@paizhao_yushe_danshouchadou",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 4,
+    "name": "比耶",
+    "pic": "paizhao-dongzuo-10.png",
+    "CharacterSn": 0,
+    "action": "wonder_uniform@paizhao_yeah",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 101,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 1,
+    "action": "closer_uniform@stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 102,
+    "name": "叉腰",
+    "pic": "paizhao-dongzuo-02.png",
+    "CharacterSn": 1,
+    "action": "closer_uniform@SYhuoban_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 201,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 2,
+    "action": "n_Zhushou@stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 202,
+    "name": "叉腰",
+    "pic": "paizhao-dongzuo-02.png",
+    "CharacterSn": 2,
+    "action": "n_Zhushou@chayao_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 203,
+    "name": "拿书",
+    "pic": "paizhao-dongzuo-03.png",
+    "CharacterSn": 2,
+    "action": "n_Zhushou@MLPhuoban_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 301,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 3,
+    "action": "wind_uniform@stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 302,
+    "name": "抱胸站立",
+    "pic": "paizhao-dongzuo-07.png",
+    "CharacterSn": 3,
+    "action": "wind_uniform@LZhuoban_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  }
+]

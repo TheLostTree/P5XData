@@ -1,0 +1,902 @@
+[
+  {
+    "sn": 101,
+    "title": "作战指令",
+    "level": 0,
+    "type": 2,
+    "sequence": 201,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 10101,
+    "trigger": [
+      6
+    ],
+    "triggerValue": [
+      "20001"
+    ]
+  },
+  {
+    "sn": 102,
+    "title": "弱点与ONE MORE",
+    "level": 0,
+    "type": 2,
+    "sequence": 204,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 10201,
+    "trigger": [
+      6
+    ],
+    "triggerValue": [
+      "20003"
+    ]
+  },
+  {
+    "sn": 103,
+    "title": "HIGHLIGHT",
+    "level": 0,
+    "type": 2,
+    "sequence": 205,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 10301,
+    "trigger": [
+      3,
+      6,
+      19,
+      10
+    ],
+    "triggerValue": [
+      "44",
+      "20004",
+      "9",
+      "UI_AttackOneMoreSkill"
+    ]
+  },
+  {
+    "sn": 104,
+    "title": "队列信息",
+    "level": 0,
+    "type": 2,
+    "sequence": 202,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 10401,
+    "trigger": [
+      6
+    ],
+    "triggerValue": [
+      "20100"
+    ]
+  },
+  {
+    "sn": 105,
+    "title": "由枪发动的攻击",
+    "level": 0,
+    "type": 2,
+    "sequence": 208,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 10501,
+    "trigger": [
+      6
+    ],
+    "triggerValue": [
+      "20300"
+    ]
+  },
+  {
+    "sn": 106,
+    "title": "属性相克的说明",
+    "level": 0,
+    "type": 2,
+    "sequence": 203,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 10601,
+    "trigger": [
+      6,
+      19
+    ],
+    "triggerValue": [
+      "20100",
+      "3"
+    ]
+  },
+  {
+    "sn": 107,
+    "title": "倒地值",
+    "level": 0,
+    "type": 2,
+    "sequence": 207,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 10701,
+    "trigger": [
+      6
+    ],
+    "triggerValue": [
+      "20108"
+    ]
+  },
+  {
+    "sn": 108,
+    "title": "总攻击",
+    "level": 0,
+    "type": 2,
+    "sequence": 206,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 10801,
+    "trigger": [
+      12
+    ],
+    "triggerValue": [
+      "3710740"
+    ]
+  },
+  {
+    "sn": 109,
+    "title": "诡计",
+    "level": 0,
+    "type": 2,
+    "sequence": 209,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 10901,
+    "trigger": [
+      12
+    ],
+    "triggerValue": [
+      "3910697"
+    ]
+  },
+  {
+    "sn": 110,
+    "title": "不羁能力",
+    "level": 0,
+    "type": 2,
+    "sequence": 210,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 11001,
+    "trigger": [
+      6
+    ],
+    "triggerValue": [
+      "80000"
+    ]
+  },
+  {
+    "sn": 201,
+    "title": "阴影",
+    "level": 0,
+    "type": 3,
+    "sequence": 301,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 20101,
+    "trigger": [
+      12
+    ],
+    "triggerValue": [
+      "3800460"
+    ]
+  },
+  {
+    "sn": 202,
+    "title": "隐匿藏身与偷袭",
+    "level": 0,
+    "type": 3,
+    "sequence": 302,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 20201,
+    "trigger": [
+      4
+    ],
+    "triggerValue": [
+      "10340"
+    ]
+  },
+  {
+    "sn": 203,
+    "title": "安全小屋",
+    "level": 0,
+    "type": 3,
+    "sequence": 303,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 20301,
+    "trigger": [
+      10,
+      18
+    ],
+    "triggerValue": [
+      "UI_PWSaferoom",
+      "1"
+    ]
+  },
+  {
+    "sn": 204,
+    "title": "观察模式",
+    "level": 0,
+    "type": 3,
+    "sequence": 305,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 20401,
+    "trigger": [
+      2
+    ],
+    "triggerValue": [
+      "10355"
+    ]
+  },
+  {
+    "sn": 205,
+    "title": "勾绳动作",
+    "level": 0,
+    "type": 3,
+    "sequence": 304,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 20501,
+    "trigger": [
+      4,
+      9
+    ],
+    "triggerValue": [
+      "10301",
+      "8300100"
+    ]
+  },
+  {
+    "sn": 206,
+    "title": "迷失阴影",
+    "level": 0,
+    "type": 4,
+    "sequence": 403,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 20601,
+    "trigger": [
+      12
+    ],
+    "triggerValue": [
+      "3910630"
+    ]
+  },
+  {
+    "sn": 207,
+    "title": "里程卡",
+    "level": 0,
+    "type": 3,
+    "sequence": 307,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 20701,
+    "trigger": [
+      4
+    ],
+    "triggerValue": [
+      "11130"
+    ]
+  },
+  {
+    "sn": 208,
+    "title": "特殊阴影",
+    "level": 0,
+    "type": 4,
+    "sequence": 402,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 20801,
+    "trigger": [
+      12
+    ],
+    "triggerValue": [
+      "3798863"
+    ]
+  },
+  {
+    "sn": 209,
+    "title": "搜索物品",
+    "level": 0,
+    "type": 3,
+    "sequence": 306,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 20901,
+    "trigger": [
+      9
+    ],
+    "triggerValue": [
+      "8301005"
+    ]
+  },
+  {
+    "sn": 210,
+    "title": "宝魔",
+    "level": 0,
+    "type": 4,
+    "sequence": 404,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 21001,
+    "trigger": [
+      12
+    ],
+    "triggerValue": [
+      "3798864"
+    ]
+  },
+  {
+    "sn": 211,
+    "title": "散落的收集物",
+    "level": 0,
+    "type": 4,
+    "sequence": 405,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 21101,
+    "trigger": [
+      12
+    ],
+    "triggerValue": [
+      "3798865"
+    ]
+  },
+  {
+    "sn": 212,
+    "title": "厄抑之境",
+    "level": 0,
+    "type": 4,
+    "sequence": 401,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 21201,
+    "trigger": [
+      12
+    ],
+    "triggerValue": [
+      "3798866"
+    ]
+  },
+  {
+    "sn": 301,
+    "title": "行动目标",
+    "level": 0,
+    "type": 7,
+    "sequence": 701,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 30101,
+    "trigger": [
+      2,
+      10,
+      18
+    ],
+    "triggerValue": [
+      "10025",
+      "UI_TopMissionUI",
+      "1"
+    ]
+  },
+  {
+    "sn": 302,
+    "title": "角色占卜",
+    "level": 0,
+    "type": 7,
+    "sequence": 703,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 30201,
+    "trigger": [
+      3,
+      10
+    ],
+    "triggerValue": [
+      "118",
+      "UI_Divination"
+    ]
+  },
+  {
+    "sn": 310,
+    "title": "协同者",
+    "level": 0,
+    "type": 5,
+    "sequence": 502,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 31001,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_CoopMainView"
+    ]
+  },
+  {
+    "sn": 311,
+    "title": "协同者-偏好",
+    "level": 0,
+    "type": 5,
+    "sequence": 503,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 31101,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_CoopFavorView"
+    ]
+  },
+  {
+    "sn": 312,
+    "title": "协同者-档案",
+    "level": 0,
+    "type": 5,
+    "sequence": 504,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 31201,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_CoopInfoView"
+    ]
+  },
+  {
+    "sn": 321,
+    "title": "工作台",
+    "level": 0,
+    "type": 5,
+    "sequence": 505,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 32101,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_ComposeItemsMainView"
+    ]
+  },
+  {
+    "sn": 322,
+    "title": "都市日程",
+    "level": 0,
+    "type": 5,
+    "sequence": 501,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 32201,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_NewOpenWorldEvent"
+    ]
+  },
+  {
+    "sn": 323,
+    "title": "烹饪",
+    "level": 0,
+    "type": 5,
+    "sequence": 506,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 32301,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_Cook"
+    ]
+  },
+  {
+    "sn": 324,
+    "title": "种植",
+    "level": 0,
+    "type": 5,
+    "sequence": 507,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 32401,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_PlantMainView"
+    ]
+  },
+  {
+    "sn": 325,
+    "title": "武器补给",
+    "level": 0,
+    "type": 7,
+    "sequence": 704,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 32501,
+    "trigger": [
+      3,
+      10
+    ],
+    "triggerValue": [
+      "119",
+      "UI_Divination"
+    ]
+  },
+  {
+    "sn": 398,
+    "title": "钓鱼",
+    "level": 0,
+    "type": 5,
+    "sequence": 508,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 39801,
+    "trigger": [
+      11
+    ],
+    "triggerValue": [
+      "250"
+    ]
+  },
+  {
+    "sn": 399,
+    "title": "棒球",
+    "level": 0,
+    "type": 5,
+    "sequence": 509,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 39901,
+    "trigger": [
+      11
+    ],
+    "triggerValue": [
+      "13"
+    ]
+  },
+  {
+    "sn": 501,
+    "title": "怪盗",
+    "level": 0,
+    "type": 6,
+    "sequence": 501,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 50101,
+    "trigger": [
+      10,
+      18
+    ],
+    "triggerValue": [
+      "UI_StrangeThiefMainInfo",
+      "1"
+    ]
+  },
+  {
+    "sn": 502,
+    "title": "怪盗-成长",
+    "level": 0,
+    "type": 6,
+    "sequence": 502,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 50201,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_StrangeThiefTrainView"
+    ]
+  },
+  {
+    "sn": 503,
+    "title": "怪盗-武器",
+    "level": 0,
+    "type": 6,
+    "sequence": 503,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 50301,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_WeaponMainView"
+    ]
+  },
+  {
+    "sn": 504,
+    "title": "怪盗-启示",
+    "level": 0,
+    "type": 6,
+    "sequence": 504,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 50401,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_EquipCardView"
+    ]
+  },
+  {
+    "sn": 505,
+    "title": "怪盗-技能",
+    "level": 0,
+    "type": 6,
+    "sequence": 505,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 50501,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_StrangeThiefSkill"
+    ]
+  },
+  {
+    "sn": 506,
+    "title": "怪盗-灵感",
+    "level": 0,
+    "type": 6,
+    "sequence": 506,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 50601,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_TalentView"
+    ]
+  },
+  {
+    "sn": 551,
+    "title": "人格面具",
+    "level": 0,
+    "type": 6,
+    "sequence": 551,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 55101,
+    "trigger": [],
+    "triggerValue": []
+  },
+  {
+    "sn": 552,
+    "title": "人格面具训练",
+    "level": 0,
+    "type": 6,
+    "sequence": 552,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 55201,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_CarryingPersonaView"
+    ]
+  },
+  {
+    "sn": 553,
+    "title": "人格面具强化",
+    "level": 0,
+    "type": 6,
+    "sequence": 553,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 55301,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_IntensifyPersonaView"
+    ]
+  },
+  {
+    "sn": 554,
+    "title": "人格面具意识",
+    "level": 0,
+    "type": 6,
+    "sequence": 554,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 55401,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_PersonaEvolutionView"
+    ]
+  },
+  {
+    "sn": 555,
+    "title": "人格面具技能",
+    "level": 0,
+    "type": 6,
+    "sequence": 555,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 55501,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_PersonaSkillView"
+    ]
+  },
+  {
+    "sn": 556,
+    "title": "人格面具全书",
+    "level": 0,
+    "type": 6,
+    "sequence": 556,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 55601,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_PersonaEncyViewNew"
+    ]
+  },
+  {
+    "sn": 557,
+    "title": "人格面具合成",
+    "level": 0,
+    "type": 6,
+    "sequence": 557,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 55701,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_CompositePersonaView"
+    ]
+  },
+  {
+    "sn": 601,
+    "title": "天鹅绒试炼",
+    "level": 0,
+    "type": 4,
+    "sequence": 409,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 60101,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_VelvetTrialMainView"
+    ]
+  },
+  {
+    "sn": 701,
+    "title": "阵容",
+    "level": 0,
+    "type": 7,
+    "sequence": 705,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 70101,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_PalaceCheckpointPick"
+    ]
+  }
+]

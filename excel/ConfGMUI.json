@@ -1,0 +1,2634 @@
+[
+  {
+    "sn": "addExp",
+    "type": 0,
+    "group": [
+      "便捷"
+    ],
+    "orderGroup": [
+      1010
+    ],
+    "name": "加经验",
+    "desc": "加经验",
+    "format": "addExp exp",
+    "example": "addExp 99999"
+  },
+  {
+    "sn": "addCurrency",
+    "type": 0,
+    "group": [
+      "便捷"
+    ],
+    "orderGroup": [
+      1010
+    ],
+    "name": "增减货币",
+    "desc": "增减货币",
+    "format": "addCurrency sn num",
+    "example": "addCurrency 2 900000"
+  },
+  {
+    "sn": "funcOpen",
+    "type": 0,
+    "group": [
+      "便捷"
+    ],
+    "orderGroup": [
+      1015
+    ],
+    "name": "功能开启",
+    "desc": "开启指定功能或全部功能",
+    "format": "funcOpen [funcSn]/all",
+    "example": "funcOpen all"
+  },
+  {
+    "sn": "exeGMGroup",
+    "type": 0,
+    "group": [
+      "便捷",
+      "GM指令组"
+    ],
+    "orderGroup": [
+      1016,
+      9026
+    ],
+    "name": "一键变强",
+    "desc": "一键变强",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 1"
+  },
+  {
+    "sn": "skipguide",
+    "type": 1,
+    "group": [
+      "便捷"
+    ],
+    "orderGroup": [
+      1017
+    ],
+    "name": "跳过引导",
+    "desc": "跳过引导",
+    "format": "skipguide 0",
+    "example": "skipguide 0"
+  },
+  {
+    "sn": "levelup",
+    "type": 0,
+    "group": [
+      "便捷",
+      "主角相关"
+    ],
+    "orderGroup": [
+      1018,
+      4001
+    ],
+    "name": "升到x级",
+    "desc": "升到x级",
+    "format": "levelup x",
+    "example": "levelup 20"
+  },
+  {
+    "sn": "finishGuides",
+    "type": 1,
+    "group": [
+      "便捷"
+    ],
+    "orderGroup": [
+      1019
+    ],
+    "name": "一键完成新手引导",
+    "desc": "一键完成新手引导",
+    "format": "finishGuides",
+    "example": "finishGuides"
+  },
+  {
+    "sn": "finishTutorials",
+    "type": 1,
+    "group": [
+      "便捷"
+    ],
+    "orderGroup": [
+      1020
+    ],
+    "name": "一键完成导览",
+    "desc": "一键完成导览",
+    "format": "finishTutorials",
+    "example": "finishTutorials"
+  },
+  {
+    "sn": "monsterClear",
+    "type": 0,
+    "group": [
+      "便捷",
+      "战斗"
+    ],
+    "orderGroup": [
+      1021,
+      3002
+    ],
+    "name": "结束战斗:清除怪物",
+    "desc": "清除关卡内的怪物",
+    "format": "monsterClear",
+    "example": "monsterClear"
+  },
+  {
+    "sn": "unlockguanqia ",
+    "type": 0,
+    "group": [
+      "便捷",
+      "关卡相关"
+    ],
+    "orderGroup": [
+      1022,
+      7001
+    ],
+    "name": "解锁关卡",
+    "desc": "解锁关卡",
+    "format": "unlockguanqia sn",
+    "example": "unlockguanqia 101"
+  },
+  {
+    "sn": "gotopalace",
+    "type": 1,
+    "group": [
+      "便捷",
+      "关卡相关"
+    ],
+    "orderGroup": [
+      1023,
+      7002
+    ],
+    "name": "进入关卡",
+    "desc": "进入关卡，只能进入跑图关卡",
+    "format": "gotopalace sn",
+    "example": "gotopalace 103"
+  },
+  {
+    "sn": "stageSwitchCommon",
+    "type": 0,
+    "group": [
+      "便捷",
+      "地图场景"
+    ],
+    "orderGroup": [
+      1024,
+      8001
+    ],
+    "name": "切换到公共（主城）场景",
+    "desc": "切换场景，场景配置sn",
+    "format": "stageSwitchCommon sn [id]",
+    "example": "stageSwitchCommon 2102"
+  },
+  {
+    "sn": "stageSwitchInstance",
+    "type": 0,
+    "group": [
+      "便捷",
+      "地图场景"
+    ],
+    "orderGroup": [
+      1025,
+      8002
+    ],
+    "name": "切换到任意场景",
+    "desc": "切换场景，场景配置sn",
+    "format": "stageSwitchInstance sn [id]",
+    "example": "stageSwitchInstance 4000"
+  },
+  {
+    "sn": "finishQuest",
+    "type": 0,
+    "group": [
+      "便捷",
+      "任务与剧情"
+    ],
+    "orderGroup": [
+      1026,
+      2001
+    ],
+    "name": "任务:完成任务",
+    "desc": "任务:完成任务",
+    "format": "finishQuest sn",
+    "example": "finishQuest 1"
+  },
+  {
+    "sn": "Lockblood",
+    "type": 0,
+    "group": [
+      "便捷",
+      "战斗"
+    ],
+    "orderGroup": [
+      1027,
+      3005
+    ],
+    "name": "锁血挂",
+    "desc": "战斗内锁住血量",
+    "format": "lockHp",
+    "example": "lockHp"
+  },
+  {
+    "sn": "LockSpend",
+    "type": 0,
+    "group": [
+      "便捷",
+      "战斗"
+    ],
+    "orderGroup": [
+      1028,
+      3006
+    ],
+    "name": "消耗锁定",
+    "desc": "战斗内不消耗",
+    "format": "lockSpend",
+    "example": "lockSpend"
+  },
+  {
+    "sn": "instanceCreate",
+    "type": 0,
+    "group": [
+      "便捷",
+      "战斗"
+    ],
+    "orderGroup": [
+      1029,
+      3001
+    ],
+    "name": "进入指定战斗",
+    "desc": "进入战斗  场景SN 战斗发起类型",
+    "format": "instanceCreate sn launchType",
+    "example": "instanceCreate 1001 0"
+  },
+  {
+    "sn": "addItem",
+    "type": 0,
+    "group": [
+      "便捷",
+      "装备道具"
+    ],
+    "orderGroup": [
+      1030,
+      6005
+    ],
+    "name": "添加Item表内道具",
+    "desc": "向背包增加物品、货币等",
+    "format": "addItem sn [num]",
+    "example": "addItem 1 100"
+  },
+  {
+    "sn": "addAllThief",
+    "type": 1,
+    "group": [
+      "便捷",
+      "怪盗相关"
+    ],
+    "orderGroup": [
+      1031,
+      4501
+    ],
+    "name": "一键添加所有怪盗",
+    "desc": "一键添加所有怪盗",
+    "format": "addAllThief",
+    "example": "addAllThief"
+  },
+  {
+    "sn": "addAllPersona",
+    "type": 1,
+    "group": [
+      "便捷",
+      "人格面具"
+    ],
+    "orderGroup": [
+      1032,
+      15003
+    ],
+    "name": "添加指定类型所有persona",
+    "desc": "类型type[普通=0,宝魔=1] num",
+    "format": "addAllPersona  type  num[可选]",
+    "example": "addAllPersona 0 1"
+  },
+  {
+    "sn": "resetAllTutorial",
+    "type": 1,
+    "group": [
+      "便捷"
+    ],
+    "orderGroup": [
+      1033
+    ],
+    "name": "重置所有导览",
+    "desc": "重置所有导览",
+    "format": "resetAllTutorial",
+    "example": "resetAllTutorial"
+  },
+  {
+    "sn": "acceptQuest",
+    "type": 0,
+    "group": [
+      "任务与剧情"
+    ],
+    "orderGroup": [
+      2002
+    ],
+    "name": "任务:接受任务",
+    "desc": "任务:接受任务",
+    "format": "acceptQuest sn",
+    "example": "acceptQuest 1"
+  },
+  {
+    "sn": "playStory",
+    "type": 1,
+    "group": [
+      "任务与剧情"
+    ],
+    "orderGroup": [
+      2004
+    ],
+    "name": "播放剧情",
+    "desc": "播放剧情",
+    "format": "playStory sn",
+    "example": "playStory 100060"
+  },
+  {
+    "sn": "skipStoryClip",
+    "type": 1,
+    "group": [
+      "任务与剧情"
+    ],
+    "orderGroup": [
+      2005
+    ],
+    "name": "跳过当前剧情片段",
+    "desc": "跳过当前剧情片段",
+    "format": "skipStoryClip",
+    "example": "skipStoryClip"
+  },
+  {
+    "sn": "turnbattlecamcal",
+    "type": 1,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3003
+    ],
+    "name": "是否矫正单体相机的目标怪物居中(默认是开启)",
+    "desc": "执行一次设置开或者关",
+    "format": "turnbattlecamcal",
+    "example": "turnbattlecamcal"
+  },
+  {
+    "sn": "setbattlecam",
+    "type": 1,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3003
+    ],
+    "name": "设置战斗的相机",
+    "desc": "施法者1我方2敌方3敌方加血4我方加血",
+    "format": "setbattlecam [施法者] [目标数] [per表] [改变朝向] [敌方位置]",
+    "example": "setbattlecam 1 1 2 1 1"
+  },
+  {
+    "sn": "castbattlecam",
+    "type": 1,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3004
+    ],
+    "name": "设置战斗中怪物施法特写的相机",
+    "desc": "设置怪物施法的相机",
+    "format": "castbattlecam 2 1",
+    "example": "castbattlecam 2 1"
+  },
+  {
+    "sn": "battleEnd",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3007
+    ],
+    "name": "结束战斗",
+    "desc": "结束战斗",
+    "format": "battleEnd 1",
+    "example": "battleEnd 1"
+  },
+  {
+    "sn": "setFightOptTime",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3008
+    ],
+    "name": "设置出手等待时间",
+    "desc": "设置出手等待时间",
+    "format": "setFightOptTime roundtime",
+    "example": "setFightOptTime 20"
+  },
+  {
+    "sn": "addBuff",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3009
+    ],
+    "name": "添加buff",
+    "desc": "添加buff",
+    "format": "addBuff fightType pos buffSn",
+    "example": "addBuff 1 4 621"
+  },
+  {
+    "sn": "removeBuff",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3010
+    ],
+    "name": "移除buff",
+    "desc": "移除buff",
+    "format": "removeBuff fightType pos buffSn",
+    "example": "removeBuff 1 4 621"
+  },
+  {
+    "sn": "addSkill",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3011
+    ],
+    "name": "添加技能",
+    "desc": "添加技能",
+    "format": "addSkill fightType pos skillSn",
+    "example": "addSkill 1 1 43"
+  },
+  {
+    "sn": "useSkill",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3012
+    ],
+    "name": "使用技能(当前出手单位向指定目标使用技能)",
+    "desc": "使用技能",
+    "format": "useSkill tarFightType tarPos skillSn",
+    "example": "useSkill 1 4 43"
+  },
+  {
+    "sn": "getUnitAllAttr",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3013
+    ],
+    "name": "属性:查看指定作战单位全部属性",
+    "desc": "属性:查看指定作战单位全部属性",
+    "format": "getUnitAllAttr fightType pos",
+    "example": "getUnitAllAttr 1 4"
+  },
+  {
+    "sn": "getUnitAttr",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3014
+    ],
+    "name": "属性:查看指定作战单位某一属性",
+    "desc": "属性:查看指定作战单位某一属性",
+    "format": "getUnitAttr fightType pos attrkey",
+    "example": "getUnitAttr 1 4 111"
+  },
+  {
+    "sn": "modifyUnitAttr",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3015
+    ],
+    "name": "属性:指定战斗单位修改属性",
+    "desc": "属性:指定战斗单位修改属性",
+    "format": "modifyUnitAttr fightType pos key1 value1 key2 value2 ...",
+    "example": "modifyUnitAttr 1 4 112 1000.0 131 10.0"
+  },
+  {
+    "sn": "modifyUnitAdaptAttr",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3016
+    ],
+    "name": "适应性属性:修改指定战斗单位指定适应性属性",
+    "desc": "适应性属性:修改指定战斗单位指定适应性属性",
+    "format": "modifyUnitAdaptAttr fightType battlePos adaptKey1 adaptValue1 adaptKey2 adaptValue2 …",
+    "example": "modifyUnitAdaptAttr 2 3 1 1 7 4"
+  },
+  {
+    "sn": "showMonsterAdaptAttrs",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3017
+    ],
+    "name": "适应性属性:展示怪物适应性属性",
+    "desc": "适应性属性:展示怪物适应性属性",
+    "format": "showMonsterAdaptAttrs",
+    "example": "showMonsterAdaptAttrs"
+  },
+  {
+    "sn": "UnderAttack",
+    "type": 1,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3018
+    ],
+    "name": "被攻击进入战斗",
+    "desc": "被攻击进入战斗",
+    "format": "UnderAttack sn",
+    "example": "UnderAttack 1001"
+  },
+  {
+    "sn": "setMonsterLevel",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3019
+    ],
+    "name": "战斗中设置怪物等级",
+    "desc": "战斗中设置怪物等级",
+    "format": "setMonsterLevel pos newLevel",
+    "example": "setMonsterLevel 2 60"
+  },
+  {
+    "sn": "drawBoundLine",
+    "type": 1,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3020
+    ],
+    "name": "显示选择区域",
+    "desc": "显示选择区域",
+    "format": "drawBoundLine time",
+    "example": "drawBoundLine 10"
+  },
+  {
+    "sn": "teamSetThief",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3021
+    ],
+    "name": "设置阵容怪盗",
+    "desc": "设置阵容怪盗",
+    "format": "teamSetThief thiefSn1 thiefSn2 thiefSn3",
+    "example": "teamSetThief 1021 1191"
+  },
+  {
+    "sn": "teamSetPersona",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3022
+    ],
+    "name": "设置阵容面具",
+    "desc": "设置阵容怪盗",
+    "format": "teamSetPersona personaSn1 personaSn2 personaSn3",
+    "example": "teamSetPersona 111 112"
+  },
+  {
+    "sn": "buffGroupInfo",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3023
+    ],
+    "name": "获取单位buff组内子buff",
+    "desc": "获取单位buff组内子buff",
+    "format": "buffGroupInfo fightType pos",
+    "example": "buffGroupInfo 1 1"
+  },
+  {
+    "sn": "getUnitAllBuff",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3024
+    ],
+    "name": "查看指定作战单位全部buff",
+    "desc": "查看指定作战单位全部buff",
+    "format": "getUnitAllBuff fightType pos",
+    "example": "getUnitAllBuff 1 4"
+  },
+  {
+    "sn": "modifyUnitHPCur",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3025
+    ],
+    "name": "修改单位当前血量",
+    "desc": "修改单位当前血量",
+    "format": "fightType pos HPCur",
+    "example": "modifyUnitHPCur 1 1 -100"
+  },
+  {
+    "sn": "addAI",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3026
+    ],
+    "name": "战斗中添加AI",
+    "desc": "战斗中添加AI",
+    "format": "fightType pos AISn",
+    "example": "addAI 1 1 2000102"
+  },
+  {
+    "sn": "removeAI",
+    "type": 0,
+    "group": [
+      "战斗"
+    ],
+    "orderGroup": [
+      3027
+    ],
+    "name": "战斗中移除AI",
+    "desc": "战斗中移除AI",
+    "format": "fightType pos AISn",
+    "example": "removeAI 1 1 2000102"
+  },
+  {
+    "sn": "upOneLevel",
+    "type": 0,
+    "group": [
+      "主角相关"
+    ],
+    "orderGroup": [
+      4014
+    ],
+    "name": "升1级",
+    "desc": "升1级",
+    "format": "upOneLevel",
+    "example": "upOneLevel"
+  },
+  {
+    "sn": "addEnergy",
+    "type": 0,
+    "group": [
+      "主角相关"
+    ],
+    "orderGroup": [
+      4015
+    ],
+    "name": "体力增减",
+    "desc": "增加减少指定数值的体力",
+    "format": "addEnergy +40",
+    "example": "addEnergy -40或+40"
+  },
+  {
+    "sn": "addActionEnergy",
+    "type": 0,
+    "group": [
+      "主角相关"
+    ],
+    "orderGroup": [
+      4016
+    ],
+    "name": "行动力增减",
+    "desc": "增加减少指定数值的行动力",
+    "format": "addActionEnergy +40",
+    "example": "addActionEnergy -5或+5"
+  },
+  {
+    "sn": "unlockCoop",
+    "type": 0,
+    "group": [
+      "主角相关"
+    ],
+    "orderGroup": [
+      4020
+    ],
+    "name": "解锁一个coop",
+    "desc": "解锁一个coop",
+    "format": "unlockCoop cooperatorSn",
+    "example": "unlockCoop 1"
+  },
+  {
+    "sn": "clearDebugAttrs",
+    "type": 0,
+    "group": [
+      "主角相关"
+    ],
+    "orderGroup": [
+      4022
+    ],
+    "name": "清除所有debug属性",
+    "desc": "清除所有debug属性",
+    "format": "clearDebugAttrs",
+    "example": "clearDebugAttrs"
+  },
+  {
+    "sn": "addTalentPoints",
+    "type": 0,
+    "group": [
+      "主角相关"
+    ],
+    "orderGroup": [
+      4023
+    ],
+    "name": "增减天赋点",
+    "desc": "增加或减少指定数值的天赋点",
+    "format": "addTalentPoints x",
+    "example": "addTalentPoints 2000"
+  },
+  {
+    "sn": "battlePassPay",
+    "type": 0,
+    "group": [
+      "主角相关"
+    ],
+    "orderGroup": [
+      4024
+    ],
+    "name": "开启大月卡",
+    "desc": "开启雏鸟计划-付费版",
+    "format": "battlePassPay 支付Sn",
+    "example": "battlePassPay 2200001"
+  },
+  {
+    "sn": "zhujueChange",
+    "type": 0,
+    "group": [
+      "主角相关"
+    ],
+    "orderGroup": [
+      4025
+    ],
+    "name": "更换主角",
+    "desc": "更换主角 主角SN",
+    "format": "zhujueChange 102",
+    "example": "zhujueChange 102"
+  },
+  {
+    "sn": "addDisplayByType",
+    "type": 0,
+    "group": [
+      "主角相关"
+    ],
+    "orderGroup": [
+      4026
+    ],
+    "name": "获取名片外显",
+    "desc": "根据DisplayType获取指定外显, 0表示获取所有",
+    "format": "addDisplayByType",
+    "example": "addDisplayByType 0"
+  },
+  {
+    "sn": "PromoteLV",
+    "type": 1,
+    "group": [
+      "怪盗相关"
+    ],
+    "orderGroup": [
+      4502
+    ],
+    "name": "提升指定怪盗等级",
+    "desc": "提升指定怪盗等级(max=60)",
+    "format": "PromoteLV sn level",
+    "example": "PromoteLV 201 60"
+  },
+  {
+    "sn": "PromoteAwakeLV",
+    "type": 1,
+    "group": [
+      "怪盗相关"
+    ],
+    "orderGroup": [
+      4503
+    ],
+    "name": "提升指定怪盗觉醒等级",
+    "desc": "提升指定怪盗觉醒等级(1-5）",
+    "format": "PromoteAwakeLV sn level",
+    "example": "PromoteAwakeLV 201 5"
+  },
+  {
+    "sn": "PromoteFeatureLV",
+    "type": 1,
+    "group": [
+      "怪盗相关"
+    ],
+    "orderGroup": [
+      4504
+    ],
+    "name": "提升指定怪盗进化等级",
+    "desc": "提升指定怪盗进化等级(1-6)",
+    "format": "PromoteFeatureLV sn level",
+    "example": "PromoteFeatureLV 201 6"
+  },
+  {
+    "sn": "forceliuhai1",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4601
+    ],
+    "name": "Apple iPhone 13 Pro Max",
+    "desc": "设置分辨率为“2778 x 1284”",
+    "format": "",
+    "example": "forceliuhai 1800 832 false"
+  },
+  {
+    "sn": "forceliuhai2",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4602
+    ],
+    "name": "Apple iPhone 13/12",
+    "desc": "设置分辨率为“2532 x 1170”",
+    "format": "",
+    "example": "forceliuhai 1760 813 false"
+  },
+  {
+    "sn": "forceliuhai3",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4603
+    ],
+    "name": "Apple iPhone 11",
+    "desc": "设置分辨率为“1792 x 828”",
+    "format": "",
+    "example": "forceliuhai 1700 785 false"
+  },
+  {
+    "sn": "forceliuhai4",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4604
+    ],
+    "name": "Apple iPad 10.2英寸平板电脑",
+    "desc": "设置分辨率为“2160 x 1620”",
+    "format": "",
+    "example": "forceliuhai 1307 980 false false"
+  },
+  {
+    "sn": "forceliuhai5",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4605
+    ],
+    "name": "Apple iPad mini",
+    "desc": "设置分辨率为“2266 x 1488”",
+    "format": "",
+    "example": "forceliuhai 1200 788 false false"
+  },
+  {
+    "sn": "forceliuhai6",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4606
+    ],
+    "name": "ivo iQOO Neo5 SE",
+    "desc": "设置分辨率为“2400 x 1080”",
+    "format": "",
+    "example": "forceliuhai 1800 810 false"
+  },
+  {
+    "sn": "forceliuhai7",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4607
+    ],
+    "name": "Redmi Note 11",
+    "desc": "设置分辨率为“2400 x 1080”",
+    "format": "",
+    "example": "forceliuhai 1800 810 false"
+  },
+  {
+    "sn": "forceliuhai8",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4608
+    ],
+    "name": "荣耀X30",
+    "desc": "设置分辨率为“2388 x 1080”",
+    "format": "",
+    "example": "forceliuhai 1700 769 false"
+  },
+  {
+    "sn": "forceliuhai9",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4609
+    ],
+    "name": "Redmi K50 pro",
+    "desc": "设置分辨率为“2300 x 1440”",
+    "format": "",
+    "example": "forceliuhai 1600 1002 false"
+  },
+  {
+    "sn": "forceliuhai10",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4610
+    ],
+    "name": "荣耀Play6T/Redmi 10A",
+    "desc": "设置分辨率为“1600 x 720”",
+    "format": "",
+    "example": "forceliuhai 1600 1002 false"
+  },
+  {
+    "sn": "forceliuhai11",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4611
+    ],
+    "name": "HUAWEI nova 8 SE",
+    "desc": "设置分辨率为“2400 x 1080”",
+    "format": "",
+    "example": "forceliuhai 1800 810 false"
+  },
+  {
+    "sn": "forceliuhai12",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4612
+    ],
+    "name": "vivo iQOO U5x",
+    "desc": "设置分辨率为“2408 x 1080”",
+    "format": "",
+    "example": "forceliuhai 1800 807 false"
+  },
+  {
+    "sn": "forceliuhai13",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4613
+    ],
+    "name": "荣耀平板7",
+    "desc": "设置分辨率为“2000 x 1200”",
+    "format": "",
+    "example": "forceliuhai 1600 960 false false"
+  },
+  {
+    "sn": "forceliuhai14",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4614
+    ],
+    "name": "华为HUAWEI MatePad/小米平板5/vivo Pad",
+    "desc": "设置分辨率为“2560 x 1600”",
+    "format": "",
+    "example": "forceliuhai 1500 938 false false"
+  },
+  {
+    "sn": "forceliuhai15",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4615
+    ],
+    "name": "还原为PC模式",
+    "desc": "还原为PC模式",
+    "format": "",
+    "example": "PCModel"
+  },
+  {
+    "sn": "SetResolution",
+    "type": 1,
+    "group": [
+      "移动模式"
+    ],
+    "orderGroup": [
+      4616
+    ],
+    "name": "设置移动端分辨率",
+    "desc": "设置移动端分辨率",
+    "format": "SetResolution type fullScreen",
+    "example": "SetResolution 1 true"
+  },
+  {
+    "sn": "startDialog",
+    "type": 1,
+    "group": [
+      "对话"
+    ],
+    "orderGroup": [
+      5001
+    ],
+    "name": "开始一组对话",
+    "desc": "开始一组对话",
+    "format": "startDialog sn [id]",
+    "example": "startDialog 3000"
+  },
+  {
+    "sn": "showDialog",
+    "type": 1,
+    "group": [
+      "对话"
+    ],
+    "orderGroup": [
+      5002
+    ],
+    "name": "显示一条对话",
+    "desc": "显示一条对话",
+    "format": "showDialog sn [id]",
+    "example": "showDialog 3000"
+  },
+  {
+    "sn": "startSNS",
+    "type": 1,
+    "group": [
+      "对话"
+    ],
+    "orderGroup": [
+      5003
+    ],
+    "name": "开始一组SNS对话",
+    "desc": "开始一组SNS对话",
+    "format": "startSNS tidingsSn startPlotSn",
+    "example": "startSNS 100 101"
+  },
+  {
+    "sn": "addAward",
+    "type": 0,
+    "group": [
+      "装备道具"
+    ],
+    "orderGroup": [
+      6006
+    ],
+    "name": "添加Award表内的奖励",
+    "desc": "获得产出表内的奖励",
+    "format": "addAward sn [num]",
+    "example": "addAward 2 100"
+  },
+  {
+    "sn": "clearContainer",
+    "type": 0,
+    "group": [
+      "装备道具"
+    ],
+    "orderGroup": [
+      6007
+    ],
+    "name": "清空：1消耗 2装备 3材料 4其它 5套装",
+    "desc": "1消耗 2装备 3材料 4其它 5套装",
+    "format": "clearContainer type",
+    "example": "clearContainer 3"
+  },
+  {
+    "sn": "VisitAllPalaceWorldArea",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7003
+    ],
+    "name": "解锁所有异世界区域",
+    "desc": "解锁所有异世界区域",
+    "format": "VisitAllPalaceWorldArea",
+    "example": "VisitAllPalaceWorldArea"
+  },
+  {
+    "sn": "unlockOtherWorldNPC",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7004
+    ],
+    "name": "解锁NPC传送",
+    "desc": "解锁异世界的NPC传送 sn为场景",
+    "format": "unlockOtherWorldNPC [scenesn]",
+    "example": "unlockOtherWorldNPC"
+  },
+  {
+    "sn": "clearUIFog",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7005
+    ],
+    "name": "临时清除迷雾",
+    "desc": "临时清除迷雾",
+    "format": "clearUIFog",
+    "example": "clearUIFog"
+  },
+  {
+    "sn": "enterOtherWorld",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7006
+    ],
+    "name": "进入异世界场景",
+    "desc": "进入异世界场景",
+    "format": "enterOtherWorld [palaceWorldSn]",
+    "example": "enterOtherWorld 1101"
+  },
+  {
+    "sn": "resetOtherWorld",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7007
+    ],
+    "name": "重置异世界机关状态",
+    "desc": "重置异世界机关状态",
+    "format": "resetOtherWorld",
+    "example": "resetOtherWorld"
+  },
+  {
+    "sn": "trickState",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7008
+    ],
+    "name": "检查机关当前状态",
+    "desc": "检查机关当前状态",
+    "format": "trickState 8331801",
+    "example": "trickState 8331801"
+  },
+  {
+    "sn": "showAStarGrid",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7009
+    ],
+    "name": "显示A星小格",
+    "desc": "显示A星小格 [时间]",
+    "format": "showAStarGrid 60",
+    "example": "showAStarGrid 60"
+  },
+  {
+    "sn": "resetImpressionSpace",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7010
+    ],
+    "name": "重置印象空间",
+    "desc": "重新刷新印象空间数据",
+    "format": "resetImpressionSpace",
+    "example": "resetImpressionSpace"
+  },
+  {
+    "sn": "enterImpressionSpace",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7011
+    ],
+    "name": "进入印象空间X层",
+    "desc": "进入印象空间某层",
+    "format": "enterImpressionSpace 1 层/场景Sn",
+    "example": "enterImpressionSpace 1 10034"
+  },
+  {
+    "sn": "setWarningValue",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7012
+    ],
+    "name": "设置警戒值",
+    "desc": "设置警戒值",
+    "format": "setWarningValue value",
+    "example": "setWarningValue 10"
+  },
+  {
+    "sn": "showPalaceWorldUI",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7013
+    ],
+    "name": "异世界UI",
+    "desc": "模拟打开异世界UI",
+    "format": "showPalaceWorldUI",
+    "example": "showPalaceWorldUI"
+  },
+  {
+    "sn": "resetGuanQiaPalace",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7014
+    ],
+    "name": "重置机关",
+    "desc": "重置关卡机关",
+    "format": "resetGuanQiaPalace",
+    "example": "resetGuanQiaPalace"
+  },
+  {
+    "sn": "gotopalace recall",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7015
+    ],
+    "name": "进入回溯关卡",
+    "desc": "进入关卡，只能进入回溯关卡",
+    "format": "gotopalace recall checkpointSn",
+    "example": "gotopalace recall 50102"
+  },
+  {
+    "sn": "unlockRecallPalace",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7016
+    ],
+    "name": "解锁回溯关卡",
+    "desc": "解锁回溯殿堂关卡",
+    "format": "unlockRecallPalace checkpointSn",
+    "example": "unlockRecallPalace 50103"
+  },
+  {
+    "sn": "impressionGuaiPinCell",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7017
+    ],
+    "name": "进入or离开怪频任务",
+    "desc": "进入1or离开0怪频任务",
+    "format": "impressionGuaiPinCell 1或者0",
+    "example": "impressionGuaiPinCell 1"
+  },
+  {
+    "sn": "switchCheckpoint",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7018
+    ],
+    "name": "进入任意类型checkpointSn",
+    "desc": "进入任意类型关卡Sn",
+    "format": "switchCheckpoint 301",
+    "example": "switchCheckpoint 301"
+  },
+  {
+    "sn": "exploreExpAdd",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7019
+    ],
+    "name": "增加探索积分",
+    "desc": "增加探索积分",
+    "format": "exploreExpAdd 场景sn 探索值",
+    "example": "exploreExpAdd 8301 100"
+  },
+  {
+    "sn": "curPosition",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8003
+    ],
+    "name": "获取当前玩家位置",
+    "desc": "获取当前玩家位置",
+    "format": "curPosition",
+    "example": "curPosition"
+  },
+  {
+    "sn": "SwitchColliderLayerEnable",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8004
+    ],
+    "name": "设置collider是否生效",
+    "desc": "1 生效 0 不生效",
+    "format": "SwitchColliderLayerEnable [enable]",
+    "example": "SwitchColliderLayerEnable 0"
+  },
+  {
+    "sn": "curWindow",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8005
+    ],
+    "name": "获取当前界面逻辑名称",
+    "desc": "获取当前界面逻辑名称",
+    "format": "curWindow",
+    "example": "curWindow"
+  },
+  {
+    "sn": "switchOpenWorldNpc",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8006
+    ],
+    "name": "开关开放世界氛围NPC",
+    "desc": "开关氛围NPC [开 = 1， 关 = 0]",
+    "format": "switchOpenWorldNpc 0",
+    "example": "switchOpenWorldNpc 0"
+  },
+  {
+    "sn": "newBattleMeetingRoom",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8007
+    ],
+    "name": "新作战会议室",
+    "desc": "新作战会议室",
+    "format": "enterNewBattleMeetingRoom",
+    "example": "enterNewBattleMeetingRoom"
+  },
+  {
+    "sn": "instanceSn",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8008
+    ],
+    "name": "获取战斗场景sn",
+    "desc": "获取战斗场景sn",
+    "format": "instanceSn",
+    "example": "instanceSn"
+  },
+  {
+    "sn": "getCameraParam",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8009
+    ],
+    "name": "获取相机参数（X，Y）",
+    "desc": "获取相机参数（X，Y）",
+    "format": "getCameraParam",
+    "example": "getCameraParam"
+  },
+  {
+    "sn": "switchSceneByTeleport",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8010
+    ],
+    "name": "调用传送点",
+    "desc": "使用TeleportPoint点",
+    "format": "switchSceneByTeleport 场景sn",
+    "example": "switchSceneByTeleport 10010"
+  },
+  {
+    "sn": "openAllWorldMap",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8011
+    ],
+    "name": "解锁所有世界地图",
+    "desc": "解锁所有世界地图",
+    "format": "openAllWorldMap",
+    "example": "openAllWorldMap"
+  },
+  {
+    "sn": "SetFocusIntensity",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8012
+    ],
+    "name": "把场景压暗",
+    "desc": "把场景压暗",
+    "format": "SetFocusIntensity 1",
+    "example": "SetFocusIntensity 1 true"
+  },
+  {
+    "sn": "changeWeather",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8013
+    ],
+    "name": "改变天气",
+    "desc": "1 晴天   3雨天",
+    "format": "changeWeather 1",
+    "example": "changeWeather 1"
+  },
+  {
+    "sn": "changeTime",
+    "type": 1,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8014
+    ],
+    "name": "改变时间段",
+    "desc": "Day 白天  Dusk 傍晚  Night 晚上",
+    "format": "changeTime Day",
+    "example": "changeTime Day"
+  },
+  {
+    "sn": "goHome",
+    "type": 0,
+    "group": [
+      "地图场景"
+    ],
+    "orderGroup": [
+      8015
+    ],
+    "name": "回家",
+    "desc": "回家园场景",
+    "format": "GoHome",
+    "example": "GoHome"
+  },
+  {
+    "sn": "hideUI",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9001
+    ],
+    "name": "关闭Gui表的界面",
+    "desc": "关闭Gui表的界面",
+    "format": "hideUI UI_Bag",
+    "example": "hideUI UI_Bag"
+  },
+  {
+    "sn": "openUI",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9002
+    ],
+    "name": "打开Gui表的界面",
+    "desc": "打开Gui表的界面",
+    "format": "openUI UI_Bag",
+    "example": "openUI UI_Bag"
+  },
+  {
+    "sn": "loadscene",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9003
+    ],
+    "name": "客户端切场景",
+    "desc": "客户端切场景",
+    "format": "loadscene 2102",
+    "example": "loadscene 2102"
+  },
+  {
+    "sn": "freecamera1",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9004
+    ],
+    "name": "漫游相机",
+    "desc": "漫游相机 [开关=1或者0]",
+    "format": "freecamera1 1",
+    "example": "freecamera1 1"
+  },
+  {
+    "sn": "freecamera2",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9005
+    ],
+    "name": "自由相机",
+    "desc": "自由相机 [开关=1或者0]",
+    "format": "freecamera2 1",
+    "example": "freecamera2 1"
+  },
+  {
+    "sn": "playAnim",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9006
+    ],
+    "name": "播放动作",
+    "desc": "播放动作",
+    "format": "playAnim jump",
+    "example": "playAnim jump"
+  },
+  {
+    "sn": "scneffect",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9007
+    ],
+    "name": "播放effect",
+    "desc": "播放effect",
+    "format": "scneffect skill_lightning01.prefab",
+    "example": "scneffect skill_lightning01.prefab"
+  },
+  {
+    "sn": "timeline",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9008
+    ],
+    "name": "播放timeline",
+    "desc": "播放timeline",
+    "format": "timeline joker_attack_tl.prefab",
+    "example": "timeline joker_attack_tl.prefab"
+  },
+  {
+    "sn": "createNpc",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9009
+    ],
+    "name": "测试创建NPC",
+    "desc": "测试创建NPC",
+    "format": "createNpc 1",
+    "example": "createNpc 1"
+  },
+  {
+    "sn": "clientinfo",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9010
+    ],
+    "name": "客户端INFO",
+    "desc": "客户端INFO",
+    "format": "clientinfo",
+    "example": "clientinfo"
+  },
+  {
+    "sn": "createhuman",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9011
+    ],
+    "name": "客户端创建玩家",
+    "desc": "客户端创建玩家",
+    "format": "createhuman 500 10",
+    "example": "createhuman 500 10"
+  },
+  {
+    "sn": "testHeadEmotion",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9012
+    ],
+    "name": "测试头顶表情",
+    "desc": "测试头顶表情",
+    "format": "testHeadEmotion 1",
+    "example": "testHeadEmotion 1"
+  },
+  {
+    "sn": "clearChatRecord",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9013
+    ],
+    "name": "清空聊天缓存",
+    "desc": "清空聊天缓存(清空以后重启一下游戏)",
+    "format": "ClearChatRecord",
+    "example": "clearChatRecord"
+  },
+  {
+    "sn": "arenaPoint",
+    "type": 0,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9014
+    ],
+    "name": "竞技场-设置自己竞技场积分",
+    "desc": "竞技场-设置自己竞技场积分",
+    "format": "arenaPoint point",
+    "example": "arenaPoint 2000"
+  },
+  {
+    "sn": "arenaAddCount",
+    "type": 0,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9015
+    ],
+    "name": "竞技场-增加挑战次数",
+    "desc": "竞技场-增加挑战次数",
+    "format": "arenaAddCount count",
+    "example": "arenaAddCount 10"
+  },
+  {
+    "sn": "arenaClearCD",
+    "type": 0,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9016
+    ],
+    "name": "竞技场-清除刷新对手cd",
+    "desc": "竞技场-清除刷新对手cd",
+    "format": "arenaClearCD",
+    "example": "arenaClearCD"
+  },
+  {
+    "sn": "arenaFightRobot",
+    "type": 0,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9017
+    ],
+    "name": "竞技场-挑战指定分数机器人",
+    "desc": "竞技场-挑战指定分数机器人",
+    "format": "arenaFightRobot point",
+    "example": "arenaFightRobot 2000"
+  },
+  {
+    "sn": "arenaFightByNam",
+    "type": 0,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9018
+    ],
+    "name": "竞技场-挑战指定对手",
+    "desc": "竞技场-挑战指定对手",
+    "format": "arenaFightByName name",
+    "example": "arenaFightByName muduo03"
+  },
+  {
+    "sn": "arenaZoneNum",
+    "type": 0,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9019
+    ],
+    "name": "竞技场-设置所在战区当前人数",
+    "desc": "竞技场-设置所在战区当前人数",
+    "format": "arenaZoneNum num",
+    "example": "arenaZoneNum 100"
+  },
+  {
+    "sn": "showTip",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9020
+    ],
+    "name": "系统提示",
+    "desc": "测试系统提示",
+    "format": "showTip sn [...]",
+    "example": "showTip 11021"
+  },
+  {
+    "sn": "testTimelineEffect",
+    "type": 1,
+    "group": [
+      "便捷"
+    ],
+    "orderGroup": [
+      9021
+    ],
+    "name": "测试Timeline特效",
+    "desc": "测试Timeline特效",
+    "format": "testTimelineEffect",
+    "example": "testTimelineEffect"
+  },
+  {
+    "sn": "Clear cache",
+    "type": 1,
+    "group": [
+      "其它"
+    ],
+    "orderGroup": [
+      9027
+    ],
+    "name": "清理缓存",
+    "desc": "清理本地缓存",
+    "format": "clearallpf",
+    "example": "clearallpf"
+  },
+  {
+    "sn": "changeServerTime",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10001
+    ],
+    "name": "开服时间修改",
+    "desc": "修改开服时间 如果不填，默认当前时间，如果填，请按照固定格式填写",
+    "format": "changeServerTime [yyyy MM dd HH mm ss]",
+    "example": "changeServerTime 2017 11 01 00 00 00"
+  },
+  {
+    "sn": "getServerTime",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10002
+    ],
+    "name": "开服时间获取",
+    "desc": "开服时间获取",
+    "format": "getServerTime",
+    "example": "getServerTime"
+  },
+  {
+    "sn": "reloadConfig",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10003
+    ],
+    "name": "热更配置表",
+    "desc": "热更配置表",
+    "format": "reloadConfig",
+    "example": "reloadConfig"
+  },
+  {
+    "sn": "getOnlineNum",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10004
+    ],
+    "name": "系统：获取服务器在线人数",
+    "desc": "获取服务器在线人数",
+    "format": "getOnlineNum",
+    "example": "getOnlineNum"
+  },
+  {
+    "sn": "showMsgContentSwitch",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10005
+    ],
+    "name": "调试:显示消息内容开关",
+    "desc": "调试:显示消息内容开关",
+    "format": "showMsgContentSwitch",
+    "example": "showMsgContentSwitch"
+  },
+  {
+    "sn": "closeCheckToken",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10006
+    ],
+    "name": "关闭服务器验证token",
+    "desc": "解决手机包连不上自启服务器",
+    "format": "closeCheckToken",
+    "example": "closeCheckToken"
+  },
+  {
+    "sn": "openCheckToken",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10007
+    ],
+    "name": "开启服务器验证token",
+    "desc": "开启服务器验证token",
+    "format": "openCheckToken",
+    "example": "openCheckToken"
+  },
+  {
+    "sn": "setPlayerType",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10008
+    ],
+    "name": "设置玩家实名类型(默认成年 1.游客 2.<8 3.<16 4.<18)",
+    "desc": "设置玩家实名类型(默认成年 1.游客 2.<8 3.<16 4.<18)",
+    "format": "setPlayerType [type]",
+    "example": "setPlayerType 1"
+  },
+  {
+    "sn": "kick",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10009
+    ],
+    "name": "isTourist=1游客 0未成年 isWorkday=默认22-次日8点 1工作日 0假期",
+    "desc": "isTourist=1游客 0未成年 isWorkday=默认22-次日8点 1工作日 0假期",
+    "format": "kick isTourist[isWorkday]",
+    "example": "kick 0 1"
+  },
+  {
+    "sn": "getAttr",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10010
+    ],
+    "name": "查看玩家属性",
+    "desc": "查看玩家某一条属性的详细值",
+    "format": "getAttr key",
+    "example": "getAttr 111"
+  },
+  {
+    "sn": "modifyAttr",
+    "type": 0,
+    "group": [
+      "服务器"
+    ],
+    "orderGroup": [
+      10011
+    ],
+    "name": "修改玩家指定属性",
+    "desc": "修改玩家一组指定属性",
+    "format": "modifyAttr key1 value1 key2 value2 ...",
+    "example": "modifyAttr 112 1000.0 131 10.0"
+  },
+  {
+    "sn": "sendMail",
+    "type": 1,
+    "group": [
+      "邮件"
+    ],
+    "orderGroup": [
+      11001
+    ],
+    "name": "发送邮件",
+    "desc": "邮件sn 物品sn 物品数量",
+    "format": "sendMail",
+    "example": "sendMail 3 3010000 1"
+  },
+  {
+    "sn": "dailyChallengeTime",
+    "type": 1,
+    "group": [
+      "宫殿废墟"
+    ],
+    "orderGroup": [
+      12001
+    ],
+    "name": "挑战次数",
+    "desc": "增减挑战次数",
+    "format": "dailyChallengeTime 1 增加\ndailyChallengeTime -1 减少",
+    "example": "dailyChallengeTime 1"
+  },
+  {
+    "sn": "achievement",
+    "type": 1,
+    "group": [
+      "成就相关"
+    ],
+    "orderGroup": [
+      13001
+    ],
+    "name": "解锁某个成就",
+    "desc": "类型type[普通=0,章节=1] 成就sn",
+    "format": "completeAchievement  type sn",
+    "example": "completeAchievement 0 1"
+  },
+  {
+    "sn": "coopGetEmotion",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14001
+    ],
+    "name": "协力者-获得心情",
+    "desc": "获取指定协力者的心情状态",
+    "format": "coopGetEmotion [cooperatorSn]",
+    "example": "coopGetEmotion 1"
+  },
+  {
+    "sn": "coopGiftGive",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14002
+    ],
+    "name": "协力者-给礼物",
+    "desc": "赠送给指定协力者 x礼物 y数量",
+    "format": "coopGiftGive [cooperatorSn] [giftSn] [giftNum]...",
+    "example": "coopGiftGive 1 1 5"
+  },
+  {
+    "sn": "coopDatingFinish",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14003
+    ],
+    "name": "协力者-完成约会",
+    "desc": "完成指定约会",
+    "format": "coopDatingFinish [cooperatorSn] [dateSn]",
+    "example": "coopDatingFinish 1 121"
+  },
+  {
+    "sn": "coopModIntimacyLv",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14004
+    ],
+    "name": "协力者-设定协力等级",
+    "desc": "将协力者等级设定为指定等级",
+    "format": "coopModIntimacyLv [cooperatorSn] [level]",
+    "example": "coopModIntimacyLv 1 5"
+  },
+  {
+    "sn": "addIntimacy",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14005
+    ],
+    "name": "协力者-添加亲密度",
+    "desc": "向指定协力者添加一定数量的亲密度",
+    "format": "addIntimacy [cooperatorSn] [intimacy]",
+    "example": "addIntimacy 1 20"
+  },
+  {
+    "sn": "coopModEmotion",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14006
+    ],
+    "name": "协力者-调整角色心情",
+    "desc": "改变指定Coop心情",
+    "format": "coopModEmotion [cooperatorSn] [emotion]",
+    "example": "coopModEmotion 14 1"
+  },
+  {
+    "sn": "coopModDisplayInCity",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14007
+    ],
+    "name": "协力者-是否出现",
+    "desc": "设定是否在都市出现",
+    "format": "coopModDisplayInCity [cooperatorSn] 1/0",
+    "example": "coopModDisplayInCity 7 1"
+  },
+  {
+    "sn": "coopModCanDate",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14008
+    ],
+    "name": "协力者-是否可以接受邀约",
+    "desc": "是否会接受玩家邀约",
+    "format": "coopModCanDate [cooperatorSn] 1/0",
+    "example": "coopModCanDate 7 1"
+  },
+  {
+    "sn": "coopModDateSn",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14009
+    ],
+    "name": "协力者-约会地点",
+    "desc": "",
+    "format": "coopModDateSn [cooperatorSn][owCoopStorySn]",
+    "example": "coopModDateSn 7 711"
+  },
+  {
+    "sn": "addFiveDAttr",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14010
+    ],
+    "name": "调整人格指数",
+    "desc": "添加人格指数",
+    "format": "addFiveDAttr [attrSn] [arrt]",
+    "example": "addFiveDAttr 1 100 2 100 3 100 4 100 5 100"
+  },
+  {
+    "sn": "changeOpenWorldEvent",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14011
+    ],
+    "name": "改变事件状态",
+    "desc": "改变开放世界事件状态：1.添加；0.完成",
+    "format": "changeOpenWorldEvent [status] [eventSn]",
+    "example": "changeOpenWorldEvent 1 10011"
+  },
+  {
+    "sn": "unlockcoop sn",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14012
+    ],
+    "name": "协力者-解锁协力者",
+    "desc": "协力者解锁 0-全部 sn-coopSn",
+    "format": "unlockcoop [sn]",
+    "example": "unlockcoop 0"
+  },
+  {
+    "sn": "timeAdvance",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14013
+    ],
+    "name": "推进时段",
+    "desc": "推进时段",
+    "format": "timeAdvance",
+    "example": "timeAdvance"
+  },
+  {
+    "sn": "unlockStoryTime",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14014
+    ],
+    "name": "解锁剧情时段、天气",
+    "desc": "解锁剧情时段、天气",
+    "format": "unlockStoryTime",
+    "example": "unlockStoryTime"
+  },
+  {
+    "sn": "setMovieState",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14015
+    ],
+    "name": "修改电影状态",
+    "desc": "修改电影状态(电影sn 状态类(1首映 2上架 3玩家看过) 状态(false true))",
+    "format": "setMovieState",
+    "example": "setMovieState 101 1 true"
+  },
+  {
+    "sn": "unlockAllBooks",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14016
+    ],
+    "name": "一键添加所有图书",
+    "desc": "一键添加所有图书",
+    "format": "unlockAllBooks",
+    "example": "unlockAllBooks"
+  },
+  {
+    "sn": "changeUIForDevice",
+    "type": 1,
+    "group": [
+      "都市"
+    ],
+    "orderGroup": [
+      14017
+    ],
+    "name": "切换ui显示为对应端ui配置",
+    "desc": "切换ui显示为对应端ui配置 type: 1->键鼠 2->手机 3->手柄（暂时没有）",
+    "format": "changeUIForDevice [type]",
+    "example": "changeUIForDevice 1"
+  },
+  {
+    "sn": "addPersona",
+    "type": 1,
+    "group": [
+      "人格面具"
+    ],
+    "orderGroup": [
+      15001
+    ],
+    "name": "添加某个类型的人格面具",
+    "desc": "类型type[普通=0,宝魔=1] personaSn",
+    "format": "addPersona  type sn num[可选]",
+    "example": "addPersona 0 1001 1"
+  },
+  {
+    "sn": "unlockAllPersona",
+    "type": 1,
+    "group": [
+      "人格面具"
+    ],
+    "orderGroup": [
+      15002
+    ],
+    "name": "解锁五星人格面具或者宝魔",
+    "desc": "解锁五星人格面具或者宝魔",
+    "format": "unlockAllPersona",
+    "example": "unlockAllPersona"
+  },
+  {
+    "sn": "gm1",
+    "type": 3,
+    "group": [
+      "GM指令组"
+    ],
+    "orderGroup": [
+      9022
+    ],
+    "name": "gm1",
+    "desc": "gm1",
+    "format": "itemAdd 1 999,itemAdd 1 99,itemAdd 1 99",
+    "example": "gm1"
+  },
+  {
+    "sn": "gm2",
+    "type": 3,
+    "group": [
+      "GM指令组"
+    ],
+    "orderGroup": [
+      9023
+    ],
+    "name": "gm2",
+    "desc": "gm2",
+    "format": "itemAdd 1 9999,itemAdd 1 99,itemAdd 1 99",
+    "example": "gm2"
+  },
+  {
+    "sn": "gm3",
+    "type": 3,
+    "group": [
+      "GM指令组"
+    ],
+    "orderGroup": [
+      9024
+    ],
+    "name": "gm3",
+    "desc": "gm3",
+    "format": "itemAdd 1 999,itemAdd 1 99,itemAdd 1 99",
+    "example": "gm3"
+  },
+  {
+    "sn": "gm4",
+    "type": 3,
+    "group": [
+      "GM指令组"
+    ],
+    "orderGroup": [
+      9025
+    ],
+    "name": "gm4",
+    "desc": "gm4",
+    "format": "gm1,gm2,gm3",
+    "example": "gm4"
+  },
+  {
+    "sn": "postProcessUI",
+    "type": 1,
+    "group": [
+      "测试"
+    ],
+    "orderGroup": [
+      30004
+    ],
+    "name": "测试UI后效",
+    "desc": "测试UI后效",
+    "format": "postProcessUI [num]",
+    "example": "postProcessUI 1"
+  },
+  {
+    "sn": "autoTest",
+    "type": 1,
+    "group": [
+      "测试"
+    ],
+    "orderGroup": [
+      30005
+    ],
+    "name": "自动测试",
+    "desc": "自动测试",
+    "format": "autoTest [groupId]",
+    "example": "autoTest 1"
+  },
+  {
+    "sn": "testProto",
+    "type": 1,
+    "group": [
+      "测试协议"
+    ],
+    "orderGroup": [
+      30006
+    ],
+    "name": "测试客户端协议",
+    "desc": "发送客户端协议",
+    "format": "testProto CSxx field1 value1 field2 value2 ...",
+    "example": "testProto CSShopQuery shopSn 1"
+  },
+  {
+    "sn": "testAntiAddiction",
+    "type": 1,
+    "group": [
+      "测试"
+    ],
+    "orderGroup": [
+      30007
+    ],
+    "name": "测试防沉迷退出逻辑",
+    "desc": "测试防沉迷退出逻辑",
+    "format": "testAntiAddiction",
+    "example": "testAntiAddiction"
+  },
+  {
+    "sn": "updateUIState",
+    "type": 1,
+    "group": [
+      "测试"
+    ],
+    "orderGroup": [
+      30008
+    ],
+    "name": "特定UI的显隐",
+    "desc": "隐藏特定UI或者显示",
+    "format": "updateUIState",
+    "example": "updateUIState /UI-zhujiemian-youcegongnengqu01.prefab/zuoshang/gongneng/rukou/kaohe/increaseclick"
+  },
+  {
+    "sn": "logicNpcToggle",
+    "type": 1,
+    "group": [
+      "逻辑开关"
+    ],
+    "orderGroup": [
+      40001
+    ],
+    "name": "NPC是否创建",
+    "desc": "NPC是否创建 [创建=1，不创建=0]",
+    "format": "logicNpcToggle [num]",
+    "example": "logicNpcToggle 1"
+  },
+  {
+    "sn": "logicAmbientNpcToggle",
+    "type": 1,
+    "group": [
+      "逻辑开关"
+    ],
+    "orderGroup": [
+      40002
+    ],
+    "name": "氛围NPC是否创建",
+    "desc": "氛围NPC是否创建 [创建=1，不创建=0]",
+    "format": "logicAmbientNpcToggle [num]",
+    "example": "logicAmbientNpcToggle 1"
+  },
+  {
+    "sn": "logicBirdToggle",
+    "type": 1,
+    "group": [
+      "逻辑开关"
+    ],
+    "orderGroup": [
+      40003
+    ],
+    "name": "鸽子是否创建",
+    "desc": "鸽子是否创建 [创建=1，不创建=0]",
+    "format": "logicBirdToggle [num]",
+    "example": "logicBirdToggle 1"
+  },
+  {
+    "sn": "logicPalaceObjToggle",
+    "type": 1,
+    "group": [
+      "逻辑开关"
+    ],
+    "orderGroup": [
+      40004
+    ],
+    "name": "宫殿机关是否创建",
+    "desc": "宫殿机关是否创建 [创建=1，不创建=0]",
+    "format": "logicPalaceObjToggle [num]",
+    "example": "logicPalaceObjToggle 1"
+  },
+  {
+    "sn": "logicAllToggle",
+    "type": 1,
+    "group": [
+      "逻辑开关"
+    ],
+    "orderGroup": [
+      40005
+    ],
+    "name": "以上所有逻辑是否创建",
+    "desc": "所有逻辑是否创建 [创建=1，不创建=0]",
+    "format": "logicAllToggle [num]",
+    "example": "logicAllToggle 1"
+  },
+  {
+    "sn": "rimPro1",
+    "type": 1,
+    "group": [
+      "边缘光"
+    ],
+    "orderGroup": [
+      40001
+    ],
+    "name": "OutlineWidth",
+    "desc": "OutlineWidth",
+    "format": "_OutlineWidth1 0.001",
+    "example": "rimPro1 0.0015"
+  },
+  {
+    "sn": "rimPro2",
+    "type": 1,
+    "group": [
+      "边缘光"
+    ],
+    "orderGroup": [
+      40002
+    ],
+    "name": "远处边缘光宽度",
+    "desc": "远处边缘光宽度",
+    "format": "_RimThickness1 0.6",
+    "example": "rimPro2 0.6"
+  },
+  {
+    "sn": "rimPro3",
+    "type": 1,
+    "group": [
+      "边缘光"
+    ],
+    "orderGroup": [
+      40003
+    ],
+    "name": "近距离边缘光宽度",
+    "desc": "近距离边缘光宽度",
+    "format": "_RoleNearWidth1 0.4",
+    "example": "rimPro3 0.4"
+  },
+  {
+    "sn": "rimColor1",
+    "type": 1,
+    "group": [
+      "边缘光"
+    ],
+    "orderGroup": [
+      40004
+    ],
+    "name": "边缘光颜色",
+    "desc": "边缘光颜色",
+    "format": "rimColor1 RGBA",
+    "example": "rimColor1 82 82 82 255"
+  },
+  {
+    "sn": "rimColor2",
+    "type": 1,
+    "group": [
+      "边缘光"
+    ],
+    "orderGroup": [
+      40005
+    ],
+    "name": "OutlineColor颜色",
+    "desc": "OutlineColor颜色",
+    "format": "rimColor2 RGBA",
+    "example": "rimColor2 0 0 0 255"
+  },
+  {
+    "sn": "testCrashSDK",
+    "type": 1,
+    "group": [
+      "测试"
+    ],
+    "orderGroup": [
+      30008
+    ],
+    "name": "测试CrashSDK",
+    "desc": "调出 Crash SDK 测试UI",
+    "format": "testCrashSDK",
+    "example": "testCrashSDK"
+  }
+]

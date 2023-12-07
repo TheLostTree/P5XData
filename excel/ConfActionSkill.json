@@ -1,0 +1,122 @@
+[
+  {
+    "sn": 1,
+    "actName": "TL_man_new_attack1.prefab",
+    "type": 1,
+    "interrupt": 2,
+    "passivetype1": "10",
+    "movePoint": 550,
+    "hitAngle": 200,
+    "hitRadius": 3.5,
+    "hitHeight": 2.5,
+    "effect": "joker_thief@effect_attack1.prefab"
+  },
+  {
+    "sn": 2,
+    "actName": "TL_man_new_attack2.prefab",
+    "type": 1,
+    "interrupt": 2,
+    "passivetype1": "10",
+    "movePoint": 750,
+    "hitAngle": 200,
+    "hitRadius": 3.5,
+    "hitHeight": 2.5,
+    "effect": "joker_thief@effect_attack2.prefab"
+  },
+  {
+    "sn": 3,
+    "actName": "TL_man_new_attack3.prefab",
+    "type": 1,
+    "interrupt": 2,
+    "passivetype1": "10",
+    "movePoint": 750,
+    "hitAngle": 200,
+    "hitRadius": 3.5,
+    "hitHeight": 2.5,
+    "effect": "joker_thief@effect_attack3.prefab"
+  },
+  {
+    "sn": 4,
+    "actName": "TL_man_sprint.prefab",
+    "type": 2,
+    "interrupt": 2,
+    "passivetype1": "15",
+    "movePoint": 0,
+    "hitAngle": 0,
+    "hitRadius": 0,
+    "hitHeight": 0,
+    "effect": ""
+  },
+  {
+    "sn": 5,
+    "actName": "",
+    "type": 3,
+    "interrupt": 3,
+    "passivetype1": "",
+    "movePoint": 0,
+    "hitAngle": 0,
+    "hitRadius": 0,
+    "hitHeight": 0,
+    "effect": ""
+  },
+  {
+    "sn": 6,
+    "actName": "",
+    "type": 4,
+    "interrupt": 3,
+    "passivetype1": "",
+    "movePoint": 0,
+    "hitAngle": 0,
+    "hitRadius": 0,
+    "hitHeight": 0,
+    "effect": ""
+  },
+  {
+    "sn": 7,
+    "actName": "",
+    "type": 5,
+    "interrupt": 3,
+    "passivetype1": "",
+    "movePoint": 0,
+    "hitAngle": 0,
+    "hitRadius": 0,
+    "hitHeight": 0,
+    "effect": ""
+  },
+  {
+    "sn": 8,
+    "actName": "TL_mona_car_attack1.prefab",
+    "type": 1,
+    "interrupt": 2,
+    "passivetype1": "10",
+    "movePoint": 550,
+    "hitAngle": 200,
+    "hitRadius": 3.5,
+    "hitHeight": 2.5,
+    "effect": ""
+  },
+  {
+    "sn": 9,
+    "actName": "TL_car_sprint.prefab",
+    "type": 2,
+    "interrupt": 2,
+    "passivetype1": "15",
+    "movePoint": 0,
+    "hitAngle": 0,
+    "hitRadius": 0,
+    "hitHeight": 0,
+    "effect": ""
+  },
+  {
+    "sn": 10,
+    "actName": "TL_man_new_attack1_rush.prefab",
+    "type": 1,
+    "interrupt": 2,
+    "passivetype1": "10",
+    "movePoint": 750,
+    "hitAngle": 200,
+    "hitRadius": 3.5,
+    "hitHeight": 2.5,
+    "effect": "joker_thief@effect_attack1_runDash.prefab"
+  }
+]

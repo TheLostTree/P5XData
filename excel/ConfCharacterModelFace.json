@@ -1,0 +1,29 @@
+[
+  {
+    "sn": "skull_uniform",
+    "faceAvatarMask": "skull_uniform_face",
+    "eyesAvatarMask": "skull_uniform_eyes",
+    "mouthAvatarMask": "skull_uniform_mouth",
+    "speakAnims": [
+      "skull_uniform@mouth_be",
+      "skull_uniform@mouth_se"
+    ],
+    "blinkAnims": [
+      "skull_uniform@blink",
+      "skull_uniform@blink_twice"
+    ]
+  },
+  {
+    "sn": "panther_uniform",
+    "faceAvatarMask": "panther_uniform_face",
+    "eyesAvatarMask": "panther_uniform_eyes",
+    "mouthAvatarMask": "panther_uniform_mouth",
+    "speakAnims": [
+      "panther_uniform@mouth_be",
+      "panther_uniform@mouth_se"
+    ],
+    "blinkAnims": [
+      "panther_uniform@blink"
+    ]
+  }
+]

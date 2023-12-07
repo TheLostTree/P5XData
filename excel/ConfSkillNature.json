@@ -1,0 +1,300 @@
+[
+  {
+    "sn": 1,
+    "name": "物理",
+    "picIcon": "persona-wu-new.png",
+    "textIcon": "shuxingtubiao-wu.png",
+    "color": "#9F8B2F",
+    "nature": 1,
+    "resistNature": 1,
+    "echoBuff": [
+      41001
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "物理元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-wuli-type-2.png",
+    "echobufficon_di": "zouming-icon-wuli-type-1.png"
+  },
+  {
+    "sn": 2,
+    "name": "射击",
+    "picIcon": "persona-she-new.png",
+    "textIcon": "shuxingtubiao-she.png",
+    "color": "#79680C",
+    "nature": 1,
+    "resistNature": 1,
+    "echoBuff": [
+      41002
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "射击元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-sheji-type-2.png",
+    "echobufficon_di": "zouming-icon-sheji-type-1.png"
+  },
+  {
+    "sn": 3,
+    "name": "火炎",
+    "picIcon": "persona-huo-new.png",
+    "textIcon": "shuxingtubiao-huo.png",
+    "color": "#B91F1F",
+    "nature": 1,
+    "resistNature": 1,
+    "echoBuff": [
+      41003
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "火焰元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-huo-type-2.png",
+    "echobufficon_di": "zouming-icon-huo-type-1.png"
+  },
+  {
+    "sn": 4,
+    "name": "冻结",
+    "picIcon": "persona-bing-new.png",
+    "textIcon": "shuxingtubiao-bing.png",
+    "color": "#1E75A4",
+    "nature": 1,
+    "resistNature": 1,
+    "echoBuff": [
+      41004
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "冻结元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-bingdong-type-2.png",
+    "echobufficon_di": "zouming-icon-bingdong-type-1.png"
+  },
+  {
+    "sn": 5,
+    "name": "电击",
+    "picIcon": "persona-dian-new.png",
+    "textIcon": "shuxingtubiao-dian.png",
+    "color": "#DDC83B",
+    "nature": 1,
+    "resistNature": 1,
+    "echoBuff": [
+      41005
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "电击元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-dianji-type-2.png",
+    "echobufficon_di": "zouming-icon-dianji-type-1.png"
+  },
+  {
+    "sn": 6,
+    "name": "疾风",
+    "picIcon": "persona-feng-new.png",
+    "textIcon": "shuxingtubiao-feng.png",
+    "color": "#4DB02D",
+    "nature": 1,
+    "resistNature": 1,
+    "echoBuff": [
+      41006
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "疾风元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-jifeng-type-2.png",
+    "echobufficon_di": "zouming-icon-jifeng-type-1.png"
+  },
+  {
+    "sn": 7,
+    "name": "念动",
+    "picIcon": "persona-nian-new.png",
+    "textIcon": "shuxingtubiao-nian.png",
+    "color": "#90187A",
+    "nature": 1,
+    "resistNature": 1,
+    "echoBuff": [
+      41007
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "念动元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-niandong-type-2.png",
+    "echobufficon_di": "zouming-icon-niandong-type-1.png"
+  },
+  {
+    "sn": 8,
+    "name": "核热",
+    "picIcon": "persona-he-new.png",
+    "textIcon": "shuxingtubiao-he.png",
+    "color": "#16DFEE",
+    "nature": 1,
+    "resistNature": 1,
+    "echoBuff": [
+      41008
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "核热元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-here-type-2.png",
+    "echobufficon_di": "zouming-icon-here-type-1.png"
+  },
+  {
+    "sn": 9,
+    "name": "祝福",
+    "picIcon": "persona-zhu-new.png",
+    "textIcon": "shuxingtubiao-zhu.png",
+    "color": "#FFFEA0",
+    "nature": 1,
+    "resistNature": 1,
+    "echoBuff": [
+      41009
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "祝福元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-zhufu-type-2.png",
+    "echobufficon_di": "zouming-icon-zhufu-type-1.png"
+  },
+  {
+    "sn": 10,
+    "name": "诅咒",
+    "picIcon": "persona-zhou-new.png",
+    "textIcon": "shuxingtubiao-zhou.png",
+    "color": "#60215E",
+    "nature": 1,
+    "resistNature": 1,
+    "echoBuff": [
+      41010
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "诅咒元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-zuzhou-type-2.png",
+    "echobufficon_di": "zouming-icon-zuzhou-type-1.png"
+  },
+  {
+    "sn": 11,
+    "name": "万能",
+    "picIcon": "persona-wan-new.png",
+    "textIcon": "shuxingtubiao-wan.png",
+    "color": "#90848F",
+    "nature": 1,
+    "resistNature": 0,
+    "echoBuff": [
+      41011
+    ],
+    "echoBuffValue": [
+      0.05
+    ],
+    "echobufftitle": [
+      "面具协奏曲"
+    ],
+    "echobuffdesc": [
+      "万能元素怪盗技能伤害提升5%"
+    ],
+    "echobufficon": "zouming-icon-wanneng-type-2.png",
+    "echobufficon_di": "zouming-icon-wanneng-type-1.png"
+  },
+  {
+    "sn": 12,
+    "name": "治疗",
+    "picIcon": "persona-hui-new.png",
+    "textIcon": "shuxingtubiao-hui.png",
+    "color": "#106A20",
+    "nature": 1,
+    "resistNature": 0,
+    "echoBuff": [],
+    "echoBuffValue": [],
+    "echobufftitle": [],
+    "echobuffdesc": [],
+    "echobufficon": "",
+    "echobufficon_di": ""
+  },
+  {
+    "sn": 13,
+    "name": "辅助",
+    "picIcon": "persona-fu-new.png",
+    "textIcon": "shuxingtubiao-fu.png",
+    "color": "#106A20",
+    "nature": 1,
+    "resistNature": 0,
+    "echoBuff": [],
+    "echoBuffValue": [],
+    "echobufftitle": [],
+    "echobuffdesc": [],
+    "echobufficon": "",
+    "echobufficon_di": ""
+  },
+  {
+    "sn": 14,
+    "name": "异常",
+    "picIcon": "persona-yi-new.png",
+    "textIcon": "shuxingtubiao-yi.png",
+    "color": "#390830",
+    "nature": 1,
+    "resistNature": 0,
+    "echoBuff": [],
+    "echoBuffValue": [],
+    "echobufftitle": [],
+    "echobuffdesc": [],
+    "echobufficon": "",
+    "echobufficon_di": ""
+  }
+]

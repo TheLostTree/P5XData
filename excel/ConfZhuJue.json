@@ -1,0 +1,111 @@
+[
+  {
+    "sn": 101,
+    "name": "WONDER",
+    "school": 1,
+    "sceneSn": 2103,
+    "unlockParam": 0,
+    "model": [
+      "wonder",
+      "wonder_uniform",
+      "wonder_uniform",
+      "cattle_car"
+    ],
+    "modelUI": "wonder",
+    "thiefCode": "guaidao-daihao-wonder.png",
+    "thiefCodePos": [
+      -40,
+      -21,
+      0
+    ],
+    "typeSN": 1,
+    "modelFashionAble": "1,2,3|1,2,3|1,2,3,7|1,2,3",
+    "leaderName": "",
+    "dialogPic": [
+      "duihua-joker-guaidao.png",
+      "duihua-joker.png",
+      "duihua-joker.png",
+      "duihua-joker-guaidao.png"
+    ],
+    "qishiScale": 1,
+    "qishiPosition": [
+      0,
+      0,
+      0
+    ],
+    "qishiRotation": [
+      0,
+      0,
+      0
+    ],
+    "gradeInitial": 5,
+    "personaInitial": 101,
+    "weaponInitial": 200101,
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "equipEnterTL": "TL_UI_WeaponEnter_wonder",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "cvName": "",
+    "showSound": "Sys_Wonder0002",
+    "weaponenter_sound": "VO_Wonder0001",
+    "thiefchange_sound": "Sys_Wonder0002",
+    "cardenter_sound": "VO_Wonder0059",
+    "thiefbattle_sound": "Sys_Wonder0002",
+    "levelup_sound": "Sys_Wonder0003",
+    "breach_sound": "Sys_Wonder0007",
+    "weaponchange_sound": "Sys_Wonder0006",
+    "bigPic": "kapai-002.png",
+    "readyPic": "guaidao-kapai-joker-new.png",
+    "zhengrongReadyPic": "zhenrong-lihui-wonder-new.png",
+    "thiefBigPicPos": [
+      199.1,
+      -39.7,
+      0
+    ],
+    "jinjieThiefpos": [],
+    "jinjieThiefScale": 0,
+    "zhenronglistThiefpos": [
+      0,
+      0,
+      0
+    ],
+    "readyShadowPic": "kamian-9-2.png",
+    "littlePic": "kapai-joker01.png",
+    "readyPicThiefPos": "kamian-9-1.png",
+    "readyShadowPicThiefPos": "kamian-9-2.png",
+    "icon": "Tongyong-touxiang-A-11.png",
+    "isOpen": [
+      1
+    ],
+    "startStroy": 5003,
+    "property": [
+      241,
+      261,
+      271,
+      251,
+      281,
+      291,
+      321,
+      331
+    ],
+    "initialPropertyValue": [
+      184.28,
+      46.24,
+      33.24,
+      52.5,
+      0.05,
+      1.5,
+      2,
+      1
+    ],
+    "lockedTips": "完成“%s\"解锁",
+    "skillgroup": [
+      10101
+    ],
+    "gunSkill": 10161,
+    "gunBullets": 8,
+    "gunAccuracy": 0.9,
+    "gunCritical": 0.0611
+  }
+]

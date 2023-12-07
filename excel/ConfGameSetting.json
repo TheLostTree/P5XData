@@ -1,0 +1,37 @@
+[
+  {
+    "sn": 1,
+    "name": "屏蔽好友申请",
+    "autoSelect": 0,
+    "order": 1,
+    "serSave": 1
+  },
+  {
+    "sn": 2,
+    "name": "允许推送消息",
+    "autoSelect": 1,
+    "order": 2,
+    "serSave": 1
+  },
+  {
+    "sn": 3,
+    "name": "屏蔽组队申请",
+    "autoSelect": 0,
+    "order": 3,
+    "serSave": 1
+  },
+  {
+    "sn": 5,
+    "name": "显示聊天信息缩略",
+    "autoSelect": 1,
+    "order": 5,
+    "serSave": 1
+  },
+  {
+    "sn": 6,
+    "name": "收到联盟消息时提醒",
+    "autoSelect": 0,
+    "order": 6,
+    "serSave": 1
+  }
+]

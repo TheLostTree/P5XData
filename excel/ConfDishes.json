@@ -1,0 +1,360 @@
+[
+  {
+    "sn": 1001,
+    "name": "炸猪排",
+    "dishItem": 304200,
+    "dishMenu": 0,
+    "dishType": 2,
+    "dishTypeS": 1,
+    "cookNum": [
+      5,
+      10,
+      15
+    ],
+    "specialDishProbability": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "dishUsedItem": [
+      [
+        304001,
+        1
+      ],
+      [
+        304002,
+        1
+      ],
+      [
+        304021,
+        1
+      ]
+    ],
+    "specialDishItem": 304600,
+    "specialMenuProbability": 5,
+    "specialMenuItem": 305105,
+    "firstCookAward": 200018,
+    "sort": 1000
+  },
+  {
+    "sn": 1002,
+    "name": "味增拉面",
+    "dishItem": 304201,
+    "dishMenu": 0,
+    "dishType": 2,
+    "dishTypeS": 1,
+    "cookNum": [
+      10,
+      20,
+      30
+    ],
+    "specialDishProbability": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "dishUsedItem": [
+      [
+        304001,
+        1
+      ],
+      [
+        304002,
+        2
+      ],
+      [
+        304007,
+        1
+      ]
+    ],
+    "specialDishItem": 304601,
+    "specialMenuProbability": 10,
+    "specialMenuItem": 305105,
+    "firstCookAward": 200019,
+    "sort": 1001
+  },
+  {
+    "sn": 1003,
+    "name": "三文鱼刺身",
+    "dishItem": 304202,
+    "dishMenu": 0,
+    "dishType": 2,
+    "dishTypeS": 1,
+    "cookNum": [
+      15,
+      30,
+      45
+    ],
+    "specialDishProbability": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "dishUsedItem": [
+      [
+        303308,
+        2
+      ],
+      [
+        304005,
+        1
+      ],
+      [
+        304008,
+        1
+      ]
+    ],
+    "specialDishItem": 304602,
+    "specialMenuProbability": 15,
+    "specialMenuItem": 305105,
+    "firstCookAward": 200020,
+    "sort": 1002
+  },
+  {
+    "sn": 1004,
+    "name": "和果子",
+    "dishItem": 304203,
+    "dishMenu": 0,
+    "dishType": 2,
+    "dishTypeS": 2,
+    "cookNum": [
+      10,
+      20,
+      30
+    ],
+    "specialDishProbability": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "dishUsedItem": [
+      [
+        304011,
+        1
+      ],
+      [
+        304012,
+        1
+      ],
+      [
+        304004,
+        1
+      ]
+    ],
+    "specialDishItem": 304603,
+    "specialMenuProbability": 10,
+    "specialMenuItem": 305105,
+    "firstCookAward": 200019,
+    "sort": 1003
+  },
+  {
+    "sn": 1005,
+    "name": "咖喱饭",
+    "dishItem": 304204,
+    "dishMenu": 0,
+    "dishType": 2,
+    "dishTypeS": 2,
+    "cookNum": [
+      15,
+      30,
+      45
+    ],
+    "specialDishProbability": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "dishUsedItem": [
+      [
+        304000,
+        1
+      ],
+      [
+        304023,
+        1
+      ],
+      [
+        306213,
+        1
+      ],
+      [
+        306211,
+        1
+      ],
+      [
+        304013,
+        1
+      ]
+    ],
+    "specialDishItem": 304604,
+    "specialMenuProbability": 15,
+    "specialMenuItem": 305105,
+    "firstCookAward": 200020,
+    "sort": 1004
+  },
+  {
+    "sn": 1006,
+    "name": "寿喜烧",
+    "dishItem": 304205,
+    "dishMenu": 305105,
+    "dishType": 2,
+    "dishTypeS": 2,
+    "cookNum": [
+      20,
+      40,
+      60
+    ],
+    "specialDishProbability": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "dishUsedItem": [
+      [
+        304024,
+        1
+      ],
+      [
+        306214,
+        1
+      ],
+      [
+        304010,
+        1
+      ],
+      [
+        304022,
+        1
+      ],
+      [
+        306212,
+        1
+      ]
+    ],
+    "specialDishItem": 304605,
+    "specialMenuProbability": 0,
+    "specialMenuItem": 0,
+    "firstCookAward": 200021,
+    "sort": 1005
+  },
+  {
+    "sn": 2001,
+    "name": "冬瓜茶",
+    "dishItem": 304215,
+    "dishMenu": 0,
+    "dishType": 3,
+    "dishTypeS": 4,
+    "cookNum": [
+      10,
+      20,
+      30
+    ],
+    "specialDishProbability": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "dishUsedItem": [
+      [
+        306210,
+        2
+      ],
+      [
+        304004,
+        1
+      ]
+    ],
+    "specialDishItem": 304615,
+    "specialMenuProbability": 10,
+    "specialMenuItem": 305117,
+    "firstCookAward": 200019,
+    "sort": 2001
+  },
+  {
+    "sn": 2002,
+    "name": "口水鸡",
+    "dishItem": 304216,
+    "dishMenu": 0,
+    "dishType": 3,
+    "dishTypeS": 4,
+    "cookNum": [
+      15,
+      30,
+      45
+    ],
+    "specialDishProbability": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "dishUsedItem": [
+      [
+        304023,
+        4
+      ],
+      [
+        304019,
+        1
+      ],
+      [
+        304020,
+        1
+      ],
+      [
+        304006,
+        1
+      ]
+    ],
+    "specialDishItem": 304616,
+    "specialMenuProbability": 15,
+    "specialMenuItem": 305117,
+    "firstCookAward": 200020,
+    "sort": 2002
+  },
+  {
+    "sn": 2003,
+    "name": "葱烧海参",
+    "dishItem": 304217,
+    "dishMenu": 305117,
+    "dishType": 3,
+    "dishTypeS": 4,
+    "cookNum": [
+      20,
+      40,
+      60
+    ],
+    "specialDishProbability": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "dishUsedItem": [
+      [
+        304032,
+        1
+      ],
+      [
+        304019,
+        1
+      ],
+      [
+        304005,
+        1
+      ]
+    ],
+    "specialDishItem": 304617,
+    "specialMenuProbability": 0,
+    "specialMenuItem": 0,
+    "firstCookAward": 200021,
+    "sort": 2003
+  }
+]

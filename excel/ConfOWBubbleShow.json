@@ -1,0 +1,63 @@
+[
+  {
+    "sn": 183,
+    "bubbleInterval": 6,
+    "contentGroupInterval": 0,
+    "bubbleTime": 3,
+    "delayTime": 3,
+    "contentGroup": [
+      10001,
+      10002
+    ]
+  },
+  {
+    "sn": 188,
+    "bubbleInterval": 2.1,
+    "contentGroupInterval": 0,
+    "bubbleTime": 1.4,
+    "delayTime": 3,
+    "contentGroup": [
+      18801
+    ]
+  },
+  {
+    "sn": 1001,
+    "bubbleInterval": 2.1,
+    "contentGroupInterval": 0,
+    "bubbleTime": 3,
+    "delayTime": 3,
+    "contentGroup": [
+      100101
+    ]
+  },
+  {
+    "sn": 5406,
+    "bubbleInterval": 2.1,
+    "contentGroupInterval": 0,
+    "bubbleTime": 3,
+    "delayTime": 3,
+    "contentGroup": [
+      100102
+    ]
+  },
+  {
+    "sn": 50109037,
+    "bubbleInterval": 0.5,
+    "contentGroupInterval": 0,
+    "bubbleTime": 6,
+    "delayTime": 3,
+    "contentGroup": [
+      200000
+    ]
+  },
+  {
+    "sn": 50109038,
+    "bubbleInterval": 0.5,
+    "contentGroupInterval": 0,
+    "bubbleTime": 6,
+    "delayTime": 3,
+    "contentGroup": [
+      200001
+    ]
+  }
+]

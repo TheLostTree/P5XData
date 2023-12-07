@@ -1,0 +1,434 @@
+[
+  {
+    "sn": 101,
+    "coopSn": 1,
+    "showPos": 1,
+    "showType": 0,
+    "name": "生日",
+    "desc": "??月??日",
+    "unlockSn": [
+      201
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 102,
+    "coopSn": 1,
+    "showPos": 2,
+    "showType": 0,
+    "name": "星座",
+    "desc": "??",
+    "unlockSn": [
+      201
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 103,
+    "coopSn": 1,
+    "showPos": 3,
+    "showType": 0,
+    "name": "年龄",
+    "desc": "??",
+    "unlockSn": [
+      201
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 104,
+    "coopSn": 1,
+    "showPos": 4,
+    "showType": 0,
+    "name": "职业",
+    "desc": "??",
+    "unlockSn": [
+      201
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 105,
+    "coopSn": 1,
+    "showPos": 5,
+    "showType": 0,
+    "name": "身高",
+    "desc": "174cm",
+    "unlockSn": [
+      301
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 106,
+    "coopSn": 1,
+    "showPos": 6,
+    "showType": 0,
+    "name": "体重",
+    "desc": "??",
+    "unlockSn": [
+      302
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 107,
+    "coopSn": 1,
+    "showPos": 7,
+    "showType": 0,
+    "name": "血型",
+    "desc": "??",
+    "unlockSn": [
+      302
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 108,
+    "coopSn": 1,
+    "showPos": 9,
+    "showType": 1,
+    "name": "兴趣",
+    "desc": "偶像活动",
+    "unlockSn": [
+      302
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 109,
+    "coopSn": 1,
+    "showPos": 11,
+    "showType": 1,
+    "name": "特长",
+    "desc": "投掷废弃物",
+    "unlockSn": [
+      302
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 201,
+    "coopSn": 2,
+    "showPos": 1,
+    "showType": 0,
+    "name": "生日",
+    "desc": "??月??日",
+    "unlockSn": [
+      202
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 202,
+    "coopSn": 2,
+    "showPos": 2,
+    "showType": 0,
+    "name": "星座",
+    "desc": "??",
+    "unlockSn": [
+      202
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 203,
+    "coopSn": 2,
+    "showPos": 3,
+    "showType": 0,
+    "name": "年龄",
+    "desc": "16岁",
+    "unlockSn": [
+      202
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 204,
+    "coopSn": 2,
+    "showPos": 4,
+    "showType": 0,
+    "name": "职业",
+    "desc": "学生",
+    "unlockSn": [
+      202
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 205,
+    "coopSn": 2,
+    "showPos": 5,
+    "showType": 0,
+    "name": "身高",
+    "desc": "160cm",
+    "unlockSn": [
+      202
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 206,
+    "coopSn": 2,
+    "showPos": 6,
+    "showType": 0,
+    "name": "体重",
+    "desc": "这是少女的秘密！",
+    "unlockSn": [
+      303
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 207,
+    "coopSn": 2,
+    "showPos": 7,
+    "showType": 0,
+    "name": "血型",
+    "desc": "??",
+    "unlockSn": [
+      306
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 208,
+    "coopSn": 2,
+    "showPos": 9,
+    "showType": 1,
+    "name": "兴趣",
+    "desc": "健身、高热量食物",
+    "unlockSn": [
+      308
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 209,
+    "coopSn": 2,
+    "showPos": 11,
+    "showType": 1,
+    "name": "特长",
+    "desc": "体育全能",
+    "unlockSn": [
+      308
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 301,
+    "coopSn": 3,
+    "showPos": 1,
+    "showType": 0,
+    "name": "生日",
+    "desc": "??月??日",
+    "unlockSn": [
+      203
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 302,
+    "coopSn": 3,
+    "showPos": 2,
+    "showType": 0,
+    "name": "星座",
+    "desc": "??",
+    "unlockSn": [
+      203
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 303,
+    "coopSn": 3,
+    "showPos": 3,
+    "showType": 0,
+    "name": "年龄",
+    "desc": "17岁",
+    "unlockSn": [
+      203
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 304,
+    "coopSn": 3,
+    "showPos": 4,
+    "showType": 0,
+    "name": "职业",
+    "desc": "学生",
+    "unlockSn": [
+      203
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 305,
+    "coopSn": 3,
+    "showPos": 5,
+    "showType": 0,
+    "name": "身高",
+    "desc": "166cm",
+    "unlockSn": [
+      301
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 306,
+    "coopSn": 3,
+    "showPos": 6,
+    "showType": 0,
+    "name": "体重",
+    "desc": "你确定……真的想知道吗？",
+    "unlockSn": [
+      301
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 307,
+    "coopSn": 3,
+    "showPos": 7,
+    "showType": 0,
+    "name": "血型",
+    "desc": "??",
+    "unlockSn": [
+      301
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 308,
+    "coopSn": 3,
+    "showPos": 9,
+    "showType": 1,
+    "name": "兴趣",
+    "desc": "读书、散步",
+    "unlockSn": [
+      306
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 309,
+    "coopSn": 3,
+    "showPos": 11,
+    "showType": 1,
+    "name": "特长",
+    "desc": "制定计划、辩论",
+    "unlockSn": [
+      306
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 401,
+    "coopSn": 4,
+    "showPos": 1,
+    "showType": 0,
+    "name": "生日",
+    "desc": "??月??日",
+    "unlockSn": [
+      204
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 402,
+    "coopSn": 4,
+    "showPos": 2,
+    "showType": 0,
+    "name": "星座",
+    "desc": "??",
+    "unlockSn": [
+      204
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 403,
+    "coopSn": 4,
+    "showPos": 3,
+    "showType": 0,
+    "name": "年龄",
+    "desc": "??",
+    "unlockSn": [
+      204
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 404,
+    "coopSn": 4,
+    "showPos": 4,
+    "showType": 0,
+    "name": "职业",
+    "desc": "??",
+    "unlockSn": [
+      204
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 405,
+    "coopSn": 4,
+    "showPos": 5,
+    "showType": 0,
+    "name": "身高",
+    "desc": "25cm/50cm",
+    "unlockSn": [
+      305
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 406,
+    "coopSn": 4,
+    "showPos": 6,
+    "showType": 0,
+    "name": "体重",
+    "desc": "900g/3.5kg",
+    "unlockSn": [
+      308
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 407,
+    "coopSn": 4,
+    "showPos": 7,
+    "showType": 0,
+    "name": "血型",
+    "desc": "??",
+    "unlockSn": [
+      308
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 408,
+    "coopSn": 4,
+    "showPos": 9,
+    "showType": 1,
+    "name": "兴趣",
+    "desc": "梳理羽毛",
+    "unlockSn": [
+      310
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 409,
+    "coopSn": 4,
+    "showPos": 11,
+    "showType": 1,
+    "name": "特长",
+    "desc": "道具制作",
+    "unlockSn": [
+      310
+    ],
+    "conditionType": 0
+  }
+]

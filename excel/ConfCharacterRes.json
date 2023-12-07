@@ -1,0 +1,1142 @@
+[
+  {
+    "sn": "wonder",
+    "characterColor": "#ff0000",
+    "camModelSize": 0,
+    "featureImg": 81,
+    "skillIcon": "guaidao-mianjuicon-wonder.png",
+    "generalAttackImg": "wonder-generalAttack.png",
+    "generalAttackShift": [
+      0,
+      16,
+      0,
+      16,
+      0,
+      16
+    ],
+    "generalAttackScale": [
+      0.6,
+      0.6,
+      0.5
+    ],
+    "gunShift": "0.356,-0.1,0.2;0.356,-0.2,0.2",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "0,0;-20,35;-5,68;-72,0",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_wonder_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_wonder_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_wonder1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_wonder1.prefab",
+    "battleEndTL": [
+      "TL_joker_victory.prefab",
+      "TL_joker_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootCD": 100,
+    "endShootAnim": 500,
+    "showtimeTimeline": "TL_wonder_HighLight.prefab",
+    "showtimeScene": "HighLight_wonder",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "wonder_uniform",
+    "characterColor": "",
+    "camModelSize": 0,
+    "featureImg": 0,
+    "skillIcon": "",
+    "generalAttackImg": "",
+    "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generalAttackScale": [
+      0,
+      0,
+      0
+    ],
+    "gunShift": "",
+    "gunScale": "",
+    "oneMoreImgShift": "",
+    "oneMoreImgScale": "",
+    "castResCrt": "",
+    "personaTL": "",
+    "footfireoff": 0,
+    "oneMoreTL": "",
+    "alloutatkTL": "",
+    "alloutatkTL1080p": "",
+    "battleEndTL": [],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [],
+    "idleAnims": [
+      "monaodai_story",
+      "motoufa_story"
+    ],
+    "bulletImg": "",
+    "shootCD": 0,
+    "endShootAnim": 0,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "",
+    "showtimeVideo": "",
+    "showtimeVideoPause": 0,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "wonder_autumn",
+    "characterColor": "",
+    "camModelSize": 0,
+    "featureImg": 0,
+    "skillIcon": "",
+    "generalAttackImg": "",
+    "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generalAttackScale": [
+      0,
+      0,
+      0
+    ],
+    "gunShift": "",
+    "gunScale": "",
+    "oneMoreImgShift": "",
+    "oneMoreImgScale": "",
+    "castResCrt": "",
+    "personaTL": "",
+    "footfireoff": 0,
+    "oneMoreTL": "",
+    "alloutatkTL": "",
+    "alloutatkTL1080p": "",
+    "battleEndTL": [],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [],
+    "idleAnims": [
+      "monaodai_story",
+      "motoufa_story"
+    ],
+    "bulletImg": "",
+    "shootCD": 0,
+    "endShootAnim": 0,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "",
+    "showtimeVideo": "",
+    "showtimeVideoPause": 0,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "joker",
+    "characterColor": "#ff0000",
+    "camModelSize": 0,
+    "featureImg": 6,
+    "skillIcon": "guaidao-mianjuicon-joker.png",
+    "generalAttackImg": "joker-generalAttack.png",
+    "generalAttackShift": [
+      -0.4,
+      0.14,
+      -0.4,
+      0.14,
+      -0.4,
+      0.14
+    ],
+    "generalAttackScale": [
+      0.6,
+      0.6,
+      0.5
+    ],
+    "gunShift": "0.356,-0.1,0.2;0.356,-0.2,0.2",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "0,0;-30,34;-19,92;-102,-5",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_joker_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_joker_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_joker1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_joker1.prefab",
+    "battleEndTL": [
+      "TL_joker_victory1.prefab",
+      "TL_joker_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootCD": 100,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "joker_uniform",
+    "characterColor": "",
+    "camModelSize": 0,
+    "featureImg": 0,
+    "skillIcon": "",
+    "generalAttackImg": "",
+    "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generalAttackScale": [
+      0,
+      0,
+      0
+    ],
+    "gunShift": "",
+    "gunScale": "",
+    "oneMoreImgShift": "",
+    "oneMoreImgScale": "",
+    "castResCrt": "",
+    "personaTL": "",
+    "footfireoff": 0,
+    "oneMoreTL": "",
+    "alloutatkTL": "",
+    "alloutatkTL1080p": "",
+    "battleEndTL": [],
+    "idleInterval": [],
+    "idleBattleAnims": [],
+    "idleAnims": [],
+    "bulletImg": "",
+    "shootCD": 0,
+    "endShootAnim": 0,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "",
+    "showtimeVideo": "",
+    "showtimeVideoPause": 0,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "joker_uniform_bag",
+    "characterColor": "",
+    "camModelSize": 0,
+    "featureImg": 0,
+    "skillIcon": "",
+    "generalAttackImg": "",
+    "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generalAttackScale": [
+      0,
+      0,
+      0
+    ],
+    "gunShift": "",
+    "gunScale": "",
+    "oneMoreImgShift": "",
+    "oneMoreImgScale": "",
+    "castResCrt": "",
+    "personaTL": "",
+    "footfireoff": 0,
+    "oneMoreTL": "",
+    "alloutatkTL": "",
+    "alloutatkTL1080p": "",
+    "battleEndTL": [],
+    "idleInterval": [],
+    "idleBattleAnims": [],
+    "idleAnims": [],
+    "bulletImg": "",
+    "shootCD": 0,
+    "endShootAnim": 0,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "",
+    "showtimeVideo": "",
+    "showtimeVideoPause": 0,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "joker_uniform_glasses",
+    "characterColor": "",
+    "camModelSize": 0,
+    "featureImg": 0,
+    "skillIcon": "",
+    "generalAttackImg": "",
+    "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generalAttackScale": [
+      0,
+      0,
+      0
+    ],
+    "gunShift": "",
+    "gunScale": "",
+    "oneMoreImgShift": "",
+    "oneMoreImgScale": "",
+    "castResCrt": "",
+    "personaTL": "",
+    "footfireoff": 0,
+    "oneMoreTL": "",
+    "alloutatkTL": "",
+    "alloutatkTL1080p": "",
+    "battleEndTL": [],
+    "idleInterval": [],
+    "idleBattleAnims": [],
+    "idleAnims": [],
+    "bulletImg": "",
+    "shootCD": 0,
+    "endShootAnim": 0,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "",
+    "showtimeVideo": "",
+    "showtimeVideoPause": 0,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "mona",
+    "characterColor": "#00E9BA",
+    "camModelSize": 1,
+    "featureImg": 7,
+    "skillIcon": "guaidao-mianjuicon-moerjiana.png",
+    "generalAttackImg": "mona-generalAttack.png",
+    "generalAttackShift": [
+      -0.14,
+      -0.53,
+      -1.05,
+      -0.03,
+      0.44,
+      -0.33
+    ],
+    "generalAttackScale": [
+      0.6,
+      0.6,
+      0.5
+    ],
+    "gunShift": "0.128,0.595,0.666;0.128,0.7,0.666",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "-32,36;-49,68;-24,85;-119,-8",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_mona_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_mona_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_mona1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_mona1.prefab",
+    "battleEndTL": [
+      "TL_mona_victory.prefab",
+      "TL_mona_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan5.png",
+    "shootCD": 100,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "skull",
+    "characterColor": "#EBD900",
+    "camModelSize": 0,
+    "featureImg": 8,
+    "skillIcon": "guaidao-mianjuicon-banbenlongsi.png",
+    "generalAttackImg": "skull-generalAttack.png",
+    "generalAttackShift": [
+      -0.14,
+      -0.53,
+      -1.05,
+      -0.03,
+      0.44,
+      -0.33
+    ],
+    "generalAttackScale": [
+      0.6,
+      0.6,
+      0.5
+    ],
+    "gunShift": "-0.3,0.26,0.5;-0.3,0.36,0.5",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "47,0;9,35;4,68;-79,-5",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_skull_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_skull_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_skull1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_skull1.prefab",
+    "battleEndTL": [
+      "TL_skull_victory.prefab",
+      "TL_skull_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan2.png",
+    "shootCD": 100,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "skull_test",
+    "characterColor": "#EBD900",
+    "camModelSize": 0,
+    "featureImg": 8,
+    "skillIcon": "guaidao-mianjuicon-banbenlongsi.png",
+    "generalAttackImg": "skull-generalAttack.png",
+    "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "generalAttackScale": [
+      0,
+      0,
+      0
+    ],
+    "gunShift": "",
+    "gunScale": "",
+    "oneMoreImgShift": "75,17;37,28;6,74;-81,15",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_skull_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_skull_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_skull1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_skull1.prefab",
+    "battleEndTL": [
+      "TL_skull_victory.prefab",
+      "TL_skull_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan2.png",
+    "shootCD": 100,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "tembin",
+    "characterColor": "#6E60F0",
+    "camModelSize": 0,
+    "featureImg": 9,
+    "skillIcon": "guaidao-mianjuicon-tengchuanxueshi.png",
+    "generalAttackImg": "tembin-generalAttack.png",
+    "generalAttackShift": [
+      -0.15,
+      -0.58,
+      -0.98,
+      -0.81,
+      -0.03,
+      -0.59
+    ],
+    "generalAttackScale": [
+      0.68,
+      0.68,
+      0.62
+    ],
+    "gunShift": "-0.328,-0.101,-0.056;-0.328,0,-0.056",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "16,0;-20,28;-36,68;-97,-40",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_tembin_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_tembin_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_tembin1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_tembin1.prefab",
+    "battleEndTL": [
+      "TL_tembin_victory.prefab",
+      "TL_tembin_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootCD": 100,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "panther",
+    "characterColor": "#FF96CB",
+    "camModelSize": 0,
+    "featureImg": 77,
+    "skillIcon": "guaidao-mianjuicon-gaojuanxing.png",
+    "generalAttackImg": "panther-generalAttack.png",
+    "generalAttackShift": [
+      -0.14,
+      -0.53,
+      -1.05,
+      -0.03,
+      0.44,
+      -0.33
+    ],
+    "generalAttackScale": [
+      0.6,
+      0.6,
+      0.5
+    ],
+    "gunShift": "0.128,-0.336,0.544;0.128,-0.436,0.544",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "0,14;-4,43;-5,104;-72,18",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_panther_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_panther_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_panther1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
+    "battleEndTL": [
+      "TL_panther_victory.prefab",
+      "TL_panther_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootCD": 0,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [
+      "zhandou-new-huodi.png",
+      "zhandou-new-huo.png"
+    ],
+    "buffSn": 1191112,
+    "buffSkill": [
+      "119113"
+    ],
+    "buffSkillNum": [
+      "2"
+    ]
+  },
+  {
+    "sn": "fox",
+    "characterColor": "#008CE5",
+    "camModelSize": 0,
+    "featureImg": 74,
+    "skillIcon": "guaidao-mianjuicon-xiduochuanyoujie.png",
+    "generalAttackImg": "fox-generalAttack.png",
+    "generalAttackShift": [
+      0.48,
+      -0.27,
+      0.48,
+      -1.07,
+      1.03,
+      -1.05
+    ],
+    "generalAttackScale": [
+      0.5,
+      0.74,
+      0.61
+    ],
+    "gunShift": "0.125,1.15,0.5;0.125,1.25,0.5",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "71,33;11,21;-11,22;-47,-44",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_fox_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_fox_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_fox1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_fox1.prefab",
+    "battleEndTL": [
+      "TL_fox_victory.prefab",
+      "TL_fox_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan7.png",
+    "shootCD": 50,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "noir",
+    "characterColor": "#E00EF8",
+    "camModelSize": 0,
+    "featureImg": 75,
+    "skillIcon": "guaidao-mianjuicon-aochuncun.png",
+    "generalAttackImg": "noir-generalAttack.png",
+    "generalAttackShift": [
+      -0.09,
+      -0.53,
+      -0.6,
+      0.07,
+      0.32,
+      -0.03
+    ],
+    "generalAttackScale": [
+      0.6,
+      0.6,
+      0.5
+    ],
+    "gunShift": "0.011,-0.326,0.281;0.039,0.1,0.72",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "29,20;33,61;54,70;-74,39",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_noir_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_noir_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_noir1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_noir1.prefab",
+    "battleEndTL": [
+      "TL_noir_victory.prefab",
+      "TL_noir_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01",
+      "fight_standby_rest02"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan3.png",
+    "shootCD": 100,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "crow",
+    "characterColor": "#FF820C",
+    "camModelSize": 0,
+    "featureImg": 76,
+    "skillIcon": "guaidao-mianjuicon-mingzhiwulang.png",
+    "generalAttackImg": "crow-generalAttack.png",
+    "generalAttackShift": [
+      0.31,
+      -1.01,
+      -0.47,
+      -0.54,
+      0.34,
+      -0.19
+    ],
+    "generalAttackScale": [
+      0.6,
+      0.6,
+      0.5
+    ],
+    "gunShift": "0.045,0,0.192;0.045,0,1,0.192",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "61,12;11,21;8,23;-38,-25",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_crow_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_crow_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_crow1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_crow1.prefab",
+    "battleEndTL": [
+      "TL_crow_victory.prefab",
+      "TL_crow_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootCD": 100,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "queen",
+    "characterColor": "#8E8E8E",
+    "camModelSize": 0,
+    "featureImg": 73,
+    "skillIcon": "guaidao-mianjuicon-xindaozhen.png",
+    "generalAttackImg": "queen-generalAttack.png",
+    "generalAttackShift": [
+      -0.14,
+      -0.44,
+      -1.24,
+      -0.83,
+      -0.03,
+      -0.58
+    ],
+    "generalAttackScale": [
+      0.5,
+      0.65,
+      0.5
+    ],
+    "gunShift": "-0.345,-0.345,0.258;-0.345,-0.245,0.258",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "-18,28;-41,57;-37,60;-78,-42",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_queen_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_queen_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_queen1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_queen1.prefab",
+    "battleEndTL": [
+      "TL_queen_victory.prefab",
+      "TL_queen_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01",
+      "fight_standby_rest02"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootCD": 100,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "comte",
+    "characterColor": "#6E60F0",
+    "camModelSize": 0,
+    "featureImg": 79,
+    "skillIcon": "guaidao-mianjuicon-baniaochengsi.png",
+    "generalAttackImg": "comte-generalAttack.png",
+    "generalAttackShift": [
+      0.13,
+      -0.94,
+      -1.05,
+      0.26,
+      0.11,
+      -0.25
+    ],
+    "generalAttackScale": [
+      0.45,
+      0.55,
+      0.5
+    ],
+    "gunShift": "0,-0.332,0.168;-0.135,0.01,0.004",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "-8.5,36;-29,62;0,70;-99,-6.2",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_comte_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_comte_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_comte1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_comte1.prefab",
+    "battleEndTL": [
+      "TL_comte_victory.prefab",
+      "TL_comte_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan5.png",
+    "shootCD": 500,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "leo",
+    "characterColor": "#008CE5",
+    "camModelSize": 0,
+    "featureImg": 80,
+    "skillIcon": "guaidao-mianjuicon-shenshanlingyang.png",
+    "generalAttackImg": "fox-generalAttack.png",
+    "generalAttackShift": [
+      0.48,
+      -0.27,
+      0.48,
+      -1.07,
+      1.03,
+      -1.05
+    ],
+    "generalAttackScale": [
+      0.5,
+      0.74,
+      0.61
+    ],
+    "gunShift": "-0.345,-0.345,0.258;-0.345,-0.245,0.258",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "71,33;11,21;-11,22;-47,-44",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_fox_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_leo_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_fox1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_fox1.prefab",
+    "battleEndTL": [
+      "TL_leo_victory.prefab",
+      "TL_leo_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootCD": 500,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "cattle",
+    "characterColor": "#00E9BA",
+    "camModelSize": 1,
+    "featureImg": 82,
+    "skillIcon": "guaidao-mianjuicon-lufeier.png",
+    "generalAttackImg": "cattle-generalAttack.png",
+    "generalAttackShift": [
+      -0.14,
+      -0.53,
+      -1.05,
+      -0.03,
+      0.44,
+      -0.33
+    ],
+    "generalAttackScale": [
+      0.6,
+      0.6,
+      0.5
+    ],
+    "gunShift": "0,0,0;0,0,0",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "17,52;14,61;34,95;-65,33",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_cattle_persona",
+    "footfireoff": 1,
+    "oneMoreTL": "TL_cattle_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_cattle1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_cattle1.prefab",
+    "battleEndTL": [
+      "TL_cattle_victory.prefab",
+      "TL_cattle_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan8.png",
+    "shootCD": 200,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "frost",
+    "characterColor": "#3765E4",
+    "camModelSize": 0,
+    "featureImg": 84,
+    "skillIcon": "guaidao-mianjuicon-qinyin.png",
+    "generalAttackImg": "frost-generalAttack.png",
+    "generalAttackShift": [
+      1.19,
+      -0.73,
+      0,
+      -0.35,
+      1.27,
+      -0.74
+    ],
+    "generalAttackScale": [
+      0.45,
+      0.6,
+      0.55
+    ],
+    "gunShift": "-0.345,-0.345,0.258;-0.345,-0.245,0.258",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "63,-8;0,7;-20,38;-65,-49",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_frost_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_frost_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_frost2.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_frost2.prefab",
+    "battleEndTL": [
+      "TL_frost_victory.prefab",
+      "TL_frost_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01",
+      "fight_standby_rest02"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-zidan7.png",
+    "shootCD": 650,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [
+      "zhandou-buff-mont.png"
+    ],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  },
+  {
+    "sn": "closer",
+    "characterColor": "#E00EF8",
+    "camModelSize": 0,
+    "featureImg": 83,
+    "skillIcon": "guaidao-mianjuicon-xinjingsuyu.png",
+    "generalAttackImg": "closer-generalAttack.png",
+    "generalAttackShift": [
+      -0.95,
+      -0.64,
+      -1.9,
+      0.07,
+      -0.76,
+      -0.27
+    ],
+    "generalAttackScale": [
+      0.6,
+      0.6,
+      0.5
+    ],
+    "gunShift": "0.011,-0.326,0.281;0.039,0.1,0.72",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "12,29;-32,66;-15,50;-80,-23.7",
+    "oneMoreImgScale": "0.45,0.45",
+    "castResCrt": "",
+    "personaTL": "TL_closer_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_closer_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_closer1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_closer_1080p.prefab",
+    "battleEndTL": [
+      "TL_closer_victory.prefab",
+      "TL_closer_victory_impressionspace.prefab"
+    ],
+    "idleInterval": [
+      20,
+      40
+    ],
+    "idleBattleAnims": [
+      "fight_standby_rest01",
+      "fight_standby_rest02"
+    ],
+    "idleAnims": [],
+    "bulletImg": "zhandou-qiangxie-suyu-zidan.png",
+    "shootCD": 100,
+    "endShootAnim": 500,
+    "showtimeTimeline": "",
+    "showtimeScene": "",
+    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": []
+  }
+]

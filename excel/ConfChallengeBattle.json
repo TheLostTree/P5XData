@@ -1,0 +1,255 @@
+[
+  {
+    "sn": 10101,
+    "groupSn": 1,
+    "frontBattle": 0,
+    "difficultLevel": 1,
+    "instSn": 40606,
+    "battleName": "战斗1",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  },
+  {
+    "sn": 10102,
+    "groupSn": 1,
+    "frontBattle": 10101,
+    "difficultLevel": 1,
+    "instSn": 40607,
+    "battleName": "战斗2",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  },
+  {
+    "sn": 10103,
+    "groupSn": 1,
+    "frontBattle": 10102,
+    "difficultLevel": 1,
+    "instSn": 40601,
+    "battleName": "战斗3",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  },
+  {
+    "sn": 10201,
+    "groupSn": 2,
+    "frontBattle": 0,
+    "difficultLevel": 1,
+    "instSn": 40602,
+    "battleName": "战斗1",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  },
+  {
+    "sn": 10202,
+    "groupSn": 2,
+    "frontBattle": 10201,
+    "difficultLevel": 1,
+    "instSn": 40603,
+    "battleName": "战斗2",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  },
+  {
+    "sn": 10203,
+    "groupSn": 2,
+    "frontBattle": 10202,
+    "difficultLevel": 1,
+    "instSn": 40604,
+    "battleName": "战斗3",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  },
+  {
+    "sn": 10301,
+    "groupSn": 3,
+    "frontBattle": 0,
+    "difficultLevel": 1,
+    "instSn": 40605,
+    "battleName": "战斗1",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  },
+  {
+    "sn": 10302,
+    "groupSn": 3,
+    "frontBattle": 10301,
+    "difficultLevel": 1,
+    "instSn": 40606,
+    "battleName": "战斗2",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  },
+  {
+    "sn": 10303,
+    "groupSn": 3,
+    "frontBattle": 10302,
+    "difficultLevel": 1,
+    "instSn": 40607,
+    "battleName": "战斗3",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  },
+  {
+    "sn": 10401,
+    "groupSn": 4,
+    "frontBattle": 0,
+    "difficultLevel": 1,
+    "instSn": 40701,
+    "battleName": "BOSS战1",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  },
+  {
+    "sn": 10402,
+    "groupSn": 4,
+    "frontBattle": 0,
+    "difficultLevel": 2,
+    "instSn": 40702,
+    "battleName": "BOSS战2",
+    "difficultDes": "难度描述难度描述",
+    "npcSn": 16101001,
+    "maxStars": 3,
+    "starEvents": [
+      1001,
+      1002,
+      1003
+    ],
+    "starDesc": [
+      "10回合内取得胜利",
+      "20回合内取得胜利",
+      "30回合内取得胜利"
+    ],
+    "monsterHead": "",
+    "monsterGroup": []
+  }
+]

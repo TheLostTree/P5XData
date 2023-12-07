@@ -1,0 +1,85 @@
+[
+  {
+    "sn": "jiangjun1",
+    "type": 1,
+    "modelSn": "sc_chess_jiangjun.prefab",
+    "scale": 1,
+    "obstacleMode": 1,
+    "obstacles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "interactionIcon": "ACT-tuixiangzi1.png"
+  },
+  {
+    "sn": "juma1",
+    "type": 4,
+    "modelSn": "chess_test_roadblock.prefab",
+    "scale": 1,
+    "obstacleMode": 0,
+    "obstacles": [],
+    "interactionIcon": ""
+  },
+  {
+    "sn": "shandi1",
+    "type": 6,
+    "modelSn": "sc_chess_shandi.prefab",
+    "scale": 1,
+    "obstacleMode": 0,
+    "obstacles": [],
+    "interactionIcon": ""
+  },
+  {
+    "sn": "paobing",
+    "type": 2,
+    "modelSn": "chess_test_pao.prefab",
+    "scale": 1,
+    "obstacleMode": 1,
+    "obstacles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "interactionIcon": "ACT-tuixiangzi1.png"
+  },
+  {
+    "sn": "gongbing",
+    "type": 3,
+    "modelSn": "chess_test_gongbing.prefab",
+    "scale": 1,
+    "obstacleMode": 1,
+    "obstacles": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "interactionIcon": "ACT-tuixiangzi1.png"
+  },
+  {
+    "sn": "zhaoze",
+    "type": 5,
+    "modelSn": "chess_test_zhaoze.prefab",
+    "scale": 1,
+    "obstacleMode": 0,
+    "obstacles": [],
+    "interactionIcon": ""
+  },
+  {
+    "sn": "anyaqi",
+    "type": 7,
+    "modelSn": "chess_test_press.prefab",
+    "scale": 1,
+    "obstacleMode": 0,
+    "obstacles": [],
+    "interactionIcon": ""
+  }
+]

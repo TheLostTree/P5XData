@@ -1,0 +1,5077 @@
+[
+  {
+    "sn": 10101,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 101,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 2102023,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "在书店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-12.png",
+    "clientName": "去书店打工",
+    "clientDesc": "书店诚聘兼职收银员",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500101,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10102,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 101,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102023,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "在书店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-12.png",
+    "clientName": "去书店打工",
+    "clientDesc": "书店诚聘兼职收银员",
+    "awardShow": [
+      [
+        22,
+        4800,
+        4800
+      ],
+      [
+        500101,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10103,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 101,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102023,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "在书店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-12.png",
+    "clientName": "去书店打工",
+    "clientDesc": "书店诚聘兼职收银员",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500101,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10104,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 101,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102023,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "在书店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-12.png",
+    "clientName": "去书店打工",
+    "clientDesc": "书店诚聘兼职收银员",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500101,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10105,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 101,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102023,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "在书店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-12.png",
+    "clientName": "去书店打工",
+    "clientDesc": "书店诚聘兼职收银员",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500101,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10106,
+    "actionType": 1,
+    "actionParam": [
+      10025
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 101,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102023,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "在书店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-12.png",
+    "clientName": "去书店打工",
+    "clientDesc": "书店诚聘兼职收银员",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500101,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10201,
+    "actionType": 1,
+    "actionParam": [
+      10030
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 102,
+    "priority": 20,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 2102010,
+    "triggerType": 1,
+    "npcSn": 2102011,
+    "funcName": "在便利店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-04.png",
+    "clientName": "去便利店打工",
+    "clientDesc": "涩谷的便利店发布了招募打工的公告，去试一试吧",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500105,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 999956
+  },
+  {
+    "sn": 10202,
+    "actionType": 1,
+    "actionParam": [
+      10031
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 102,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 2102010,
+    "triggerType": 1,
+    "npcSn": 2102011,
+    "funcName": "在便利店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-04.png",
+    "clientName": "去便利店打工",
+    "clientDesc": "涩谷的便利店今天可以安排打工",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500105,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 999956
+  },
+  {
+    "sn": 10203,
+    "actionType": 1,
+    "actionParam": [
+      10032
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 102,
+    "priority": 1,
+    "weight": 171,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102010,
+    "triggerType": 1,
+    "npcSn": 2102011,
+    "funcName": "在便利店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-04.png",
+    "clientName": "去便利店打工",
+    "clientDesc": "涩谷的便利店今天的客人很多，要去帮忙吗",
+    "awardShow": [
+      [
+        22,
+        4800,
+        4800
+      ],
+      [
+        500105,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 999956
+  },
+  {
+    "sn": 10204,
+    "actionType": 1,
+    "actionParam": [
+      10033
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 102,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102010,
+    "triggerType": 1,
+    "npcSn": 2102011,
+    "funcName": "在便利店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-04.png",
+    "clientName": "去便利店打工",
+    "clientDesc": "涩谷的便利店今天可以安排打工",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500105,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 999956
+  },
+  {
+    "sn": 10205,
+    "actionType": 1,
+    "actionParam": [
+      10034
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 102,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102010,
+    "triggerType": 1,
+    "npcSn": 2102011,
+    "funcName": "在便利店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-04.png",
+    "clientName": "去便利店打工",
+    "clientDesc": "涩谷的便利店今天可以安排打工",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500105,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 999956
+  },
+  {
+    "sn": 10206,
+    "actionType": 1,
+    "actionParam": [
+      10035
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 102,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102010,
+    "triggerType": 1,
+    "npcSn": 2102011,
+    "funcName": "在便利店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-04.png",
+    "clientName": "去便利店打工",
+    "clientDesc": "涩谷的便利店今天可以安排打工",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500105,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 999956
+  },
+  {
+    "sn": 10207,
+    "actionType": 1,
+    "actionParam": [
+      10036
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 102,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102010,
+    "triggerType": 1,
+    "npcSn": 2102011,
+    "funcName": "在便利店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-04.png",
+    "clientName": "去便利店打工",
+    "clientDesc": "涩谷的便利店今天可以安排打工",
+    "awardShow": [
+      [
+        22,
+        3200,
+        3200
+      ],
+      [
+        500105,
+        2,
+        2
+      ]
+    ],
+    "TeleportPointSn": 999956
+  },
+  {
+    "sn": 10301,
+    "actionType": 1,
+    "actionParam": [
+      10050
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 103,
+    "priority": 20,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 29001,
+    "triggerType": 1,
+    "npcSn": 29001,
+    "funcName": "在花店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-08.png",
+    "clientName": "在花店打工",
+    "clientDesc": "涩谷地下商场的花店似乎正在找人帮忙，去看看吧",
+    "awardShow": [
+      [
+        22,
+        2900,
+        2900
+      ],
+      [
+        500104,
+        3,
+        3
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10302,
+    "actionType": 1,
+    "actionParam": [
+      10051
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 103,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 29001,
+    "triggerType": 1,
+    "npcSn": 29001,
+    "funcName": "在花店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-08.png",
+    "clientName": "在花店打工",
+    "clientDesc": "涩谷地下商场的花店今天也需要人手……",
+    "awardShow": [
+      [
+        22,
+        2900,
+        2900
+      ],
+      [
+        500104,
+        3,
+        3
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10303,
+    "actionType": 1,
+    "actionParam": [
+      10052
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 103,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 29001,
+    "triggerType": 1,
+    "npcSn": 29001,
+    "funcName": "在花店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-08.png",
+    "clientName": "在花店打工",
+    "clientDesc": "涩谷地下商场的花店今天也需要人手……",
+    "awardShow": [
+      [
+        22,
+        2900,
+        2900
+      ],
+      [
+        500104,
+        3,
+        3
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10304,
+    "actionType": 1,
+    "actionParam": [
+      10053
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 103,
+    "priority": 1,
+    "weight": 128,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 29001,
+    "triggerType": 1,
+    "npcSn": 29001,
+    "funcName": "在花店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-08.png",
+    "clientName": "在花店打工",
+    "clientDesc": "今天花店的客流量很大，非常需要人去帮忙",
+    "awardShow": [
+      [
+        22,
+        4350,
+        4350
+      ],
+      [
+        500104,
+        3,
+        3
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10305,
+    "actionType": 1,
+    "actionParam": [
+      10054
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 103,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 29001,
+    "triggerType": 1,
+    "npcSn": 29001,
+    "funcName": "在花店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-08.png",
+    "clientName": "在花店打工",
+    "clientDesc": "涩谷地下商场的花店今天也需要人手……",
+    "awardShow": [
+      [
+        22,
+        2900,
+        2900
+      ],
+      [
+        500104,
+        3,
+        3
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10306,
+    "actionType": 1,
+    "actionParam": [
+      10055
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 103,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 29001,
+    "triggerType": 1,
+    "npcSn": 29001,
+    "funcName": "在花店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-08.png",
+    "clientName": "在花店打工",
+    "clientDesc": "涩谷地下商场的花店今天也需要人手……",
+    "awardShow": [
+      [
+        22,
+        2900,
+        2900
+      ],
+      [
+        500104,
+        3,
+        3
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10401,
+    "actionType": 1,
+    "actionParam": [
+      10060
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 104,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 2102005,
+    "triggerType": 1,
+    "npcSn": 2102021,
+    "funcName": "在牛丼店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-10.png",
+    "clientName": "去牛丼店打工",
+    "clientDesc": "涩谷商业街的牛丼店发出了招募工读生的公告，去试一下吧",
+    "awardShow": [
+      [
+        22,
+        3500,
+        3500
+      ],
+      [
+        500103,
+        1,
+        1
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10402,
+    "actionType": 1,
+    "actionParam": [
+      10061
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1
+    ],
+    "actionGroup": 104,
+    "priority": 1,
+    "weight": 128,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102005,
+    "triggerType": 1,
+    "npcSn": 2102021,
+    "funcName": "在牛丼店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-10.png",
+    "clientName": "去牛丼店打工",
+    "clientDesc": "牛丼店的人手似乎严重不足……",
+    "awardShow": [
+      [
+        22,
+        5250,
+        5250
+      ],
+      [
+        500103,
+        1,
+        1
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10403,
+    "actionType": 1,
+    "actionParam": [
+      10062
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 104,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102005,
+    "triggerType": 1,
+    "npcSn": 2102021,
+    "funcName": "在牛丼店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-10.png",
+    "clientName": "去牛丼店打工",
+    "clientDesc": "涩谷的牛丼店今天也可以进行打工的排班",
+    "awardShow": [
+      [
+        22,
+        3500,
+        3500
+      ],
+      [
+        500103,
+        1,
+        1
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10404,
+    "actionType": 1,
+    "actionParam": [
+      10063
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 104,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102005,
+    "triggerType": 1,
+    "npcSn": 2102021,
+    "funcName": "在牛丼店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-10.png",
+    "clientName": "去牛丼店打工",
+    "clientDesc": "涩谷的牛丼店今天也可以进行打工的排班",
+    "awardShow": [
+      [
+        22,
+        3500,
+        3500
+      ],
+      [
+        500103,
+        1,
+        1
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 10405,
+    "actionType": 1,
+    "actionParam": [
+      10064
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 104,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102005,
+    "triggerType": 1,
+    "npcSn": 2102021,
+    "funcName": "在牛丼店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-10.png",
+    "clientName": "去牛丼店打工",
+    "clientDesc": "涩谷的牛丼店今天也可以进行打工的排班",
+    "awardShow": [
+      [
+        22,
+        3500,
+        3500
+      ],
+      [
+        500103,
+        1,
+        1
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 11001,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 110,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 2102026,
+    "triggerType": 1,
+    "npcSn": 2102026,
+    "funcName": "在药店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-14.png",
+    "clientName": "去药店打工",
+    "clientDesc": "涩谷的药店今天似乎面临人手不足的情况……",
+    "awardShow": [
+      [
+        22,
+        800,
+        800
+      ],
+      [
+        500104,
+        10,
+        10
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 11002,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 110,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102026,
+    "triggerType": 1,
+    "npcSn": 2102026,
+    "funcName": "在药店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-14.png",
+    "clientName": "去药店打工",
+    "clientDesc": "涩谷的药店今天似乎面临人手不足的情况……",
+    "awardShow": [
+      [
+        22,
+        800,
+        800
+      ],
+      [
+        500104,
+        10,
+        10
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 11003,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 110,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102026,
+    "triggerType": 1,
+    "npcSn": 2102026,
+    "funcName": "在药店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-14.png",
+    "clientName": "去药店打工",
+    "clientDesc": "涩谷的药店今天似乎面临人手不足的情况……",
+    "awardShow": [
+      [
+        22,
+        800,
+        800
+      ],
+      [
+        500104,
+        10,
+        10
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 11004,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 110,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102026,
+    "triggerType": 1,
+    "npcSn": 2102026,
+    "funcName": "在药店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-14.png",
+    "clientName": "去药店打工",
+    "clientDesc": "涩谷的药店今天似乎面临人手不足的情况……",
+    "awardShow": [
+      [
+        22,
+        800,
+        800
+      ],
+      [
+        500104,
+        10,
+        10
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 11005,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 110,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102026,
+    "triggerType": 1,
+    "npcSn": 2102026,
+    "funcName": "在药店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 1,
+    "clientImage": "dushi-icon-14.png",
+    "clientName": "去药店打工",
+    "clientDesc": "涩谷的药店今天似乎面临人手不足的情况……",
+    "awardShow": [
+      [
+        22,
+        800,
+        800
+      ],
+      [
+        500104,
+        10,
+        10
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 19999,
+    "actionType": 1,
+    "actionParam": [
+      9996
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 199,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102109,
+    "funcName": "和梅洛普约会",
+    "funcIcon": "ditu-new-icon-yuehui.png",
+    "funcIconColor": "#31e7ff",
+    "areaSn": 0,
+    "level": 100,
+    "type": 3,
+    "clientImage": "dushi-icon-15.png",
+    "clientName": "和梅洛普一起度过",
+    "clientDesc": "梅洛普邀请你一起在都市中寻找「欲望」。",
+    "awardShow": [
+      [
+        500201,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20101,
+    "actionType": 1,
+    "actionParam": [
+      11010
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 1500,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 201,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 11000,
+    "triggerType": 1,
+    "npcSn": 11002,
+    "funcName": "在咖啡厅学习",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-13.png",
+    "clientName": "在咖啡屋学习",
+    "clientDesc": "这家咖啡屋的环境不错，是个适合学习的好地方",
+    "awardShow": [
+      [
+        500101,
+        17,
+        17
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20102,
+    "actionType": 1,
+    "actionParam": [
+      11020
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 2500,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 201,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102028,
+    "triggerType": 1,
+    "npcSn": 2102090,
+    "funcName": "在家庭餐厅学习",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-13.png",
+    "clientName": "在家庭餐厅学习",
+    "clientDesc": "家庭餐厅可以提供学习的环境，不过今天的客人有点多……",
+    "awardShow": [
+      [
+        500101,
+        20,
+        20
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20104,
+    "actionType": 1,
+    "actionParam": [
+      11030
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 201,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2129002,
+    "triggerType": 1,
+    "npcSn": 2129010,
+    "funcName": "在家学习",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-13.png",
+    "clientName": "在家里学习",
+    "clientDesc": "在家里专心学习吧",
+    "awardShow": [
+      [
+        500101,
+        12,
+        12
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20111,
+    "actionType": 1,
+    "actionParam": [
+      11011
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 1500,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 201,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 11000,
+    "triggerType": 1,
+    "npcSn": 11002,
+    "funcName": "在咖啡厅学习",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-13.png",
+    "clientName": "在咖啡屋学习",
+    "clientDesc": "今天的咖啡屋很安静，适合静下心来学习",
+    "awardShow": [
+      [
+        500101,
+        25,
+        25
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20112,
+    "actionType": 1,
+    "actionParam": [
+      11021
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 2500,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 201,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102028,
+    "triggerType": 1,
+    "npcSn": 2102090,
+    "funcName": "在家庭餐厅学习",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-13.png",
+    "clientName": "在家庭餐厅学习",
+    "clientDesc": "今天的家庭餐厅应该没有多少客人，适合静下心来学习",
+    "awardShow": [
+      [
+        500101,
+        30,
+        30
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20114,
+    "actionType": 1,
+    "actionParam": [
+      11031
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 201,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2129002,
+    "triggerType": 1,
+    "npcSn": 2129010,
+    "funcName": "在家学习",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-13.png",
+    "clientName": "在家里学习",
+    "clientDesc": "下雨天，在家里专心学习吧",
+    "awardShow": [
+      [
+        500101,
+        18,
+        18
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20201,
+    "actionType": 1,
+    "actionParam": [
+      11410
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 202,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 15000,
+    "triggerType": 1,
+    "npcSn": 10010,
+    "funcName": "在澡堂泡澡",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-11.png",
+    "clientName": "去澡堂泡澡",
+    "clientDesc": "去泡个澡，让自己清爽一下吧",
+    "awardShow": [
+      [
+        500105,
+        17,
+        17
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20202,
+    "actionType": 1,
+    "actionParam": [
+      11411
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 1500,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1
+    ],
+    "actionGroup": 202,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 15000,
+    "triggerType": 1,
+    "npcSn": 10010,
+    "funcName": "在澡堂泡澡",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-11.png",
+    "clientName": "去澡堂泡澡",
+    "clientDesc": "去泡个澡，让自己清爽一下吧",
+    "awardShow": [
+      [
+        500105,
+        17,
+        17
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20203,
+    "actionType": 1,
+    "actionParam": [
+      11412
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 1500,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      2,
+      3
+    ],
+    "actionGroup": 202,
+    "priority": 1,
+    "weight": 43,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 15000,
+    "triggerType": 1,
+    "npcSn": 10010,
+    "funcName": "在澡堂泡澡",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-11.png",
+    "clientName": "去澡堂泡澡",
+    "clientDesc": "今天的澡堂似乎提供特殊的温泉汤……",
+    "awardShow": [
+      [
+        500105,
+        26,
+        26
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20301,
+    "actionType": 6,
+    "actionParam": [],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 203,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102007,
+    "triggerType": 1,
+    "npcSn": 2102014,
+    "funcName": "去看电影",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "去看电影吧",
+    "clientDesc": "今天涩谷的电影院似乎在放映非常精彩的电影",
+    "awardShow": [
+      [
+        500106,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20401,
+    "actionType": 1,
+    "actionParam": [
+      11209
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 2500,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 204,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 2102027,
+    "triggerType": 1,
+    "npcSn": 2102094,
+    "funcName": "在健身房锻炼",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-09.png",
+    "clientName": "去健身房锻炼",
+    "clientDesc": "拥有健全的身心，能有效提高面对各种状况的勇气",
+    "awardShow": [
+      [
+        500102,
+        20,
+        20
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20402,
+    "actionType": 1,
+    "actionParam": [
+      11210
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 2500,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 204,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102027,
+    "triggerType": 1,
+    "npcSn": 2102094,
+    "funcName": "在健身房锻炼",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-09.png",
+    "clientName": "去健身房锻炼",
+    "clientDesc": "拥有健全的身心，能有效提高面对各种状况的勇气",
+    "awardShow": [
+      [
+        500102,
+        20,
+        20
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20403,
+    "actionType": 1,
+    "actionParam": [
+      11211
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 2500,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      2,
+      3
+    ],
+    "actionGroup": 204,
+    "priority": 1,
+    "weight": 43,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102027,
+    "triggerType": 1,
+    "npcSn": 2102094,
+    "funcName": "在健身房锻炼",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-09.png",
+    "clientName": "去健身房锻炼",
+    "clientDesc": "健身房今天正在举办活动，只要参与健身就免费赠送蛋白粉一瓶",
+    "awardShow": [
+      [
+        500102,
+        30,
+        30
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20501,
+    "actionType": 1,
+    "actionParam": [
+      11511
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 205,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 2130002,
+    "triggerType": 1,
+    "npcSn": 2129008,
+    "funcName": "玩游戏",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-01.png",
+    "clientName": "在家里玩游戏",
+    "clientDesc": "似乎有新的主机游戏可以玩……",
+    "awardShow": [
+      [
+        500103,
+        12,
+        12
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20502,
+    "actionType": 1,
+    "actionParam": [
+      11512
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 205,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2130002,
+    "triggerType": 1,
+    "npcSn": 2129008,
+    "funcName": "玩游戏",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-01.png",
+    "clientName": "在家里玩游戏",
+    "clientDesc": "似乎有新的主机游戏可以玩……",
+    "awardShow": [
+      [
+        500103,
+        12,
+        12
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20503,
+    "actionType": 1,
+    "actionParam": [
+      11513
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      2,
+      3
+    ],
+    "actionGroup": 205,
+    "priority": 1,
+    "weight": 43,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2130002,
+    "triggerType": 1,
+    "npcSn": 2129008,
+    "funcName": "玩游戏",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-01.png",
+    "clientName": "在家里玩游戏",
+    "clientDesc": "终于到了休息日，畅快地在家里玩游戏吧！",
+    "awardShow": [
+      [
+        500103,
+        18,
+        18
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20601,
+    "actionType": 1,
+    "actionParam": [
+      11501
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 206,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 2129003,
+    "triggerType": 1,
+    "npcSn": 2129009,
+    "funcName": "打扫卫生",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-05.png",
+    "clientName": "打扫家里的卫生",
+    "clientDesc": "来打扫一下房间吧……",
+    "awardShow": [
+      [
+        500104,
+        12,
+        12
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20602,
+    "actionType": 1,
+    "actionParam": [
+      11502
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 206,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2129003,
+    "triggerType": 1,
+    "npcSn": 2129009,
+    "funcName": "打扫卫生",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-05.png",
+    "clientName": "打扫家里的卫生",
+    "clientDesc": "来打扫一下房间吧……",
+    "awardShow": [
+      [
+        500104,
+        12,
+        12
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 20603,
+    "actionType": 1,
+    "actionParam": [
+      11503
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      2,
+      3
+    ],
+    "actionGroup": 206,
+    "priority": 1,
+    "weight": 43,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2129003,
+    "triggerType": 1,
+    "npcSn": 2129009,
+    "funcName": "打扫卫生",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 50,
+    "type": 2,
+    "clientImage": "dushi-icon-05.png",
+    "clientName": "打扫家里的卫生",
+    "clientDesc": "难得的休息日，给家里来一个彻底的扫除吧",
+    "awardShow": [
+      [
+        500104,
+        18,
+        18
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 30101,
+    "actionType": 2,
+    "actionParam": [
+      1,
+      1
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 301,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102109,
+    "funcName": "梅洛普的邀约",
+    "funcIcon": "ditu-new-icon-yuehui.png",
+    "funcIconColor": "#31e7ff",
+    "areaSn": 0,
+    "level": 200,
+    "type": 3,
+    "clientImage": "dushi-icon-15.png",
+    "clientName": "梅洛普的好奇心",
+    "clientDesc": "梅洛普对于现代都市中的很多事物都感到好奇，希望能和你一起体验",
+    "awardShow": [
+      [
+        500201,
+        35,
+        35
+      ]
+    ],
+    "TeleportPointSn": 2102029
+  },
+  {
+    "sn": 30111,
+    "actionType": 2,
+    "actionParam": [
+      1,
+      2
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 301,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102109,
+    "funcName": "梅洛普的邀约",
+    "funcIcon": "ditu-new-icon-yuehui.png",
+    "funcIconColor": "#31e7ff",
+    "areaSn": 0,
+    "level": 200,
+    "type": 3,
+    "clientImage": "dushi-icon-15.png",
+    "clientName": "和梅洛普一起度过",
+    "clientDesc": "和梅洛普的关系快要加深了……",
+    "awardShow": [
+      [
+        500201,
+        35,
+        35
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 30201,
+    "actionType": 2,
+    "actionParam": [
+      2,
+      1
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 302,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102100,
+    "funcName": "素羽的邀约",
+    "funcIcon": "ditu-new-icon-yuehui.png",
+    "funcIconColor": "#31e7ff",
+    "areaSn": 0,
+    "level": 200,
+    "type": 3,
+    "clientImage": "dushi-icon-07.png",
+    "clientName": "和素羽出去玩吧",
+    "clientDesc": "和素羽一起度过放学后的时光吧",
+    "awardShow": [
+      [
+        500202,
+        35,
+        35
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 30211,
+    "actionType": 2,
+    "actionParam": [
+      2,
+      2
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 302,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102100,
+    "funcName": "素羽的邀约",
+    "funcIcon": "ditu-new-icon-yuehui.png",
+    "funcIconColor": "#31e7ff",
+    "areaSn": 0,
+    "level": 200,
+    "type": 3,
+    "clientImage": "dushi-icon-07.png",
+    "clientName": "和素羽一起度过",
+    "clientDesc": "和素羽的关系就要加深了……",
+    "awardShow": [
+      [
+        500202,
+        35,
+        35
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 39997,
+    "actionType": 1,
+    "actionParam": [
+      9997
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 398,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 3,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102100,
+    "funcName": "素羽的邀约",
+    "funcIcon": "ditu-new-icon-yuehui.png",
+    "funcIconColor": "#31e7ff",
+    "areaSn": 0,
+    "level": 100,
+    "type": 3,
+    "clientImage": "dushi-icon-07.png",
+    "clientName": "跨场景约会-测试",
+    "clientDesc": "测试跨场景约会",
+    "awardShow": [
+      [
+        500202,
+        35,
+        35
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 39998,
+    "actionType": 1,
+    "actionParam": [
+      9998
+    ],
+    "rarity": 2,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 399,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102100,
+    "funcName": "素羽的邀约",
+    "funcIcon": "ditu-new-icon-yuehui.png",
+    "funcIconColor": "#31e7ff",
+    "areaSn": 0,
+    "level": 100,
+    "type": 3,
+    "clientImage": "dushi-icon-07.png",
+    "clientName": "送礼约会-测试",
+    "clientDesc": "测试跨场景约会",
+    "awardShow": [
+      [
+        500202,
+        35,
+        35
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40001,
+    "actionType": 1,
+    "actionParam": [
+      20001
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 400,
+    "priority": 3,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "数学课",
+    "clientDesc": "今天是由班主任老师负责的数学课",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40002,
+    "actionType": 1,
+    "actionParam": [
+      20002
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 400,
+    "priority": 2,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "数学课",
+    "clientDesc": "今天是由班主任老师负责的数学课",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40003,
+    "actionType": 1,
+    "actionParam": [
+      20003
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 400,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "数学课",
+    "clientDesc": "今天是由班主任老师负责的数学课",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40101,
+    "actionType": 1,
+    "actionParam": [
+      20101
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 401,
+    "priority": 3,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "古文课",
+    "clientDesc": "今天是古文课，听说老师很有趣…",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40201,
+    "actionType": 1,
+    "actionParam": [
+      20201
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 402,
+    "priority": 3,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "理科课程",
+    "clientDesc": "今天上课的内容是理科",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40202,
+    "actionType": 1,
+    "actionParam": [
+      20202
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 402,
+    "priority": 2,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "理科课程",
+    "clientDesc": "今天上课的内容是理科",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40204,
+    "actionType": 1,
+    "actionParam": [
+      20204
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 402,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "理科课程",
+    "clientDesc": "今天上课的内容是理科",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40301,
+    "actionType": 1,
+    "actionParam": [
+      20301
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 403,
+    "priority": 3,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "社会课",
+    "clientDesc": "今天似乎要上社会课……",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40302,
+    "actionType": 1,
+    "actionParam": [
+      20302
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 403,
+    "priority": 2,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "社会课",
+    "clientDesc": "今天似乎要上社会课……",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40401,
+    "actionType": 1,
+    "actionParam": [
+      20401
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 404,
+    "priority": 3,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "历史课",
+    "clientDesc": "今天是广受好评的历史课",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 40501,
+    "actionType": 1,
+    "actionParam": [
+      20501
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 405,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 999973,
+    "triggerType": 1,
+    "npcSn": 270002,
+    "funcName": "上课",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 4,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "英语课",
+    "clientDesc": "今天上课的内容是英语……",
+    "awardShow": [
+      [
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 50102,
+    "actionType": 5,
+    "actionParam": [],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 501,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 0,
+    "triggerType": 1,
+    "npcSn": 2129007,
+    "funcName": "读书",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 5,
+    "clientImage": "dushi-icon-06.png",
+    "clientName": "在家里读书",
+    "clientDesc": "静下心来读书吧……",
+    "awardShow": [
+      [
+        500106,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 60101,
+    "actionType": 1,
+    "actionParam": [
+      70004
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [
+      950013
+    ],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 601,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 11000,
+    "triggerType": 1,
+    "npcSn": 11002,
+    "funcName": "影山惠那的邀请",
+    "funcIcon": "ditu-new-icon-npcbangzhu.png",
+    "funcIconColor": "#f968fd",
+    "areaSn": 0,
+    "level": 100,
+    "type": 6,
+    "clientImage": "dushi-icon-03.png",
+    "clientName": "咖啡新品品尝",
+    "clientDesc": "咖啡屋推出了新品咖啡，去品尝看看吧！",
+    "awardShow": [
+      [
+        3,
+        20,
+        20
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 60401,
+    "actionType": 1,
+    "actionParam": [
+      70002
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [
+      950021
+    ],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      6
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 604,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 280007,
+    "funcName": "烧鸟正雄的邀请",
+    "funcIcon": "ditu-new-icon-npcbangzhu.png",
+    "funcIconColor": "#f968fd",
+    "areaSn": 0,
+    "level": 100,
+    "type": 6,
+    "clientImage": "dushi-icon-03.png",
+    "clientName": "特殊食材烹饪",
+    "clientDesc": "将特殊的食材交给和食店老板烹饪吧！",
+    "awardShow": [
+      [
+        3,
+        20,
+        20
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 60501,
+    "actionType": 1,
+    "actionParam": [
+      70005
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [
+      950043
+    ],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 605,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 280009,
+    "funcName": "帮助佐藤裕太",
+    "funcIcon": "ditu-new-icon-npcbangzhu.png",
+    "funcIconColor": "#f968fd",
+    "areaSn": 0,
+    "level": 100,
+    "type": 6,
+    "clientImage": "dushi-icon-03.png",
+    "clientName": "帮助佐藤裕太",
+    "clientDesc": "冒冒失失的佐藤裕太又把东西丢了，去帮助他吧！",
+    "awardShow": [
+      [
+        3,
+        20,
+        20
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 60701,
+    "actionType": 1,
+    "actionParam": [
+      70003
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 607,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 280010,
+    "funcName": "照顾橘猫",
+    "funcIcon": "ditu-new-icon-npcbangzhu.png",
+    "funcIconColor": "#f968fd",
+    "areaSn": 0,
+    "level": 100,
+    "type": 6,
+    "clientImage": "dushi-icon-03.png",
+    "clientName": "调查橘猫",
+    "clientDesc": "传闻中神出鬼没的橘猫出现在了家门口，快去调查吧！",
+    "awardShow": [
+      [
+        3,
+        20,
+        20
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 60801,
+    "actionType": 1,
+    "actionParam": [
+      70000
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [
+      950002
+    ],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 608,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102093,
+    "funcName": "帮助小出日和",
+    "funcIcon": "ditu-new-icon-npcbangzhu.png",
+    "funcIconColor": "#f968fd",
+    "areaSn": 0,
+    "level": 100,
+    "type": 6,
+    "clientImage": "dushi-icon-03.png",
+    "clientName": "帮助小出日和",
+    "clientDesc": "正在募捐的少女遇到了麻烦，快去帮助她吧！",
+    "awardShow": [
+      [
+        3,
+        20,
+        20
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 61301,
+    "actionType": 1,
+    "actionParam": [
+      70001
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [
+      950031
+    ],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 1,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 613,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2105000,
+    "funcName": "帮助津田和彦",
+    "funcIcon": "ditu-new-icon-npcbangzhu.png",
+    "funcIconColor": "#f968fd",
+    "areaSn": 0,
+    "level": 100,
+    "type": 6,
+    "clientImage": "dushi-icon-03.png",
+    "clientName": "帮助津田和彦",
+    "clientDesc": "如果有了对魅影事件新的看法，不妨去告诉津田和彦。",
+    "awardShow": [
+      [
+        3,
+        20,
+        20
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 70000,
+    "actionType": 1,
+    "actionParam": [
+      9995
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 700,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2129007,
+    "funcName": "都市事件测试1",
+    "funcIcon": "ditu-new-shijian02.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "打工解锁TL-校门前聊天",
+    "clientDesc": "这是一段关于【打工解锁TL-校门前聊天】的描述",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 70101,
+    "actionType": 1,
+    "actionParam": [
+      60001
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 701,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "都市事件测试1",
+    "funcIcon": "ditu-new-shijian02.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "打工解锁TL-校门前聊天",
+    "clientDesc": "这是一段关于【打工解锁TL-校门前聊天】的描述",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 70201,
+    "actionType": 1,
+    "actionParam": [
+      60002
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 702,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "都市事件测试2",
+    "funcIcon": "ditu-new-shijian02.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "读书学习提醒TL-校门前聊天",
+    "clientDesc": "这是一段关于【读书学习提醒TL-校门前聊天】的描述",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 70301,
+    "actionType": 1,
+    "actionParam": [
+      60003
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 703,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "都市事件测试3",
+    "funcIcon": "ditu-new-shijian02.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "健身房解锁TL-休息日在家看电视",
+    "clientDesc": "这是一段关于【健身房解锁TL-休息日在家看电视】的描述",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 70401,
+    "actionType": 1,
+    "actionParam": [
+      60004
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 704,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "都市事件测试4",
+    "funcIcon": "ditu-new-shijian02.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "打扫解锁-休息日在家放空",
+    "clientDesc": "这是一段关于【打扫解锁-休息日在家放空】的描述",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 70501,
+    "actionType": 1,
+    "actionParam": [
+      60005
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 705,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "都市事件测试5",
+    "funcIcon": "ditu-new-shijian02.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "橘猫支线解锁TL-上学路上聊天",
+    "clientDesc": "这是一段关于【橘猫支线解锁TL-上学路上聊天】的描述",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 70601,
+    "actionType": 1,
+    "actionParam": [
+      60006
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 706,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "都市事件测试6",
+    "funcIcon": "ditu-new-shijian02.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "电影解锁TL-电车上聊天",
+    "clientDesc": "这是一段关于【电影解锁TL-电车上聊天】的描述",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 70701,
+    "actionType": 1,
+    "actionParam": [
+      60007
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 707,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "都市事件测试7",
+    "funcIcon": "ditu-new-shijian02.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "其它支线npc解锁-上学路上聊天",
+    "clientDesc": "这是一段关于【其它支线npc解锁-上学路上聊天】的描述",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 70801,
+    "actionType": 1,
+    "actionParam": [
+      60008
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 708,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "都市事件测试8",
+    "funcIcon": "ditu-new-shijian02.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "电动游戏解锁-校门前聊天",
+    "clientDesc": "这是一段关于【电动游戏解锁-校门前聊天】的描述",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 70901,
+    "actionType": 1,
+    "actionParam": [
+      60009
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 709,
+    "priority": 1,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102022,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "都市事件测试9",
+    "funcIcon": "ditu-new-shijian02.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "书店药店打工解锁-上学路上聊天",
+    "clientDesc": "这是一段关于【书店药店打工解锁-上学路上聊天】的描述",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 80101,
+    "actionType": 1,
+    "actionParam": [
+      10050
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 801,
+    "priority": 20,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 29001,
+    "triggerType": 1,
+    "npcSn": 29001,
+    "funcName": "在花店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 8,
+    "clientImage": "dushi-icon-08.png",
+    "clientName": "去花店打工",
+    "clientDesc": "涩谷地下商场的花店似乎需要人手……",
+    "awardShow": [
+      [
+        22,
+        2900,
+        2900
+      ],
+      [
+        500104,
+        3,
+        3
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 80201,
+    "actionType": 1,
+    "actionParam": [
+      10060
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 802,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102005,
+    "triggerType": 1,
+    "npcSn": 11002,
+    "funcName": "在咖啡厅学习",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 8,
+    "clientImage": "dushi-icon-13.png",
+    "clientName": "在咖啡屋学习",
+    "clientDesc": "这家咖啡屋的环境不错，是个适合学习的好地方",
+    "awardShow": [
+      [
+        500101,
+        17,
+        17
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 80301,
+    "actionType": 1,
+    "actionParam": [
+      10050
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 803,
+    "priority": 20,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 29001,
+    "triggerType": 1,
+    "npcSn": 29001,
+    "funcName": "在花店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 8,
+    "clientImage": "dushi-icon-08.png",
+    "clientName": "去花店打工",
+    "clientDesc": "涩谷地下商场的花店似乎需要人手……",
+    "awardShow": [
+      [
+        22,
+        2900,
+        2900
+      ],
+      [
+        500104,
+        3,
+        3
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 80401,
+    "actionType": 1,
+    "actionParam": [
+      10060
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 804,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102005,
+    "triggerType": 1,
+    "npcSn": 2102094,
+    "funcName": "在健身房锻炼",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 8,
+    "clientImage": "dushi-icon-09.png",
+    "clientName": "去健身房锻炼",
+    "clientDesc": "拥有健全的身心，能有效提高面对各种状况的勇气",
+    "awardShow": [
+      [
+        500102,
+        20,
+        20
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 80501,
+    "actionType": 1,
+    "actionParam": [
+      10050
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 805,
+    "priority": 20,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 29001,
+    "triggerType": 1,
+    "npcSn": 2129009,
+    "funcName": "打扫卫生",
+    "funcIcon": "ditu-new-icon-yule.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 8,
+    "clientImage": "dushi-icon-05.png",
+    "clientName": "打扫家里的卫生",
+    "clientDesc": "来打扫一下房间吧……",
+    "awardShow": [
+      [
+        500104,
+        15,
+        15
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 80601,
+    "actionType": 1,
+    "actionParam": [
+      10060
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [],
+    "limitWeatherType": [],
+    "limitDayType": [],
+    "actionGroup": 806,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102005,
+    "triggerType": 1,
+    "npcSn": 2102021,
+    "funcName": "在牛丼店打工",
+    "funcIcon": "ditu-new-icon-dagong.png",
+    "funcIconColor": "#9fda7d",
+    "areaSn": 0,
+    "level": 100,
+    "type": 8,
+    "clientImage": "dushi-icon-10.png",
+    "clientName": "去牛丼店打工",
+    "clientDesc": "涩谷商业街的牛丼店发出了招募工读生的公告",
+    "awardShow": [
+      [
+        22,
+        3500,
+        3500
+      ],
+      [
+        500103,
+        1,
+        1
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 90101,
+    "actionType": 7,
+    "actionParam": [
+      1,
+      2,
+      3
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 901,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102002,
+    "triggerType": 1,
+    "npcSn": 50028,
+    "funcName": "御船千早的占卜",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "御船千早的占卜",
+    "clientDesc": "御船千早的占卜",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 90102,
+    "actionType": 7,
+    "actionParam": [
+      1,
+      2,
+      4
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 901,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102002,
+    "triggerType": 1,
+    "npcSn": 50028,
+    "funcName": "御船千早的占卜",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "御船千早的占卜",
+    "clientDesc": "御船千早的占卜",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 90103,
+    "actionType": 7,
+    "actionParam": [
+      2,
+      3,
+      4
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 901,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102002,
+    "triggerType": 1,
+    "npcSn": 50028,
+    "funcName": "御船千早的占卜",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "御船千早的占卜",
+    "clientDesc": "御船千早的占卜",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  },
+  {
+    "sn": 99999,
+    "actionType": 1,
+    "actionParam": [
+      9999
+    ],
+    "rarity": 1,
+    "unlockLevel": 0,
+    "unlockPersonality": [],
+    "unlockQuests": [],
+    "unlockEvent": [],
+    "unlockEventMode": 0,
+    "needRes": 0,
+    "needMoney": 0,
+    "limitPhaseType": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "limitWeatherType": [
+      1,
+      3
+    ],
+    "limitDayType": [
+      1,
+      2,
+      3
+    ],
+    "actionGroup": 999,
+    "priority": 10,
+    "weight": 100,
+    "isShared": 0,
+    "limitCountType": 0,
+    "limitCount": 1,
+    "TeleportSn": 2102002,
+    "triggerType": 1,
+    "npcSn": 2102019,
+    "funcName": "保底事件",
+    "funcIcon": "ditu-new-shijian01.png",
+    "funcIconColor": "#ff9000",
+    "areaSn": 0,
+    "level": 100,
+    "type": 7,
+    "clientImage": "dushi-icon-02.png",
+    "clientName": "保底事件",
+    "clientDesc": "出现这个气泡，说明有配置错误。",
+    "awardShow": [
+      [
+        4,
+        800,
+        800
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "TeleportPointSn": 0
+  }
+]

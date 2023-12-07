@@ -1,0 +1,609 @@
+[
+  {
+    "sn": 1001,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "登录游戏",
+    "guide": 0,
+    "awardShow": [
+      [
+        100150,
+        500
+      ],
+      [
+        4,
+        600
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "award": 201005,
+    "sequence": 1,
+    "period": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1002,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "进行1次占卜",
+    "guide": 1103,
+    "awardShow": [
+      [
+        100150,
+        800
+      ],
+      [
+        4,
+        1200
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "award": 201006,
+    "sequence": 2,
+    "period": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1003,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "开启1个宝箱",
+    "guide": 110,
+    "awardShow": [
+      [
+        100150,
+        800
+      ],
+      [
+        4,
+        1200
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "award": 201006,
+    "sequence": 3,
+    "period": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1004,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "完成1件生活日程",
+    "guide": 330,
+    "awardShow": [
+      [
+        100150,
+        800
+      ],
+      [
+        4,
+        1200
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "award": 201006,
+    "sequence": 4,
+    "period": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1005,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "通关1次财赂求索",
+    "guide": 123,
+    "awardShow": [
+      [
+        100150,
+        800
+      ],
+      [
+        4,
+        1200
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "award": 201006,
+    "sequence": 5,
+    "period": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1006,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "通关1次军械探秘",
+    "guide": 130,
+    "awardShow": [
+      [
+        100150,
+        800
+      ],
+      [
+        4,
+        1200
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "award": 201006,
+    "sequence": 6,
+    "period": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1007,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "通关1次人格试教",
+    "guide": 131,
+    "awardShow": [
+      [
+        100150,
+        800
+      ],
+      [
+        4,
+        1200
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "award": 201006,
+    "sequence": 7,
+    "period": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1008,
+    "unlockLevel": 10,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "通关1次启示求索",
+    "guide": 132,
+    "awardShow": [
+      [
+        100150,
+        800
+      ],
+      [
+        4,
+        1200
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "award": 201006,
+    "sequence": 8,
+    "period": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 2001,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 50,
+    "describe": "累计进行50次占卜",
+    "guide": 1103,
+    "awardShow": [
+      [
+        20,
+        150
+      ],
+      [
+        100150,
+        1500
+      ]
+    ],
+    "award": 201030,
+    "sequence": 1,
+    "period": 2,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 2002,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 20,
+    "describe": "累计开启20个宝箱",
+    "guide": 110,
+    "awardShow": [
+      [
+        20,
+        120
+      ],
+      [
+        100150,
+        1000
+      ]
+    ],
+    "award": 201030,
+    "sequence": 2,
+    "period": 2,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 2003,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 500,
+    "describe": "累计消耗800点体力",
+    "guide": 110,
+    "awardShow": [
+      [
+        20,
+        150
+      ],
+      [
+        100150,
+        1500
+      ]
+    ],
+    "award": 201030,
+    "sequence": 3,
+    "period": 2,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 2004,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 20,
+    "describe": "累计消耗20点行动力",
+    "guide": 330,
+    "awardShow": [
+      [
+        20,
+        150
+      ],
+      [
+        100150,
+        1500
+      ]
+    ],
+    "award": 201030,
+    "sequence": 4,
+    "period": 2,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 2005,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 10,
+    "describe": "累计赠送伙伴10个礼物",
+    "guide": 330,
+    "awardShow": [
+      [
+        20,
+        120
+      ],
+      [
+        100150,
+        1000
+      ]
+    ],
+    "award": 201029,
+    "sequence": 5,
+    "period": 2,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 2006,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 2000,
+    "describe": "累计消耗2000晶核",
+    "guide": 0,
+    "awardShow": [
+      [
+        20,
+        120
+      ],
+      [
+        100150,
+        1000
+      ]
+    ],
+    "award": 201029,
+    "sequence": 6,
+    "period": 2,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 2007,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 100000,
+    "describe": "累计消耗10万日元",
+    "guide": 0,
+    "awardShow": [
+      [
+        20,
+        120
+      ],
+      [
+        100150,
+        1000
+      ]
+    ],
+    "award": 201029,
+    "sequence": 7,
+    "period": 2,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 3001,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 10,
+    "describe": "拥有10个不同怪盗",
+    "guide": 0,
+    "awardShow": [
+      [
+        20,
+        200
+      ],
+      [
+        100150,
+        2000
+      ]
+    ],
+    "award": 201055,
+    "sequence": 1,
+    "period": 3,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 3002,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 30,
+    "describe": "将主角等级提升至30级",
+    "guide": 0,
+    "awardShow": [
+      [
+        20,
+        200
+      ],
+      [
+        100150,
+        2000
+      ]
+    ],
+    "award": 201055,
+    "sequence": 2,
+    "period": 3,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 3003,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "将任意怪盗提升至30级",
+    "guide": 0,
+    "awardShow": [
+      [
+        20,
+        200
+      ],
+      [
+        100150,
+        2000
+      ]
+    ],
+    "award": 201055,
+    "sequence": 3,
+    "period": 3,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 3004,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "将任意怪盗提升至意识Ⅱ",
+    "guide": 0,
+    "awardShow": [
+      [
+        20,
+        200
+      ],
+      [
+        100150,
+        2000
+      ]
+    ],
+    "award": 201055,
+    "sequence": 4,
+    "period": 3,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 3006,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "将任意武器强化至30级",
+    "guide": 0,
+    "awardShow": [
+      [
+        20,
+        200
+      ],
+      [
+        100150,
+        2000
+      ]
+    ],
+    "award": 201055,
+    "sequence": 6,
+    "period": 3,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 3007,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "将任意武器改造至Ⅱ阶",
+    "guide": 0,
+    "awardShow": [
+      [
+        20,
+        200
+      ],
+      [
+        100150,
+        2000
+      ]
+    ],
+    "award": 201055,
+    "sequence": 7,
+    "period": 3,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 3008,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "将任意面具强化至60级",
+    "guide": 0,
+    "awardShow": [
+      [
+        20,
+        200
+      ],
+      [
+        100150,
+        2000
+      ]
+    ],
+    "award": 201055,
+    "sequence": 8,
+    "period": 3,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 3009,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "describe": "将任意面具进化至意识Ⅱ",
+    "guide": 0,
+    "awardShow": [
+      [
+        20,
+        200
+      ],
+      [
+        100150,
+        2000
+      ]
+    ],
+    "award": 201055,
+    "sequence": 9,
+    "period": 3,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  }
+]

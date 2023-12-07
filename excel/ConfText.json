@@ -1,0 +1,2502 @@
+[
+  {
+    "sn": 1000004,
+    "textContent": "距离过远"
+  },
+  {
+    "sn": 1000005,
+    "textContent": "该章节尚未开放"
+  },
+  {
+    "sn": 1000006,
+    "textContent": "该关卡未开放"
+  },
+  {
+    "sn": 1000007,
+    "textContent": "该关卡已通关"
+  },
+  {
+    "sn": 1000008,
+    "textContent": "<color=#FFD700>%s</color>"
+  },
+  {
+    "sn": 1000009,
+    "textContent": "<color=#FFFFFF>%s</color>"
+  },
+  {
+    "sn": 1000010,
+    "textContent": "重连超时"
+  },
+  {
+    "sn": 1000011,
+    "textContent": "连接失败"
+  },
+  {
+    "sn": 1000012,
+    "textContent": "重连次数%s/%s"
+  },
+  {
+    "sn": 1000013,
+    "textContent": "K"
+  },
+  {
+    "sn": 1000014,
+    "textContent": "M"
+  },
+  {
+    "sn": 1000015,
+    "textContent": "B"
+  },
+  {
+    "sn": 1000016,
+    "textContent": "付费暗晶：%s\n免费暗晶：%s"
+  },
+  {
+    "sn": 1000017,
+    "textContent": "下次恢复：<color=#FFC000>%s</color>"
+  },
+  {
+    "sn": 1000018,
+    "textContent": "获得%s点体力\n体力上限提升至%s"
+  },
+  {
+    "sn": 1000019,
+    "textContent": "获得%s点行动值"
+  },
+  {
+    "sn": 1000020,
+    "textContent": "持有：￥%s"
+  },
+  {
+    "sn": 1000021,
+    "textContent": "体力充足"
+  },
+  {
+    "sn": 1000022,
+    "textContent": "限时：%s天%s小时"
+  },
+  {
+    "sn": 1000023,
+    "textContent": "限时：%s小时%s分"
+  },
+  {
+    "sn": 1000024,
+    "textContent": "限时：%s分"
+  },
+  {
+    "sn": 1000025,
+    "textContent": "限购：%s次"
+  },
+  {
+    "sn": 1000026,
+    "textContent": "暂无行动力补充剂"
+  },
+  {
+    "sn": 1000027,
+    "textContent": "%s级"
+  },
+  {
+    "sn": 1000028,
+    "textContent": "%s后刷新"
+  },
+  {
+    "sn": 1000029,
+    "textContent": "%s后下架"
+  },
+  {
+    "sn": 1000030,
+    "textContent": "立即获得"
+  },
+  {
+    "sn": 1000031,
+    "textContent": "连续%s天，每天%s点赠送"
+  },
+  {
+    "sn": 1000032,
+    "textContent": "%s天%s时"
+  },
+  {
+    "sn": 1000033,
+    "textContent": "%s时%s分"
+  },
+  {
+    "sn": 1000034,
+    "textContent": "%s分"
+  },
+  {
+    "sn": 1000035,
+    "textContent": "%s/%s"
+  },
+  {
+    "sn": 1000036,
+    "textContent": "Lv.%d<color=#C3C3C3>/%d</color>"
+  },
+  {
+    "sn": 1000037,
+    "textContent": "拥有:%d"
+  },
+  {
+    "sn": 1000038,
+    "textContent": "还可持续领取%s天"
+  },
+  {
+    "sn": 1000039,
+    "textContent": "是否退出游戏？"
+  },
+  {
+    "sn": 1000040,
+    "textContent": "本物品将在%s月%s日 %s:%s到期"
+  },
+  {
+    "sn": 1000041,
+    "textContent": "键位重复"
+  },
+  {
+    "sn": 1000042,
+    "textContent": "恢复默认"
+  },
+  {
+    "sn": 1000043,
+    "textContent": "该按键已被其他功能占用，是否对调两者对应的快捷键？"
+  },
+  {
+    "sn": 1000044,
+    "textContent": "是否将所有按键恢复至默认设置？（所有按键修改将会被重置）"
+  },
+  {
+    "sn": 1000045,
+    "textContent": "强化提示"
+  },
+  {
+    "sn": 1000046,
+    "textContent": "总大小：%"
+  },
+  {
+    "sn": 1000047,
+    "textContent": "都市"
+  },
+  {
+    "sn": 1000048,
+    "textContent": "关卡"
+  },
+  {
+    "sn": 1000049,
+    "textContent": "全局"
+  },
+  {
+    "sn": 1000050,
+    "textContent": "棒球"
+  },
+  {
+    "sn": 1000051,
+    "textContent": "钓鱼"
+  },
+  {
+    "sn": 1000052,
+    "textContent": "暂停下载"
+  },
+  {
+    "sn": 1000053,
+    "textContent": "下载队列中"
+  },
+  {
+    "sn": 1000054,
+    "textContent": "ID:%s"
+  },
+  {
+    "sn": 1000055,
+    "textContent": "暂无可下载内容"
+  },
+  {
+    "sn": 1000056,
+    "textContent": "资源下载中"
+  },
+  {
+    "sn": 1011001,
+    "textContent": "行动指南开始"
+  },
+  {
+    "sn": 1011002,
+    "textContent": "进行都市生活所需的行动力，每天凌晨五点恢复%s点"
+  },
+  {
+    "sn": 1012000,
+    "textContent": "行动指南结束"
+  },
+  {
+    "sn": 1012001,
+    "textContent": "目标指引开始"
+  },
+  {
+    "sn": 1012002,
+    "textContent": "%s（%s/%s）"
+  },
+  {
+    "sn": 1012003,
+    "textContent": "领取"
+  },
+  {
+    "sn": 1012004,
+    "textContent": "已完成"
+  },
+  {
+    "sn": 1012005,
+    "textContent": "%s/%s"
+  },
+  {
+    "sn": 1012006,
+    "textContent": "× %d"
+  },
+  {
+    "sn": 1012007,
+    "textContent": "+%d"
+  },
+  {
+    "sn": 1012501,
+    "textContent": "本阶段目标（%s/%s）"
+  },
+  {
+    "sn": 1013000,
+    "textContent": "目标指引结束"
+  },
+  {
+    "sn": 1014001,
+    "textContent": "新消息 %s条"
+  },
+  {
+    "sn": 1014002,
+    "textContent": "尚未加入联盟"
+  },
+  {
+    "sn": 1014003,
+    "textContent": "点击左下方+打开联系人对话框\n选中联系人开始私聊"
+  },
+  {
+    "sn": 1014004,
+    "textContent": "点击输入……"
+  },
+  {
+    "sn": 1014005,
+    "textContent": "发言过快，%s秒后可以再次发言"
+  },
+  {
+    "sn": 1014006,
+    "textContent": "无效房间号"
+  },
+  {
+    "sn": 1014007,
+    "textContent": "房间已满"
+  },
+  {
+    "sn": 1014008,
+    "textContent": "没有找到对应的联系人"
+  },
+  {
+    "sn": 1014009,
+    "textContent": "已进入房间%s（当前人数%s）"
+  },
+  {
+    "sn": 1014010,
+    "textContent": "已在当前房间"
+  },
+  {
+    "sn": 1014011,
+    "textContent": "暂无消息"
+  },
+  {
+    "sn": 1014012,
+    "textContent": "还没有好友"
+  },
+  {
+    "sn": 1014013,
+    "textContent": "最近无联系人"
+  },
+  {
+    "sn": 1014014,
+    "textContent": "没有其他联盟成员"
+  },
+  {
+    "sn": 1014015,
+    "textContent": "请先加入一个联盟"
+  },
+  {
+    "sn": 1014016,
+    "textContent": "选择一个输入内容"
+  },
+  {
+    "sn": 1014017,
+    "textContent": "暂时没有什么内容可以输入"
+  },
+  {
+    "sn": 1015001,
+    "textContent": "%sCoopRank达到%s级解锁"
+  },
+  {
+    "sn": 1015002,
+    "textContent": "·"
+  },
+  {
+    "sn": 1015003,
+    "textContent": "潜能%s解锁"
+  },
+  {
+    "sn": 1015004,
+    "textContent": "主角达到%s级时解锁下一阶潜能"
+  },
+  {
+    "sn": 1015005,
+    "textContent": "意识"
+  },
+  {
+    "sn": 1016001,
+    "textContent": "关卡开始"
+  },
+  {
+    "sn": 1016002,
+    "textContent": "%s%%"
+  },
+  {
+    "sn": 1016003,
+    "textContent": "体力消耗：%d"
+  },
+  {
+    "sn": 1016004,
+    "textContent": "剩余次数：%s"
+  },
+  {
+    "sn": 1016005,
+    "textContent": "返还体力：%d"
+  },
+  {
+    "sn": 1016006,
+    "textContent": "此关卡未解锁"
+  },
+  {
+    "sn": 1016007,
+    "textContent": "取消潜入后将损失宫殿中获得的全部奖励，是否确认退出？"
+  },
+  {
+    "sn": 1016008,
+    "textContent": "警戒度越高，敌人的戒备也越森严，战斗难度将变得更高"
+  },
+  {
+    "sn": 1016009,
+    "textContent": "该章节未解锁"
+  },
+  {
+    "sn": 1016010,
+    "textContent": "剩余次数：不限"
+  },
+  {
+    "sn": 1016011,
+    "textContent": "需通关%s【%s】方可解锁本章"
+  },
+  {
+    "sn": 1016012,
+    "textContent": "很遗憾，作战失败了。\n※请提升实力或尝试新的战术。"
+  },
+  {
+    "sn": 1016013,
+    "textContent": "获得Persona:%s"
+  },
+  {
+    "sn": 1017000,
+    "textContent": "关卡结束"
+  },
+  {
+    "sn": 1018000,
+    "textContent": "%s后过期"
+  },
+  {
+    "sn": 1018001,
+    "textContent": "%s天"
+  },
+  {
+    "sn": 1018002,
+    "textContent": "%s小时"
+  },
+  {
+    "sn": 1018003,
+    "textContent": "%s分钟"
+  },
+  {
+    "sn": 1018004,
+    "textContent": "%s/%s"
+  },
+  {
+    "sn": 1018005,
+    "textContent": "有效期：%s"
+  },
+  {
+    "sn": 1019000,
+    "textContent": "尚未输入签名"
+  },
+  {
+    "sn": 1019001,
+    "textContent": "尚未加入社团"
+  },
+  {
+    "sn": 1019002,
+    "textContent": "请输入签名"
+  },
+  {
+    "sn": 1019003,
+    "textContent": "改名卡剩余%s张"
+  },
+  {
+    "sn": 1019004,
+    "textContent": "输入字数 %s/%s"
+  },
+  {
+    "sn": 1019005,
+    "textContent": "505050"
+  },
+  {
+    "sn": 1019006,
+    "textContent": "FF0000"
+  },
+  {
+    "sn": 1020001,
+    "textContent": "I|II|III|IV|V|VI|VII|VIII|IX|X"
+  },
+  {
+    "sn": 1020002,
+    "textContent": "·改"
+  },
+  {
+    "sn": 1020003,
+    "textContent": "%d件套"
+  },
+  {
+    "sn": 1020004,
+    "textContent": "任意套装同时穿戴2件及以上时触发套装效果"
+  },
+  {
+    "sn": 1020005,
+    "textContent": "消耗金钱：%s"
+  },
+  {
+    "sn": 1020006,
+    "textContent": "持有金钱：%s"
+  },
+  {
+    "sn": 1020007,
+    "textContent": "所需玩家等级：%d级"
+  },
+  {
+    "sn": 1020008,
+    "textContent": "需要<color=#FFFF00>%d</color>个<color=#FFFF00>%s%s</color>"
+  },
+  {
+    "sn": 1020009,
+    "textContent": "武器|枪械|防具|饰品|配件"
+  },
+  {
+    "sn": 1020010,
+    "textContent": "随机属性"
+  },
+  {
+    "sn": 1020011,
+    "textContent": "%d/%d"
+  },
+  {
+    "sn": 1020012,
+    "textContent": "%d Max"
+  },
+  {
+    "sn": 1020013,
+    "textContent": "未穿戴装备"
+  },
+  {
+    "sn": 1020014,
+    "textContent": "材料"
+  },
+  {
+    "sn": 1020015,
+    "textContent": "星"
+  },
+  {
+    "sn": 1020016,
+    "textContent": "星级"
+  },
+  {
+    "sn": 1020017,
+    "textContent": "套装"
+  },
+  {
+    "sn": 1020018,
+    "textContent": "卸下"
+  },
+  {
+    "sn": 1020019,
+    "textContent": "更换"
+  },
+  {
+    "sn": 1020020,
+    "textContent": "装备"
+  },
+  {
+    "sn": 1020021,
+    "textContent": "强化"
+  },
+  {
+    "sn": 1020022,
+    "textContent": "突破"
+  },
+  {
+    "sn": 1020023,
+    "textContent": "改造"
+  },
+  {
+    "sn": 1020024,
+    "textContent": "Joker"
+  },
+  {
+    "sn": 1020025,
+    "textContent": "%s用"
+  },
+  {
+    "sn": 1020026,
+    "textContent": "新随机属性"
+  },
+  {
+    "sn": 1020027,
+    "textContent": "附加属性重新随机"
+  },
+  {
+    "sn": 1020028,
+    "textContent": "种类筛选"
+  },
+  {
+    "sn": 1020029,
+    "textContent": "一键选择"
+  },
+  {
+    "sn": 1020030,
+    "textContent": "未成套"
+  },
+  {
+    "sn": 1020031,
+    "textContent": "套装效果"
+  },
+  {
+    "sn": 1020032,
+    "textContent": "— — — — — —"
+  },
+  {
+    "sn": 1020033,
+    "textContent": "附加属性"
+  },
+  {
+    "sn": 1020034,
+    "textContent": "<color=#FFC000>已经过强化</color>"
+  },
+  {
+    "sn": 1020035,
+    "textContent": "<color=#FFC000>品质过高</color>"
+  },
+  {
+    "sn": 1020036,
+    "textContent": "消耗所选素材进行强化会使经验溢出，将返还以下材料。"
+  },
+  {
+    "sn": 1020037,
+    "textContent": "所选素材"
+  },
+  {
+    "sn": 1020038,
+    "textContent": "成长值"
+  },
+  {
+    "sn": 1020039,
+    "textContent": "、"
+  },
+  {
+    "sn": 1020040,
+    "textContent": "新增%s条副属性"
+  },
+  {
+    "sn": 1020041,
+    "textContent": "随机强化%s条副属性"
+  },
+  {
+    "sn": 1020042,
+    "textContent": "所需玩家等级：<color=#FF0000>%d级</color>"
+  },
+  {
+    "sn": 1020043,
+    "textContent": "武器等级"
+  },
+  {
+    "sn": 1020044,
+    "textContent": "武器品质"
+  },
+  {
+    "sn": 1020045,
+    "textContent": "突破次数"
+  },
+  {
+    "sn": 1020046,
+    "textContent": "改造等级"
+  },
+  {
+    "sn": 1020047,
+    "textContent": "暂无"
+  },
+  {
+    "sn": 1020048,
+    "textContent": "潜能"
+  },
+  {
+    "sn": 1020049,
+    "textContent": "是否确认强化？"
+  },
+  {
+    "sn": 1020050,
+    "textContent": "潜能达到%d级时可继续升级怪盗"
+  },
+  {
+    "sn": 1020051,
+    "textContent": "%s·%s"
+  },
+  {
+    "sn": 1020052,
+    "textContent": "使用武器近战攻击1名敌人，造成<color=#870000>物理伤害</color>。"
+  },
+  {
+    "sn": 1020053,
+    "textContent": "使用枪械射击1名敌人，造成小幅<color=#870000>射击伤害</color>，根据子弹数量可以射击多次。"
+  },
+  {
+    "sn": 1020054,
+    "textContent": "近战攻击的伤害倍率随角色等级提升。"
+  },
+  {
+    "sn": 1020055,
+    "textContent": "枪械射击的伤害倍率随角色等级提升。\n枪械射击时有基础的暴击率，此处角色的\n暴击率将影响角色使用枪械射击时的暴击概率。\n角色暴击率越高，使用枪械射击暴击概率越高。"
+  },
+  {
+    "sn": 1020056,
+    "textContent": "使用"
+  },
+  {
+    "sn": 1020057,
+    "textContent": "等级-降序"
+  },
+  {
+    "sn": 1020058,
+    "textContent": "等级-升序"
+  },
+  {
+    "sn": 1020059,
+    "textContent": "品级-降序"
+  },
+  {
+    "sn": 1020060,
+    "textContent": "品级-升序"
+  },
+  {
+    "sn": 1020061,
+    "textContent": "攻击力"
+  },
+  {
+    "sn": 1020062,
+    "textContent": "攻击百分比"
+  },
+  {
+    "sn": 1020063,
+    "textContent": "生命值"
+  },
+  {
+    "sn": 1020064,
+    "textContent": "生命百分比"
+  },
+  {
+    "sn": 1020065,
+    "textContent": "防御力"
+  },
+  {
+    "sn": 1020066,
+    "textContent": "防御百分比"
+  },
+  {
+    "sn": 1020067,
+    "textContent": "暴击率"
+  },
+  {
+    "sn": 1020068,
+    "textContent": "套装筛选"
+  },
+  {
+    "sn": 1020069,
+    "textContent": "全部"
+  },
+  {
+    "sn": 1020070,
+    "textContent": "件套"
+  },
+  {
+    "sn": 1020071,
+    "textContent": "等级排序"
+  },
+  {
+    "sn": 1020072,
+    "textContent": "品质排序"
+  },
+  {
+    "sn": 1020073,
+    "textContent": "经验排序"
+  },
+  {
+    "sn": 1020074,
+    "textContent": "套装排序"
+  },
+  {
+    "sn": 1020075,
+    "textContent": "卡片"
+  },
+  {
+    "sn": 1020076,
+    "textContent": "该部分会显示正在佩戴中的面具。"
+  },
+  {
+    "sn": 1020077,
+    "textContent": "设置为默认阵容后，之后进入主线相关的任何关卡都会优先调用默认阵容。"
+  },
+  {
+    "sn": 1020078,
+    "textContent": "队伍。"
+  },
+  {
+    "sn": 1020079,
+    "textContent": "%s"
+  },
+  {
+    "sn": 1020080,
+    "textContent": "尚未佩戴面具。"
+  },
+  {
+    "sn": 1020081,
+    "textContent": "钓鱼总数：%s条"
+  },
+  {
+    "sn": 1020082,
+    "textContent": "主角达到%d级可继续强化"
+  },
+  {
+    "sn": 1020083,
+    "textContent": "玩家等级%s级时解锁"
+  },
+  {
+    "sn": 1020084,
+    "textContent": "梅洛普协同等级%s级解锁"
+  },
+  {
+    "sn": 1020085,
+    "textContent": "暂无合成方式"
+  },
+  {
+    "sn": 1020086,
+    "textContent": "不羁能力发觉后解锁"
+  },
+  {
+    "sn": 1020087,
+    "textContent": "不羁能力发觉后20级解锁"
+  },
+  {
+    "sn": 1020088,
+    "textContent": "先去钓些鱼来吧！"
+  },
+  {
+    "sn": 1020089,
+    "textContent": "本次合成免费"
+  },
+  {
+    "sn": 1020090,
+    "textContent": "合成获得额外奖励"
+  },
+  {
+    "sn": 1020091,
+    "textContent": "%s概率结果翻倍"
+  },
+  {
+    "sn": 1021001,
+    "textContent": "%s级"
+  },
+  {
+    "sn": 1021002,
+    "textContent": "<color=#8F8D8D>%s分钟前在线</color>"
+  },
+  {
+    "sn": 1021003,
+    "textContent": "<color=#8F8D8D>%s小时前在线</color>"
+  },
+  {
+    "sn": 1021004,
+    "textContent": "<color=#8F8D8D>%s天前在线</color>"
+  },
+  {
+    "sn": 1021005,
+    "textContent": "我的ID：%s"
+  },
+  {
+    "sn": 1021006,
+    "textContent": "%s过期"
+  },
+  {
+    "sn": 1021007,
+    "textContent": "目标玩家不存在"
+  },
+  {
+    "sn": 1021008,
+    "textContent": "<color=#4BEE39>在线</color>"
+  },
+  {
+    "sn": 1021009,
+    "textContent": "%s（%s）"
+  },
+  {
+    "sn": 1021010,
+    "textContent": "还没有好友，去添加一个吧。"
+  },
+  {
+    "sn": 1021011,
+    "textContent": "暂时还没有好友申请"
+  },
+  {
+    "sn": 1021012,
+    "textContent": "备注名（1-7个字）"
+  },
+  {
+    "sn": 1021013,
+    "textContent": "过期"
+  },
+  {
+    "sn": 1021014,
+    "textContent": "前在线"
+  },
+  {
+    "sn": 1022001,
+    "textContent": "继续十连"
+  },
+  {
+    "sn": 1022002,
+    "textContent": "继续单抽"
+  },
+  {
+    "sn": 1022003,
+    "textContent": "十连"
+  },
+  {
+    "sn": 1022004,
+    "textContent": "%s抽"
+  },
+  {
+    "sn": 1022005,
+    "textContent": "剩余时间：%s天%s时%s分"
+  },
+  {
+    "sn": 1022006,
+    "textContent": "今日剩余可占卜次数：%d"
+  },
+  {
+    "sn": 1022007,
+    "textContent": "卡池剩余可占卜次数：%d"
+  },
+  {
+    "sn": 1022008,
+    "textContent": "Persona"
+  },
+  {
+    "sn": 1022009,
+    "textContent": "怪盗"
+  },
+  {
+    "sn": 1022010,
+    "textContent": "武器"
+  },
+  {
+    "sn": 1022011,
+    "textContent": "剩余时间：%s时%s分"
+  },
+  {
+    "sn": 1022012,
+    "textContent": "剩余时间：%s分"
+  },
+  {
+    "sn": 1022013,
+    "textContent": "%s 使用"
+  },
+  {
+    "sn": 1022014,
+    "textContent": "、"
+  },
+  {
+    "sn": 1022015,
+    "textContent": "角色名称"
+  },
+  {
+    "sn": 1022016,
+    "textContent": "武器名称"
+  },
+  {
+    "sn": 1022034,
+    "textContent": "准确率：%s/%s"
+  },
+  {
+    "sn": 1022041,
+    "textContent": "答对6题以上就能开启宝箱"
+  },
+  {
+    "sn": 1022042,
+    "textContent": "答对6题以上就能开启宝箱"
+  },
+  {
+    "sn": 1022043,
+    "textContent": "答对6题以上就能开启宝箱"
+  },
+  {
+    "sn": 1022044,
+    "textContent": "答对6题以上就能开启宝箱"
+  },
+  {
+    "sn": 1022045,
+    "textContent": "答对6题以上就能开启宝箱"
+  },
+  {
+    "sn": 1023001,
+    "textContent": "每日05:00恢复d%点体力值"
+  },
+  {
+    "sn": 1023002,
+    "textContent": "%s后获得1点体力"
+  },
+  {
+    "sn": 1023003,
+    "textContent": "全部恢复：<color=#FFC000>%s</color>"
+  },
+  {
+    "sn": 1024001,
+    "textContent": "%s/%s"
+  },
+  {
+    "sn": 1024002,
+    "textContent": "%s/小时"
+  },
+  {
+    "sn": 1024003,
+    "textContent": "可挑战次数：%s"
+  },
+  {
+    "sn": 1024004,
+    "textContent": "当前积分：%s"
+  },
+  {
+    "sn": 1024005,
+    "textContent": "<color=#FF0000>战胜了</color>"
+  },
+  {
+    "sn": 1024006,
+    "textContent": "<color=#FF0000>败给了</color>"
+  },
+  {
+    "sn": 1024007,
+    "textContent": "<color=#00FF00>战胜了</color>"
+  },
+  {
+    "sn": 1024008,
+    "textContent": "<color=#00FF00>败给了</color>"
+  },
+  {
+    "sn": 1024009,
+    "textContent": "<color=#00FF00>%s(+%s)</color>"
+  },
+  {
+    "sn": 1024010,
+    "textContent": "<color=#FF0000>%s(%s)</color>"
+  },
+  {
+    "sn": 1024011,
+    "textContent": "%s"
+  },
+  {
+    "sn": 1024012,
+    "textContent": "达到对应段位即可领取奖励，段位奖励赛季重置"
+  },
+  {
+    "sn": 1024013,
+    "textContent": "成就奖励只能领取一次"
+  },
+  {
+    "sn": 1024014,
+    "textContent": "结算奖励将在赛季结束后通过邮件发放"
+  },
+  {
+    "sn": 1024015,
+    "textContent": "我"
+  },
+  {
+    "sn": 1024016,
+    "textContent": "距赛季结束还有：%s"
+  },
+  {
+    "sn": 1024017,
+    "textContent": "本赛季已结束。赛季结算中，请稍后再来。"
+  },
+  {
+    "sn": 1024018,
+    "textContent": "赛季已结束"
+  },
+  {
+    "sn": 1026002,
+    "textContent": "挑战次数 %d/%d"
+  },
+  {
+    "sn": 1026003,
+    "textContent": "体力不足无法进入"
+  },
+  {
+    "sn": 1026004,
+    "textContent": "本日挑战已达上限"
+  },
+  {
+    "sn": 1026005,
+    "textContent": "副本未解锁"
+  },
+  {
+    "sn": 1026006,
+    "textContent": "本日挑战已到达上限"
+  },
+  {
+    "sn": 1026007,
+    "textContent": "需等级达到%d方可解锁本副本"
+  },
+  {
+    "sn": 1026008,
+    "textContent": "需通关%s【%s】方可解锁本章"
+  },
+  {
+    "sn": 1026009,
+    "textContent": "本副本%s，当前无法进入"
+  },
+  {
+    "sn": 1026010,
+    "textContent": "尚未通关前置关卡-%s"
+  },
+  {
+    "sn": 1027000,
+    "textContent": "每日副本"
+  },
+  {
+    "sn": 1028001,
+    "textContent": "没有找到对应的联盟"
+  },
+  {
+    "sn": 1028002,
+    "textContent": "需要怪盗团等级达到%s级"
+  },
+  {
+    "sn": 1028003,
+    "textContent": "成员数：%s/%s"
+  },
+  {
+    "sn": 1028004,
+    "textContent": "招募信息：%s"
+  },
+  {
+    "sn": 1028005,
+    "textContent": "影响力：%s"
+  },
+  {
+    "sn": 1028006,
+    "textContent": "没有找到对应的联盟"
+  },
+  {
+    "sn": 1028007,
+    "textContent": "需要怪盗团等级达到%s级"
+  },
+  {
+    "sn": 1028008,
+    "textContent": "可加入等级 %s级"
+  },
+  {
+    "sn": 1028009,
+    "textContent": "自动批准等级 %s级"
+  },
+  {
+    "sn": 1028010,
+    "textContent": "申请"
+  },
+  {
+    "sn": 1028011,
+    "textContent": "已申请"
+  },
+  {
+    "sn": 1028012,
+    "textContent": "将%s职务调整为："
+  },
+  {
+    "sn": 1028013,
+    "textContent": "%s/%s"
+  },
+  {
+    "sn": 1028014,
+    "textContent": "未开启则不接受入盟申请"
+  },
+  {
+    "sn": 1028015,
+    "textContent": "需要先开启加入等级，并大于等于加入等级"
+  },
+  {
+    "sn": 1028016,
+    "textContent": "退出联盟"
+  },
+  {
+    "sn": 1028017,
+    "textContent": "辞去职务"
+  },
+  {
+    "sn": 1028018,
+    "textContent": "<color=#FF0000>%s</color>加入了联盟"
+  },
+  {
+    "sn": 1028019,
+    "textContent": "<color=#FF0000>%s</color>将<color=#FF0000>%s</color>职务调整为<color=#FF0000>%s</color>"
+  },
+  {
+    "sn": 1028020,
+    "textContent": "<color=#FF0000>%s</color>将联盟名称修改为<color=#FF0000>%s</color>"
+  },
+  {
+    "sn": 1028021,
+    "textContent": "<color=#FF0000>%s</color>将会长转让给<color=#FF0000>%s</color>"
+  },
+  {
+    "sn": 1028022,
+    "textContent": "<color=#FF0000>%s</color>退出了联盟"
+  },
+  {
+    "sn": 1028023,
+    "textContent": "<color=#FF0000>%s</color>将<color=#FF0000>%s</color>移出了联盟"
+  },
+  {
+    "sn": 1028024,
+    "textContent": "<color=#FF0000>%s</color>辞去了副会长职务"
+  },
+  {
+    "sn": 1028025,
+    "textContent": "%s(%s)"
+  },
+  {
+    "sn": 1028026,
+    "textContent": "本周贡献 %s"
+  },
+  {
+    "sn": 1028027,
+    "textContent": "历史贡献 %s"
+  },
+  {
+    "sn": 1028028,
+    "textContent": "暂时没有适合您的联盟"
+  },
+  {
+    "sn": 1028029,
+    "textContent": "等级不足"
+  },
+  {
+    "sn": 1028030,
+    "textContent": "加入"
+  },
+  {
+    "sn": 1028031,
+    "textContent": "<color=#FF0000>%s</color>创建了联盟"
+  },
+  {
+    "sn": 1028032,
+    "textContent": "第%s阶段"
+  },
+  {
+    "sn": 1028033,
+    "textContent": "本周上限%s"
+  },
+  {
+    "sn": 1028034,
+    "textContent": "%s"
+  },
+  {
+    "sn": 1028035,
+    "textContent": "%s<color=#FF0000>%s</color>已提升影响力"
+  },
+  {
+    "sn": 1028036,
+    "textContent": "奖励将在周结算时通过邮件发放"
+  },
+  {
+    "sn": 1028037,
+    "textContent": "当前阶段"
+  },
+  {
+    "sn": 1028038,
+    "textContent": "（最多可提升<color=#FF0000>%s</color>）"
+  },
+  {
+    "sn": 1028039,
+    "textContent": ""
+  },
+  {
+    "sn": 1028040,
+    "textContent": "本日"
+  },
+  {
+    "sn": 1028041,
+    "textContent": "本周"
+  },
+  {
+    "sn": 1028042,
+    "textContent": "<color=#FF0000>%s</color>长时间未上线|会长已自动转让给<color=#FF0000>%s</color>"
+  },
+  {
+    "sn": 1028043,
+    "textContent": "输入完整的联盟名字或ID进行搜索......"
+  },
+  {
+    "sn": 1029032,
+    "textContent": "%s回合"
+  },
+  {
+    "sn": 1029033,
+    "textContent": "%s行动"
+  },
+  {
+    "sn": 1030034,
+    "textContent": "完成这次行动"
+  },
+  {
+    "sn": 1030035,
+    "textContent": "回合数不超过%s"
+  },
+  {
+    "sn": 1030036,
+    "textContent": "阵亡不超过%s次"
+  },
+  {
+    "sn": 1030037,
+    "textContent": "第%s间"
+  },
+  {
+    "sn": 1030038,
+    "textContent": "%s层"
+  },
+  {
+    "sn": 1030039,
+    "textContent": "永久"
+  },
+  {
+    "sn": 1030080,
+    "textContent": "第%s题/共%s题"
+  },
+  {
+    "sn": 1031001,
+    "textContent": "已解锁教学导览：<color=#FFBE7E>%d</color>条"
+  },
+  {
+    "sn": 1031002,
+    "textContent": "没有可查看的教学导览"
+  },
+  {
+    "sn": 1031003,
+    "textContent": "暂无『<color=#FFBE7E>%s</color>』相关教程"
+  },
+  {
+    "sn": 1031004,
+    "textContent": "<color=#FFBE7E>%s</color>"
+  },
+  {
+    "sn": 1031005,
+    "textContent": "%s…"
+  },
+  {
+    "sn": 1031006,
+    "textContent": "搜索想查看的内容"
+  },
+  {
+    "sn": 1031007,
+    "textContent": "想要查看哪项教学导览？"
+  },
+  {
+    "sn": 1032001,
+    "textContent": "确认消耗%s合成%s吗？"
+  },
+  {
+    "sn": 1032002,
+    "textContent": "本次合成结果将直接转化为1个%s印记"
+  },
+  {
+    "sn": 1033001,
+    "textContent": "送礼"
+  },
+  {
+    "sn": 1033002,
+    "textContent": "约会"
+  },
+  {
+    "sn": 1033003,
+    "textContent": "？？？"
+  },
+  {
+    "sn": 1033004,
+    "textContent": "点击此处发起会话"
+  },
+  {
+    "sn": 1033005,
+    "textContent": "点击此处选择回复消息"
+  },
+  {
+    "sn": 1033006,
+    "textContent": "没有需要发送的消息"
+  },
+  {
+    "sn": 1033007,
+    "textContent": "作为礼物赠与协同者，可提升%s点亲密度，首次赠送额外增加%s点亲密度，『喜爱之物』额外增加%s点亲密度。"
+  },
+  {
+    "sn": 1033008,
+    "textContent": "亲密度+%s\n首次赠送额外+%s\n『喜爱之物』额外+%s"
+  },
+  {
+    "sn": 1033009,
+    "textContent": "%srank%s解锁"
+  },
+  {
+    "sn": 1033010,
+    "textContent": "%s好感度提升至rank%s后，合成潜入道具、战斗道具、礼物时有几率额外产出1个。"
+  },
+  {
+    "sn": 1033011,
+    "textContent": "%s好感度提升至rank%s后，合成潜入道具、战斗道具、礼物时有机会省下一部分制作材料。"
+  },
+  {
+    "sn": 1033012,
+    "textContent": "解锁：%s%s/%s"
+  },
+  {
+    "sn": 1033013,
+    "textContent": "解锁：%s%s/%s %s%s/%s"
+  },
+  {
+    "sn": 1033014,
+    "textContent": "点击空白处继续对话"
+  },
+  {
+    "sn": 1034001,
+    "textContent": "面具等级"
+  },
+  {
+    "sn": 1034002,
+    "textContent": "面具品质"
+  },
+  {
+    "sn": 1034003,
+    "textContent": "材料"
+  },
+  {
+    "sn": 1034004,
+    "textContent": "星"
+  },
+  {
+    "sn": 1034005,
+    "textContent": "已达最大等级"
+  },
+  {
+    "sn": 1034006,
+    "textContent": "社群分类"
+  },
+  {
+    "sn": 1034007,
+    "textContent": "该技能等级无法提升"
+  },
+  {
+    "sn": 1034008,
+    "textContent": "收录顺序"
+  },
+  {
+    "sn": 1034009,
+    "textContent": "该人格面具已进化至满星"
+  },
+  {
+    "sn": 1034010,
+    "textContent": "等级达到%s级时解锁(%s/%s)"
+  },
+  {
+    "sn": 1034011,
+    "textContent": "等级达到10级时解锁（%s/10）"
+  },
+  {
+    "sn": 1034012,
+    "textContent": "等级达到50级时解锁（%s/50）"
+  },
+  {
+    "sn": 1034013,
+    "textContent": "任意五维达到5级时解锁"
+  },
+  {
+    "sn": 1034014,
+    "textContent": "通关回溯记忆普通1-2后解锁"
+  },
+  {
+    "sn": 1034015,
+    "textContent": "面具残识"
+  },
+  {
+    "sn": 1034016,
+    "textContent": "特色属性"
+  },
+  {
+    "sn": 1034017,
+    "textContent": "随机道具"
+  },
+  {
+    "sn": 1034018,
+    "textContent": "等级达到20级时解锁（%s/20）"
+  },
+  {
+    "sn": 1034019,
+    "textContent": "等级达到30级时解锁（%s/30）"
+  },
+  {
+    "sn": 1034020,
+    "textContent": "等级达到40级时解锁（%s/40）"
+  },
+  {
+    "sn": 1034021,
+    "textContent": "默认"
+  },
+  {
+    "sn": 1034022,
+    "textContent": "意识等级"
+  },
+  {
+    "sn": 1034023,
+    "textContent": "怪盗等级"
+  },
+  {
+    "sn": 1034024,
+    "textContent": "怪盗品质"
+  },
+  {
+    "sn": 1034025,
+    "textContent": "意识等级"
+  },
+  {
+    "sn": 1034026,
+    "textContent": "特色属性"
+  },
+  {
+    "sn": 1034027,
+    "textContent": "潜能%d级时解锁"
+  },
+  {
+    "sn": 1034028,
+    "textContent": "潜能%d级时可升级"
+  },
+  {
+    "sn": 1034029,
+    "textContent": "怪盗%d级时可继续提升"
+  },
+  {
+    "sn": 1034030,
+    "textContent": "该技能已达到最高等级"
+  },
+  {
+    "sn": 1034031,
+    "textContent": "强化技能"
+  },
+  {
+    "sn": 1034032,
+    "textContent": "获得技能"
+  },
+  {
+    "sn": 1034033,
+    "textContent": "潜能从1级提升至2级。"
+  },
+  {
+    "sn": 1034034,
+    "textContent": "潜能从2级提升至3级。"
+  },
+  {
+    "sn": 1034035,
+    "textContent": "面具达到%d级时可提升"
+  },
+  {
+    "sn": 1034036,
+    "textContent": "额外技能"
+  },
+  {
+    "sn": 1034037,
+    "textContent": "『ONE MORE』"
+  },
+  {
+    "sn": 1034038,
+    "textContent": "『HIGHLIGHT』"
+  },
+  {
+    "sn": 1034039,
+    "textContent": "当前效果:"
+  },
+  {
+    "sn": 1034040,
+    "textContent": "下一级效果:"
+  },
+  {
+    "sn": 1034041,
+    "textContent": "意识等级已进化到上限！"
+  },
+  {
+    "sn": 1034042,
+    "textContent": "人格面具技能"
+  },
+  {
+    "sn": 1034043,
+    "textContent": "潜能技能"
+  },
+  {
+    "sn": 1034044,
+    "textContent": "特殊技能"
+  },
+  {
+    "sn": 1034045,
+    "textContent": "特殊技能"
+  },
+  {
+    "sn": 1034046,
+    "textContent": "材料品质："
+  },
+  {
+    "sn": 1034047,
+    "textContent": "武器品质："
+  },
+  {
+    "sn": 1034048,
+    "textContent": "卡片品质："
+  },
+  {
+    "sn": 1034049,
+    "textContent": "面具品质："
+  },
+  {
+    "sn": 1034050,
+    "textContent": "初级"
+  },
+  {
+    "sn": 1034051,
+    "textContent": "中级"
+  },
+  {
+    "sn": 1034052,
+    "textContent": "高级"
+  },
+  {
+    "sn": 1034053,
+    "textContent": "灰色"
+  },
+  {
+    "sn": 1034054,
+    "textContent": "蓝色"
+  },
+  {
+    "sn": 1034055,
+    "textContent": "紫色"
+  },
+  {
+    "sn": 1034056,
+    "textContent": "橙色"
+  },
+  {
+    "sn": 1034057,
+    "textContent": "该面具已持有，合成结果分解为%d个%s。"
+  },
+  {
+    "sn": 1034058,
+    "textContent": "通过消耗一定数量的\n人格面具印记合成新的面具。"
+  },
+  {
+    "sn": 1034059,
+    "textContent": "主角%d级时可升级"
+  },
+  {
+    "sn": 1034060,
+    "textContent": "支援效果"
+  },
+  {
+    "sn": 1034061,
+    "textContent": "相同属性怪盗和当前人格面具出战时，可激活欲望奏鸣效果"
+  },
+  {
+    "sn": 1034062,
+    "textContent": "奏鸣效果一览"
+  },
+  {
+    "sn": 1034063,
+    "textContent": "%s属性奏鸣效果一览"
+  },
+  {
+    "sn": 1034064,
+    "textContent": "面具协奏：增强上阵怪盗中的四种属性伤害。"
+  },
+  {
+    "sn": 1034065,
+    "textContent": "面具协奏：%s/%s/%s/%s属性提升%s伤害。"
+  },
+  {
+    "sn": 1034066,
+    "textContent": "怪盗%d级时可解锁"
+  },
+  {
+    "sn": 1034067,
+    "textContent": "%d个"
+  },
+  {
+    "sn": 1034068,
+    "textContent": "面具%d级时可解锁"
+  },
+  {
+    "sn": 1034069,
+    "textContent": "面具协奏效果一览"
+  },
+  {
+    "sn": 1035001,
+    "textContent": "<color=#B7B7B7>主角%d级可激活</color>"
+  },
+  {
+    "sn": 1035002,
+    "textContent": "<color=#EE0909>可激活</color>"
+  },
+  {
+    "sn": 1035003,
+    "textContent": "已满级"
+  },
+  {
+    "sn": 1035004,
+    "textContent": "真的要重置当前灵感吗？"
+  },
+  {
+    "sn": 1035005,
+    "textContent": "<color=#EE0909>%s</color>"
+  },
+  {
+    "sn": 1035006,
+    "textContent": "激活"
+  },
+  {
+    "sn": 1035007,
+    "textContent": "升级"
+  },
+  {
+    "sn": 1035008,
+    "textContent": "<color=#B7B7B7>突破点不足</color>"
+  },
+  {
+    "sn": 1035009,
+    "textContent": "前置技能尚未解锁。"
+  },
+  {
+    "sn": 1035010,
+    "textContent": "技能等级不能高于前置技能。"
+  },
+  {
+    "sn": 1035011,
+    "textContent": "需要总消耗突破点高于%d。"
+  },
+  {
+    "sn": 1035012,
+    "textContent": "需要%d突破点才可以激活天赋。"
+  },
+  {
+    "sn": 1035013,
+    "textContent": "需要%d突破点才可以升级天赋。"
+  },
+  {
+    "sn": 1036001,
+    "textContent": "暂无关卡目标"
+  },
+  {
+    "sn": 1036002,
+    "textContent": "点击或者拖动角色框可以调整行动顺序"
+  },
+  {
+    "sn": 1036003,
+    "textContent": "再次点击其他角色交换行动顺序"
+  },
+  {
+    "sn": 1037001,
+    "textContent": "剩余%s次"
+  },
+  {
+    "sn": 1038001,
+    "textContent": "4"
+  },
+  {
+    "sn": 1039001,
+    "textContent": "第一章"
+  },
+  {
+    "sn": 1039002,
+    "textContent": "第二章"
+  },
+  {
+    "sn": 1039003,
+    "textContent": "第三章"
+  },
+  {
+    "sn": 1039004,
+    "textContent": "第四章"
+  },
+  {
+    "sn": 1039005,
+    "textContent": "第五章"
+  },
+  {
+    "sn": 1039006,
+    "textContent": "第六章"
+  },
+  {
+    "sn": 1039007,
+    "textContent": "第七章"
+  },
+  {
+    "sn": 1039008,
+    "textContent": "第八章"
+  },
+  {
+    "sn": 1039009,
+    "textContent": "第九章"
+  },
+  {
+    "sn": 1039010,
+    "textContent": "第十章"
+  },
+  {
+    "sn": 1040001,
+    "textContent": "%d次行动内完成"
+  },
+  {
+    "sn": 1040002,
+    "textContent": "%s属性攻击时获得分数"
+  },
+  {
+    "sn": 1040003,
+    "textContent": "%s攻击时获得分数"
+  },
+  {
+    "sn": 1040004,
+    "textContent": "攻击造成weak时获得分数"
+  },
+  {
+    "sn": 1040005,
+    "textContent": "1MORE攻击时获得分数"
+  },
+  {
+    "sn": 1040006,
+    "textContent": "阵亡人数不超过%d人"
+  },
+  {
+    "sn": 1040007,
+    "textContent": "编队人数不超过%d人"
+  },
+  {
+    "sn": 1040011,
+    "textContent": "+%d"
+  },
+  {
+    "sn": 1040012,
+    "textContent": "×%d倍"
+  },
+  {
+    "sn": 1040013,
+    "textContent": "×%d$"
+  },
+  {
+    "sn": 1040014,
+    "textContent": "A组"
+  },
+  {
+    "sn": 1040015,
+    "textContent": "B组"
+  },
+  {
+    "sn": 1040021,
+    "textContent": "关卡 %d-%d"
+  },
+  {
+    "sn": 1040101,
+    "textContent": "取消"
+  },
+  {
+    "sn": 1040200,
+    "textContent": "生活菜单"
+  },
+  {
+    "sn": 1041001,
+    "textContent": "取消"
+  },
+  {
+    "sn": 1041002,
+    "textContent": "生活菜单"
+  },
+  {
+    "sn": 1041003,
+    "textContent": "用于都市行动。\n每天获得<color=#F7F95C>%s</color>点，上限<color=#F7F95C>%s</color>点。"
+  },
+  {
+    "sn": 1041004,
+    "textContent": "已解锁能力<color=#F7F95C>%s</color>/%s"
+  },
+  {
+    "sn": 1041005,
+    "textContent": "%s收集率"
+  },
+  {
+    "sn": 1041006,
+    "textContent": "总等级<color=#F7F95C>%s</color>"
+  },
+  {
+    "sn": 1041007,
+    "textContent": "完成都市事件需要消耗行动力。\n每日05:00恢复%d点。"
+  },
+  {
+    "sn": 1041008,
+    "textContent": "%d天后下映"
+  },
+  {
+    "sn": 1041009,
+    "textContent": "故事简介："
+  },
+  {
+    "sn": 1041301,
+    "textContent": "完成%s任务“%s”解锁"
+  },
+  {
+    "sn": 1041302,
+    "textContent": "Rank.%s奖励"
+  },
+  {
+    "sn": 1041303,
+    "textContent": "已解锁全部能力"
+  },
+  {
+    "sn": 1041304,
+    "textContent": "【%s】%s"
+  },
+  {
+    "sn": 1041305,
+    "textContent": "资料"
+  },
+  {
+    "sn": 1041306,
+    "textContent": "语音"
+  },
+  {
+    "sn": 1041307,
+    "textContent": "故事"
+  },
+  {
+    "sn": 1041308,
+    "textContent": "CV.%s"
+  },
+  {
+    "sn": 1041309,
+    "textContent": "中文CV：%s"
+  },
+  {
+    "sn": 1041310,
+    "textContent": "日文CV：%s"
+  },
+  {
+    "sn": 1042001,
+    "textContent": "角色%s级可购买"
+  },
+  {
+    "sn": 1042002,
+    "textContent": "对应任务未激活"
+  },
+  {
+    "sn": 1042003,
+    "textContent": "需要先购买%s"
+  },
+  {
+    "sn": 1042004,
+    "textContent": "该商品仅在%s出售"
+  },
+  {
+    "sn": 1042005,
+    "textContent": "该商品仅在%s出售"
+  },
+  {
+    "sn": 1042006,
+    "textContent": "%s达到%s级可购买"
+  },
+  {
+    "sn": 1042007,
+    "textContent": "%s%s级"
+  },
+  {
+    "sn": 1042008,
+    "textContent": "即将到期"
+  },
+  {
+    "sn": 1042009,
+    "textContent": "需要完成任务“%s”"
+  },
+  {
+    "sn": 1042010,
+    "textContent": "条件不足"
+  },
+  {
+    "sn": 1042011,
+    "textContent": "余额不足"
+  },
+  {
+    "sn": 1042012,
+    "textContent": "已售罄"
+  },
+  {
+    "sn": 1042013,
+    "textContent": "%s天后重置。"
+  },
+  {
+    "sn": 1042014,
+    "textContent": "%s小时后重置。"
+  },
+  {
+    "sn": 1042015,
+    "textContent": "%s分钟后重置。"
+  },
+  {
+    "sn": 1042016,
+    "textContent": "即将重置。"
+  },
+  {
+    "sn": 1042017,
+    "textContent": "探索度达到%s后解锁"
+  },
+  {
+    "sn": 1042018,
+    "textContent": "获得%s后解锁"
+  },
+  {
+    "sn": 1043001,
+    "textContent": "活动已结束"
+  },
+  {
+    "sn": 1043002,
+    "textContent": "活动未开放"
+  },
+  {
+    "sn": 1043003,
+    "textContent": "倒计时<color=#ff0000ff>%s</color>秒"
+  },
+  {
+    "sn": 1043004,
+    "textContent": "活动即将结束"
+  },
+  {
+    "sn": 1043005,
+    "textContent": "（%s/%s）"
+  },
+  {
+    "sn": 1043006,
+    "textContent": "恭喜获得本次%s活动的<color=#ff0000ff>兑换码</color>，复制兑奖号码，前往官网页面可领取丰富礼品！"
+  },
+  {
+    "sn": 1043007,
+    "textContent": "活动倒计时："
+  },
+  {
+    "sn": 1043008,
+    "textContent": "复制兑换码后前往兑换"
+  },
+  {
+    "sn": 1043009,
+    "textContent": "周边兑换码：%s"
+  },
+  {
+    "sn": 1043010,
+    "textContent": "%s后解锁"
+  },
+  {
+    "sn": 1043011,
+    "textContent": "获得%s后解锁"
+  },
+  {
+    "sn": 1044001,
+    "textContent": "%s站"
+  },
+  {
+    "sn": 1045001,
+    "textContent": "断线重连中……倒计时%s秒"
+  },
+  {
+    "sn": 1045002,
+    "textContent": "无网络环境，请检查本地网络连接"
+  },
+  {
+    "sn": 1045003,
+    "textContent": "服务器已关闭，请留意游戏公告"
+  },
+  {
+    "sn": 1045004,
+    "textContent": "网络连接失败，是否再次尝试连接？"
+  },
+  {
+    "sn": 1045005,
+    "textContent": "返回登录"
+  },
+  {
+    "sn": 1045006,
+    "textContent": "再次连接"
+  },
+  {
+    "sn": 1045007,
+    "textContent": "我知道了"
+  },
+  {
+    "sn": 1046001,
+    "textContent": "高级增益"
+  },
+  {
+    "sn": 1046002,
+    "textContent": "中级增益"
+  },
+  {
+    "sn": 1046003,
+    "textContent": "低级增益"
+  },
+  {
+    "sn": 1046004,
+    "textContent": "获得人格面具:"
+  },
+  {
+    "sn": 1046005,
+    "textContent": "每周一凌晨5:00结算，收录排行前100玩家"
+  },
+  {
+    "sn": 1046006,
+    "textContent": "我的排行:"
+  },
+  {
+    "sn": 1046007,
+    "textContent": "网络环境异常，请检查本地网络连接"
+  },
+  {
+    "sn": 1046008,
+    "textContent": "网络环境不稳定，请检查本地网络连接"
+  },
+  {
+    "sn": 1047001,
+    "textContent": "前往宫殿入口"
+  },
+  {
+    "sn": 1047002,
+    "textContent": "打探宫殿详情"
+  },
+  {
+    "sn": 1047003,
+    "textContent": "前往"
+  },
+  {
+    "sn": 1047004,
+    "textContent": "退出游戏"
+  },
+  {
+    "sn": 1047005,
+    "textContent": "返回游戏"
+  },
+  {
+    "sn": 1047006,
+    "textContent": "探索度："
+  },
+  {
+    "sn": 1047007,
+    "textContent": "印象空间"
+  },
+  {
+    "sn": 1048001,
+    "textContent": "再获取%s积分解锁"
+  },
+  {
+    "sn": 1048002,
+    "textContent": "再获取%s的%s积分解锁"
+  },
+  {
+    "sn": 1048003,
+    "textContent": "完成目标『%s』解锁"
+  },
+  {
+    "sn": 1048004,
+    "textContent": "完成主题『%s』解锁"
+  },
+  {
+    "sn": 1049001,
+    "textContent": "剩余%s"
+  },
+  {
+    "sn": 1049002,
+    "textContent": "本期剩余时间"
+  },
+  {
+    "sn": 1049003,
+    "textContent": "%s"
+  },
+  {
+    "sn": 1049004,
+    "textContent": "成长经验"
+  },
+  {
+    "sn": 1049005,
+    "textContent": "本周经验上限"
+  },
+  {
+    "sn": 1049006,
+    "textContent": "购买后，提升至%d级，可获得以下奖励"
+  },
+  {
+    "sn": 1049007,
+    "textContent": "购买等级"
+  },
+  {
+    "sn": 1049008,
+    "textContent": "购买典藏"
+  },
+  {
+    "sn": 1049009,
+    "textContent": "特别典藏"
+  },
+  {
+    "sn": 1049010,
+    "textContent": "计划等级提升"
+  },
+  {
+    "sn": 1049011,
+    "textContent": "获得「琴音」限时兑换权限"
+  },
+  {
+    "sn": 1049012,
+    "textContent": "解锁典藏版等级奖励获取权限"
+  },
+  {
+    "sn": 1049013,
+    "textContent": "包含「典藏版」所有内容"
+  },
+  {
+    "sn": 1049014,
+    "textContent": "立即获得特典专享奖励内容"
+  },
+  {
+    "sn": 1049015,
+    "textContent": "立即获得以下奖励"
+  },
+  {
+    "sn": 1049016,
+    "textContent": "典藏对应权限"
+  },
+  {
+    "sn": 1049017,
+    "textContent": "今日计划"
+  },
+  {
+    "sn": 1049018,
+    "textContent": "本周计划"
+  },
+  {
+    "sn": 1049019,
+    "textContent": "本期计划"
+  },
+  {
+    "sn": 1049020,
+    "textContent": "日限"
+  },
+  {
+    "sn": 1049021,
+    "textContent": "周限"
+  },
+  {
+    "sn": 1049022,
+    "textContent": "月限"
+  },
+  {
+    "sn": 1049023,
+    "textContent": "本期"
+  },
+  {
+    "sn": 1050001,
+    "textContent": "评分：%d"
+  },
+  {
+    "sn": 1050002,
+    "textContent": "关卡最终奖励受关卡进度影响"
+  },
+  {
+    "sn": 1050003,
+    "textContent": "评分：%d"
+  },
+  {
+    "sn": 1050004,
+    "textContent": "进度：%d"
+  },
+  {
+    "sn": 1050005,
+    "textContent": "第%d场"
+  },
+  {
+    "sn": 1050006,
+    "textContent": "再次扫荡（%dS）"
+  },
+  {
+    "sn": 1050007,
+    "textContent": "使用后获得%d体力"
+  },
+  {
+    "sn": 1050008,
+    "textContent": "消耗%d晶核，购买%d体力（已购买%d/%d次）"
+  },
+  {
+    "sn": 1050009,
+    "textContent": "退出后，关卡进度将重置。\n是否确认退出？"
+  },
+  {
+    "sn": 1050010,
+    "textContent": "退出后，关卡奖励将无法获取。\n体力不会扣除。是否确认退出？"
+  },
+  {
+    "sn": 1050011,
+    "textContent": "完成挑战获得倍率：%0.1f"
+  },
+  {
+    "sn": 1050012,
+    "textContent": "通关成绩：%d"
+  },
+  {
+    "sn": 1050013,
+    "textContent": "完成进度：%d"
+  },
+  {
+    "sn": 1050014,
+    "textContent": "最终得分：%d/%d"
+  },
+  {
+    "sn": 1050015,
+    "textContent": "挑战通过即可开启宝藏奖励"
+  },
+  {
+    "sn": 1050016,
+    "textContent": "退出后，将无法获得惊喜奖励。\n是否确认退出？"
+  },
+  {
+    "sn": 1050017,
+    "textContent": "全部"
+  },
+  {
+    "sn": 1050018,
+    "textContent": "新试炼筹备中，敬请期待~"
+  },
+  {
+    "sn": 1051001,
+    "textContent": "<color=#FFA500>%s</color>\n就叫这个名字吧"
+  },
+  {
+    "sn": 1051002,
+    "textContent": "点击输入框输入名字"
+  },
+  {
+    "sn": 1052001,
+    "textContent": "全天"
+  },
+  {
+    "sn": 1052002,
+    "textContent": "白天"
+  },
+  {
+    "sn": 1052003,
+    "textContent": "黄昏"
+  },
+  {
+    "sn": 1052004,
+    "textContent": "夜晚"
+  },
+  {
+    "sn": 1052005,
+    "textContent": "剩余时间：%s"
+  },
+  {
+    "sn": 1052006,
+    "textContent": "没有满足筛选条件的事件"
+  },
+  {
+    "sn": 1053000,
+    "textContent": "探索度：%s%%"
+  },
+  {
+    "sn": 1053001,
+    "textContent": "探索度%s%%可获取"
+  },
+  {
+    "sn": 1054001,
+    "textContent": "长按可快进剧情"
+  },
+  {
+    "sn": 1055001,
+    "textContent": "%sm"
+  },
+  {
+    "sn": 1056001,
+    "textContent": "盗取%s秘宝后解锁"
+  },
+  {
+    "sn": 1056002,
+    "textContent": "完整观看奖励"
+  },
+  {
+    "sn": 1056003,
+    "textContent": "首次观看消耗%s"
+  },
+  {
+    "sn": 1056004,
+    "textContent": "无追踪任务"
+  },
+  {
+    "sn": 1056005,
+    "textContent": "（后续任务，请明天再来体验）"
+  },
+  {
+    "sn": 1056006,
+    "textContent": "（请提升至%s级再来体验）"
+  },
+  {
+    "sn": 1057001,
+    "textContent": "待处理日程：%s/%s"
+  },
+  {
+    "sn": 1058001,
+    "textContent": "开始登录"
+  },
+  {
+    "sn": 1058002,
+    "textContent": "登录中."
+  },
+  {
+    "sn": 1058003,
+    "textContent": "登录中.."
+  },
+  {
+    "sn": 1058004,
+    "textContent": "登录中…"
+  },
+  {
+    "sn": 1058005,
+    "textContent": "登录中……"
+  },
+  {
+    "sn": 1058006,
+    "textContent": "服务器繁忙，需要排队进行登录，排队人数：<color=#FF0000>%s</color>人。请耐心等待…"
+  },
+  {
+    "sn": 1058007,
+    "textContent": "用户中心"
+  },
+  {
+    "sn": 1058008,
+    "textContent": "返回登录"
+  },
+  {
+    "sn": 1059001,
+    "textContent": "FF0000"
+  },
+  {
+    "sn": 1059002,
+    "textContent": "FFFFFF"
+  },
+  {
+    "sn": 1059003,
+    "textContent": "%s场战斗"
+  },
+  {
+    "sn": 1059004,
+    "textContent": "在异世界中使用，%s。"
+  },
+  {
+    "sn": 1060001,
+    "textContent": "暂无植物"
+  },
+  {
+    "sn": 1060002,
+    "textContent": "%s天"
+  },
+  {
+    "sn": 1060003,
+    "textContent": "%s: %s"
+  },
+  {
+    "sn": 1060004,
+    "textContent": "%s"
+  },
+  {
+    "sn": 1061000,
+    "textContent": "著作权人：完美世界（重庆）软件科技有限公司  版本号：%s  资源号：%s\n抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。"
+  },
+  {
+    "sn": 1061001,
+    "textContent": "本次更新需要下载<color=#FF0000>%s</color>的数据，是否开始下载？"
+  },
+  {
+    "sn": 1061002,
+    "textContent": "本次更新需要下载<color=#FF0000>%s</color>的数据，当前处于<color=#FF0000>非wifi环境</color>，是否开始下载？"
+  },
+  {
+    "sn": 1061003,
+    "textContent": "下载中 %s\n(%s/%s)"
+  },
+  {
+    "sn": 1061004,
+    "textContent": "更新完毕，点击屏幕继续！"
+  },
+  {
+    "sn": 1061005,
+    "textContent": "《女神异闻录：夜幕魅影》适龄提示"
+  },
+  {
+    "sn": 1061006,
+    "textContent": "1、本游戏是一款回合制角色扮演手机游戏，适用于年满12周岁及以上的用户，建议未成年人在家长监护下使用游戏产品。\n\n2、本游戏是基于《女神异闻录5》世界观制作的全新衍生作手游， 游戏世界制作精美但不会与现实生活相混淆。游戏中有少量基于文字的陌生人社交系统，但社交系统的管理遵循相关法律法规。\n\n3、游戏中有用户实名认证系统，未实名账号不可进入游戏，认证为未成年人的用户将接受以下管理：　　\n8周岁以下（不含）无法进行充值。　　\n8周岁至16周岁（含8周岁，不含16周岁）单次充值不得超过50元，每月累计不得超过200元。　　\n16周岁至18周岁（含16周岁，不含18周岁）单次充值不得超过100元，每月累计不得超过400元。　　\n未成年玩家可在周五、周六、周日（调休工作日除外）和法定节假日每日晚20时至21时登录游戏，其他时间无法登录游戏。"
+  },
+  {
+    "sn": 1070001,
+    "textContent": "距离本期结束：%s天%s时%s分"
+  },
+  {
+    "sn": 1070002,
+    "textContent": "距离本期结束：%s时%s分%s秒"
+  },
+  {
+    "sn": 1070003,
+    "textContent": "距离本期结束：%s分%s秒"
+  },
+  {
+    "sn": 1070004,
+    "textContent": "晋级条件："
+  },
+  {
+    "sn": 1070005,
+    "textContent": "保级条件："
+  },
+  {
+    "sn": 1070006,
+    "textContent": "本期挑战已结束"
+  },
+  {
+    "sn": 1080001,
+    "textContent": "请输入激活码"
+  },
+  {
+    "sn": 1080002,
+    "textContent": "激活成功"
+  }
+]

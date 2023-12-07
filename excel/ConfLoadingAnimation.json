@@ -1,0 +1,202 @@
+[
+  {
+    "sn": 1,
+    "UI": "UI_LoadingHat",
+    "prepareTime": 0.25,
+    "loadingTime": 2,
+    "finishTime": 0,
+    "audio": "UI0136",
+    "canTimeChangeUI": 1,
+    "useRealTime": 0
+  },
+  {
+    "sn": 2,
+    "UI": "UI_LoadingJokerHead",
+    "prepareTime": 1.5,
+    "loadingTime": 0.5,
+    "finishTime": 1,
+    "audio": "",
+    "canTimeChangeUI": 1,
+    "useRealTime": 0
+  },
+  {
+    "sn": 3,
+    "UI": "UI_LoadingSubway",
+    "prepareTime": 1,
+    "loadingTime": 1.5,
+    "finishTime": 0.5,
+    "audio": "UI0046",
+    "canTimeChangeUI": 1,
+    "useRealTime": 0
+  },
+  {
+    "sn": 4,
+    "UI": "UI_LoadingDistortion",
+    "prepareTime": 1,
+    "loadingTime": 1,
+    "finishTime": 1,
+    "audio": "UI0047",
+    "canTimeChangeUI": 1,
+    "useRealTime": 0
+  },
+  {
+    "sn": 5,
+    "UI": "UI_LoadingBlackboardWiper",
+    "prepareTime": 1,
+    "loadingTime": 2,
+    "finishTime": 0.5,
+    "audio": "",
+    "canTimeChangeUI": 1,
+    "useRealTime": 0
+  },
+  {
+    "sn": 6,
+    "UI": "UI_LoadingBlack",
+    "prepareTime": 1.4,
+    "loadingTime": 0.1,
+    "finishTime": 1,
+    "audio": "",
+    "canTimeChangeUI": 1,
+    "useRealTime": 0
+  },
+  {
+    "sn": 7,
+    "UI": "",
+    "prepareTime": 0,
+    "loadingTime": 0.1,
+    "finishTime": 0,
+    "audio": "",
+    "canTimeChangeUI": 0,
+    "useRealTime": 0
+  },
+  {
+    "sn": 8,
+    "UI": "",
+    "prepareTime": 0,
+    "loadingTime": 0.1,
+    "finishTime": 0,
+    "audio": "",
+    "canTimeChangeUI": 0,
+    "useRealTime": 0
+  },
+  {
+    "sn": 9,
+    "UI": "",
+    "prepareTime": 0,
+    "loadingTime": 0,
+    "finishTime": 1,
+    "audio": "",
+    "canTimeChangeUI": 0,
+    "useRealTime": 0
+  },
+  {
+    "sn": 10,
+    "UI": "",
+    "prepareTime": 3,
+    "loadingTime": 0.2,
+    "finishTime": 1,
+    "audio": "",
+    "canTimeChangeUI": 1,
+    "useRealTime": 1
+  },
+  {
+    "sn": 11,
+    "UI": "",
+    "prepareTime": 0.5,
+    "loadingTime": 0,
+    "finishTime": 2,
+    "audio": "",
+    "canTimeChangeUI": 0,
+    "useRealTime": 0
+  },
+  {
+    "sn": 12,
+    "UI": "",
+    "prepareTime": 0.8,
+    "loadingTime": 1.05,
+    "finishTime": 0.8,
+    "audio": "",
+    "canTimeChangeUI": 0,
+    "useRealTime": 0
+  },
+  {
+    "sn": 13,
+    "UI": "UI_LoadingChangeDay",
+    "prepareTime": 0.2,
+    "loadingTime": 6,
+    "finishTime": 1,
+    "audio": "",
+    "canTimeChangeUI": 0,
+    "useRealTime": 0
+  },
+  {
+    "sn": 14,
+    "UI": "",
+    "prepareTime": 3,
+    "loadingTime": 0.2,
+    "finishTime": 1,
+    "audio": "",
+    "canTimeChangeUI": 0,
+    "useRealTime": 1
+  },
+  {
+    "sn": 15,
+    "UI": "",
+    "prepareTime": 0.5,
+    "loadingTime": 3.5,
+    "finishTime": 2,
+    "audio": "UE0014",
+    "canTimeChangeUI": 0,
+    "useRealTime": 0
+  },
+  {
+    "sn": 16,
+    "UI": "",
+    "prepareTime": 0.5,
+    "loadingTime": 3.5,
+    "finishTime": 2,
+    "audio": "UE0014",
+    "canTimeChangeUI": 0,
+    "useRealTime": 0
+  },
+  {
+    "sn": 17,
+    "UI": "",
+    "prepareTime": 0,
+    "loadingTime": 0.1,
+    "finishTime": 1,
+    "audio": "",
+    "canTimeChangeUI": 0,
+    "useRealTime": 0
+  },
+  {
+    "sn": 18,
+    "UI": "",
+    "prepareTime": 2,
+    "loadingTime": 0.5,
+    "finishTime": 3,
+    "audio": "",
+    "canTimeChangeUI": 0,
+    "useRealTime": 1
+  },
+  {
+    "sn": 19,
+    "UI": "UI_LoadingHat",
+    "prepareTime": 0.25,
+    "loadingTime": 2.5,
+    "finishTime": 0,
+    "audio": "UI0154",
+    "canTimeChangeUI": 1,
+    "useRealTime": 0
+  },
+  {
+    "sn": 20,
+    "UI": "",
+    "prepareTime": 1,
+    "loadingTime": 1.5,
+    "finishTime": 2,
+    "audio": "",
+    "canTimeChangeUI": 0,
+    "useRealTime": 0
+  }
+]

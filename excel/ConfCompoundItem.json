@@ -1,0 +1,928 @@
+[
+  {
+    "sn": 1001010,
+    "consumeName": [
+      [
+        305902,
+        1
+      ],
+      [
+        305903,
+        1
+      ]
+    ],
+    "compoundName": 410301,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0,
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0,
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 10290,
+    "wonderLevel": 0,
+    "screenType": 2,
+    "storeType": 1,
+    "sort": 1000
+  },
+  {
+    "sn": 1002002,
+    "consumeName": [
+      [
+        305902,
+        1
+      ],
+      [
+        305923,
+        1
+      ],
+      [
+        305940,
+        1
+      ]
+    ],
+    "compoundName": 305602,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0.1,
+    "AdditionalRreturns": [
+      0.3,
+      0.2,
+      0.1
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1,
+      1
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 2,
+    "storeType": 1,
+    "sort": 1102
+  },
+  {
+    "sn": 1003001,
+    "consumeName": [
+      [
+        305929,
+        1
+      ],
+      [
+        305912,
+        1
+      ]
+    ],
+    "compoundName": 305731,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.2,
+      0.3
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1
+    ],
+    "coopLevel": [
+      4,
+      9
+    ],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 3,
+    "storeType": 1,
+    "sort": 1201
+  },
+  {
+    "sn": 1003002,
+    "consumeName": [
+      [
+        305929,
+        1
+      ],
+      [
+        305922,
+        1
+      ]
+    ],
+    "compoundName": 305732,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.2,
+      0.3
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1
+    ],
+    "coopLevel": [
+      4,
+      9
+    ],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 3,
+    "storeType": 1,
+    "sort": 1202
+  },
+  {
+    "sn": 1003003,
+    "consumeName": [
+      [
+        305929,
+        1
+      ],
+      [
+        305914,
+        1
+      ]
+    ],
+    "compoundName": 305733,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.2,
+      0.3
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1
+    ],
+    "coopLevel": [
+      4,
+      9
+    ],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 3,
+    "storeType": 1,
+    "sort": 1203
+  },
+  {
+    "sn": 1003004,
+    "consumeName": [
+      [
+        305929,
+        1
+      ],
+      [
+        305915,
+        1
+      ]
+    ],
+    "compoundName": 305734,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.2,
+      0.3
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1
+    ],
+    "coopLevel": [
+      4,
+      9
+    ],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 3,
+    "storeType": 1,
+    "sort": 1204
+  },
+  {
+    "sn": 1003005,
+    "consumeName": [
+      [
+        305929,
+        1
+      ],
+      [
+        305922,
+        1
+      ]
+    ],
+    "compoundName": 305735,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.2,
+      0.3
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1
+    ],
+    "coopLevel": [
+      4,
+      9
+    ],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 3,
+    "storeType": 1,
+    "sort": 1205
+  },
+  {
+    "sn": 1003006,
+    "consumeName": [
+      [
+        305929,
+        1
+      ],
+      [
+        305903,
+        1
+      ]
+    ],
+    "compoundName": 305736,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.2,
+      0.3
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1
+    ],
+    "coopLevel": [
+      4,
+      9
+    ],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 3,
+    "storeType": 1,
+    "sort": 1206
+  },
+  {
+    "sn": 1003007,
+    "consumeName": [
+      [
+        305929,
+        1
+      ],
+      [
+        305904,
+        1
+      ]
+    ],
+    "compoundName": 305737,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.2,
+      0.3
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1
+    ],
+    "coopLevel": [
+      4,
+      9
+    ],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 3,
+    "storeType": 1,
+    "sort": 1207
+  },
+  {
+    "sn": 1003008,
+    "consumeName": [
+      [
+        305902,
+        1
+      ],
+      [
+        305904,
+        1
+      ]
+    ],
+    "compoundName": 305738,
+    "firstCompoundAward": 200010,
+    "AdditionalOutputs": 0.3,
+    "AdditionalRreturns": [
+      0.3,
+      0.3
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 3,
+    "storeType": 1,
+    "sort": 1208
+  },
+  {
+    "sn": 1003009,
+    "consumeName": [
+      [
+        305902,
+        1
+      ],
+      [
+        305933,
+        1
+      ]
+    ],
+    "compoundName": 305739,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.3,
+      0.2
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1
+    ],
+    "coopLevel": [
+      4,
+      9
+    ],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 3,
+    "storeType": 1,
+    "sort": 1209
+  },
+  {
+    "sn": 1003010,
+    "consumeName": [
+      [
+        305902,
+        1
+      ],
+      [
+        305924,
+        1
+      ],
+      [
+        305940,
+        1
+      ]
+    ],
+    "compoundName": 305740,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0.1,
+    "AdditionalRreturns": [
+      0.3,
+      0.2,
+      0.1
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1,
+      1
+    ],
+    "coopLevel": [
+      4,
+      17
+    ],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 3,
+    "storeType": 1,
+    "sort": 1210
+  },
+  {
+    "sn": 1004001,
+    "consumeName": [
+      [
+        306201,
+        1
+      ]
+    ],
+    "compoundName": 305941,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.2
+    ],
+    "AdditionalRreturnsParam": [
+      1
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 4,
+    "storeType": 1,
+    "sort": 1301
+  },
+  {
+    "sn": 1004002,
+    "consumeName": [
+      [
+        306202,
+        1
+      ]
+    ],
+    "compoundName": 305942,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.2
+    ],
+    "AdditionalRreturnsParam": [
+      1
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 4,
+    "storeType": 1,
+    "sort": 1302
+  },
+  {
+    "sn": 1004003,
+    "consumeName": [
+      [
+        306203,
+        1
+      ]
+    ],
+    "compoundName": 305943,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0.2,
+    "AdditionalRreturns": [
+      0.2
+    ],
+    "AdditionalRreturnsParam": [
+      1
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 4,
+    "storeType": 1,
+    "sort": 1303
+  },
+  {
+    "sn": 1004004,
+    "consumeName": [
+      [
+        306204,
+        1
+      ],
+      [
+        306203,
+        1
+      ]
+    ],
+    "compoundName": 305944,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0.1,
+    "AdditionalRreturns": [
+      0.1,
+      0.2
+    ],
+    "AdditionalRreturnsParam": [
+      1,
+      1
+    ],
+    "coopLevel": [
+      4,
+      9
+    ],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 0,
+    "screenType": 4,
+    "storeType": 1,
+    "sort": 1304
+  },
+  {
+    "sn": 1005001,
+    "consumeName": [
+      [
+        302201,
+        3
+      ]
+    ],
+    "compoundName": 302202,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 60,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1401
+  },
+  {
+    "sn": 1005002,
+    "consumeName": [
+      [
+        302203,
+        3
+      ]
+    ],
+    "compoundName": 302204,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 60,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1402
+  },
+  {
+    "sn": 1005003,
+    "consumeName": [
+      [
+        302209,
+        3
+      ]
+    ],
+    "compoundName": 302210,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 60,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1403
+  },
+  {
+    "sn": 1005004,
+    "consumeName": [
+      [
+        302401,
+        3
+      ]
+    ],
+    "compoundName": 302402,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 40,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1404
+  },
+  {
+    "sn": 1005005,
+    "consumeName": [
+      [
+        302402,
+        3
+      ]
+    ],
+    "compoundName": 302403,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 50,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1405
+  },
+  {
+    "sn": 1005006,
+    "consumeName": [
+      [
+        302404,
+        3
+      ]
+    ],
+    "compoundName": 302405,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 40,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1406
+  },
+  {
+    "sn": 1005007,
+    "consumeName": [
+      [
+        302405,
+        3
+      ]
+    ],
+    "compoundName": 302406,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 50,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1407
+  },
+  {
+    "sn": 1005008,
+    "consumeName": [
+      [
+        302407,
+        3
+      ]
+    ],
+    "compoundName": 302408,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 40,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1408
+  },
+  {
+    "sn": 1005009,
+    "consumeName": [
+      [
+        302408,
+        3
+      ]
+    ],
+    "compoundName": 302409,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 50,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1409
+  },
+  {
+    "sn": 1005010,
+    "consumeName": [
+      [
+        302601,
+        3
+      ]
+    ],
+    "compoundName": 302602,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 40,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1410
+  },
+  {
+    "sn": 1005011,
+    "consumeName": [
+      [
+        302602,
+        3
+      ]
+    ],
+    "compoundName": 302603,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 60,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1411
+  },
+  {
+    "sn": 1005012,
+    "consumeName": [
+      [
+        302611,
+        3
+      ]
+    ],
+    "compoundName": 302612,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 40,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1412
+  },
+  {
+    "sn": 1005013,
+    "consumeName": [
+      [
+        302612,
+        3
+      ]
+    ],
+    "compoundName": 302613,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 60,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1413
+  },
+  {
+    "sn": 1005014,
+    "consumeName": [
+      [
+        302621,
+        3
+      ]
+    ],
+    "compoundName": 302622,
+    "firstCompoundAward": 200011,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 40,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1414
+  },
+  {
+    "sn": 1005015,
+    "consumeName": [
+      [
+        302622,
+        3
+      ]
+    ],
+    "compoundName": 302623,
+    "firstCompoundAward": 200012,
+    "AdditionalOutputs": 0,
+    "AdditionalRreturns": [
+      0
+    ],
+    "AdditionalRreturnsParam": [
+      0
+    ],
+    "coopLevel": [],
+    "moneyType": 22,
+    "price": 0,
+    "appearQuestLimit": 0,
+    "wonderLevel": 60,
+    "screenType": 5,
+    "storeType": 1,
+    "sort": 1415
+  }
+]

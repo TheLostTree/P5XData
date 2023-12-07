@@ -1,0 +1,4690 @@
+[
+  {
+    "sn": "DRAWCARD_RECORD",
+    "value": "300"
+  },
+  {
+    "sn": "DRAWCARD_SKIPANIM_TIME",
+    "value": "3"
+  },
+  {
+    "sn": "DRAWCARD_SKIPDISPLAY_TIME",
+    "value": "3"
+  },
+  {
+    "sn": "DRAWCARD_SKIPCHARACTER_TIME",
+    "value": "0.9"
+  },
+  {
+    "sn": "DRAWCARD_SKIP_FIVESTARS_TIME",
+    "value": "6"
+  },
+  {
+    "sn": "DRAWCARD_SKIP_FOURSTARS_TIME",
+    "value": "1.5"
+  },
+  {
+    "sn": "DRAWCARD_SKIP_FOURSTARSP_TIME",
+    "value": "1.2"
+  },
+  {
+    "sn": "DRAWCARD_SKIPWEAPON_TIME",
+    "value": "1"
+  },
+  {
+    "sn": "DRAWCARD_TENTIMES_GUARDTIME",
+    "value": "2"
+  },
+  {
+    "sn": "DRAWCARD_TENTIMES_ANIMFINISH",
+    "value": "3"
+  },
+  {
+    "sn": "DRAWCARD_WEAPON_BOX",
+    "value": "TL_WeaponGacha.prefab,21"
+  },
+  {
+    "sn": "DRAWCARD_WEAPON_BUTTON_INTERVAL",
+    "value": "0.05"
+  },
+  {
+    "sn": "DRAWCARD_THIEFNAME_GOLD",
+    "value": "#000000"
+  },
+  {
+    "sn": "DRAWCARD_THIEFNAME_PURPLE",
+    "value": "#ffffff"
+  },
+  {
+    "sn": "DRAWCARD_ONETIMES_GUARDTIME",
+    "value": "2"
+  },
+  {
+    "sn": "GACHA_DAILY_LIMIT",
+    "value": "999999"
+  },
+  {
+    "sn": "GACHA_ITEM_SUBSTRATE",
+    "value": "haoyou-diban5.png"
+  },
+  {
+    "sn": "UNION_QUESTION_FIRST_REWARD",
+    "value": "10"
+  },
+  {
+    "sn": "UNION_QUESTION_SECOND_REWARD",
+    "value": "100"
+  },
+  {
+    "sn": "UNION_TONGJI_FIGHT_MEMBER_NUM",
+    "value": "2"
+  },
+  {
+    "sn": "UNION_TONGJI_HELP_REWARD_NUM",
+    "value": "3"
+  },
+  {
+    "sn": "UNION_TONGJI_HELP_REWARD",
+    "value": "3051"
+  },
+  {
+    "sn": "UNION_QUESTION_DAY_NUM",
+    "value": "7"
+  },
+  {
+    "sn": "UNION_QUESTION_OVER_TIME_HINT",
+    "value": "20"
+  },
+  {
+    "sn": "UNION_VOICE_QUESTION_DAY_NUM",
+    "value": "7"
+  },
+  {
+    "sn": "UNION_CREAT_LEVEL",
+    "value": "15"
+  },
+  {
+    "sn": "UNION_MAX_MEMBER",
+    "value": "30"
+  },
+  {
+    "sn": "UNION_MAX_NAME_LENGTH",
+    "value": "6"
+  },
+  {
+    "sn": "UNION_MAX_ANNOUNCEMENT_LENGTH",
+    "value": "50"
+  },
+  {
+    "sn": "UNION_MAX_DECLARATION_LENGTH",
+    "value": "50"
+  },
+  {
+    "sn": "UNION_UNIT_ANNOUNCEMENT",
+    "value": "会长很懒，什么都没写"
+  },
+  {
+    "sn": "UNION_CREAT_COST",
+    "value": "3,200"
+  },
+  {
+    "sn": "UNION_MAX_APPLY_DAY",
+    "value": "7"
+  },
+  {
+    "sn": "UNION_MAX_OFFICER_COUNT",
+    "value": "2"
+  },
+  {
+    "sn": "UNION_CD_CHANGE_NAME",
+    "value": "24"
+  },
+  {
+    "sn": "UNION_CD_JOIN",
+    "value": "24"
+  },
+  {
+    "sn": "UNION_IMPEACH_CONDITION",
+    "value": "7"
+  },
+  {
+    "sn": "UNION_MAX_DYNAMIC",
+    "value": "50"
+  },
+  {
+    "sn": "UNION_EXP_MAX",
+    "value": "70000"
+  },
+  {
+    "sn": "UNION_EXP_MAX_PER1_DAY",
+    "value": "500"
+  },
+  {
+    "sn": "UNION_EXP_MAX_PER2_WEEK",
+    "value": "300"
+  },
+  {
+    "sn": "UNION_EXP_MAX_PER3_WEEK",
+    "value": "200"
+  },
+  {
+    "sn": "UNION_RECOMMEND_MIN",
+    "value": "10"
+  },
+  {
+    "sn": "UNION_RECOMMEND_MAX",
+    "value": "50"
+  },
+  {
+    "sn": "UNION_SHOP_SN",
+    "value": "3"
+  },
+  {
+    "sn": "UNION_ACTIVE",
+    "value": "7"
+  },
+  {
+    "sn": "UNION_ACTIVE_NUMBER",
+    "value": "10"
+  },
+  {
+    "sn": "UNION_RECOMMAND_MAX_LEVEL_DIFF",
+    "value": "10"
+  },
+  {
+    "sn": "UNION_RECOMMAND_TOTAL_NUM",
+    "value": "10"
+  },
+  {
+    "sn": "UNION_RECOMMAND_ONE_PAGE_NUM",
+    "value": "50"
+  },
+  {
+    "sn": "UNION_WAIT_APPROVE_MAX_TIME",
+    "value": "7"
+  },
+  {
+    "sn": "UNICON_WAIT_APPROVE_MAX_NUM",
+    "value": "100"
+  },
+  {
+    "sn": "GAMES_BASEBALL_FREECOUPON",
+    "value": "307101"
+  },
+  {
+    "sn": "GAMES_BASEBALL_SERVE_TIME",
+    "value": "3.4"
+  },
+  {
+    "sn": "GAMES_BASEBALL_PATH_LENGTH",
+    "value": "19.2"
+  },
+  {
+    "sn": "GAMES_BASEBALL_TIMELINE_LENGTH",
+    "value": "1"
+  },
+  {
+    "sn": "GAMES_BASEBALL_MIDPOINT_XY",
+    "value": "13.163,13.564,26.295"
+  },
+  {
+    "sn": "GAMES_BASEBALL_MIDPOINT_RADIUS",
+    "value": "0.9"
+  },
+  {
+    "sn": "GAMES_BASEBALL_WALL_1",
+    "value": "6.66,14.58,26.295"
+  },
+  {
+    "sn": "GAMES_BASEBALL_WALL_2",
+    "value": "18.72,14.58,26.295"
+  },
+  {
+    "sn": "GAMES_BASEBALL_WALL_3",
+    "value": "6.66,7.51,26.295"
+  },
+  {
+    "sn": "GAMES_BASEBALL_WALL_4",
+    "value": "18.72,7.51,26.295"
+  },
+  {
+    "sn": "GAMES_BASEBALL_THIRDEYESPEED",
+    "value": "0.3"
+  },
+  {
+    "sn": "GAMES_BASEBALL_ACTION_STAND",
+    "value": "wonder_uniform@baseball_stand_city"
+  },
+  {
+    "sn": "GAMES_BASEBALL_ACTION_RESET",
+    "value": "wonder_uniform@baseball_reset_city"
+  },
+  {
+    "sn": "GAMES_BASEBALL_ACTION_READY",
+    "value": "wonder_uniform@baseball_ready_city"
+  },
+  {
+    "sn": "GAMES_BASEBALL_ACTION_LOST",
+    "value": "wonder_uniform@baseball_lost_city"
+  },
+  {
+    "sn": "GAMES_BASEBALL_ACTION_HIT_DOWN",
+    "value": "wonder_uniform@baseball_hit_down_city"
+  },
+  {
+    "sn": "GAMES_BASEBALL_ACTION_HIT_NORMAL",
+    "value": "wonder_uniform@baseball_hit_normal_city"
+  },
+  {
+    "sn": "GAMES_BASEBALL_ACTION_UP",
+    "value": "wonder_uniform@baseball_hit_up_city"
+  },
+  {
+    "sn": "GAMES_BASEBALL_SCENE",
+    "value": "14"
+  },
+  {
+    "sn": "GAMES_BASEBALL_EFFECT_HIT",
+    "value": "baseball_hit_2.prefab"
+  },
+  {
+    "sn": "GAMES_BASEBALL_EFFECT_COLLISION",
+    "value": "baseball_collision.prefab"
+  },
+  {
+    "sn": "FISH_WONDER_POSITION1",
+    "value": "170.916,122.594,124.931,81"
+  },
+  {
+    "sn": "FISH_WONDER_POSITION2",
+    "value": "164.818,122.607,134.698,168"
+  },
+  {
+    "sn": "FISH_WONDER_POSITION3",
+    "value": "164.87,122.537,134.69,173"
+  },
+  {
+    "sn": "FISH_WONDER_POSITION4",
+    "value": "152.15,122.589,136.612,-169"
+  },
+  {
+    "sn": "FISH_LENGTH",
+    "value": "4"
+  },
+  {
+    "sn": "FISH_SQUARE",
+    "value": "100,90"
+  },
+  {
+    "sn": "FISH_CREATE_SQUARE",
+    "value": "15,3,1"
+  },
+  {
+    "sn": "FISH_DELAYTIME",
+    "value": "2"
+  },
+  {
+    "sn": "FISH_SPACETIME",
+    "value": "2"
+  },
+  {
+    "sn": "FISH_HOOKTIME",
+    "value": "5"
+  },
+  {
+    "sn": "LOGIN_MAX_QUEUE",
+    "value": "20"
+  },
+  {
+    "sn": "LOGIN_MAX_ONLINE",
+    "value": "10000"
+  },
+  {
+    "sn": "LOGIN_TIME_FULL",
+    "value": "1"
+  },
+  {
+    "sn": "LOGIN_INTERVAL_TIPS",
+    "value": "3"
+  },
+  {
+    "sn": "LOGIN_INTERVAL_CLEAR",
+    "value": "30"
+  },
+  {
+    "sn": "CHARACTER_DELETE_IMMEDIATE_LEVEL",
+    "value": "20"
+  },
+  {
+    "sn": "GS_RMB_MAX",
+    "value": "5100000"
+  },
+  {
+    "sn": "CHECK_KEY_ACTIVE",
+    "value": "FALSE"
+  },
+  {
+    "sn": "SERVER_OFFLINE_TIME",
+    "value": "10"
+  },
+  {
+    "sn": "BAGPACK_INIT",
+    "value": "10000"
+  },
+  {
+    "sn": "BAGPACK_MAX",
+    "value": "10000"
+  },
+  {
+    "sn": "BAG_THIEF_MAX",
+    "value": "200"
+  },
+  {
+    "sn": "mainScene",
+    "value": "2102"
+  },
+  {
+    "sn": "firstStoryScene",
+    "value": "268"
+  },
+  {
+    "sn": "itemcolor2",
+    "value": "#00d268"
+  },
+  {
+    "sn": "itemcolor3",
+    "value": "#1a7bbf"
+  },
+  {
+    "sn": "itemcolor4",
+    "value": "#6F087C"
+  },
+  {
+    "sn": "itemcolor5",
+    "value": "#a2960b"
+  },
+  {
+    "sn": "LEVEL_MAX",
+    "value": "99"
+  },
+  {
+    "sn": "PERSONAL_CONTRIBUTION_LIMIT",
+    "value": "3"
+  },
+  {
+    "sn": "GAME_BASE_TIME",
+    "value": "2017/02/07 09:00:00"
+  },
+  {
+    "sn": "LEFT_MOVE_SPEED",
+    "value": "6.5"
+  },
+  {
+    "sn": "RIGHT_MOVE_SPEED",
+    "value": "6.5"
+  },
+  {
+    "sn": "FORWARD_MOVE_SPEED",
+    "value": "6.5"
+  },
+  {
+    "sn": "BACK_MOVE_SPEED",
+    "value": "6.5"
+  },
+  {
+    "sn": "MAIL_MAX_NUMBER",
+    "value": "999"
+  },
+  {
+    "sn": "SINGLE_PAGE_MAIL_NUMBER",
+    "value": "5"
+  },
+  {
+    "sn": "MAX_ROUND_PVE",
+    "value": "100"
+  },
+  {
+    "sn": "TIME_BATTLEROUND_READY_Manual",
+    "value": "30000"
+  },
+  {
+    "sn": "TIME_BATTLEROUND_EXTRAWAIT",
+    "value": "3000"
+  },
+  {
+    "sn": "TIME_BATTLEROUND_PVE_NOLIMIT",
+    "value": "7200000"
+  },
+  {
+    "sn": "BATTLE_TIMELIMIT_SKILL",
+    "value": "15000"
+  },
+  {
+    "sn": "BATTLE_TIMELIMIT_TL",
+    "value": "120000"
+  },
+  {
+    "sn": "BATTLE_ESPACE_WAIT_TIME",
+    "value": "1000"
+  },
+  {
+    "sn": "BATTLE_ESPACE_TIME",
+    "value": "1000"
+  },
+  {
+    "sn": "BATTLE_CAMP_MAX_POSITION",
+    "value": "6"
+  },
+  {
+    "sn": "ZHUJUE_MOVE_SPEED",
+    "value": "6.5"
+  },
+  {
+    "sn": "CIRCLE_QUEST_MAX_NUM",
+    "value": "10"
+  },
+  {
+    "sn": "PICK_DIS_RANGE",
+    "value": "5.00"
+  },
+  {
+    "sn": "CLICKABLE_REWARD_MAX",
+    "value": "10"
+  },
+  {
+    "sn": "ASHICHEN",
+    "value": "20"
+  },
+  {
+    "sn": "XUNFANG_SHIJIAN_PROB",
+    "value": "0,0,0,0,0,0,20,30,40,100"
+  },
+  {
+    "sn": "BATTLE_USE_ITEM_TIME",
+    "value": "10"
+  },
+  {
+    "sn": "BATTLE_DEFEND_PARAM",
+    "value": "0.4"
+  },
+  {
+    "sn": "BATTLE_PROTECT_PARAM",
+    "value": "0.5"
+  },
+  {
+    "sn": "BATTLE_ESCAPE_PROBABILITY",
+    "value": "50"
+  },
+  {
+    "sn": "FASHION_DYE_PERIOD",
+    "value": "1"
+  },
+  {
+    "sn": "QUESTION_NUMBER",
+    "value": "10"
+  },
+  {
+    "sn": "QUESTION_GAIN_TREASURE_CONDITION",
+    "value": "6"
+  },
+  {
+    "sn": "QUEST_PATROL_PERIDD",
+    "value": "6"
+  },
+  {
+    "sn": "STORE_VALUE_MAX",
+    "value": "9999999"
+  },
+  {
+    "sn": "STORE_DANGER_HP_VALUE",
+    "value": "20000"
+  },
+  {
+    "sn": "STORE_DANGER_SP_VALUE",
+    "value": "3000"
+  },
+  {
+    "sn": "HP_STORE_TYPE",
+    "value": "1"
+  },
+  {
+    "sn": "SP_STORE_TYPE",
+    "value": "2"
+  },
+  {
+    "sn": "AUTO_HP_VALUE_PERCENT",
+    "value": "0.1"
+  },
+  {
+    "sn": "XING_XIA_ALONG_TIME",
+    "value": "50"
+  },
+  {
+    "sn": "MAX_CommanderEditList",
+    "value": "30"
+  },
+  {
+    "sn": "MAX_ValidCommandPos",
+    "value": "7"
+  },
+  {
+    "sn": "MAX_CommandLength",
+    "value": "4"
+  },
+  {
+    "sn": "MAX_OBSERVERNUM",
+    "value": "30"
+  },
+  {
+    "sn": "MAX_BATTLE_SummonChongWuNUM",
+    "value": "3"
+  },
+  {
+    "sn": "ITEM_STORE_FREE_OPEN",
+    "value": "2"
+  },
+  {
+    "sn": "NPC_FIGHT_FAILD",
+    "value": "1"
+  },
+  {
+    "sn": "NPC_FIGHT_SUCCESS",
+    "value": "2"
+  },
+  {
+    "sn": "MAX_ROUND_PVP",
+    "value": "20"
+  },
+  {
+    "sn": "GOTOBATTLESTAGETIME",
+    "value": "10000"
+  },
+  {
+    "sn": "MAX_SHOWSKILLNUM",
+    "value": "5"
+  },
+  {
+    "sn": "ACTION_REQ_EXPIRED",
+    "value": "15"
+  },
+  {
+    "sn": "ACTION_COOLDOWN",
+    "value": "2"
+  },
+  {
+    "sn": "SPINWIN_SHIMEN",
+    "value": "10"
+  },
+  {
+    "sn": "RAGE_MAX_LIMIT",
+    "value": "300"
+  },
+  {
+    "sn": "WORLD_QUESTION_FIRST_REWARD",
+    "value": "10"
+  },
+  {
+    "sn": "WORLD_QUESTION_SECOND_REWARD",
+    "value": "100"
+  },
+  {
+    "sn": "TEXT_CHECK_ONLINE",
+    "value": "TRUE"
+  },
+  {
+    "sn": "TIME_BATTLEEND",
+    "value": "3000"
+  },
+  {
+    "sn": "Max_waitBattleTime",
+    "value": "15"
+  },
+  {
+    "sn": "TIME_GLOBALDESTORY",
+    "value": "5000"
+  },
+  {
+    "sn": "RETROACTIVE_TIMES_MAX",
+    "value": "2"
+  },
+  {
+    "sn": "ACTIVITY_REWARD_RETROACTIVE",
+    "value": "100"
+  },
+  {
+    "sn": "HUMAN_CREATE_INITIAL_GOLD",
+    "value": "0"
+  },
+  {
+    "sn": "HUMAN_SKILL_COMBAT_RATIO",
+    "value": "1"
+  },
+  {
+    "sn": "HUMAN_CHONGWU_COMBAT_RATIO",
+    "value": "1"
+  },
+  {
+    "sn": "HUMAN_THIEF_COMBAT_RATIO",
+    "value": "1"
+  },
+  {
+    "sn": "HUMAN_CREATE_INITIAL_HP_STORE",
+    "value": "200000"
+  },
+  {
+    "sn": "HUMAN_CREATE_INITIAL_SP_STORE",
+    "value": "30000"
+  },
+  {
+    "sn": "HUMAN_CREATE_INITIAL_TL_STORE",
+    "value": "30000"
+  },
+  {
+    "sn": "QUESTION_ASK_FOR_HELP_NUM",
+    "value": "3"
+  },
+  {
+    "sn": "QUESTION_HELP_ANSWER_NUM",
+    "value": "10"
+  },
+  {
+    "sn": "QUESTION_HELP_ANSWER",
+    "value": "你选择了"
+  },
+  {
+    "sn": "OBSERVER_NUM_UPDATE",
+    "value": "1000"
+  },
+  {
+    "sn": "EVERY_DAY_HELP_LUCKY_POINTS_MINIMUM",
+    "value": "30"
+  },
+  {
+    "sn": "EVERY_DAY_HELP_LUCKY_POINTS_MAXIMUM",
+    "value": "70"
+  },
+  {
+    "sn": "HELP_ADD_LUCKY_POINTS_MINIMUM",
+    "value": "5"
+  },
+  {
+    "sn": "HELP_ADD_LUCKY_POINTS_MAXIMUM",
+    "value": "15"
+  },
+  {
+    "sn": "ASK_HELP_MAX_TIMES_OF_LUCKY_POINTS",
+    "value": "5"
+  },
+  {
+    "sn": "MAX_HELP_TIMES_FOR_EACH_ASK_OF_LUCKY_POINTS",
+    "value": "5"
+  },
+  {
+    "sn": "ITEM_EQUIP_REFINE_DISPLAY_MINIMUM_PERCENT",
+    "value": "0.2"
+  },
+  {
+    "sn": "MAX_ROUND_EVE",
+    "value": "50"
+  },
+  {
+    "sn": "NAME_MIN",
+    "value": "2"
+  },
+  {
+    "sn": "NAME_MAX",
+    "value": "6"
+  },
+  {
+    "sn": "NAME_CHARACTER_WHITELIST",
+    "value": ""
+  },
+  {
+    "sn": "NAME_LANGUAGE_WHITELIST",
+    "value": "1,2,3"
+  },
+  {
+    "sn": "TREASURE_GRID_INITIAL_SIZE",
+    "value": "6"
+  },
+  {
+    "sn": "JIEYI_WINE_TIME",
+    "value": "7"
+  },
+  {
+    "sn": "QUEST_UNION_TONGJI_RAND_NPC",
+    "value": "1001,1002,1003,1004,1005"
+  },
+  {
+    "sn": "JIEYI_CHAT_GROUP_NAME",
+    "value": "义结金兰"
+  },
+  {
+    "sn": "RIDE_SKILL_CD",
+    "value": "1"
+  },
+  {
+    "sn": "TIME_BATTLEROUND_EXTRAWAIT_EVE",
+    "value": "30000"
+  },
+  {
+    "sn": "GM_CURRENCY_MAX",
+    "value": "9999"
+  },
+  {
+    "sn": "GM_ITEM_MAX",
+    "value": "999"
+  },
+  {
+    "sn": "GM_SYSTEM_PUBLIC_MAIL_NUM",
+    "value": "100"
+  },
+  {
+    "sn": "MAIL_SYSTEM_PUBLIC_SEND_NAME",
+    "value": "【P5X制作组】"
+  },
+  {
+    "sn": "GEMCOMPOSE_AUTOBUY_LEVEL",
+    "value": "7"
+  },
+  {
+    "sn": "TIME_BATTLEROUND_EXTRAWAIT_NOHUMAN",
+    "value": "5000"
+  },
+  {
+    "sn": "RANK_CHONGWU_LIMIT_LEVEL",
+    "value": "30"
+  },
+  {
+    "sn": "RANK_CHONGWU_OR_THIEF_UPDATE_PERIOD",
+    "value": "5"
+  },
+  {
+    "sn": "MultiLine_TIME",
+    "value": "50"
+  },
+  {
+    "sn": "MultiLine_HUMANNUM",
+    "value": "5"
+  },
+  {
+    "sn": "BATTLE_PLAY_ONEOBJTIME",
+    "value": "3000"
+  },
+  {
+    "sn": "BATTLE_PLAY_EXTRATIME",
+    "value": "5000"
+  },
+  {
+    "sn": "PING_EXCEP_PERIOD",
+    "value": "8000"
+  },
+  {
+    "sn": "TIMER_BATTLEPOINT",
+    "value": "1000"
+  },
+  {
+    "sn": "TIMER_ROBOT_CHECK",
+    "value": "5000"
+  },
+  {
+    "sn": "TIMER_ROBOT_REMOVE",
+    "value": "1200000"
+  },
+  {
+    "sn": "EQUIP_AUTO_DECOMPOSE_HUMAN_LV",
+    "value": "41"
+  },
+  {
+    "sn": "EQUIP_AUTO_DECOMPOSE_EQUIP_LV",
+    "value": "31"
+  },
+  {
+    "sn": "EQUIP_AUTO_DECOMPOSE_QUALITY_LV",
+    "value": "5"
+  },
+  {
+    "sn": "PING_EXCEP_HINT_TIME",
+    "value": "10"
+  },
+  {
+    "sn": "PING_EXCEP_KICK_TIME",
+    "value": "30"
+  },
+  {
+    "sn": "PING_EXCEP_HINT_OPEN",
+    "value": "FALSE"
+  },
+  {
+    "sn": "PING_EXCEP_KICK_OPEN",
+    "value": "TRUE"
+  },
+  {
+    "sn": "PING_EXCEP_KICK_REASON",
+    "value": "服务器检测到您的网络环境不稳定或者疑似使用第三方辅助，请关闭后重新登录"
+  },
+  {
+    "sn": "SOCIAL_MANAGE_PWRD",
+    "value": "zheshimima"
+  },
+  {
+    "sn": "SOCIAL_THANK",
+    "value": "江湖新手，请多关照~"
+  },
+  {
+    "sn": "SOCIAL_DYNAMIC_HOT_MAX",
+    "value": "150"
+  },
+  {
+    "sn": "SOCIAL_DYNAMIC_HOT_DEL",
+    "value": "50"
+  },
+  {
+    "sn": "SOCIAL_DYNAMIC_HOT_WEIGHT",
+    "value": "10"
+  },
+  {
+    "sn": "SOCIAL_DYNAMIC_HOT_LIKE_TO_TIME",
+    "value": "5"
+  },
+  {
+    "sn": "SOCIAL_DYNAMIC_HOT_PROTECT_TIME",
+    "value": "120"
+  },
+  {
+    "sn": "SOCIAL_NEIGHBOR_RADIS",
+    "value": "100"
+  },
+  {
+    "sn": "SOCIAL_NEIGHBOR_NUM",
+    "value": "25"
+  },
+  {
+    "sn": "SOCIAL_HEAD_UPDATE_MAX",
+    "value": "100"
+  },
+  {
+    "sn": "SOCIAL_HOT_ADD_MAX",
+    "value": "9999999"
+  },
+  {
+    "sn": "SOCIAL_HOT_DYNAMIC_LIKED",
+    "value": "1"
+  },
+  {
+    "sn": "SOCIAL_HOT_DYNAMIC_VISITED",
+    "value": "10"
+  },
+  {
+    "sn": "ATTENT_PEOPLES_MAX",
+    "value": "200"
+  },
+  {
+    "sn": "DYNAMIC_TEXT_LEN_MAX",
+    "value": "50"
+  },
+  {
+    "sn": "DYNAMICS_MAX",
+    "value": "100000"
+  },
+  {
+    "sn": "DYNAMIC_MSG_MAX",
+    "value": "1024"
+  },
+  {
+    "sn": "DYNAMIC_FRIEND_MAX",
+    "value": "1500"
+  },
+  {
+    "sn": "DYNAMIC_FALL",
+    "value": "500"
+  },
+  {
+    "sn": "DYNAMIC_FRIENT_POLL",
+    "value": "10"
+  },
+  {
+    "sn": "DYNAMIC_LIKE_SHOW_MAX",
+    "value": "50"
+  },
+  {
+    "sn": "DEFULT_BIRTHDAY",
+    "value": "0"
+  },
+  {
+    "sn": "NOTIFY_MAX_POLL",
+    "value": "100"
+  },
+  {
+    "sn": "RANK_SHOW_MAX",
+    "value": "100"
+  },
+  {
+    "sn": "SOCIAL_HOT_DAY_RESET",
+    "value": "0 0 0 * * ?"
+  },
+  {
+    "sn": "PARTNER_HOT_RANK_MAX",
+    "value": "200"
+  },
+  {
+    "sn": "HOT_GIFT_SEND_TIME",
+    "value": "2018/05/03 12:00:00"
+  },
+  {
+    "sn": "CHECK_SWITCH_ONLINE",
+    "value": "TRUE"
+  },
+  {
+    "sn": "CHECK_SWITCH_ONLINE2",
+    "value": "FALSE"
+  },
+  {
+    "sn": "WORLD_QUESTION_START_SERVER_LIMIT",
+    "value": "180"
+  },
+  {
+    "sn": "WORLD_QUESTION_NUM_LIMIT",
+    "value": "30"
+  },
+  {
+    "sn": "WORLD_QUESTION_SHOW_SWITCH",
+    "value": "TRUE"
+  },
+  {
+    "sn": "PAY_ACTIVITY_SHOP_RETURN",
+    "value": "1280"
+  },
+  {
+    "sn": "PAY_ACTIVITY_UPDATE_TIMER",
+    "value": "2000"
+  },
+  {
+    "sn": "PAY_ACTIVITY_UPDATE_NUM",
+    "value": "200"
+  },
+  {
+    "sn": "PAY_ACTIVITY_GRANT_TIMER",
+    "value": "10"
+  },
+  {
+    "sn": "PAY_ACTIVITY_NAME_STR",
+    "value": "-"
+  },
+  {
+    "sn": "SOCIAL_HEADSCORE_BIMIN",
+    "value": "30"
+  },
+  {
+    "sn": "SOCIAL_HEADSCORE_BIMAX",
+    "value": "95"
+  },
+  {
+    "sn": "REPORT_CD",
+    "value": "1"
+  },
+  {
+    "sn": "ACTIVITY_REWARD_SPLIT_DEFAULT_NUM",
+    "value": "100"
+  },
+  {
+    "sn": "MOTTO_LEN_LIMIT",
+    "value": "50"
+  },
+  {
+    "sn": "LEITAI_STAGETIMER",
+    "value": "2000"
+  },
+  {
+    "sn": "LEITAI_UNITOBJECT_MAXNUM",
+    "value": "100"
+  },
+  {
+    "sn": "LEITAI_REQUEST_MINTIME",
+    "value": "200"
+  },
+  {
+    "sn": "CONTAINER_NAME_NONE",
+    "value": "容器"
+  },
+  {
+    "sn": "CONTAINER_NAME_EQUIPMENT",
+    "value": "装备栏"
+  },
+  {
+    "sn": "CONTAINER_NAME_INVENTORY",
+    "value": "背包"
+  },
+  {
+    "sn": "CONTAINER_NAME_QUEST",
+    "value": "任务背包"
+  },
+  {
+    "sn": "CONTAINER_NAME_THIEF",
+    "value": "怪盗背包"
+  },
+  {
+    "sn": "CONTAINER_NAME_TEMPORAL",
+    "value": "临时背包"
+  },
+  {
+    "sn": "CONTAINER_NAME_STORE",
+    "value": "仓库"
+  },
+  {
+    "sn": "CONTAINER_NAME_AMULET",
+    "value": "宝物背包"
+  },
+  {
+    "sn": "CONTAINER_NAME_INGREDIENT",
+    "value": "食材背包"
+  },
+  {
+    "sn": "COLOR_WIHTE",
+    "value": "白"
+  },
+  {
+    "sn": "COLOR_GREEN",
+    "value": "绿"
+  },
+  {
+    "sn": "COLOR_BLUE",
+    "value": "蓝"
+  },
+  {
+    "sn": "COLOR_PURPLE",
+    "value": "紫"
+  },
+  {
+    "sn": "COLOR_ORANGE",
+    "value": "橙"
+  },
+  {
+    "sn": "COLOR_GOLD",
+    "value": "金"
+  },
+  {
+    "sn": "COLOR_PINK",
+    "value": "粉"
+  },
+  {
+    "sn": "COLOR_RED",
+    "value": "红"
+  },
+  {
+    "sn": "HINT_TEAM",
+    "value": "的队伍"
+  },
+  {
+    "sn": "FNAME",
+    "value": "姓"
+  },
+  {
+    "sn": "SNAME",
+    "value": "名"
+  },
+  {
+    "sn": "ATTING_FIRST",
+    "value": "一号阵容"
+  },
+  {
+    "sn": "ATTING_SECOND",
+    "value": "二号阵容"
+  },
+  {
+    "sn": "ATTING_THIRD",
+    "value": "三号阵容"
+  },
+  {
+    "sn": "ATTING_FOURTH",
+    "value": "四号阵容"
+  },
+  {
+    "sn": "PUSH_QUESTION_MAX",
+    "value": "150"
+  },
+  {
+    "sn": "CHINESE_COMMA",
+    "value": "、"
+  },
+  {
+    "sn": "Max_waitBattleTime_EVE",
+    "value": "15"
+  },
+  {
+    "sn": "AINPC_QUEST_STAGE_SET",
+    "value": "20122"
+  },
+  {
+    "sn": "mainCrossScene",
+    "value": "800000"
+  },
+  {
+    "sn": "CROSS_TOKEN_VALID_TIME",
+    "value": "60"
+  },
+  {
+    "sn": "ATTING_INFO_NAME_LEN",
+    "value": "4"
+  },
+  {
+    "sn": "GRADE_ROLLING_DAMAGE_PER_LEVEL_UP",
+    "value": "0.03"
+  },
+  {
+    "sn": "GRADE_ROLLING_DAMAGE_MAX",
+    "value": "0.3"
+  },
+  {
+    "sn": "GRADE_ROLLING_DAMAGE_PER_LEVEL_DOWN",
+    "value": "-0.04"
+  },
+  {
+    "sn": "GRADE_ROLLING_DAMAGE_MIN",
+    "value": "-0.4"
+  },
+  {
+    "sn": "GRADE_ROLLING_SEALRATE_PER_LEVEL_UP",
+    "value": "0.01"
+  },
+  {
+    "sn": "GRADE_ROLLING_SEALRATE_MAX",
+    "value": "0.1"
+  },
+  {
+    "sn": "GRADE_ROLLING_SEALRATE_PER_LEVEL_DOWN",
+    "value": "-0.015"
+  },
+  {
+    "sn": "GRADE_ROLLING_SEALRATE_MIN",
+    "value": "-0.15"
+  },
+  {
+    "sn": "Loop_HumanObjectService",
+    "value": "3"
+  },
+  {
+    "sn": "DYNAMICS_CDTIME",
+    "value": "60"
+  },
+  {
+    "sn": "DYNAMICS_DAYCOUNT",
+    "value": "100"
+  },
+  {
+    "sn": "SHOP_AUTO_BUY_TAG",
+    "value": "23"
+  },
+  {
+    "sn": "ACTIVITY_SHARE_CHANCHU",
+    "value": "130001"
+  },
+  {
+    "sn": "CHARACTERLOGIN_Interval",
+    "value": "1000"
+  },
+  {
+    "sn": "CHARACTERRECONNECT_Interval",
+    "value": "1000"
+  },
+  {
+    "sn": "CHARACTERLOGIN_RELIVE_TIME",
+    "value": "10000"
+  },
+  {
+    "sn": "CHARACTERRECONNECT_RELIVE_TIME",
+    "value": "10000"
+  },
+  {
+    "sn": "CHARACTERRECONNECT_COUNT",
+    "value": "3"
+  },
+  {
+    "sn": "CHARACTERRECONNECT_TIME",
+    "value": "15"
+  },
+  {
+    "sn": "Valentine_SaveDateNum",
+    "value": "50"
+  },
+  {
+    "sn": "SOCIAL_HOT_RANK_GIFTCOUNT",
+    "value": "3"
+  },
+  {
+    "sn": "INGREDIENT_BAGPACK_INIT",
+    "value": "200"
+  },
+  {
+    "sn": "GAME_PLAY_TIME_DAY_UNDER_AGE",
+    "value": "6"
+  },
+  {
+    "sn": "GAME_PLAY_TIME_ONCE_UNDER_AGE",
+    "value": "2"
+  },
+  {
+    "sn": "GAME_PLAY_TIME_ONCE_ADULT",
+    "value": "9"
+  },
+  {
+    "sn": "GAME_PLAY_KICK_TIME",
+    "value": "30"
+  },
+  {
+    "sn": "GAME_PLAY_REST_TIME",
+    "value": "15"
+  },
+  {
+    "sn": "GAME_PLAY_TIME_UNDER_AGE",
+    "value": "8,22"
+  },
+  {
+    "sn": "GAMETIME_SWITCH_COUNT",
+    "value": "-1"
+  },
+  {
+    "sn": "PHONE_BINDING_REWARD",
+    "value": "2470"
+  },
+  {
+    "sn": "NAME_LETTER_DIGIT_CH_OPEN",
+    "value": "TRUE"
+  },
+  {
+    "sn": "TIME_UNITS_DAY",
+    "value": "天"
+  },
+  {
+    "sn": "TIME_UNITS_HOUR",
+    "value": "时"
+  },
+  {
+    "sn": "TIME_UNITS_MINUTE",
+    "value": "分"
+  },
+  {
+    "sn": "CHANDROID_CHANNELLIMIT",
+    "value": "TRUE"
+  },
+  {
+    "sn": "ShowTransformReturnBtn",
+    "value": "FALSE"
+  },
+  {
+    "sn": "ONE_SDK_CONNECT_TIMEOUT",
+    "value": "3000"
+  },
+  {
+    "sn": "ONE_SDK_READ_TIMEOUT",
+    "value": "3000"
+  },
+  {
+    "sn": "WORLD_QUESTION_CONSUMPTION",
+    "value": ""
+  },
+  {
+    "sn": "WORLD_QUESTION_CONSUMPTION_NUM",
+    "value": ""
+  },
+  {
+    "sn": "WORLD_QUESTION_COOLING",
+    "value": "20"
+  },
+  {
+    "sn": "REDUCE_CERRENCY_SEAL_MIN",
+    "value": "5"
+  },
+  {
+    "sn": "CLINET_RES_VERSION",
+    "value": "19112101"
+  },
+  {
+    "sn": "SEND_ANNOUNCE_CNT",
+    "value": "2"
+  },
+  {
+    "sn": "SEND_ANNOUNCE_TIME",
+    "value": "10"
+  },
+  {
+    "sn": "SELECTLOGIC_14",
+    "value": "0.8"
+  },
+  {
+    "sn": "SEALCHAT_IDLIST",
+    "value": "6106,6108,6110,6143,6105"
+  },
+  {
+    "sn": "HUMANINFO_CALLBACKCOUNT",
+    "value": "3"
+  },
+  {
+    "sn": "Quick_CHAT_NUM",
+    "value": "5"
+  },
+  {
+    "sn": "MAIL_SEND_MAXTIMES",
+    "value": "10"
+  },
+  {
+    "sn": "RANK_CLEAR_LIST",
+    "value": "27,36,34,38"
+  },
+  {
+    "sn": "SOCIAL_HEAD_REWARD",
+    "value": "29"
+  },
+  {
+    "sn": "GET_UNIONLIST_REQUEST_INTERVAL",
+    "value": "2"
+  },
+  {
+    "sn": "EXP_GET_BACK_DAY",
+    "value": "3"
+  },
+  {
+    "sn": "FUZHUCHONGWU_MAXNUM",
+    "value": "4"
+  },
+  {
+    "sn": "SCHEDULE_COUNT",
+    "value": "3"
+  },
+  {
+    "sn": "SERVER_MERGE_RENAME_REWARD_ITEM_SN",
+    "value": "11034011,14"
+  },
+  {
+    "sn": "SERVER_MERGE_RENAME_REWARD_ITEM_NUM",
+    "value": "1,200"
+  },
+  {
+    "sn": "PING_EXCEP_SEAL_OPEN",
+    "value": "FALSE"
+  },
+  {
+    "sn": "PING_EXCEP_SEAL_CHECK_START",
+    "value": "1200"
+  },
+  {
+    "sn": "PING_EXCEP_SEAL_CHECK_END",
+    "value": "1260"
+  },
+  {
+    "sn": "PING_EXCEP_SEAL_TIME_MIN",
+    "value": "10"
+  },
+  {
+    "sn": "PING_EXCEP_SEAL_REASON",
+    "value": "疑似使用辅助软件"
+  },
+  {
+    "sn": "PING_EXCEP_LOG_PERIOD",
+    "value": "8000"
+  },
+  {
+    "sn": "MAX_SEND_CNT",
+    "value": "5"
+  },
+  {
+    "sn": "INVOKE_HUMAN_RPC",
+    "value": "TRUE"
+  },
+  {
+    "sn": "CREATEMONSTER_PVE_TIME",
+    "value": "2"
+  },
+  {
+    "sn": "PVE_MAXPULSE_TIME",
+    "value": "10"
+  },
+  {
+    "sn": "TREASURE_ON_SALE_TIME",
+    "value": "1000,5000"
+  },
+  {
+    "sn": "GLOBAL_CROSS_SWITCH",
+    "value": "TRUE"
+  },
+  {
+    "sn": "GLOBAL_CROSS_ENTERORDER",
+    "value": "神雕2加油"
+  },
+  {
+    "sn": "TRADE_CHANGE_PERCENT_NUM_LOG",
+    "value": "0.05"
+  },
+  {
+    "sn": "HPBar_EffectContinue",
+    "value": "0.25"
+  },
+  {
+    "sn": "HPBar_EffectClose",
+    "value": "0.05"
+  },
+  {
+    "sn": "HP_Delay",
+    "value": "0.8"
+  },
+  {
+    "sn": "HP_TweenHide",
+    "value": "0.75"
+  },
+  {
+    "sn": "HP_ANIMATION_SPACE",
+    "value": "0.2"
+  },
+  {
+    "sn": "BUFF_TL_DISPLAY_SPACE",
+    "value": "0.5"
+  },
+  {
+    "sn": "DODGE_SPEED",
+    "value": "10"
+  },
+  {
+    "sn": "DODGE_DISTANCE",
+    "value": "5"
+  },
+  {
+    "sn": "DODGE_VALUE",
+    "value": "100"
+  },
+  {
+    "sn": "DODGE_CONSUME",
+    "value": "10"
+  },
+  {
+    "sn": "DODGE_REGENERATE_PER_SECOND",
+    "value": "3"
+  },
+  {
+    "sn": "SHADE_TO_SHADE_TELEPOT_RANGExy_MAX",
+    "value": "6"
+  },
+  {
+    "sn": "SHADE_TO_SHADE_TELEPOT_RANGEz_MAX",
+    "value": "2"
+  },
+  {
+    "sn": "SHADE_TO_SHADE_TELEPOT_DISTANCE",
+    "value": "0.5"
+  },
+  {
+    "sn": "battle_shieldValue_per",
+    "value": "1"
+  },
+  {
+    "sn": "battle_batonTouch_buffs",
+    "value": ""
+  },
+  {
+    "sn": "battle_down_buffs",
+    "value": "1"
+  },
+  {
+    "sn": "EYE_SHOW_DISTANCE",
+    "value": "20"
+  },
+  {
+    "sn": "MoveAcceleration",
+    "value": "40"
+  },
+  {
+    "sn": "MoveDecceleration",
+    "value": "40"
+  },
+  {
+    "sn": "UNIFORM_RotationSpeed_Move",
+    "value": "0"
+  },
+  {
+    "sn": "UNIFORM_RotationSpeed_Jump",
+    "value": "1600"
+  },
+  {
+    "sn": "UNIFORM_RUNSTOP_SPEED",
+    "value": "2.5"
+  },
+  {
+    "sn": "UNIFORM_WALKSTOP_SPEED",
+    "value": "2.5"
+  },
+  {
+    "sn": "SKILL_1_WAIT",
+    "value": "0.8"
+  },
+  {
+    "sn": "TRICK_VALUE_RANGE",
+    "value": "0,20"
+  },
+  {
+    "sn": "TRICK_INCREASE",
+    "value": "0,0,0"
+  },
+  {
+    "sn": "TRICK_SKILLS",
+    "value": "117111,117112,117113"
+  },
+  {
+    "sn": "TRICK_INCREASE_ROUND",
+    "value": "1"
+  },
+  {
+    "sn": "TRICK_HP_DAMAGE_TURN",
+    "value": "0"
+  },
+  {
+    "sn": "SUPPORT_ATTR_ADD_TYPE",
+    "value": "240,250,260,270,410,420"
+  },
+  {
+    "sn": "SUPPORT_ATTR_ADD_VALUE",
+    "value": "0.2"
+  },
+  {
+    "sn": "SUPPORT_ATTR_BASE_TYPE",
+    "value": "280,290,300,310,650,660,670,680,690,700,850"
+  },
+  {
+    "sn": "SUPPORT_ATTR_BASE_VALUE",
+    "value": "0.2"
+  },
+  {
+    "sn": "TurnBasedFlipOver",
+    "value": "0.5"
+  },
+  {
+    "sn": "AREA_EFFECTS_1",
+    "value": "areacircle_2.prefab"
+  },
+  {
+    "sn": "AREA_EFFECTS_2",
+    "value": "areacircle_3.prefab"
+  },
+  {
+    "sn": "AREA_EFFECTS_3",
+    "value": "areacircle_1.prefab"
+  },
+  {
+    "sn": "QUERT_1_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "FocusIntensity",
+    "value": "0.6"
+  },
+  {
+    "sn": "LEVEL_ALERT_LIMITS",
+    "value": "40,70,100"
+  },
+  {
+    "sn": "LEVEL_ALERT_ENEMY_WAITING_TIME",
+    "value": "5000"
+  },
+  {
+    "sn": "NPC_CLICK_DISTANCE",
+    "value": "3"
+  },
+  {
+    "sn": "NPC_INTERACTION_CHECK_DISTANCE",
+    "value": "4.5"
+  },
+  {
+    "sn": "NPC_INTERACTION_DISTANCE",
+    "value": "3"
+  },
+  {
+    "sn": "Miss_Effect_TL",
+    "value": "TL_battle_common_miss.prefab"
+  },
+  {
+    "sn": "HurtType_Effect_TL_4",
+    "value": "TL_skill_empty_hit.prefab"
+  },
+  {
+    "sn": "HurtType_Effect_TL_5",
+    "value": "TL_battle_common_counter.prefab"
+  },
+  {
+    "sn": "AdaptType_Effect_TL_3",
+    "value": ""
+  },
+  {
+    "sn": "AdaptType_Effect_TL_4",
+    "value": "TL_battle_common_counter.prefab"
+  },
+  {
+    "sn": "AdaptType_Effect_TL_5",
+    "value": "TL_battle_common_absorb.prefab"
+  },
+  {
+    "sn": "Emoticions_Talk_Interval",
+    "value": "10000"
+  },
+  {
+    "sn": "Emoticions_Talk_Interval_Random",
+    "value": "5000"
+  },
+  {
+    "sn": "ONE_MORE_WAIT_TIME",
+    "value": "15000"
+  },
+  {
+    "sn": "TOTAL_ATTACK_SKILL_SN",
+    "value": "2"
+  },
+  {
+    "sn": "PHYSICAL_RECOVERYCYCLE_TIME",
+    "value": "5"
+  },
+  {
+    "sn": "PHYSICAL_LIMIT",
+    "value": "5000"
+  },
+  {
+    "sn": "ACTOR_MAX_DIS",
+    "value": "40"
+  },
+  {
+    "sn": "NAME_MAX_DIS",
+    "value": "40"
+  },
+  {
+    "sn": "SHOP_MAX_BUY_NUM",
+    "value": "99"
+  },
+  {
+    "sn": "STORY_DUNGEON_JUMP_ICON",
+    "value": "ACT-tiaoyueputong1.png"
+  },
+  {
+    "sn": "BattleEnd_FailureTL",
+    "value": "TL_battle_common_simpleFailure.prefab"
+  },
+  {
+    "sn": "BattleEnd_VictoryTL",
+    "value": "TL_battle_common_simpleVictory.prefab"
+  },
+  {
+    "sn": "BATTLE_TIP_THIEF",
+    "value": "1041"
+  },
+  {
+    "sn": "BATTLE_HITDOWN_CAMDELAY",
+    "value": "1.45"
+  },
+  {
+    "sn": "APPOINTMENT_MOOD_IMAGE",
+    "value": "yuehui-10-xiaolian.png,yuehui-10-xiaolian.png,yuehui-10-xiaolian.png"
+  },
+  {
+    "sn": "DATE_MOOD_HAPPY_PROBABILITY",
+    "value": "30"
+  },
+  {
+    "sn": "DATE_MOOD_NORMAL_PROBABILITY",
+    "value": "60"
+  },
+  {
+    "sn": "DATE_MOOD_SAD_PROBABILITY",
+    "value": "10"
+  },
+  {
+    "sn": "MAGAZINE_PREFAB",
+    "value": "tongyong_zazhi.prefab"
+  },
+  {
+    "sn": "XINGDONGZHI_ICON",
+    "value": "itemicon-8.png"
+  },
+  {
+    "sn": "NPC_HALO_LIGHT",
+    "value": "halo_light.prefab"
+  },
+  {
+    "sn": "NPC_HALO_DEEP",
+    "value": "halo_deep.prefab"
+  },
+  {
+    "sn": "NPC_HALO_LIGHT_APPEAR",
+    "value": "halo_light_appear.prefab"
+  },
+  {
+    "sn": "NPC_HALO_DEEP_APPEAR",
+    "value": "halo_deep_appear.prefab"
+  },
+  {
+    "sn": "NPC_HALO_LIGHT_DISAPPEAR",
+    "value": "halo_light_disappear.prefab"
+  },
+  {
+    "sn": "NPC_HALO_DEEP_DISAPPEAR",
+    "value": "halo_deep_disappear.prefab"
+  },
+  {
+    "sn": "Persona_Enter_Alpha_Time",
+    "value": "0.3"
+  },
+  {
+    "sn": "Persona_Enter_Alpha",
+    "value": "0.8"
+  },
+  {
+    "sn": "allyReserveSlotPosList_alpha",
+    "value": "1"
+  },
+  {
+    "sn": "SERVER_LOG_PRINT_MSG_DETAIL",
+    "value": "TRUE"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION1",
+    "value": "当前天气：%s"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION2",
+    "value": "即将到来：%s"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION3",
+    "value": "%s小时后：%s"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION4",
+    "value": "近期无变化"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION5",
+    "value": "特殊场景\n天气：%s"
+  },
+  {
+    "sn": "CROWD_NPC_UMBRELLA_COLOR1",
+    "value": "#829799FF,#828A99FF,#839982FF,#998289FF,#829998FF,#828F99FF,#988198FF,#999586FF"
+  },
+  {
+    "sn": "CROWD_NPC_UMBRELLA_COLOR2",
+    "value": "#0b0b0bFF"
+  },
+  {
+    "sn": "LIKE_MAX",
+    "value": "999999"
+  },
+  {
+    "sn": "LIKE_DIFFERENT_PERSON_EVERYDAY",
+    "value": "5"
+  },
+  {
+    "sn": "LIKE_SAME_PERSON_EVERYDAY",
+    "value": "1"
+  },
+  {
+    "sn": "ROLE_ATTRIBUTE_DISPLAY",
+    "value": "HP_base,SP_base,GJ_base,FY_base,BJ_base,BS_base,XGMZ_base,XGDK_base,ZCSH_base,SDSH_base,ZCWLSH_base,ZCSJSH_base,ZCHYSH_base,ZCBDSH_base,ZCDJSH_base,ZCJFSH_base,ZCNDSH_base,ZCHRSH_base,ZCZFSH_base,ZCZZSH_base,ZCWNSH_base,SDWLSH_base,SDSJSH_base,SDHYSH_base,SDBDSH_base,SDDJSH_base,SDJFSH_base,SDNDSH_base,SDHRSH_base,SDZFSH_base,SDZZSH_base,SDWNSH_base,SDBJ_base,BJKX_base,ZCZL_base,SDZL_base,ZCHD_base,SDHD_base"
+  },
+  {
+    "sn": "ROLE_ATTRIBUTE_DISPLAY_NORMAL",
+    "value": "HP_base,SP_base,GJ_base,FY_base,BJ_base,BS_base,XGMZ_base,XGDK_base"
+  },
+  {
+    "sn": "ROLE_ATTRIBUTE_DISPLAY_ADVANCED",
+    "value": "ZCSH_base,SDSH_base,ZCWLSH_base,ZCSJSH_base,ZCHYSH_base,ZCBDSH_base,ZCDJSH_base,ZCJFSH_base,ZCNDSH_base,ZCHRSH_base,ZCZFSH_base,ZCZZSH_base,ZCWNSH_base,SDWLSH_base,SDSJSH_base,SDHYSH_base,SDBDSH_base,SDDJSH_base,SDJFSH_base,SDNDSH_base,SDHRSH_base,SDZFSH_base,SDZZSH_base,SDWNSH_base,SDBJ_base,BJKX_base,ZCZL_base,SDZL_base,ZCHD_base,SDHD_base"
+  },
+  {
+    "sn": "BATTLE_TimeScales",
+    "value": "1,1.2,1.5"
+  },
+  {
+    "sn": "MAX_FIGHT_THIEF",
+    "value": "3"
+  },
+  {
+    "sn": "MAX_SHOW_THIEF",
+    "value": "4"
+  },
+  {
+    "sn": "CARD_CHANGE_NAME",
+    "value": "307201"
+  },
+  {
+    "sn": "CARD_DEFAULT_PIC",
+    "value": "qishi-new-hei-ri.png,qishi-new-hei-yue.png,qishi-new-hei-xing.png,qishi-new-hei-chen.png"
+  },
+  {
+    "sn": "SHOPPINGMALL_MAX_BUY_NUM",
+    "value": "99"
+  },
+  {
+    "sn": "MAIL_OFFICIAL_HEAD",
+    "value": "gaojuanxing-sns.png"
+  },
+  {
+    "sn": "EQUIP_LOCK_DEFAULT_STAR",
+    "value": "5"
+  },
+  {
+    "sn": "FRIEND_MAX",
+    "value": "100"
+  },
+  {
+    "sn": "FRIEND_REMARKNAME_LENGTH",
+    "value": "7"
+  },
+  {
+    "sn": "FRIEND_INVITE_LIMIT",
+    "value": "7"
+  },
+  {
+    "sn": "FRIEND_RECOMMEND",
+    "value": "10"
+  },
+  {
+    "sn": "FRIEND_RECOMMEND_LEVEL",
+    "value": "3"
+  },
+  {
+    "sn": "FRIEND_RECOMMEND_REFRESH_CD",
+    "value": "5"
+  },
+  {
+    "sn": "PlayVideo_TimeScales",
+    "value": "1.5"
+  },
+  {
+    "sn": "OPENWORLD_NPC_MAXLOADING_DISTANCE",
+    "value": "120"
+  },
+  {
+    "sn": "OPENWORLD_NPC_MAXLOADING_NUMBER",
+    "value": "1"
+  },
+  {
+    "sn": "REWARD_ITEM_DESC",
+    "value": "可能掉落"
+  },
+  {
+    "sn": "FIRST_REWARD_ITEM_DESC",
+    "value": "首通奖励"
+  },
+  {
+    "sn": "CHALLENGE_BTN_STR",
+    "value": "潜行出击"
+  },
+  {
+    "sn": "STORY_CHECKPOINT_BTN_STR",
+    "value": "记忆回溯"
+  },
+  {
+    "sn": "MONA_CAR_ATTACK_ICON",
+    "value": "ACT-zhuangji2.png"
+  },
+  {
+    "sn": "MONA_CAR_RUSH_ICON",
+    "value": "ACT-jiasu2.png"
+  },
+  {
+    "sn": "ENERGY_IMPRESSION_RESET_INITIAL_VALUE",
+    "value": "100"
+  },
+  {
+    "sn": "IMPRESSION_OPEN_HOUR",
+    "value": "9"
+  },
+  {
+    "sn": "ENERGY_IMPRESSION_MAX_VALUE",
+    "value": "150"
+  },
+  {
+    "sn": "BATTLEEND_IMPRESSION_SECOND",
+    "value": "2"
+  },
+  {
+    "sn": "CHECKPOINT_SETTLEMENT_IMG_STAR",
+    "value": "jiesu-xingxing-01.png,jiesu-xingxing-022.png"
+  },
+  {
+    "sn": "PROTAGONIST_AVATAR_INIT",
+    "value": "mingpian-touxiang"
+  },
+  {
+    "sn": "STORY_PLAY_SPEED",
+    "value": "2"
+  },
+  {
+    "sn": "TOWER_IMG_SANXING",
+    "value": "pata-guanqia-xingxing.png"
+  },
+  {
+    "sn": "TOWER_IMG_JINGYAN",
+    "value": "joker-sns.png"
+  },
+  {
+    "sn": "TOWER_IMG_JINGYANWENZI",
+    "value": "pata-shengli-jingyan.png"
+  },
+  {
+    "sn": "TOWER_IMG_QIANBI",
+    "value": "huobi-qianbi.png"
+  },
+  {
+    "sn": "TOWER_IMG_QIANBIWENZI",
+    "value": "pata-shengli-jinbi.png"
+  },
+  {
+    "sn": "TOWER_IMG_EWAIMUBIAO",
+    "value": "pata-shengli-ewai.png"
+  },
+  {
+    "sn": "ForceGuide_Click_Num",
+    "value": "10"
+  },
+  {
+    "sn": "TROPHYTYPEICON",
+    "value": "chengjiu-tong.png,chengjiu-yin.png,chengjiu-jin.png,chengjiu-jiangbei-cai.png,chengjiu-jiangbei-cai02.png"
+  },
+  {
+    "sn": "TROPHYPREVIEWBEI",
+    "value": "chengjiutips-jiangbei01-1-new.png,chengjiutips-jiangbei02-1-new.png,chengjiutips-jiangbei03-1-new.png,chengjiutips-jiangbei04-1-new.png,chengjiutips-jiangbei05-1-new.png"
+  },
+  {
+    "sn": "TROPHYPREVIEWKUANG",
+    "value": "chengjiutips-jiangbei01-2-new.png,chengjiutips-jiangbei02-2-new.png,chengjiutips-jiangbei03-2-new.png,chengjiutips-jiangbei04-2-new.png,chengjiutips-jiangbei05-2-new.png"
+  },
+  {
+    "sn": "DEVELOP_LIMIT",
+    "value": "-1"
+  },
+  {
+    "sn": "TUTORIALS_TYPE_ALL",
+    "value": "全部"
+  },
+  {
+    "sn": "LOGIN_NOTICE_TIME",
+    "value": "2"
+  },
+  {
+    "sn": "COMPOUNDITEM_ONCE_MAX",
+    "value": "99"
+  },
+  {
+    "sn": "COMPOUNDITEM_TL",
+    "value": "TL_Compound_home_00.prefeb"
+  },
+  {
+    "sn": "BATTLE_MAX_TURN_WARNING",
+    "value": "20"
+  },
+  {
+    "sn": "BATTLE_TIME_LEFT_WARNING",
+    "value": "5"
+  },
+  {
+    "sn": "ENTERBATTLE_INTERVAL_LADNING",
+    "value": "0"
+  },
+  {
+    "sn": "ENTERBATTLE_WAIT_BEGINE",
+    "value": "1.5"
+  },
+  {
+    "sn": "ENTERBATTLE_BACK_DISTANCE",
+    "value": "1.25"
+  },
+  {
+    "sn": "ENTERBATTLE_BACK_TIME",
+    "value": "0.57"
+  },
+  {
+    "sn": "DEFULT_ZHUJUE_SN",
+    "value": "101"
+  },
+  {
+    "sn": "TALENT_PAGE_MAX",
+    "value": "3"
+  },
+  {
+    "sn": "TALENT_PAGE_NAME_MAX",
+    "value": "7"
+  },
+  {
+    "sn": "TALENT_RESET_POINT",
+    "value": "1,10000"
+  },
+  {
+    "sn": "ROLE_SCHEME_MAX_NUM",
+    "value": "10"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME1",
+    "value": "装配方案一"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME2",
+    "value": "装配方案二"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME3",
+    "value": "装配方案三"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME4",
+    "value": "装配方案四"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME5",
+    "value": "装配方案五"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME6",
+    "value": "装配方案六"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME7",
+    "value": "装配方案七"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME8",
+    "value": "装配方案八"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME9",
+    "value": "装配方案九"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME10",
+    "value": "装配方案十"
+  },
+  {
+    "sn": "ROLE_EQUIP_PERSONA_MAX",
+    "value": "3"
+  },
+  {
+    "sn": "PROGRAM_LIST_FOR_FIGHT",
+    "value": "zhenrong-new-yanqian-3.png,zhenrong-new-yanqian-4.png,zhenrong-new-yanqian-5.png,zhenrong-new-yanqian-6.png,zhenrong-new-yanqian-7.png"
+  },
+  {
+    "sn": "THIEFSIGNET_TIPS_COUNT",
+    "value": "3"
+  },
+  {
+    "sn": "THIEFSIGNET_TIPS_LIMIT_PERCENT",
+    "value": "0.3"
+  },
+  {
+    "sn": "SKILL_DECOMPOSE_RATIO",
+    "value": "0.7"
+  },
+  {
+    "sn": "NPC_VISIBLE_DISTANCE",
+    "value": "70"
+  },
+  {
+    "sn": "DIALOG_OS_WRITE_RHYTHM",
+    "value": "40"
+  },
+  {
+    "sn": "DEFEND_TL_ADD",
+    "value": "1"
+  },
+  {
+    "sn": "NPC_FUNC_ONMAP_DEFAULT",
+    "value": "5"
+  },
+  {
+    "sn": "NPC_FUNC_ONMAP_EVENT",
+    "value": "1,3"
+  },
+  {
+    "sn": "WEAPON_REFORM_LEVEL",
+    "value": "common-shuzhi-0.png,guaidao-luoma1.png,guaidao-luoma2.png,guaidao-luoma3.png,guaidao-luoma4.png,guaidao-luoma5.png"
+  },
+  {
+    "sn": "WEAPON_STRENEXP_INHERIT",
+    "value": "0.8"
+  },
+  {
+    "sn": "CARD_STRENEXP_INHERIT",
+    "value": "0.8"
+  },
+  {
+    "sn": "CARD_PREVIEW_ID",
+    "value": "240,250,260,270,280,290,660,300,310,320,330,410,670,680,690"
+  },
+  {
+    "sn": "SUIT_NODE",
+    "value": "5"
+  },
+  {
+    "sn": "SUIT_MONEYCOST",
+    "value": "10"
+  },
+  {
+    "sn": "TARGETGROUP_ENEMY_TOP_W1",
+    "value": "0.3"
+  },
+  {
+    "sn": "TARGETGROUP_ENEMY_FOOT_W1",
+    "value": "0.6"
+  },
+  {
+    "sn": "TARGETGROUP_ALLY_TOP_W1",
+    "value": "1"
+  },
+  {
+    "sn": "TARGETGROUP_ALLY_FOOT_W1",
+    "value": "1"
+  },
+  {
+    "sn": "TARGETGROUP_ENEMY_TOP_W2",
+    "value": "0.5"
+  },
+  {
+    "sn": "TARGETGROUP_ENEMY_FOOT_W2",
+    "value": "0.6"
+  },
+  {
+    "sn": "TARGETGROUP_ALLY_TOP_W2",
+    "value": "1"
+  },
+  {
+    "sn": "TARGETGROUP_ALLY_FOOT_W2",
+    "value": "1"
+  },
+  {
+    "sn": "TARGETGROUP_Persona_TOP_W2",
+    "value": "1"
+  },
+  {
+    "sn": "TARGETGROUP_Persona_FOOT_W2",
+    "value": "1"
+  },
+  {
+    "sn": "TARGETGROUP_ENEMY_TOP_W3",
+    "value": "0.3"
+  },
+  {
+    "sn": "TARGETGROUP_ENEMY_FOOT_W3",
+    "value": "0.3"
+  },
+  {
+    "sn": "TARGETGROUP_ALLY_TOP_W3",
+    "value": "1"
+  },
+  {
+    "sn": "TARGETGROUP_ALLY_FOOT_W3",
+    "value": "1"
+  },
+  {
+    "sn": "CITY_TALKBUBBLE_PAUSE_CONDITION",
+    "value": "5"
+  },
+  {
+    "sn": "THIRDEYE_TIME_LENGTH",
+    "value": "10"
+  },
+  {
+    "sn": "THIRDEYE_TIME_COOLDOWN",
+    "value": "3"
+  },
+  {
+    "sn": "THIRDEYE_AUDIO_OPEN",
+    "value": "UI0130"
+  },
+  {
+    "sn": "THIRDEYE_AUDIO_LOOP",
+    "value": "UI0131"
+  },
+  {
+    "sn": "THIRDEYE_AUDIO_DELAYTIME",
+    "value": "500"
+  },
+  {
+    "sn": "THIRDEYE_HERO_STATUS",
+    "value": "FALSE"
+  },
+  {
+    "sn": "KEYNAVIGATION_DELAY_TIME",
+    "value": "2"
+  },
+  {
+    "sn": "HOME_LIMIT_PERSON",
+    "value": "4"
+  },
+  {
+    "sn": "HOME_LIMIT_WARMVALUE_ONEDAY",
+    "value": "3000"
+  },
+  {
+    "sn": "HOME_LIMIT_WARMVALUE_FRIEND",
+    "value": "20"
+  },
+  {
+    "sn": "HOME_LIMIT_WARMVALUE_ONEPERSON",
+    "value": "2"
+  },
+  {
+    "sn": "HOME_MAIN_SCENE",
+    "value": "2129"
+  },
+  {
+    "sn": "HOME_COMPOUNDFURNITURE_HIDE",
+    "value": "10287,terrain/thing/gongju"
+  },
+  {
+    "sn": "INTERACTIVE_TRUNTO_1",
+    "value": "20"
+  },
+  {
+    "sn": "INTERACTIVE_TRUNTO_2",
+    "value": "120"
+  },
+  {
+    "sn": "INTERACTIVE_TRUNTO_SPEED_1",
+    "value": "0.33"
+  },
+  {
+    "sn": "INTERACTIVE_TRUNTO_SPEED_2",
+    "value": "0.67"
+  },
+  {
+    "sn": "SORT_SELECT",
+    "value": "0"
+  },
+  {
+    "sn": "ONEGET_NUM",
+    "value": "3"
+  },
+  {
+    "sn": "ATK_FIXED_DISTANCE",
+    "value": "2.5"
+  },
+  {
+    "sn": "BATTLE_BUFF_CAROUSEL",
+    "value": "1000"
+  },
+  {
+    "sn": "HINT_IGNORE_THIEF",
+    "value": "20"
+  },
+  {
+    "sn": "HINT_IGNORE_PERSONA",
+    "value": "20"
+  },
+  {
+    "sn": "DESCRIBE_LEVEL_PERSONA",
+    "value": "common-shuzhi-0.png,common-new-luoma-1.png,common-new-luoma-2.png,common-new-luoma-3.png,common-new-luoma-4.png,common-new-luoma-5.png,common-new-luoma-6.png,common-new-luoma-7.png,common-new-luoma-8.png,common-new-luoma-9.png,common-new-luoma-10.png,common-new-luoma-11.png,common-new-luoma-12.png"
+  },
+  {
+    "sn": "RECALLPALACE_MAP_ENTER",
+    "value": "xiaoditu-zuobiao.png"
+  },
+  {
+    "sn": "RECALLPALACE_MAP_EXIT",
+    "value": "xiaoditu-jiantou.png"
+  },
+  {
+    "sn": "ITEMTIP_TEXTLINE_MAX_EQUIP",
+    "value": "4"
+  },
+  {
+    "sn": "ITEMTIP_TEXTLINE_MAX_ITEM",
+    "value": "4"
+  },
+  {
+    "sn": "ITEMTIP_TEXT_MAX_EQUIP",
+    "value": "18"
+  },
+  {
+    "sn": "ITEMTIP_TEXT_MAX_ITEM",
+    "value": "18"
+  },
+  {
+    "sn": "VELVETTRIAL_LEVEL_CLEAR",
+    "value": "shilian-xingji04.png"
+  },
+  {
+    "sn": "VELVETTRIAL_LEVEL_DEFAULT",
+    "value": "shilian-xingji02.png"
+  },
+  {
+    "sn": "VELVETTRIAL_LEVEL_CLEAR_CHOSEN",
+    "value": "songli02-xiangzi1.png"
+  },
+  {
+    "sn": "VELVETTRIAL_LEVEL_DEFAULT_CHOSEN",
+    "value": "songli02-xiangzi1.png"
+  },
+  {
+    "sn": "VELVETTRIAL_TELEPORTPOINT",
+    "value": "5502004"
+  },
+  {
+    "sn": "MONA_CAR_RotationSpeed_Move",
+    "value": "0.2"
+  },
+  {
+    "sn": "CARD_MAXUPNUM",
+    "value": "30"
+  },
+  {
+    "sn": "CARD_TYPEICON",
+    "value": "qishi-new-ri.png,qishi-new-yue.png,qishi-new-xing.png,qishi-new-chen.png"
+  },
+  {
+    "sn": "LIFE_MENU_MIRROR_CAM_POS",
+    "value": "2,1"
+  },
+  {
+    "sn": "LIFE_MENU_UNNORMAL_UIPOS",
+    "value": "350,100"
+  },
+  {
+    "sn": "LIFE_MENU_ACTIONPOINT_MAX",
+    "value": "5"
+  },
+  {
+    "sn": "LIFE_MENU_UI_FOR_HERO",
+    "value": "h_B_CT1"
+  },
+  {
+    "sn": "LIFE_MENU_SIGNET_PERCENTNAME_2102",
+    "value": "shenghuo-diqumingzi-segu.png"
+  },
+  {
+    "sn": "LIFE_MENU_SIGNET_PERCENTNAME_10",
+    "value": "shenghuo-diqumingzi-sixuan.png"
+  },
+  {
+    "sn": "CITYSIGNET_BASEMAP_PIC",
+    "value": "tianfu-01-jineng4-2.png"
+  },
+  {
+    "sn": "CITYSIGNET_TUTORIALS",
+    "value": "18"
+  },
+  {
+    "sn": "CITYSIGNET_SHOP",
+    "value": "103"
+  },
+  {
+    "sn": "CITYSIGNET_SCORE_ITEM",
+    "value": "18"
+  },
+  {
+    "sn": "MONA_CAR_CrashSpeed",
+    "value": "6"
+  },
+  {
+    "sn": "COLLIDER_DETECTION_LENGTH",
+    "value": "joker_uniform,0;joker,0;mona_car,1.5"
+  },
+  {
+    "sn": "GROUND_DETECTION_LENGTH",
+    "value": "joker_uniform,0.5;joker,0.5;mona_car,1"
+  },
+  {
+    "sn": "CHANGE_PERSONA_EFFECT",
+    "value": "Transform_persona.prefab"
+  },
+  {
+    "sn": "SCENE_LOADING_TIME_OUT_TIME",
+    "value": "10"
+  },
+  {
+    "sn": "SCENE_LOADING_TEXT_SWITCHTIME",
+    "value": "3"
+  },
+  {
+    "sn": "CHANGE_RUSH_CAMERA_SPEED_THRESHOLD",
+    "value": "6"
+  },
+  {
+    "sn": "CHAPTER_DIFFICULTY_TYPE",
+    "value": "普通,困难"
+  },
+  {
+    "sn": "FIRST_LOGIN_EVERYDAY_TIME",
+    "value": "1"
+  },
+  {
+    "sn": "WEEK_NAME_1",
+    "value": "星期一"
+  },
+  {
+    "sn": "WEEK_NAME_2",
+    "value": "星期二"
+  },
+  {
+    "sn": "WEEK_NAME_3",
+    "value": "星期三"
+  },
+  {
+    "sn": "WEEK_NAME_4",
+    "value": "星期四"
+  },
+  {
+    "sn": "WEEK_NAME_5",
+    "value": "星期五"
+  },
+  {
+    "sn": "WEEK_NAME_6",
+    "value": "星期六"
+  },
+  {
+    "sn": "WEEK_NAME_7",
+    "value": "星期日"
+  },
+  {
+    "sn": "ACTIVITY_BANNER_INTERVL",
+    "value": "3"
+  },
+  {
+    "sn": "ACTIVITY_PLAYCG",
+    "value": "400001,CG_liandonghuodong01.usm,TL_ActivityP5X_P5_pre.prefab,jq10_ui_liandonghuodong01"
+  },
+  {
+    "sn": "ACTIVITY_GACHA",
+    "value": "2"
+  },
+  {
+    "sn": "ACTIVITY_REPLAYCG",
+    "value": "4"
+  },
+  {
+    "sn": "ACTIVITY_FINISH_NOTICE_DAYS",
+    "value": "-1"
+  },
+  {
+    "sn": "ACTIVITY_TL_RALLY",
+    "value": "TL_ActivityP5X_P5_pre_back.prefab,jq10_ui_liandonghuodong01"
+  },
+  {
+    "sn": "ACTIVITY_TL_MAIN",
+    "value": "TL_ActivityP5X_P5_main_pre.prefab,jq10_ui_liandonghuodong01"
+  },
+  {
+    "sn": "ACTIVITY_UIBGM_1",
+    "value": "BGM0020"
+  },
+  {
+    "sn": "ACTIVITY_UIBGM_2",
+    "value": "BGM0022"
+  },
+  {
+    "sn": "ACTIVITY_CG_SKIPTIME",
+    "value": "5"
+  },
+  {
+    "sn": "MONA_BIND_CHAIR",
+    "value": "1021,1041"
+  },
+  {
+    "sn": "TURNAROUND_CHANGESPEED_TIME",
+    "value": "0.55"
+  },
+  {
+    "sn": "ARRAY_MAX_NUM",
+    "value": "10"
+  },
+  {
+    "sn": "ARRAY_NAMELIMIT",
+    "value": "7"
+  },
+  {
+    "sn": "ARRAY_PERSONA_2nd",
+    "value": "18"
+  },
+  {
+    "sn": "ARRAY_PERSONA_3rd",
+    "value": "19"
+  },
+  {
+    "sn": "ARRAR_DEFAULTNAME",
+    "value": "新建阵容"
+  },
+  {
+    "sn": "SKILL_FORMULA_RATIO_RES",
+    "value": "1311.188811"
+  },
+  {
+    "sn": "SKILL_FORMULA_RATIO_RES_LVA",
+    "value": "0"
+  },
+  {
+    "sn": "SKILL_FORMULA_RATIO_RES_LVB",
+    "value": "0"
+  },
+  {
+    "sn": "NEAR_DEATH_HP_RATIO",
+    "value": "0.2"
+  },
+  {
+    "sn": "CHANGE_SKILL",
+    "value": "0.4"
+  },
+  {
+    "sn": "STRING_DESCNUM",
+    "value": "150"
+  },
+  {
+    "sn": "INTERSECTION_TELEPORT",
+    "value": "2102101,2102102,2102103,2102104,2102105,2102106,2102107,2102108,2102109,2102110"
+  },
+  {
+    "sn": "MAIL_BAG_MAX",
+    "value": "17"
+  },
+  {
+    "sn": "PI_BADGE_CHOOSE_MAX",
+    "value": "4"
+  },
+  {
+    "sn": "PI_HEADPICTURE_DEFAULT",
+    "value": "306710"
+  },
+  {
+    "sn": "PI_FREAM_DEFAULT",
+    "value": "306801"
+  },
+  {
+    "sn": "PI_CARD_DEFAULT",
+    "value": "306901"
+  },
+  {
+    "sn": "PI_HEADPICTURE_LUFFEL",
+    "value": "306707"
+  },
+  {
+    "sn": "ROLLMAP_VISIBLE_DEPTH",
+    "value": "3"
+  },
+  {
+    "sn": "ENTER_BATTLE_DIS",
+    "value": "5"
+  },
+  {
+    "sn": "ENTER_BATTLE_TIME",
+    "value": "1.5"
+  },
+  {
+    "sn": "KEYBIND_SCENE_OPENWORLD",
+    "value": "101,102,901"
+  },
+  {
+    "sn": "KEYBIND_SCENE_STAGE",
+    "value": "301,4,401,501,801,601,602,302"
+  },
+  {
+    "sn": "KEYBIND_THIRDEYE_AVALIABLESCENE",
+    "value": "101,102,3,4,401,501,801,601,602"
+  },
+  {
+    "sn": "AUTO_BATTLE_HEAL_PARAM",
+    "value": "60,1"
+  },
+  {
+    "sn": "AUTO_BATTLE_ATTACK_PARAM",
+    "value": "2"
+  },
+  {
+    "sn": "AUTO_BATTLE_UNI_ATTACK_SCORE",
+    "value": "21"
+  },
+  {
+    "sn": "AUTO_BATTLE_MULTI_ATTACK_SCORE",
+    "value": "10"
+  },
+  {
+    "sn": "NOVICE_PROCESS_FIRST_NAME",
+    "value": "1000"
+  },
+  {
+    "sn": "BATTLE_THIRDEYE_CLOSE_TIME",
+    "value": "1"
+  },
+  {
+    "sn": "SPECIAL_ACTION_BAN_BUFF_TYPE",
+    "value": "9,30,31"
+  },
+  {
+    "sn": "SPECIAL_ACTION_BAN_BUFF_TAG",
+    "value": ""
+  },
+  {
+    "sn": "TOTAL_ATTACK_BAN_BUFF_TYPE",
+    "value": "9,31"
+  },
+  {
+    "sn": "TOTAL_ATTACK_BAN_BUFF_TAG",
+    "value": ""
+  },
+  {
+    "sn": "SETTING_HIDE_BUTTON",
+    "value": "2,3,4,7,8,11,12,14,15,16,17"
+  },
+  {
+    "sn": "BATTLEPASS_EXP_MAX",
+    "value": "10000"
+  },
+  {
+    "sn": "BATTLEPASS_WARN_TIME",
+    "value": "3"
+  },
+  {
+    "sn": "BATTLEPASS_LV_SHOW",
+    "value": "5,10,15,20,25,30,35,40,45,50"
+  },
+  {
+    "sn": "BATTLEPASS_LV_EXPEND",
+    "value": "3,100"
+  },
+  {
+    "sn": "BATTLEPASS_SHOW_SCALE",
+    "value": "0.85"
+  },
+  {
+    "sn": "BATTLEPASS_SHOW_POSITION",
+    "value": "0,-2,0"
+  },
+  {
+    "sn": "BATTLEPASS_SHOW_ROTATION",
+    "value": "0,90,0"
+  },
+  {
+    "sn": "CONSUMPTION_ITEM",
+    "value": "100101,3"
+  },
+  {
+    "sn": "CONSUMPTION_AWARD",
+    "value": "80"
+  },
+  {
+    "sn": "ACTUAL_CURRENCY",
+    "value": "100"
+  },
+  {
+    "sn": "SHENGHUO_MENU_FRIEND_UNLOCKTIPS_1",
+    "value": "shenghuo-text-huijia-new-4.png"
+  },
+  {
+    "sn": "SHENGHUO_MENU_FRIEND_UNLOCKTIPS_2",
+    "value": "shenghuo-text-huijia-new-5duihao.png"
+  },
+  {
+    "sn": "SHENGHUO_MENU_EVENT_USEMAP_ZOOM",
+    "value": "2"
+  },
+  {
+    "sn": "SHENGHUO_MENU_TIPS_1",
+    "value": "dushitip1.png"
+  },
+  {
+    "sn": "SHENGHUO_MENU_TIPS_2",
+    "value": "dushitip2.png"
+  },
+  {
+    "sn": "SHENGHUO_MENU_TIPS_3",
+    "value": "dushitip3-1.png"
+  },
+  {
+    "sn": "SHENGHUO_MENU_TIPS_4",
+    "value": "dushitip3.png"
+  },
+  {
+    "sn": "SHENGHUO_EVENT_ICON_1",
+    "value": "common-xianshi.png"
+  },
+  {
+    "sn": "SHENGHUO_EVENT_ICON_2",
+    "value": "common-xianshi.png"
+  },
+  {
+    "sn": "SHENGHUO_EVENT_ICON_3",
+    "value": "common-xianshi.png"
+  },
+  {
+    "sn": "QUANSHU_COMMENT",
+    "value": "rengemianjuquanshu-421-S.png,rengemianjuquanshu-421-A.png,rengemianjuquanshu-421-B.png,rengemianjuquanshu-421-C.png"
+  },
+  {
+    "sn": "QUANSHU_LABEL_COLOR",
+    "value": "#ff9c00|#fe9c00|#ff381d|#00aeff|#fbff37|#81ea2c|#ff63ff|#00fcff|#fffea0|#ff0036|#e3e3e3|#00ff9f|#3b6eff|#c64cff"
+  },
+  {
+    "sn": "SHAIXUAN_COLOR",
+    "value": "#ff9c00|#fe9c00|#ff381d|#00aeff|#fbff37|#81ea2c|#ff63ff|#00fcff|#fffea0|#ff0036|"
+  },
+  {
+    "sn": "CARDSUIT_EFFECT_COLOR",
+    "value": "#2899ff|#8b8a8a"
+  },
+  {
+    "sn": "SAFE_ROOM_PERMANENT_NPC",
+    "value": ""
+  },
+  {
+    "sn": "AWAKE_SKILL_MAXLV",
+    "value": "3"
+  },
+  {
+    "sn": "INIT_UI_SHOW_TIPSFOR_TILI",
+    "value": "0"
+  },
+  {
+    "sn": "INIT_UI_SHOW_TIPSFOR_XINGDONGLI",
+    "value": "0"
+  },
+  {
+    "sn": "INFO_BASIC_ATTR",
+    "value": "240,250,260,270"
+  },
+  {
+    "sn": "INFO_ADVANCE_ATTR",
+    "value": "280,290,300,310,320,410,670,680,690,700,810,820,830,840,850,430,440,450,460,470,480,490,500,510,520,530"
+  },
+  {
+    "sn": "PERSONAMONSTER_BOX",
+    "value": "8306173"
+  },
+  {
+    "sn": "ShakeDir_TotalTime",
+    "value": "0.6"
+  },
+  {
+    "sn": "ShakeDir_Offset",
+    "value": "0.1"
+  },
+  {
+    "sn": "ShakeDir_TotalCount",
+    "value": "25"
+  },
+  {
+    "sn": "ORIGINALVIDEO_BULLETSCREEN_MAX",
+    "value": "200"
+  },
+  {
+    "sn": "ORIGINALVIDEO_BULLETSCREEN_SPEED",
+    "value": "3.5"
+  },
+  {
+    "sn": "ORIGINALVIDEO_PREVIEW",
+    "value": "10"
+  },
+  {
+    "sn": "ORIGINALVIDEO_BULLETSCREEN_WORDSMAX",
+    "value": "20"
+  },
+  {
+    "sn": "ORIGINALVIDEO_BULLETSCREEN_INTERVAL",
+    "value": "2"
+  },
+  {
+    "sn": "MOVE_DIST_SYNC_MAX_NUM",
+    "value": "100"
+  },
+  {
+    "sn": "FISHPOOL_LIFE",
+    "value": "5"
+  },
+  {
+    "sn": "FISHRED_RECOVER_SPEED",
+    "value": "0.5"
+  },
+  {
+    "sn": "FISHRED_DECREASE_SPEED",
+    "value": "0.25"
+  },
+  {
+    "sn": "MAP_HOME_FUNC",
+    "value": "4009"
+  },
+  {
+    "sn": "BOOK_SLIDE_PX",
+    "value": "180"
+  },
+  {
+    "sn": "QUICKBUY",
+    "value": "300001,21001,300002,21002,300003,21003,300004,21004"
+  },
+  {
+    "sn": "ARRAY_COLOR",
+    "value": "#a8a8a8|#50b50d|#c900e4|#e9cb2f"
+  },
+  {
+    "sn": "ARRAY_COLOR_BG",
+    "value": "#64c92a|#64492a|#db2ff7|#f9d829"
+  },
+  {
+    "sn": "FRIEND_MAINTL_SCENE",
+    "value": "jq02_zuozhanjidi_ditie01"
+  },
+  {
+    "sn": "MAINUI_TILI_ICON",
+    "value": "item-huobi-7.png"
+  },
+  {
+    "sn": "MAINUI_XINGDONGLI_ICON",
+    "value": "item-huobi-8.png"
+  },
+  {
+    "sn": "SCHEDULE_FIRST_DAY_SN",
+    "value": "1"
+  },
+  {
+    "sn": "SCHEDULE_MESSAGE_TIME",
+    "value": "5"
+  },
+  {
+    "sn": "SCHEDULE_PATH_FIND_QUEST",
+    "value": "13999"
+  },
+  {
+    "sn": "SCHEDULE_WONDER_ANIMATION_1",
+    "value": "wonder_uniform@paizhao_baoxiongzhanli"
+  },
+  {
+    "sn": "SCHEDULE_DAY_EXIT_TURNING_TIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "SCHEDULE_DAY_DISPLAY_MAX",
+    "value": "365"
+  },
+  {
+    "sn": "SCHEDULE_WUWEI_UP_START_TIME",
+    "value": "0.5"
+  },
+  {
+    "sn": "SCHEDULE_WUWEI_UP_TIME",
+    "value": "1"
+  },
+  {
+    "sn": "SCHEDULE_WUWEI_UP_EXIST_TIME",
+    "value": "3"
+  },
+  {
+    "sn": "SCHEDULE_NORMAL_AWARD_MIN_EXIST_TIME",
+    "value": "1"
+  },
+  {
+    "sn": "SCHEDULE_NORMAL_AWARD_MAX_EXIST_TIME",
+    "value": "2"
+  },
+  {
+    "sn": "SCHEDULE_GOTO_DELAY_CLOSE_TIME",
+    "value": "0.7"
+  },
+  {
+    "sn": "SCHEDULE_AVAILABLE_SCENE_TYPE",
+    "value": "101,102,901"
+  },
+  {
+    "sn": "SCHEDULE_DIVINATION_MAX_WAIT_TIME",
+    "value": "300"
+  },
+  {
+    "sn": "SCHEDULE_DIVINATION_PREPARE_STORY_SN",
+    "value": "8"
+  },
+  {
+    "sn": "ZOOMTIMELINE_SMALL",
+    "value": "1041,1021"
+  },
+  {
+    "sn": "TIMELINE_SHOWMONSTER",
+    "value": "TL_battle_showMonster.prefab,TL_battle_showDevil.prefab,TL_battle_showDevil2.prefab"
+  },
+  {
+    "sn": "TIMELINE_MONSTERDEATH",
+    "value": "TL_battle_common_death_01.prefab,TL_battle_devil_death.prefab,TL_battle_devil2_death.prefab"
+  },
+  {
+    "sn": "HOME_SCENE_SN",
+    "value": "2129,2130"
+  },
+  {
+    "sn": "MAP_HOME_FUNCSN",
+    "value": "4009"
+  },
+  {
+    "sn": "COOK_DISHESUI_MAX",
+    "value": "99"
+  },
+  {
+    "sn": "COOK_TL_MAINUI",
+    "value": "TL_Cook_MainUI.prefab"
+  },
+  {
+    "sn": "COOK_TL_COOKINGUI",
+    "value": "TL_TL_Cook_CookingUI.prefab"
+  },
+  {
+    "sn": "COOK_TL_COOKINGBACKMAINUI",
+    "value": "TL_TL_Cook_Cooking_Back_MainUI.prefab"
+  },
+  {
+    "sn": "COOK_TL_COOKINGANI",
+    "value": "TL_Cook_CookingAni.prefab"
+  },
+  {
+    "sn": "COOK_TL_NEWINSPIRATION",
+    "value": "TL_Cook_New_inspiration.prefab"
+  },
+  {
+    "sn": "PLANT_FERTILIZERS",
+    "value": "1"
+  },
+  {
+    "sn": "PLANT_CHARACTERMODLE_CHANGE",
+    "value": "0.5"
+  },
+  {
+    "sn": "PLANT_NEEDRES",
+    "value": "5"
+  },
+  {
+    "sn": "BATTLE_CHANGE",
+    "value": "0.1"
+  },
+  {
+    "sn": "ACTIONPOINT_LIMIT",
+    "value": "1000"
+  },
+  {
+    "sn": "GUAIWUSOUND_DYINGIDLE_TIME",
+    "value": "7.5"
+  },
+  {
+    "sn": "GUAIWUSOUND_IDLE_ODDS",
+    "value": "0.4"
+  },
+  {
+    "sn": "GUAIWUSOUND_DYING_ODDS",
+    "value": "0.8"
+  },
+  {
+    "sn": "GUAIWUSOUND_START_TIME",
+    "value": "1.5"
+  },
+  {
+    "sn": "GUAIWUSOUND_MISS_TIME",
+    "value": "0.8"
+  },
+  {
+    "sn": "SUB_PACKAGE_AWARD",
+    "value": "410601"
+  },
+  {
+    "sn": "BUFF_TIPS_LAG",
+    "value": "800"
+  },
+  {
+    "sn": "DISHSE_EFFECT_UI_ANI_LAG",
+    "value": "1000"
+  },
+  {
+    "sn": "DISHSE_BUFF1_UI_ANI_LAG",
+    "value": "1000"
+  },
+  {
+    "sn": "DISHSE_BUFF2_UI_ANI_LAG",
+    "value": "1000"
+  },
+  {
+    "sn": "NEW_TIP_MAXNUM",
+    "value": "10"
+  },
+  {
+    "sn": "BIRDBAG_ACT_10004",
+    "value": "bs_wonder_catbag@huantou_story"
+  },
+  {
+    "sn": "DISCONNECT_PING_MAX_TIME",
+    "value": "2"
+  },
+  {
+    "sn": "PERSONA_GET_TIME",
+    "value": "2.5"
+  },
+  {
+    "sn": "BATTLESOUND_USEITEM_TIME",
+    "value": "0.5"
+  },
+  {
+    "sn": "FUNCOPEN_SHOW_SCENC_TYPE",
+    "value": "101,102,901,601,602,301,302"
+  },
+  {
+    "sn": "FUNCOPEN_SHOW_TIME",
+    "value": "2"
+  },
+  {
+    "sn": "HL_JANOSIK_SN",
+    "value": "101"
+  },
+  {
+    "sn": "TIMELINE_AUTO_PARAM_1",
+    "value": "1"
+  },
+  {
+    "sn": "TIMELINE_AUTO_PARAM_2",
+    "value": "0.2"
+  },
+  {
+    "sn": "SKILLUNLOCK_LEVEL_2",
+    "value": "10"
+  },
+  {
+    "sn": "SKILLUNLOCK_LEVEL_3",
+    "value": "30"
+  },
+  {
+    "sn": "TB_CAST_ROTATION_TIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "TP_ICON",
+    "value": "zhandou-new-TP.jpg"
+  },
+  {
+    "sn": "ITEM_RENWU_GET_ITEM_TIP_SHOW_TIME",
+    "value": "4"
+  },
+  {
+    "sn": "ITEM_GET_ITEM_TIP_PROTECT_TIME",
+    "value": "0.5"
+  },
+  {
+    "sn": "SHADOW_HEAD_ICON",
+    "value": "10050,lufeier-guaidao-yinying"
+  },
+  {
+    "sn": "HOTFIX_VIDEO_NAME",
+    "value": "CG_hotfix_video"
+  },
+  {
+    "sn": "SKILL_SCENE",
+    "value": "2090,2093,2108,2109"
+  },
+  {
+    "sn": "CBT1_SERVER_OPEN_TIME",
+    "value": "2023/03/29 10:00:00"
+  },
+  {
+    "sn": "QUEST_WAIT_TIME",
+    "value": "30"
+  },
+  {
+    "sn": "QUEST_POINTER_DISAPPEAR_LEVEL",
+    "value": "15"
+  },
+  {
+    "sn": "ITEM_FUNC_TIPS_NUM",
+    "value": "20"
+  },
+  {
+    "sn": "PHOTO_SCENE_FORBID",
+    "value": "3,102,702"
+  },
+  {
+    "sn": "COOP_MOOD_PROP1",
+    "value": "1"
+  },
+  {
+    "sn": "COOP_MOOD_PROP2",
+    "value": "0"
+  },
+  {
+    "sn": "COOP_MOOD_PROP3",
+    "value": "0"
+  },
+  {
+    "sn": "COOP_MOOD_ICON1",
+    "value": "yuehui-10-xiaolian.png"
+  },
+  {
+    "sn": "COOP_MOOD_ICON2",
+    "value": "yuehui-10-xiaolian-putonglian.png"
+  },
+  {
+    "sn": "COOP_MOOD_ICON3",
+    "value": "yuehui-10-xiaolian-nanshoulian.png"
+  },
+  {
+    "sn": "COOP_MOOD_YELLOW",
+    "value": "#FFB900"
+  },
+  {
+    "sn": "COOP_MOOD_RED",
+    "value": "#FF0000"
+  },
+  {
+    "sn": "COOP_MOOD_GREEN",
+    "value": "#00FF46"
+  },
+  {
+    "sn": "COOP_APPOINTMENT_PARAM",
+    "value": "9"
+  },
+  {
+    "sn": "COOP_LIKE",
+    "value": "itemicon-000.png"
+  },
+  {
+    "sn": "COOP_GIFT_PER_PLAYER",
+    "value": "10"
+  },
+  {
+    "sn": "COOP_GIFT_PER_COOP",
+    "value": "1"
+  },
+  {
+    "sn": "COOP_GIFT_UI_MASK_NPC_DISTANCE",
+    "value": "10"
+  },
+  {
+    "sn": "COOP_GIFT_DIALOG1",
+    "value": "1011201,1011202,1011203"
+  },
+  {
+    "sn": "COOP_GIFT_DIALOG2",
+    "value": "1011204,1011205,1011206"
+  },
+  {
+    "sn": "COOP_GIFT_DIALOG3",
+    "value": "1011207,1011208,1011209"
+  },
+  {
+    "sn": "COOP_APPOINTMENT_DIALOG1",
+    "value": "1011301,1011302,1011303"
+  },
+  {
+    "sn": "COOP_APPOINTMENT_DIALOG2",
+    "value": "1011304,1011305,1011306"
+  },
+  {
+    "sn": "COOP_APPOINTMENT_DIALOG3",
+    "value": "1011307,1011308,1011309"
+  },
+  {
+    "sn": "COOP_BIRTH_ADDITION_GIFT",
+    "value": "3"
+  },
+  {
+    "sn": "COOP_BIRTH_ADDITION_DATE",
+    "value": "5"
+  },
+  {
+    "sn": "COOP_ABILITY_ICON1",
+    "value": "yuehui-015.png"
+  },
+  {
+    "sn": "COOP_ABILITY_ICON2",
+    "value": "yuehui-015.png"
+  },
+  {
+    "sn": "COOP_ABILITY_ICON3",
+    "value": "yuehui-015.png"
+  },
+  {
+    "sn": "COOP_PARAM_VISIBLE_MOOD",
+    "value": "1,0.5,0"
+  },
+  {
+    "sn": "COOP_PARAM_VISIBLE_RANK",
+    "value": "0.02"
+  },
+  {
+    "sn": "COOP_PARAM_APPOINTMENT_SUCCESS_MOOD",
+    "value": "1,0.5,0"
+  },
+  {
+    "sn": "COOP_PARAM_APPOINTMENT_SUCCESS_RANK",
+    "value": "0.01"
+  },
+  {
+    "sn": "COOP_PARAM_HOME_SUCCESS_MOOD",
+    "value": "1,0.5,0"
+  },
+  {
+    "sn": "COOP_PARAM_HOME_SUCCESS_RANK",
+    "value": "0.01"
+  },
+  {
+    "sn": "COOP_PARAM_HOME_BASIC",
+    "value": "0.1"
+  },
+  {
+    "sn": "COOP_PARAM_INITITAVE_MOOD",
+    "value": "1,0.5,0"
+  },
+  {
+    "sn": "COOP_PARAM_INITITAVE_BASIC",
+    "value": "0.3"
+  },
+  {
+    "sn": "COOP_UI_UNLOCKMESSAGE_TYPE1",
+    "value": "shenghuo-text-huijia-new-1.png"
+  },
+  {
+    "sn": "COOP_UI_UNLOCKMESSAGE_TYPE2",
+    "value": "shenghuo-text-huijia-new-2.png"
+  },
+  {
+    "sn": "COOP_LUFEIER_ABILITY_RANK5",
+    "value": "4,5"
+  },
+  {
+    "sn": "COOP_LUFEIER_ABILITY_RANK13",
+    "value": "4,13"
+  },
+  {
+    "sn": "COOP_FAVORITE_SOUND",
+    "value": "2000"
+  },
+  {
+    "sn": "COOP_FAVORITE_CHARACTER",
+    "value": "1"
+  },
+  {
+    "sn": "COOP_ONMAP_ZOOM",
+    "value": "0.2"
+  },
+  {
+    "sn": "COOP_PERSONA_CONSUME",
+    "value": "1,5"
+  },
+  {
+    "sn": "COOP_PERSONA_CREDIT",
+    "value": "1,13"
+  },
+  {
+    "sn": "COOP_PERSONA_DOUBLE",
+    "value": "1,17"
+  },
+  {
+    "sn": "COOP_BASEBALL_THIRDEYE",
+    "value": "2,1"
+  },
+  {
+    "sn": "COOP_FAVORITE_CHARACTER_WEIGHT",
+    "value": "5"
+  },
+  {
+    "sn": "PALACE_REWARD_DROP_EFFECT",
+    "value": "rewardPrompt3.prefab"
+  },
+  {
+    "sn": "PALACE_TIMELINE_PRELOAD",
+    "value": "TL_man_new_attack1.prefab,TL_man_new_attack2.prefab,TL_man_new_attack3.prefab,TL_man_sprint.prefab,TL_man_hiddenAttackSprint.prefab,TL_man_jumpClimb.prefab,TL_joker_palace_hit.prefab"
+  },
+  {
+    "sn": "PALACE_TIMELINE_PRELOAD_MONACAR",
+    "value": "TL_mona_car_attack1.prefab"
+  },
+  {
+    "sn": "PALACE_TIMELINE_PRELOAD_MONSTER",
+    "value": "TL_monster_palace_attack.prefab,TL_monster_palace_hit.prefab"
+  },
+  {
+    "sn": "PALACE_MOVEOBJ_EFFECT",
+    "value": "o_PushPull_xiangzi.prefab,o_PushPull_xiangzi_02.prefab"
+  },
+  {
+    "sn": "PALACE_BEGIN_THIEF_POS",
+    "value": "-1,-1;1,-1;0,-1.5"
+  },
+  {
+    "sn": "PALACE_BEGIN_THIEF_POS_RADIUS",
+    "value": "0.5"
+  },
+  {
+    "sn": "PALACE_BEGIN_QUIT_TIME",
+    "value": "0,1.5"
+  },
+  {
+    "sn": "PALACE_BEGIN_JUMP_PARAM",
+    "value": "10,0.8,0.3,0.6"
+  },
+  {
+    "sn": "PALACE_VICTORY_MUSIC",
+    "value": "BGM0007"
+  },
+  {
+    "sn": "PALACE_FAIL_MUSIC",
+    "value": ""
+  },
+  {
+    "sn": "PALACE_SWING_QTE_START",
+    "value": "0"
+  },
+  {
+    "sn": "PALACE_SWING_QTE_PARAM",
+    "value": "0.5,0.5"
+  },
+  {
+    "sn": "PALACE_AREA_JUMP_TL",
+    "value": "TL_man_jump.prefab"
+  },
+  {
+    "sn": "PALACE_OBJ_INTERACT_MIN_DIS",
+    "value": "0.2"
+  },
+  {
+    "sn": "PALACE_BOSS_DIS",
+    "value": "12"
+  },
+  {
+    "sn": "PALACE_BOSS_VISIBLE_UI",
+    "value": "UI_DialogView6,UI_DialogView7,UI_MainTips"
+  },
+  {
+    "sn": "PALACE_SUMMARY_FORCE_LEAVE_TIME",
+    "value": "30"
+  },
+  {
+    "sn": "PALACE_MOVE_MIN_SPEED_PARAM",
+    "value": "0.4"
+  },
+  {
+    "sn": "PALACE_CHESS_PULL_ACTION",
+    "value": "joker_thief@positiveAttack"
+  },
+  {
+    "sn": "PALACE_MONA_CAR_FACE_ATTACK_DIS",
+    "value": "5"
+  },
+  {
+    "sn": "PALACE_RUSH_BTN_SOUND_THIEF",
+    "value": "VO_Wonder0013"
+  },
+  {
+    "sn": "PALACE_RUSH_BTN_SOUND_MONACAR",
+    "value": "MorganaCar0005"
+  },
+  {
+    "sn": "PALACE_ELECTRICITY_GAME_POINTER_SPEED",
+    "value": "5"
+  },
+  {
+    "sn": "PALACE_OBJ_HIDDEN_ATTACK_DIS",
+    "value": "10"
+  },
+  {
+    "sn": "PALACE_OBJ_HIDDEN_ATTACK_ANGLE",
+    "value": "90"
+  },
+  {
+    "sn": "PALACE_SPRINT_CAM_FOV_PARAM",
+    "value": "60,0.3,50,0.6"
+  },
+  {
+    "sn": "PALACE_HIDDEN_SCENE_FOCUS",
+    "value": "0.4"
+  },
+  {
+    "sn": "PALACE_SAFEHOUSE_STORY_QUEST",
+    "value": "10732"
+  },
+  {
+    "sn": "PALACE_SAFEHOUSE_STORY_SCENE_SN",
+    "value": "8343"
+  },
+  {
+    "sn": "PALACE_WORLD_HPSP_WEAK_THRESHOLD",
+    "value": "0.2"
+  },
+  {
+    "sn": "PALACE_HIDDEN_FADE_PARAM",
+    "value": "1,0.6"
+  },
+  {
+    "sn": "MOEVABLE_PULL_SPEED",
+    "value": "1"
+  },
+  {
+    "sn": "MOEVABLE_PUSH_SPEED",
+    "value": "1"
+  },
+  {
+    "sn": "EFFECT_MAX_DIS",
+    "value": "6"
+  },
+  {
+    "sn": "EFFECT_MIN_DIS",
+    "value": "3"
+  },
+  {
+    "sn": "HIDDEN_POINT_DISTANCE",
+    "value": "12"
+  },
+  {
+    "sn": "HIDDEN_RUSH_TIME",
+    "value": "0.17"
+  },
+  {
+    "sn": "HIDDEN_RUSH_SPEED",
+    "value": "20"
+  },
+  {
+    "sn": "HIDDEN_RUSH_EFFECT",
+    "value": "joker_hidden_sprint.prefab"
+  },
+  {
+    "sn": "HIDDEN_ATTACK_SEEK_PARAM",
+    "value": "180,7,3"
+  },
+  {
+    "sn": "HIDDEN_RUSH_JUMP_PARAM",
+    "value": "0.2,0.5,10"
+  },
+  {
+    "sn": "HIDDEN_BLACK_INTENSITY_VALUE",
+    "value": "0.2"
+  },
+  {
+    "sn": "HIDDEN_BLACK_TIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "JUMP_CLIMB_PARAM",
+    "value": "2,1.6,0.4"
+  },
+  {
+    "sn": "JUMP_HIDDEN_KILL_PARAM",
+    "value": "1,2,0.5"
+  },
+  {
+    "sn": "JUMP_STRAIGHT_PARAM",
+    "value": "2,3,0.4"
+  },
+  {
+    "sn": "JUMP_SWING_PARAM",
+    "value": "0.5,1.5,0.2"
+  },
+  {
+    "sn": "ROPE_STRAIGHT_RISING_PARAM",
+    "value": "15,50,100"
+  },
+  {
+    "sn": "ROPEWAY_BODY_HEIGHT",
+    "value": "2.3"
+  },
+  {
+    "sn": "ROPEWAY_JUMP_SPEED_XZ",
+    "value": "6"
+  },
+  {
+    "sn": "ROPEWAY_STRAIGHT_PARAMS",
+    "value": "15,30,30"
+  },
+  {
+    "sn": "ROPEWAY_JUMP_DOWN_PARAMS",
+    "value": "5,30"
+  },
+  {
+    "sn": "ROPEWAY_STRAIGHT_ROT_LERP_VALUE",
+    "value": "0.2"
+  },
+  {
+    "sn": "ROPEWAY_END_LOCK_INPUT_TIME",
+    "value": "0.5"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_101",
+    "value": "10.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_301",
+    "value": "8"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_4",
+    "value": "8"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_401",
+    "value": "8"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_7",
+    "value": "8"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_501",
+    "value": "16"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_HOLE",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_601",
+    "value": "16"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_602",
+    "value": "8"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_302",
+    "value": "10.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_1_SPEED",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_2_SPEED",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_3_SPEED",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_4_SPEED",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_5_SPEED",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_6_SPEED",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_7_SPEED",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_8_SPEED",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_9_SPEED",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_10_SPEED",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_1_SPEED_101",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_2_SPEED_101",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_3_SPEED_101",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_4_SPEED_101",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_5_SPEED_101",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_6_SPEED_101",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_7_SPEED_101",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_8_SPEED_101",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_9_SPEED_101",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_10_SPEED_101",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_1_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_301",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_301",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_4",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_4",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_401",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_401",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_2_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_3_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_4_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_5_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_6_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_7_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_8_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_9_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_10_SPEED_102",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_1_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_2_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_3_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_4_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_5_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_6_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_7_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_8_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_9_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_10_SPEED_901",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_1_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_7",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_7",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_501",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_2_SPEED_501",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_3_SPEED_501",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_4_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_5_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_6_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_7_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_8_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_9_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_10_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_MAXSPEED_501",
+    "value": "20"
+  },
+  {
+    "sn": "RUN_1_SPEED_HOLE",
+    "value": "1"
+  },
+  {
+    "sn": "RUN_2_SPEED_HOLE",
+    "value": "1"
+  },
+  {
+    "sn": "RUN_3_SPEED_HOLE",
+    "value": "1"
+  },
+  {
+    "sn": "RUN_4_SPEED_HOLE",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_5_SPEED_HOLE",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_6_SPEED_HOLE",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_7_SPEED_HOLE",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_8_SPEED_HOLE",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_9_SPEED_HOLE",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_10_SPEED_HOLE",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_1_SPEED_601",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_2_SPEED_601",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_3_SPEED_601",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_4_SPEED_601",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_5_SPEED_601",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_6_SPEED_601",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_7_SPEED_601",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_8_SPEED_601",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_9_SPEED_601",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_10_SPEED_601",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_MAXSPEED_601",
+    "value": "20"
+  },
+  {
+    "sn": "RUN_1_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_602",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_602",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_302",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_2_SPEED_302",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_3_SPEED_302",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_4_SPEED_302",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_5_SPEED_302",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_6_SPEED_302",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_7_SPEED_302",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_8_SPEED_302",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_9_SPEED_302",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_10_SPEED_302",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN265",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN265",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN265",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED",
+    "value": "10.4"
+  },
+  {
+    "sn": "CITY_SCENE_TYPES",
+    "value": "101,102,901"
+  },
+  {
+    "sn": "PALACE_SCENE_TYPES",
+    "value": "301,302,401,501,601,602,701,1000"
+  },
+  {
+    "sn": "BATTLE_SCENE_TYPES",
+    "value": "201,801"
+  },
+  {
+    "sn": "CLIENT__SCENE_TYPE_CEIL",
+    "value": "99"
+  },
+  {
+    "sn": "CHAT_JOIN_WORLD_LEVEL",
+    "value": "1"
+  },
+  {
+    "sn": "CHAT_MSG_MAX",
+    "value": "50"
+  },
+  {
+    "sn": "CHAT_MSG_ITEM_MAX",
+    "value": "3"
+  },
+  {
+    "sn": "CHAT_ITEM_MSG_MAX",
+    "value": "1000"
+  },
+  {
+    "sn": "CHAT_ITEM_PATTERN",
+    "value": "#\\{[^#]+?{}[^\\}]*?\\}"
+  },
+  {
+    "sn": "CHAT_BLANK_CONDITION",
+    "value": "10"
+  },
+  {
+    "sn": "CHAT_BLANK_BYTE",
+    "value": "　　　　"
+  },
+  {
+    "sn": "CHAT_ICON_WORLD",
+    "value": "SNSpindao-shijie.png"
+  },
+  {
+    "sn": "CHAT_ICON_UNION",
+    "value": "SNSpindao-lianmeng.png"
+  },
+  {
+    "sn": "Chat_HyperLink_1",
+    "value": "<btntype=itemClick&sn=<{}>grade=<{}>itemClick>"
+  },
+  {
+    "sn": "Chat_HyperLink_2",
+    "value": "<btntype=roleClick&name=<{}>id=<{}>roleClick>"
+  },
+  {
+    "sn": "CHAT_VOICE_CONTENT_LEN",
+    "value": "200"
+  },
+  {
+    "sn": "CHAT_OFFLINE_MSG_CLEAR_DAY",
+    "value": "7"
+  },
+  {
+    "sn": "CHAT_ROOM_FULL_PARAM",
+    "value": "0.9"
+  },
+  {
+    "sn": "CHAT_ROOM_FULL_NUMBER",
+    "value": "300"
+  },
+  {
+    "sn": "CHAT_ROOM_ACTIVE_TIME",
+    "value": "5"
+  },
+  {
+    "sn": "CHAT_INTERVAL_TIME",
+    "value": "30"
+  },
+  {
+    "sn": "CHAT_ORGANIZATION_CHANNEL_CACHE",
+    "value": "300"
+  },
+  {
+    "sn": "CHAT_PRIVATE_CHANNEL_CHCHE",
+    "value": "3000"
+  },
+  {
+    "sn": "CHAT_NO_MESSAGE",
+    "value": "暂无消息"
+  },
+  {
+    "sn": "CHAT_CHANNEL_NAME_WORLD",
+    "value": "世界"
+  },
+  {
+    "sn": "CHAT_CHANNEL_NAME_UNION",
+    "value": "联盟"
+  },
+  {
+    "sn": "CHAT_PREVIEW_MAX_CHARACTER_NUM",
+    "value": "17"
+  },
+  {
+    "sn": "firstSceneQuest",
+    "value": "10000"
+  },
+  {
+    "sn": "QUEST_FOR_CHANGENAME",
+    "value": "10002"
+  },
+  {
+    "sn": "FIND_TARGET_ANGLE_HORIZONTAL",
+    "value": "360"
+  },
+  {
+    "sn": "TRACE_TASK_TYPES",
+    "value": "1,3,5,8,9,10,11,12,13,14,15,16,17,31,100,200,201,202,203,204,300,104,10001,10011"
+  },
+  {
+    "sn": "GO_TASK_TYPES",
+    "value": "2,4,102,103"
+  },
+  {
+    "sn": "INVISIBLE_TASK_TYPES",
+    "value": "18"
+  },
+  {
+    "sn": "QUEST_ACCEPT_ICON",
+    "value": "tanhao-kelingqu.png"
+  },
+  {
+    "sn": "QUEST_NAVIGATE_ICON",
+    "value": "tanhao-renwu.png"
+  },
+  {
+    "sn": "QUEST_FINISH_ICON",
+    "value": "wenhao-renwu.png"
+  },
+  {
+    "sn": "QUEST_ONMAP_SHOWDISTANCE",
+    "value": "30"
+  },
+  {
+    "sn": "QUEST_HOVERING_TIME",
+    "value": "5"
+  },
+  {
+    "sn": "TASK_NEW_ICON_SHOW_TIME",
+    "value": "3"
+  },
+  {
+    "sn": "NEW_TASK_ACCPTABLE_TIME",
+    "value": "5"
+  },
+  {
+    "sn": "FIND_TARGET_ANGLE",
+    "value": "30"
+  },
+  {
+    "sn": "FIND_TARGET_INDICATION_RANGE",
+    "value": "400,400"
+  },
+  {
+    "sn": "FIND_PALACE_TARGET_INDICATION_RANGE",
+    "value": "0.4,0.95"
+  },
+  {
+    "sn": "FIND_TARGET_HEIGHT",
+    "value": "0.45"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE",
+    "value": "3"
+  },
+  {
+    "sn": "GUIDE_PAUSE_LONGEST_TIME",
+    "value": "600"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_ARROW",
+    "value": "10,45;5,60;2,360"
+  },
+  {
+    "sn": "FIND_TARGET_HIDE",
+    "value": "2"
+  },
+  {
+    "sn": "FIND_TARGET_NPC_HEIGHT",
+    "value": "0.01"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_HIDE",
+    "value": "1.5"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_DISPLAY",
+    "value": "3"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_HIDE_CAR",
+    "value": "5"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_DISPLAY_CAR",
+    "value": "9"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_HIDE_ARROW",
+    "value": "6,180;3,180;2,360"
+  },
+  {
+    "sn": "QUEST_TAP_ALL",
+    "value": "1,2,5,7"
+  },
+  {
+    "sn": "QUEST_TRACK_ALL",
+    "value": "1,2,1000"
+  },
+  {
+    "sn": "THIEF_PLAYER_DISPLAY_NUM",
+    "value": "4"
+  },
+  {
+    "sn": "THIEF_RotationSpeed_Move",
+    "value": "0"
+  },
+  {
+    "sn": "THIEF_RotationSpeed_Jump",
+    "value": "1600"
+  },
+  {
+    "sn": "THIEF_RUNSTOP_SPEED",
+    "value": "2.1"
+  },
+  {
+    "sn": "THIEF_WALKSTOP_SPEED",
+    "value": "2"
+  },
+  {
+    "sn": "THIEF_RUSHSTOP_SPEED",
+    "value": "1.125"
+  },
+  {
+    "sn": "THIEF_LEVELUP_PROPERTY_DISPLAY",
+    "value": "HP_base,GJ_base,FY_base,SP_base,BJ_base,XGMZ_base"
+  },
+  {
+    "sn": "THIEF_SKILL_NATURE_DISPLAY",
+    "value": "1,2,3,4,5,6,7,8,9,10"
+  },
+  {
+    "sn": "THIEF_FEATURE_GRADE",
+    "value": "5"
+  },
+  {
+    "sn": "THIEF_AWAKE_LEVEL_LIMIT",
+    "value": "6"
+  },
+  {
+    "sn": "THIEF_PERSONA_SKILL_EQUIP_LIMIT",
+    "value": "4"
+  },
+  {
+    "sn": "THIEF_INHERENT_SKILL_LEVEL_LIMIT",
+    "value": "5"
+  },
+  {
+    "sn": "THIEF_FEATRUE_LEVEL_LIMIT",
+    "value": "6"
+  },
+  {
+    "sn": "THIEF_UIBOOL",
+    "value": "0"
+  },
+  {
+    "sn": "THIEF_GACHA_BONUS4",
+    "value": "10001"
+  },
+  {
+    "sn": "THIEF_GACHA_BONUS5",
+    "value": "10002"
+  },
+  {
+    "sn": "THIEF_BIG_SLAM_LIMIT",
+    "value": "90,6,10,90,5,4,25"
+  },
+  {
+    "sn": "PERSONA_BOX_MAX",
+    "value": "500"
+  },
+  {
+    "sn": "PERSONA_SCENE",
+    "value": "fb40_jinbi001"
+  },
+  {
+    "sn": "PERSONA_STRENEXP_INHERIT",
+    "value": "0.8"
+  },
+  {
+    "sn": "PERSONA_RANDOMBOX",
+    "value": "persona-new-suiji.png"
+  },
+  {
+    "sn": "PERSONA_BASIC_ICON",
+    "value": "S-guaiwutouxiang-oni-new.png"
+  },
+  {
+    "sn": "PERSONA_SELECTED_NUM_MAX",
+    "value": "99"
+  },
+  {
+    "sn": "PERSONA_DYNAMIC_SKILL_MAX_NUM",
+    "value": "2"
+  },
+  {
+    "sn": "PERSONA_SAME_CHIPS",
+    "value": "1"
+  },
+  {
+    "sn": "PERSONA_EVOLVE_ATTR",
+    "value": "生命成长率,攻击成长率,防御成长率"
+  },
+  {
+    "sn": "MAP_DEFAULT_SCALE",
+    "value": "1"
+  },
+  {
+    "sn": "MAP_OUTER_SIZE_RATIO_CITY",
+    "value": "1.1"
+  },
+  {
+    "sn": "MAP_OUTER_SIZE_RATIO",
+    "value": "1.3"
+  },
+  {
+    "sn": "MAP_FEET_DISTANCE",
+    "value": "6"
+  },
+  {
+    "sn": "MAP_FEET_HIDE_TIME",
+    "value": "2"
+  },
+  {
+    "sn": "MAP_TASK_ICON_RES",
+    "value": "renwu-ditu-tanhao.png"
+  },
+  {
+    "sn": "MAP_PALACE_AREA_TRANSPOINT_CHANGETIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "MAP_PALACE_AREA_CHOOSE_RATE",
+    "value": "0.33"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_CHANGETIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_POS",
+    "value": "1,0.9,0.8,0.7,0.6,0.6,0.4,0.2"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_SCALE_FREEZE",
+    "value": "TRUE"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_WHEEL_SCALE_TIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_SPECIALITEM_ICON",
+    "value": "yishijie-icon-xingxing-new.png"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_SHOW_OBJECTICON_DISTANCE",
+    "value": "100"
+  },
+  {
+    "sn": "MAP_IMPRESSION_ROLL_PIECE_ICON",
+    "value": "renwu-qipaodi-tanhao.png"
+  },
+  {
+    "sn": "MAP_IMPRESSION_GATE_ICON_PARAM",
+    "value": "0.2,0.2"
+  },
+  {
+    "sn": "MAP_BOARD_PIC",
+    "value": "ditu-new-lubiao.png"
+  },
+  {
+    "sn": "PALACE_OBJECT_SHOW_DISTANCE",
+    "value": "60"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE",
+    "value": "150"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_1",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_2",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_4",
+    "value": "150"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_6",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_11",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_12",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_NPC_SHOW_DISTANCE",
+    "value": "69"
+  },
+  {
+    "sn": "PALACE_WORLD_CORE_ITEMSN",
+    "value": "30"
+  },
+  {
+    "sn": "PALACE_WORLD_MAP_LOCK_FIXICON_COLOR",
+    "value": "#484848"
+  },
+  {
+    "sn": "PALACE_WORLD_MAP_LOCK_FOG_COLOR",
+    "value": "#370001"
+  },
+  {
+    "sn": "PALACE_MAP_MESSAGE_DALYCHALLENGE_COST_ICON",
+    "value": "item-huobi-7.png"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_ZOOM_RATE",
+    "value": "0.7"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_ZOOM_RANGE",
+    "value": "0.4,1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_OUTER_SIZE_RATIO",
+    "value": "1.1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_RATE_INIT",
+    "value": "0.6"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_RATE",
+    "value": "1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_CHANGE_SPEED",
+    "value": "0.6"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_LINE_WAIT",
+    "value": "0.5"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_ANIM_WAIT",
+    "value": "0.5"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_AREA_RATE",
+    "value": "1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_CHOOSE_RATE",
+    "value": "1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_ICON_RATE",
+    "value": "1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_AREA_TRANSPOINT_CHANGETIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_ICON_ALPHA",
+    "value": "1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_ICON_DEFAULT_COLOR",
+    "value": "FFE80B"
+  },
+  {
+    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_DAILY",
+    "value": "130"
+  },
+  {
+    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_PALACE",
+    "value": "70"
+  },
+  {
+    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_SAFEROOM",
+    "value": "70"
+  },
+  {
+    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_VT",
+    "value": "70"
+  },
+  {
+    "sn": "QUEST_ONMAP_SCALE",
+    "value": "0.55"
+  },
+  {
+    "sn": "PALACE_WORLD_DEAD_MARK_ICON",
+    "value": "yishijie-icon-siwang-new.png"
+  },
+  {
+    "sn": "PALACE_WORLD_DEAD_MARK_DISAPPEAR_DISTANCE",
+    "value": "10"
+  }
+]

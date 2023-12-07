@@ -1,0 +1,130 @@
+[
+  {
+    "sn": "Resolution",
+    "Level": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "sn": "FrameRate",
+    "Level": [
+      30,
+      60
+    ]
+  },
+  {
+    "sn": "AntiAliasing",
+    "Level": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "sn": "GraphicQuality",
+    "Level": [
+      1,
+      2
+    ]
+  },
+  {
+    "sn": "EffectsQuality",
+    "Level": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "sn": "LOD",
+    "Level": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "sn": "DepthOfField",
+    "Level": []
+  },
+  {
+    "sn": "CrossFlare",
+    "Level": []
+  },
+  {
+    "sn": "GTAO",
+    "Level": []
+  },
+  {
+    "sn": "SSR",
+    "Level": []
+  },
+  {
+    "sn": "Bloom",
+    "Level": []
+  },
+  {
+    "sn": "RenderScale",
+    "Level": [
+      0.75,
+      1,
+      1.5,
+      2
+    ]
+  },
+  {
+    "sn": "FullScreen",
+    "Level": []
+  },
+  {
+    "sn": "VolumeLight",
+    "Level": []
+  },
+  {
+    "sn": "TerrainBlending",
+    "Level": []
+  },
+  {
+    "sn": "FSR",
+    "Level": []
+  },
+  {
+    "sn": "VolumeFog",
+    "Level": []
+  },
+  {
+    "sn": "ShaderQuality",
+    "Level": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "sn": "ShadowQuality",
+    "Level": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "sn": "SunShaft",
+    "Level": []
+  },
+  {
+    "sn": "PostProcessQuality",
+    "Level": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "sn": "Vsync",
+    "Level": []
+  }
+]

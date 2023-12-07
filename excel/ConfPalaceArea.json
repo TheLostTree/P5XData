@@ -1,0 +1,207 @@
+[
+  {
+    "sn": 100,
+    "name": "棒球场大门",
+    "palaceWorldSn": [
+      1107
+    ],
+    "icon": "yishijie-icon-chukou-bai-new.png",
+    "pic": "tansuodu-pics-01-new.png",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 101,
+    "name": "展览馆",
+    "palaceWorldSn": [
+      1101,
+      1102,
+      1103,
+      1104,
+      1106
+    ],
+    "icon": "",
+    "pic": "tansuodu-pics-01-new.png",
+    "floorName": [
+      "展览馆1层",
+      "展览馆2层"
+    ],
+    "floorTeleportPoint": [
+      8301000,
+      8304000
+    ],
+    "miniScale": 1
+  },
+  {
+    "sn": 102,
+    "name": "一垒大楼",
+    "palaceWorldSn": [
+      1120,
+      1121,
+      1122
+    ],
+    "icon": "",
+    "pic": "tansuodu-pics-02-new.png",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 103,
+    "name": "二垒大楼",
+    "palaceWorldSn": [
+      1114
+    ],
+    "icon": "",
+    "pic": "tansuodu-pics-03-new.png",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 104,
+    "name": "俱乐部",
+    "palaceWorldSn": [
+      1109,
+      1110,
+      1111,
+      1112,
+      1113
+    ],
+    "icon": "",
+    "pic": "tansuodu-pics-03-new.png",
+    "floorName": [
+      "俱乐部1层",
+      "俱乐部2层",
+      "俱乐部3层"
+    ],
+    "floorTeleportPoint": [
+      8331000,
+      8336000,
+      8341000
+    ],
+    "miniScale": 0
+  },
+  {
+    "sn": 105,
+    "name": "棒球场天台",
+    "palaceWorldSn": [
+      1115,
+      1118
+    ],
+    "icon": "",
+    "pic": "tansuodu-pics-01-new.png",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 106,
+    "name": "中心球场",
+    "palaceWorldSn": [
+      1119
+    ],
+    "icon": "",
+    "pic": "tansuodu-pics-01-new.png",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 200,
+    "name": "宫殿入口",
+    "palaceWorldSn": [
+      1201
+    ],
+    "icon": "",
+    "pic": "",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 992,
+    "name": "TL临时测试场景",
+    "palaceWorldSn": [
+      9992
+    ],
+    "icon": "",
+    "pic": "",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 994,
+    "name": "思想剥夺之路",
+    "palaceWorldSn": [
+      9994
+    ],
+    "icon": "",
+    "pic": "",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 995,
+    "name": "山城测试3",
+    "palaceWorldSn": [
+      9995
+    ],
+    "icon": "",
+    "pic": "",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 996,
+    "name": "山城测试2",
+    "palaceWorldSn": [
+      9996
+    ],
+    "icon": "",
+    "pic": "",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 997,
+    "name": "山城测试1",
+    "palaceWorldSn": [
+      9997
+    ],
+    "icon": "",
+    "pic": "",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 998,
+    "name": "1号测试场景",
+    "palaceWorldSn": [
+      9998
+    ],
+    "icon": "",
+    "pic": "",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 999,
+    "name": "1号测试场景",
+    "palaceWorldSn": [
+      9999
+    ],
+    "icon": "",
+    "pic": "",
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  }
+]

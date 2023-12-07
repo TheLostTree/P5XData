@@ -1,0 +1,32 @@
+[
+  {
+    "sn": "UI_MainUI",
+    "pc_prefab": "UI-zhujiemian.prefab",
+    "mobile_prefab": "UI-zhujiemian.prefab",
+    "gamepad_prefab": ""
+  },
+  {
+    "sn": "UI_NpcInteractiveView",
+    "pc_prefab": "PC-UI-NPC-jiaohuanniu.prefab",
+    "mobile_prefab": "UI-NPC-jiaohuanniu.prefab",
+    "gamepad_prefab": ""
+  },
+  {
+    "sn": "UI_JumpActUI",
+    "pc_prefab": "PC-UI-gongdian-ACT-01.prefab",
+    "mobile_prefab": "UI-gongdian-ACT-01.prefab",
+    "gamepad_prefab": ""
+  },
+  {
+    "sn": "UI_GameBaseballView",
+    "pc_prefab": "PC-UI-bangqiu.prefab",
+    "mobile_prefab": "UI-bangqiu.prefab",
+    "gamepad_prefab": ""
+  },
+  {
+    "sn": "UI_FishingControll",
+    "pc_prefab": "PC-UI-diaoyu-caozuo-new.prefab",
+    "mobile_prefab": "UI-diaoyu-caozuo-new.prefab",
+    "gamepad_prefab": ""
+  }
+]

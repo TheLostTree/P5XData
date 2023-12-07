@@ -1,0 +1,153 @@
+[
+  {
+    "sn": 1001,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "name": "怪盗报到",
+    "describe": "每日登陆游戏",
+    "guide": [],
+    "awardShow": "11:2",
+    "award": 0,
+    "unionExp": 30,
+    "unfinishIcon": "mubiaozhiyin-yinzhang.png",
+    "finishIcon": "mubiaozhiyin-yinzhang.png",
+    "sequence": 1
+  },
+  {
+    "sn": 1002,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 50,
+    "name": "异界探索",
+    "describe": "消耗50份情报",
+    "guide": [
+      28
+    ],
+    "awardShow": "11:2",
+    "award": 0,
+    "unionExp": 30,
+    "unfinishIcon": "mubiaozhiyin-yinzhang.png",
+    "finishIcon": "mubiaozhiyin-yinzhang.png",
+    "sequence": 2
+  },
+  {
+    "sn": 1003,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 100,
+    "name": "异界贼神",
+    "describe": "消耗100份情报",
+    "guide": [
+      28
+    ],
+    "awardShow": "11:4",
+    "award": 0,
+    "unionExp": 30,
+    "unfinishIcon": "mubiaozhiyin-yinzhang.png",
+    "finishIcon": "mubiaozhiyin-yinzhang.png",
+    "sequence": 3
+  },
+  {
+    "sn": 1004,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "name": "记忆回溯",
+    "describe": "通关1次记忆回溯",
+    "guide": [
+      28
+    ],
+    "awardShow": "11:4",
+    "award": 0,
+    "unionExp": 30,
+    "unfinishIcon": "mubiaozhiyin-yinzhang.png",
+    "finishIcon": "mubiaozhiyin-yinzhang.png",
+    "sequence": 4
+  },
+  {
+    "sn": 1005,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 3,
+    "name": "记忆大师",
+    "describe": "通关3次记忆回溯",
+    "guide": [
+      28
+    ],
+    "awardShow": "11:5",
+    "award": 0,
+    "unionExp": 30,
+    "unfinishIcon": "mubiaozhiyin-yinzhang.png",
+    "finishIcon": "mubiaozhiyin-yinzhang.png",
+    "sequence": 5
+  },
+  {
+    "sn": 1006,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "name": "魅影对决",
+    "describe": "完成1次竞技场对决",
+    "guide": [
+      28
+    ],
+    "awardShow": "11:5",
+    "award": 0,
+    "unionExp": 30,
+    "unfinishIcon": "mubiaozhiyin-yinzhang.png",
+    "finishIcon": "mubiaozhiyin-yinzhang.png",
+    "sequence": 6
+  },
+  {
+    "sn": 1007,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "name": "废墟拾遗",
+    "describe": "完成1次宫殿废墟",
+    "guide": [
+      28
+    ],
+    "awardShow": "11:3",
+    "award": 0,
+    "unionExp": 30,
+    "unfinishIcon": "mubiaozhiyin-yinzhang.png",
+    "finishIcon": "mubiaozhiyin-yinzhang.png",
+    "sequence": 7
+  },
+  {
+    "sn": 1008,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "name": "原型世界",
+    "describe": "完成1次原型空间探索",
+    "guide": [
+      28
+    ],
+    "awardShow": "11:3",
+    "award": 0,
+    "unionExp": 30,
+    "unfinishIcon": "mubiaozhiyin-yinzhang.png",
+    "finishIcon": "mubiaozhiyin-yinzhang.png",
+    "sequence": 8
+  },
+  {
+    "sn": 1009,
+    "unlockLevel": 1,
+    "unlockFunc": 0,
+    "eventTime": 1,
+    "name": "每日光顾",
+    "describe": "在商店购买任意商品1次",
+    "guide": [
+      29
+    ],
+    "awardShow": "11:3",
+    "award": 0,
+    "unionExp": 30,
+    "unfinishIcon": "mubiaozhiyin-yinzhang.png",
+    "finishIcon": "mubiaozhiyin-yinzhang.png",
+    "sequence": 9
+  }
+]

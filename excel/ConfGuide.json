@@ -1,0 +1,4564 @@
+[
+  {
+    "sn": 111,
+    "next": 112,
+    "forceAndMask": 0,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_Joystick/Control/RectStick/Image-back",
+    "targetValue": "UI_Joystick/Control/RectStick/Image-back",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "250,0",
+    "text": "拖动摇杆，向前移动角色",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      104
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        8
+      ]
+    ],
+    "refreshImage": "common-renwu4.png",
+    "waitAni": 0,
+    "maskScale": "0.5,0.5,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 112,
+    "next": -1,
+    "forceAndMask": 0,
+    "pauseGame": 0,
+    "targetType": 0,
+    "targetClickValue": "",
+    "targetValue": "",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 1,
+    "iconDeviation": "706,-91,false",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      100,
+      103
+    ],
+    "completeParam": [
+      "0",
+      "3"
+    ],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 121,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_NpcInteractiveView/zhujiemian-act1/Button-act2",
+    "targetValue": "UI_NpcInteractiveView/zhujiemian-act1/Button-act2",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-170,40",
+    "text": "点击『开门』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        1,
+        1
+      ]
+    ],
+    "refreshImage": "common-renwu4.png",
+    "waitAni": 1,
+    "maskScale": "0.5,0.25,1",
+    "maskPos": "-0.05,-0.21",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 141,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_JumpActUI/act/Button-fangun",
+    "targetValue": "UI_JumpActUI/act/Button-fangun/Image-02",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-90,0",
+    "text": "『奔跑』快速移动",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        2,
+        1
+      ]
+    ],
+    "refreshImage": "gongdianzhujiemian-congfeng-di03.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 151,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_JumpActUI/act/Button-act",
+    "targetValue": "UI_JumpActUI/act/Button-act/Image-02",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-90,30",
+    "text": "抢先发起『攻击』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "gongdianzhujiemian-gongji-di3.png",
+    "waitAni": 0,
+    "maskScale": "0.6,0.6,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 161,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TopMissionUI/shipei/donghua/yichudonghua2/Image-di1",
+    "targetValue": "UI_TopMissionUI/shipei/donghua/yichudonghua2/UISkewImage",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-380,-20",
+    "text": "切换『任务』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "renwu-renwudaohang03-2.png",
+    "waitAni": 1,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 162,
+    "next": 163,
+    "forceAndMask": 0,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TopMissionUI/shipei/donghua/renwu-hong/Image-renwubiaotidi",
+    "targetValue": "UI_TopMissionUI/shipei/donghua/renwu-hong/Image-renwubiaotidi",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-260,10",
+    "text": "打开『任务详情』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        6
+      ]
+    ],
+    "refreshImage": "renwu-renwudaohang01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 163,
+    "next": 164,
+    "forceAndMask": 0,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TaskMainMenu/Content/xinxi-zuo/scroll-itemlist/Panel/template_new_1_0/message/itemclick",
+    "targetValue": "UI_TaskMainMenu/Content/xinxi-zuo/scroll-itemlist/Panel/template_new_1_0/message/bg/bg",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "240,40",
+    "text": "切换任务",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "renwu-B-liebiaodi.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 164,
+    "next": 165,
+    "forceAndMask": 0,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TaskMainMenu/Content/xinxi-zuo/scroll-itemlist/Panel/template_new_1_1/message/itemclick",
+    "targetValue": "UI_TaskMainMenu/Content/xinxi-zuo/scroll-itemlist/Panel/template_new_1_0/message/bg/bg",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "240,40",
+    "text": "切换任务",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "renwu-B-liebiaodi.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 165,
+    "next": -1,
+    "forceAndMask": 0,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TaskMainMenu/Content/content-you/bottom2/shouqufujian",
+    "targetValue": "UI_TaskMainMenu/Content/content-you/bottom2/shouqufujian",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-200,10",
+    "text": "进行『追踪』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "B-anniu-01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 211,
+    "next": 212,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/sword/Image-di1/Image-dianji;1/2",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/sword/Image-di1/Image-dianji;1/2",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-320,143",
+    "text": "对敌人发起『近战攻击』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 212,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,1|1,2",
+    "targetValue": "1,1|1,2",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 221,
+    "next": 222,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-368,235",
+    "text": "选择『面具』技能",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 222,
+    "next": 223,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "targetValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-240,-15",
+    "text": "使用这个技能",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 223,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,1|1,2",
+    "targetValue": "1,1|1,2",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 311,
+    "next": 312,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-368,235",
+    "text": "发动『面具』技能",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 312,
+    "next": 313,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "targetValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-240,-15",
+    "text": "熟悉这个技能",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 313,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,1|1,2",
+    "targetValue": "1,1|1,2",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 321,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 3,
+    "targetType": 1,
+    "targetClickValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/jineng1;3/1",
+    "targetValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/jineng1;3/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-120,0",
+    "text": "释放『ONE MORE』技能",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 411,
+    "next": 412,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/Button-zhilingqiehuan;1/5",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/Button-zhilingqiehuan;1/5",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-90,22",
+    "text": "『切换』指令",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 412,
+    "next": 413,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian2/daoju/Image-di1/Image-dianji;1/7",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian2/daoju/Image-di1/Image-dianji;1/7",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-300,230",
+    "text": "使用『道具』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 413,
+    "next": 414,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_AttackUseItem/shipei/daojuxinxi/listmask/ScrollView/Content/MUGame.CircleContext0/item/itemposition/itemclick",
+    "targetValue": "UI_AttackUseItem/shipei/daojuxinxi/listmask/ScrollView/Content/MUGame.CircleContext0/item/itemposition/itemclick",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-300,30",
+    "text": "选择『道具』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 414,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 9,
+    "targetClickValue": "1,1",
+    "targetValue": "1,1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 421,
+    "next": 422,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/Button-zhilingqiehuan;1/5",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/Button-zhilingqiehuan;1/5",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-90,22",
+    "text": "『切换』指令",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 422,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian2/persona/Image-di1/Image-dianji;1/6",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian2/persona/Image-di1/Image-dianji;1/6",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-350,40",
+    "text": "『防御』抵挡大量伤害",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 431,
+    "next": 432,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-360,235",
+    "text": "释放『面具』技能",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 432,
+    "next": 433,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "targetValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-240,-15",
+    "text": "使用趁手技能",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 433,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,4",
+    "targetValue": "1,4",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-350,-240,false",
+    "text": "扫除这个爪牙",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 441,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 3,
+    "targetType": 1,
+    "targetClickValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/jineng2;3/2",
+    "targetValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/jineng2;3/2",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-180,80",
+    "text": "路菲尔释放『ONE MORE』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 1,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 451,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 3,
+    "targetType": 1,
+    "targetClickValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/jineng1;3/1",
+    "targetValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/jineng1;3/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-120,80",
+    "text": "释放『HIGHLIGHT』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 461,
+    "next": 462,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_OpenWorldMap/liuhai/shipei/zhengti01/quyu/youxiaxinxi/scroll-itemlis/Panel/template_new_2_0/item/xinxi01",
+    "targetValue": "UI_OpenWorldMap/liuhai/shipei/zhengti01/quyu/youxiaxinxi/scroll-itemlis/Panel/template_new_2_0/item/xinxi01/Image-di",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-renwu4.png",
+    "waitAni": 0,
+    "maskScale": "0.67,0.12,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 462,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_OpenWorldMap/liuhai/shipei/zhengti01/quyu/kongzhianniu-OU/btn-qianwangzhandian",
+    "targetValue": "UI_OpenWorldMap/liuhai/shipei/zhengti01/quyu/kongzhianniu-OU/btn-qianwangzhandian",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-new-btn-qianwang.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 481,
+    "next": 482,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/trick/Image-di1/Image-dianji;1/3",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/trick/Image-di1/Image-dianji;1/3",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-220,20",
+    "text": "释放『诡计』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 482,
+    "next": 483,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_AttackTrick/paixu/Content/list/Panel/template_new_1_0/item/Template01/Image-RT",
+    "targetValue": "UI_AttackTrick/paixu/Content/list/Panel/template_new_1_0/item/Template01//Image-RT",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-420,-20",
+    "text": "释放『绝境支援』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 1,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 483,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 9,
+    "targetClickValue": "1,1",
+    "targetValue": "1,1|1,2|1,3|1,4",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 491,
+    "next": -1,
+    "forceAndMask": 0,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_JumpActUI/act/Button-xinlingzhiyan",
+    "targetValue": "UI_JumpActUI/act/Button-xinlingzhiyan",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-90,70",
+    "text": "进入『观察模式』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        2,
+        5
+      ]
+    ],
+    "refreshImage": "gongdianzhujiemian-congfeng-di34.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 501,
+    "next": 502,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 1,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 502,
+    "next": 503,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "targetValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 503,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,1|1,2|1,3",
+    "targetValue": "1,1|1,2|1,3",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 511,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 3,
+    "targetType": 1,
+    "targetClickValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/jineng3;3/3",
+    "targetValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/jineng3;3/3",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-230,0",
+    "text": "雪实释放『ONE MORE』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 1,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 541,
+    "next": 542,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-360,235",
+    "text": "释放『面具』技能",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 542,
+    "next": 543,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TBPersonaSkillUI/shipei/Button-genghuan/image-keyong/image-qiehuan",
+    "targetValue": "UI_TBPersonaSkillUI/shipei/Button-genghuan/image-keyong/image-qiehuandi",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-50,0",
+    "text": "切换『不羁能力』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-new-qiehuanmianjudi.png",
+    "waitAni": 0,
+    "maskScale": "0.76,0.76,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 543,
+    "next": 544,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "targetValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-240,-15",
+    "text": "选择这个『技能』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 544,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,1|1,2|1,3",
+    "targetValue": "1,1|1,2|1,3",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 601,
+    "next": 602,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/gun/Image-di1/Image-dianji;1/4",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/gun/Image-di1/Image-dianji;1/4",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-300,-85",
+    "text": "使用『枪械』攻击敌人",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 602,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,1|1,2|1,3|1,4",
+    "targetValue": "1,1|1,2|1,3|1,4",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 611,
+    "next": 612,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/gun/Image-di1/Image-dianji;1/4",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/gun/Image-di1/Image-dianji;1/4",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-300,-85",
+    "text": "继续使用『枪械』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 612,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,1|1,2|1,3|1,4",
+    "targetValue": "1,1|1,2|1,3|1,4",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 621,
+    "next": 622,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/gun/Image-di1/Image-dianji;1/4",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/gun/Image-di1/Image-dianji;1/4",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-300,-85",
+    "text": "使用『枪械』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 622,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,1|1,2|1,3|1,4",
+    "targetValue": "1,1|1,2|1,3|1,4",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 631,
+    "next": 632,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/gun/Image-di1/Image-dianji;1/4",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/gun/Image-di1/Image-dianji;1/4",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-300,-85",
+    "text": "『枪械』攻击",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 632,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,1|1,2|1,3|1,4",
+    "targetValue": "1,1|1,2|1,3|1,4",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 641,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 3,
+    "targetType": 1,
+    "targetClickValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/zonggong/Button-zonggongji;4/0",
+    "targetValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/zonggong/Button-zonggongji;4/0",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-180,-300",
+    "text": "释放『总攻击』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 651,
+    "next": 652,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "targetValue": "UI_TurnBasedOpt/liuhai/shipei/zhandoucaidan/animation-caidandonghua/zongjiedian/persona/Image-di1/Image-dianji;1/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 652,
+    "next": 653,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "targetValue": "UI_TBPersonaSkillUI/shipei/Image-jinengxinxi01/Template01/huxi/Image-RT;2/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 653,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 8,
+    "targetClickValue": "1,1|1,2",
+    "targetValue": "1,1|1,2",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 661,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 3,
+    "targetType": 1,
+    "targetClickValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/jineng1;3/1",
+    "targetValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/jineng1;3/1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 671,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 3,
+    "targetType": 1,
+    "targetClickValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/zonggong/Button-zonggongji;4/0",
+    "targetValue": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/zonggong/Button-zonggongji;4/0",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-180,-300",
+    "text": "释放『总攻击』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1111,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_Divination/content/guaidao-up/bottom/danchou/btn",
+    "targetValue": "UI_Divination/content/guaidao-up/bottom/danchou/btn",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-195,0",
+    "text": "点击『占卜一次』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "chouka-new-anniu-1.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1112,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_WarningConfirmDialogTipView/useitem/select2/yesweixuan/yes",
+    "targetValue": "UI_WarningConfirmDialogTipView/useitem/select2/yesweixuan/yes",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "xitongqueren-yes1.png",
+    "waitAni": 1,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1121,
+    "next": 1122,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_MainMenu_Right/zuoshang/gongneng/rukou/huodong/increaseclick",
+    "targetValue": "UI_MainMenu_Right/zuoshang/gongneng/rukou/huodong/increaseclick",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "0,-220",
+    "text": "查看『精彩活动』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "zhujiemian-P5huodong-001.png",
+    "waitAni": 1,
+    "maskScale": "0.42,0.42,1",
+    "maskPos": "0,-0.1",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1122,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_P5XActivityAnimView/animation/RawImage",
+    "targetValue": "UI_P5XActivityAnimView/animation/RawImage",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-100,-500,false",
+    "text": "查看『奇怪的信件』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-renwu4.png",
+    "waitAni": 1,
+    "maskScale": "2.13,1.45,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1131,
+    "next": 1132,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_ComposeItemsMainView/zong/an/part1-hechengdaoju/list-hechengdaoju/scroll-itemlist/Panel/template_new_1_0/item/item/itemclick",
+    "targetValue": "UI_ComposeItemsMainView/zong/an/part1-hechengdaoju/list-hechengdaoju/scroll-itemlist/Panel/template_new_1_0/item/item/itemclick",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "500,-100",
+    "text": "选择制造『勾绳』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-renwu4.png",
+    "waitAni": 0,
+    "maskScale": "1.3,0.16,1",
+    "maskPos": "-0.2,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1132,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_ComposeItemsMainView/zong/an/part2-xiaohaocailiao/Button-zhizao",
+    "targetValue": "UI_ComposeItemsMainView/zong/an/part2-xiaohaocailiao/Button-zhizao",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-550,30",
+    "text": "进行『合成』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "daojuhecheng-btn-hecheng.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1141,
+    "next": 1142,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_MainUI/youxia/Button-rukou",
+    "targetValue": "UI_MainUI/youxia/Button-rukou/Image (1)",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-180,58",
+    "text": "开启『异界导航』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "zhujiemianmtusu-yishijie-001.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1142,
+    "next": 1143,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PalaceWorld/liuhai/shipei/zhengti01/shijie/shijie-E/scroll-itemlis/Panel/ditu/Image-BG2/all-zu/gongdian/gongdian01/Image-click",
+    "targetValue": "UI_PalaceWorld/liuhai/shipei/zhengti01/shijie/shijie-E/scroll-itemlis/Panel/ditu/Image-BG2/all-zu/gongdian/gongdian01/Image-click",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "0,0",
+    "text": "选择『宫殿』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "yishijie-icon-bangqiuguan-new.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1143,
+    "next": 1144,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PalaceWorld/liuhai/shipei/zhengti01/shijie/shijie-E/youce-zu/Button-qianwang",
+    "targetValue": "UI_PalaceWorld/liuhai/shipei/zhengti01/shijie/shijie-E/youce-zu/Button-qianwang/Image-zi01",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-qianwang01-new.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1144,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PalaceWorld/liuhai/shipei/zhengti01/quyu/kongzhianniu-OU/btn-qianwang",
+    "targetValue": "UI_PalaceWorld/liuhai/shipei/zhengti01/quyu/kongzhianniu-OU/btn-qianwang",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-280,0",
+    "text": "点击『前往』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-new-btn-qianwang.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1151,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_JumpActUI/act/Button-act2",
+    "targetValue": "UI_JumpActUI/act/Button-act2/Image-02",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-400,-100",
+    "text": "使用『勾绳』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        2,
+        3
+      ]
+    ],
+    "refreshImage": "gongdianzhujiemian-diaocha-di1.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1161,
+    "next": 1162,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_JumpActUI/act/yinni2/Button-yinni2",
+    "targetValue": "UI_JumpActUI/act/yinni2/Button-yinni2/Image-02",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-170,40",
+    "text": "『隐匿藏身』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        2,
+        3
+      ]
+    ],
+    "refreshImage": "ACT-yinni1.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1162,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_JumpActUI/act/Button-act3",
+    "targetValue": "UI_JumpActUI/act/Button-act3",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-170,40",
+    "text": "『发动偷袭』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "ACT-touxi-0001.png",
+    "waitAni": 0,
+    "maskScale": "1.1,1.1,1",
+    "maskPos": "0.3,-0.1",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 1
+  },
+  {
+    "sn": 1171,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_Divination/content/wuqichi-up/bottom/danchou/btn",
+    "targetValue": "UI_Divination/content/wuqichi-up/bottom/danchou/btn",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-185,20",
+    "text": "点击『补给一次』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "chouka-new-wuqizhanbu-1.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0.3",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1172,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_WarningConfirmDialogTipView/useitem/select2/yesweixuan/yes",
+    "targetValue": "UI_WarningConfirmDialogTipView/useitem/select2/yesweixuan/yes",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "xitongqueren-yes1.png",
+    "waitAni": 1,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1181,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_MainMenu_Right/zuoshang/gongneng/rukou/taluo/increaseclick",
+    "targetValue": "UI_MainMenu_Right/zuoshang/gongneng/rukou/taluo/increaseclick/pic",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "0,-230",
+    "text": "点击『占卜』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "zhujiemian-chouka-001.png",
+    "waitAni": 1,
+    "maskScale": "0.42,0.42,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1191,
+    "next": 1192,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_MainMenu_Right/zuoshang/gongneng/rukou/taluo/increaseclick",
+    "targetValue": "UI_MainMenu_Right/zuoshang/gongneng/rukou/taluo/increaseclick/pic",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "0,-230",
+    "text": "点击『占卜』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "zhujiemian-chouka-001.png",
+    "waitAni": 1,
+    "maskScale": "0.42,0.42,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1192,
+    "next": 1193,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_Divination/biaoqian-zuo/scroll-itemlist/Panel/template_new_1_1/item/notselected",
+    "targetValue": "UI_Divination/biaoqian-zuo/scroll-itemlist/Panel/template_new_1_1/item/notselected/image-di",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "100,0",
+    "text": "选择『武器补给』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "chouka-new-yeqiandi-bai.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1193,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_Divination/content/wuqichi-up/Btn-zixuan",
+    "targetValue": "UI_Divination/content/wuqichi-up/Btn-zixuan/Image-icon",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "chouka-wuqi-xixuan.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1411,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_MainUI/youxia/Button-richeng",
+    "targetValue": "UI_MainUI/youxia/Button-richeng/image-icon01",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-180,58",
+    "text": "开启『都市日程』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "zhujiemianmtusu-richeng-01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1421,
+    "next": 1422,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_NewOpenWorldEvent/youshipei/shijian-zu01/weizhi01/shijian-model/Button-dianji",
+    "targetValue": "UI_NewOpenWorldEvent/youshipei/shijian-zu01/weizhi01/shijian-model/Button-dianji",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-180,58",
+    "text": "选择『去便利店打工』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "dushi-qipao.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1422,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_NewOpenWorldEvent/youshipei/shijian-xinxi/btn-qianwang",
+    "targetValue": "UI_NewOpenWorldEvent/youshipei/shijian-xinxi/btn-qianwang",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "480,20",
+    "text": "点击『前往』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-new-btn-qianwang.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0.1,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1431,
+    "next": 1432,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_NewOpenWorldEvent/youshipei/shijian-zu01/weizhi01/shijian-model/Button-dianji",
+    "targetValue": "UI_NewOpenWorldEvent/youshipei/shijian-zu01/weizhi01/shijian-model/Button-dianji",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-180,58",
+    "text": "选择『和梅洛普约会』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "dushi-qipao.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1432,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_NewOpenWorldEvent/youshipei/shijian-xinxi/btn-qianwang",
+    "targetValue": "UI_NewOpenWorldEvent/youshipei/shijian-xinxi/btn-qianwang",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "480,20",
+    "text": "点击『前往』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-new-btn-qianwang.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0.1,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1441,
+    "next": 1442,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_NewOpenWorldEvent/youshipei/shijian-zu01/weizhi01/shijian-model/Button-dianji",
+    "targetValue": "UI_NewOpenWorldEvent/youshipei/shijian-zu01/weizhi01/shijian-model/Button-dianji",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-180,58",
+    "text": "选择『去澡堂泡澡』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "dushi-qipao.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1442,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_NewOpenWorldEvent/youshipei/shijian-xinxi/btn-qianwang",
+    "targetValue": "UI_NewOpenWorldEvent/youshipei/shijian-xinxi/btn-qianwang",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "480,20",
+    "text": "点击『前往』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-new-btn-qianwang.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0.1,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1451,
+    "next": 1452,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_MainUI/youxia/Button-richeng",
+    "targetValue": "UI_MainUI/youxia/Button-richeng",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-180,58",
+    "text": "很晚了，休息一下",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "zhujiemianmtusu-richeng-03.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0.2,-0.4",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1452,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_WarningConfirmDialogTipView/useitem/select2/yesweixuan/yes",
+    "targetValue": "UI_WarningConfirmDialogTipView/useitem/select2/yesweixuan/yes",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "xitongqueren-yes1.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1461,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PersonaMainView/zu1/Button-tujian",
+    "targetValue": "UI_PersonaMainView/zu1/Button-tujian",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "100,0",
+    "text": "选择『面具档案』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "persona-new-kongjian-3-1.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1471,
+    "next": 1472,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 7,
+    "targetClickValue": "UI_PersonaEncyViewNew/164",
+    "targetValue": "UI_PersonaEncyViewNew/164",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-200,-20",
+    "text": "选择『面具』查看",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "rengemianjuquanshu-kong.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0.03",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1472,
+    "next": 1473,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PersonaEncyViewNew/mianjushenyue-zu/yeqian-zu/Button-chengjiu",
+    "targetValue": "UI_PersonaEncyViewNew/mianjushenyue-zu/yeqian-zu/Button-chengjiu",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-150,0",
+    "text": "点击『合成』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "rengemianjuquanshu-421-hecheng2.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1473,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PersonaEncyViewNew/mianjushenyue-zu/xinxi-zu/hecheng/Button-hecheng",
+    "targetValue": "UI_PersonaEncyViewNew/mianjushenyue-zu/xinxi-zu/hecheng/Button-hecheng",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-150,0",
+    "text": "确定『合成』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "rengemianjuquanshu-421-hecheng03.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1481,
+    "next": 1482,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_Cook/xuancai-zu/ScrollView/Content/MUGame.CircleContext0/touxiang1-zu/Btn-xuanze",
+    "targetValue": "UI_Cook/xuancai-zu/ScrollView/Content/MUGame.CircleContext0/touxiang1-zu/caipin/mask-xuanzhong",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "140,0",
+    "text": "制作『炸猪排』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "cook-caipin-xuanzhong.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1482,
+    "next": 1483,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_Cook/youshipei-zu/youxia-zu/xuanding-anniu/Button-xuanding",
+    "targetValue": "UI_Cook/youshipei-zu/youxia-zu/xuanding-anniu/Button-xuanding",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-150,0",
+    "text": "『确定选择』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "cook-main-btn-xuanding01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1483,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_CookPrepare/youshipei-zu/youxia-zu/pengren-anniu/Button-penren",
+    "targetValue": "UI_CookPrepare/youshipei-zu/youxia-zu/pengren-anniu/Button-penren",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-160,0",
+    "text": "开始『烹饪』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "cook-main-btn-pengren01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0.1,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1501,
+    "next": 1502,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 10,
+    "targetClickValue": "2129061",
+    "targetValue": "2129061",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-100,-500,false",
+    "text": "选择一个『花盆』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-yuanxingdi.png",
+    "waitAni": 0,
+    "maskScale": "0.4,0.4,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1502,
+    "next": 1503,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PlantSeedsBagView/bottom-shipei/btn-zhongzhi",
+    "targetValue": "UI_PlantSeedsBagView/bottom-shipei/btn-zhongzhi/ok1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-150,0",
+    "text": "确定『种植』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "plant-btn-zhongzhi-bai.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1503,
+    "next": 1504,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 10,
+    "targetClickValue": "2129061",
+    "targetValue": "2129061",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "-100,-500,false",
+    "text": "选中已经播种的『花盆』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-yuanxingdi.png",
+    "waitAni": 0,
+    "maskScale": "0.4,0.4,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1504,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PlantFertilizersBagView/bottom-shipei/btn-shifei",
+    "targetValue": "UI_PlantFertilizersBagView/bottom-shipei/btn-shifei/ok1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-150,0",
+    "text": "确定『施肥』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "plant-btn-shifei-bai.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0.1,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1505,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 11,
+    "targetClickValue": "UI_PlantOperationView/weizhi/plant-xiangqing/anniu-zu/btn-shifei",
+    "targetValue": "UI_PlantOperationView/weizhi/plant-xiangqing/anniu-zu/btn-shifei",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "50,0",
+    "text": "开始『施肥』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "plant-btn-qipao-you.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0.1,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1531,
+    "next": 1532,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PWSaferoom/animation/Image-di01-1",
+    "targetValue": "UI_PWSaferoom/animation/Image-di01-1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "200,30",
+    "text": "选择『培养面具』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "anquanwu-new-2.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1532,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PersonaMainView/zu1/Button-chiyou",
+    "targetValue": "UI_PersonaMainView/zu1/Button-chiyou/image-jinyong",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "200,0",
+    "text": "训练『人格面具』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "persona-new-kongjian-2.png",
+    "waitAni": 1,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1538,
+    "next": 1539,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PalaceUI/shipei/dituxinxi/Button-caidan",
+    "targetValue": "UI_PalaceUI/shipei/dituxinxi/Button-caidan/Image-01",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "70,10",
+    "text": "点击『菜单』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        8
+      ]
+    ],
+    "refreshImage": "zhandou-main-caidan.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1539,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 7,
+    "targetClickValue": "UI_CellPhone/14",
+    "targetValue": "UI_CellPhone/14",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "shouji-mianju01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1551,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_CarryingPersonaView/youxia/qianghua",
+    "targetValue": "UI_CarryingPersonaView/youxia/qianghua/wenben",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-130,10",
+    "text": "选择『强化』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "persona-new-qianghua.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1561,
+    "next": 1562,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_IntensifyPersonaView/youshipei/yangchengyou-zu/shengji/guaidao-02/cailiao/Image-cailiaodi/Button-notstorageIsOk",
+    "targetValue": "UI_IntensifyPersonaView/youshipei/yangchengyou-zu/shengji/guaidao-02/cailiao/Image-cailiaodi/Button-notstorageIsOk/items",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-200,0",
+    "text": "打开『强化材料』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "wuqi-new-btn-anniu.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1562,
+    "next": 1563,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_IntensifyPersonaView/zuoshipei/yangcheng-zuo/xuanzecailiao-zu/anjiedian/scroll-itemlis/Panel/template_new_1_0/item/itemposition/item-long/itemclick",
+    "targetValue": "UI_IntensifyPersonaView/zuoshipei/yangcheng-zuo/xuanzecailiao-zu/anjiedian/scroll-itemlis/Panel/template_new_1_0/item/itemposition/item-long/item-di",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "160,0",
+    "text": "点击『选择材料』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-renwu4.png",
+    "waitAni": 0,
+    "maskScale": "1.1,0.11,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1563,
+    "next": 1564,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_IntensifyPersonaView/zuoshipei/yangcheng-zuo/xuanzecailiao-zu/anjiedian/scroll-itemlis/Panel/template_new_1_0/item/itemposition/item-long/itemclick",
+    "targetValue": "UI_IntensifyPersonaView/zuoshipei/yangcheng-zuo/xuanzecailiao-zu/anjiedian/scroll-itemlis/Panel/template_new_1_0/item/itemposition/item-long/item-di",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "160,0",
+    "text": "长按『选择更多』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-renwu4.png",
+    "waitAni": 0,
+    "maskScale": "1.1,0.11,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1564,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_IntensifyPersonaView/youshipei/yangchengyou-zu/shengji/guaidao-02/cailiao/Image-cailiaodi/Button-notstorageIsOk",
+    "targetValue": "UI_IntensifyPersonaView/youshipei/yangchengyou-zu/shengji/guaidao-02/cailiao/Image-cailiaodi/Button-notstorageIsOk/items",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-190,0",
+    "text": "点击『强化』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "wuqi-new-btn-anniu.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1571,
+    "next": 1572,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PalaceUI/shipei/dituxinxi/Button-caidan",
+    "targetValue": "UI_PalaceUI/shipei/dituxinxi/Button-caidan/Image-01",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "70,10",
+    "text": "点击『菜单』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        8
+      ]
+    ],
+    "refreshImage": "zhandou-main-caidan.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1572,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 7,
+    "targetClickValue": "UI_CellPhone/13",
+    "targetValue": "UI_CellPhone/13",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "shouji-guaidao01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1581,
+    "next": 1582,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 7,
+    "targetClickValue": "UI_StrangeThiefMainInfo/1041",
+    "targetValue": "UI_StrangeThiefMainInfo/1041",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 1,
+    "textDeviation": "70,-40",
+    "text": "选择『路菲尔』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "Guaidao-new-pinzhi-touying.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1582,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_StrangeThiefMainInfo/youxiashipei/Gongneng-zu/Btn-chengzhang",
+    "targetValue": "UI_StrangeThiefMainInfo/youxiashipei/Gongneng-zu/Btn-chengzhang",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-100,0",
+    "text": "选择『成长』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "Guaidao-new-btn-chengzhang.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1591,
+    "next": 1592,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_StrangeThiefTrainView/youshipei/yangchengyou-zu/shengji/guaidao-02/you/Button-upgrade",
+    "targetValue": "UI_StrangeThiefTrainView/youshipei/yangchengyou-zu/shengji/guaidao-02/you/Button-upgrade/items",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-200,0",
+    "text": "点击『升级』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "wuqi-new-btn-anniu.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1592,
+    "next": 1593,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_StrangeThiefTrainView/zuoshipei/xuanzecailiao-zu/scroll-itemlis/Panel/template_new_1_2/item/itemposition/item-long/itemclick",
+    "targetValue": "UI_StrangeThiefTrainView/zuoshipei/xuanzecailiao-zu/scroll-itemlis/Panel/template_new_1_2/item/itemposition/item-long/item-di",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "230,0",
+    "text": "点击『选择材料』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-renwu4.png",
+    "waitAni": 0,
+    "maskScale": "1,0.11,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1593,
+    "next": 1594,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_StrangeThiefTrainView/zuoshipei/xuanzecailiao-zu/scroll-itemlis/Panel/template_new_1_2/item/itemposition/item-long/itemclick",
+    "targetValue": "UI_StrangeThiefTrainView/zuoshipei/xuanzecailiao-zu/scroll-itemlis/Panel/template_new_1_2/item/itemposition/item-long/item-di",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "230,0",
+    "text": "长按『选择更多』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-renwu4.png",
+    "waitAni": 0,
+    "maskScale": "1,0.11,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1594,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_StrangeThiefTrainView/youshipei/yangchengyou-zu/shengji/guaidao-02/you/Button-upgrade",
+    "targetValue": "UI_StrangeThiefTrainView/youshipei/yangchengyou-zu/shengji/guaidao-02/you/Button-upgrade/items",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-200,0",
+    "text": "点击『升级』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "wuqi-new-btn-anniu.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1601,
+    "next": 1602,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_MainUI/youxia/Button-shouji",
+    "targetValue": "UI_MainUI/youxia/Button-shouji/Image (1)",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-200,30",
+    "text": "点击『菜单』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        8
+      ]
+    ],
+    "refreshImage": "zhujiemianmtusu-caidan-01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1602,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 7,
+    "targetClickValue": "UI_CellPhone/16",
+    "targetValue": "UI_CellPhone/16",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "shouji-huoban01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1611,
+    "next": 1612,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_CoopMainView/youshipei-zu/anniu-zu/btn-jiangli",
+    "targetValue": "UI_CoopMainView/youshipei-zu/anniu-zu/btn-jiangli",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-100,10",
+    "text": "点击『奖励』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "huoban-zhuye-bt-jiangpin02.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1612,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_CoopRankView/youshipei-zu/xinxi-zu/jiangli-zu/jiangli-daoju/lingqu/image-lingqu",
+    "targetValue": "UI_CoopRankView/youshipei-zu/xinxi-zu/jiangli-zu/jiangli-daoju/lingqu/image-lingqu/ok1",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-170,-20",
+    "text": "点击『领取』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "huoban-jiangli-liangqu01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1621,
+    "next": 1622,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_MainUI/youxia/Button-shouji",
+    "targetValue": "UI_MainUI/youxia/Button-shouji/Image (1)",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-200,30",
+    "text": "点击『菜单』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        1,
+        15
+      ],
+      [
+        2,
+        8
+      ]
+    ],
+    "refreshImage": "zhujiemianmtusu-caidan-01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1622,
+    "next": 1623,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 7,
+    "targetClickValue": "UI_CellPhone/13",
+    "targetValue": "UI_CellPhone/13",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 0,
+    "textDeviation": "",
+    "text": "",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "shouji-guaidao01.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1623,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_StrangeThiefMainInfo/youxiashipei/Gongneng-zu/Btn-wuqi",
+    "targetValue": "UI_StrangeThiefMainInfo/youxiashipei/Gongneng-zu/Btn-wuqi",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-100,0",
+    "text": "选择『武器』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "Guaidao-new-btn-wuqi.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1631,
+    "next": 1632,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_WeaponMainView/mingchengxinxi/anjiedian/gongnenganniu/Button-wuqiku",
+    "targetValue": "UI_WeaponMainView/mingchengxinxi/anjiedian/gongnenganniu/Button-wuqiku",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-200,10",
+    "text": "查看『武器库』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-anniu-dadi.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1632,
+    "next": 1633,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_WeaponMainView/zhuangbei-liebiao/scroll-xuanxiang/Panel/template_new_1_0/card/item/itemclick",
+    "targetValue": "UI_WeaponMainView/zhuangbei-liebiao/scroll-xuanxiang/Panel/template_new_1_0/card/item/itemclick",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "200,0",
+    "text": "选择『紫色武器』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "daojudi-new-zi.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1633,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_WeaponMainView/mingchengxinxi/anjiedian/gongnenganniu/Button-tihuan",
+    "targetValue": "UI_WeaponMainView/mingchengxinxi/anjiedian/gongnenganniu/Button-tihuan",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 2,
+    "textDeviation": "-190,0",
+    "text": "进行『替换』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-anniu-dadi.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1641,
+    "next": 1642,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_PersonaMainView/zu1/Button-shenpan",
+    "targetValue": "UI_PersonaMainView/zu1/Button-shenpan",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "100,0",
+    "text": "『取得』人格面具",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "persona-new-kongjian-1.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1642,
+    "next": 1643,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_CompositePersonaView/xinximianbanzu/mianju/mianju-list/Panel/template_new_1_0/btn-click",
+    "targetValue": "UI_CompositePersonaView/xinximianbanzu/mianju/mianju-list/Panel/template_new_1_0/btn-click",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "100,0",
+    "text": "选择『人格面具』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "common-renwu4.png",
+    "waitAni": 0,
+    "maskScale": "1.2,0.14,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1643,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_CompositePersonaView/button-hecheng",
+    "targetValue": "UI_CompositePersonaView/button-hecheng/Image-heidi",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "200,0",
+    "text": "点击『合成』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "persona-new-kongjian-1.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  },
+  {
+    "sn": 1653,
+    "next": -1,
+    "forceAndMask": 2,
+    "pauseGame": 0,
+    "targetType": 1,
+    "targetClickValue": "UI_CompositePersonaView/xinximianbanzu/mianju/mianju-list/Panel/template_new_1_0/btn-chakan",
+    "targetValue": "UI_CompositePersonaView/xinximianbanzu/mianju/mianju-list/Panel/template_new_1_0/btn-chakan/Image",
+    "effects": 0,
+    "effectsDeviation": "",
+    "icon": 0,
+    "iconDeviation": "",
+    "textFrame": 3,
+    "textDeviation": "50,0",
+    "text": "点击『查看』",
+    "image": "",
+    "imageDeviation": "",
+    "voice": "",
+    "completeType": [
+      0
+    ],
+    "completeParam": [],
+    "KeyNameSn": [
+      [
+        0
+      ]
+    ],
+    "refreshImage": "guaidao-fangdajing.png",
+    "waitAni": 0,
+    "maskScale": "1,1,1",
+    "maskPos": "0,0",
+    "maskRot": "0,0,0",
+    "mutexSkip": 0,
+    "lockMove": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "sn": 1,
+    "size": [
+      6,
+      6
+    ],
+    "beginpos": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1,
+    "chessSn": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "destination": [
+      6,
+      6
+    ],
+    "destEffect": "light_sample.prefab",
+    "faceToAngle": 0,
+    "cam": ""
+  },
+  {
+    "sn": 2,
+    "size": [
+      8,
+      8
+    ],
+    "beginpos": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1,
+    "chessSn": [
+      6,
+      7
+    ],
+    "destination": [
+      8,
+      8
+    ],
+    "destEffect": "light_sample.prefab",
+    "faceToAngle": 0,
+    "cam": ""
+  },
+  {
+    "sn": 100,
+    "size": [
+      5,
+      5
+    ],
+    "beginpos": [
+      77.2781,
+      50.3101,
+      146.4881
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "destination": [
+      1,
+      3
+    ],
+    "destEffect": "light_sample.prefab",
+    "faceToAngle": 0,
+    "cam": ""
+  },
+  {
+    "sn": 101,
+    "size": [
+      5,
+      5
+    ],
+    "beginpos": [
+      122.9678,
+      50.317,
+      181.245
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      101,
+      102
+    ],
+    "destination": [
+      1,
+      3
+    ],
+    "destEffect": "light_sample.prefab",
+    "faceToAngle": 0,
+    "cam": "chess"
+  }
+]

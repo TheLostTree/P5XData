@@ -1,0 +1,70 @@
+[
+  {
+    "sn": 2,
+    "gradeBox": "chouka-new-wuqixingji-1.png",
+    "weaponColorOne": "#a8a8a8",
+    "weaponColorTwo": "#64c92a",
+    "characterColor": "#e5e5e5",
+    "characterNamePic": "chouka-wuqi-mingzidi-yin.png",
+    "characterStarPic": [
+      "common-new-xingxing-yin.png"
+    ],
+    "weaponGradePic": "chuka-danchoudi2.png",
+    "anim": "lan",
+    "effect": "",
+    "color": "#92949b",
+    "sound": "Anim0063"
+  },
+  {
+    "sn": 3,
+    "gradeBox": "chouka-new-wuqixingji-1.png",
+    "weaponColorOne": "#0072D6",
+    "weaponColorTwo": "#178df5",
+    "characterColor": "#e5e5e5",
+    "characterNamePic": "chouka-wuqi-mingzidi-yin.png",
+    "characterStarPic": [
+      "common-new-xingxing-yin.png"
+    ],
+    "weaponGradePic": "chuka-danchoudi3.png",
+    "anim": "lan",
+    "effect": "",
+    "color": "#00a835",
+    "sound": "Anim0064"
+  },
+  {
+    "sn": 4,
+    "gradeBox": "chouka-new-wuqixingji-2.png",
+    "weaponColorOne": "#c900e4",
+    "weaponColorTwo": "#db2ff7",
+    "characterColor": "#e5e5e5",
+    "characterNamePic": "chouka-wuqi-mingzidi-jin.png",
+    "characterStarPic": [
+      "common-new-xingxing-jin.png"
+    ],
+    "weaponGradePic": "chuka-danchoudi4.png",
+    "anim": "zi",
+    "effect": "chouka_pingzhise01.prefab",
+    "color": "#a725f9",
+    "sound": "Anim0065"
+  },
+  {
+    "sn": 5,
+    "gradeBox": "chouka-new-wuqixingji-3.png",
+    "weaponColorOne": "#E9CB2F",
+    "weaponColorTwo": "#F9D829",
+    "characterColor": "#caf2ff",
+    "characterNamePic": "chouka-wuqi-mingzidi-cai.png",
+    "characterStarPic": [
+      "common-new-xingxing-zuan01.png",
+      "common-new-xingxing-zuan02.png",
+      "common-new-xingxing-zuan03.png",
+      "common-new-xingxing-zuan04.png",
+      "common-new-xingxing-zuan05.png"
+    ],
+    "weaponGradePic": "chuka-danchoudi5.png",
+    "anim": "cheng",
+    "effect": "chouka_pingzhise_cai.prefab",
+    "color": "#f1b500",
+    "sound": "Anim0066"
+  }
+]

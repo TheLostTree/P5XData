@@ -1,0 +1,6267 @@
+[
+  {
+    "sn": "f1000",
+    "formula": "-GJa*(skillLv*0.05+0.55)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f14131",
+    "formula": "1.4031f*GJa*(skillLv*0.05+0.55)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f14141",
+    "formula": "1.5508f*GJa*(skillLv*0.05+0.55)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f14151",
+    "formula": "1.6985f*GJa*(skillLv*0.05+0.55)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f14161",
+    "formula": "1.8462f*GJa*(skillLv*0.05+0.55)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f14171",
+    "formula": "0.7015f*GJa*(skillLv*0.05+0.55)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f14181",
+    "formula": "0.7754f*GJa*(skillLv*0.05+0.55)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f14191",
+    "formula": "0.8492f*GJa*(skillLv*0.05+0.55)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f14201",
+    "formula": "0.9231f*GJa*(skillLv*0.05+0.55)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f101011",
+    "formula": "-(0.12f+SKPMIa)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f101012",
+    "formula": "0.3f+SKPMIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f101112",
+    "formula": "(41.17f+skillLv*3.74f)/3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f101113",
+    "formula": "-(41.17f+skillLv*3.74f)*GJa/300",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f101114",
+    "formula": "isMainTarget?0.5f:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f101121",
+    "formula": "-(59.02f+skillLv*5.37f)*GJa/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f101122",
+    "formula": "59.02+skillLv*5.37",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f101131",
+    "formula": "-GJa*(skillLv*0.05+0.55)*0.643f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f101132",
+    "formula": "(0.0816f+skillLv*0.0074f)*AIDuiXiangNum*GJa*2",
+    "param": "10113",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f101133",
+    "formula": "(skillLv*5+55)*0.643f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f101134",
+    "formula": "(8.16f+skillLv*0.74f)*2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f101135",
+    "formula": "campBuffTagNumb>0?1:0",
+    "param": "16",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f102911",
+    "formula": "(lvb-lva)>=0?(0.26*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.26*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f103011",
+    "formula": "(lvb-lva)>=0?(0.13*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.13*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f103111",
+    "formula": "(lvb-lva)>=0?(0.22*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.22*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f103211",
+    "formula": "(lvb-lva)>=0?(0.11*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.11*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f103311",
+    "formula": "(lvb-lva)>=0?(0.34*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.34*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f103411",
+    "formula": "(lvb-lva)>=0?(0.17*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.17*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f103511",
+    "formula": "(lvb-lva)>=0?(0.17*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.17*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f130111",
+    "formula": "(lvb-lva)>=0?(0.18*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.18*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f130211",
+    "formula": "(lvb-lva)>=0?(0.09*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.09*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f130311",
+    "formula": "(lvb-lva)>=0?(0.22*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.22*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f130411",
+    "formula": "(lvb-lva)>=0?(0.11*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.11*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f130511",
+    "formula": "(lvb-lva)>=0?(0.28*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.28*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f130611",
+    "formula": "(lvb-lva)>=0?(0.14*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.14*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f130711",
+    "formula": "(lvb-lva)>=0?(0.36*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.36*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f130811",
+    "formula": "(lvb-lva)>=0?(0.18*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.18*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f151111",
+    "formula": "HPcurb/HPb<=f151041?(0.969f*GJa+(HPb-HPcurb)*0.2f)*(1.15f+unitBuffSnNuma*0.15f):0.969f*GJa+(HPb-HPcurb)*0.2f",
+    "param": "151021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f151211",
+    "formula": "HPcurb/HPb<=f151041?6.03f*GJa*(1.15f+unitBuffSnNuma*0.15f):6.03f*GJa",
+    "param": "151021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f151041",
+    "formula": "0.3f+0.2f*unitBuffSnNuma",
+    "param": "151041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f151072",
+    "formula": "0.1f*HPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f151071",
+    "formula": "HPcurb/HPb<1?1:f151074",
+    "param": "151071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f151073",
+    "formula": "HPcurb/HPb==1?unitBuffSnNuma:0",
+    "param": "151071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f151074",
+    "formula": "unitBuffSnNuma==1?0:1",
+    "param": "151071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f115111",
+    "formula": "-(34.54f+skillLv*3.14f)/100*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f115112",
+    "formula": "34.54f+skillLv*3.14f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f115121",
+    "formula": "0.5f+unitBuffSnNuma*0.3f",
+    "param": "115021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f115122",
+    "formula": "isCurEffectCrit?1:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f115123",
+    "formula": "-(68.75f+skillLv*6.25f)/100*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f115124",
+    "formula": "68.75f+skillLv*6.25f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f115131",
+    "formula": "(unitBuffTagNumb<=4?-GJa*(1-0.3f*(unitBuffTagNumb-1)):-0.1f*GJa)*f115132",
+    "param": "22",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f115132",
+    "formula": "(skillLv*0.05+0.55)*49.3",
+    "param": "1",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f126111",
+    "formula": "79.2+skillLv*7.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f126131",
+    "formula": "((0.06f+1.2f*XGMZa/6.5f)<=(0.066f+skillLv*0.006f))?(0.06f+1.2f*XGMZa/6.5f):(0.066f+skillLv*0.006f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f126132",
+    "formula": "unitBuffSnNuma",
+    "param": "126131",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f126133",
+    "formula": "64.9+skillLv*5.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f126134",
+    "formula": "6.6f+skillLv*0.6f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f126135",
+    "formula": "((0.06f+1.2f*XGMZa/6.5f)<=(0.066f+skillLv*0.006f))?-(0.06f+1.2f*XGMZa/6.5f):-(0.066f+skillLv*0.006f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1260121",
+    "formula": "unitBuffTagNuma+1",
+    "param": "23",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f115011",
+    "formula": "unitBuffSnNuma",
+    "param": "115011",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f115041",
+    "formula": "unitBuffSnNuma",
+    "param": "115041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1150111",
+    "formula": "-(0.041f+f115041*0.008f)*GJa-((unitBuffSnNuma<1)?0:((HPb-HPcurb)/HPb*0.006f))",
+    "param": "115071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1150121",
+    "formula": "-(0.041f+f115041*0.008f)*GJa-((unitBuffSnNuma<1)?0:((HPb-HPcurb)/HPb*0.006f))",
+    "param": "115071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1150411",
+    "formula": "-2.1f*GJa*((unitBuffSnNuma<1)?1:(1+(HPb-HPcurb)/HPb*0.006f))",
+    "param": "115071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1150421",
+    "formula": "2.1f*f115131*((unitBuffSnNuma<1)?1:(1+(HPb-HPcurb)/HPb*0.006f))",
+    "param": "115071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f124113",
+    "formula": "unitBuffTagNumb>2?2:unitBuffTagNumb",
+    "param": "1",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f124114",
+    "formula": "69.1+skillLv*6.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f124123",
+    "formula": "unitBuffTagNumb>1?1:unitBuffTagNumb",
+    "param": "2",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f124124",
+    "formula": "26+skillLv*2.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1240111",
+    "formula": "(0.413+0.107*unitBuffSnNuma)*GJa",
+    "param": "124021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1240112",
+    "formula": "unitBuffTagNumb>0?1:0",
+    "param": "1",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1240113",
+    "formula": "unitBuffTagNumb>0?1:0",
+    "param": "2",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1240121",
+    "formula": "unitBuffTagNumb>f1240113?f1240113:unitBuffTagNumb",
+    "param": "2",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f135111",
+    "formula": "(HPa-HPcura)/HPa>=0.7f?(-(0.233f+0.021f*skillLv)*HPa*1.5f):-(0.233f+0.021f*skillLv)*HPa*(1+(HPa-HPcura)/HPa*0.71428f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f135112",
+    "formula": "(0.55+0.05*skillLv)*42.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f135121",
+    "formula": "((0.126+0.011*skillLv))*HPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f135122",
+    "formula": "12.6+skillLv*1.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f135131",
+    "formula": "((0.20+0.018*skillLv))*HPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f135132",
+    "formula": "20.0+skillLv*1.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f135011",
+    "formula": "0.084f*HPa+unitBuffSnNuma*0.042f*HPa",
+    "param": "135041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f135071",
+    "formula": "0.05f*HPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f139121",
+    "formula": "58.3+skillLv*5.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f125111",
+    "formula": "-GJa*((HPb-HPcurb)/HPb>0.5?1.1f+0.1f*unitBuffSnNuma:1f)",
+    "param": "125021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f125041",
+    "formula": "HPcurb/HPb<0.05f+0.05f*unitBuffSnNuma?1:0",
+    "param": "125071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f153011",
+    "formula": "(1f+unitBuffSnNuma*0.5f)*GJa",
+    "param": "153021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f161011",
+    "formula": "0.15f+0.15f*unitBuffSnNuma",
+    "param": "161021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f161071",
+    "formula": "unitBuffTagNumb>=1?1:0",
+    "param": "9",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f162111",
+    "formula": "0.6f+unitBuffSnNuma*0.1f",
+    "param": "162021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f162131",
+    "formula": "unitBuffTagNumb>=1?f162132:f162111",
+    "param": "9",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f162132",
+    "formula": "0.5f+unitBuffSnNuma*0.5f",
+    "param": "162071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f152111",
+    "formula": "-2f*GJa*(1+unitBuffSnNumb)-f152011*GJa",
+    "param": "152121",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f152121",
+    "formula": "-2f*GJa-f152011*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f152011",
+    "formula": "(0.6f+unitBuffSnNuma*0.3f)",
+    "param": "152041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f152071",
+    "formula": "0.15f*HPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f152072",
+    "formula": "unitBuffSnNuma",
+    "param": "152071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f152021",
+    "formula": "-0.15",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f159131",
+    "formula": "-(44.2f+3.69f*(skillLv-1))/100*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f111",
+    "formula": "skillLv*6.5+71.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f102",
+    "formula": "skillLv*7.1+78.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f103",
+    "formula": "skillLv*7.8+86",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f104",
+    "formula": "skillLv*8.5+93.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f105",
+    "formula": "skillLv*3.2+35.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f106",
+    "formula": "skillLv*3.6+39.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f107",
+    "formula": "skillLv*3.9+43",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f108",
+    "formula": "skillLv*4.2+46.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f201",
+    "formula": "skillLv*6.5+71.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f202",
+    "formula": "skillLv*7.1+78.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f203",
+    "formula": "skillLv*7.8+86",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f204",
+    "formula": "skillLv*8.5+93.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f205",
+    "formula": "skillLv*3.2+35.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f206",
+    "formula": "skillLv*3.6+39.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f207",
+    "formula": "skillLv*3.9+43",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f208",
+    "formula": "skillLv*4.2+46.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f301",
+    "formula": "skillLv*6.5+71.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f302",
+    "formula": "skillLv*7.1+78.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f303",
+    "formula": "skillLv*7.8+86",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f304",
+    "formula": "skillLv*8.5+93.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f305",
+    "formula": "skillLv*3.2+35.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f306",
+    "formula": "skillLv*3.6+39.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f307",
+    "formula": "skillLv*3.9+43",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f308",
+    "formula": "skillLv*4.2+46.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f401",
+    "formula": "skillLv*5.9+65.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f402",
+    "formula": "skillLv*6.6+72.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f403",
+    "formula": "skillLv*7.2+78.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f404",
+    "formula": "skillLv*7.8+85.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f405",
+    "formula": "skillLv*3+32.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f406",
+    "formula": "skillLv*3.3+36",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f407",
+    "formula": "skillLv*3.6+39.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f408",
+    "formula": "skillLv*3.9+42.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f451",
+    "formula": "skillLv*6.5+71.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f452",
+    "formula": "skillLv*7.1+78.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f453",
+    "formula": "skillLv*7.8+86",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f454",
+    "formula": "skillLv*8.5+93.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f455",
+    "formula": "skillLv*3.2+35.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f456",
+    "formula": "skillLv*3.6+39.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f457",
+    "formula": "skillLv*3.9+43",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f458",
+    "formula": "skillLv*4.2+46.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f601",
+    "formula": "skillLv*6.3+69.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f602",
+    "formula": "skillLv*7+76.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f603",
+    "formula": "skillLv*7.6+84",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f604",
+    "formula": "skillLv*8.3+91.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f605",
+    "formula": "skillLv*3.2+34.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f606",
+    "formula": "skillLv*3.5+38.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f607",
+    "formula": "skillLv*3.8+42",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f608",
+    "formula": "skillLv*4.1+45.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f701",
+    "formula": "skillLv*7+77.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f702",
+    "formula": "skillLv*7.7+85.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f703",
+    "formula": "skillLv*8.5+93.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f704",
+    "formula": "skillLv*9.2+101.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f705",
+    "formula": "skillLv*3.5+38.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f706",
+    "formula": "skillLv*3.9+42.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f707",
+    "formula": "skillLv*4.2+46.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f708",
+    "formula": "skillLv*0.8+8.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f709",
+    "formula": "skillLv*5+55.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f710",
+    "formula": "skillLv*5.5+60.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f711",
+    "formula": "skillLv*2.5+27.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f712",
+    "formula": "skillLv*2.8+30.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f713",
+    "formula": "skillLv*3+33",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f801",
+    "formula": "skillLv*7+77.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f802",
+    "formula": "skillLv*7.7+85.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f803",
+    "formula": "skillLv*8.5+93.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f804",
+    "formula": "skillLv*9.2+101.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f805",
+    "formula": "skillLv*3.5+38.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f806",
+    "formula": "skillLv*3.9+42.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f807",
+    "formula": "skillLv*4.2+46.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f808",
+    "formula": "skillLv*4.6+50.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f809",
+    "formula": "skillLv*5+55.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f810",
+    "formula": "skillLv*5.5+60.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f811",
+    "formula": "skillLv*2.5+27.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f812",
+    "formula": "skillLv*2.8+30.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f813",
+    "formula": "skillLv*3+33",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f901",
+    "formula": "skillLv*5.6+61.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f902",
+    "formula": "skillLv*6.1+67.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f903",
+    "formula": "skillLv*6.7+73.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f904",
+    "formula": "skillLv*2.8+30.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f905",
+    "formula": "skillLv*3.1+33.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f906",
+    "formula": "skillLv*3.3+36.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f907",
+    "formula": "skillLv*4.1+45",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f908",
+    "formula": "skillLv*4.4+48.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f909",
+    "formula": "19+skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f910",
+    "formula": "31+skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1001",
+    "formula": "skillLv*6.3+69.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1002",
+    "formula": "skillLv*6.3+69.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1003",
+    "formula": "skillLv*7.4+81",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1004",
+    "formula": "skillLv*7.4+81",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1005",
+    "formula": "skillLv*8.6+94.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1006",
+    "formula": "skillLv*9.6+105.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1007",
+    "formula": "skillLv*9.6+105.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1008",
+    "formula": "skillLv*9.6+105.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1009",
+    "formula": "skillLv*9.6+105.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1010",
+    "formula": "skillLv*7.4+81",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011",
+    "formula": "skillLv*9.6+105.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1012",
+    "formula": "skillLv*8.1+89.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1013",
+    "formula": "skillLv*9.4+103",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1014",
+    "formula": "skillLv*3.7+40.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1015",
+    "formula": "skillLv*2.9+31.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1016",
+    "formula": "skillLv*3.4+37.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1017",
+    "formula": "skillLv*4.3+47.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1018",
+    "formula": "skillLv*3.2+35.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1019",
+    "formula": "skillLv*3.7+40.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1020",
+    "formula": "skillLv*3.7+40.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1021",
+    "formula": "skillLv*4.3+47.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1022",
+    "formula": "skillLv*4.8+52.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1023",
+    "formula": "skillLv*4.8+52.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1025",
+    "formula": "skillLv*1.1+11.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1026",
+    "formula": "skillLv*2.9+31.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1027",
+    "formula": "skillLv*2.4+26.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1028",
+    "formula": "skillLv*0.6+6.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1029",
+    "formula": "skillLv*3.4+37",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1030",
+    "formula": "skillLv*1.8+20.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031",
+    "formula": "skillLv*3.7+40.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1032",
+    "formula": "skillLv*1.7+18.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1033",
+    "formula": "skillLv*3.7+40.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1034",
+    "formula": "skillLv*1.7+18.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1035",
+    "formula": "skillLv*2+22",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1036",
+    "formula": "skillLv*9.6+105.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1037",
+    "formula": "skillLv*6.3+69.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1038",
+    "formula": "skillLv*1.8+20.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1101",
+    "formula": "skillLv*5.9+64.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1102",
+    "formula": "skillLv*7.6+83.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1103",
+    "formula": "skillLv*1.4+15.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1104",
+    "formula": "skillLv*4.5+49.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1413",
+    "formula": "skillLv*7+77.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1414",
+    "formula": "skillLv*7.8+85.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1415",
+    "formula": "skillLv*8.5+93.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1416",
+    "formula": "skillLv*9.2+101.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1417",
+    "formula": "skillLv*3.5+38.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1418",
+    "formula": "skillLv*3.9+42.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1419",
+    "formula": "skillLv*4.2+46.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1420",
+    "formula": "skillLv*4.6+50.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1501",
+    "formula": "skillLv*7.8+85.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1502",
+    "formula": "skillLv*8.5+93.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1503",
+    "formula": "skillLv*9.2+101.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1505",
+    "formula": "skillLv*3.9+42.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1506",
+    "formula": "skillLv*4.2+46.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1507",
+    "formula": "skillLv*4.6+50.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f89412",
+    "formula": "0.03f*SPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f89422",
+    "formula": "0.06f*SPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f89432",
+    "formula": "0.07f*SPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f89442",
+    "formula": "0.08f*SPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f172011",
+    "formula": "(lvb-lva)>=0?((0.5f+unitBuffSnNuma*0.1f)*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((0.5f+unitBuffSnNuma*0.1f)*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "172041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f172071",
+    "formula": "(0.14f+unitBuffSnNuma*0.035f)*(-1f)",
+    "param": "172071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f172131",
+    "formula": "-GJa*(37f+3.08f*(skillLv-1))/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f172132",
+    "formula": "37f+3.1f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f137111",
+    "formula": "84.1+skillLv*7.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f137132",
+    "formula": "f53*(1f+f137021+f137022)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f137021",
+    "formula": "unitBuffSnNuma*0.1f",
+    "param": "137021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f137022",
+    "formula": "unitBuffTagNumb>=4?(0.30f+f137023)*4:(0.30f+f137023)*unitBuffTagNumb",
+    "param": "4",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f137023",
+    "formula": "unitBuffSnNuma*0.1f",
+    "param": "137041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f137112",
+    "formula": "unitBuffTagNumb>=3?3:unitBuffTagNumb",
+    "param": "3",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f139012",
+    "formula": "0.13f+f139011+0.04f*unitBuffSnNuma",
+    "param": "139021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f139011",
+    "formula": "0.07f*unitBuffSnNuma",
+    "param": "139041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f173011",
+    "formula": "0.07f+unitBuffSnNuma*0.03f",
+    "param": "173041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f173071",
+    "formula": "0.97f-unitBuffSnNuma*0.02f",
+    "param": "173071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f173131",
+    "formula": "(17.69f+skillLv*1.61f)/100*HPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f173132",
+    "formula": "17.69+skillLv*1.61",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f173133",
+    "formula": "(11.79f+skillLv*1.07f)/100*HPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f173134",
+    "formula": "11.79+skillLv*1.07",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f174011",
+    "formula": "(lvb-lva)>=0?((0.5f+unitBuffSnNuma*0.1f)*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((0.5f+unitBuffSnNuma*0.1f)*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "174041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f174071",
+    "formula": "-0.14f-unitBuffSnNuma*0.035f",
+    "param": "174071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f174121",
+    "formula": "unitBuffTagNumb==0?1:0",
+    "param": "2",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f174122",
+    "formula": "unitBuffTagNumb>=1?1:0",
+    "param": "2",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f174131",
+    "formula": "-GJa*(38.4f+3.2f*(skillLv-1))/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f174132",
+    "formula": "(lvb-lva)>=0?(((30f+2.5f*(skillLv-1))/100)*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(((30f+2.5f*(skillLv-1))/100)*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f174133",
+    "formula": "38.4f+3.2f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f174134",
+    "formula": "30f+2.5f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f147011",
+    "formula": "unitBuffTagNumb<f147041?0:1",
+    "param": "14",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f147041",
+    "formula": "4f-unitBuffSnNuma*2f",
+    "param": "147041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f147071",
+    "formula": "0.084f+0.021f*unitBuffSnNuma",
+    "param": "147071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f147121",
+    "formula": "-GJa*((91.5f+7.62f*(skillLv-1))/100)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f147122",
+    "formula": "91.5f+7.6f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f148011",
+    "formula": "0.032f+f148071",
+    "param": "148041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f148041",
+    "formula": "0.8f+unitBuffSnNuma*0.2f",
+    "param": "148041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f148071",
+    "formula": "0.008f*unitBuffSnNuma",
+    "param": "148071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f149011",
+    "formula": "5f+2f*unitBuffSnNuma",
+    "param": "149041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f149111",
+    "formula": "-(42.9f+3.58f*(skillLv-1))/100*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f149112",
+    "formula": "42.9f+3.6f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f149131",
+    "formula": "HPcurb/HPb<=0.4?1:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f149132",
+    "formula": "-(HPb-HPcurb)*(12f+1f*(skillLv-1))/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f149133",
+    "formula": "-(71.8f+5.98f*(skillLv-1))/100*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f149134",
+    "formula": "71.8f+6f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f149135",
+    "formula": "12f+1f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f159011",
+    "formula": "0.22f+0.04f*unitBuffSnNuma",
+    "param": "159041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f159132",
+    "formula": "44.2f+3.7f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f159071",
+    "formula": "unitBuffTagNumb>=1?1:0",
+    "param": "8",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f175111",
+    "formula": "GJa*(-(42.17f+skillLv*3.83f)/100)*(1.08f+0.02f*unitBuffSnNuma)",
+    "param": "175071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f175113",
+    "formula": "0.2f+0.1f+0.03f*unitBuffSnNuma",
+    "param": "175041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f175114",
+    "formula": "42.17+skillLv*3.83",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f175131",
+    "formula": "isMainTarget?(f175133==1?(f175132+1+ZCSHa)/(1+ZCSHa)*0.655f*f1000*(1.08f+0.02f*unitBuffSnNuma):0.655f*f1000*(1.08f+0.02f*unitBuffSnNuma)):(0.655f*f1000)",
+    "param": "175071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f175132",
+    "formula": "0.1f+0.03f*unitBuffSnNuma",
+    "param": "175041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f175133",
+    "formula": "unitBuffTagNumb>=1?1:0",
+    "param": "9",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f175011",
+    "formula": "unitBuffTagNumb>=1?f175071:0",
+    "param": "9",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f175071",
+    "formula": "unitBuffSnNuma==1?f175072:0.1f",
+    "param": "175071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f175072",
+    "formula": "0.1f+unitBuffSnNumb*0.1f",
+    "param": "175111",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f175112",
+    "formula": "unitBuffTagNumb>=1?1:0",
+    "param": "9",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f118011",
+    "formula": "0.5f+unitBuffSnNuma*0.1f+f118073",
+    "param": "118041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f118071",
+    "formula": "(0.12f+0.04f*unitBuffSnNuma+f118072)*HPb",
+    "param": "118071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f118072",
+    "formula": "unitBuffSnNuma*0.03f",
+    "param": "118041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f118073",
+    "formula": "unitBuffSnNuma*0.2f",
+    "param": "118071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f176011",
+    "formula": "0.015f+0.003f*unitBuffSnNuma",
+    "param": "176041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f176012",
+    "formula": "0.075f+0.013f*unitBuffSnNuma",
+    "param": "176041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f176013",
+    "formula": "(0.08f+0.02f*unitBuffSnNuma)*HPb",
+    "param": "176041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f132012",
+    "formula": "(lvb-lva)>=0?((0.8f+0.2f*unitBuffSnNuma)*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((0.8f+0.2f*unitBuffSnNuma)*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "132041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f132011",
+    "formula": "-unitBuffSnNuma*0.02f-0.1f",
+    "param": "132071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f140011",
+    "formula": "(0.042f+0.01f*unitBuffSnNuma)*(-HPb)",
+    "param": "140071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f140012",
+    "formula": "0.8f+0.2f*unitBuffSnNuma",
+    "param": "140041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f140013",
+    "formula": "(0.336f+unitBuffSnNuma*0.08f)*(-GJa)",
+    "param": "140071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f113131",
+    "formula": "((15.5f+1.28f*(skillLv-1))/100)*HPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f113135",
+    "formula": "15.5f+1.3f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f127041",
+    "formula": "-0.035f*unitBuffSnNuma-0.07f",
+    "param": "127071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f121041",
+    "formula": "0.15f*HPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f123011",
+    "formula": "-0.15f-0.1f*unitBuffSnNuma",
+    "param": "123071",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f123012",
+    "formula": "0.5f+0.5f*unitBuffSnNuma",
+    "param": "123041",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f123111",
+    "formula": "-((50.8f+4.22f*(skillLv-1))/100)*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f123112",
+    "formula": "50.8f+4.2f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f123131",
+    "formula": "-((24.7f+2.06f*(skillLv-1))/100)*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f123132",
+    "formula": "24.7f+2.1f*(skillLv-1)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f123133",
+    "formula": "(lvb-lva)>=0?(0.06f*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.06f*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1217",
+    "formula": "(0.55f+0.05f*skillLv)*40.62",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1218",
+    "formula": "(0.55f+0.05f*skillLv)*55.38",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1219",
+    "formula": "(0.55f+0.05f*skillLv)*70.15",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1220",
+    "formula": "(0.55f+0.05f*skillLv)*84.92",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1221",
+    "formula": "(0.55f+0.05f*skillLv)*20.31",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1222",
+    "formula": "(0.55f+0.05f*skillLv)*27.69",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1223",
+    "formula": "(0.55f+0.05f*skillLv)*35.08",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1224",
+    "formula": "(0.55f+0.05f*skillLv)*42.46",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1225",
+    "formula": "(0.55f+0.05f*skillLv)*58.26",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1226",
+    "formula": "(0.55f+0.05f*skillLv)*73.03",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1227",
+    "formula": "(0.55f+0.05f*skillLv)*87.79",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1228",
+    "formula": "(0.55f+0.05f*skillLv)*102.56",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1229",
+    "formula": "(0.55f+0.05f*skillLv)*17.23",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1230",
+    "formula": "(0.55f+0.05f*skillLv)*32",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1231",
+    "formula": "(0.55f+0.05f*skillLv)*46.77",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1232",
+    "formula": "(0.55f+0.05f*skillLv)*61.54",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1233",
+    "formula": "(0.55f+0.05f*skillLv)*125.95",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1234",
+    "formula": "(0.55f+0.05f*skillLv)*140.72",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1235",
+    "formula": "(0.55f+0.05f*skillLv)*155.49",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1236",
+    "formula": "(0.55f+0.05f*skillLv)*170.26",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1237",
+    "formula": "(0.55f+0.05f*skillLv)*62.97",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1238",
+    "formula": "(0.55f+0.05f*skillLv)*70.36",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1239",
+    "formula": "(0.55f+0.05f*skillLv)*77.74",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1240",
+    "formula": "(0.55f+0.05f*skillLv)*85.13",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261119",
+    "formula": "(0.55f+0.05f*skillLv)*1.439*f21",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261319",
+    "formula": "(0.55f+0.05f*skillLv)*1.18*f21",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1241111",
+    "formula": "-(0.55f+0.05f*skillLv)*1.257*f21",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1241211",
+    "formula": "-(0.55f+0.05f*skillLv)*0.473*f21",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1371111",
+    "formula": "(0.55f+0.05f*skillLv)*1.529*f21",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1391231",
+    "formula": "(0.55f+0.05f*skillLv)*1.06",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f137131",
+    "formula": "-GJa*(skillLv*0.05+0.55)*0.907",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f137133",
+    "formula": "(skillLv*0.05+0.55)*0.907*100",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011010",
+    "formula": "-GJa*(lva*0.00511f+0.54f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011014",
+    "formula": "-GJa*(lva*0.00511f+0.54f)*0.9f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1000000",
+    "formula": "-GJa*(1.1f+0.1f*skillLv)/2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011011",
+    "formula": "Math.max(critAddSkillTimes*-0.35f,-0.7f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011012",
+    "formula": "Math.max(critAddSkillTimes*-0.6f,-BJa)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011111",
+    "formula": "-GJa*(79.2+skillLv*7.2)/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011112",
+    "formula": "(0.55+0.05*skillLv)*143.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1011121",
+    "formula": "isCurEffectCrit?1:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011122",
+    "formula": "-GJa*(17.3+skillLv*1.6)/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011123",
+    "formula": "(0.55+0.05*skillLv)*31.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1011131",
+    "formula": "(0.55+0.05*skillLv)*161",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1011132",
+    "formula": "(0.55+0.05*skillLv)*94.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1011311",
+    "formula": "AIDuiXiangNum*skillLv*3.5/3",
+    "param": "1011311",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011312",
+    "formula": "3.5/3*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011321",
+    "formula": "BJa/7.7*skillLv*0.07/3",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011322",
+    "formula": "7/3*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1011611",
+    "formula": "-GJa*(lva*0.0022f+0.9f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1021131",
+    "formula": "-GJa*(isMainTarget?(1+SKPMI):1)*((HPcurb/HPb)<0.5f?(SKPMIIa*0.059f+1):1)*(1.1f+0.1f*skillLv)/2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1021133",
+    "formula": "SKPMIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1021135",
+    "formula": "disperseBuffNum*0.22f",
+    "param": "1021021",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1021311",
+    "formula": "(HPcura/HPa)>0.7f?(0.043f*skillLv):0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1021401",
+    "formula": "AIDuiXiangNum*0.077f",
+    "param": "1021401",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1021402",
+    "formula": "AIDuiXiangNum*0.077f",
+    "param": "1021402",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1021611",
+    "formula": "(0.4f+1.2f*BJa)*1",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041111",
+    "formula": "-GJa*((HPcurb/HPb)<0.5f?(1.11f+0.01f*skillLv):1)*(1.1f+0.1f*skillLv)/2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041122",
+    "formula": "-GJa*((100.1-89.1)/8*skillLv+(89.1-(100.1-89.1)/8))",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1041121",
+    "formula": "(lvb-lva)>=0?((0.4375+0.0625*skillLv)*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((0.4375+0.0625*skillLv)*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041131",
+    "formula": "-GJa*(isMainTarget?(1.16f+0.01f*skillLv):1)*(1.1f+0.1f*skillLv)/2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041402",
+    "formula": "-GJa*(((HPcurb/HPb)<0.5f)?((LuFeiErCHDeliverCount>5)?(1+WPPMIa*(0.065f+weaponRefineCounta*0.05225f)):1):1)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041310",
+    "formula": "0.5*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041311",
+    "formula": "Math.floor(HPa/1000)*0.005f*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041320",
+    "formula": "10+30*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041321",
+    "formula": "0.1f+0.3f*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041401",
+    "formula": "1+SKPMIIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041403",
+    "formula": "0.03f+SKPMIVa*Math.min(LuFeiErCHDeliverCount*0.006f,0.06f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1061611",
+    "formula": "24",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1071031",
+    "formula": "((HPcurb/HPb<0.3)?(1+SKPMIa):1)*(-GJa)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1071051",
+    "formula": "(unitBuffTagNumb>0)?0.014:0",
+    "param": "1",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1071121",
+    "formula": "(2.224*GJa+WPPMIa*WPPMIIa*HPcura)*((HPcurb/HPb<0.3)?(1+SKPMIa):1)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1071123",
+    "formula": "-WPPMIa*HPcura",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1071131",
+    "formula": "(HPcurb<=1)?0:(-HPcurb*(0.2f-SKPMIIa))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1071134",
+    "formula": "(GJa*(0.916f+SKPMIIIa)+WPPMIa*WPPMIIa*HPcura*0.5)*((HPcurb/HPb<0.3)?(1+SKPMIa):1)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1071311",
+    "formula": "GJa*((HPcurb/HPb<0.3)?(1+SKPMIa):1)*(0.3f+0.2f*AIDuiXiangNum)",
+    "param": "1071311",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131121",
+    "formula": "1.928*FYa*(1.1f+0.1f*skillLv)/2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131132",
+    "formula": "-FYa*(1.15f+0.23f*(disperseBuffNum+WPPMIa*2))*(1.1f+0.1f*skillLv)/2",
+    "param": "1131130",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131311",
+    "formula": "Math.min(1,FYa/2086)*0.021*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131321",
+    "formula": "(0.332f)*FYa*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131402",
+    "formula": "(unitBuffSnNuma>0)?(FYa*0.48):(FYa*0.24)",
+    "param": "1131122",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131403",
+    "formula": "AIDuiXiangNum",
+    "param": "1131403",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131411",
+    "formula": "unitBuffTagNuma*0.01f",
+    "param": "13",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131462",
+    "formula": "Math.min((0.0033f*(f1131463+f1131464)+0.033f),0.066f)*AIDuiXiangNum",
+    "param": "1131462",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131463",
+    "formula": "AIDuiXiangBuffTagNum",
+    "param": "1131405,13",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131464",
+    "formula": "AIDuiXiangBuffTagNum",
+    "param": "1131464,13",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131401",
+    "formula": "0.3f+WPPMIa*(0.1f+weaponRefineCounta*0.05f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132011",
+    "formula": "-GJa*(isMainTarget?1.35f:1)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132021",
+    "formula": "(0.1f+SKPMIVa+(f1132322+f1132323+f1132324)*(0.03f+SKPMVIa))*Math.max(1,SKPMIIIa)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132031",
+    "formula": "0.1f+SKPMVa+(f1132322+f1132323+f1132324)*(0.03f+SKPMVIa)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132062",
+    "formula": "(f1132063+f1132064+f1132065)*SKPMVIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132063",
+    "formula": "disperseBuffNum",
+    "param": "1132130",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132064",
+    "formula": "disperseBuffNum",
+    "param": "1132511",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132065",
+    "formula": "disperseBuffNum",
+    "param": "1132521",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132111",
+    "formula": "-FYa*(isMainTarget?(SKPMIa>0?(SKPMIa*0.5f+1.35f):1.35f):1)*(1.1f+0.1f*skillLv)/2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132123",
+    "formula": "SKPMIa>1?1:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132131",
+    "formula": "f1132063+f1132064+f1132065",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132311",
+    "formula": "SKPMIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132321",
+    "formula": "Math.max(unitBuffTagNuma-f1132322-f1132323-f1132324,0)>0?1.6f:1",
+    "param": "3",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132322",
+    "formula": "unitBuffSnNuma",
+    "param": "1132130",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132323",
+    "formula": "unitBuffSnNuma",
+    "param": "1132511",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132324",
+    "formula": "unitBuffSnNuma",
+    "param": "1132521",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1132511",
+    "formula": "Math.min(weakNum+killNum,1)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141021",
+    "formula": "0.15+SKPMIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141022",
+    "formula": "3+SKPMIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141024",
+    "formula": "(0.15+SKPMIIa)*SKPMIIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141071",
+    "formula": "-(0.07f+unitBuffTagNuma*0.021f)*GJa",
+    "param": "26",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141082",
+    "formula": "(unitBuffTagNuma>=5)?1:0",
+    "param": "26",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141111",
+    "formula": "3+SKPMIIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141112",
+    "formula": "4+SKPMIIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141113",
+    "formula": "(lvb-lva)>=0?((0.03f+skillLv*0.01f)*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((0.03f+skillLv*0.01f)*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141114",
+    "formula": "(0.55+0.05*skillLv)*22.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1141115",
+    "formula": "(campBuffTagNumb>0)?1:0",
+    "param": "11",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141116",
+    "formula": "-(12.4+skillLv*1.1)/100*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141121",
+    "formula": "4+SKPMIIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141122",
+    "formula": "(0.55+0.05*skillLv)*(101/4)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1141123",
+    "formula": "-GJa*f1141122",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141131",
+    "formula": "55.3+skillLv*5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1141132",
+    "formula": "-(55.3+skillLv*5)/100*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141311",
+    "formula": "0.2f/3*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141312",
+    "formula": "6.7f*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141321",
+    "formula": "AIDuiXiangNum*skillLv*0.004f+skillLv*0.008f",
+    "param": "3",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141322",
+    "formula": "0.8f*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1141323",
+    "formula": "0.4f*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1151051",
+    "formula": "Math.min(unitBuffTagNuma,6)*0.04",
+    "param": "13",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1151111",
+    "formula": "-GJa*(89.7+skillLv*8.2)/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1151112",
+    "formula": "(0.55+0.05*skillLv)*163.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1151121",
+    "formula": "unitBuffTagNuma*(3.8+skillLv*0.3)/100+(37.67+3.14*(skillLv-1))/100",
+    "param": "13",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1151122",
+    "formula": "3f-SKPMIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1151123",
+    "formula": "(0.55+0.05*skillLv)*62.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1151124",
+    "formula": "(0.55+0.05*skillLv)*7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1151131",
+    "formula": "-GJa*(f1151132+unitBuffTagNuma*f1151133)",
+    "param": "13",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1151132",
+    "formula": "(0.55+0.05*skillLv)*66.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1151133",
+    "formula": "(0.55+0.05*skillLv)*4.85",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1151311",
+    "formula": "0.333f*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1151312",
+    "formula": "100/3*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1151321",
+    "formula": "(campBuffTagNuma>=28-4*skillLv)?1:0",
+    "param": "13",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1151322",
+    "formula": "28-4*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161023",
+    "formula": "unitBuffSnNuma==1?1:0",
+    "param": "516531",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161041",
+    "formula": "-0.986f*FYa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161042",
+    "formula": "35+SKPMI*100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161051",
+    "formula": "(0.532f)*FYa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161101",
+    "formula": "-0.986f*FYa*0.6f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161111",
+    "formula": "(lvb-lva)>=0?((18.3+skillLv*1.7)/100*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((18.3+skillLv*1.7)/100*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161112",
+    "formula": "skillLv*(72.2-54.2)/8+(54.2-(72.2-54.2)/8)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1161113",
+    "formula": "skillLv*(33.3-20)/8+(20-(33.3-20)/8)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1161114",
+    "formula": "(-FYa*f1161112-GJa*f1161115)/3",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161115",
+    "formula": "skillLv*(24.2-18.2)/8+(18.2-(24.2-18.2)/8)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1161121",
+    "formula": "(0.55+0.05*skillLv)*55.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1161122",
+    "formula": "-f1161121*FYa-f1161123*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161123",
+    "formula": "(0.55+0.05*skillLv)*18.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1161131",
+    "formula": "f1161132*FYa+f1161133*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161132",
+    "formula": "skillLv*(81.9-35.1)/8+(35.1-(81.9-35.1)/8)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1161133",
+    "formula": "skillLv*(27.3-11.7)/8+(11.7-(27.3-11.7)/8)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1161311",
+    "formula": "AIDuiXiangNum*0.0233f*skillLv",
+    "param": "1161311",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161312",
+    "formula": "2.33f*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1161321",
+    "formula": "0.02f*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1161322",
+    "formula": "2f*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171112",
+    "formula": "(1+WPPMI)*((33.4+skillLv*3)/200+GJa/122*0.01f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171113",
+    "formula": "(33.4+skillLv*3)*0.5f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1171121",
+    "formula": "(1+WPPMI)*((39.9+skillLv*3.6)/200+GJa/102.23*0.01f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171122",
+    "formula": "(unitBuffSnNuma==1)?2:0",
+    "param": "1171411",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171123",
+    "formula": "(39.9+skillLv*3.6)*0.5f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1171131",
+    "formula": "0.203f*(1+WPPMI)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171132",
+    "formula": "AIDuiXiangAttr*(76.2+skillLv*6.9)/100",
+    "param": "9,260",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171133",
+    "formula": "76.2+skillLv*6.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1171311",
+    "formula": "skillLv*0.04",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171312",
+    "formula": "skillLv*4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171321",
+    "formula": "0.027*skillLv*SPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171322",
+    "formula": "0.027*skillLv*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171323",
+    "formula": "2.7*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1171402",
+    "formula": "(unitBuffSnNuma==1)?3:0",
+    "param": "1171431",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191111",
+    "formula": "-GJa*(SKPMIa>0?1.35f:1)*(1.1f+0.1f*skillLv)/2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191112",
+    "formula": "3+SKPMIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191121",
+    "formula": "-GJa*((HPcurb/HPb)>0.5f?1:(SKPMIa>0?1.5f:1))*(1.1f+0.1f*skillLv)/2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191132",
+    "formula": "-(SKPMIa>0?0.15f:0.02f)*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191311",
+    "formula": "unitBuffTagNumb>0?(0.21333f*skillLv):0",
+    "param": "9",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191321",
+    "formula": "SKPMVa>0?1:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191322",
+    "formula": "0.12*GJa*SKPMVa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191323",
+    "formula": "skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191401",
+    "formula": "Math.random()<SKPMIVa?1:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191402",
+    "formula": "xingBuffCount",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191403",
+    "formula": "SKPMIIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191405",
+    "formula": "WPPMIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191406",
+    "formula": "WPPMIIa*(0.062+weaponRefineCounta*0.05+Math.min(AIDuiXiangNum,3)*(0.0127+weaponRefineCounta*0.01))",
+    "param": "1191407",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191462",
+    "formula": "SKPMIVa>0?Math.min(0.12f,xingBuffCount*0.01f):0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1191611",
+    "formula": "(0.4f+1.2f*BJa)*3",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201021",
+    "formula": "(SKPMIa+1)*0.03f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201022",
+    "formula": "1f*(SKPMIIa+10)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201023",
+    "formula": "WPPMI+0.03f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201041",
+    "formula": "GJa*(unitBuffTagNuma*0.028)",
+    "param": "17",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201111",
+    "formula": "-GJa*(35+skillLv*3.2)/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201112",
+    "formula": "35+skillLv*3.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1201121",
+    "formula": "GJa*((54.3f+skillLv*4.9f)/100+unitBuffTagNuma*(1.7f+skillLv*0.2f)/100)",
+    "param": "17",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201122",
+    "formula": "98.7*(0.55+0.05*skillLv)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1201123",
+    "formula": "3.1*(0.55+0.05*skillLv)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1201131",
+    "formula": "-GJa*((81.5+skillLv*7.4)/100+unitBuffTagNuma*(1.8+skillLv*0.2)/100)*(1+Math.min(Math.min(0.15f*f46,0.15f)+Math.min(0.15f*f47,0.15f)+Math.min(0.15f*f48,0.15f)+Math.min(0.15f*f49,0.15f),0.3f))",
+    "param": "17",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201132",
+    "formula": "81.5+skillLv*7.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1201133",
+    "formula": "1.8+skillLv*0.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1201311",
+    "formula": "Math.min(800*skillLv,FYa*1)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201312",
+    "formula": "800*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201321",
+    "formula": "unitBuffTagNuma>9?1:0",
+    "param": "17",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201322",
+    "formula": "0.088/3*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1201323",
+    "formula": "2.9*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211021",
+    "formula": "1f*(SKPMIa+10)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211031",
+    "formula": "(-0.58f*GJa*(1+Math.min(0.2f,SKPMIIa)*(HPb-HPcurb)/HPb))*(1+WPPMIIa)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211032",
+    "formula": "10-WPPMIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211033",
+    "formula": "unitBuffTagNuma",
+    "param": "27",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211041",
+    "formula": "0.25f*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211111",
+    "formula": "(lvb-lva)>=0?((0.14f+0.02f*(skillLv-1))*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((0.14f+0.02f*(skillLv-1))*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211112",
+    "formula": "(0.55+0.05*skillLv)*62.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1211113",
+    "formula": "12+skillLv*2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1211114",
+    "formula": "-GJa*f1211112",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211121",
+    "formula": "(0.55+0.05*skillLv)*157.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1211122",
+    "formula": "-GJa*(0.945f+0.0788f*(skillLv-1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211131",
+    "formula": "-(((unitBuffTagNuma+WPPMIa)>9)?(1+(HPb-HPcurb)/HPb*(0.12f+0.01f*(skillLv-1))):1)*GJa*(103.1f+8.59f*(skillLv-1))/100",
+    "param": "27",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211132",
+    "formula": "(0.55+0.05*skillLv)*171.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1211133",
+    "formula": "11+skillLv*1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1251032",
+    "formula": "SKPMIVa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251111",
+    "formula": "(SKPMIVa>0&&isMainTarget)?((lvb-lva)>=0?((0.3+unitBuffTagNumb*(0.32+0.17*weaponRefineCounta))*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((0.3+unitBuffTagNumb*(0.32+0.17*weaponRefineCounta))*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))):((lvb-lva)>=0?((0.3+unitBuffTagNumb*(0.32+0.17*weaponRefineCounta))*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((0.3+unitBuffTagNumb*(0.32+0.17*weaponRefineCounta))*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1)))",
+    "param": "18",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251112",
+    "formula": "0.28f*SKPMIIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251131",
+    "formula": "GJa*0.76f*(1.1f+0.1f*skillLv)/2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211311",
+    "formula": "1+skillLv*1",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211312",
+    "formula": "1+skillLv*1",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211321",
+    "formula": "0.333f*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1211322",
+    "formula": "100/3*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1251412",
+    "formula": "SKPMIIa*((f1251413+f1251414)>0?1:0)*((lvb-lva)>=0?(0.05*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.05*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1)))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251413",
+    "formula": "buffSnUnitNumb",
+    "param": "1251112",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251414",
+    "formula": "buffSnUnitNumb",
+    "param": "1251322",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251611",
+    "formula": "BJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251613",
+    "formula": "(f1251413+f1251414)>0?1:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251614",
+    "formula": "GJa*(1+(f1251413+f1251414)*0.15f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251615",
+    "formula": "((unitBuffTagNumb)>0?1:0)*WPPMIa",
+    "param": "19",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251616",
+    "formula": "-GJa*(0.18+0.12*weaponRefineCounta)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261021",
+    "formula": "buffLeftRound*0.2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261081",
+    "formula": "(HPcurb/HPb<0.14?1:0)*(buffSnUnitNumb==0?1:0)*f1261082",
+    "param": "1261081",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261082",
+    "formula": "AIDuiXiangNum==0?1:0",
+    "param": "126109",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261111",
+    "formula": "-GJa*((HPcurb/HPb>0.7)?1.3:1)*(isMainTarget?(1+SKPMIa):1)*(40.9+skillLv*3.7)/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261112",
+    "formula": "40.9+skillLv*3.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1261121",
+    "formula": "isBreakDown?1:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261122",
+    "formula": "66.6+skillLv*6.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1261123",
+    "formula": "-GJa*(66.6+skillLv*6.1)/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261131",
+    "formula": "-GJa*(isMainTarget?(1+SKPMIa):1)*(46.9+skillLv*4.3)/100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261132",
+    "formula": "46.9+skillLv*4.3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1261311",
+    "formula": "0.1f*skillLv*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261312",
+    "formula": "10*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1261321",
+    "formula": "0.0499*skillLv*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261322",
+    "formula": "5*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261342",
+    "formula": "0.05f*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1261343",
+    "formula": "5*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041408",
+    "formula": "WPPMIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041406",
+    "formula": "0.021f+0.01625f*weaponRefineCounta",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1041407",
+    "formula": "0.021f+0.01625f*weaponRefineCounta",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031113",
+    "formula": "(lvb-lva)>=0?(((0.13f+0.05f*skillLv)+SKPMXa)*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(((0.13f+0.05f*skillLv)+SKPMXa)*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031121",
+    "formula": "f21*(0.323f+0.0362f*skillLv)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031122",
+    "formula": "AIDuiXiangNum<1?0.15f*f1031121:f1031121",
+    "param": "1031121",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031123",
+    "formula": "AIDuiXiangNum<1?0.15f*f1031121:f1031121",
+    "param": "1031122",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031131",
+    "formula": "f21*(0.547f+skillLv*0.0614f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031311",
+    "formula": "skillLv<3?0.1f*skillLv:0.4f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031312",
+    "formula": "skillLv<3?10*skillLv:40",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 1
+  },
+  {
+    "sn": "f1031021",
+    "formula": "SKPMIXa+0.3f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1031081",
+    "formula": "0.04f*unitBuffSnNuma",
+    "param": "1031081",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031331",
+    "formula": "(0.25f+0.25f*skillLv)*0.67f*f1011014",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031332",
+    "formula": "25f+skillLv*25f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1031111",
+    "formula": "f21*(0.4406f+0.0125f*skillLv)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031112",
+    "formula": "(0.0173f+0.0016f*skillLv)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131611",
+    "formula": "(0.4f+1.2f*BJa)*2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f104111",
+    "formula": "(0.55+0.05*skillLv)*234",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f104112",
+    "formula": "(100.1-89.1)/8*skillLv+(89.1-(100.1-89.1)/8)",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f104115",
+    "formula": "43.75+6.25*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f104113",
+    "formula": "(0.55+0.05*skillLv)*124.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f104114",
+    "formula": "11+skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 1
+  },
+  {
+    "sn": "f104116",
+    "formula": "16+skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 1
+  },
+  {
+    "sn": "f113111",
+    "formula": "(0.55+0.05*skillLv)*128.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f113112",
+    "formula": "(0.55+0.05*skillLv)*236.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f113113",
+    "formula": "(0.55+0.05*skillLv)*180.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f113114",
+    "formula": "(0.55+0.05*skillLv)*36",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f113133",
+    "formula": "2.1*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f113132",
+    "formula": "33.2*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f102111",
+    "formula": "(0.55+0.05*skillLv)*103.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f102112",
+    "formula": "(0.55+0.05*skillLv)*143.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f102113",
+    "formula": "(0.55+0.05*skillLv)*153.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f102131",
+    "formula": "4.3*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f102132",
+    "formula": "13/3*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1021321",
+    "formula": "-0.13/3*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f119111",
+    "formula": "(0.55+0.05*skillLv)*72.1",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f119112",
+    "formula": "(0.55+0.05*skillLv)*100.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f119113",
+    "formula": "(0.55+0.05*skillLv)*130.9",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f119131",
+    "formula": "21.333*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f119132",
+    "formula": "12*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f125114",
+    "formula": "(0.55+0.05*skillLv)*79",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f125112",
+    "formula": "(0.55+0.05*skillLv)*108.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f125113",
+    "formula": "(0.55+0.05*skillLv)*76",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f125131",
+    "formula": "44*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f125132",
+    "formula": "23*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251322",
+    "formula": "0.23*skillLv",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1251311",
+    "formula": "Math.min(XGMZa*2,0.22*skillLv)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1031114",
+    "formula": "44.06f+1.25f*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1031115",
+    "formula": "13f+5f*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1031116",
+    "formula": "1.73f+0.16f*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1031124",
+    "formula": "32.3f+3.62f*skillLv",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1031132",
+    "formula": "54.7f+skillLv*6.14f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 1
+  },
+  {
+    "sn": "f1131131",
+    "formula": "WPPMIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1131133",
+    "formula": "WPPMIa*((0.04+weaponRefineCounta*0.035)+(0.004+weaponRefineCounta*0.0035)*(2+disperseBuffNum))*FYb",
+    "param": "1131130",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f1",
+    "formula": "(-5.49*TotalLevel-49.09)*(SZGJb+1)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f2",
+    "formula": "Math.min(1,Math.max(0,XGMZa-XGDKb))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3",
+    "formula": "Math.min(0.95f,Math.max(0.05f,BJa/100))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f4",
+    "formula": "1.5+Math.min(1.5f,Math.max(0.1f,BSa/100))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f5",
+    "formula": "-Math.max(GJa*0.12f,(GJa*1000/(1000+FYb))*0.9f)*(1+ZCSHa+SDSHb)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f6",
+    "formula": "Math.min(0.95f,Math.max(0.05f,BJa/100+0.2f))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f7",
+    "formula": "Math.min(1,Math.max(0,Math.pow(MZa,0.8)))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f8",
+    "formula": "Math.min(1,Math.max(0,Math.pow(MZa,1.6)))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f9",
+    "formula": "skillLv*5",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f10",
+    "formula": "skillLv*50",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f11",
+    "formula": "skillLv*100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f12",
+    "formula": "skillLv*0.05",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f13",
+    "formula": "-skillLv*0.05",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f14",
+    "formula": "skillLv*0.01",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f15",
+    "formula": "-skillLv*0.04",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f21",
+    "formula": "-GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f22",
+    "formula": "-HPa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f23",
+    "formula": "-HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f24",
+    "formula": "(HPcura/HPa==1)?2:100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f25",
+    "formula": "(killNum+1)*1000",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f26",
+    "formula": "-1000*(1+SKPMIa)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f27",
+    "formula": "(buffSnUnitNumb+1)*100",
+    "param": "821",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f28",
+    "formula": "0.5f*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f32",
+    "formula": "100",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f33",
+    "formula": "133",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f34",
+    "formula": "-0.05f*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f35",
+    "formula": "-GJa*(1+(unitBuffTagNuma>4?(0.24f):(unitBuffTagNuma==4?(0.21f):(unitBuffTagNuma==3?(0.18f):(unitBuffTagNuma==2?(0.14f):(unitBuffTagNuma==1?(0.08f):(0)))))))",
+    "param": "13",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f36",
+    "formula": "-GJa*(1+(unitBuffTagNumb>4?(0.24f):(unitBuffTagNumb==4?(0.21f):(unitBuffTagNumb==3?(0.18f):(unitBuffTagNumb==2?(0.14f):(unitBuffTagNumb==1?(0.08f):(0)))))))",
+    "param": "14",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f37",
+    "formula": "-XGMZa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f38",
+    "formula": "-GJa*(1+SKPMIIa*unitBuffTagNumb)",
+    "param": "9",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f39",
+    "formula": "1+SKPMIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f40",
+    "formula": "-GJa*(SKPMIa==0?1:(1+Math.floor((mainTargetDie?(SKPMIIIa==0?((HPb-HPcurb)/HPb):1):((HPb-HPcurb)/HPb))/SKPMIa)*0.01f))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f41",
+    "formula": "SKPMIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f42",
+    "formula": "SKPMIIa*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f43",
+    "formula": "-(isMainTarget?2:1)*GJa*(SKPMIa==0?1:(1+Math.floor(mainTargetDie?1:((HPb-HPcurb)/HPb)/SKPMIa)*0.01f))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f46",
+    "formula": "1f*unitBuffTagNumb",
+    "param": "8",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f47",
+    "formula": "1f*unitBuffTagNumb",
+    "param": "9",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f48",
+    "formula": "1f*unitBuffTagNumb",
+    "param": "10",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f49",
+    "formula": "1f*unitBuffTagNumb",
+    "param": "11",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f50",
+    "formula": "-HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f51",
+    "formula": "-GJa*0.03168f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f52",
+    "formula": "(HPcurb/HPb)>0.5?0:(HPcurb/HPb>0.4?((lvb-lva)>=0?(0.05*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.05*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))):(HPcurb/HPb>0.3?((lvb-lva)>=0?(0.1*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.11*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))):(HPcurb/HPb>0.2?((lvb-lva)>=0?(0.15*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.15*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))):(HPcurb/HPb>0.1?((lvb-lva)>=0?(0.25*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.25*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))):((lvb-lva)>=0?(0.35*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.35*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1)))))))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f53",
+    "formula": "0.5f*((HPcurb/HPb)>0.5?0:(HPcurb/HPb>0.4?((lvb-lva)>=0?(0.05*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.05*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))):(HPcurb/HPb>0.3?((lvb-lva)>=0?(0.1*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.11*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))):(HPcurb/HPb>0.2?((lvb-lva)>=0?(0.15*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.15*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))):(HPcurb/HPb>0.1?((lvb-lva)>=0?(0.25*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.25*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))):((lvb-lva)>=0?(0.35*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.35*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))))))))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61",
+    "formula": "SKPMIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f62",
+    "formula": "SKPMIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f63",
+    "formula": "SKPMIIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f64",
+    "formula": "SKPMIVa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f65",
+    "formula": "SKPMVa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f66",
+    "formula": "SKPMVIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f67",
+    "formula": "SKPMVIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f68",
+    "formula": "SKPMVIIIa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f69",
+    "formula": "SKPMIXa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f70",
+    "formula": "SKPMXa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f100",
+    "formula": "-(SOMb+1)*(30+(6.63*lva-2.63+roundOneMoreTimes*(1.1*lva-0.44))+GJa*((0.272-0.07)/89*lva+0.07+roundOneMoreTimes*((0.045-0.012)/89*lva+0.012)))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f101",
+    "formula": "-(30+(20.99*lva-8.32)+GJa*((0.863-0.221)/89*lva+0.221))*(SZGJb+1)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f98",
+    "formula": "-(SOMb+1)*(30+(6.63*lva-2.63+roundOneMoreTimes*(1.1*lva-0.44))+FYa*((0.348-0.123)/89*lva+0.123+roundOneMoreTimes*((0.058-0.021)/89*lva+0.021)))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f99",
+    "formula": "-(30+(20.99*lva-8.32)+FYa*((1.102-0.39)/89*lva+0.39))*(SZGJb+1)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f150",
+    "formula": "-0.1f*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f151",
+    "formula": "0.1f*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f152",
+    "formula": "0.1f*SPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f501",
+    "formula": "(lvb-lva)>=0?(0.05*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.05*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f502",
+    "formula": "(lvb-lva)>=0?(0.1*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.1*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f503",
+    "formula": "(lvb-lva)>=0?(0.15*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.15*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f504",
+    "formula": "(lvb-lva)>=0?(0.2*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.2*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f505",
+    "formula": "(lvb-lva)>=0?(0.25*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.25*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f506",
+    "formula": "(lvb-lva)>=0?(0.3*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.3*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f507",
+    "formula": "(lvb-lva)>=0?(0.35*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.35*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f508",
+    "formula": "(lvb-lva)>=0?(0.4*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.4*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f509",
+    "formula": "(lvb-lva)>=0?(0.45*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.45*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f510",
+    "formula": "(lvb-lva)>=0?(0.5*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.5*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f511",
+    "formula": "(lvb-lva)>=0?(0.55*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.55*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f512",
+    "formula": "(lvb-lva)>=0?(0.6*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.6*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f513",
+    "formula": "(lvb-lva)>=0?(0.65*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.65*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f514",
+    "formula": "(lvb-lva)>=0?(0.7*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.7*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f515",
+    "formula": "(lvb-lva)>=0?(0.75*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.75*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f516",
+    "formula": "(lvb-lva)>=0?(0.8*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.8*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f517",
+    "formula": "(lvb-lva)>=0?(0.85*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.85*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f518",
+    "formula": "(lvb-lva)>=0?(0.9*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.9*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f519",
+    "formula": "(lvb-lva)>=0?(0.95*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.95*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f520",
+    "formula": "(lvb-lva)>=0?(1*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(1*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f521",
+    "formula": "(lvb-lva)>=0?(0.28*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.28*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f522",
+    "formula": "(lvb-lva)>=0?(0.32*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.32*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f523",
+    "formula": "(lvb-lva)>=0?(0.36*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.36*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f524",
+    "formula": "(lvb-lva)>=0?(0.14*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.14*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f525",
+    "formula": "(lvb-lva)>=0?(0.16*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.16*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f526",
+    "formula": "(lvb-lva)>=0?(0.18*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+(0.18*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f9091",
+    "formula": "-SPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f20381",
+    "formula": "-GJa*(skillLv*0.05+0.55)*1.292f-0.15f*(HPb-HPcurb)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f20821",
+    "formula": "Math.min(2,unitBuffTagNumb)*0.15f",
+    "param": "14",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f20831",
+    "formula": "Math.random()>0.5?2:1",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f52421",
+    "formula": "0.0395f+Math.min(GJa/3410*0.0395f,0.0395f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f52522",
+    "formula": "(HPcura/HPa)>0.3f?0:1",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f52821",
+    "formula": "(HPcurb/HPb)>0.7f?0.31f:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f53023",
+    "formula": "HPb*0.032f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f53322",
+    "formula": "-(0.09f+Math.min(XGMZa/0.68f*0.09f,0.09f))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f53522",
+    "formula": "(HPcura/HPa)<0.5f?0.3f:0.15f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f53622",
+    "formula": "-HPa*0.065f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f53821",
+    "formula": "0.028f+Math.min(FYa/2374*0.028f,0.028f)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f54321",
+    "formula": "0.07f+0.07f*unitBuffSnNuma",
+    "param": "54323",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f60131",
+    "formula": "HPa*0.05f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61141",
+    "formula": "HPcurb>HPcura?0.1f:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61151",
+    "formula": "MathUtils.clamp(0,15,Math.floor((HPb-HPa)/HPa/0.1f))*0.02f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61161",
+    "formula": "1",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61232",
+    "formula": "HPb*0.1f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61251",
+    "formula": "(HPcura/HPa)>0.7f?0.1f:0",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61351",
+    "formula": "Math.min(0.2f,unitBuffTagNumb*0.02f+(f61352+f61353)*0.06f)",
+    "param": "7",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61352",
+    "formula": "unitBuffTagNumb",
+    "param": "1",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61353",
+    "formula": "unitBuffTagNumb",
+    "param": "2",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61461",
+    "formula": "-Math.min(FY_ratiob,0)*0.25f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61651",
+    "formula": "Math.min(10,unitBuffTagNuma)*0.03f",
+    "param": "13",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f61282",
+    "formula": "0.25f*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f101611",
+    "formula": "-Math.max(GJa*0.12f,(GJa*1000/(1000+FYb))*0.2f)*(1+ZCSHa+SDSHb)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f102611",
+    "formula": "(0.4f+1.2f*BJa)*1.1f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f111111",
+    "formula": "-10f*buffSnUnitNuma",
+    "param": "601",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f205121",
+    "formula": "FYa*0.2f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f222222",
+    "formula": "-10f*buffSnUnitNumb",
+    "param": "601",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f303111",
+    "formula": "-Math.max(GJa*0.12f,(GJa*1000/(1000+FYb))*1.15f)*(1+ZCSHa+SDSHb)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f303121",
+    "formula": "-Math.max(GJa*0.12f,(GJa*1000/(1000+FYb))*1)*(1+ZCSHa+SDSHb)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f303131",
+    "formula": "-Math.max(GJa*0.12f,(GJa*1000/(1000+FYb))*0.4f)*(1+ZCSHa+SDSHb)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f303132",
+    "formula": "disperseBuffNum+1",
+    "param": "1191112",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f303133",
+    "formula": "disperseBuffNum>0?1:0",
+    "param": "1191112",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f303134",
+    "formula": "disperseBuffNum>1?1:0",
+    "param": "1191112",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f303135",
+    "formula": "disperseBuffNum>2?1:0",
+    "param": "1191112",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f303136",
+    "formula": "disperseBuffNum>3?1:0",
+    "param": "1191112",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f303137",
+    "formula": "disperseBuffNum>4?1:0",
+    "param": "1191112",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f303611",
+    "formula": "-Math.max(GJa*0.12f,(GJa*1000/(1000+FYb))*0.065f)*(1+ZCSHa+SDSHb)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f502251",
+    "formula": "weaponRefineCounta*0.015+0.076",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f502411",
+    "formula": "WPPMIa==0?(unitBuffTagNumb==0?(0.075f+weaponRefineCounta*0.03f):0):0",
+    "param": "1",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f502413",
+    "formula": "GJa*(0.24+0.09*weaponRefineCounta)",
+    "param": "1",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f502561",
+    "formula": "-HPb*(0.04+0.035*weaponRefineCounta)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f502562",
+    "formula": "HPb*(0.06+0.05*weaponRefineCounta)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f504311",
+    "formula": "0.029+0.00575*weaponRefineCounta",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f504411",
+    "formula": "AIDuiXiangNum>0?(0.112f+0.045f*weaponRefineCounta):0",
+    "param": "504411",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f504512",
+    "formula": "0.021f+0.016525f*weaponRefineCounta",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f513311",
+    "formula": "0.036f+0.0075f*weaponRefineCounta",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f513411",
+    "formula": "0.11f+0.044f*weaponRefineCounta",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f513512",
+    "formula": "0.05f+0.05f*weaponRefineCounta",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f519311",
+    "formula": "0.075f+0.015f*weaponRefineCounta",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f519411",
+    "formula": "0.3+0.1625f*weaponRefineCounta",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f525311",
+    "formula": "0.037+0.0073*weaponRefineCounta",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f525411",
+    "formula": "(0.05+0.02*weaponRefineCounta)*Math.min(f525412,3)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f525412",
+    "formula": "AIDuiXiangNum",
+    "param": "525411",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f526211",
+    "formula": "weaponRefineCounta*1.75+8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f526311",
+    "formula": "(lvb-lva)>=0?((weaponRefineCounta*0.0925+0.48)*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((weaponRefineCounta*0.0925+0.48)*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f526312",
+    "formula": "weaponRefineCounta*9.25+48",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f526411",
+    "formula": "weaponRefineCounta*0.0325+0.08",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f526412",
+    "formula": "weaponRefineCounta*3.25+8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f526511",
+    "formula": "(lvb-lva)>=0?((1)*(1+XGMZa)/(1+XGDKb)/(0.023*Math.pow(lvb-lva,2)+0.018*(lvb-lva)+1)):(1+((1)*(1+XGMZa)/(1+XGDKb)-1)/(0.023*Math.pow(lvb-lva,2)-0.018*(lvb-lva)+1))",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f526512",
+    "formula": "weaponRefineCounta*4.75+6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f526521",
+    "formula": "(weaponRefineCounta*0.0085+0.006)*unitBuffTagNumb",
+    "param": "14",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f526522",
+    "formula": "weaponRefineCounta*0.85+0.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f517311",
+    "formula": "weaponRefineCounta*0.0125+0.05",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f517312",
+    "formula": "weaponRefineCounta*1.25+5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f517411",
+    "formula": "(weaponRefineCounta*0.06+0.16)*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f517412",
+    "formula": "weaponRefineCounta*6+16",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f517421",
+    "formula": "(weaponRefineCounta*0.06+0.16)*GJa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f517422",
+    "formula": "weaponRefineCounta*6+16",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f517511",
+    "formula": "weaponRefineCounta*0.2+0.2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f517512",
+    "formula": "weaponRefineCounta*20+20",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f517521",
+    "formula": "weaponRefineCounta*0.0608+0.0853",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f517522",
+    "formula": "weaponRefineCounta*6.08+8.53",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f520211",
+    "formula": "weaponRefineCounta*3.75+15",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f520313",
+    "formula": "weaponRefineCounta*0.0878+0.4",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f520314",
+    "formula": "weaponRefineCounta*8.78+40",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f520411",
+    "formula": "weaponRefineCounta*0.15+0.4",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f520412",
+    "formula": "weaponRefineCounta*15+40",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f520511",
+    "formula": "4+weaponRefineCounta*3.25",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f520521",
+    "formula": "weaponRefineCounta*0.0033+0.004",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f520522",
+    "formula": "weaponRefineCounta*0.33+0.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f520541",
+    "formula": "weaponRefineCounta*0.0633+0.027",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f520542",
+    "formula": "weaponRefineCounta*6.33+2.7",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f515211",
+    "formula": "weaponRefineCounta*1.25+7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f515311",
+    "formula": "weaponRefineCounta*0.125+0.5",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f515312",
+    "formula": "weaponRefineCounta*12.5+50",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f515411",
+    "formula": "(weaponRefineCounta*0.0481+0.1225+(weaponRefineCounta*0.0128+0.0325)*unitBuffTagNuma)*GJa",
+    "param": "13",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f515412",
+    "formula": "weaponRefineCounta*1.28+3.25",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f515413",
+    "formula": "weaponRefineCounta*4.81+12.25",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f515511",
+    "formula": "weaponRefineCounta*4.75+6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f515531",
+    "formula": "weaponRefineCounta*0.2+0.2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f515532",
+    "formula": "weaponRefineCounta*20+20",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f501211",
+    "formula": "weaponRefineCounta*1.25+7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f501311",
+    "formula": "weaponRefineCounta*0.0016+0.008",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f501312",
+    "formula": "weaponRefineCounta*0.0032+0.016",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f501313",
+    "formula": "weaponRefineCounta*0.16+0.8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f501314",
+    "formula": "weaponRefineCounta*0.32+1.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f501411",
+    "formula": "weaponRefineCounta*0.04+0.096",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f501412",
+    "formula": "weaponRefineCounta*4+9.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f501511",
+    "formula": "weaponRefineCounta*5.35+6.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f501521",
+    "formula": "weaponRefineCounta*0.013+0.016",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f501522",
+    "formula": "weaponRefineCounta*1.3+1.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f516211",
+    "formula": "weaponRefineCounta*1.25+7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f516311",
+    "formula": "weaponRefineCounta*0.0088+0.045",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f516312",
+    "formula": "weaponRefineCounta*0.88+4.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f516411",
+    "formula": "(weaponRefineCounta*0.075+0.2)*FYa",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f516412",
+    "formula": "weaponRefineCounta*7.5+20",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f516511",
+    "formula": "weaponRefineCounta*22+27",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f516521",
+    "formula": "unitBuffSnNuma>=7?weaponRefineCounta*0.012+0.015:weaponRefineCounta*0.004+0.005",
+    "param": "516521",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f516522",
+    "formula": "weaponRefineCounta*0.4+0.5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f516523",
+    "formula": "weaponRefineCounta*4+5",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f516524",
+    "formula": "unitBuffSnNuma==1?1:0",
+    "param": "516531",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f514211",
+    "formula": "weaponRefineCounta*1.25+7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f514311",
+    "formula": "-(weaponRefineCounta*0.017+0.067)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f514312",
+    "formula": "-(weaponRefineCounta*0.017+0.067)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f514313",
+    "formula": "weaponRefineCounta*1.7+6.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f514411",
+    "formula": "AIDuiXiangNum<4?(0.014f+0.055f*weaponRefineCounta)*AIDuiXiangNum:(0.014f+0.055f*weaponRefineCounta)*AIDuiXiangNum+(0.02f+0.01f*weaponRefineCounta)",
+    "param": "3",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f514412",
+    "formula": "weaponRefineCounta*0.55+1.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f514413",
+    "formula": "weaponRefineCounta*1+2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f514511",
+    "formula": "weaponRefineCounta*10+10",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f514512",
+    "formula": "weaponRefineCounta*1.6f+1.8f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f514531",
+    "formula": "Math.min(unitBuffTagNuma,3+SKPMIa)*(weaponRefineCounta*0.08+0.09)*0.2",
+    "param": "26",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f507211",
+    "formula": "weaponRefineCounta*1.25+7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f507311",
+    "formula": "weaponRefineCounta*0.005+0.03",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f507312",
+    "formula": "weaponRefineCounta*0.5+3",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f507411",
+    "formula": "weaponRefineCounta*0+0.2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f507412",
+    "formula": "weaponRefineCounta*0.35+1.9",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f507413",
+    "formula": "weaponRefineCounta*35+190",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f507511",
+    "formula": "weaponRefineCounta*4.2+5.2",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f507521",
+    "formula": "weaponRefineCounta*0.1+0.2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f507522",
+    "formula": "-(weaponRefineCounta*0+0.1)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f507523",
+    "formula": "weaponRefineCounta*10+20",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f521211",
+    "formula": "weaponRefineCounta*1.25+7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f521311",
+    "formula": "weaponRefineCounta*0.11+0.56",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f521312",
+    "formula": "weaponRefineCounta*11+56",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f521411",
+    "formula": "weaponRefineCounta*0.075+0.2",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f521412",
+    "formula": "weaponRefineCounta*7.5+20",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f521511",
+    "formula": "4+weaponRefineCounta*3.25",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f521522",
+    "formula": "weaponRefineCounta*0.14+0.08",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f521523",
+    "formula": "weaponRefineCounta*14+8",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f503211",
+    "formula": "weaponRefineCounta*1.25f+7f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f503311",
+    "formula": "3.6f+weaponRefineCounta*0.73f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f503312",
+    "formula": "0.036f+weaponRefineCounta*0.0073f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f503412",
+    "formula": "weaponRefineCounta*4.8f+12f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f503411",
+    "formula": "weaponRefineCounta*0.048f+0.12f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f503511",
+    "formula": "weaponRefineCounta*9.68f+12.11f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f503512",
+    "formula": "5.7f+weaponRefineCounta*4.56f",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f503522",
+    "formula": "(unitBuffSnNuma*0.5f+1f)*(0.057f+weaponRefineCounta*0.0456f)",
+    "param": "503523",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f504211",
+    "formula": "weaponRefineCounta*0.675+6.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f504312",
+    "formula": "2.9+weaponRefineCounta*0.575",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f504313",
+    "formula": "2.9+weaponRefineCounta*0.575",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f527211",
+    "formula": "weaponRefineCounta*1.25+7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f20361",
+    "formula": "-GJa*0.4f-HPb*0.1f*(TLChange/-100)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f500211",
+    "formula": "weaponRefineCounta*0.5+2.4",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f500311",
+    "formula": "(weaponRefineCounta*0.004+0.017)*personaNuma",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f500312",
+    "formula": "weaponRefineCounta*0.4+1.7",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f500411",
+    "formula": "weaponRefineCounta*0.016+0.036",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f500412",
+    "formula": "weaponRefineCounta*1.6+3.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f500511",
+    "formula": "weaponRefineCounta*5.35+6.6",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f500512",
+    "formula": "weaponRefineCounta*2.0+2.0",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f500513",
+    "formula": "weaponRefineCounta*5.0+8.0",
+    "param": "",
+    "decimalPlaces": 1,
+    "dataType": 0
+  },
+  {
+    "sn": "f500521",
+    "formula": "(weaponRefineCounta*0.02+0.02)*unRepeatedPersonaNatureNuma",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f500532",
+    "formula": "-(weaponRefineCounta*0.05+0.08)",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f204611",
+    "formula": "unitBuffSnNuma>0?0.782f*f1000:3.5*f1000",
+    "param": "20441",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f205611",
+    "formula": "HPcurb/HPb<0.3?2.62f*f1000:1.31*f1000",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f206031",
+    "formula": "unitBuffSnNuma>0?0:1",
+    "param": "20601",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f206211",
+    "formula": "unitBuffSnNuma==2?0.5f:0",
+    "param": "20621",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f206311",
+    "formula": "0.5f+unitBuffTagNuma*0.2f",
+    "param": "1",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f207011",
+    "formula": "unitBuffSnNuma>0?0.5f:0",
+    "param": "20701",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f207021",
+    "formula": "unitBuffSnNuma>0?-0.3f:0",
+    "param": "20702",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f207031",
+    "formula": "unitBuffSnNuma>0?0.5f:0",
+    "param": "20703",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3042001",
+    "formula": "0.105f*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3042011",
+    "formula": "0.115f*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3042021",
+    "formula": "0.125f*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3042031",
+    "formula": "10f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3042041",
+    "formula": "13f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3042051",
+    "formula": "17f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3042061",
+    "formula": "20f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3046001",
+    "formula": "0.126*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3046011",
+    "formula": "0.138*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3046021",
+    "formula": "0.15*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3046031",
+    "formula": "15f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3046041",
+    "formula": "20f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f3046051",
+    "formula": "24f",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f20602",
+    "formula": "-0.1f*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f20311",
+    "formula": "-0.3f*GJa-0.6f*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
+    "sn": "f210711",
+    "formula": "0.5*HPb",
+    "param": "",
+    "decimalPlaces": 0,
+    "dataType": 0
+  }
+]

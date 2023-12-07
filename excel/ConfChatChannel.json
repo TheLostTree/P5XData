@@ -1,0 +1,54 @@
+[
+  {
+    "sn": 2,
+    "channel": "world",
+    "name": "论坛",
+    "type": 1,
+    "input": 1,
+    "interval": 5,
+    "wordLimit": 30,
+    "saveLimit": 50,
+    "saveDays": 3,
+    "miniPic": "zhujiemian-sns-shijie.png",
+    "miniColor": "2899FF"
+  },
+  {
+    "sn": 4,
+    "channel": "union",
+    "name": "联盟",
+    "type": 2,
+    "input": 1,
+    "interval": 5,
+    "wordLimit": 30,
+    "saveLimit": 200,
+    "saveDays": 0,
+    "miniPic": "zhujiemian-sns-lianmeng.png",
+    "miniColor": "EC1919"
+  },
+  {
+    "sn": 8,
+    "channel": "private",
+    "name": "私聊",
+    "type": 2,
+    "input": 1,
+    "interval": 5,
+    "wordLimit": 30,
+    "saveLimit": 1000,
+    "saveDays": 0,
+    "miniPic": "zhujiemian-sns-haoyou.png",
+    "miniColor": "FE7EC8"
+  },
+  {
+    "sn": 16,
+    "channel": "coop",
+    "name": "协同者",
+    "type": 3,
+    "input": 1,
+    "interval": 0,
+    "wordLimit": 30,
+    "saveLimit": 99999,
+    "saveDays": 3,
+    "miniPic": "zhujiemian-sns-xielizhe.png",
+    "miniColor": "E8DE3E"
+  }
+]

@@ -1,0 +1,2884 @@
+[
+  {
+    "sn": 1011,
+    "name": "坂本龙司",
+    "lastName": "战车",
+    "thiefType": 1,
+    "gradeInitial": 5,
+    "personaInitial": 1011,
+    "clipItem": 301011,
+    "typeSN": 3,
+    "model": "skull",
+    "modelUI": "skull",
+    "weaponInitial": 210101,
+    "namePic": "Tongyong-mingzi-4.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-4.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-skull-new.png",
+    "zhenrongPersona": "zhenrong-lihui-skull-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      -4,
+      -158,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      36,
+      604,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-skull.png",
+    "jinjieThiefpos": [
+      -35,
+      3,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_skull",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_skull",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_skull",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "宫野真守",
+    "cvNamepos": [
+      107,
+      18,
+      -20.47
+    ],
+    "Story": "高中二年级的少年，言行粗暴，但实际上是个重感情、有男子汉气概的行动派。因为某个事件被扣上了“问题学生”的帽子，遭到周围人的疏远。\n和JOKER相遇后，觉醒了人格面具能力。\n初始人格面具是“船长基德”。",
+    "showSound": "Sys_Skull0002",
+    "weaponenter_sound": "Sys_Skull0001",
+    "thiefchange_sound": "Sys_Skull0002",
+    "thiefbattle_sound": "Sys_Skull0002",
+    "cardenter_sound": "Sys_Skull0005",
+    "levelup_sound": "Sys_Skull0003",
+    "breach_sound": "Sys_Skull0004",
+    "weaponchange_sound": "Sys_Skull0006",
+    "gacha_sound": [],
+    "chat": "1011",
+    "qishiScale": 1,
+    "qishiPosition": [
+      0,
+      0,
+      0
+    ],
+    "qishiRotation": [
+      0,
+      62.3,
+      0
+    ],
+    "collisionThief": [
+      0.24,
+      0,
+      0
+    ],
+    "collisionThiefB": [
+      0.21,
+      0,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-005.png",
+    "readyPic": "guaidao-kapai-skull-new.png",
+    "readyShadowPic": "kamian-8-2.png",
+    "gachaPic": "guaidao-kapai-skull-new.png",
+    "gachaBigPic": "lihui-guaidao-skull-01.png",
+    "thiefBigPicPos": [
+      -35,
+      3,
+      0
+    ],
+    "fiveStarLinesOne": "啊哈，看来是轮到我了？",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-banbenlongsi.png",
+    "thiefCodePos": [
+      -48,
+      -32.1,
+      0
+    ],
+    "thiefNamePos": [
+      -54.5,
+      153,
+      -18.4
+    ],
+    "gachaNamePic": "Tongyong-mingzi-4.png",
+    "gachaCode": "guaidao-daihao-banbenlongsi.png",
+    "gachaCodePos": [
+      -7,
+      -28,
+      4.5
+    ],
+    "gachaMask": "guaidao-mianjuicon-banbenlongsi.png",
+    "littlePic": "kapai-longsi01.png",
+    "gradePic": "skull-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-4.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302201|302801",
+      "302201|302801",
+      "302201|302801",
+      "302202|302801",
+      "302202|302801",
+      "302202|302801"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:112.32",
+        "261:25.98",
+        "271:16.07",
+        "251:10",
+        "281:0.0264"
+      ],
+      [
+        "241:224.64",
+        "261:51.96",
+        "271:32.14",
+        "251:20",
+        "281:0.0528"
+      ],
+      [
+        "241:336.96",
+        "261:77.94",
+        "271:48.21",
+        "251:30",
+        "281:0.0792"
+      ],
+      [
+        "241:449.28",
+        "261:103.92",
+        "271:64.28",
+        "251:40",
+        "281:0.1056"
+      ],
+      [
+        "241:561.6",
+        "261:129.9",
+        "271:80.35",
+        "251:50",
+        "281:0.132"
+      ],
+      [
+        "241:673.92",
+        "261:155.88",
+        "271:96.42",
+        "251:60",
+        "281:0.1584"
+      ]
+    ],
+    "awakeSkill": [
+      101131,
+      101132
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      101101
+    ],
+    "gunSkill": 101161,
+    "gunBullets": 3,
+    "gunAccuracy": 0.84,
+    "gunCritical": 0.1905,
+    "resetPosition": 0
+  },
+  {
+    "sn": 1021,
+    "name": "摩尔加纳",
+    "lastName": "魔术师",
+    "thiefType": 1,
+    "gradeInitial": 5,
+    "personaInitial": 1021,
+    "clipItem": 301021,
+    "typeSN": 2,
+    "model": "mona",
+    "modelUI": "mona_UI",
+    "weaponInitial": 210201,
+    "namePic": "Tongyong-mingzi-2.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-2.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-mona-new.png",
+    "zhenrongPersona": "zhenrong-lihui-mona-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      -37,
+      95,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      129,
+      534,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-mona.png",
+    "jinjieThiefpos": [
+      -40,
+      -11,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_mona",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_mona",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_mona",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "大谷育江",
+    "cvNamepos": [
+      107,
+      18,
+      -20.47
+    ],
+    "Story": "形似黑猫的谜之生物，会说人话，虽然嘴上不饶人，但勇于牺牲自己帮助同伴们。\n口头禅是“不是猫！”\n初始人格面具是“佐罗”。",
+    "showSound": "Sys_Mona0002",
+    "weaponenter_sound": "Sys_Mona0001",
+    "thiefchange_sound": "Sys_Mona0002",
+    "thiefbattle_sound": "Sys_Mona0002",
+    "cardenter_sound": "Sys_Mona0005",
+    "levelup_sound": "Sys_Mona0003",
+    "breach_sound": "Sys_Mona0004",
+    "weaponchange_sound": "Sys_Mona0006",
+    "gacha_sound": [],
+    "chat": "1021",
+    "qishiScale": 1,
+    "qishiPosition": [
+      0.03,
+      0.8,
+      0
+    ],
+    "qishiRotation": [
+      0,
+      67.6,
+      0
+    ],
+    "collisionThief": [
+      -0.08,
+      0.2,
+      -0.4
+    ],
+    "collisionThiefB": [
+      -0.13,
+      -0.21,
+      -1.17
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-003.png",
+    "readyPic": "guaidao-kapai-mona-new.png",
+    "readyShadowPic": "kamian-4-2.png",
+    "gachaPic": "guaidao-kapai-mona-new.png",
+    "gachaBigPic": "lihui-guaidao-mona-01.png",
+    "thiefBigPicPos": [
+      -40,
+      -11,
+      0
+    ],
+    "fiveStarLinesOne": "展示威严吧，佐罗！",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-moerjiana.png",
+    "thiefCodePos": [
+      -38.6,
+      -28.2,
+      0
+    ],
+    "thiefNamePos": [
+      -61.9,
+      149,
+      -18.4
+    ],
+    "gachaNamePic": "Tongyong-mingzi-2.png",
+    "gachaCode": "guaidao-daihao-moerjiana.png",
+    "gachaCodePos": [
+      1,
+      -19,
+      10.62
+    ],
+    "gachaMask": "guaidao-mianjuicon-moerjiana.png",
+    "littlePic": "kapai-mona01.png",
+    "gradePic": "mona-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-2.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302203|302802",
+      "302203|302802",
+      "302203|302802",
+      "302204|302802",
+      "302204|302802",
+      "302204|302802"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:122.85",
+        "261:23.78",
+        "271:14.77",
+        "251:13.75",
+        "281:0.0264"
+      ],
+      [
+        "241:245.7",
+        "261:47.56",
+        "271:29.54",
+        "251:27.5",
+        "281:0.0528"
+      ],
+      [
+        "241:368.55",
+        "261:71.34",
+        "271:44.31",
+        "251:41.25",
+        "281:0.0792"
+      ],
+      [
+        "241:491.4",
+        "261:95.12",
+        "271:59.08",
+        "251:55",
+        "281:0.1056"
+      ],
+      [
+        "241:614.25",
+        "261:118.9",
+        "271:73.85",
+        "251:68.75",
+        "281:0.132"
+      ],
+      [
+        "241:737.1",
+        "261:142.68",
+        "271:88.62",
+        "251:82.5",
+        "281:0.1584"
+      ]
+    ],
+    "awakeSkill": [
+      102131,
+      102132
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      102101
+    ],
+    "gunSkill": 102161,
+    "gunBullets": 5,
+    "gunAccuracy": 0.92,
+    "gunCritical": 0.1043,
+    "resetPosition": 0
+  },
+  {
+    "sn": 1031,
+    "name": "新井素羽",
+    "lastName": "力量",
+    "thiefType": 1,
+    "gradeInitial": 4,
+    "personaInitial": 1031,
+    "clipItem": 301031,
+    "typeSN": 10,
+    "model": "closer",
+    "modelUI": "closer",
+    "weaponInitial": 210301,
+    "namePic": "Tongyong-mingzi-26.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-6.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-closer-new.png",
+    "zhenrongPersona": "zhenrong-lihui-closer-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      7,
+      -15,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      74,
+      458,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-closer.png",
+    "jinjieThiefpos": [
+      141,
+      2.6,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_closer",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_noir",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_noir",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "本渡枫",
+    "cvNamepos": [
+      93,
+      22,
+      -20.47
+    ],
+    "Story": "就读于己刮学园的高中二年级少女。主角的同班同学，体育全能。性格直爽开朗，体贴他人，在校内广受男女学生欢迎。\n但本人一直被年幼时某段不愉快的回忆所困扰。因为某个事件觉醒了人格面具操控能力。\n初始人格面具是『阿尔维达』。",
+    "showSound": "Sys_Closer0002",
+    "weaponenter_sound": "VO_Closer0013",
+    "thiefchange_sound": "Sys_Closer0002",
+    "thiefbattle_sound": "Sys_Closer0001",
+    "cardenter_sound": "VO_Closer0022",
+    "levelup_sound": "Sys_Closer0003",
+    "breach_sound": "Sys_Closer0004",
+    "weaponchange_sound": "Sys_Closer0001",
+    "gacha_sound": [],
+    "chat": "1251",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -0.43,
+      0.2,
+      -0.43
+    ],
+    "qishiRotation": [
+      3.7,
+      80.65,
+      7.2
+    ],
+    "collisionThief": [
+      0.12,
+      -0.05,
+      0
+    ],
+    "collisionThiefB": [
+      0.12,
+      -0.05,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-001.png",
+    "readyPic": "guaidao-kapai-closer-new.png",
+    "readyShadowPic": "kamian-2-2.png",
+    "gachaPic": "guaidao-kapai-closer-new.png",
+    "gachaBigPic": "lihui-guaidao-closer-01.png",
+    "thiefBigPicPos": [
+      141,
+      2.6,
+      0
+    ],
+    "fiveStarLinesOne": "",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-xinjingsuyu.png",
+    "thiefCodePos": [
+      -16.6,
+      -12.1,
+      -1.13
+    ],
+    "thiefNamePos": [
+      -60,
+      145,
+      -16.6
+    ],
+    "gachaNamePic": "Tongyong-mingzi-26.png",
+    "gachaCode": "guaidao-daihao-xinjingsuyu.png",
+    "gachaCodePos": [
+      0,
+      -18.6,
+      8.43
+    ],
+    "gachaMask": "guaidao-mianjuicon-xinjingsuyu.png",
+    "littlePic": "kapai-chun01.png",
+    "gradePic": "noir-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-14.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302201|302801",
+      "302201|302801",
+      "302201|302801",
+      "302202|302801",
+      "302202|302801",
+      "302202|302801"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:83.3",
+        "261:20.26",
+        "271:15.36",
+        "251:13.75",
+        "281:0.0211"
+      ],
+      [
+        "241:166.6",
+        "261:40.52",
+        "271:30.72",
+        "251:27.5",
+        "281:0.0422"
+      ],
+      [
+        "241:249.9",
+        "261:60.78",
+        "271:46.08",
+        "251:41.25",
+        "281:0.0633"
+      ],
+      [
+        "241:333.2",
+        "261:81.04",
+        "271:61.44",
+        "251:55",
+        "281:0.0844"
+      ],
+      [
+        "241:416.5",
+        "261:101.3",
+        "271:76.8",
+        "251:68.75",
+        "281:0.1055"
+      ],
+      [
+        "241:499.8",
+        "261:121.56",
+        "271:92.16",
+        "251:82.5",
+        "281:0.1266"
+      ]
+    ],
+    "awakeSkill": [
+      103132,
+      103131
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      103101
+    ],
+    "gunSkill": 103161,
+    "gunBullets": 7,
+    "gunAccuracy": 0.96,
+    "gunCritical": 0.0595,
+    "resetPosition": 0
+  },
+  {
+    "sn": 1041,
+    "name": "路菲尔",
+    "lastName": "希望",
+    "thiefType": 1,
+    "gradeInitial": 4,
+    "personaInitial": 1041,
+    "clipItem": 301041,
+    "typeSN": 14,
+    "model": "cattle",
+    "modelUI": "cattle",
+    "weaponInitial": 210401,
+    "namePic": "Tongyong-mingzi-19.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-2.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-cattle-new.png",
+    "zhenrongPersona": "zhenrong-lihui-cattle-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      -37,
+      95,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      129,
+      534,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-cattle.png",
+    "jinjieThiefpos": [
+      12,
+      4,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_cattle",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_mona",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_mona",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "野中蓝",
+    "cvNamepos": [
+      110,
+      18,
+      -20.47
+    ],
+    "Story": "以猫头鹰的形象出现在主角面前的谜之生物。会说人类的语言，能够变身成送信车的模样。\n拥有丰富的异世界知识，遇事冷静，稳重自持，是非常靠得住的好伙伴。\n初始人格面具是『罗布罗伊』。",
+    "showSound": "Sys_Cattle0002",
+    "weaponenter_sound": "VO_Cattle0013",
+    "thiefchange_sound": "Sys_Cattle0002",
+    "thiefbattle_sound": "Sys_Cattle0001",
+    "cardenter_sound": "VO_Cattle0022",
+    "levelup_sound": "Sys_Cattle0003",
+    "breach_sound": "Sys_Cattle0004",
+    "weaponchange_sound": "Sys_Cattle0001",
+    "gacha_sound": [],
+    "chat": "1041",
+    "qishiScale": 1,
+    "qishiPosition": [
+      0.03,
+      0.8,
+      0
+    ],
+    "qishiRotation": [
+      0,
+      67.6,
+      0
+    ],
+    "collisionThief": [
+      -0.01,
+      0.14,
+      -1
+    ],
+    "collisionThiefB": [
+      -0.12,
+      -0.17,
+      -1.41
+    ],
+    "rotateThief": [
+      0.5,
+      35.1,
+      -1.25
+    ],
+    "bigPic": "kapai-003.png",
+    "readyPic": "guaidao-kapai-cattle-new.png",
+    "readyShadowPic": "kamian-4-2.png",
+    "gachaPic": "guaidao-kapai-cattle-new.png",
+    "gachaBigPic": "lihui-guaidao-cattle-01.png",
+    "thiefBigPicPos": [
+      12,
+      4,
+      0
+    ],
+    "fiveStarLinesOne": "",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-lufeier.png",
+    "thiefCodePos": [
+      -18,
+      12,
+      -1.13
+    ],
+    "thiefNamePos": [
+      -73.2,
+      156.6,
+      -16.2
+    ],
+    "gachaNamePic": "Tongyong-mingzi-19.png",
+    "gachaCode": "guaidao-daihao-lufeier.png",
+    "gachaCodePos": [
+      9.1,
+      -16.6,
+      6.2
+    ],
+    "gachaMask": "guaidao-mianjuicon-lufeier.png",
+    "littlePic": "kapai-mona01.png",
+    "gradePic": "mona-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-15.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302201|302802",
+      "302201|302802",
+      "302201|302802",
+      "302202|302802",
+      "302202|302802",
+      "302202|302802"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:92.66",
+        "261:19.02",
+        "271:13.59",
+        "251:13.25",
+        "671:0.0167"
+      ],
+      [
+        "241:185.32",
+        "261:38.04",
+        "271:27.18",
+        "251:26.5",
+        "671:0.0334"
+      ],
+      [
+        "241:277.98",
+        "261:57.06",
+        "271:40.77",
+        "251:39.75",
+        "671:0.0501"
+      ],
+      [
+        "241:370.64",
+        "261:76.08",
+        "271:54.36",
+        "251:53",
+        "671:0.0668"
+      ],
+      [
+        "241:463.3",
+        "261:95.1",
+        "271:67.95",
+        "251:66.25",
+        "671:0.0835"
+      ],
+      [
+        "241:555.96",
+        "261:114.12",
+        "271:81.54",
+        "251:79.5",
+        "671:0.1002"
+      ]
+    ],
+    "awakeSkill": [
+      104132,
+      104131
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      104101
+    ],
+    "gunSkill": 104161,
+    "gunBullets": 10,
+    "gunAccuracy": 0.75,
+    "gunCritical": 0.048,
+    "resetPosition": 1
+  },
+  {
+    "sn": 1131,
+    "name": "藤川雪实",
+    "lastName": "裁决",
+    "thiefType": 1,
+    "gradeInitial": 4,
+    "personaInitial": 1131,
+    "clipItem": 301131,
+    "typeSN": 9,
+    "model": "tembin",
+    "modelUI": "tembin",
+    "weaponInitial": 211301,
+    "namePic": "Tongyong-mingzi-25.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-10.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-yuki-new.png",
+    "zhenrongPersona": "zhenrong-lihui-yuki-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      -37,
+      95,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      129,
+      534,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-yuki.png",
+    "jinjieThiefpos": [
+      -1,
+      4,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_tembin",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_tembin",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_tembin",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "诹访彩花",
+    "cvNamepos": [
+      110,
+      18,
+      -20.47
+    ],
+    "Story": "高中二年级的少女，父亲早逝，从小在母亲的冷酷高压手段下成长。\n无法认同母亲的想法，却又想要回应母亲的期待，这种矛盾和痛苦让她成为了一个表面冷酷、内心柔软的人。\n人格面具Ⅱ是『斯堤克斯』。",
+    "showSound": "Sys_Yuki0002",
+    "weaponenter_sound": "VO_Yuki0013",
+    "thiefchange_sound": "Sys_Yuki0002",
+    "thiefbattle_sound": "Sys_Yuki0003",
+    "cardenter_sound": "VO_Yuki0001",
+    "levelup_sound": "Sys_Yuki0003",
+    "breach_sound": "Sys_Yuki0004",
+    "weaponchange_sound": "Sys_Yuki0001",
+    "gacha_sound": [],
+    "chat": "1131",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -0.1,
+      0,
+      -0.15
+    ],
+    "qishiRotation": [
+      4,
+      52.35,
+      0
+    ],
+    "collisionThief": [
+      0.17,
+      0.03,
+      0
+    ],
+    "collisionThiefB": [
+      0.14,
+      0.03,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-009.jpg",
+    "readyPic": "guaidao-kapai-tembin-new.png",
+    "readyShadowPic": "kamian-7-2.png",
+    "gachaPic": "guaidao-kapai-tembin-new.png",
+    "gachaBigPic": "lihui-guaidao-tembin-01.png",
+    "thiefBigPicPos": [
+      -1,
+      4,
+      0
+    ],
+    "fiveStarLinesOne": "",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-tengchuanxueshi.png",
+    "thiefCodePos": [
+      -30.6,
+      -33.8,
+      0
+    ],
+    "thiefNamePos": [
+      -61.9,
+      149,
+      -18.4
+    ],
+    "gachaNamePic": "Tongyong-mingzi-25.png",
+    "gachaCode": "guaidao-daihao-tengchuanxueshi.png",
+    "gachaCodePos": [
+      16.6,
+      -12,
+      4.31
+    ],
+    "gachaMask": "guaidao-mianjuicon-tengchuanxueshi.png",
+    "littlePic": "kapai-xueshi01.png",
+    "gradePic": "tembin-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-8.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302203|302801",
+      "302203|302801",
+      "302203|302801",
+      "302204|302801",
+      "302204|302801",
+      "302204|302801"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:95.47",
+        "261:14.97",
+        "271:17.14",
+        "251:13.13",
+        "273:0.0864"
+      ],
+      [
+        "241:190.94",
+        "261:29.94",
+        "271:34.28",
+        "251:26.26",
+        "273:0.1728"
+      ],
+      [
+        "241:286.41",
+        "261:44.91",
+        "271:51.42",
+        "251:39.39",
+        "273:0.2592"
+      ],
+      [
+        "241:381.88",
+        "261:59.88",
+        "271:68.56",
+        "251:52.52",
+        "273:0.3456"
+      ],
+      [
+        "241:477.35",
+        "261:74.85",
+        "271:85.7",
+        "251:65.65",
+        "273:0.432"
+      ],
+      [
+        "241:572.82",
+        "261:89.82",
+        "271:102.84",
+        "251:78.78",
+        "273:0.5184"
+      ]
+    ],
+    "awakeSkill": [
+      113131,
+      113132
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      113101
+    ],
+    "gunSkill": 113161,
+    "gunBullets": 16,
+    "gunAccuracy": 0.72,
+    "gunCritical": 0.0347,
+    "resetPosition": 1
+  },
+  {
+    "sn": 1141,
+    "name": "白鸟诚司",
+    "lastName": "自由",
+    "thiefType": 1,
+    "gradeInitial": 4,
+    "personaInitial": 1141,
+    "clipItem": 301141,
+    "typeSN": 12,
+    "model": "comte",
+    "modelUI": "comte",
+    "weaponInitial": 211401,
+    "namePic": "Tongyong-mingzi-22.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-7.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-seiji-new.png",
+    "zhenrongPersona": "zhenrong-lihui-seiji-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      -37,
+      95,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      129,
+      534,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-seiji.png",
+    "jinjieThiefpos": [
+      -34,
+      3.3,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_comte",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "丰永利行",
+    "cvNamepos": [
+      110,
+      18,
+      -20.47
+    ],
+    "Story": "高中二年级的少年，击剑部的成员，家境优越，一直接受着冰冷的精英教育。\n外表看起来彬彬有礼，有着让人产生距离感的礼仪习惯，实际上内心渴望着真正的关心。\n人格面具Ⅱ是『琉科忒亚』。",
+    "showSound": "Sys_Comte0002",
+    "weaponenter_sound": "Sys_Comte0001",
+    "thiefchange_sound": "Sys_Comte0002",
+    "thiefbattle_sound": "Sys_Comte0002",
+    "cardenter_sound": "Sys_Comte0005",
+    "levelup_sound": "Sys_Comte0003",
+    "breach_sound": "Sys_Comte0004",
+    "weaponchange_sound": "Sys_Comte0006",
+    "gacha_sound": [],
+    "chat": "1141",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -0.01,
+      0,
+      0
+    ],
+    "qishiRotation": [
+      3.47,
+      56.36,
+      2.59
+    ],
+    "collisionThief": [
+      -0.03,
+      0.06,
+      0.09
+    ],
+    "collisionThiefB": [
+      -0.09,
+      0.09,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-009.jpg",
+    "readyPic": "guaidao-kapai-seiji-new.png",
+    "readyShadowPic": "kamian-9-2.png",
+    "gachaPic": "guaidao-kapai-seiji-new.png",
+    "gachaBigPic": "lihui-guaidao-seiji-01.png",
+    "thiefBigPicPos": [
+      -34,
+      3.3,
+      0
+    ],
+    "fiveStarLinesOne": "",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-bainiaochengsi.png",
+    "thiefCodePos": [
+      -25.3,
+      -34.7,
+      0
+    ],
+    "thiefNamePos": [
+      -59.3,
+      152.45,
+      -15.1
+    ],
+    "gachaNamePic": "Tongyong-mingzi-22.png",
+    "gachaCode": "guaidao-daihao-bainiaochengsi.png",
+    "gachaCodePos": [
+      9.2,
+      -13.9,
+      5.31
+    ],
+    "gachaMask": "guaidao-mianjuicon-baniaochengsi.png",
+    "littlePic": "kapai-joker01.png",
+    "gradePic": "mona-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-12.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302209|302803",
+      "302209|302803",
+      "302209|302803",
+      "302210|302803",
+      "302210|302803",
+      "302210|302803"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:89.86",
+        "261:19.9",
+        "271:14.03",
+        "251:13.75",
+        "411:0.0154"
+      ],
+      [
+        "241:179.72",
+        "261:39.8",
+        "271:28.06",
+        "251:27.5",
+        "411:0.0308"
+      ],
+      [
+        "241:269.58",
+        "261:59.7",
+        "271:42.09",
+        "251:41.25",
+        "411:0.0462"
+      ],
+      [
+        "241:359.44",
+        "261:79.6",
+        "271:56.12",
+        "251:55",
+        "411:0.0616"
+      ],
+      [
+        "241:449.3",
+        "261:99.5",
+        "271:70.15",
+        "251:68.75",
+        "411:0.077"
+      ],
+      [
+        "241:539.16",
+        "261:119.4",
+        "271:84.18",
+        "251:82.5",
+        "411:0.0924"
+      ]
+    ],
+    "awakeSkill": [
+      114131,
+      114132
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      114101
+    ],
+    "gunSkill": 114161,
+    "gunBullets": 4,
+    "gunAccuracy": 0.88,
+    "gunCritical": 0.1364,
+    "resetPosition": 1
+  },
+  {
+    "sn": 1151,
+    "name": "明智吾郎",
+    "lastName": "正义",
+    "thiefType": 1,
+    "gradeInitial": 5,
+    "personaInitial": 1151,
+    "clipItem": 301151,
+    "typeSN": 8,
+    "model": "crow",
+    "modelUI": "crow",
+    "weaponInitial": 211501,
+    "namePic": "Tongyong-mingzi-9.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-1.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-crow-new.png",
+    "zhenrongPersona": "zhenrong-lihui-crow-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      -37,
+      95,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      129,
+      534,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-crow.png",
+    "jinjieThiefpos": [
+      265,
+      3.3,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_crow",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_crow",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_crow",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "保志总一朗",
+    "cvNamepos": [
+      110,
+      18,
+      -20.47
+    ],
+    "Story": "高中三年级的少年，同时也是一名解决过各种案件的侦探。\n头脑聪慧，待人温和，再加上出众的相貌，是个备受瞩目的风云人物。\n因某个契机开始和JOKER一行共同行动。\n初始人格面具是“罗宾汉”。",
+    "showSound": "Sys_Crow0002",
+    "weaponenter_sound": "Sys_Crow0001",
+    "thiefchange_sound": "Sys_Crow0002",
+    "thiefbattle_sound": "Sys_Crow0002",
+    "cardenter_sound": "Sys_Crow0005",
+    "levelup_sound": "Sys_Crow0003",
+    "breach_sound": "Sys_Crow0004",
+    "weaponchange_sound": "Sys_Crow0006",
+    "gacha_sound": [],
+    "chat": "1151",
+    "qishiScale": 1,
+    "qishiPosition": [
+      0,
+      0,
+      0
+    ],
+    "qishiRotation": [
+      2,
+      51.52,
+      0
+    ],
+    "collisionThief": [
+      0,
+      0,
+      0
+    ],
+    "collisionThiefB": [
+      0,
+      0,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-006.png",
+    "readyPic": "guaidao-kapai-crow-new.png",
+    "readyShadowPic": "kamian-6-2.png",
+    "gachaPic": "guaidao-kapai-crow-new.png",
+    "gachaBigPic": "lihui-guaidao-crow-01.png",
+    "thiefBigPicPos": [
+      265,
+      3.3,
+      0
+    ],
+    "fiveStarLinesOne": "射杀吧，罗宾汉！",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-mingzhiwulang.png",
+    "thiefCodePos": [
+      -37,
+      -34,
+      0
+    ],
+    "thiefNamePos": [
+      -59.3,
+      152.45,
+      -15.1
+    ],
+    "gachaNamePic": "Tongyong-mingzi-9.png",
+    "gachaCode": "guaidao-daihao-mingzhiwulang.png",
+    "gachaCodePos": [
+      -6.1,
+      -9.4,
+      8.35
+    ],
+    "gachaMask": "guaidao-mianjuicon-mingzhiwulang.png",
+    "littlePic": "kapai-mingzhi01.png",
+    "gradePic": "crow-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-7.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302209|302802",
+      "302209|302802",
+      "302209|302802",
+      "302210|302802",
+      "302210|302802",
+      "302210|302802"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:115.83",
+        "261:24",
+        "271:17.17",
+        "251:13.75",
+        "263:0.044"
+      ],
+      [
+        "241:231.66",
+        "261:48",
+        "271:34.34",
+        "251:27.5",
+        "263:0.088"
+      ],
+      [
+        "241:347.49",
+        "261:72",
+        "271:51.51",
+        "251:41.25",
+        "263:0.132"
+      ],
+      [
+        "241:463.32",
+        "261:96",
+        "271:68.68",
+        "251:55",
+        "263:0.176"
+      ],
+      [
+        "241:579.15",
+        "261:120",
+        "271:85.85",
+        "251:68.75",
+        "263:0.22"
+      ],
+      [
+        "241:694.98",
+        "261:144",
+        "271:103.02",
+        "251:82.5",
+        "263:0.264"
+      ]
+    ],
+    "awakeSkill": [
+      115132,
+      115131
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      115101
+    ],
+    "gunSkill": 115161,
+    "gunBullets": 7,
+    "gunAccuracy": 0.95,
+    "gunCritical": 0.0602,
+    "resetPosition": 1
+  },
+  {
+    "sn": 1161,
+    "name": "喜多川祐介",
+    "lastName": "皇帝",
+    "thiefType": 1,
+    "gradeInitial": 5,
+    "personaInitial": 1161,
+    "clipItem": 301161,
+    "typeSN": 5,
+    "model": "fox",
+    "modelUI": "fox",
+    "weaponInitial": 211601,
+    "namePic": "Tongyong-mingzi-11.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-11.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-fox-new.png",
+    "zhenrongPersona": "zhenrong-lihui-fox-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      75,
+      -58,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      294,
+      616,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-fox.png",
+    "jinjieThiefpos": [
+      121,
+      3.3,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_fox",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_fox",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_fox",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "杉田智和",
+    "cvNamepos": [
+      107,
+      18,
+      -20.47
+    ],
+    "Story": "高中二年级的少年，专攻日本画的美术特长生，也是某位大师的入门弟子。是个外表英俊的美少年，但因为独特的个性和感性，有点无法融入社会。\n以某个事件为契机与JOKER一行人相遇，觉醒了人格面具能力。\n初始人格面具是“五右卫门”。",
+    "showSound": "Sys_Fox0002",
+    "weaponenter_sound": "Sys_Fox0001",
+    "thiefchange_sound": "Sys_Fox0002",
+    "thiefbattle_sound": "Sys_Fox0002",
+    "cardenter_sound": "Sys_Fox0005",
+    "levelup_sound": "Sys_Fox0003",
+    "breach_sound": "Sys_Fox0004",
+    "weaponchange_sound": "Sys_Fox0006",
+    "gacha_sound": [],
+    "chat": "1161",
+    "qishiScale": 1,
+    "qishiPosition": [
+      0,
+      0,
+      0.08
+    ],
+    "qishiRotation": [
+      3.7,
+      48,
+      0
+    ],
+    "collisionThief": [
+      0.13,
+      0.07,
+      0
+    ],
+    "collisionThiefB": [
+      0.13,
+      0.07,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      45.5,
+      -1.25
+    ],
+    "bigPic": "kapai-019.png",
+    "readyPic": "guaidao-kapai-fox-new.png",
+    "readyShadowPic": "kamian-1-2.png",
+    "gachaPic": "guaidao-kapai-fox-new.png",
+    "gachaBigPic": "lihui-guaidao-fox-01.png",
+    "thiefBigPicPos": [
+      121,
+      3.3,
+      0
+    ],
+    "fiveStarLinesOne": "用你来献祭我的刀！",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-xiduochuanyoujie.png",
+    "thiefCodePos": [
+      -40.6,
+      -45.2,
+      0
+    ],
+    "thiefNamePos": [
+      -65.937,
+      152.45,
+      -15.1
+    ],
+    "gachaNamePic": "Tongyong-mingzi-11.png",
+    "gachaCode": "guaidao-daihao-xiduochuanyoujie.png",
+    "gachaCodePos": [
+      -2.2,
+      -22.2,
+      2
+    ],
+    "gachaMask": "guaidao-mianjuicon-xiduochuanyoujie.png",
+    "littlePic": "kapai-youjie01.png",
+    "gradePic": "fox-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-1.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302209|302802",
+      "302209|302802",
+      "302209|302802",
+      "302210|302802",
+      "302210|302802",
+      "302210|302802"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:127.53",
+        "261:18.71",
+        "271:18.84",
+        "251:12.5",
+        "243:0.054"
+      ],
+      [
+        "241:255.06",
+        "261:37.42",
+        "271:37.68",
+        "251:25",
+        "243:0.108"
+      ],
+      [
+        "241:382.59",
+        "261:56.13",
+        "271:56.52",
+        "251:37.5",
+        "243:0.162"
+      ],
+      [
+        "241:510.12",
+        "261:74.84",
+        "271:75.36",
+        "251:50",
+        "243:0.216"
+      ],
+      [
+        "241:637.65",
+        "261:93.55",
+        "271:94.2",
+        "251:62.5",
+        "243:0.27"
+      ],
+      [
+        "241:765.18",
+        "261:112.26",
+        "271:113.04",
+        "251:75",
+        "243:0.324"
+      ]
+    ],
+    "awakeSkill": [
+      116131,
+      116132
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      116101
+    ],
+    "gunSkill": 116161,
+    "gunBullets": 10,
+    "gunAccuracy": 0.8,
+    "gunCritical": 0.045,
+    "resetPosition": 0
+  },
+  {
+    "sn": 1171,
+    "name": "佐仓双叶",
+    "lastName": "隐者",
+    "thiefType": 2,
+    "gradeInitial": 5,
+    "personaInitial": 1171,
+    "clipItem": 301171,
+    "typeSN": 16,
+    "model": "navi",
+    "modelUI": "navi",
+    "weaponInitial": 211701,
+    "namePic": "Tongyong-mingzi-3.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-13.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-navi-new.png",
+    "zhenrongPersona": "zhenrong-lihui-navi-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      -66,
+      146,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      -42,
+      655,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-navi.png",
+    "jinjieThiefpos": [
+      22.5,
+      -26.6,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_navi",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "TL_Navi_Disturbance.prefab",
+    "trickstart": "Navi_skill_1.usm",
+    "trickstand": "Navi_skill_2.usm",
+    "trickend": "Navi_skill_3.usm",
+    "cvName": "悠木碧",
+    "cvNamepos": [
+      107,
+      18,
+      -20.47
+    ],
+    "Story": "比JOKER小一岁的少女，拥有超乎常人的计算能力和天才级别的编程技术，但极不擅长与人交流。加上曾经被卷入某个事件，导致在家闭门不出。\n因某个契机与JOKER一行相遇，觉醒了人格面具能力。\n初始人格面具是“死灵之书”。",
+    "showSound": "Sys_Navi0002",
+    "weaponenter_sound": "Sys_Navi0001",
+    "thiefchange_sound": "Sys_Navi0002",
+    "thiefbattle_sound": "Sys_Navi0002",
+    "cardenter_sound": "Sys_Navi0005",
+    "levelup_sound": "Sys_Navi0003",
+    "breach_sound": "Sys_Navi0004",
+    "weaponchange_sound": "Sys_Navi0006",
+    "gacha_sound": [],
+    "chat": "1171",
+    "qishiScale": 1,
+    "qishiPosition": [
+      0,
+      0.18,
+      0
+    ],
+    "qishiRotation": [
+      3.35,
+      107.75,
+      4.89
+    ],
+    "collisionThief": [
+      0.09,
+      -0.2,
+      0
+    ],
+    "collisionThiefB": [
+      0.03,
+      -0.2,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-008.jpg",
+    "readyPic": "guaidao-kapai-navi-new.png",
+    "readyShadowPic": "kamian-xiao-1-1.png",
+    "gachaPic": "guaidao-kapai-navi-new.png",
+    "gachaBigPic": "lihui-guaidao-navi-01.png",
+    "thiefBigPicPos": [
+      22.5,
+      -26.6,
+      0
+    ],
+    "fiveStarLinesOne": "网络情报归我！现实的事，可就交给你咯！",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-zuocangshuangye.png",
+    "thiefCodePos": [
+      -59.2,
+      -41,
+      0
+    ],
+    "thiefNamePos": [
+      -60.8,
+      144,
+      -14.4
+    ],
+    "gachaNamePic": "Tongyong-mingzi-3.png",
+    "gachaCode": "guaidao-daihao-zuocangshuangye.png",
+    "gachaCodePos": [
+      0,
+      -17,
+      4.5
+    ],
+    "gachaMask": "guaidao-mianjuicon-zuocangshuangye.png",
+    "littlePic": "kapai-shuangye01.png",
+    "gradePic": "tembin-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-10.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302203|302802",
+      "302203|302802",
+      "302203|302802",
+      "302204|302802",
+      "302204|302802",
+      "302204|302802"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:117",
+        "261:22.02",
+        "271:18.47",
+        "251:12.5",
+        "263:0.044"
+      ],
+      [
+        "241:234",
+        "261:44.04",
+        "271:36.94",
+        "251:25",
+        "263:0.088"
+      ],
+      [
+        "241:351",
+        "261:66.06",
+        "271:55.41",
+        "251:37.5",
+        "263:0.132"
+      ],
+      [
+        "241:468",
+        "261:88.08",
+        "271:73.88",
+        "251:50",
+        "263:0.176"
+      ],
+      [
+        "241:585",
+        "261:110.1",
+        "271:92.35",
+        "251:62.5",
+        "263:0.22"
+      ],
+      [
+        "241:702",
+        "261:132.12",
+        "271:110.82",
+        "251:75",
+        "263:0.264"
+      ]
+    ],
+    "awakeSkill": [
+      117131,
+      117132
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [],
+    "gunSkill": 0,
+    "gunBullets": 0,
+    "gunAccuracy": 0,
+    "gunCritical": 0,
+    "resetPosition": 0
+  },
+  {
+    "sn": 1191,
+    "name": "高卷杏",
+    "lastName": "恋爱",
+    "thiefType": 1,
+    "gradeInitial": 5,
+    "personaInitial": 1191,
+    "clipItem": 301191,
+    "typeSN": 4,
+    "model": "panther",
+    "modelUI": "panther",
+    "weaponInitial": 211901,
+    "namePic": "Tongyong-mingzi-5.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-5.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-panther-new.png",
+    "zhenrongPersona": "zhenrong-lihui-panther-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      -58,
+      -158,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      158,
+      662,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-panther.png",
+    "jinjieThiefpos": [
+      41,
+      -26,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_panther",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_panther",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_panther",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "水树奈奈",
+    "cvNamepos": [
+      107,
+      18,
+      -20.47
+    ],
+    "Story": "高中二年级的少女，有四分之一美国血统，学业之外还在当兼职模特。天真烂漫，性格直率。但因为漂亮出众的容貌而跟周围的人们格格不入，显得形单影只。\n和JOKER相遇后，以某个事件为契机觉醒了人格面具能力。\n初始人格面具是“卡门”。",
+    "showSound": "Sys_Panther0002",
+    "weaponenter_sound": "Sys_Panther0001",
+    "thiefchange_sound": "Sys_Panther0002",
+    "thiefbattle_sound": "Sys_Panther0002",
+    "cardenter_sound": "Sys_Panther0005",
+    "levelup_sound": "Sys_Panther0003",
+    "breach_sound": "Sys_Panther0004",
+    "weaponchange_sound": "Sys_Panther0006",
+    "gacha_sound": [],
+    "chat": "1191",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -0.2,
+      0.09,
+      -0.18
+    ],
+    "qishiRotation": [
+      0,
+      4.45,
+      0
+    ],
+    "collisionThief": [
+      0,
+      -0.05,
+      0
+    ],
+    "collisionThiefB": [
+      0,
+      -0.05,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-007.png",
+    "readyPic": "guaidao-kapai-panther-new.png",
+    "readyShadowPic": "kamian-3-2.png",
+    "gachaPic": "guaidao-kapai-panther-new.png",
+    "gachaBigPic": "lihui-guaidao-panther-01.png",
+    "thiefBigPicPos": [
+      41,
+      -26,
+      0
+    ],
+    "fiveStarLinesOne": "美丽的玫瑰，往往都是带刺的！",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-gaojuanxing.png",
+    "thiefCodePos": [
+      -6.8,
+      -19.2,
+      0
+    ],
+    "thiefNamePos": [
+      -68.3,
+      156.6,
+      -14.4
+    ],
+    "gachaNamePic": "Tongyong-mingzi-5.png",
+    "gachaCode": "guaidao-daihao-gaojuanxing.png",
+    "gachaCodePos": [
+      22,
+      -13,
+      -4.5
+    ],
+    "gachaMask": "guaidao-mianjuicon-gaojuanxing.png",
+    "littlePic": "kapai-xing01.png",
+    "gradePic": "panther-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-5.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302209|302801",
+      "302209|302801",
+      "302209|302801",
+      "302210|302801",
+      "302210|302801",
+      "302210|302801"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:109.98",
+        "261:26.86",
+        "271:16.25",
+        "251:12.63",
+        "263:0.044"
+      ],
+      [
+        "241:219.96",
+        "261:53.72",
+        "271:32.5",
+        "251:25.26",
+        "263:0.088"
+      ],
+      [
+        "241:329.94",
+        "261:80.58",
+        "271:48.75",
+        "251:37.89",
+        "263:0.132"
+      ],
+      [
+        "241:439.92",
+        "261:107.44",
+        "271:65",
+        "251:50.52",
+        "263:0.176"
+      ],
+      [
+        "241:549.9",
+        "261:134.3",
+        "271:81.25",
+        "251:63.15",
+        "263:0.22"
+      ],
+      [
+        "241:659.88",
+        "261:161.16",
+        "271:97.5",
+        "251:75.78",
+        "263:0.264"
+      ]
+    ],
+    "awakeSkill": [
+      119131,
+      119132
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      119101
+    ],
+    "gunSkill": 119161,
+    "gunBullets": 12,
+    "gunAccuracy": 0.75,
+    "gunCritical": 0.0533,
+    "resetPosition": 0
+  },
+  {
+    "sn": 1201,
+    "name": "新岛真",
+    "lastName": "女教皇",
+    "thiefType": 1,
+    "gradeInitial": 5,
+    "personaInitial": 1201,
+    "clipItem": 301201,
+    "typeSN": 6,
+    "model": "queen",
+    "modelUI": "queen",
+    "weaponInitial": 212001,
+    "namePic": "Tongyong-mingzi-12.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-12.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-queen-new.png",
+    "zhenrongPersona": "zhenrong-lihui-queen-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      7,
+      -15,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      74,
+      458,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-queen.png",
+    "jinjieThiefpos": [
+      -87,
+      -41,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_queen",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_queen",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_queen",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "佐藤利奈",
+    "cvNamepos": [
+      93,
+      22,
+      -20.47
+    ],
+    "Story": "高中三年级的少女，学生会长。\n头脑聪明，品行端正，性格冷静，责任感强，还很有行动力。但相对也有死心眼，不懂妥协的一面。\n以某个事件为契机觉醒了人格面具能力。\n初始人格面具是“琼安”。",
+    "showSound": "Sys_Queen0002",
+    "weaponenter_sound": "Sys_Queen0001",
+    "thiefchange_sound": "Sys_Queen0002",
+    "thiefbattle_sound": "Sys_Queen0002",
+    "cardenter_sound": "Sys_Queen0005",
+    "levelup_sound": "Sys_Queen0003",
+    "breach_sound": "Sys_Queen0004",
+    "weaponchange_sound": "Sys_Queen0006",
+    "gacha_sound": [],
+    "chat": "1201",
+    "qishiScale": 1,
+    "qishiPosition": [
+      0.22,
+      0.18,
+      -0.14
+    ],
+    "qishiRotation": [
+      13,
+      56,
+      3.5
+    ],
+    "collisionThief": [
+      0.26,
+      0.04,
+      0.47
+    ],
+    "collisionThiefB": [
+      0.23,
+      -0.15,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      40.72,
+      -1.25
+    ],
+    "bigPic": "kapai-004.png",
+    "readyPic": "guaidao-kapai-queen-new.png",
+    "readyShadowPic": "kamian-5-2.png",
+    "gachaPic": "guaidao-kapai-queen-new.png",
+    "gachaBigPic": "lihui-guaidao-queen-01.png",
+    "thiefBigPicPos": [
+      -87,
+      -41,
+      0
+    ],
+    "fiveStarLinesOne": "承受我的怒火吧！",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-xindaozhen.png",
+    "thiefCodePos": [
+      -22.8,
+      -37.1,
+      0
+    ],
+    "thiefNamePos": [
+      -68.3,
+      156.6,
+      -14.4
+    ],
+    "gachaNamePic": "Tongyong-mingzi-12.png",
+    "gachaCode": "guaidao-daihao-xindaozhen.png",
+    "gachaCodePos": [
+      25.9,
+      -26,
+      14.5
+    ],
+    "gachaMask": "guaidao-mianjuicon-xindaozhen.png",
+    "littlePic": "kapai-zhen01.png",
+    "gradePic": "queen-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-9.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302203|302803",
+      "302203|302803",
+      "302203|302803",
+      "302204|302803",
+      "302204|302803",
+      "302204|302803"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:107.64",
+        "261:23.56",
+        "271:20.31",
+        "251:14.38",
+        "411:0.0192"
+      ],
+      [
+        "241:215.28",
+        "261:47.12",
+        "271:40.62",
+        "251:28.76",
+        "411:0.0384"
+      ],
+      [
+        "241:322.92",
+        "261:70.68",
+        "271:60.93",
+        "251:43.14",
+        "411:0.0576"
+      ],
+      [
+        "241:430.56",
+        "261:94.24",
+        "271:81.24",
+        "251:57.52",
+        "411:0.0768"
+      ],
+      [
+        "241:538.2",
+        "261:117.8",
+        "271:101.55",
+        "251:71.9",
+        "411:0.096"
+      ],
+      [
+        "241:645.84",
+        "261:141.36",
+        "271:121.86",
+        "251:86.28",
+        "411:0.1152"
+      ]
+    ],
+    "awakeSkill": [
+      120132,
+      120131
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      120101
+    ],
+    "gunSkill": 120161,
+    "gunBullets": 6,
+    "gunAccuracy": 0.9,
+    "gunCritical": 0.0741,
+    "resetPosition": 0
+  },
+  {
+    "sn": 1211,
+    "name": "琴音·蒙塔涅",
+    "lastName": "荣耀",
+    "thiefType": 1,
+    "gradeInitial": 4,
+    "personaInitial": 1211,
+    "clipItem": 301211,
+    "typeSN": 13,
+    "model": "frost",
+    "modelUI": "frost",
+    "weaponInitial": 212101,
+    "namePic": "Tongyong-mingzi-23.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-8.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-mont-new.png",
+    "zhenrongPersona": "zhenrong-lihui-mont-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      7,
+      -15,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      74,
+      458,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-mont.png",
+    "jinjieThiefpos": [
+      -87,
+      17,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_frost",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "下地紫野",
+    "cvNamepos": [
+      107,
+      13,
+      -20.47
+    ],
+    "Story": "高中一年级的少女，有一半的法国血统，也是从小苦练花样滑冰的世界级天才选手。\n因优雅的姿态和出色的技巧在国际上备受关注，身为完美主义者的她正在积极准备参加一场盛大的国际赛事……\n人格面具Ⅱ是『忒耳普西科瑞』。",
+    "showSound": "Sys_Mont0002",
+    "weaponenter_sound": "VO_Mont0013",
+    "thiefchange_sound": "Sys_Mont0002",
+    "thiefbattle_sound": "Sys_Mont0001",
+    "cardenter_sound": "VO_Mont0001",
+    "levelup_sound": "Sys_Mont0003",
+    "breach_sound": "Sys_Mont0004",
+    "weaponchange_sound": "Sys_Mont0001",
+    "gacha_sound": [],
+    "chat": "1211",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -0.09,
+      0.13,
+      -0.35
+    ],
+    "qishiRotation": [
+      10.71,
+      15.55,
+      1.1
+    ],
+    "collisionThief": [
+      0.06,
+      -0.04,
+      0.22
+    ],
+    "collisionThiefB": [
+      0.06,
+      -0.07,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      45.93,
+      -1.25
+    ],
+    "bigPic": "kapai-002.png",
+    "readyPic": "guaidao-kapai-mont-new.png",
+    "readyShadowPic": "kamian-9-2.png",
+    "gachaPic": "guaidao-kapai-mont-new.png",
+    "gachaBigPic": "lihui-guaidao-mont-01.png",
+    "thiefBigPicPos": [
+      -87,
+      17,
+      0
+    ],
+    "fiveStarLinesOne": "",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-qinyin.png",
+    "thiefCodePos": [
+      -27.2,
+      -26.9,
+      0
+    ],
+    "thiefNamePos": [
+      -2.9,
+      125,
+      -17.1
+    ],
+    "gachaNamePic": "Tongyong-mingzi-23.png",
+    "gachaCode": "guaidao-daihao-qinyin.png",
+    "gachaCodePos": [
+      6.2,
+      -19.6,
+      -1.29
+    ],
+    "gachaMask": "guaidao-mianjuicon-qinyin.png",
+    "littlePic": "kapai-joker01.png",
+    "gradePic": "mona-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-13.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302209|302803",
+      "302209|302803",
+      "302209|302803",
+      "302210|302803",
+      "302210|302803",
+      "302210|302803"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:87.05",
+        "261:21.31",
+        "271:13.44",
+        "251:12.5",
+        "291:0.0423"
+      ],
+      [
+        "241:174.1",
+        "261:42.62",
+        "271:26.88",
+        "251:25",
+        "291:0.0846"
+      ],
+      [
+        "241:261.15",
+        "261:63.93",
+        "271:40.32",
+        "251:37.5",
+        "291:0.1269"
+      ],
+      [
+        "241:348.2",
+        "261:85.24",
+        "271:53.76",
+        "251:50",
+        "291:0.1692"
+      ],
+      [
+        "241:435.25",
+        "261:106.55",
+        "271:67.2",
+        "251:62.5",
+        "291:0.2115"
+      ],
+      [
+        "241:522.3",
+        "261:127.86",
+        "271:80.64",
+        "251:75",
+        "291:0.2538"
+      ]
+    ],
+    "awakeSkill": [
+      121131,
+      121132
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      121101
+    ],
+    "gunSkill": 121161,
+    "gunBullets": 5,
+    "gunAccuracy": 0.86,
+    "gunCritical": 0.1116,
+    "resetPosition": 1
+  },
+  {
+    "sn": 1251,
+    "name": "奥村春",
+    "lastName": "女帝",
+    "thiefType": 1,
+    "gradeInitial": 5,
+    "personaInitial": 1251,
+    "clipItem": 301251,
+    "typeSN": 7,
+    "model": "noir",
+    "modelUI": "noir",
+    "weaponInitial": 212501,
+    "namePic": "Tongyong-mingzi-7.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-6.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-noir-new.png",
+    "zhenrongPersona": "zhenrong-lihui-noir-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      7,
+      -15,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      74,
+      458,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-noir.png",
+    "jinjieThiefpos": [
+      106,
+      -69,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_noir",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_noir",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_noir",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "户松遥",
+    "cvNamepos": [
+      107,
+      18,
+      -20.47
+    ],
+    "Story": "高中三年级的少女，大型连锁餐饮公司社长家的大小姐，性格落落大方，稳重文雅。虽然能得体顺利地跟周围的人交流，但因为成长环境问题，有躲避与人深交的倾向。\n这样的她，是如何觉醒人格面具能力的呢……？\n初始人格面具是“米莱迪”。",
+    "showSound": "Sys_Noir0002",
+    "weaponenter_sound": "Sys_Noir0001",
+    "thiefchange_sound": "Sys_Noir0002",
+    "thiefbattle_sound": "Sys_Noir0002",
+    "cardenter_sound": "Sys_Noir0005",
+    "levelup_sound": "Sys_Noir0003",
+    "breach_sound": "Sys_Noir0004",
+    "weaponchange_sound": "Sys_Noir0006",
+    "gacha_sound": [],
+    "chat": "1251",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -0.33,
+      0.26,
+      -0.28
+    ],
+    "qishiRotation": [
+      18.4,
+      74.5,
+      12.3
+    ],
+    "collisionThief": [
+      0.06,
+      -0.12,
+      0
+    ],
+    "collisionThiefB": [
+      0.06,
+      -0.12,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      41.1,
+      -1.25
+    ],
+    "bigPic": "kapai-001.png",
+    "readyPic": "guaidao-kapai-noir-new.png",
+    "readyShadowPic": "kamian-2-2.png",
+    "gachaPic": "guaidao-kapai-noir-new.png",
+    "gachaBigPic": "lihui-guaidao-noir-01.png",
+    "thiefBigPicPos": [
+      106,
+      -69,
+      0
+    ],
+    "fiveStarLinesOne": "道路就由我自己开拓吧……",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-aochuncun.png",
+    "thiefCodePos": [
+      -33.3,
+      -31.9,
+      0
+    ],
+    "thiefNamePos": [
+      -68.3,
+      156.6,
+      -14.4
+    ],
+    "gachaNamePic": "Tongyong-mingzi-7.png",
+    "gachaCode": "guaidao-daihao-aochuncun.png",
+    "gachaCodePos": [
+      11,
+      -20,
+      0.48
+    ],
+    "gachaMask": "guaidao-mianjuicon-aochuncun.png",
+    "littlePic": "kapai-chun01.png",
+    "gradePic": "noir-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-3.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302201|302801",
+      "302201|302801",
+      "302201|302801",
+      "302202|302801",
+      "302202|302801",
+      "302202|302801"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:102.96",
+        "261:26.64",
+        "271:18.28",
+        "251:12.88",
+        "301:0.032"
+      ],
+      [
+        "241:205.92",
+        "261:53.28",
+        "271:36.56",
+        "251:25.76",
+        "301:0.064"
+      ],
+      [
+        "241:308.88",
+        "261:79.92",
+        "271:54.84",
+        "251:38.64",
+        "301:0.096"
+      ],
+      [
+        "241:411.84",
+        "261:106.56",
+        "271:73.12",
+        "251:51.52",
+        "301:0.128"
+      ],
+      [
+        "241:514.8",
+        "261:133.2",
+        "271:91.4",
+        "251:64.4",
+        "301:0.16"
+      ],
+      [
+        "241:617.76",
+        "261:159.84",
+        "271:109.68",
+        "251:77.28",
+        "301:0.192"
+      ]
+    ],
+    "awakeSkill": [
+      125131,
+      125132
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      125101
+    ],
+    "gunSkill": 125161,
+    "gunBullets": 1,
+    "gunAccuracy": 1,
+    "gunCritical": 0.05,
+    "resetPosition": 1
+  },
+  {
+    "sn": 1261,
+    "name": "JOKER",
+    "lastName": "诡骗师",
+    "thiefType": 1,
+    "gradeInitial": 5,
+    "personaInitial": 1261,
+    "clipItem": 301261,
+    "typeSN": 17,
+    "model": "joker",
+    "modelUI": "joker",
+    "weaponInitial": 212601,
+    "namePic": "",
+    "namesortPic": "",
+    "nameForParty": "",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-joker-new.png",
+    "zhenrongPersona": "zhenrong-lihui-joker-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      -183,
+      -48,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      74,
+      458,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-joker.png",
+    "jinjieThiefpos": [
+      -35,
+      4,
+      0
+    ],
+    "jinjieThiefScale": 1,
+    "equipEnterTL": "TL_UI_WeaponEnter_joker",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickTL": "",
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "cvName": "福山润",
+    "cvNamepos": [
+      110,
+      18,
+      -20.47
+    ],
+    "Story": "高中二年级的少年。\n以某个事件为契机，觉醒成为了“人格面具”操控者。\n初始人格面具是“亚森”。",
+    "showSound": "Sys_Joker0002",
+    "weaponenter_sound": "Sys_Joker0001",
+    "thiefchange_sound": "Sys_Joker0002",
+    "thiefbattle_sound": "Sys_Joker0002",
+    "cardenter_sound": "Sys_Joker0005",
+    "levelup_sound": "Sys_Joker0003",
+    "breach_sound": "Sys_Joker0004",
+    "weaponchange_sound": "Sys_Joker0006",
+    "gacha_sound": [],
+    "chat": "1261",
+    "qishiScale": 1,
+    "qishiPosition": [
+      0,
+      0,
+      0
+    ],
+    "qishiRotation": [
+      0,
+      0,
+      0
+    ],
+    "collisionThief": [
+      0,
+      0,
+      0
+    ],
+    "collisionThiefB": [
+      0,
+      0,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-002.png",
+    "readyPic": "guaidao-kapai-joker-new.png",
+    "readyShadowPic": "kamian-3-2.png",
+    "gachaPic": "guaidao-kapai-joker-new.png",
+    "gachaBigPic": "lihui-guaidao-joker-01-new.png",
+    "thiefBigPicPos": [
+      -35,
+      4,
+      0
+    ],
+    "fiveStarLinesOne": "演出时刻！",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-daihao-yugonglian.png",
+    "thiefCodePos": [
+      290,
+      -86.8,
+      -40.1
+    ],
+    "thiefNamePos": [
+      -69.4,
+      156.1,
+      -14.7
+    ],
+    "gachaNamePic": "guaidao-daihao-yugonglian.png",
+    "gachaCode": "",
+    "gachaCodePos": [
+      6.4,
+      -26.3,
+      3.44
+    ],
+    "gachaMask": "guaidao-mianjuicon-joker.png",
+    "littlePic": "kapai-joker01.png",
+    "gradePic": "mona-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-6.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302203|302803",
+      "302203|302803",
+      "302203|302803",
+      "302204|302803",
+      "302204|302803",
+      "302204|302803"
+    ],
+    "awakeItemCount": [
+      "3|1",
+      "11|3",
+      "22|6",
+      "22|10",
+      "35|15",
+      "63|21"
+    ],
+    "awakeProperty": [
+      [
+        "241:105.3",
+        "261:27.52",
+        "271:17.17",
+        "251:11.88",
+        "281:0.0264"
+      ],
+      [
+        "241:210.6",
+        "261:55.04",
+        "271:34.34",
+        "251:23.76",
+        "281:0.0528"
+      ],
+      [
+        "241:315.9",
+        "261:82.56",
+        "271:51.51",
+        "251:35.64",
+        "281:0.0792"
+      ],
+      [
+        "241:421.2",
+        "261:110.08",
+        "271:68.68",
+        "251:47.52",
+        "281:0.1056"
+      ],
+      [
+        "241:526.5",
+        "261:137.6",
+        "271:85.85",
+        "251:59.4",
+        "281:0.132"
+      ],
+      [
+        "241:631.8",
+        "261:165.12",
+        "271:103.02",
+        "251:71.28",
+        "281:0.1584"
+      ]
+    ],
+    "awakeSkill": [
+      126132,
+      126131
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      126101
+    ],
+    "gunSkill": 126161,
+    "gunBullets": 8,
+    "gunAccuracy": 0.92,
+    "gunCritical": 0.0543,
+    "resetPosition": 0
+  }
+]

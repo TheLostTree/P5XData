@@ -1,0 +1,379 @@
+[
+  {
+    "sn": 1000,
+    "order": [
+      -1
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "我们不在家，要记得好好吃饭。",
+    "headgroup": "touxiang-liaotian-new-weizhi.png,1"
+  },
+  {
+    "sn": 1001,
+    "order": [
+      1002
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "我们到机场了",
+    "headgroup": ""
+  },
+  {
+    "sn": 1002,
+    "order": [
+      1003
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "多少年没和你爸二人旅行啦",
+    "headgroup": ""
+  },
+  {
+    "sn": 1003,
+    "order": [
+      1004
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "期待我们的伴手礼吧",
+    "headgroup": ""
+  },
+  {
+    "sn": 1004,
+    "order": [
+      1005
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "一定记得锁好门哦",
+    "headgroup": ""
+  },
+  {
+    "sn": 1005,
+    "order": [
+      -1
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "我会再和你发信息的",
+    "headgroup": "touxiang-liaotian-new-weizhi.png,0"
+  },
+  {
+    "sn": 1010,
+    "order": [
+      1011
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "晚上好。",
+    "headgroup": "touxiang-liaotian-new-weizhi.png,1"
+  },
+  {
+    "sn": 1011,
+    "order": [
+      1012
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "是{PLAYER_NAME}同学吧？我是素羽",
+    "headgroup": ""
+  },
+  {
+    "sn": 1012,
+    "order": [
+      1015,
+      1015
+    ],
+    "head2d": "",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "没错|找错人了",
+    "headgroup": ""
+  },
+  {
+    "sn": 1013,
+    "order": [
+      1015
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "嗯，嗯。",
+    "headgroup": ""
+  },
+  {
+    "sn": 1014,
+    "order": [
+      1015
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "{PLAYER_NAME}同学有点坏心眼呢……",
+    "headgroup": ""
+  },
+  {
+    "sn": 1015,
+    "order": [
+      1016
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "我发现了一家很想去的店，明天放学后你有空吗？",
+    "headgroup": ""
+  },
+  {
+    "sn": 1016,
+    "order": [
+      1019,
+      1019
+    ],
+    "head2d": "",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "有空|那我留一下时间",
+    "headgroup": ""
+  },
+  {
+    "sn": 1017,
+    "order": [
+      1019
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "嗯，好的。",
+    "headgroup": ""
+  },
+  {
+    "sn": 1018,
+    "order": [
+      1019
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "嗯，好的。",
+    "headgroup": ""
+  },
+  {
+    "sn": 1019,
+    "order": [
+      -1
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "那明天放学后，涩谷的中央大街见啦。",
+    "headgroup": "touxiang-liaotian-new-weizhi.png,0"
+  },
+  {
+    "sn": 1020,
+    "order": [
+      1021
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "怎么样？习惯自己一个人生活了吗？",
+    "headgroup": "touxiang-liaotian-new-weizhi.png,1"
+  },
+  {
+    "sn": 1021,
+    "order": [
+      1022,
+      1023
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "还行吧|与其说只有自己一个……",
+    "headgroup": ""
+  },
+  {
+    "sn": 1022,
+    "order": [
+      1024
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "冰箱里堆的菜，可以拿来做饭哦？",
+    "headgroup": ""
+  },
+  {
+    "sn": 1023,
+    "order": [
+      1024
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "冰箱里堆的菜，可以拿来做饭哦？",
+    "headgroup": ""
+  },
+  {
+    "sn": 1024,
+    "order": [
+      1025
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "还有，你记得有空，\n就给门外的盆栽浇浇水。",
+    "headgroup": ""
+  },
+  {
+    "sn": 1025,
+    "order": [
+      -1
+    ],
+    "head2d": "touxiang-liaotian-new-weizhi.png",
+    "nameIcon": "Tongyong-mingzi-29.png",
+    "contentType": 1,
+    "content": "突然想起这些所以和你说一\n声,回聊哦。",
+    "headgroup": "touxiang-liaotian-new-weizhi.png,0"
+  },
+  {
+    "sn": 4001,
+    "order": [
+      4002
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "那个……你最近有时间吗？",
+    "headgroup": ""
+  },
+  {
+    "sn": 4002,
+    "order": [
+      4003
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "既然决定了要做怪盗，我就想啊……",
+    "headgroup": ""
+  },
+  {
+    "sn": 4003,
+    "order": [
+      4004
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "还是要尽量让自己动起来吧？",
+    "headgroup": ""
+  },
+  {
+    "sn": 4004,
+    "order": [
+      4005
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "所以，我决定要重新开始锻炼身体了！",
+    "headgroup": ""
+  },
+  {
+    "sn": 4005,
+    "order": [
+      4006
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "之前，我在异世界也完全动不起来……",
+    "headgroup": ""
+  },
+  {
+    "sn": 4006,
+    "order": [
+      4007
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "感觉自己真是没出息啊。",
+    "headgroup": ""
+  },
+  {
+    "sn": 4007,
+    "order": [
+      4008
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "但要是自己一个人的话，感觉自己会偷懒……",
+    "headgroup": ""
+  },
+  {
+    "sn": 4008,
+    "order": [
+      4009
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "如果你有时间的话，能不能陪我一下呢？",
+    "headgroup": ""
+  },
+  {
+    "sn": 4009,
+    "order": [
+      -1
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "拜托了！",
+    "headgroup": ""
+  },
+  {
+    "sn": 4010,
+    "order": [
+      4011
+    ],
+    "head2d": "",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "要出发去印象空间了，都做好准备了吗？",
+    "headgroup": ""
+  },
+  {
+    "sn": 4011,
+    "order": [
+      4012
+    ],
+    "head2d": "touxiang-liaotian-new-closer.png",
+    "nameIcon": "Tongyong-mingzi-26.png",
+    "contentType": 1,
+    "content": "我随时都可以。",
+    "headgroup": "touxiang-liaotian-new-closer.png,1"
+  },
+  {
+    "sn": 4012,
+    "order": [
+      -1
+    ],
+    "head2d": "touxiang-liaotian-new-soy.png",
+    "nameIcon": "Tongyong-mingzi-19",
+    "contentType": 1,
+    "content": "可以。",
+    "headgroup": "touxiang-liaotian-new-soy.png,1"
+  }
+]

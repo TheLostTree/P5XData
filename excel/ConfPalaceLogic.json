@@ -1,0 +1,234 @@
+[
+  {
+    "sn": 1,
+    "name": "木内雄之·宫殿",
+    "lordName": "木内雄之",
+    "engName": "Takeyuki Kiuchi",
+    "uiName": "gongdian01",
+    "npcSn": 5502204,
+    "unlockType": 0,
+    "unlockParam": 0,
+    "childPalace": [
+      100,
+      101,
+      105,
+      104,
+      106
+    ],
+    "awardShow": [
+      [
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-击球手",
+        "301007"
+      ],
+      [
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-贩售员",
+        "301008"
+      ],
+      [
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-安保员",
+        "301009"
+      ]
+    ],
+    "shading": "yishijie-yinxiangkongjian-01.png",
+    "shopSn": 14,
+    "moneyType": 23,
+    "namePic": "gongdian-mingzi-bangqiuguan.png",
+    "nameWorldPic": "ditu-yishijie-munei.png",
+    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+  },
+  {
+    "sn": 2,
+    "name": "宫泽博梦·宫殿",
+    "lordName": "宫泽博梦",
+    "engName": "",
+    "uiName": "",
+    "npcSn": 0,
+    "unlockType": 0,
+    "unlockParam": 0,
+    "childPalace": [
+      200
+    ],
+    "awardShow": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "shading": "",
+    "shopSn": 0,
+    "moneyType": 0,
+    "namePic": "",
+    "nameWorldPic": "",
+    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+  },
+  {
+    "sn": 9992,
+    "name": "TL临时测试场景",
+    "lordName": "TL临时测试场景",
+    "engName": "",
+    "uiName": "",
+    "npcSn": 0,
+    "unlockType": 0,
+    "unlockParam": 0,
+    "childPalace": [
+      992
+    ],
+    "awardShow": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "shading": "",
+    "shopSn": 0,
+    "moneyType": 0,
+    "namePic": "",
+    "nameWorldPic": "",
+    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+  },
+  {
+    "sn": 9994,
+    "name": "思想剥夺之路",
+    "lordName": "思想剥夺之路",
+    "engName": "",
+    "uiName": "",
+    "npcSn": 0,
+    "unlockType": 0,
+    "unlockParam": 0,
+    "childPalace": [
+      994
+    ],
+    "awardShow": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "shading": "",
+    "shopSn": 0,
+    "moneyType": 0,
+    "namePic": "",
+    "nameWorldPic": "",
+    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+  },
+  {
+    "sn": 9995,
+    "name": "山城测试3",
+    "lordName": "山城测试3",
+    "engName": "",
+    "uiName": "",
+    "npcSn": 0,
+    "unlockType": 0,
+    "unlockParam": 0,
+    "childPalace": [
+      995
+    ],
+    "awardShow": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "shading": "",
+    "shopSn": 0,
+    "moneyType": 0,
+    "namePic": "",
+    "nameWorldPic": "",
+    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+  },
+  {
+    "sn": 9996,
+    "name": "山城测试2",
+    "lordName": "山城测试2",
+    "engName": "",
+    "uiName": "",
+    "npcSn": 0,
+    "unlockType": 0,
+    "unlockParam": 0,
+    "childPalace": [
+      996
+    ],
+    "awardShow": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "shading": "",
+    "shopSn": 0,
+    "moneyType": 0,
+    "namePic": "",
+    "nameWorldPic": "",
+    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+  },
+  {
+    "sn": 9997,
+    "name": "山城测试1",
+    "lordName": "山城测试1",
+    "engName": "",
+    "uiName": "",
+    "npcSn": 0,
+    "unlockType": 0,
+    "unlockParam": 0,
+    "childPalace": [
+      997
+    ],
+    "awardShow": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "shading": "",
+    "shopSn": 0,
+    "moneyType": 0,
+    "namePic": "",
+    "nameWorldPic": "",
+    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+  },
+  {
+    "sn": 9998,
+    "name": "动作测试场景",
+    "lordName": "动作测试场景",
+    "engName": "",
+    "uiName": "",
+    "npcSn": 0,
+    "unlockType": 0,
+    "unlockParam": 0,
+    "childPalace": [
+      998
+    ],
+    "awardShow": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "shading": "",
+    "shopSn": 0,
+    "moneyType": 0,
+    "namePic": "",
+    "nameWorldPic": "",
+    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+  },
+  {
+    "sn": 9999,
+    "name": "1号测试场景",
+    "lordName": "1号测试场景",
+    "engName": "",
+    "uiName": "",
+    "npcSn": 0,
+    "unlockType": 0,
+    "unlockParam": 0,
+    "childPalace": [
+      999
+    ],
+    "awardShow": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "shading": "",
+    "shopSn": 0,
+    "moneyType": 0,
+    "namePic": "",
+    "nameWorldPic": "",
+    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+  }
+]

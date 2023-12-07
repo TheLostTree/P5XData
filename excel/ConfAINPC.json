@@ -1,0 +1,8591 @@
+[
+  {
+    "sn": 101001,
+    "patrolSpeed": 5,
+    "chaseSpeed": 10,
+    "patrolType": 2,
+    "patrol": "104.42,22.08,79.25",
+    "restTime": [
+      700,
+      1100
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 1500,
+    "chaseR": 25,
+    "battleSn": 1145,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 2106001,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 2,
+    "patrol": "84,22,96|84,22,101",
+    "restTime": [
+      700,
+      1100
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1500,
+    "chaseR": 25,
+    "battleSn": 1002,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 2106002,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 2,
+    "patrol": "107.6751,22.08069,66.26|110.13,20.6435,58.35513",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1500,
+    "chaseR": 25,
+    "battleSn": 1003,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500100,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "194.8,43.19,184.6",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80001,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500101,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "61.54,34.48,277.6",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80002,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500102,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "163.18,41.22,276.71",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80003,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500103,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "260.04,43.16,245.23",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80011,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500104,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "162.26,39.79,328.94",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80012,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500105,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "259.44,43.3,372.22",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80013,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500106,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "131.22,36.99,438.64",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80021,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500107,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "195.13,40.89,467.85",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80022,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500108,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "290.5,42.98,468.9",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80023,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500109,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "265.98,46.1,565.26",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80031,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500110,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "206.56,42.38,596.67",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80032,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500111,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "188.2,41.82,536.3",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80033,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500112,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "60.68,34.05,563.97",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80041,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500113,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "225.2,49.21,665.1",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80042,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500114,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "197.81,49.02,661.37",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80043,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 1,
+    "soundTag": []
+  },
+  {
+    "sn": 5500115,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "163.67,45.99,179.71",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80051,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500116,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "159.35,41.92,207.16",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80052,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500117,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "163.39,40.15,150.19",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80053,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500118,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "234.62,43.15,277.04",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80061,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500119,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "281.57,43.1,245.7",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80062,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500120,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "195.4,43.17,241.7",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80063,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500121,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "194.45,43.12,282.68",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80071,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500122,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "194.35,43.13,340.97",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80072,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500123,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "161.03,41.04,405.07",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80073,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500124,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "104.79,36.96,436.64",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80081,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500125,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "259.45,44.28,500.3",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80082,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500126,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "323.89,51.97,543.86",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80083,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500127,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "323.75,48.97,595.29",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80091,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500128,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "100.06,35.61,532.9",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80092,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500129,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "42.38,31.04,533.39",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80093,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500130,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "102.64,46.04,597.05",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80051,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500131,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "128.34,49.03,725.84",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80061,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500132,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "163.84,52.05,729.62",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80062,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500133,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "163.57,41.09,180.96",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80101,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500134,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "159.56,42.04,206.06",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80102,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500135,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "234.62,44.6,276.54",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80103,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500136,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "280.26,43.14,245.55",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80104,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500137,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "103.44,36.97,436.27",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80105,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500138,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "323.8,51.98,545.33",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80106,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500139,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "323.69,48.97,593.82",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80107,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500140,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "43.59,30.95,533.02",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80108,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500141,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "103.63,46.07,597.04",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80109,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500142,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "164.66,52.07,728.65",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 80110,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500161,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500162,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500163,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5500164,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502100,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "585.99,43.33,249.28",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 5,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80000,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502101,
+    "patrolSpeed": 0,
+    "chaseSpeed": 0,
+    "patrolType": 1,
+    "patrol": "584.23,40.34,182.33",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      1,
+      1
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 0,
+    "battleSn": 20300,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 1,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502102,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "648.1,41.47,306.61",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80101,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502103,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "647.01,48.55294,364.519",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80811,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 4,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502104,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "707.39,49.75,393.34",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80102,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502105,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "551.99,40.22,367.68",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80812,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502106,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "780.45,46.23,361.95",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80103,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502107,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "680.18,49.22,417.8",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80104,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502108,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "744.45,58.28,451.22",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80105,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502109,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "807.43,59.61,488.91",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80106,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502110,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "622.63,46.29,491.94",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80813,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502111,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "584.78,43.22,366.68",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80107,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502112,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "560.98,41.31,393.51",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80108,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502113,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "487.86,37.64,360.69",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80109,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502114,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "647.01,48.2,363.29",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 8,
+    "battleSn": 80801,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502115,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "551.82,40.22,369.58",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80802,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502116,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "622.63,46.29,492.14",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80803,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502117,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "648.39,50.02,457.76",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80110,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 6,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502118,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "455.91,59.02,677.88",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80814,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502119,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "548.34,49.42,490.72",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80111,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502120,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "402.03,61.24,776.66",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80815,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502121,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "455.43,43.18,518.95",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80112,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502122,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "622.67,52.6,585.5",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80201,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502123,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "614.91,52.54,598.58",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80202,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502124,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "651.14,52.21,649.07",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80203,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502125,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "583.61,64.47,763.01",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80816,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502126,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "492.88,55.22,648.89",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80204,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502127,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "500.71,58.12,680.99",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80205,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502128,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "391.99,52.21,654.31",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80206,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502129,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "455.91,59.1,679.29",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80804,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502130,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "402.73,61.24,777.94",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80805,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502131,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "582.85,64.48,761.88",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80806,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502132,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "327.84,55.48,596.94",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80207,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502133,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "904.33,55.24,582.46",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80817,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502134,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "358.16,53.58,556.74",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80208,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502135,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "718.39,61.2,680",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 12,
+    "battleSn": 80818,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502136,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "362.14,54.4,722.31",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80209,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502137,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "455.05,59.2,743.17",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80210,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502138,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "560.63,64.6,745.13",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80211,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502139,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "453.92,59.36,776.8",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80212,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502140,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "872.14,61.44,776.95",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80819,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502141,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "722.22,55.21,841.84",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80820,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502142,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "545.96,61.21,809.51",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80213,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502143,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "546.16,64.22,841.22",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 8,
+    "alertTime": 2000,
+    "chaseR": 14,
+    "battleSn": 80214,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502144,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "904.33,55.26,580.76",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80807,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502145,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "719.48,61.2,679.83",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80808,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502146,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "870.42,61.24,776.81",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80809,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502147,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "723.64,55.2,841.52",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80810,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502148,
+    "patrolSpeed": 0,
+    "chaseSpeed": 0,
+    "patrolType": 1,
+    "patrol": "755.88,54.46,387.04",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80701,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502149,
+    "patrolSpeed": 0,
+    "chaseSpeed": 0,
+    "patrolType": 1,
+    "patrol": "524.05,64.26369,732.45",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80702,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502150,
+    "patrolSpeed": 0,
+    "chaseSpeed": 0,
+    "patrolType": 1,
+    "patrol": "867.79,64.22,693.38",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80703,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502151,
+    "patrolSpeed": 0,
+    "chaseSpeed": 0,
+    "patrolType": 1,
+    "patrol": "652.53,56.17,847.84",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80704,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502152,
+    "patrolSpeed": 0,
+    "chaseSpeed": 0,
+    "patrolType": 1,
+    "patrol": "689.75,49.22,553.03",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80901,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502153,
+    "patrolSpeed": 0,
+    "chaseSpeed": 0,
+    "patrolType": 1,
+    "patrol": "456.05,55.21,882.3",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80902,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502154,
+    "patrolSpeed": 0,
+    "chaseSpeed": 0,
+    "patrolType": 1,
+    "patrol": "872.03,67.19,882.67",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 80903,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502155,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "807.79,62.63,649.46",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80301,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502156,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "899.15,58.58,615.62",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80302,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502157,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "874.59,58.28,552.87",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80303,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502158,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "779.42,61.98,680.6",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80304,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502159,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "807.1,62.15,744.68",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80305,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502160,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "684.83,58.17,744.85",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80306,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502161,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "777.18,56.48,776.57",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80307,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502162,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "712.06,52.17,810.36",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80308,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502163,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "809.4,58.25,806.42",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80309,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502164,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "872.28,62.22,808.21",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80310,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502165,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "936.14,58.14,783.97",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80311,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502166,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "738.63,55.18,872.96",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 9,
+    "alertTime": 2000,
+    "chaseR": 15,
+    "battleSn": 80312,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502214,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0
+    ],
+    "feelingR": 1000,
+    "alertTime": 20,
+    "chaseR": 0,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502215,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0
+    ],
+    "feelingR": 1000,
+    "alertTime": 20,
+    "chaseR": 0,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502216,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0
+    ],
+    "feelingR": 1000,
+    "alertTime": 20,
+    "chaseR": 0,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502217,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0
+    ],
+    "feelingR": 1000,
+    "alertTime": 20,
+    "chaseR": 0,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502218,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0
+    ],
+    "feelingR": 1000,
+    "alertTime": 20,
+    "chaseR": 0,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502219,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0
+    ],
+    "feelingR": 1000,
+    "alertTime": 20,
+    "chaseR": 0,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502220,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0
+    ],
+    "feelingR": 1000,
+    "alertTime": 20,
+    "chaseR": 0,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502221,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0
+    ],
+    "feelingR": 1000,
+    "alertTime": 20,
+    "chaseR": 0,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 5502222,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0
+    ],
+    "feelingR": 1000,
+    "alertTime": 20,
+    "chaseR": 0,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 7301001,
+    "patrolSpeed": 0,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "80.52,77.84,313.1",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      3,
+      150
+    ],
+    "feelingR": 3,
+    "alertTime": 1000,
+    "chaseR": 0,
+    "battleSn": 1704,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 7301002,
+    "patrolSpeed": 0,
+    "chaseSpeed": 0,
+    "patrolType": 1,
+    "patrol": "69.15,76.26,191.77",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 0,
+    "alertTime": 1000,
+    "chaseR": 0,
+    "battleSn": 1705,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 2,
+    "param1": "TL__monster_battleshow_L.prefab",
+    "param2": "pazuzu",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 7301003,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "68.9,75.96972,260.81|68.9,75.96972,264.8",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1702,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 7302001,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "209.51,74.43,338.94|209.58,73.25106,328.95",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1701,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 100,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8301001,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "66.56,0.04,63.53",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20101,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8301003,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "109.04,0.06,49.31|109.04,0.06,46.1",
+    "restTime": [
+      1800,
+      2000
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20102,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8301004,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "80.65,0.01,73.86|80.65,0.01,67.43",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20103,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8301007,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "101.71,0.01,77.38|99.672,0.01,80.699|99.672,0.01,77.466",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20104,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8301008,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "125.04,0.01,72.42|128.98,0.01,65.78|135.83,0.01,67.67|135.7,0.01,76.17|126.76,0.01,76.54",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20105,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8301009,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "178.78,0.02,74.93",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 1,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20107,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8301011,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "164.57,0.02,94.1|163.94,0.02,95.95",
+    "restTime": [
+      1800,
+      2500
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20106,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8301021,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "162.5,0.009999888,59.25|148.11,0.009999888,59.25",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20111,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8301024,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "141.26,0,44.7|130.43,0,44.7",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20127,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8301025,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "134.66,0,51.51|145.34,0,51.51",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20128,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8301027,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "93.02,0,52.66",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20122,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8301028,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "94.27,0,52.66|95.61,0,50.04|96.33,0,55.12",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20129,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8302001,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "204.55,0,75.33",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20123,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8302002,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "204.55,0,75.33|208.07,0,77.54|200.38,0,77.94",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20130,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8304011,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "239,19.88,47.09",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20125,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8304012,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "239,19.88,47.09|234.67,19.88,51.99",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20131,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8304020,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306002,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "229.68,0.01,73.16|229.68,0.01,64.79",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20114,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306004,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "254.64,0.01,84.69|246.73,0.01,84.69",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20115,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306007,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "275.57,0,91.45|275.57,0,85.41|269.4,0,85.41|269.4,0,93.64",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20116,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306009,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "335.77,0.01,100.28|338.17,0.01,96.77|327.539,0.01,96.657|327.36,0.01,94.44|324.85,0.01,88.98|323.245,0.01,99.542|334.67,0.01,96.83|334.32,0.01,94.36",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20112,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306010,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "335.77,0.01,100.28|338.17,0.01,96.77|327.539,0.01,96.657|327.36,0.01,94.44|324.85,0.01,88.98|323.245,0.01,99.542|334.67,0.01,96.83|334.32,0.01,94.36",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20113,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306011,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "328.05,-0.01,81.45",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20121,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306015,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "332.53,-0.01,70.1|322.84,-0.01,70.1|322.84,-0.01,63.43",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20119,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306017,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "350.13,0.04,46.56|350.13,0.04,57.62",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20120,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306020,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306024,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306027,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "307.75,0,61|309.199,0,55.93|311.055,0,60.259",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      120
+    ],
+    "feelingR": 2,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20117,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306028,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "311.647,0,65.128|311.647,0,69.779|315.04,0,69.779|311.088,0,69.779",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      90
+    ],
+    "feelingR": 2,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20118,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306031,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "282.01,0.01,69.66",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20124,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8306032,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "283.58,0.01,73.84|277.78,0.01,77.41|271.77,0.01,68.22",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20126,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8307000,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      0,
+      0
+    ],
+    "feelingR": 0,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 0,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 3,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8307001,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "248.28,0.01,81.87",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 20111,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8307002,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 2,
+    "patrol": "269.18,0.01,83.66",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 20112,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8307003,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "238.53,0.01,100.25",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 20113,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8307004,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "299.28,0,79.2",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 20114,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8307005,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "300.38,0,110.27|293.19,0,110.27",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 20115,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8307006,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "357.49,0,89.53|357.49,0,79.96",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 10,
+    "battleSn": 20116,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": [
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
+    ]
+  },
+  {
+    "sn": 8331200,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "101.96,1.5,171.03|96.96,1.5,166.97|96.09,1.5,173.59",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      3,
+      150
+    ],
+    "feelingR": 3,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20302,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331205,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "122.81,1.55,157.41|120.88,1.55,162.82|117.23,1.55,155.91",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20344,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331206,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "105.8,1.53,157.43",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20345,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331210,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "150.94,5.929999,180.15|150.94,5.929999,188.87",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20316,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331215,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "138.862,5.94,198.509",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20346,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331216,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "141.2,5.94,200.15|141.2,5.94,195.219",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20347,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331220,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "147.41,1.58,94.81|143.73,1.58,90.36",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20318,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331221,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "148.09,1.58,84.27|143.88,1.58,79.01",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20319,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331225,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "143.85,1.51,62.1",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20355,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331226,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "144.52,1.51,62.82|139.34,1.51,62.82",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20356,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331230,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "113.04,1.59,105.01|106.45,1.59,107.15",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20320,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331231,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "108.36,1.59,83.99|114.74,1.59,86.54",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20321,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331233,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "94.47,1.51,122.48|94.47,1.51,114.97",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20354,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331235,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "113.81,1.64,144.14|115.9,1.64,149.29",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20314,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331240,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "93.38,1.53,149.1|98.86,1.53,149.1",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20315,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331245,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "159.072,5.543378,92.714|168.097,3.447249,92.71402",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20322,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331250,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "186.722,1.62,84.18",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20357,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331251,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "186.722,1.62,84.18|186.722,1.62,90.178",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20358,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331255,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "216.02,1.56,102.68|211,1.56,100.81",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20323,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331260,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "197.7,1.55,111.68|203.682,1.55,115.926",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20324,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331261,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "210.56,1.55,123.75|213.669,1.55,118.33",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20325,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331265,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "211.26,1.59,147.3|201.25,1.59,144.28",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20326,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8331266,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "222.56,1.51,159.96",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20359,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8332200,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "156.88,3.37,119.35|147.43,3.37,119.35",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20303,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8332201,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "165.5,1.54,137|165.5,1.54,141.47",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      6,
+      90
+    ],
+    "feelingR": 2.5,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20304,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8332202,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "185.41,1.73,135.77",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20342,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8332203,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "187.89,1.73,132.27|187.39,1.73,140.47|183.609,1.73,136.607",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20343,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8332211,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "137.77,9.67,150.12|135.89,9.67,145.56",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20310,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336200,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "187.36,5.54,171.07|181.93,5.54,171.07",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20305,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336201,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "191.39,9.61,142.36|185.82,9.61,145.44",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 1,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20306,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336202,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "217.81,9.62,132.83|208,9.62,132.83",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20307,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336203,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "198.17,9.71,103.32|200.81,9.71,108.92",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20315,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336205,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "229.18,9.63,121.21|225.26,9.63,124.25",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20308,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336210,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "181.45,9.61,118.68|182.48,9.61,124",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20309,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336213,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "247.54,8.74,132.68",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20348,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336214,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "251.13,8.74,132.68|243.911,8.74,132.68",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20349,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336215,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "211.69,9.62,102.35|207.94,9.62,96.53",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20316,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336217,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "186.46,9.61,105.47",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20350,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336218,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "187.36,9.611263,100.23|190.08,9.611264,103.88|184.98,9.611264,96.84",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20351,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336220,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "118.91,9.62,147.83",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 1,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20301,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336225,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "105.726,9.67,136.461|105.726,9.67,143.56",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20311,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336226,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "91.728,9.66,146.264|87.92,9.66,142.11|83.627,9.66,146.394",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20313,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336227,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "93.03,9.62,134.36|97.43,9.62,135.73",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 6,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20312,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336230,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "92.12,9.61,178.04|98.01,9.61,183.37",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20317,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336232,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "118.5,9.62,172.06",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20352,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336233,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "118.64,9.62,175.98|115.616,9.62,180.518",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20353,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336235,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "147.73,8.77,72.32",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20361,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336236,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "149.66,8.77,69.93|146.03,8.77,73.55|147.77,8.77,68.26",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20362,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336240,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "128.55,9.67,104.73|134.43,9.67,102.94",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20327,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336245,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "63.77,9.55,99.39|61.81,9.55,92.77",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20328,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336246,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "84.18,9.63,94.82|87.74,9.63,101.62",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20360,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336250,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "88.57,9.72,72.25|96.84,9.72,72.25",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20329,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336260,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "119.66,9.63,70.62",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20363,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336261,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "119.66,9.63,70.62|119.93,9.63,65.18",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20364,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336265,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "63.54,9.71,61.47|70.02,9.71,61.47",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20330,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8336270,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "90.57,9.64,43.31|90.57,9.64,38.78",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20331,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8341200,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 2,
+    "patrol": "156.34,15.9,147.52|148.65,15.9,152.24|155.25,15.9,155.64",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20332,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8341201,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "153.78,15.04,173.35",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20367,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8341202,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "153.78,15.05,173.35|151.66,15.05,176.83",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20368,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8342200,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "160.27,15.9,113.92|153.27,15.9,110.36",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20333,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8342203,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "170.35,15.92,100.46|167.67,15.92,107.41",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20335,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8342205,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "125.39,15.91,101.107|135.69,15.91,101.107",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20334,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8342210,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "114.431,15.94,118.183",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20365,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8342211,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "114.431,15.94,118.183|114.431,15.94,124.13",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20366,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8342215,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "158.13,15.91,86.67|158.13,15.91,80.65",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20336,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8342220,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "160.84,15.88,56.95|170.13,15.88,55.92",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20337,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8342230,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "134.9,15.87,53.01",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20369,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8342231,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "135.71,15.87,55.51|139.07,15.87,57.98",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      7,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20370,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 3,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 8342235,
+    "patrolSpeed": 4,
+    "chaseSpeed": 7,
+    "patrolType": 1,
+    "patrol": "205.4,16.02,43.53|199.1,16.02,44.39",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      5,
+      150
+    ],
+    "feelingR": 4,
+    "alertTime": 2000,
+    "chaseR": 20,
+    "battleSn": 20338,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      15,
+      -10
+    ],
+    "canView": 0,
+    "patrolWay": 1,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034001,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "43.89,6.8,28.98|51.33,6.8,28.87",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1712,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034002,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "34.57,10.09,81.39|34.57,10.09,75.2",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1713,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034003,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "43.89,6.8,28.98|51.33,6.8,28.87",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1714,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034004,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "34.57,10.09,81.39|34.57,10.09,75.2",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1715,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034005,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "43.89,6.8,28.98|51.33,6.8,28.87",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1716,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034006,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "34.57,10.09,81.39|34.57,10.09,75.2",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1717,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034007,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "43.89,6.8,28.98|51.33,6.8,28.87",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1718,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034008,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "34.57,10.09,81.39|34.57,10.09,75.2",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1719,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 2,
+    "wander": 5,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034009,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "34.57,10.09,81.39|34.57,10.09,75.2",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1711,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 0,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034010,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "34.57,10.09,81.39|34.57,10.09,75.2",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 1710,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 0,
+    "wander": 0,
+    "type": 2,
+    "param1": "TL__monster_battleshow_s.prefab",
+    "param2": "yoshitune_s1",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034011,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "0,167.3438,13.4",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 6181,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 2,
+    "param1": "TL__monster_battleshow_s.prefab",
+    "param2": "yoshitune_s1",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034012,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "0,167.3438,13.4",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 6181,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 2,
+    "param1": "TL__monster_battleshow_s.prefab",
+    "param2": "yoshitune_s1",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034014,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "0,167.3438,13.4",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 6181,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 2,
+    "param1": "TL__monster_battleshow_s.prefab",
+    "param2": "yoshitune_s1",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034015,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "0,167.3438,13.4",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 6181,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 2,
+    "param1": "TL__monster_battleshow_s.prefab",
+    "param2": "yoshitune_s1",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034016,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "0,167.3438,13.4",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 6181,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 2,
+    "param1": "TL__monster_battleshow_s.prefab",
+    "param2": "yoshitune_s1",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034017,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "0,167.3438,13.4",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 6181,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 2,
+    "param1": "TL__monster_battleshow_s.prefab",
+    "param2": "yoshitune_s1",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 10034018,
+    "patrolSpeed": 4,
+    "chaseSpeed": 9,
+    "patrolType": 1,
+    "patrol": "0,167.3438,13.4",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 7,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 6181,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 2,
+    "param1": "TL__monster_battleshow_s.prefab",
+    "param2": "yoshitune_s1",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  },
+  {
+    "sn": 30002001,
+    "patrolSpeed": 0,
+    "chaseSpeed": 0,
+    "patrolType": 1,
+    "patrol": "37.82,66.78,100.12",
+    "restTime": [
+      1000,
+      1800
+    ],
+    "sightR": [
+      8,
+      150
+    ],
+    "feelingR": 1,
+    "alertTime": 1000,
+    "chaseR": 10,
+    "battleSn": 3006,
+    "alertLevelCondition": 0,
+    "alertThreshold": [
+      50,
+      -40
+    ],
+    "canView": 0,
+    "patrolWay": 3,
+    "wander": 0,
+    "type": 1,
+    "param1": "",
+    "param2": "",
+    "directKillProbability": 0,
+    "star": 0,
+    "soundTag": []
+  }
+]

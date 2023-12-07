@@ -1,0 +1,4373 @@
+[
+  {
+    "sn": "door_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "door_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "door_be_opened",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "door_be_closed",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "qiao_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "qiao_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "baoxiang_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "baoxiang_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_Sx_changzhu.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0116|2"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "emptyModel_default",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "emptyModel_trigger",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_yzt_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "yazhitian_jiguan_yanjingchixu.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_yzt_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "trap_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "trap_close",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "hidden_default",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "rope_default",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_kmjg_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_kmjg_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_press_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_press_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_pull_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_pull_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_dzmkg_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "msg_dzmkg01_open.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_dzmkg_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "msg_dzmkg01_close.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_anniu_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "msg_anniu01_open.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_anniu_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_kztkg_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "msg_kztkg01_open.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_kztkg_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_yhbxmkg_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_yhbxmkg_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "penhuo_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_jg_trap_penhuo_xh_2.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "penhuo_close",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_jg_trap_penhuo_xh_3.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "fanghuzhu_be_opened",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "dianwangzhu_run.prefab"
+      ],
+      [
+        "dianwangzhu_stand.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0018"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "fanghuzhu_be_closed",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "massif_up",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "massif_down",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "pulldoor_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "pulldoor_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_yzt_anya_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_yzt_anya_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "yztdamen02_Shine.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "dong_in",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "dong_out",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_zhizhudiaoxiang_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_zhizhudiaoxiang_openloop.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "switch_zhizhudiaoxiang_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_zhizhudiaoxiang_colseloop.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "fanghuzhu_fangjian_be_opened",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "dianwangzhu_run2.prefab"
+      ],
+      [
+        "dianwangzhu_stand2.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0018"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "fanghuzhu_fangjian_be_closed",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "huopen_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "diantang02_fire1.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "huopen_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sc_door_open_01",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_yinghua_left_red.prefab"
+      ],
+      [
+        "sc_yinghua_right_green.prefab"
+      ],
+      [
+        "sc_damen_red.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sc_door_open_10",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_yinghua_left_green.prefab"
+      ],
+      [
+        "sc_yinghua_right_red.prefab"
+      ],
+      [
+        "sc_damen_red.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sc_door_open_11",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sc_door_close_00",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_yinghua_left_red.prefab"
+      ],
+      [
+        "sc_yinghua_right_red.prefab"
+      ],
+      [
+        "sc_damen_red.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "door_open_huawen",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "door_close_huawen",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_wall_huawen3.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sc_dicitiaotai_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_tiaotai_red.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sc_dicitiaotai_close",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sc_dicitiaotai_closeeffect",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_tiaotai_green.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "emptyModel_Light_default",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "dungeon_pick.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "emptyModel_Light_trigger",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "roadblock_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "roadblock_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_empty_roadblock_fx.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sc_yincang_wall_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_wall_huawen4.prefab"
+      ],
+      [
+        "sc_yincang_loop.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sc_yincang_wall_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "sc_wall_huawen4.prefab"
+      ],
+      [
+        "sc_yincang_loop.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "zudangwu_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_yxkj_zudang_wu.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "zudangwu_close",
+    "isTrigger": 1,
+    "isCollider": 0,
+    "effect": [
+      [
+        "FX_yxkj_zudang_wu_2.prefab"
+      ]
+    ],
+    "delayDelEffect": 0.5,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 1,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "quyuzudang_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "yxkj_quyuzudang_idle.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "quyuzudang_close",
+    "isTrigger": 1,
+    "isCollider": 0,
+    "effect": [
+      [
+        "yxkj_quyuzudang_die.prefab"
+      ]
+    ],
+    "delayDelEffect": 0.5,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 1,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "texiao_open",
+    "isTrigger": 1,
+    "isCollider": 0,
+    "effect": [
+      [
+        "yxkj_area_green_02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "texiao_close",
+    "isTrigger": 1,
+    "isCollider": 0,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_zhuanpan_up",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_cangpinguiqiang_up.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_zhuanpan_right",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_cangpinguiqiang_right.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_zhuanpan_down",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_cangpinguiqiang_down.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_zhuanpan_left",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_cangpinguiqiang_left.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_zhuanpan_finished",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_xianshiqi_1_up",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "benlei_bangqiu1.prefab"
+      ],
+      [
+        "benlei_xiaoren4.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_xianshiqi_1_right",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "benlei_bangqiu1.prefab"
+      ],
+      [
+        "benlei_xiaoren3.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_xianshiqi_1_down",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "benlei_bangqiu1.prefab"
+      ],
+      [
+        "benlei_xiaoren1.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_xianshiqi_1_left",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "benlei_bangqiu1.prefab"
+      ],
+      [
+        "benlei_xiaoren2.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_xianshiqi_1_close",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_cangpingui_locked",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0120"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_cangpingui_unlocked",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0121"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_dianzimen_locked",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_dianzimen_closeLight.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_dianzimen_unlocked_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_dianzimen_openLight02.prefab"
+      ]
+    ],
+    "delayDelEffect": 1,
+    "delayAddEffect": 1,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_dianzimen_unlocked_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_dianzimen_openLight02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0122|2"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_dianzimen_dead",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_kongzhiqi_locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_brush.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_kongzhiqi_unlocked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_faqiuji_idle",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_faqiuji_shoot",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_faqiuji_die",
+    "isTrigger": 0,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "close",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "ysj_tiaozhan_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "ysj_tiaozhan_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_shoujidiaoxiang_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_shoujidiaoxiang_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "task_default",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "task_inProgress",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei_guidedisplay_start01.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "task_finish",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei_guidedisplay_finish01.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_door_small_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_lvdeng02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_door_small_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_lvdeng02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_door_small_locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_hongdeng02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_door_small_dead",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_door_large_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_door_large_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_door_large_locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_club_door_small_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_club_door_small_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_club_door_small_locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_club_door_small_dead",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_club_door_large_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_club_door_large_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_club_door_large_locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_club_door_large_dead",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_door_wrongway01",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_door_wrongway02",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_door_mendeng_unlocked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_lvdeng01.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_door_mendeng_locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_hongdeng01.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_kongzhiqi_off",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_kongzhiqioff.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_kongzhiqi_on",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_kongzhiqion.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "guidepad_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei_guidepad_on01.prefab"
+      ]
+    ],
+    "delayDelEffect": 0.53,
+    "delayAddEffect": 0.53,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "guidepad_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei_guidepad_off01.prefab"
+      ]
+    ],
+    "delayDelEffect": 0.52,
+    "delayAddEffect": 0.52,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "guideTV_white",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "guideTV_Screen1",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_TVScreen01.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "guideTV_Screen2",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_TVScreen02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "guideTV_Screen3",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_TVScreen03.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "guideTV_Screen4",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_TVScreen04.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "guideTV_Screen5",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_TVScreen05.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "guideTV_Screen6",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_benlei1F_TVScreen06.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp_off",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampBaseOn01.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 1.083,
+    "delayAddEffect": 1.083,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp01_off",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampBaseOn01.prefab",
+        "t_effect"
+      ],
+      [
+        "bqg_sanlei_lampTubeOff01.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 1.083,
+    "delayAddEffect": 1.083,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp02_off",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampBaseOn01.prefab",
+        "t_effect"
+      ],
+      [
+        "bqg_sanlei_lampTubeOff02.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 1.083,
+    "delayAddEffect": 1.083,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp03_off",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampBaseOn01.prefab",
+        "t_effect"
+      ],
+      [
+        "bqg_sanlei_lampTubeOff03.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 1.083,
+    "delayAddEffect": 1.083,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp04_off",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampBaseOn01.prefab",
+        "t_effect"
+      ],
+      [
+        "bqg_sanlei_lampTubeOff04.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 1.083,
+    "delayAddEffect": 1.083,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp01_on",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampTubeOn01.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp02_on",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampTubeOn02.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp03_on",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampTubeOn03.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp04_on",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampTubeOn04.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp01_blink",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampTubeBlink01.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 1,
+    "delayAddEffect": 1,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp02_blink",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampTubeBlink02.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 1,
+    "delayAddEffect": 1,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp03_blink",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampTubeBlink03.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 1,
+    "delayAddEffect": 1,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumblamp04_blink",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_lampTubeBlink04.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 1,
+    "delayAddEffect": 1,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sanleikaiguan_on",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_kaiguan_default.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sanleikaiguan_off",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_kaiguan_On.prefab"
+      ]
+    ],
+    "delayDelEffect": 0.77,
+    "delayAddEffect": 0.77,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "tielian_Fog_Door_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "tielian_Fog_Door_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_yxkj_zudang_wu_lock.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sanlei_dianzhalan_off",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sanlei_dianzhalan_on01",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "dianwangzhu_run.prefab"
+      ],
+      [
+        "bqg_dianwangzhu_stand01.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0018"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sanlei_dianzhalan_on02",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "dianwangzhu_run.prefab"
+      ],
+      [
+        "bqg_dianwangzhu_stand02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0018"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "sanlei_dianzhalan_on03",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "dianwangzhu_run.prefab"
+      ],
+      [
+        "bqg_dianwangzhu_stand03.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0018"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumbmenpai_off",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumbmenpai_lv1",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_menpaiNumOn01.prefab",
+        "t_effect01"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumbmenpai_lv2",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_menpaiNumOn01.prefab",
+        "t_effect01"
+      ],
+      [
+        "bqg_sanlei_menpaiNumOn01.prefab",
+        "t_effect02"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumbmenpai_lv3",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_menpaiNumOn01.prefab",
+        "t_effect01"
+      ],
+      [
+        "bqg_sanlei_menpaiNumOn01.prefab",
+        "t_effect02"
+      ],
+      [
+        "bqg_sanlei_menpaiNumOn01.prefab",
+        "t_effect03"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "thumbmenpai_lv4",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_sanlei_menpaiNumOn01.prefab",
+        "t_effect01"
+      ],
+      [
+        "bqg_sanlei_menpaiNumOn01.prefab",
+        "t_effect02"
+      ],
+      [
+        "bqg_sanlei_menpaiNumOn01.prefab",
+        "t_effect03"
+      ],
+      [
+        "bqg_sanlei_menpaiNumOn01.prefab",
+        "t_effect04"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "chuansongdian_default",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "areacircle_3.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "chuansongdian_trigger",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "areacircle_3.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "chuansongdian_empty_default",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "chuansongdian_empty_trigger",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "chuansongdian_empty_switch",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "chuansongdian_dianzimen_default",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "chuansongdian_dianzimen_trigger",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_dianzimen_openLight02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "chuansongdian_dianzimen_switch",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_dianzimen_openLight02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "TL_man_opendoor_fail.prefab",
+    "hideUIViewAfterFail": 1
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_Unlocked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_bangqiuguisuo_key01.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_Locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_yellow01_Unlocked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_bangqiuguisuo_key01.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 0.6,
+    "delayAddEffect": 0.6,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_yellow01_Locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "jiguan_baoxiang_1-1_openlight1.prefab",
+        "t_effect05"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_yellow03_Unlocked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_bangqiuguisuo_key01.prefab",
+        "t_effect02"
+      ],
+      [
+        "bqg_common_bangqiuguisuo_key01.prefab",
+        "t_effect03"
+      ],
+      [
+        "bqg_common_bangqiuguisuo_key01.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 0.6,
+    "delayAddEffect": 0.6,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_yellow03_Locked01",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "jiguan_baoxiang_1-1_openlight1.prefab",
+        "t_effect05"
+      ],
+      [
+        "bqg_common_bangqiuguisuo_key01.prefab",
+        "t_effect02"
+      ],
+      [
+        "bqg_common_bangqiuguisuo_key01.prefab",
+        "t_effect03"
+      ]
+    ],
+    "delayDelEffect": 0.6,
+    "delayAddEffect": 0.6,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_yellow03_Locked02",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "jiguan_baoxiang_1-1_openlight1.prefab",
+        "t_effect05"
+      ],
+      [
+        "bqg_common_bangqiuguisuo_key01.prefab",
+        "t_effect02"
+      ]
+    ],
+    "delayDelEffect": 0.6,
+    "delayAddEffect": 0.6,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_yellow03_Locked03",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "jiguan_baoxiang_1-1_openlight1.prefab",
+        "t_effect05"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_pink01_Unlocked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_bangqiuguisuo_key02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0.6,
+    "delayAddEffect": 0.6,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_pink01_Locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "jiguan_baoxiang_1-1_openlight1.prefab",
+        "t_effect05"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_blue01_Unlocked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_bangqiuguisuo_key03.prefab"
+      ]
+    ],
+    "delayDelEffect": 0.6,
+    "delayAddEffect": 0.6,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_blue01_Locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "jiguan_baoxiang_1-1_openlight1.prefab",
+        "t_effect05"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_blue02_Unlocked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_bangqiuguisuo_key03.prefab",
+        "t_effect02"
+      ],
+      [
+        "bqg_common_bangqiuguisuo_key03.prefab",
+        "t_effect"
+      ]
+    ],
+    "delayDelEffect": 0.6,
+    "delayAddEffect": 0.6,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_blue02_Locked01",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "jiguan_baoxiang_1-1_openlight1.prefab",
+        "t_effect05"
+      ],
+      [
+        "bqg_common_bangqiuguisuo_key03.prefab",
+        "t_effect02"
+      ]
+    ],
+    "delayDelEffect": 0.6,
+    "delayAddEffect": 0.6,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_blue02_Locked02",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "jiguan_baoxiang_1-1_openlight1.prefab",
+        "t_effect05"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_key01",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_bangqiu_key01.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_key02",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_bangqiu_key02.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_bangqiuguisuo_key03",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_bangqiu_key03.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_jiguan_chekumen_default",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_jiguan_chekumen_trigger",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_diantimen_open01",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_diantimen_open02",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_diantimen_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_common_baoxiang_blue_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0.3,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_common_baoxiang_blue_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_standbylight_blue.prefab"
+      ],
+      [
+        "FX_baoxiang_openlight_blue1.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_common_baoxiang_purple_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0.3,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_common_baoxiang_purple_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_standbylight_purple.prefab"
+      ],
+      [
+        "FX_baoxiang_openlight_purple1.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_baoxiang_lv1_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_baoxiang_lv1_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_Sx_changzhu_Lv1.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0116|2"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_baoxiang_lv2_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_baoxiang_lv2_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_Sx_changzhu_Lv2.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0116|2"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_baoxiang_lv3_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_baoxiang_lv3_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_Sx_changzhu_Lv3.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0116|2"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_baoxiang_lv2_locked_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_baoxiangsuo_lv2_unlock.prefab",
+        "t_effect_lockOpen"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_baoxiang_lv2_locked_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_Sx_changzhu_Lv2.prefab"
+      ],
+      [
+        "bqg_common_baoxiangsuo_lv2_lock.prefab",
+        "t_effect_lockClose"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0116|2"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_baoxiang_lv3_locked_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "bqg_common_baoxiangsuo_lv3_unlock.prefab",
+        "t_effect_lockOpen"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_baoxiang_lv3_locked_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_Sx_changzhu_Lv3.prefab"
+      ],
+      [
+        "bqg_common_baoxiangsuo_lv3_lock.prefab",
+        "t_effect_lockClose"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [
+      "Amb0116|2"
+    ],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_common_baoxiang_gold_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0.3,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_common_baoxiang_gold_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_standbylight_gold.prefab"
+      ],
+      [
+        "FX_baoxiang_openlight_gold1.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "mofang_fixed",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "mofang_unfixed",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_mofang_unfixed.prefab",
+        "root"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_common_zhalanzu_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_common_zhalanzu_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_tiantaidamen_0",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_tiantaidamen_1",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "bqg_tiantaidamen_light1.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_tiantaidamen_2",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "bqg_tiantaidamen_light2.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_tiantaidamen_3",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "bqg_tiantaidamen_light3.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_tiantaidamen_4",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "bqg_tiantaidamen_light4.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_tiantai_jiluban_0",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_tiantai_jiluban_1",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "bqg_jiluban_light1.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_tiantai_jiluban_2",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "bqg_jiluban_light2.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_tiantai_jiluban_3",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "bqg_jiluban_light3.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_tiantai_jiluban_4",
+    "isTrigger": 0,
+    "isCollider": 0,
+    "effect": [
+      [
+        "bqg_jiluban_light4.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_common_trigger_huapen01_trigger01",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_common_trigger_huapen01_trigger02",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_common_trigger_huapen02_trigger01",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_common_trigger_huapen02_trigger02",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "ysc_common_suofangCamera_UnActive",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "ysc_common_suofangCamera_Active",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "ysc_common_juxianhuaCamera_UnActive",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "ysc_common_juxianhuaCamera_Active",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "ysc_common_zantingCamera_UnActive",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "ysc_common_zantingCamera_Active",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "ysc_common_biaoliCamera_UnActive",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "ysc_common_biaoliCamera_Active",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "target_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "target_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bazi_idle",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_Sx_changzhu_Lv1.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bazi_hit",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_yilei_dicishoutao_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "bqg_yilei_dicishoutao_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "\u0000\u0000\u0000\u0000"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_tielianbaoxiang_blue_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "yxkj_tielianbaoxiang_open.prefab"
+      ]
+    ],
+    "delayDelEffect": 0.2,
+    "delayAddEffect": 0.5,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_tielianbaoxiang_blue_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_standbylight_blue.prefab"
+      ],
+      [
+        "FX_baoxiang_openlight_blue1.prefab"
+      ],
+      [
+        "yxkj_tielianbaoxiang_open.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_tielianbaoxiang_blue_locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_standbylight_blue.prefab"
+      ],
+      [
+        "FX_baoxiang_openlight_blue1.prefab"
+      ],
+      [
+        "FX_tielianbaoxiang_standbylight_blue.prefab"
+      ],
+      [
+        "yxkj_tielianbaoxiang_closed_blue.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_tielianbaoxiang_purple_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "yxkj_tielianbaoxiang_open.prefab"
+      ]
+    ],
+    "delayDelEffect": 0.2,
+    "delayAddEffect": 0.5,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_tielianbaoxiang_purple_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_standbylight_purple.prefab"
+      ],
+      [
+        "FX_baoxiang_openlight_purple1.prefab"
+      ],
+      [
+        "yxkj_tielianbaoxiang_open.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_tielianbaoxiang_purple_locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_standbylight_purple.prefab"
+      ],
+      [
+        "FX_baoxiang_openlight_purple1.prefab"
+      ],
+      [
+        "FX_tielianbaoxiang_standbylight_purple.prefab"
+      ],
+      [
+        "yxkj_tielianbaoxiang_closed_purple.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_tielianbaoxiang_gold_open",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "yxkj_tielianbaoxiang_open.prefab"
+      ]
+    ],
+    "delayDelEffect": 0.2,
+    "delayAddEffect": 0.5,
+    "preSwitchEffect": 1,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_tielianbaoxiang_gold_close",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_standbylight_gold.prefab"
+      ],
+      [
+        "FX_baoxiang_openlight_gold1.prefab"
+      ],
+      [
+        "yxkj_tielianbaoxiang_open.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  },
+  {
+    "sn": "yxkj_tielianbaoxiang_gold_locked",
+    "isTrigger": 1,
+    "isCollider": 1,
+    "effect": [
+      [
+        "FX_baoxiang_standbylight_gold.prefab"
+      ],
+      [
+        "FX_baoxiang_openlight_gold1.prefab"
+      ],
+      [
+        "FX_tielianbaoxiang_standbylight_gold.prefab"
+      ],
+      [
+        "yxkj_tielianbaoxiang_closed_gold.prefab"
+      ]
+    ],
+    "delayDelEffect": 0,
+    "delayAddEffect": 0,
+    "preSwitchEffect": 0,
+    "initNotLoadingEffect": 0,
+    "sound": [],
+    "failPlayerOper": "",
+    "hideUIViewAfterFail": 0
+  }
+]

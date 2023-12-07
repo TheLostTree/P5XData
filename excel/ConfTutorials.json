@@ -1,0 +1,632 @@
+[
+  {
+    "sn": 10101,
+    "next": 10102,
+    "text": "<color=#ff3b37>指令区</color>显示当前可执行的各种操作指令。",
+    "image": "tutorials-10101.png"
+  },
+  {
+    "sn": 10102,
+    "next": -1,
+    "text": "<color=#ff3b37>功能区</color>显示当前回合数和一些特殊操作按键。",
+    "image": "tutorials-10103.png"
+  },
+  {
+    "sn": 10201,
+    "next": 10202,
+    "text": "技能拥有各自的属性，敌人则有<color=#ff3b37>弱点</color>的属性，\n用其弱点的属性攻击，可以造成「<color=#ff3b37>WEAK</color>」。\n「WEAK」：造成更大的伤害，并使敌人<color=#ff3b37>倒地</color>。",
+    "image": "tutorials-10201.png"
+  },
+  {
+    "sn": 10202,
+    "next": 10203,
+    "text": "使敌人倒地后，能接着再次攻击，\n这种情况被称为「<color=#ff3b37>ONE MORE</color>」\n「ONE MORE」释放具有时间限制，超时会<color=#ff3b37>自动释放</color>。",
+    "image": "tutorials-10202.png"
+  },
+  {
+    "sn": 10203,
+    "next": -1,
+    "text": "「ONE MORE」会优先攻击<color=#ff3b37>未被击倒</color>的单位；\n再次使敌人倒地，可以释放更强力的「ONE MORE」。\n连续使敌人倒地，就可以单方面发动攻势。",
+    "image": "tutorials-10203.png"
+  },
+  {
+    "sn": 10301,
+    "next": 10302,
+    "text": "使在场的所有敌人倒地，\n即可选择一名己方角色发动「<color=#ff3b37>HIGHLIGHT</color>」",
+    "image": "tutorials-10301.png"
+  },
+  {
+    "sn": 10302,
+    "next": -1,
+    "text": "「HIGHLIGHT」可对<color=#ff3b37>一名敌人</color>造成特定属性的超特大伤害。",
+    "image": "tutorials-10302.png"
+  },
+  {
+    "sn": 10401,
+    "next": 10402,
+    "text": "<color=#ff3b37>行动条</color>可以查看敌我角色的行动顺序。",
+    "image": "tutorials-10402.png"
+  },
+  {
+    "sn": 10402,
+    "next": -1,
+    "text": "长按<color=#ff3b37>战斗单位</color>或者战斗单位的<color=#ff3b37>头像</color>，\n可以查看该单位的详细信息。",
+    "image": "tutorials-10403.png"
+  },
+  {
+    "sn": 10501,
+    "next": 10502,
+    "text": "由枪发动的攻击视为<color=#ff3b37>射击属性</color>，\n<color=#ff3b37>飞行</color>的阴影通常都惧怕枪械的威力，\n在射完固定弹药之前，可以切换攻击对象。",
+    "image": "tutorials-10501.png"
+  },
+  {
+    "sn": 10502,
+    "next": -1,
+    "text": "<color=#ff3b37>战斗结束后</color>怪盗们会填装弹夹中的子弹，\n积极地利用枪械进行攻击吧！",
+    "image": ""
+  },
+  {
+    "sn": 10601,
+    "next": 10602,
+    "text": "敌人与人格面具造成的伤害均附带属性，\n从左到右依次为：\n<color=#ff3b37>物</color>、<color=#ff3b37>射</color>、<color=#ff3b37>火</color>、<color=#ff3b37>冰</color>、<color=#ff3b37>电</color>、<color=#ff3b37>风</color>、<color=#ff3b37>念</color>、<color=#ff3b37>核</color>、<color=#ff3b37>祝</color>、<color=#ff3b37>咒</color>",
+    "image": "tutorials-10601.png"
+  },
+  {
+    "sn": 10602,
+    "next": 10603,
+    "text": "敌人和人格面具有各自的属性相克，\n详情界面可查看自身与敌人的克制情况。\n属性存在5种克制效果：<color=#ff3b37>弱</color>、<color=#ff3b37>耐</color>、<color=#ff3b37>无</color>、<color=#ff3b37>反</color>、<color=#ff3b37>吸</color>。\n未受攻击的敌人不显示属性克制关系。",
+    "image": "tutorials-10602.png"
+  },
+  {
+    "sn": 10603,
+    "next": 10604,
+    "text": "「<color=#ff3b37>弱点</color>」：受到的伤害提升，同时削减护盾值；\n「<color=#ff3b37>耐性</color>」：受到的伤害减少；\n「<color=#ff3b37>无效</color>」：不会受到伤害；",
+    "image": ""
+  },
+  {
+    "sn": 10604,
+    "next": -1,
+    "text": "「<color=#ff3b37>反弹</color>」：受到的伤害反弹给施法者；\n「<color=#ff3b37>吸收</color>」：受到攻击时吸收伤害，并恢复自身生命。",
+    "image": ""
+  },
+  {
+    "sn": 10701,
+    "next": 10702,
+    "text": "强力的怪物会具有「<color=#ff3b37>倒地值</color>」。\n造成倒地伤害时将首先削减其倒地值。",
+    "image": "tutorials-10701.png"
+  },
+  {
+    "sn": 10702,
+    "next": -1,
+    "text": "倒地值被清除时，才会被<color=#ff3b37>击倒</color>。\n倒地值越高，其抵抗倒地伤害的能力越强。",
+    "image": ""
+  },
+  {
+    "sn": 10801,
+    "next": 10802,
+    "text": "使在场的所有敌人倒地，\n可以发动我方全员释放「<color=#ff3b37>总攻击</color>」。",
+    "image": "tutorials-10801.png"
+  },
+  {
+    "sn": 10802,
+    "next": 10803,
+    "text": "「<color=#ff3b37>总攻击</color>」是对所有敌人造成大量伤害的必杀攻击。\n主角无法行动或只有主角可以行动时无法发动。",
+    "image": "tutorials-10802.png"
+  },
+  {
+    "sn": 10803,
+    "next": -1,
+    "text": "「总攻击」与「HIGHLIGHT」触发条件相同。\n「总攻击」对<color=#ff3b37>所有敌人</color>造成大量伤害；\n「HIGHLIGHT」对<color=#ff3b37>一名敌人</color>造成超特大伤害；\n请根据当前战斗形势，选择释放。",
+    "image": "tutorials-10803.png"
+  },
+  {
+    "sn": 10901,
+    "next": 10902,
+    "text": "发动「<color=#ff3b37>诡计</color>」可以使用支援怪盗的强大能力。",
+    "image": "tutorials-10901.png"
+  },
+  {
+    "sn": 10902,
+    "next": -1,
+    "text": "发动「诡计」需要消耗「<color=#ff3b37>诡计值</color>」。\n每名怪盗行动后，会都获得一点诡计值。\n不同支援怪盗的诡计值获取方法各具特色。",
+    "image": "tutorials-10902.png"
+  },
+  {
+    "sn": 11001,
+    "next": -1,
+    "text": "WONDER拥有特别的资质，能持有多个人格面具。\n战斗中可以通过<color=#ff3b37>更换人格面具</color>，\n切换<color=#ff3b37>人格面具技能</color>以及<color=#ff3b37>属性适应性</color>。",
+    "image": "tutorials-11001.png"
+  },
+  {
+    "sn": 20101,
+    "next": 20102,
+    "text": "在异世界中会遭遇<color=#ff3b37>阴影</color>。",
+    "image": "tutorials-20101.png"
+  },
+  {
+    "sn": 20102,
+    "next": -1,
+    "text": "使用<color=#ff3b37>攻击</color>指令攻击阴影，可以进入战斗。",
+    "image": "tutorials-20102.png"
+  },
+  {
+    "sn": 20103,
+    "next": -1,
+    "text": "敌人未发现时发动攻击，会视为<color=#ff3b37>先制攻击</color>，\n在战斗中，我方可以优先发起一轮攻击。",
+    "image": ""
+  },
+  {
+    "sn": 20201,
+    "next": 20202,
+    "text": "当场景中障碍物出现图示标识时，\n说明此处是一个<color=#ff3b37>隐匿点</color>。",
+    "image": "tutorials-20201.png"
+  },
+  {
+    "sn": 20202,
+    "next": 20203,
+    "text": "点击隐匿，可使自身进入<color=#ff3b37>隐匿藏身</color>状态。\n该状态下<color=#ff3b37>不会被敌人发现</color>。\n注意：处于被敌人追击状态下，无法进行隐匿藏身。",
+    "image": "tutorials-20202.png"
+  },
+  {
+    "sn": 20203,
+    "next": 20204,
+    "text": "隐匿时，若附近存在其他隐匿点，\n可以通过操作<color=#ff3b37>瞬间移动</color>至新隐匿点。",
+    "image": "tutorials-20203.png"
+  },
+  {
+    "sn": 20204,
+    "next": 20205,
+    "text": "点击退出可以<color=#ff3b37>取消</color>隐匿藏身状态。",
+    "image": "tutorials-20204.png"
+  },
+  {
+    "sn": 20205,
+    "next": 20206,
+    "text": "敌人靠近自身所在的隐匿点时，\n图标会变为可点击态，此时可对敌人发起<color=#ff3b37>偷袭</color>。",
+    "image": "tutorials-20205.png"
+  },
+  {
+    "sn": 20206,
+    "next": -1,
+    "text": "偷袭进入战斗，会视为<color=#ff3b37>先制攻击</color>，\n在战斗中，我方可以优先发起一轮攻击。",
+    "image": ""
+  },
+  {
+    "sn": 20301,
+    "next": 20302,
+    "text": "与发现的安全小屋交互，即可将其解锁。\n可通过异界导航<color=#ff3b37>快速前往</color>已经开放的安全小屋。",
+    "image": "tutorials-20301.png"
+  },
+  {
+    "sn": 20302,
+    "next": 20303,
+    "text": "<color=#ff3b37>安全小屋</color>是怪盗团的休憩之所，\n进入安全小屋可以让所有同伴<color=#ff3b37>恢复状态</color>。\n同时异世界中的阴影也会<color=#ff3b37>重新凝聚</color>。",
+    "image": "tutorials-20302.png"
+  },
+  {
+    "sn": 20303,
+    "next": -1,
+    "text": "在安全小屋中可以<color=#ff3b37>培养怪盗</color>、<color=#ff3b37>培养面具</color>，\n同时也可以<color=#ff3b37>更换阵容</color>。",
+    "image": "tutorials-20303.png"
+  },
+  {
+    "sn": 20401,
+    "next": -1,
+    "text": "开启<color=#ff3b37>观察模式</color>能发现肉眼无法察觉的事物，\n找到各种各样的<color=#ff3b37>提示</color>。\n找不到行动目标时，请灵活运用观察模式吧。",
+    "image": "tutorials-20401.png"
+  },
+  {
+    "sn": 20501,
+    "next": -1,
+    "text": "靠近勾绳触发区域有<color=#ff3b37>勾绳</color>按钮显示，\n点击后，能够使用勾绳快速移动至目标区域。",
+    "image": "tutorials-20501.png"
+  },
+  {
+    "sn": 20601,
+    "next": -1,
+    "text": "印象空间中存在缠绕金光的「<color=#ff3b37>迷失阴影</color>」。\n击败它们，会掉落<color=#ff3b37>更高级里程卡</color>。\n他们消散后，此处可能会凝聚更强大的阴影。",
+    "image": "tutorials-20601.png"
+  },
+  {
+    "sn": 20701,
+    "next": 20702,
+    "text": "想要去往某处的欲望，由于被大众所抛弃和遗忘，\n以<color=#ff3b37>里程卡</color>的形式散落在印象空间各处。\n累计收集里程越多，对印象空间的了解越多。\n就能<color=#ff3b37>通过雾门</color>前往印象空间更深处。",
+    "image": "tutorials-20702.png"
+  },
+  {
+    "sn": 20702,
+    "next": -1,
+    "text": "欲望越强烈，品质越高，蕴含里程数也越大。\n蓝色=10里程；紫色=50里程；金色=200里程。\n击败<color=#ff3b37>堕落的狂徒</color>，能够直接获得1000里程。",
+    "image": ""
+  },
+  {
+    "sn": 20801,
+    "next": 20802,
+    "text": "异世界中存在着不同欲望凝结的「<color=#ff3b37>特殊阴影</color>」，\n击败它们，可以获得不同的养成材料。\n战斗中换手后伤害大幅度提升，巧妙利用ONE MORE、\n总攻击终结战斗吧！",
+    "image": "tutorials-20801.png"
+  },
+  {
+    "sn": 20802,
+    "next": -1,
+    "text": "打败「<color=#ff3b37>麻木的食书癖</color>」可得传记残页、断章、全书。\n打败「<color=#ff3b37>暴力的武斗派</color>」可得万用零件中、大。\n打败「<color=#ff3b37>混沌暗影</color>」可得人格面具精碎、精魄。\n打败「<color=#ff3b37>守财奴</color>」可以获得大量魂石奖励。",
+    "image": ""
+  },
+  {
+    "sn": 20901,
+    "next": 20902,
+    "text": "在宫殿内使用<color=#ff3b37>观察模式</color>。\n能找到藏有道具的<color=#ff3b37>搜索物品</color>。",
+    "image": "tutorials-20901.png"
+  },
+  {
+    "sn": 20902,
+    "next": -1,
+    "text": "不仅能够攻击敌人，\n<color=#ff3b37>攻击</color>各种场景物件，可能会有意外的收获。",
+    "image": "tutorials-20902.png"
+  },
+  {
+    "sn": 21001,
+    "next": -1,
+    "text": "印象空间中存在着钻石形态的「<color=#ff3b37>宝魔</color>」。\n限定回合内战胜它们，即可获得超额奖励。\n不慎被逃跑的话，\n下次探索时在附近能再次发现它们。",
+    "image": "tutorials-21001.png"
+  },
+  {
+    "sn": 21101,
+    "next": -1,
+    "text": "印象空间中散落着此类「<color=#ff3b37>收集物</color>」，\n收集该物品可获得一定量的魂石。",
+    "image": "tutorials-21101.png"
+  },
+  {
+    "sn": 21201,
+    "next": -1,
+    "text": "阴影在印象空间中聚集，\n形成了称之为「<color=#ff3b37>厄抑之境</color>」的特殊空间。\n怪盗团需要不时造访，来修正扭曲的欲望，\n同时也能获得成长必备的「<color=#ff3b37>材料</color>」。",
+    "image": "tutorials-21201.png"
+  },
+  {
+    "sn": 30101,
+    "next": 30102,
+    "text": "屏幕<color=#ff3b37>右上方</color>显示今后的行动、有关提示或目的地。\n找不到行动目标时，可以参考这个资讯。",
+    "image": "tutorials-30101.png"
+  },
+  {
+    "sn": 30102,
+    "next": 30103,
+    "text": "点击<color=#ff3b37>追踪标记</color>可以开启追踪状态。",
+    "image": "tutorials-30102.png"
+  },
+  {
+    "sn": 30103,
+    "next": -1,
+    "text": "当开启追踪状态时，\n行动目标会通过<color=#ff3b37>距离标记</color>在场景中标示出来。",
+    "image": "tutorials-30103.png"
+  },
+  {
+    "sn": 30201,
+    "next": -1,
+    "text": "「<color=#ff3b37>幻影戏法</color>」为角色占卜活动，\n在此占卜可以获得「<color=#ff3b37>怪盗</color>」以及「人格面具」。\n<color=#ff3b37>每十次占卜，必出四星或以上物品。</color>",
+    "image": ""
+  },
+  {
+    "sn": 31001,
+    "next": 31002,
+    "text": "<color=#ff3b37>协同者</color>是主角都市生活中的助力者，\n完成特定的助力事件后，与主角结成协同关系。",
+    "image": "tutorials-31001.png"
+  },
+  {
+    "sn": 31002,
+    "next": 31003,
+    "text": "通过与协同者<color=#ff3b37>约会</color>能提升亲密度。\n约会时<color=#ff3b37>赠送礼物</color>是快速提高亲密度的窍门。\n路菲尔作为向导，无需进行约会。",
+    "image": "tutorials-31002.png"
+  },
+  {
+    "sn": 31003,
+    "next": -1,
+    "text": "与其他协同者亲密度达到一定条件后，\n进行关系加深约会，可以提升亲密等级，\n获得对应的<color=#ff3b37>赠礼</color>以及<color=#ff3b37>协同能力</color>。",
+    "image": "tutorials-31003.png"
+  },
+  {
+    "sn": 31101,
+    "next": -1,
+    "text": "查看协同者偏好，可以得知个人喜好。\n约会时赠送<color=#ff3b37>喜好礼物</color>，会获得额外的好感度。\n首次赠送，更会大幅提高好感度。",
+    "image": "tutorials-31101.png"
+  },
+  {
+    "sn": 31201,
+    "next": -1,
+    "text": "随着约会次数及亲密等级的提升，\n会逐渐了解其<color=#ff3b37>个人信息</color>、<color=#ff3b37>人物故事</color>；\n也会有更多的<color=#ff3b37>语音</color>内容解锁。",
+    "image": "tutorials-31201.png"
+  },
+  {
+    "sn": 32101,
+    "next": -1,
+    "text": "消耗对应的材料，\n可以使用<color=#ff3b37>工作台</color>制作探索道具。\n物品首次制作时，还能够获得<color=#ff3b37>灵巧</color>。",
+    "image": "tutorials-32101.png"
+  },
+  {
+    "sn": 32201,
+    "next": 32202,
+    "text": "繁华的东京街都，\n热血的高中少年将度过充实的每一天。\n努力<color=#ff3b37>学习</color>，勤奋<color=#ff3b37>打工</color>，或与好友一起参加<color=#ff3b37>娱乐</color>活动。",
+    "image": "tutorials-32201.png"
+  },
+  {
+    "sn": 32202,
+    "next": 32203,
+    "text": "每天<color=#ff3b37>放学后</color>、<color=#ff3b37>傍晚</color>、<color=#ff3b37>夜晚</color>，\n都会有一段时间可以自由支配，\n请选择向往的都市生活事件去完成吧。\n切记：<color=#ff3b37>完成事件都会消耗时间</color>。",
+    "image": "tutorials-32202.png"
+  },
+  {
+    "sn": 32203,
+    "next": -1,
+    "text": "每进行1件都市事件，需要消耗1点行动力。\n<color=#ff3b37>每自然日05:00</color>，\n会自动恢复5点行动力。",
+    "image": "tutorials-32203.png"
+  },
+  {
+    "sn": 32301,
+    "next": 32302,
+    "text": "通过烹饪台，可以使用食材制作菜品。\n异世界中探索时，食用菜品可以获得<color=#ff3b37>增益效果</color>。\n制作时有概率获得效果更强的<color=#ff3b37>美味菜品</color>。",
+    "image": "tutorials-32301.png"
+  },
+  {
+    "sn": 32302,
+    "next": -1,
+    "text": "部分食材可以在四轩茶屋的<color=#ff3b37>超市</color>购买；\n也可以通过<color=#ff3b37>种植</color>获得。\n菜谱熟练后，还有概率获得对应的<color=#ff3b37>灵感菜谱</color>。",
+    "image": "tutorials-32302.png"
+  },
+  {
+    "sn": 32401,
+    "next": 32402,
+    "text": "小花园，可以种植<color=#ff3b37>花卉</color>及<color=#ff3b37>食材</color>。\n花卉可以在制作台制作礼物；\n食材可以用来烹饪。\n种子首次收获时，还会获得<color=#ff3b37>体贴</color>。",
+    "image": "tutorials-32401.png"
+  },
+  {
+    "sn": 32402,
+    "next": -1,
+    "text": "种子<color=#ff3b37>种植</color>后，到达时间即可<color=#ff3b37>收获</color>；\n可以通过<color=#ff3b37>施肥</color>，缩短等待时长。\n<color=#ff3b37>执行都市事件，能感受到时间的快速流逝。</color>",
+    "image": "tutorials-32402.png"
+  },
+  {
+    "sn": 32501,
+    "next": -1,
+    "text": "武器补给前，需要进行<color=#ff3b37>限定自选</color>。\n获得五星武器时，只会出现限定的三把武器。\n有50%概率获得限定UP武器。\n<color=#ff3b37>每十次补给，必得四星或以上武器。</color>",
+    "image": ""
+  },
+  {
+    "sn": 39801,
+    "next": -1,
+    "text": "<color=#ff3b37>挑战模式</color>：选择不同鱼塘进行钓鱼。\n<color=#ff3b37>水产出售</color>：累积钓鱼积分。\n<color=#ff3b37>钓鱼商店</color>：消耗积分能够兑换稀有水产、饵料。",
+    "image": "tutorials-39801.png"
+  },
+  {
+    "sn": 39901,
+    "next": -1,
+    "text": "<color=#ff3b37>训练模式</color>：选择难度持续进行练习。\n<color=#ff3b37>挑战模式</color>：限定5个球，争取获得更高的棒球积分。\n<color=#ff3b37>积分兑换</color>：获取稀有礼物及个性装饰。",
+    "image": "tutorials-39901.png"
+  },
+  {
+    "sn": 50101,
+    "next": 50102,
+    "text": "<color=#ff3b37>怪盗</color>是战斗中的作战单位。\n在异世界与都市均可获得培养怪盗的各种资源。",
+    "image": "tutorials-50101.png"
+  },
+  {
+    "sn": 50102,
+    "next": 50103,
+    "text": "具有<color=#ff3b37>LEADER</color>标识的怪盗拥有特别的资质，\n可以持有<color=#ff3b37>最多3个</color>不同的人格面具。",
+    "image": "tutorials-50102.png"
+  },
+  {
+    "sn": 50103,
+    "next": -1,
+    "text": "可以通过<color=#ff3b37>成长</color>直接提升怪盗属性。\n还能装备<color=#ff3b37>武器</color>、提升<color=#ff3b37>技能</color>进行增强。\n点击图示的培养按钮，进入相应的培养界面。",
+    "image": "tutorials-50103.png"
+  },
+  {
+    "sn": 50201,
+    "next": 50202,
+    "text": "<color=#ff3b37>升级</color>可以直接提升角色的战斗属性。\n角色等级上限受主角等级影响。",
+    "image": "tutorials-50201.png"
+  },
+  {
+    "sn": 50202,
+    "next": 50203,
+    "text": "<color=#ff3b37>潜能</color>提升，可以解锁并提升潜能技能等级；\n同时也会直接提升角色的战斗属性。",
+    "image": "tutorials-50202.png"
+  },
+  {
+    "sn": 50203,
+    "next": -1,
+    "text": "<color=#ff3b37>意识</color>表示人格面具的进化程度，最高升至Ⅵ级。\n提升面具意识等级，会增强意识技能最终效果，\n同时大幅度提升战斗属性。",
+    "image": "tutorials-50203.png"
+  },
+  {
+    "sn": 50301,
+    "next": 50302,
+    "text": "角色可以使用的<color=#ff3b37>武器</color>类型不同。\n同类型武器，品质越高，基础属性越高，\n附带的武器效果也越强。",
+    "image": "tutorials-50301.png"
+  },
+  {
+    "sn": 50302,
+    "next": 50303,
+    "text": "<color=#ff3b37>强化</color>可以提升武器的基础属性。\n强化等级上限受武器当前突破等级限制。",
+    "image": "tutorials-50302.png"
+  },
+  {
+    "sn": 50303,
+    "next": 50304,
+    "text": "<color=#ff3b37>突破</color>可以大幅提升武器的属性。\n武器突破受角色当前等级限制。",
+    "image": "tutorials-50303.png"
+  },
+  {
+    "sn": 50304,
+    "next": -1,
+    "text": "<color=#ff3b37>改造</color>可以提升武器的附加效果。\n改造需要消耗同品质的武器。\n武器可前往生存游戏专卖店购买。",
+    "image": "tutorials-50304.png"
+  },
+  {
+    "sn": 50401,
+    "next": 50402,
+    "text": "角色可以通过装备<color=#ff3b37>启示卡</color>来获得增强。\n启示卡有4个星位，分别为日、月、星、辰。\n装备相同启示卡，可以激活套装效果。",
+    "image": "tutorials-50401.png"
+  },
+  {
+    "sn": 50402,
+    "next": -1,
+    "text": "<color=#ff3b37>强化</color>启示卡，可以提升启示基础属性效果，\n并激活新的附加属性。\n启示强化受角色等级限制。",
+    "image": "tutorials-50402.png"
+  },
+  {
+    "sn": 50501,
+    "next": 50502,
+    "text": "角色技能通过<color=#ff3b37>人格面具</color>生效并释放。\n包括人格面具技能、潜能技能、意识技能\n以及额外的ONE MORE、HIGHLIGHT技能效果。",
+    "image": "tutorials-50501.png"
+  },
+  {
+    "sn": 50502,
+    "next": 50503,
+    "text": "角色人格面具独有的<color=#ff3b37>人格面具技能</color>，\n可以通过升级解锁及提升技能效果。",
+    "image": "tutorials-50502.png"
+  },
+  {
+    "sn": 50503,
+    "next": -1,
+    "text": "<color=#ff3b37>意识技能</color>通过提升意识等级，增强最终效果。\n<color=#ff3b37>潜能技能</color>通过提升潜能，激活并提升。\n<color=#ff3b37>ONE MORE</color>、<color=#ff3b37>HIGHLIGHT</color>战斗中通过特殊机制触发。",
+    "image": "tutorials-50503.png"
+  },
+  {
+    "sn": 50601,
+    "next": 50602,
+    "text": "人格面具录入面具全书后，可以领取<color=#ff3b37>突破点</color>。\n使用突破点，可以解锁并提升<color=#ff3b37>灵感技能等级</color>。",
+    "image": "tutorials-50601.png"
+  },
+  {
+    "sn": 50602,
+    "next": -1,
+    "text": "可以消耗魂石进行<color=#ff3b37>灵感重置</color>。\n重置后返还所有已消耗的突破点。",
+    "image": ""
+  },
+  {
+    "sn": 55101,
+    "next": 55102,
+    "text": "具有<color=#ff3b37>LEADER</color>标识的怪盗拥有特别的资质，\n可以持有<color=#ff3b37>最多3个</color>不同的人格面具，\n战斗中可以通过<color=#ff3b37>更换人格面具</color>改变自身能力值。",
+    "image": "tutorials-55101.png"
+  },
+  {
+    "sn": 55102,
+    "next": -1,
+    "text": "<color=#ff3b37>训练人格面具</color>：通过强化、意识、技能提升效果。\n<color=#ff3b37>人格面具档案</color>：查看所有面具的详情及获取途径。\n<color=#ff3b37>人格面具合体</color>：消耗面具印记激活特定人格面具。",
+    "image": ""
+  },
+  {
+    "sn": 55201,
+    "next": 55202,
+    "text": "<color=#ff3b37>Persona列表</color>会展示当前持有的所有人格面具。",
+    "image": "tutorials-55201.png"
+  },
+  {
+    "sn": 55202,
+    "next": -1,
+    "text": "点击对应的培养按钮，\n<color=#ff3b37>强化</color>面具等级、提升<color=#ff3b37>意识</color>、<color=#ff3b37>技能</color>效果。",
+    "image": "tutorials-55202.png"
+  },
+  {
+    "sn": 55301,
+    "next": -1,
+    "text": "人格面具<color=#ff3b37>强化</color>可以提升基础属性。\n强化至特定等级后还能<color=#ff3b37>解锁技能</color>。",
+    "image": "tutorials-55301.png"
+  },
+  {
+    "sn": 55302,
+    "next": -1,
+    "text": "强化道具包括人格面具·精末、精碎、精魂，\n可以通过击败<color=#ff3b37>混沌暗影</color>获取。\n多余的面具印记，也可以作为强化材料消耗。",
+    "image": ""
+  },
+  {
+    "sn": 55401,
+    "next": 55402,
+    "text": "<color=#ff3b37>意识</color>等级表示人格面具的进化程度，可提升至Ⅵ级。\n提升面具的意识等级，会增强意识技能最终效果，\n同时大幅度提升战斗属性。",
+    "image": "tutorials-55401.png"
+  },
+  {
+    "sn": 55402,
+    "next": -1,
+    "text": "提升面具的意识等级,需要消耗对应的<color=#ff3b37>面具印记</color>。\n获取到已激活人格面具时，会自动转换为印记。",
+    "image": ""
+  },
+  {
+    "sn": 55501,
+    "next": 55502,
+    "text": "<color=#ff3b37>人格面具技能</color>包括：\n基础技能、意识技能、特殊技能、\n以及额外的ONE MORE、HIGHLIGHT技能效果。",
+    "image": "tutorials-55501.png"
+  },
+  {
+    "sn": 55502,
+    "next": 55503,
+    "text": "<color=#ff3b37>人格面具技能</color>为独有的主动技能，\n可通过升级解锁及提升技能效果。\n<color=#ff3b37>意识技能</color>通过提升意识等级，增强最终效果。",
+    "image": "tutorials-55502.png"
+  },
+  {
+    "sn": 55503,
+    "next": -1,
+    "text": "不同人格面具有特殊的<color=#ff3b37>被动技能</color>效果。\n<color=#ff3b37>ONE MORE</color>、<color=#ff3b37>HIGHLIGHT</color>战斗中通过特殊机制触发。",
+    "image": "tutorials-55503.png"
+  },
+  {
+    "sn": 55601,
+    "next": 55602,
+    "text": "<color=#ff3b37>面具全书</color>可以查看所有人格面具的详细信息。\n包括背景故事、面具定位、属性偏向、技能详情。\n同时支持快捷跳转获取途径、快速合成面具。",
+    "image": "tutorials-55601.png"
+  },
+  {
+    "sn": 55602,
+    "next": -1,
+    "text": "人格面具获取后，即录入人格面具全书。\n人格面具收录后，可以领取<color=#ff3b37>突破点</color>。",
+    "image": "tutorials-55602.png"
+  },
+  {
+    "sn": 55701,
+    "next": 55702,
+    "text": "已有的人格面具再次获得，会自动转化为<color=#ff3b37>面具印记</color>。\n消耗面具印记进行合体，可以激活特定的人格面具。",
+    "image": "tutorials-55701.png"
+  },
+  {
+    "sn": 55702,
+    "next": -1,
+    "text": "随着<color=#ff3b37>梅洛普</color>的协同等级提升，\n执行人格面具合体时，有机会触发额外的效果。",
+    "image": "tutorials-55702.png"
+  },
+  {
+    "sn": 60101,
+    "next": 60102,
+    "text": "「<color=#ff3b37>天鹅绒试炼</color>」\n是对怪盗团战斗能力进行的针对性检验。\n试炼分为多个难度，根据等级开放。",
+    "image": "tutorials-60101.png"
+  },
+  {
+    "sn": 60102,
+    "next": -1,
+    "text": "每场试炼都可以通过<color=#ff3b37>针对性技巧</color>打出更高的积分。\n积分达到对应<color=#ff3b37>梯度</color>，可以领取相应试炼<color=#ff3b37>奖励</color>。",
+    "image": "tutorials-60102.png"
+  },
+  {
+    "sn": 70101,
+    "next": 70102,
+    "text": "通过阵容可以选择当前出战的<color=#ff3b37>怪盗</color>；\n设置WONDER出战的<color=#ff3b37>人格面具</color>；\n并调整我方角色的<color=#ff3b37>行动顺序</color>。",
+    "image": "tutorials-70101.png"
+  },
+  {
+    "sn": 70102,
+    "next": 70103,
+    "text": "战斗中根据WONDER与怪盗出战人格面具的属性，\n可以激活不同的<color=#ff3b37>欲望奏鸣</color>。",
+    "image": "tutorials-70102.png"
+  },
+  {
+    "sn": 70103,
+    "next": 70104,
+    "text": "存在两个相同属性时，激活该属性的<color=#ff3b37>二重奏</color>；\n存在三个及以上相同属性时，激活该属性的<color=#ff3b37>多重奏</color>；\n存在四种不同属性时，激活<color=#ff3b37>面具协奏</color>。",
+    "image": "tutorials-70103.png"
+  },
+  {
+    "sn": 70104,
+    "next": -1,
+    "text": "可以提前预设多套阵容，\n方便面对不同玩法时快速切换。\n异世界中探索时会使用设定的<color=#ff3b37>默认阵容</color>。",
+    "image": "tutorials-70104.png"
+  }
+]
