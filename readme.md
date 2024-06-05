@@ -1,3 +1,3 @@
 # p5x excels
 
-data taken from cbt1 (v0.1.13)
+data taken from open beta (i believe its 1.3.1 rn?)
