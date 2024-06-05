@@ -36,7 +36,9 @@
     "name": "简化HighLight表现",
     "autoSelect": 3,
     "Level": [
-      0
+      1,
+      2,
+      3
     ],
     "serSave": 0,
     "isAssert": 1
@@ -46,7 +48,9 @@
     "name": "简化解明怪盗表现",
     "autoSelect": 3,
     "Level": [
-      0
+      1,
+      2,
+      3
     ],
     "serSave": 0,
     "isAssert": 1
@@ -56,7 +60,9 @@
     "name": "简化特写表现",
     "autoSelect": 3,
     "Level": [
-      0
+      1,
+      2,
+      3
     ],
     "serSave": 0,
     "isAssert": 0

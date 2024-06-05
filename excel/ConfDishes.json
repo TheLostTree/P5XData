@@ -6,26 +6,47 @@
     "dishMenu": 0,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 1,
     "dishUsedItem": [
       [
-        0
+        304001,
+        1
+      ],
+      [
+        304002,
+        1
+      ],
+      [
+        304021,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -41,26 +62,47 @@
     "dishMenu": 305101,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 1,
     "dishUsedItem": [
       [
-        0
+        304001,
+        2
+      ],
+      [
+        304002,
+        1
+      ],
+      [
+        304007,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -76,26 +118,47 @@
     "dishMenu": 305102,
     "coopLevel": [],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 1,
     "dishUsedItem": [
       [
-        0
+        304029,
+        1
+      ],
+      [
+        304005,
+        1
+      ],
+      [
+        304008,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -111,26 +174,47 @@
     "dishMenu": 0,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 1,
     "dishUsedItem": [
       [
-        0
+        304011,
+        1
+      ],
+      [
+        304012,
+        1
+      ],
+      [
+        304004,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305109,
@@ -145,29 +229,63 @@
     "dishItem": 304204,
     "dishMenu": 0,
     "coopLevel": [
-      0
+      5,
+      1
     ],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 1,
     "dishUsedItem": [
       [
-        0
+        304000,
+        1
+      ],
+      [
+        304023,
+        1
+      ],
+      [
+        306213,
+        1
+      ],
+      [
+        306211,
+        1
+      ],
+      [
+        304013,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305105,
@@ -183,26 +301,59 @@
     "dishMenu": 305105,
     "coopLevel": [],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 1,
     "dishUsedItem": [
       [
-        0
+        304024,
+        1
+      ],
+      [
+        306214,
+        1
+      ],
+      [
+        304010,
+        1
+      ],
+      [
+        304022,
+        1
+      ],
+      [
+        306212,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -217,29 +368,51 @@
     "dishItem": 304206,
     "dishMenu": 0,
     "coopLevel": [
-      0
+      5,
+      1
     ],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 2,
     "dishUsedItem": [
       [
-        0
+        304009,
+        1
+      ],
+      [
+        304003,
+        1
+      ],
+      [
+        304004,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305107,
@@ -255,26 +428,47 @@
     "dishMenu": 305107,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 2,
     "dishUsedItem": [
       [
-        0
+        304021,
+        2
+      ],
+      [
+        306213,
+        3
+      ],
+      [
+        304001,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -289,29 +483,45 @@
     "dishItem": 304208,
     "dishMenu": 0,
     "coopLevel": [
-      0
+      5,
+      15
     ],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 2,
     "dishUsedItem": [
       [
-        0
+        304000,
+        1
+      ],
+      [
+        304031,
+        2
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -327,26 +537,53 @@
     "dishMenu": 305109,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 3,
     "dishUsedItem": [
       [
-        0
+        304011,
+        1
+      ],
+      [
+        304003,
+        1
+      ],
+      [
+        304004,
+        1
+      ],
+      [
+        306212,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305110,
@@ -362,26 +599,53 @@
     "dishMenu": 305110,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 3,
     "dishUsedItem": [
       [
-        0
+        304027,
+        2
+      ],
+      [
+        304001,
+        1
+      ],
+      [
+        304002,
+        1
+      ],
+      [
+        304005,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -396,29 +660,57 @@
     "dishItem": 304211,
     "dishMenu": 0,
     "coopLevel": [
-      0
+      5,
+      15
     ],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 3,
     "dishUsedItem": [
       [
-        0
+        304016,
+        2
+      ],
+      [
+        304003,
+        1
+      ],
+      [
+        304010,
+        2
+      ],
+      [
+        304004,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -434,26 +726,53 @@
     "dishMenu": 305112,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 11,
     "dishUsedItem": [
       [
-        0
+        304001,
+        2
+      ],
+      [
+        304003,
+        2
+      ],
+      [
+        304002,
+        1
+      ],
+      [
+        304004,
+        2
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -469,26 +788,47 @@
     "dishMenu": 305113,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 11,
     "dishUsedItem": [
       [
-        0
+        304000,
+        2
+      ],
+      [
+        304002,
+        2
+      ],
+      [
+        306215,
+        3
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -504,26 +844,47 @@
     "dishMenu": 305114,
     "coopLevel": [],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 11,
     "dishUsedItem": [
       [
-        0
+        304033,
+        1
+      ],
+      [
+        304002,
+        1
+      ],
+      [
+        306209,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -539,26 +900,41 @@
     "dishMenu": 0,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 4,
     "dishTypeS": 10,
     "dishUsedItem": [
       [
-        0
+        306210,
+        2
+      ],
+      [
+        304004,
+        2
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305121,
@@ -574,26 +950,53 @@
     "dishMenu": 305116,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 4,
     "dishTypeS": 10,
     "dishUsedItem": [
       [
-        0
+        304023,
+        4
+      ],
+      [
+        304019,
+        1
+      ],
+      [
+        304020,
+        1
+      ],
+      [
+        304006,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -609,26 +1012,47 @@
     "dishMenu": 305117,
     "coopLevel": [],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 4,
     "dishTypeS": 10,
     "dishUsedItem": [
       [
-        0
+        304032,
+        1
+      ],
+      [
+        304019,
+        1
+      ],
+      [
+        304005,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -643,29 +1067,51 @@
     "dishItem": 304218,
     "dishMenu": 0,
     "coopLevel": [
-      0
+      7,
+      5
     ],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 4,
     "dishUsedItem": [
       [
-        0
+        304011,
+        1
+      ],
+      [
+        304012,
+        1
+      ],
+      [
+        304004,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305124,
@@ -681,26 +1127,59 @@
     "dishMenu": 305119,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 4,
     "dishUsedItem": [
       [
-        0
+        304025,
+        1
+      ],
+      [
+        304005,
+        1
+      ],
+      [
+        304004,
+        1
+      ],
+      [
+        304006,
+        1
+      ],
+      [
+        304018,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -715,29 +1194,57 @@
     "dishItem": 304220,
     "dishMenu": 0,
     "coopLevel": [
-      0
+      7,
+      17
     ],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 4,
     "dishUsedItem": [
       [
-        0
+        304025,
+        1
+      ],
+      [
+        304005,
+        1
+      ],
+      [
+        304019,
+        1
+      ],
+      [
+        306216,
+        3
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -753,26 +1260,47 @@
     "dishMenu": 305121,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 4,
     "dishTypeS": 5,
     "dishUsedItem": [
       [
-        0
+        304002,
+        1
+      ],
+      [
+        304003,
+        1
+      ],
+      [
+        304004,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -788,26 +1316,47 @@
     "dishMenu": 305122,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 4,
     "dishTypeS": 5,
     "dishUsedItem": [
       [
-        0
+        304001,
+        1
+      ],
+      [
+        304027,
+        1
+      ],
+      [
+        304021,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305127,
@@ -823,26 +1372,53 @@
     "dishMenu": 305123,
     "coopLevel": [],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 4,
     "dishTypeS": 5,
     "dishUsedItem": [
       [
-        0
+        304027,
+        1
+      ],
+      [
+        304015,
+        1
+      ],
+      [
+        306215,
+        1
+      ],
+      [
+        304004,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -858,26 +1434,47 @@
     "dishMenu": 305124,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 6,
     "dishUsedItem": [
       [
-        0
+        304011,
+        1
+      ],
+      [
+        304012,
+        1
+      ],
+      [
+        304004,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305125,
@@ -893,26 +1490,53 @@
     "dishMenu": 305125,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 6,
     "dishUsedItem": [
       [
-        0
+        304021,
+        4
+      ],
+      [
+        304005,
+        1
+      ],
+      [
+        304020,
+        1
+      ],
+      [
+        304004,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -927,29 +1551,51 @@
     "dishItem": 304226,
     "dishMenu": 0,
     "coopLevel": [
-      0
+      7,
+      17
     ],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 6,
     "dishUsedItem": [
       [
-        0
+        304024,
+        2
+      ],
+      [
+        306216,
+        2
+      ],
+      [
+        304005,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -965,26 +1611,47 @@
     "dishMenu": 305127,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 7,
     "dishUsedItem": [
       [
-        0
+        304001,
+        2
+      ],
+      [
+        304021,
+        1
+      ],
+      [
+        306209,
+        2
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -999,29 +1666,57 @@
     "dishItem": 304228,
     "dishMenu": 0,
     "coopLevel": [
-      0
+      7,
+      5
     ],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 7,
     "dishUsedItem": [
       [
-        0
+        304023,
+        4
+      ],
+      [
+        304019,
+        1
+      ],
+      [
+        304005,
+        1
+      ],
+      [
+        304004,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -1037,26 +1732,53 @@
     "dishMenu": 305129,
     "coopLevel": [],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 7,
     "dishUsedItem": [
       [
-        0
+        304010,
+        1
+      ],
+      [
+        304024,
+        2
+      ],
+      [
+        306216,
+        1
+      ],
+      [
+        304005,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -1072,26 +1794,41 @@
     "dishMenu": 305130,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 8,
     "dishUsedItem": [
       [
-        0
+        304012,
+        1
+      ],
+      [
+        304004,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305131,
@@ -1107,26 +1844,47 @@
     "dishMenu": 305131,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 8,
     "dishUsedItem": [
       [
-        0
+        304028,
+        1
+      ],
+      [
+        304010,
+        1
+      ],
+      [
+        304019,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -1141,29 +1899,51 @@
     "dishItem": 304232,
     "dishMenu": 0,
     "coopLevel": [
-      0
+      7,
+      17
     ],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 8,
     "dishUsedItem": [
       [
-        0
+        304027,
+        1
+      ],
+      [
+        304017,
+        1
+      ],
+      [
+        304002,
+        2
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -1179,26 +1959,35 @@
     "dishMenu": 0,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 4,
     "dishTypeS": 9,
     "dishUsedItem": [
       [
-        0
+        304014,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305130,
@@ -1213,29 +2002,51 @@
     "dishItem": 304234,
     "dishMenu": 0,
     "coopLevel": [
-      0
+      7,
+      5
     ],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 4,
     "dishTypeS": 9,
     "dishUsedItem": [
       [
-        0
+        304010,
+        2
+      ],
+      [
+        304020,
+        1
+      ],
+      [
+        304019,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305135,
@@ -1251,26 +2062,47 @@
     "dishMenu": 305135,
     "coopLevel": [],
     "cookNum": [
-      0
+      15,
+      20,
+      30
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 4,
     "dishTypeS": 9,
     "dishUsedItem": [
       [
-        0
+        304026,
+        1
+      ],
+      [
+        304021,
+        3
+      ],
+      [
+        304005,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -1286,26 +2118,53 @@
     "dishMenu": 305136,
     "coopLevel": [],
     "cookNum": [
-      0
+      5,
+      10,
+      15
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 4,
     "dishTypeS": 5,
     "dishUsedItem": [
       [
-        0
+        304023,
+        2
+      ],
+      [
+        304005,
+        1
+      ],
+      [
+        304019,
+        1
+      ],
+      [
+        304020,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,
@@ -1321,26 +2180,53 @@
     "dishMenu": 305137,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 2,
     "dishTypeS": 1,
     "dishUsedItem": [
       [
-        0
+        304024,
+        2
+      ],
+      [
+        304005,
+        1
+      ],
+      [
+        304019,
+        1
+      ],
+      [
+        304022,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 10,
     "specialMenuItem": 305138,
@@ -1356,26 +2242,53 @@
     "dishMenu": 305138,
     "coopLevel": [],
     "cookNum": [
-      0
+      10,
+      15,
+      20
     ],
     "specialDishProbability": [
-      0
+      0,
+      5,
+      10,
+      15
     ],
     "specialDishProbabilityUp": [
-      0
+      0,
+      10,
+      20,
+      30
     ],
     "dishType": 3,
     "dishTypeS": 4,
     "dishUsedItem": [
       [
-        0
+        304024,
+        2
+      ],
+      [
+        304021,
+        1
+      ],
+      [
+        304005,
+        1
+      ],
+      [
+        304020,
+        1
       ]
     ],
     "AdditionalRreturns": [
-      0
+      10,
+      10,
+      10,
+      10
     ],
     "AdditionalRreturnsParam": [
-      0
+      1,
+      1,
+      1,
+      1
     ],
     "specialMenuProbability": 0,
     "specialMenuItem": 0,

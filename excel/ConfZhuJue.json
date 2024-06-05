@@ -6,35 +6,55 @@
     "sceneSn": 2103,
     "unlockParam": 0,
     "model": [
-      "�z�(�׫���~���z��'�g\u001a��^�ƫ�:$z"
+      "wonder",
+      "wonder_uniform",
+      "wonder_uniform",
+      "cattle_car1",
+      "joker"
     ],
     "modelUI": "wonder",
     "qualityPic": "pinzhi-guaidao-cai.png",
     "thiefCode": "guaidao-peiyang-daihao-wonder.png",
     "thiefCodePos": [
+      -40,
+      -21,
       0
     ],
     "typeSN": 999,
     "modelFashionAble": "1,2,3|1,2,3,10,11,12,13|1,2,3,7,10,11,12,13|1,2,3|1,2,3",
     "leaderName": "",
     "dialogPic": [
-      "v衹���G��\u000b��֨�x\u001d�(nk����\u0007n�\u001b��:$z�g�ۢ�澎�\u001e��.j'Z���v衹���G��\u000b��֨�x"
+      "duihua-joker-guaidao.png",
+      "duihua-joker.png",
+      "duihua-joker.png",
+      "duihua-joker-guaidao.png",
+      "duihua-joker-guaidao.png"
     ],
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.781,
+      0,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      -70.25,
       0
     ],
     "collisionZhujue": [
+      0,
+      0,
       0
     ],
     "collisionZhujueB": [
+      0,
+      0,
       0
     ],
     "rotateZhujue": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "gradeInitial": 5,
     "personaInitial": 101,
@@ -61,11 +81,15 @@
     "readyPic": "guaidao-kapai-joker-new.png",
     "zhengrongReadyPic": "zhenrong-lihui-wonder-new.png",
     "thiefBigPicPos": [
+      199.1,
+      -39.7,
       0
     ],
     "jinjieThiefpos": [],
     "jinjieThiefScale": 0,
     "zhenronglistThiefpos": [
+      0,
+      0,
       0
     ],
     "readyShadowPic": "kamian-9-2.png",
@@ -74,25 +98,42 @@
     "readyShadowPicThiefPos": "kamian-9-2.png",
     "icon": "Tongyong-touxiang-A-11.png",
     "isOpen": [
-      0
+      1
     ],
     "startStroy": 5003,
     "property": [
-      0
+      241,
+      261,
+      271,
+      251,
+      281,
+      291,
+      321,
+      331,
+      341
     ],
     "initialPropertyValue": [
-      0
+      360,
+      100,
+      66.67,
+      100,
+      0.05,
+      1.5,
+      0,
+      1,
+      100
     ],
     "lockedTips": "完成“%s\"解锁",
     "skillgroup": [
-      0
+      10101
     ],
     "gunSkill": 10161,
     "gunBullets": 8,
     "gunAccuracy": 0.9,
     "gunCritical": 0.0611,
     "cardCommend": [
-      0
+      1,
+      2
     ],
     "gachaResultName": "guaidao-mingzi-chouka-wonder.png",
     "gachaResultNameFourStars": "guaidao-mingzi-chouka-wonder.png"
@@ -104,35 +145,47 @@
     "sceneSn": 2103,
     "unlockParam": 0,
     "model": [
-      "��\u001e"
+      "joker"
     ],
     "modelUI": "joker",
     "qualityPic": "pinzhi-guaidao-cai.png",
     "thiefCode": "guaidao-peiyang-daihao-wonder.png",
     "thiefCodePos": [
-      0
+      290,
+      -86.8,
+      -40.1
     ],
     "typeSN": 999,
     "modelFashionAble": "1,2,3",
     "leaderName": "",
     "dialogPic": [
-      "v衹���G��\u000b��֨�x"
+      "duihua-joker-guaidao.png"
     ],
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.48,
+      -0.05,
+      2.1
     ],
     "qishiRotation": [
-      0
+      5.63,
+      2.4,
+      2.73
     ],
     "collisionZhujue": [
+      0,
+      0,
       0
     ],
     "collisionZhujueB": [
+      0,
+      0,
       0
     ],
     "rotateZhujue": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "gradeInitial": 5,
     "personaInitial": 1261,
@@ -159,11 +212,15 @@
     "readyPic": "guaidao-kapai-joker-new.png",
     "zhengrongReadyPic": "zhenrong-lihui-wonder-new.png",
     "thiefBigPicPos": [
+      199.1,
+      -39.7,
       0
     ],
     "jinjieThiefpos": [],
     "jinjieThiefScale": 0,
     "zhenronglistThiefpos": [
+      0,
+      0,
       0
     ],
     "readyShadowPic": "kamian-3-2.png",
@@ -172,25 +229,42 @@
     "readyShadowPicThiefPos": "kamian-3-2.png",
     "icon": "Tongyong-touxiang-A-6.png",
     "isOpen": [
-      0
+      1
     ],
     "startStroy": 5003,
     "property": [
-      0
+      241,
+      261,
+      271,
+      251,
+      281,
+      291,
+      321,
+      331,
+      341
     ],
     "initialPropertyValue": [
-      0
+      360,
+      100,
+      66.67,
+      100,
+      0.05,
+      1.5,
+      0,
+      1,
+      100
     ],
     "lockedTips": "完成“%s\"解锁",
     "skillgroup": [
-      0
+      126101
     ],
     "gunSkill": 126161,
     "gunBullets": 8,
     "gunAccuracy": 0.92,
     "gunCritical": 0.0543,
     "cardCommend": [
-      0
+      1,
+      2
     ],
     "gachaResultName": "guaidao-mingzi-chouka-wonder.png",
     "gachaResultNameFourStars": "guaidao-mingzi-chouka-wonder.png"

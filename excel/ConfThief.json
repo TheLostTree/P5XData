@@ -24,15 +24,21 @@
     "zhenrongPersona": "zhenrong-lihui-skull-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      -4,
+      -158,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      36,
+      604,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-skull.png",
     "jinjieThiefpos": [
+      -170,
+      -250,
       0
     ],
     "jinjieThiefScale": 0.69,
@@ -55,7 +61,9 @@
     "cvName": "宫野真守",
     "chcvName": "刘照坤",
     "cvNamepos": [
-      0
+      -37.5,
+      118.6,
+      -20.47
     ],
     "Story": "高中二年级的少年。\n言行粗暴，但实际上是个重感情、有男子汉气概的行动派。\n因为某个事件被扣上了「问题学生」的帽子，遭到周围人的疏远。\n和JOKER相遇后，觉醒了人格面具能力。\n代号是「SKULL」。\n初始人格面具是「船长基德」。",
     "showSound": "VO_Sys_Thief_Skull_01",
@@ -73,19 +81,29 @@
     "chat": "1011",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.793,
+      0,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      0.15,
+      0.02,
+      0.37
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-005.png",
     "readyPic": "guaidao-kapai-skull-new.png",
@@ -93,20 +111,26 @@
     "gachaPic": "guaidao-kapai-skull-new.png",
     "gachaBigPic": "lihui-guaidao-skull.png",
     "thiefBigPicPos": [
+      -170,
+      -250,
       0
     ],
     "thiefBigPicScale": 0.69,
     "thiefGrowthPicPos": [
+      -170,
+      -250,
       0
     ],
     "thiefGrowthPicScale": 0.69,
     "gachaResultBg": "lihui-guaidao-skull-shilian.png",
     "gachaResultPic": "lihui-guaidao-skull.png",
     "gachaResultPicOffset": [
-      0
+      0.41,
+      0.354
     ],
     "gachaResultPicTiling": [
-      0
+      0.39,
+      0.78
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -117,16 +141,22 @@
     "gachaNamePic": "Tongyong-mingzi-4-i18n.png",
     "gachaCode": "guaidao-daihao-banbenlongsi.png",
     "gachaCodePos": [
-      0
+      -7,
+      -28,
+      4.5
     ],
     "gachaMask": "guaidao-mianjuicon-banbenlongsi2.png",
     "fiveStarLinesOne": "啊哈，看来是轮到我了？",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-skull.png",
     "thiefCodePos": [
+      -48,
+      -32.1,
       0
     ],
     "thiefNamePos": [
+      -209,
+      194,
       0
     ],
     "littlePic": "item-501011.png",
@@ -134,38 +164,113 @@
     "icon": "Tongyong-touxiang-A-4.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍu�}xۭw׍��]yۍ��M8�ݸ�m��ͺ׭��n��N<��t��"
+        "241:113.14",
+        "261:31.43",
+        "271:15.24",
+        "291:0.0499"
       ],
       [
-        "ۍw��6ۭ}�ov�^9�m��Mx���׎v筺�]��m�׭=�ou�_}�n5�{ۭu�y۽{�m��M����׮���_<�ͻ��x�ou�o}�n5��}�n��m4�n��N��ou�~="
+        "241:226.28",
+        "261:62.86",
+        "271:30.48",
+        "291:0.0998"
+      ],
+      [
+        "241:339.42",
+        "261:94.29",
+        "271:45.72",
+        "291:0.1497"
+      ],
+      [
+        "241:452.56",
+        "261:125.72",
+        "271:60.96",
+        "291:0.1996"
+      ],
+      [
+        "241:565.7",
+        "261:157.15",
+        "271:76.2",
+        "291:0.2495"
+      ],
+      [
+        "241:678.84",
+        "261:188.58",
+        "271:91.44",
+        "291:0.2994"
+      ],
+      [
+        "241:791.98",
+        "261:220.01",
+        "271:106.68",
+        "291:0.3493"
       ]
     ],
     "awakeSkill": [
-      0
+      101132,
+      101131
     ],
     "awakeAward": [
+      238011,
+      238001,
+      239011,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238011
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239011
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      101101
     ],
     "gunSkill": 101161,
     "gunBullets": 3,
@@ -174,23 +279,48 @@
     "resetPosition": 0,
     "cardCommend": [
       [
-        0
+        2006,
+        4
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        291,
+        281
+      ],
+      [
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      263,
+      291,
+      281
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
     "collectionExp": 200,
     "commendSn": [
-      0
+      109,
+      107
     ],
     "testThiefInfo": ""
   },
@@ -219,15 +349,21 @@
     "zhenrongPersona": "zhenrong-lihui-mona-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      -37,
+      95,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      129,
+      534,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-mona.png",
     "jinjieThiefpos": [
+      -73,
+      -83,
       0
     ],
     "jinjieThiefScale": 0.75,
@@ -250,7 +386,9 @@
     "cvName": "大谷育江",
     "chcvName": "四喜",
     "cvNamepos": [
-      0
+      -37.5,
+      118.6,
+      -20.47
     ],
     "Story": "形似黑猫的谜之生物。\n会说人话，虽然嘴上不饶人，但勇于牺牲自己帮助同伴们。\n口头禅是「不是猫！」\n代号是「MONA」。\n初始人格面具是「佐罗」。",
     "showSound": "VO_Sys_Thief_Mona_01",
@@ -268,19 +406,29 @@
     "chat": "1021",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.691,
+      0.891,
+      2.179
     ],
     "qishiRotation": [
+      0,
+      -93.3902,
       0
     ],
     "collisionThief": [
-      0
+      0.12,
+      0,
+      0.37
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-003.png",
     "readyPic": "guaidao-kapai-mona-new.png",
@@ -288,20 +436,26 @@
     "gachaPic": "guaidao-kapai-mona-new.png",
     "gachaBigPic": "lihui-guaidao-mona.png",
     "thiefBigPicPos": [
+      -73,
+      -83,
       0
     ],
     "thiefBigPicScale": 0.75,
     "thiefGrowthPicPos": [
+      -73,
+      -83,
       0
     ],
     "thiefGrowthPicScale": 0.75,
     "gachaResultBg": "lihui-guaidao-mona-shilian.png",
     "gachaResultPic": "lihui-guaidao-mona.png",
     "gachaResultPicOffset": [
-      0
+      0.15,
+      -0.095
     ],
     "gachaResultPicTiling": [
-      0
+      0.88,
+      1.03
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -312,16 +466,22 @@
     "gachaNamePic": "Tongyong-mingzi-2-i18n.png",
     "gachaCode": "guaidao-daihao-moerjiana.png",
     "gachaCodePos": [
-      0
+      1,
+      -19,
+      10.62
     ],
     "gachaMask": "guaidao-mianjuicon-moerjiana2.png",
     "fiveStarLinesOne": "展示威严吧，佐罗！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-mona.png",
     "thiefCodePos": [
+      -38.6,
+      -28.2,
       0
     ],
     "thiefNamePos": [
+      -209,
+      194,
       0
     ],
     "littlePic": "item-501021.png",
@@ -329,35 +489,113 @@
     "icon": "Tongyong-touxiang-A-2.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}�ov�]��}��_8�o5�M��n5��9�n��o:۽w�޶�]4��6�]�����_x�ݻמx�o5�N��n5߾��n��n{�n��v��t��zۍx�^9ۭu�y۽}ۍ��Mv㝸מ��_<�ͻ�]t�ͼ�Mx���׮��}��m��]��]�߭��M{�"
+        "241:94.29",
+        "261:31.43",
+        "271:18.48",
+        "281:0.0249"
+      ],
+      [
+        "241:188.58",
+        "261:62.86",
+        "271:36.96",
+        "281:0.0498"
+      ],
+      [
+        "241:282.87",
+        "261:94.29",
+        "271:55.44",
+        "281:0.0747"
+      ],
+      [
+        "241:377.16",
+        "261:125.72",
+        "271:73.92",
+        "281:0.0996"
+      ],
+      [
+        "241:471.45",
+        "261:157.15",
+        "271:92.4",
+        "281:0.1245"
+      ],
+      [
+        "241:565.74",
+        "261:188.58",
+        "271:110.88",
+        "281:0.1494"
+      ],
+      [
+        "241:660.03",
+        "261:220.01",
+        "271:129.36",
+        "281:0.1743"
       ]
     ],
     "awakeSkill": [
-      0
+      102131,
+      102132
     ],
     "awakeAward": [
+      238021,
+      238001,
+      239021,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238021
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239021
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      102101
     ],
     "gunSkill": 102161,
     "gunBullets": 5,
@@ -366,23 +604,46 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2006,
+        2
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        671
+      ],
+      [
+        281
+      ],
+      [
+        361
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      671,
+      281,
+      263
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 2,
     "collectionExp": 200,
     "commendSn": [
-      0
+      1,
+      102
     ],
     "testThiefInfo": ""
   },
@@ -411,15 +672,21 @@
     "zhenrongPersona": "zhenrong-lihui-closer-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-closer.png",
     "jinjieThiefpos": [
+      -26,
+      -226,
       0
     ],
     "jinjieThiefScale": 0.68,
@@ -442,7 +709,9 @@
     "cvName": "本渡枫",
     "chcvName": "朱雀橙",
     "cvNamepos": [
-      0
+      -37.5,
+      118.6,
+      -20.47
     ],
     "Story": "就读于己刮学园的高中二年级少女，主角的同班同学。\n体育全能，性格直爽开朗，体贴他人，在校内广受男女学生欢迎。\n但本人一直被年幼时某段不愉快的回忆所困扰。\n因为某个事件觉醒了人格面具操控能力。\n代号是「CLOSER」。\n初始人格面具是「阿尔维达」。",
     "showSound": "sys13_001_1",
@@ -460,19 +729,29 @@
     "chat": "1251",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.86,
+      0.02,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      0,
+      0,
+      0.23
     ],
     "collisionThiefB": [
-      0
+      -0.15,
+      0,
+      -0.12
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-001.png",
     "readyPic": "guaidao-kapai-closer-new.png",
@@ -480,20 +759,26 @@
     "gachaPic": "guaidao-kapai-closer-new.png",
     "gachaBigPic": "lihui-guaidao-closer.png",
     "thiefBigPicPos": [
+      -26,
+      -226,
       0
     ],
     "thiefBigPicScale": 0.68,
     "thiefGrowthPicPos": [
+      -26,
+      -226,
       0
     ],
     "thiefGrowthPicScale": 0.68,
     "gachaResultBg": "lihui-guaidao-closer-shilian.png",
     "gachaResultPic": "lihui-guaidao-closer.png",
     "gachaResultPicOffset": [
-      0
+      0.301,
+      0.286
     ],
     "gachaResultPicTiling": [
-      0
+      0.551,
+      0.775
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -504,16 +789,22 @@
     "gachaNamePic": "Tongyong-mingzi-26-i18n.png",
     "gachaCode": "guaidao-daihao-xinjingsuyu.png",
     "gachaCodePos": [
-      0
+      0,
+      -18.6,
+      8.43
     ],
     "gachaMask": "guaidao-mianjuicon-xinjingsuyu2.png",
     "fiveStarLinesOne": "",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-closer.png",
     "thiefCodePos": [
-      0
+      -16.6,
+      -12.1,
+      -1.13
     ],
     "thiefNamePos": [
+      -209,
+      194,
       0
     ],
     "littlePic": "item-501031.png",
@@ -521,35 +812,113 @@
     "icon": "Tongyong-touxiang-A-14.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍz����]�罻�^;�n��M��n5�<�n��x۽v����}4�n6�]��ov�^��]�׎5�n��Ow�n5۾��n����۽y��6�}5ۏ6�]��^v�]u��v�^�睺�My�n5�^��n�׍x�n��ͺۭ����ۍx�5ۭu�}۽u�o{ۭ��_8"
+        "241:69.43",
+        "261:23.57",
+        "271:14.71",
+        "263:0.0312"
+      ],
+      [
+        "241:138.86",
+        "261:47.14",
+        "271:29.42",
+        "263:0.0624"
+      ],
+      [
+        "241:208.29",
+        "261:70.71",
+        "271:44.13",
+        "263:0.0936"
+      ],
+      [
+        "241:277.72",
+        "261:94.28",
+        "271:58.84",
+        "263:0.1248"
+      ],
+      [
+        "241:347.15",
+        "261:117.85",
+        "271:73.55",
+        "263:0.156"
+      ],
+      [
+        "241:416.58",
+        "261:141.42",
+        "271:88.26",
+        "263:0.1872"
+      ],
+      [
+        "241:486.01",
+        "261:164.99",
+        "271:102.97",
+        "263:0.2184"
       ]
     ],
     "awakeSkill": [
-      0
+      103132,
+      103131
     ],
     "awakeAward": [
+      238031,
+      238001,
+      239031,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238031
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239031
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      103101
     ],
     "gunSkill": 103161,
     "gunBullets": 7,
@@ -558,23 +927,49 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2008,
+        9
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        281,
+        291
+      ],
+      [
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      263,
+      281,
+      291
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 10441,
     "saferoomShowType": 3,
     "collectionExp": 50,
     "commendSn": [
-      0
+      110,
+      111,
+      113
     ],
     "testThiefInfo": ""
   },
@@ -603,15 +998,21 @@
     "zhenrongPersona": "zhenrong-lihui-cattle-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      -37,
+      95,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      129,
+      534,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-cattle.png",
     "jinjieThiefpos": [
+      -110,
+      -138,
       0
     ],
     "jinjieThiefScale": 0.7,
@@ -634,7 +1035,9 @@
     "cvName": "野中蓝",
     "chcvName": "洪海天",
     "cvNamepos": [
-      0
+      -55,
+      128.2,
+      -20.47
     ],
     "Story": "以猫头鹰的形象出现在主角面前的谜之生物。\n会说人类的语言，能够变身成送信车的模样。\n拥有丰富的异世界知识，遇事冷静，稳重自持，是非常靠得住的好伙伴。\n代号是「CATTLE」。\n初始人格面具是「罗布罗伊」。",
     "showSound": "sys12_001_1",
@@ -652,19 +1055,29 @@
     "chat": "1041",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.725,
+      0.882,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      0.09,
+      -0.15,
+      0.27
     ],
     "collisionThiefB": [
-      0
+      0,
+      0,
+      -0.39
     ],
     "rotateThief": [
-      0
+      0.5,
+      35.1,
+      -1.25
     ],
     "bigPic": "kapai-003.png",
     "readyPic": "guaidao-kapai-cattle-new.png",
@@ -672,20 +1085,26 @@
     "gachaPic": "guaidao-kapai-cattle-new.png",
     "gachaBigPic": "lihui-guaidao-cattle.png",
     "thiefBigPicPos": [
+      -110,
+      -138,
       0
     ],
     "thiefBigPicScale": 0.7,
     "thiefGrowthPicPos": [
+      -110,
+      -138,
       0
     ],
     "thiefGrowthPicScale": 0.7,
     "gachaResultBg": "lihui-guaidao-cattle-shilian.png",
     "gachaResultPic": "lihui-guaidao-cattle.png",
     "gachaResultPicOffset": [
-      0
+      0.21,
+      -0.15
     ],
     "gachaResultPicTiling": [
-      0
+      0.83,
+      1.505
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -696,16 +1115,22 @@
     "gachaNamePic": "Tongyong-mingzi-19-i18n.png",
     "gachaCode": "guaidao-daihao-lufeier.png",
     "gachaCodePos": [
-      0
+      9.1,
+      -16.6,
+      6.2
     ],
     "gachaMask": "guaidao-mianjuicon-lufeier2.png",
     "fiveStarLinesOne": "",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-cattle.png",
     "thiefCodePos": [
-      0
+      -18,
+      12,
+      -1.13
     ],
     "thiefNamePos": [
+      -250.5,
+      194.8,
       0
     ],
     "littlePic": "item-501041.png",
@@ -713,44 +1138,113 @@
     "icon": "Tongyong-touxiang-A-15.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ"
+        "241:80.36",
+        "261:22.5",
+        "271:13.57",
+        "243:0.0312"
       ],
       [
-        "�~��]��n��~{ۍ��}vۍu�N�ۭx�n�۽xۍ�ӭ�ۍv�]<ۭz׍;�n7�Ow�n5�mx�n��M�מ6�n7�]��n5�M"
+        "241:160.72",
+        "261:45",
+        "271:27.14",
+        "243:0.0624"
       ],
       [
-        "ۭu�nv�^���My�n5�͵�n��~v�_5�m��M"
+        "241:241.08",
+        "261:67.5",
+        "271:40.71",
+        "243:0.0936"
       ],
       [
-        "�m�מ��m��^{�n���}ۍ��_8"
+        "241:321.44",
+        "261:90",
+        "271:54.28",
+        "243:0.1248"
+      ],
+      [
+        "241:401.8",
+        "261:112.5",
+        "271:67.85",
+        "243:0.156"
+      ],
+      [
+        "241:482.16",
+        "261:135",
+        "271:81.42",
+        "243:0.1872"
+      ],
+      [
+        "241:562.52",
+        "261:157.5",
+        "271:94.99",
+        "243:0.2184"
       ]
     ],
     "awakeSkill": [
-      0
+      104132,
+      104131
     ],
     "awakeAward": [
+      238041,
+      238001,
+      239041,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238041
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239041
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      104101
     ],
     "gunSkill": 104161,
     "gunBullets": 10,
@@ -759,23 +1253,47 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2013,
+        2
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        671
+      ],
+      [
+        243
+      ],
+      [
+        361
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      671,
+      361,
+      263,
+      243
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 10075,
     "saferoomShowType": 2,
     "collectionExp": 50,
     "commendSn": [
-      0
+      105,
+      110
     ],
     "testThiefInfo": ""
   },
@@ -809,6 +1327,8 @@
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-joker.png",
     "jinjieThiefpos": [
+      -54,
+      -293,
       0
     ],
     "jinjieThiefScale": 0.73,
@@ -847,19 +1367,29 @@
     "chat": "1051",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.766,
+      0.051,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      -93.829,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-joker-new.png",
@@ -867,20 +1397,26 @@
     "gachaPic": "guaidao-kapai-joker-new.png",
     "gachaBigPic": "lihui-guaidao-joker.png",
     "thiefBigPicPos": [
+      -254,
+      -472,
       0
     ],
     "thiefBigPicScale": 0.8,
     "thiefGrowthPicPos": [
+      -254,
+      -472,
       0
     ],
     "thiefGrowthPicScale": 0.8,
     "gachaResultBg": "lihui-guaidao-joker-shilian.png",
     "gachaResultPic": "lihui-guaidao-joker.png",
     "gachaResultPicOffset": [
-      0
+      0.487,
+      0.424
     ],
     "gachaResultPicTiling": [
-      0
+      0.421,
+      0.704
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -891,7 +1427,9 @@
     "gachaNamePic": "",
     "gachaCode": "guaidao-daihao-duomicunlizi.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-joker.png",
     "fiveStarLinesOne": "",
@@ -904,38 +1442,110 @@
     "icon": "Tongyong-touxiang-A-6.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ{�^6�]��}��^6�n��M��n5מ6�n��o:۽v�6�}4�n6�]�׍��^��ݻ׍��n��Ow�n5�O9�n���۽y�^��}5ۏ6�]�罺�];ם�׽x�n��^zۍx�o8ۭu��"
+        "241:77.14",
+        "261:21.43",
+        "271:14.29",
+        "263:0.0312"
       ],
       [
-        "۽"
+        "241:154.28",
+        "261:42.86",
+        "271:28.58",
+        "263:0.0624"
       ],
       [
-        "�6�}5��^w��6�]y�Mv�]t�M��}6��"
+        "241:231.42",
+        "261:64.29",
+        "271:42.87",
+        "263:0.0936"
+      ],
+      [
+        "241:308.56",
+        "261:85.72",
+        "271:57.16",
+        "263:0.1248"
+      ],
+      [
+        "241:385.7",
+        "261:107.15",
+        "271:71.45",
+        "263:0.156"
+      ],
+      [
+        "241:462.84",
+        "261:128.58",
+        "271:85.74",
+        "263:0.1872"
+      ],
+      [
+        "241:539.98",
+        "261:150.01",
+        "271:100.03",
+        "263:0.2184"
       ]
     ],
     "awakeSkill": [
-      0
+      127131,
+      127132
     ],
     "awakeAward": [
+      238051,
+      238001,
+      239051,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238051
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239051
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [],
     "gunSkill": 0,
@@ -950,11 +1560,26 @@
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      -1
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
@@ -988,15 +1613,21 @@
     "zhenrongPersona": "zhenrong-lihui-soy-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-soy.png",
     "jinjieThiefpos": [
+      -127,
+      -285,
       0
     ],
     "jinjieThiefScale": 0.76,
@@ -1019,7 +1650,9 @@
     "cvName": "小西克幸",
     "chcvName": "刘雨轩",
     "cvNamepos": [
-      0
+      -55,
+      128.2,
+      -20.47
     ],
     "Story": "就读于己刮学园的高中二年级少年。\n不善言辞，也不擅与人交际，几乎没有年龄相仿的朋友。\n性格勤奋，重情重义。目标是当上厨师，为此初中毕业后曾在老牌拉面店修习厨艺。\n因为某个事件觉醒了人格面具操控能力。\n代号是「SOY」。\n初始人格面具是「芒德兰」。",
     "showSound": "sys14_001_1",
@@ -1037,19 +1670,29 @@
     "chat": "1061",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.923,
+      -0.086,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      -0.16,
+      0,
+      0.42
     ],
     "collisionThiefB": [
+      -0.15,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-soy-new.png",
@@ -1057,20 +1700,26 @@
     "gachaPic": "guaidao-kapai-soy-new.png",
     "gachaBigPic": "lihui-guaidao-soy.png",
     "thiefBigPicPos": [
+      -127,
+      -285,
       0
     ],
     "thiefBigPicScale": 0.76,
     "thiefGrowthPicPos": [
+      -127,
+      -285,
       0
     ],
     "thiefGrowthPicScale": 0.76,
     "gachaResultBg": "lihui-guaidao-soy-shilian.png",
     "gachaResultPic": "lihui-guaidao-soy.png",
     "gachaResultPicOffset": [
-      0
+      0.482,
+      0.389
     ],
     "gachaResultPicTiling": [
-      0
+      0.339,
+      0.634
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -1081,16 +1730,22 @@
     "gachaNamePic": "Tongyong-mingzi-32-i18n.png",
     "gachaCode": "guaidao-daihao-jianajun.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-soy2.png",
     "fiveStarLinesOne": "演出时刻！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-soy.png",
     "thiefCodePos": [
-      0
+      290,
+      -86.8,
+      -40.1
     ],
     "thiefNamePos": [
+      -250.5,
+      194.8,
       0
     ],
     "littlePic": "item-501061.png",
@@ -1098,38 +1753,113 @@
     "icon": "Tongyong-touxiang-A-18.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}�mv�]"
+        "241:93.21",
+        "261:18.21",
+        "271:12.43",
+        "243:0.0312"
       ],
       [
-        "�]��]��n7�M��n5�θ�n�߮6۽v�ζ�}4�n6�]�����^x�}��~��n7�Ow�n5߽��n��o8۽x����}5ۏ6�^:�Nv�_uӝ�׭��n7�^zۍy�ݺۭu�ݺ۽{�6�}5��^�ێ��]v���_;�]��M��"
+        "241:186.42",
+        "261:36.42",
+        "271:24.86",
+        "243:0.0624"
+      ],
+      [
+        "241:279.63",
+        "261:54.63",
+        "271:37.29",
+        "243:0.0936"
+      ],
+      [
+        "241:372.84",
+        "261:72.84",
+        "271:49.72",
+        "243:0.1248"
+      ],
+      [
+        "241:466.05",
+        "261:91.05",
+        "271:62.15",
+        "243:0.156"
+      ],
+      [
+        "241:559.26",
+        "261:109.26",
+        "271:74.58",
+        "243:0.1872"
+      ],
+      [
+        "241:652.47",
+        "261:127.47",
+        "271:87.01",
+        "243:0.2184"
       ]
     ],
     "awakeSkill": [
-      0
+      106131,
+      106132
     ],
     "awakeAward": [
+      238061,
+      238001,
+      239061,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238061
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239061
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      106101
     ],
     "gunSkill": 106161,
     "gunBullets": 24,
@@ -1138,23 +1868,44 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2003,
+        6
+      ],
+      [
+        2002,
+        6
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        243
+      ],
+      [
+        243
+      ],
+      [
+        341
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      243,
+      273
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 11895,
     "saferoomShowType": 3,
     "collectionExp": 50,
     "commendSn": [
-      0
+      2
     ],
     "testThiefInfo": ""
   },
@@ -1183,15 +1934,21 @@
     "zhenrongPersona": "zhenrong-lihui-leo-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-leo.png",
     "jinjieThiefpos": [
+      -200,
+      -272,
       0
     ],
     "jinjieThiefScale": 0.74,
@@ -1214,7 +1971,9 @@
     "cvName": "伊濑茉莉也",
     "chcvName": "李兰陵",
     "cvNamepos": [
-      0
+      -37.5,
+      118.6,
+      -20.47
     ],
     "Story": "准备去动作演员培训学校进修的少年。\n幼时沉迷于特摄剧，憧憬着其中的英雄，立志成为特摄演员。\n乐观积极，在父母规定的期限内努力为了梦想而奔走。\n代号是「LEON」。\n初始人格面具Ⅱ是「厄律忒亚」。",
     "showSound": "sys23_001_1",
@@ -1232,19 +1991,29 @@
     "chat": "1071",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.819,
+      -0.036,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      0,
+      0,
+      0.35
     ],
     "collisionThiefB": [
+      -0.12,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-leo-new.png",
@@ -1252,20 +2021,26 @@
     "gachaPic": "guaidao-kapai-leo-new.png",
     "gachaBigPic": "lihui-guaidao-leo.png",
     "thiefBigPicPos": [
+      -200,
+      -272,
       0
     ],
     "thiefBigPicScale": 0.74,
     "thiefGrowthPicPos": [
+      -200,
+      -272,
       0
     ],
     "thiefGrowthPicScale": 0.74,
     "gachaResultBg": "lihui-guaidao-leo-shilian.png",
     "gachaResultPic": "lihui-guaidao-leo.png",
     "gachaResultPicOffset": [
-      0
+      0.436,
+      0.423
     ],
     "gachaResultPicTiling": [
-      0
+      0.322,
+      0.746
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -1276,16 +2051,22 @@
     "gachaNamePic": "Tongyong-mingzi-24-i18n.png",
     "gachaCode": "guaidao-daihao-shenshanlingyang.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-shenshanlingyang2.png",
     "fiveStarLinesOne": "演出时刻！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-leo.png",
     "thiefCodePos": [
-      0
+      290,
+      -86.8,
+      -40.1
     ],
     "thiefNamePos": [
+      -209,
+      194,
       0
     ],
     "littlePic": "item-501071.png",
@@ -1293,38 +2074,113 @@
     "icon": "Tongyong-touxiang-A-16.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ{���]��ݻ�^6�}4�]��]x�^6�^8�ͻ�o6�}4�n6�]�߽v�^��׍��}4�~��]��o6�_=׭�מ��}5ۏ6�]���v�]u׎v�^�ۭ�מ��^8�]w߾6�_8ۭ����ۍy�_}ۭu�7۽}�n��m"
+        "241:74.57",
+        "261:22.29",
+        "271:14",
+        "263:0.0312"
       ],
       [
-        ""
+        "241:149.14",
+        "261:44.58",
+        "271:28",
+        "263:0.0624"
+      ],
+      [
+        "241:223.71",
+        "261:66.87",
+        "271:42",
+        "263:0.0936"
+      ],
+      [
+        "241:298.28",
+        "261:89.16",
+        "271:56",
+        "263:0.1248"
+      ],
+      [
+        "241:372.85",
+        "261:111.45",
+        "271:70",
+        "263:0.156"
+      ],
+      [
+        "241:447.42",
+        "261:133.74",
+        "271:84",
+        "263:0.1872"
+      ],
+      [
+        "241:521.99",
+        "261:156.03",
+        "271:98",
+        "263:0.2184"
       ]
     ],
     "awakeSkill": [
-      0
+      107131,
+      107132
     ],
     "awakeAward": [
+      238071,
+      238001,
+      239071,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238071
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239071
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      107101
     ],
     "gunSkill": 107161,
     "gunBullets": 10,
@@ -1333,23 +2189,46 @@
     "resetPosition": 0,
     "cardCommend": [
       [
-        0
+        2008,
+        16
+      ],
+      [
+        2008,
+        15
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        263
+      ],
+      [
+        263
+      ],
+      [
+        341
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      263,
+      243,
+      273
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
     "collectionExp": 50,
     "commendSn": [
-      0
+      109,
+      108
     ],
     "testThiefInfo": ""
   },
@@ -1378,15 +2257,21 @@
     "zhenrongPersona": "zhenrong-lihui-okyann-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-okyann.png",
     "jinjieThiefpos": [
+      -87,
+      -227,
       0
     ],
     "jinjieThiefScale": 0.73,
@@ -1409,7 +2294,9 @@
     "cvName": "田中敦子",
     "chcvName": "范楚绒",
     "cvNamepos": [
-      0
+      -37.5,
+      118.6,
+      -20.47
     ],
     "Story": "44岁的全职主妇，主人公的邻居，也认识主人公的父母。\n年轻时任职设计师小有名气，有了孩子后，选择回归家庭。如今虽然家庭和睦生活无忧，但心里似乎有些空虚。\n性格开朗，打扮优雅时尚。但偶尔也会暴露出年轻辣妹时代的口癖。\n代号是「OKYANN」。\n初始人格面具Ⅱ是「克丽奥多拉」。",
     "showSound": "sys34_001_1",
@@ -1427,19 +2314,29 @@
     "chat": "1081",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -2.17,
+      0.02,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-okyann-new.png",
@@ -1447,20 +2344,26 @@
     "gachaPic": "guaidao-kapai-okyann-new.png",
     "gachaBigPic": "lihui-guaidao-okyann.png",
     "thiefBigPicPos": [
+      -87,
+      -227,
       0
     ],
     "thiefBigPicScale": 0.73,
     "thiefGrowthPicPos": [
+      -87,
+      -227,
       0
     ],
     "thiefGrowthPicScale": 0.73,
     "gachaResultBg": "lihui-guaidao-okyann-shilian.png",
     "gachaResultPic": "lihui-guaidao-okyann.png",
     "gachaResultPicOffset": [
-      0
+      0.28,
+      0.348
     ],
     "gachaResultPicTiling": [
-      0
+      0.384,
+      0.718
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -1471,16 +2374,22 @@
     "gachaNamePic": "Tongyong-mingzi-31-i18n.png",
     "gachaCode": "guaidao-daihao-fushanjiadai.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-okyann2.png",
     "fiveStarLinesOne": "演出时刻！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-okyann.png",
     "thiefCodePos": [
-      0
+      290,
+      -86.8,
+      -40.1
     ],
     "thiefNamePos": [
+      -209,
+      194,
       0
     ],
     "littlePic": "item-501081.png",
@@ -1488,38 +2397,110 @@
     "icon": "Tongyong-touxiang-A-20.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ{�ζ�]��n��~�ۭ��}vۍu�^�ۭx�n�۾6ۭ�ӭ�ۍv۾"
+        "241:75.86",
+        "261:22.5",
+        "271:13.71",
+        "263:0.0312"
       ],
       [
-        "ۭz׍u�n��Ow�n5�M��n��M�מ<�n��]��n5߿wۭu�nv�^�睺�My�n5�u�n��~v�_6ۭ��M"
+        "241:151.72",
+        "261:45",
+        "271:27.42",
+        "263:0.0624"
       ],
       [
-        "�m�ם��m��^{�n���{ۭ��_8"
+        "241:227.58",
+        "261:67.5",
+        "271:41.13",
+        "263:0.0936"
+      ],
+      [
+        "241:303.44",
+        "261:90",
+        "271:54.84",
+        "263:0.1248"
+      ],
+      [
+        "241:379.3",
+        "261:112.5",
+        "271:68.55",
+        "263:0.156"
+      ],
+      [
+        "241:455.16",
+        "261:135",
+        "271:82.26",
+        "263:0.1872"
+      ],
+      [
+        "241:531.02",
+        "261:157.5",
+        "271:95.97",
+        "263:0.2184"
       ]
     ],
     "awakeSkill": [
-      0
+      108131,
+      108132
     ],
     "awakeAward": [
+      238081,
+      238001,
+      239081,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238081
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239081
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [],
     "gunSkill": 0,
@@ -1529,23 +2510,42 @@
     "resetPosition": 0,
     "cardCommend": [
       [
-        0
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        263
+      ],
+      [
+        263
+      ],
+      [
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      263,
+      243,
+      273
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 50,
     "commendSn": [
-      0
+      3,
+      105
     ],
     "testThiefInfo": ""
   },
@@ -1574,15 +2574,21 @@
     "zhenrongPersona": "zhenrong-lihui-rin-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-rin.png",
     "jinjieThiefpos": [
+      82,
+      -442,
       0
     ],
     "jinjieThiefScale": 0.78,
@@ -1605,7 +2611,9 @@
     "cvName": "卢婷",
     "chcvName": "小连杀",
     "cvNamepos": [
-      0
+      -55,
+      128.2,
+      -20.47
     ],
     "Story": "大学一年级的少女，出生于中国四川，作为留学生来到日本。\n性格开朗大方，是一个言行跳脱的乐天派，有时也会露出孩子气的一面。\n因为迟迟找不到人生目标而陷入焦躁不安，正在各种新鲜体验中积极寻找答案。\n代号是「RIN」。\n初始人格面具Ⅱ是「孟婆」。",
     "showSound": "sys31_001_1",
@@ -1623,19 +2631,29 @@
     "chat": "1091",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.705,
+      0,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-rin-new.png",
@@ -1643,20 +2661,26 @@
     "gachaPic": "guaidao-kapai-rin-new.png",
     "gachaBigPic": "lihui-guaidao-rin.png",
     "thiefBigPicPos": [
+      82,
+      -442,
       0
     ],
     "thiefBigPicScale": 0.78,
     "thiefGrowthPicPos": [
+      82,
+      -442,
       0
     ],
     "thiefGrowthPicScale": 0.78,
     "gachaResultBg": "lihui-guaidao-rin-shilian.png",
     "gachaResultPic": "lihui-guaidao-rin-chouka.png",
     "gachaResultPicOffset": [
-      0
+      0.329,
+      0.372
     ],
     "gachaResultPicTiling": [
-      0
+      0.32,
+      0.68
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -1667,16 +2691,22 @@
     "gachaNamePic": "Tongyong-mingzi-34-i18n.png",
     "gachaCode": "guaidao-daihao-liyaoling.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-rin2.png",
     "fiveStarLinesOne": "演出时刻！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-tirara.png",
     "thiefCodePos": [
-      0
+      290,
+      -86.8,
+      -40.1
     ],
     "thiefNamePos": [
+      -250.5,
+      194.8,
       0
     ],
     "littlePic": "item-501091.png",
@@ -1684,38 +2714,113 @@
     "icon": "Tongyong-touxiang-A-21.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}�ζ�]�׍��_5ߍv���ۍu�^�ۭz�o6�]��~5�y�n5۽��n��~6۽y�}���=߽��~�㍺�]�筻׽�ߍuӿu�n5�7ۭu���_t�~5�~<���מ9׭��_:��]<�~5׭"
+        "241:90.86",
+        "261:31.14",
+        "271:18.1",
+        "341:2.6979"
       ],
       [
-        "׭��m��m{�ͻ�]��~5��<�"
+        "241:181.72",
+        "261:62.28",
+        "271:36.2",
+        "341:5.3958"
+      ],
+      [
+        "241:272.58",
+        "261:93.42",
+        "271:54.3",
+        "341:8.0937"
+      ],
+      [
+        "241:363.44",
+        "261:124.56",
+        "271:72.4",
+        "341:10.7916"
+      ],
+      [
+        "241:454.3",
+        "261:155.7",
+        "271:90.5",
+        "341:13.4895"
+      ],
+      [
+        "241:545.16",
+        "261:186.84",
+        "271:108.6",
+        "341:16.1874"
+      ],
+      [
+        "241:636.02",
+        "261:217.98",
+        "271:126.7",
+        "341:18.8853"
       ]
     ],
     "awakeSkill": [
-      0
+      109131,
+      109132
     ],
     "awakeAward": [
+      238091,
+      238001,
+      239091,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238091
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239091
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      109101
     ],
     "gunSkill": 109161,
     "gunBullets": 12,
@@ -1724,23 +2829,51 @@
     "resetPosition": 0,
     "cardCommend": [
       [
-        0
+        2003,
+        15
+      ],
+      [
+        2008,
+        15
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        263
+      ],
+      [
+        263
+      ],
+      [
+        341
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      341,
+      243,
+      243,
+      273
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 200,
     "commendSn": [
-      0
+      4,
+      101
     ],
     "testThiefInfo": ""
   },
@@ -1769,15 +2902,21 @@
     "zhenrongPersona": "zhenrong-lihui-kotomo-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-kotomo.png",
     "jinjieThiefpos": [
+      162,
+      -94,
       0
     ],
     "jinjieThiefScale": 0.76,
@@ -1800,7 +2939,9 @@
     "cvName": "明坂聪美",
     "chcvName": "秦文静",
     "cvNamepos": [
-      0
+      -37.5,
+      118.6,
+      -20.47
     ],
     "Story": "就读于己刮学园的高中二年级少女。\n性格冷静沉稳，观察力出众，习惯主动照顾身边的人。\n作为棒球捕手，幼时曾跟素羽一起获得过各种冠军，对自己场上的实力充满自信。\n代号是「MOKO」。\n初始人格面具Ⅱ是「普罗西姆纳」。",
     "showSound": "sys33_001_1",
@@ -1818,19 +2959,29 @@
     "chat": "1101",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.705,
+      0,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-kotomo-new.png",
@@ -1838,20 +2989,26 @@
     "gachaPic": "guaidao-kapai-kotomo-new.png",
     "gachaBigPic": "lihui-guaidao-kotomo.png",
     "thiefBigPicPos": [
+      162,
+      -94,
       0
     ],
     "thiefBigPicScale": 0.76,
     "thiefGrowthPicPos": [
+      162,
+      -94,
       0
     ],
     "thiefGrowthPicScale": 0.76,
     "gachaResultBg": "lihui-guaidao-kotomo-shilian.png",
     "gachaResultPic": "lihui-guaidao-kotomo.png",
     "gachaResultPicOffset": [
-      0
+      0.043,
+      0.211
     ],
     "gachaResultPicTiling": [
-      0
+      0.4,
+      0.675
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -1862,16 +3019,22 @@
     "gachaNamePic": "Tongyong-mingzi-36-i18n.png",
     "gachaCode": "guaidao-daihao-yemaopengzi.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-kotomo2.png",
     "fiveStarLinesOne": "演出时刻！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-kotomo.png",
     "thiefCodePos": [
-      0
+      290,
+      -86.8,
+      -40.1
     ],
     "thiefNamePos": [
+      -209,
+      194,
       0
     ],
     "littlePic": "item-501101.png",
@@ -1879,38 +3042,113 @@
     "icon": "Tongyong-touxiang-A-19.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ{띺�mx�n��:ۭ��}vۍu�}�׍��n�۾�ۭ�ӭ�ۍv��v�^��ݻ׍y�n��Ow�n5�N��_9�m�מx�n��]��n5�͹ۭuӽy۽z�}��My�n5�v�]v�6�_7׭��M"
+        "241:76.5",
+        "261:21.43",
+        "271:13.86",
+        "263:0.0312"
       ],
       [
-        "�m�ם��n�ם4�n���6ۭ��_8"
+        "241:153",
+        "261:42.86",
+        "271:27.72",
+        "263:0.0624"
+      ],
+      [
+        "241:229.5",
+        "261:64.29",
+        "271:41.58",
+        "263:0.0936"
+      ],
+      [
+        "241:306",
+        "261:85.72",
+        "271:55.44",
+        "263:0.1248"
+      ],
+      [
+        "241:382.5",
+        "261:107.15",
+        "271:69.3",
+        "263:0.156"
+      ],
+      [
+        "241:459",
+        "261:128.58",
+        "271:83.16",
+        "263:0.1872"
+      ],
+      [
+        "241:535.5",
+        "261:150.01",
+        "271:97.02",
+        "263:0.2184"
       ]
     ],
     "awakeSkill": [
-      0
+      110131,
+      110132
     ],
     "awakeAward": [
+      238101,
+      238001,
+      239101,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238101
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239101
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      110101
     ],
     "gunSkill": 110161,
     "gunBullets": 7,
@@ -1919,23 +3157,47 @@
     "resetPosition": 0,
     "cardCommend": [
       [
-        0
+        2008,
+        16
+      ],
+      [
+        2008,
+        15
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        263
+      ],
+      [
+        301
+      ],
+      [
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      263,
+      301,
+      243,
+      273
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 50,
     "commendSn": [
-      0
+      5,
+      115
     ],
     "testThiefInfo": ""
   },
@@ -1964,15 +3226,21 @@
     "zhenrongPersona": "zhenrong-lihui-bui-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-bui.png",
     "jinjieThiefpos": [
+      -54,
+      -293,
       0
     ],
     "jinjieThiefScale": 0.73,
@@ -1995,7 +3263,9 @@
     "cvName": "安济知佳",
     "chcvName": "陈奕雯",
     "cvNamepos": [
-      0
+      -55,
+      128.2,
+      -20.47
     ],
     "Story": "主人公在虚拟世界中认识的一位谜之少女。\n沉迷于购置大量的土地，在主人公的建议下，两人决定在土地上种植庄稼。\n性格天真烂漫，偶尔也会暴露出迷糊的一面。\n代号是「BUI」。\n初始人格面具II是「艾普苏黛丝」。",
     "showSound": "sys36_001_1",
@@ -2013,19 +3283,29 @@
     "chat": "1111",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.842,
+      0.02,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-bui-new.png",
@@ -2033,20 +3313,26 @@
     "gachaPic": "guaidao-kapai-bui-new.png",
     "gachaBigPic": "lihui-guaidao-bui.png",
     "thiefBigPicPos": [
+      54,
+      -356,
       0
     ],
     "thiefBigPicScale": 0.81,
     "thiefGrowthPicPos": [
+      54,
+      -356,
       0
     ],
     "thiefGrowthPicScale": 0.81,
     "gachaResultBg": "lihui-guaidao-bui-shilian.png",
     "gachaResultPic": "lihui-guaidao-bui.png",
     "gachaResultPicOffset": [
-      0
+      0.12,
+      0.31
     ],
     "gachaResultPicTiling": [
-      0
+      0.44,
+      0.73
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -2057,16 +3343,22 @@
     "gachaNamePic": "Tongyong-mingzi-35.png",
     "gachaCode": "guaidao-daihao-bui.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-yui2.png",
     "fiveStarLinesOne": "演出时刻！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-yui.png",
     "thiefCodePos": [
-      0
+      290,
+      -86.8,
+      -40.1
     ],
     "thiefNamePos": [
+      -250.5,
+      194.8,
       0
     ],
     "littlePic": "item-501111.png",
@@ -2074,38 +3366,113 @@
     "icon": "Tongyong-touxiang-A-22.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}�v�]���^��o5�M��n5��x�n���۽w�6�]4��6�]��]��_"
+        "241:97.71",
+        "261:32.86",
+        "271:16.19",
+        "281:0.0249"
       ],
       [
-        "�ͻ׏9�o5�N��n5��<�n��}x�n�����t��zۍx��yۭu���_4����Mv㝸ן:ۭ��_{׭�����o5�^=�n5����n��}4�n��]��o5�^�"
+        "241:195.42",
+        "261:65.72",
+        "271:32.38",
+        "281:0.0498"
+      ],
+      [
+        "241:293.13",
+        "261:98.58",
+        "271:48.57",
+        "281:0.0747"
+      ],
+      [
+        "241:390.84",
+        "261:131.44",
+        "271:64.76",
+        "281:0.0996"
+      ],
+      [
+        "241:488.55",
+        "261:164.3",
+        "271:80.95",
+        "281:0.1245"
+      ],
+      [
+        "241:586.26",
+        "261:197.16",
+        "271:97.14",
+        "281:0.1494"
+      ],
+      [
+        "241:683.97",
+        "261:230.02",
+        "271:113.33",
+        "281:0.1743"
       ]
     ],
     "awakeSkill": [
-      0
+      111131,
+      111132
     ],
     "awakeAward": [
+      238111,
+      238001,
+      239111,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238111
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239111
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      111101
     ],
     "gunSkill": 111161,
     "gunBullets": 6,
@@ -2114,23 +3481,48 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2004,
+        9
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        281,
+        291
+      ],
+      [
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      263,
+      281,
+      291
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 200,
     "commendSn": [
-      0
+      113,
+      114
     ],
     "testThiefInfo": ""
   },
@@ -2159,15 +3551,21 @@
     "zhenrongPersona": "zhenrong-lihui-kii-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-kii.png",
     "jinjieThiefpos": [
+      -54,
+      -293,
       0
     ],
     "jinjieThiefScale": 0.73,
@@ -2190,7 +3588,9 @@
     "cvName": "小林裕介",
     "chcvName": "徐翔",
     "cvNamepos": [
-      0
+      -55,
+      128.2,
+      -20.47
     ],
     "Story": "就读于己刮学园的高中一年级少年。\n拥有敏锐的通灵能力，自认是「天选之人」。\n小时体弱多病，对于现实生活中的灵异现象有着浓厚的兴趣，想象力异常丰富。\n代号是「KEY」。\n初始人格面具Ⅱ是「绪刻」。",
     "showSound": "sys32_001_1",
@@ -2208,19 +3608,29 @@
     "chat": "1121",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.826,
+      0.06,
+      2.061
     ],
     "qishiRotation": [
+      0,
+      -97.82755,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-kii-new.png",
@@ -2228,20 +3638,26 @@
     "gachaPic": "guaidao-kapai-kii-new.png",
     "gachaBigPic": "lihui-guaidao-kii.png",
     "thiefBigPicPos": [
+      -54,
+      -293,
       0
     ],
     "thiefBigPicScale": 0.73,
     "thiefGrowthPicPos": [
+      -54,
+      -293,
       0
     ],
     "thiefGrowthPicScale": 0.73,
     "gachaResultBg": "lihui-guaidao-kii-shilian.png",
     "gachaResultPic": "lihui-guaidao-kii.png",
     "gachaResultPicOffset": [
-      0
+      0.222,
+      0.44
     ],
     "gachaResultPicTiling": [
-      0
+      0.569,
+      0.727
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -2252,16 +3668,22 @@
     "gachaNamePic": "Tongyong-mingzi-33-i18n.png",
     "gachaCode": "guaidao-daihao-heiguqing.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-kii2.png",
     "fiveStarLinesOne": "演出时刻！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-kii.png",
     "thiefCodePos": [
-      0
+      290,
+      -86.8,
+      -40.1
     ],
     "thiefNamePos": [
+      -250.5,
+      194.8,
       0
     ],
     "littlePic": "item-501121.png",
@@ -2269,44 +3691,113 @@
     "icon": "Tongyong-touxiang-A-17.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}�ov�]}�ݻ�]��n7�M��n5�͹�n���"
+        "241:91.29",
+        "261:19.29",
+        "271:12.86",
+        "243:0.0312"
       ],
       [
-        "۽v罶�}4�n6�]�����^{��9�n7�Ow�n5߮u�n��z۽y׎6�}5ۏ6�^9�v�_z㝻׮7ۍ�מ��^x�6�]u�6�^�׭��M"
+        "241:182.58",
+        "261:38.58",
+        "271:25.72",
+        "243:0.0624"
       ],
       [
-        "�m�׭��}��]��}���4�n7�m"
+        "241:273.87",
+        "261:57.87",
+        "271:38.58",
+        "243:0.0936"
       ],
       [
-        ""
+        "241:365.16",
+        "261:77.16",
+        "271:51.44",
+        "243:0.1248"
+      ],
+      [
+        "241:456.45",
+        "261:96.45",
+        "271:64.3",
+        "243:0.156"
+      ],
+      [
+        "241:547.74",
+        "261:115.74",
+        "271:77.16",
+        "243:0.1872"
+      ],
+      [
+        "241:639.03",
+        "261:135.03",
+        "271:90.02",
+        "243:0.2184"
       ]
     ],
     "awakeSkill": [
-      0
+      112131,
+      112132
     ],
     "awakeAward": [
+      238121,
+      238001,
+      239121,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238121
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239121
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      112101
     ],
     "gunSkill": 112161,
     "gunBullets": 1,
@@ -2315,23 +3806,46 @@
     "resetPosition": 0,
     "cardCommend": [
       [
-        0
+        2002,
+        6
+      ],
+      [
+        2003,
+        6
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        301
+      ],
+      [
+        243
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      243,
+      301
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 50,
     "commendSn": [
-      0
+      105,
+      106
     ],
     "testThiefInfo": ""
   },
@@ -2360,15 +3874,21 @@
     "zhenrongPersona": "zhenrong-lihui-yuki-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      -37,
+      95,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      129,
+      534,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-yuki.png",
     "jinjieThiefpos": [
+      0,
+      -388,
       0
     ],
     "jinjieThiefScale": 0.71,
@@ -2391,7 +3911,9 @@
     "cvName": "诹访彩花",
     "chcvName": "陈婷婷",
     "cvNamepos": [
-      0
+      -37.5,
+      118.6,
+      -20.47
     ],
     "Story": "高中二年级的少女。\n父亲早逝，从小在母亲的冷酷高压手段下成长。\n无法认同母亲的想法，却又想要回应母亲的期待，这种矛盾和痛苦让她成为了一个表面冷酷、内心柔软的人。\n代号是「YUKI」。\n初始人格面具Ⅱ是「斯堤克斯」。",
     "showSound": "sys21_001_1",
@@ -2409,19 +3931,29 @@
     "chat": "1131",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.855,
+      -0.04,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      -0.09,
+      0,
+      0.05
     ],
     "collisionThiefB": [
-      0
+      -0.03,
+      0,
+      0.06
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-009.jpg",
     "readyPic": "guaidao-kapai-tembin-new.png",
@@ -2429,20 +3961,26 @@
     "gachaPic": "guaidao-kapai-tembin-new.png",
     "gachaBigPic": "lihui-guaidao-tembin.png",
     "thiefBigPicPos": [
+      0,
+      -388,
       0
     ],
     "thiefBigPicScale": 0.71,
     "thiefGrowthPicPos": [
+      0,
+      -388,
       0
     ],
     "thiefGrowthPicScale": 0.71,
     "gachaResultBg": "lihui-guaidao-tembin-shilian.png",
     "gachaResultPic": "lihui-guaidao-tembin.png",
     "gachaResultPicOffset": [
-      0
+      0.247,
+      0.495
     ],
     "gachaResultPicTiling": [
-      0
+      0.36,
+      0.597
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -2453,16 +3991,22 @@
     "gachaNamePic": "Tongyong-mingzi-25-i18n.png",
     "gachaCode": "guaidao-daihao-tengchuanxueshi.png",
     "gachaCodePos": [
-      0
+      16.6,
+      -12,
+      4.31
     ],
     "gachaMask": "guaidao-mianjuicon-tengchuanxueshi2.png",
     "fiveStarLinesOne": "",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-yuki.png",
     "thiefCodePos": [
+      -30.6,
+      -33.8,
       0
     ],
     "thiefNamePos": [
+      -209,
+      194,
       0
     ],
     "littlePic": "item-501131.png",
@@ -2470,38 +4014,113 @@
     "icon": "Tongyong-touxiang-A-8.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ{�ζ�]"
+        "241:75.86",
+        "261:18.21",
+        "271:17",
+        "273:0.0467"
       ],
       [
-        "�]��^��}4���]y׽��]��m��~6�}4�~6�]��6�^x�}�םv�}5�Mv�]�ߎ6�^��ׯ6�}5�6�]��}���t�n���M�ߝ�׎y׭��]=ۭ��]6۽���6ۍy�]6ۭu۾;۽u�ݻ�M��"
+        "241:151.72",
+        "261:36.42",
+        "271:34",
+        "273:0.0934"
+      ],
+      [
+        "241:227.58",
+        "261:54.63",
+        "271:51",
+        "273:0.1401"
+      ],
+      [
+        "241:303.44",
+        "261:72.84",
+        "271:68",
+        "273:0.1868"
+      ],
+      [
+        "241:379.3",
+        "261:91.05",
+        "271:85",
+        "273:0.2335"
+      ],
+      [
+        "241:455.16",
+        "261:109.26",
+        "271:102",
+        "273:0.2802"
+      ],
+      [
+        "241:531.02",
+        "261:127.47",
+        "271:119",
+        "273:0.3269"
       ]
     ],
     "awakeSkill": [
-      0
+      113131,
+      113132
     ],
     "awakeAward": [
+      238131,
+      238001,
+      239131,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238131
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239131
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      113101
     ],
     "gunSkill": 113161,
     "gunBullets": 16,
@@ -2510,23 +4129,44 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2013,
+        12
+      ],
+      [
+        2007,
+        12
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        273
+      ],
+      [
+        273
+      ],
+      [
+        273
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      273,
+      243
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
     "collectionExp": 50,
     "commendSn": [
-      0
+      6
     ],
     "testThiefInfo": ""
   },
@@ -2555,15 +4195,21 @@
     "zhenrongPersona": "zhenrong-lihui-seiji-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      -37,
+      95,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      129,
+      534,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-seiji.png",
     "jinjieThiefpos": [
+      94,
+      -366,
       0
     ],
     "jinjieThiefScale": 0.78,
@@ -2586,7 +4232,9 @@
     "cvName": "丰永利行",
     "chcvName": "周世月",
     "cvNamepos": [
-      0
+      -37.5,
+      118.6,
+      -20.47
     ],
     "Story": "高中二年级的少年，击剑部的王牌成员，家境优越，外表看起来彬彬有礼。\n尽管实力已经达到大会优胜连霸的程度，却因为过于认真的性格而遭到同社团伙伴的冷落……\n代号是「FLEURET」。\n初始人格面具Ⅱ是「琉科忒亚」。",
     "showSound": "sys22_001_1",
@@ -2604,19 +4252,29 @@
     "chat": "1141",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.831,
+      -0.099,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      0.03,
+      0,
+      0.33
     ],
     "collisionThiefB": [
+      -0.1,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-009.jpg",
     "readyPic": "guaidao-kapai-seiji-new.png",
@@ -2624,20 +4282,26 @@
     "gachaPic": "guaidao-kapai-seiji-new.png",
     "gachaBigPic": "lihui-guaidao-seiji.png",
     "thiefBigPicPos": [
+      94,
+      -366,
       0
     ],
     "thiefBigPicScale": 0.78,
     "thiefGrowthPicPos": [
+      94,
+      -366,
       0
     ],
     "thiefGrowthPicScale": 0.78,
     "gachaResultBg": "lihui-guaidao-seiji-shilian.png",
     "gachaResultPic": "lihui-guaidao-seiji.png",
     "gachaResultPicOffset": [
-      0
+      0.129,
+      0.449
     ],
     "gachaResultPicTiling": [
-      0
+      0.478,
+      0.577
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -2648,16 +4312,22 @@
     "gachaNamePic": "Tongyong-mingzi-22-i18n.png",
     "gachaCode": "guaidao-daihao-bainiaochengsi.png",
     "gachaCodePos": [
-      0
+      9.2,
+      -13.9,
+      5.31
     ],
     "gachaMask": "guaidao-mianjuicon-baniaochengsi2.png",
     "fiveStarLinesOne": "",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-seiji.png",
     "thiefCodePos": [
+      -25.3,
+      -34.7,
       0
     ],
     "thiefNamePos": [
+      -209,
+      194,
       0
     ],
     "littlePic": "item-501141.png",
@@ -2665,41 +4335,113 @@
     "icon": "Tongyong-touxiang-A-12.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ{ӽv�]��]��]��o5�M"
+        "241:70.71",
+        "261:24.21",
+        "271:13.29",
+        "281:0.0187"
       ],
       [
-        "�n5׍x�n���6۽v�6�]4߾6�]��]��^��}��"
+        "241:141.42",
+        "261:48.42",
+        "271:26.58",
+        "281:0.0374"
       ],
       [
-        "�o5�Nz�n5�ͼ�n���8۽y�^��]4�6�]�ߞv�]v�Nv�^�㝼�M=ߝ�׍�ۭ��^9ۭ�׿{�o5�]v�n5��=�n�ׯx�n��}7��t�}="
+        "241:212.13",
+        "261:72.63",
+        "271:39.87",
+        "281:0.0561"
+      ],
+      [
+        "241:282.84",
+        "261:96.84",
+        "271:53.16",
+        "281:0.0748"
+      ],
+      [
+        "241:353.55",
+        "261:121.05",
+        "271:66.45",
+        "281:0.0935"
+      ],
+      [
+        "241:424.26",
+        "261:145.26",
+        "271:79.74",
+        "281:0.1122"
+      ],
+      [
+        "241:494.97",
+        "261:169.47",
+        "271:93.03",
+        "281:0.1309"
       ]
     ],
     "awakeSkill": [
-      0
+      114131,
+      114132
     ],
     "awakeAward": [
+      238141,
+      238001,
+      239141,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238141
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239141
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      114101
     ],
     "gunSkill": 114161,
     "gunBullets": 4,
@@ -2708,23 +4450,48 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2010,
+        19
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        281,
+        291
+      ],
+      [
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      263,
+      281,
+      291
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
     "collectionExp": 50,
     "commendSn": [
-      0
+      103,
+      104
     ],
     "testThiefInfo": ""
   },
@@ -2753,15 +4520,21 @@
     "zhenrongPersona": "zhenrong-lihui-crow-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      -37,
+      95,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      129,
+      534,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-crow.png",
     "jinjieThiefpos": [
+      50,
+      -543,
       0
     ],
     "jinjieThiefScale": 0.71,
@@ -2784,7 +4557,9 @@
     "cvName": "保志总一朗",
     "chcvName": "kinsen",
     "cvNamepos": [
-      0
+      -37.5,
+      118.6,
+      -20.47
     ],
     "Story": "高中三年级的少年。同时也是一名解决过各种案件的侦探。\n头脑聪慧，待人温和。再加上出众的相貌，是个备受瞩目的风云人物。\n因某个契机开始和JOKER一行共同行动。\n代号是「CROW」。\n初始人格面具是「罗宾汉」。",
     "showSound": "VO_Sys_Thief_Crow_01",
@@ -2802,19 +4577,29 @@
     "chat": "1151",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.889,
+      -0.06,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      0,
+      -0.06,
+      -0.249
     ],
     "collisionThiefB": [
-      0
+      0,
+      0,
+      -0.14
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-006.png",
     "readyPic": "guaidao-kapai-crow-new.png",
@@ -2822,20 +4607,26 @@
     "gachaPic": "guaidao-kapai-crow-new.png",
     "gachaBigPic": "lihui-guaidao-crow.png",
     "thiefBigPicPos": [
+      50,
+      -543,
       0
     ],
     "thiefBigPicScale": 0.71,
     "thiefGrowthPicPos": [
+      50,
+      -543,
       0
     ],
     "thiefGrowthPicScale": 0.71,
     "gachaResultBg": "lihui-guaidao-crow-shilian.png",
     "gachaResultPic": "lihui-guaidao-crow.png",
     "gachaResultPicOffset": [
-      0
+      0.132,
+      0.525
     ],
     "gachaResultPicTiling": [
-      0
+      0.43,
+      0.6
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -2846,16 +4637,22 @@
     "gachaNamePic": "Tongyong-mingzi-9-i18n.png",
     "gachaCode": "guaidao-daihao-mingzhiwulang.png",
     "gachaCodePos": [
-      0
+      -6.1,
+      -9.4,
+      8.35
     ],
     "gachaMask": "guaidao-mianjuicon-mingzhiwulang2.png",
     "fiveStarLinesOne": "射杀吧，罗宾汉！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-crow.png",
     "thiefCodePos": [
+      -37,
+      -34,
       0
     ],
     "thiefNamePos": [
+      -209,
+      194,
       0
     ],
     "littlePic": "item-501151.png",
@@ -2863,44 +4660,113 @@
     "icon": "Tongyong-touxiang-A-7.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}�v�]�׍��^��u�M��n5��x�n��m�۽w��5�M:델�ow�}�����n��O9�]t��zۍw�O8ۭuێz۽z��5�Mw�͸׏<睺�^y�n����]t׮��^"
+        "241:97.71",
+        "261:31.14",
+        "271:16.95",
+        "411:0.0332"
       ],
       [
-        "�n��]"
+        "241:195.42",
+        "261:62.28",
+        "271:33.9",
+        "411:0.0664"
       ],
       [
-        "��6�]t׾5�M}�m�ׯ7����m{�ͻ�]"
+        "241:293.13",
+        "261:93.42",
+        "271:50.85",
+        "411:0.0996"
       ],
       [
-        "�5�M��"
+        "241:390.84",
+        "261:124.56",
+        "271:67.8",
+        "411:0.1328"
+      ],
+      [
+        "241:488.55",
+        "261:155.7",
+        "271:84.75",
+        "411:0.166"
+      ],
+      [
+        "241:586.26",
+        "261:186.84",
+        "271:101.7",
+        "411:0.1992"
+      ],
+      [
+        "241:683.97",
+        "261:217.98",
+        "271:118.65",
+        "411:0.2324"
       ]
     ],
     "awakeSkill": [
-      0
+      115132,
+      115131
     ],
     "awakeAward": [
+      238151,
+      238001,
+      239151,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238151
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239151
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      115101
     ],
     "gunSkill": 115161,
     "gunBullets": 7,
@@ -2914,11 +4780,26 @@
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      -1
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
@@ -2952,15 +4833,21 @@
     "zhenrongPersona": "zhenrong-lihui-fox-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      75,
+      -58,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      294,
+      616,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-fox.png",
     "jinjieThiefpos": [
+      98,
+      -312,
       0
     ],
     "jinjieThiefScale": 0.69,
@@ -2983,7 +4870,9 @@
     "cvName": "杉田智和",
     "chcvName": "彭尧",
     "cvNamepos": [
-      0
+      -55,
+      125,
+      -20.47
     ],
     "Story": "高中二年级的少年，专攻日本画的美术特长生，也是某位大师的入门弟子。\n是个外表英俊的美少年，但因为独特的个性和感性，有点无法融入社会。\n以某个事件为契机与JOKER一行人相遇，觉醒了人格面具能力。\n代号是「FOX」。\n初始人格面具是「五右卫门」。",
     "showSound": "VO_Sys_Thief_Fox_01",
@@ -3001,19 +4890,29 @@
     "chat": "1161",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.89,
+      0.027,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      45.5,
+      -1.25
     ],
     "bigPic": "kapai-019.png",
     "readyPic": "guaidao-kapai-fox-new.png",
@@ -3021,20 +4920,26 @@
     "gachaPic": "guaidao-kapai-fox-new.png",
     "gachaBigPic": "lihui-guaidao-fox.png",
     "thiefBigPicPos": [
+      98,
+      -312,
       0
     ],
     "thiefBigPicScale": 0.69,
     "thiefGrowthPicPos": [
+      98,
+      -312,
       0
     ],
     "thiefGrowthPicScale": 0.69,
     "gachaResultBg": "lihui-guaidao-fox-shilian.png",
     "gachaResultPic": "lihui-guaidao-fox.png",
     "gachaResultPicOffset": [
-      0
+      0.068,
+      0.4
     ],
     "gachaResultPicTiling": [
-      0
+      0.41,
+      0.68
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -3045,16 +4950,22 @@
     "gachaNamePic": "Tongyong-mingzi-11-i18n.png",
     "gachaCode": "guaidao-daihao-xiduochuanyoujie.png",
     "gachaCodePos": [
-      0
+      -2.2,
+      -22.2,
+      2
     ],
     "gachaMask": "guaidao-mianjuicon-xiduochuanyoujie2.png",
     "fiveStarLinesOne": "用你来献祭我的刀！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-fox.png",
     "thiefCodePos": [
+      -40.6,
+      -45.2,
       0
     ],
     "thiefNamePos": [
+      -197,
+      182,
       0
     ],
     "littlePic": "item-501161.png",
@@ -3062,38 +4973,113 @@
     "icon": "Tongyong-touxiang-A-1.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍuӭ�ۭvߍ��]���M:�}��mv�ͺ׎��n���۽��n:ۍw��;ۭ{�ov�^��ͻ�M"
+        "241:106.29",
+        "261:23.43",
+        "271:22.86",
+        "273:0.0623"
       ],
       [
-        "�ݸ׍�׭�����n��^8۽�ۏvۍy�^9ۭu׽y۽u׍��}7�^v�^��6�]xӟ6�]w�^��}7�6�^��M��]z�Mv�]z�M��}8߭"
+        "241:212.58",
+        "261:46.86",
+        "271:45.72",
+        "273:0.1246"
+      ],
+      [
+        "241:318.87",
+        "261:70.29",
+        "271:68.58",
+        "273:0.1869"
+      ],
+      [
+        "241:425.16",
+        "261:93.72",
+        "271:91.44",
+        "273:0.2492"
+      ],
+      [
+        "241:531.45",
+        "261:117.15",
+        "271:114.3",
+        "273:0.3115"
+      ],
+      [
+        "241:637.74",
+        "261:140.58",
+        "271:137.16",
+        "273:0.3738"
+      ],
+      [
+        "241:744.03",
+        "261:164.01",
+        "271:160.02",
+        "273:0.4361"
       ]
     ],
     "awakeSkill": [
-      0
+      116132,
+      116131
     ],
     "awakeAward": [
+      238161,
+      238001,
+      239161,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238161
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239161
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      116101
     ],
     "gunSkill": 116161,
     "gunBullets": 10,
@@ -3102,16 +5088,37 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2004,
+        14
+      ],
+      [
+        2013,
+        12
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        273
+      ],
+      [
+        273
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      273
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
@@ -3145,15 +5152,21 @@
     "zhenrongPersona": "zhenrong-lihui-navi-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      -66,
+      146,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      -42,
+      655,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-navi.png",
     "jinjieThiefpos": [
+      -138,
+      -6,
       0
     ],
     "jinjieThiefScale": 0.78,
@@ -3176,7 +5189,9 @@
     "cvName": "悠木碧",
     "chcvName": "幽舞越山",
     "cvNamepos": [
-      0
+      -37.5,
+      118.6,
+      -20.47
     ],
     "Story": "比JOKER小一岁的少女。\n拥有超乎常人的计算能力和天才级别的编程技术，但极不擅长与人交流。加上曾经被卷入某个事件，导致在家闭门不出。\n因某个契机与JOKER一行相遇，觉醒了人格面具能力。\n代号是「NAVI」。\n初始人格面具是「死灵之书」。",
     "showSound": "VO_Sys_Thief_Navi_01",
@@ -3194,19 +5209,29 @@
     "chat": "1171",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.83,
+      0.141,
+      2.113
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-008.jpg",
     "readyPic": "guaidao-kapai-navi-new.png",
@@ -3214,20 +5239,26 @@
     "gachaPic": "guaidao-kapai-navi-new.png",
     "gachaBigPic": "lihui-guaidao-navi.png",
     "thiefBigPicPos": [
+      -138,
+      -6,
       0
     ],
     "thiefBigPicScale": 0.78,
     "thiefGrowthPicPos": [
+      -138,
+      -6,
       0
     ],
     "thiefGrowthPicScale": 0.78,
     "gachaResultBg": "lihui-guaidao-navi-shilian.png",
     "gachaResultPic": "lihui-guaidao-navi.png",
     "gachaResultPicOffset": [
-      0
+      0.56,
+      -0.08
     ],
     "gachaResultPicTiling": [
-      0
+      0.51,
+      0.994
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -3238,16 +5269,22 @@
     "gachaNamePic": "Tongyong-mingzi-3-i18n.png",
     "gachaCode": "guaidao-daihao-zuocangshuangye.png",
     "gachaCodePos": [
-      0
+      0,
+      -17,
+      4.5
     ],
     "gachaMask": "guaidao-mianjuicon-zuocangshuangye2.png",
     "fiveStarLinesOne": "网络情报归我！现实的事，可就交给你咯！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-navi.png",
     "thiefCodePos": [
+      -59.2,
+      -41,
       0
     ],
     "thiefNamePos": [
+      -209,
+      194,
       0
     ],
     "littlePic": "item-501171.png",
@@ -3255,38 +5292,110 @@
     "icon": "Tongyong-touxiang-A-10.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}۞��]��}��^��n��N5�n5��u�n��:۽w�ݺ�M<�n5۾��n��M6�n��O9ۭ��n9ۍw�M�ۭu�~�۽z�ͺ�Mz�n5㭼�n�׮��n���ۭ��N�ۍy�6ۭv�N"
+        "241:92.57",
+        "261:33.43",
+        "271:16.95",
+        "263:0.0415"
       ],
       [
-        "۽u�^��}6�ݸ׮;�ݺ�m��]��]"
+        "241:185.14",
+        "261:66.86",
+        "271:33.9",
+        "263:0.083"
       ],
       [
-        "띺�M��"
+        "241:277.71",
+        "261:100.29",
+        "271:50.85",
+        "263:0.1245"
+      ],
+      [
+        "241:370.28",
+        "261:133.72",
+        "271:67.8",
+        "263:0.166"
+      ],
+      [
+        "241:462.85",
+        "261:167.15",
+        "271:84.75",
+        "263:0.2075"
+      ],
+      [
+        "241:555.42",
+        "261:200.58",
+        "271:101.7",
+        "263:0.249"
+      ],
+      [
+        "241:647.99",
+        "261:234.01",
+        "271:118.65",
+        "263:0.2905"
       ]
     ],
     "awakeSkill": [
-      0
+      117131,
+      117132
     ],
     "awakeAward": [
+      238171,
+      238001,
+      239171,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238171
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239171
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [],
     "gunSkill": 0,
@@ -3301,11 +5410,26 @@
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      -1
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
@@ -3344,6 +5468,8 @@
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-sepia.png",
     "jinjieThiefpos": [
+      -54,
+      -293,
       0
     ],
     "jinjieThiefScale": 0.73,
@@ -3382,19 +5508,29 @@
     "chat": "1181",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.732,
+      0,
+      2.135
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-sepia-new.png",
@@ -3402,24 +5538,31 @@
     "gachaPic": "guaidao-kapai-sepia-new.png",
     "gachaBigPic": "lihui-guaidao-sepia.png",
     "thiefBigPicPos": [
+      88,
+      -443,
       0
     ],
     "thiefBigPicScale": 0.735,
     "thiefGrowthPicPos": [
+      88,
+      -443,
       0
     ],
     "thiefGrowthPicScale": 0.735,
     "gachaResultBg": "lihui-guaidao-sepia-shilian.png",
     "gachaResultPic": "lihui-guaidao-sepia.png",
     "gachaResultPicOffset": [
-      0
+      0.35,
+      0.47
     ],
     "gachaResultPicTiling": [
-      0
+      1,
+      1
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [
-      0
+      1,
+      2.17
     ],
     "gachaResultMask": "guaidao-mianjuicon-sepia2.png",
     "gachaResultName": "guaidao-mingzi-chouka-sepia.png",
@@ -3428,7 +5571,9 @@
     "gachaNamePic": "",
     "gachaCode": "guaidao-daihao-xujianjunye.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-sepia2.png",
     "fiveStarLinesOne": "",
@@ -3441,41 +5586,113 @@
     "icon": "Tongyong-touxiang-A-24.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ{�ov�]�۽uߍ��}4�]��]x�6�^<۽v�ζ�}4�n6�]�����^�۽x�ov�}4�~��]��^��_z۽y߽��}5ۏ6�]��v�]v�n��yۭ�מ��^7��6�]x�n��N"
+        "241:73.29",
+        "261:24",
+        "271:13.43",
+        "263:0.0312"
       ],
       [
-        "ۭ����ۍy�}7ۭu�ͻ��4�n��m"
+        "241:146.58",
+        "261:48",
+        "271:26.86",
+        "263:0.0624"
       ],
       [
-        ""
+        "241:219.87",
+        "261:72",
+        "271:40.29",
+        "263:0.0936"
+      ],
+      [
+        "241:293.16",
+        "261:96",
+        "271:53.72",
+        "263:0.1248"
+      ],
+      [
+        "241:366.45",
+        "261:120",
+        "271:67.15",
+        "263:0.156"
+      ],
+      [
+        "241:439.74",
+        "261:144",
+        "271:80.58",
+        "263:0.1872"
+      ],
+      [
+        "241:513.03",
+        "261:168",
+        "271:94.01",
+        "263:0.2184"
       ]
     ],
     "awakeSkill": [
-      0
+      118131,
+      118132
     ],
     "awakeAward": [
+      238181,
+      238001,
+      239181,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238181
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239181
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      118101
     ],
     "gunSkill": 118161,
     "gunBullets": 8,
@@ -3484,23 +5701,48 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2002,
+        24
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        281,
+        291
+      ],
+      [
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      263,
+      281,
+      291
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 50,
     "commendSn": [
-      0
+      103,
+      112
     ],
     "testThiefInfo": ""
   },
@@ -3529,15 +5771,21 @@
     "zhenrongPersona": "zhenrong-lihui-panther-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      -58,
+      -158,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      158,
+      662,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-panther.png",
     "jinjieThiefpos": [
+      119,
+      -449,
       0
     ],
     "jinjieThiefScale": 0.74,
@@ -3560,7 +5808,9 @@
     "cvName": "水树奈奈",
     "chcvName": "陶典",
     "cvNamepos": [
-      0
+      -55,
+      128.2,
+      -20.47
     ],
     "Story": "高中二年级的少女，有四分之一美国血统，学业之外还在当兼职模特。\n天真烂漫，性格直率。但因为漂亮出众的容貌而跟周围的人们格格不入，显得形单影只。\n和JOKER相遇后，以某个事件为契机觉醒了人格面具能力。\n代号是「PANTHER」。\n初始人格面具是「卡门」。",
     "showSound": "VO_Sys_Thief_Panther_01",
@@ -3578,19 +5828,29 @@
     "chat": "1191",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.892,
+      0.081,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      0,
+      -0.09,
+      0.23
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-007.png",
     "readyPic": "guaidao-kapai-panther-new.png",
@@ -3598,20 +5858,26 @@
     "gachaPic": "guaidao-kapai-panther-new.png",
     "gachaBigPic": "lihui-guaidao-panther.png",
     "thiefBigPicPos": [
+      119,
+      -449,
       0
     ],
     "thiefBigPicScale": 0.74,
     "thiefGrowthPicPos": [
+      119,
+      -449,
       0
     ],
     "thiefGrowthPicScale": 0.74,
     "gachaResultBg": "lihui-guaidao-panther-shilian.png",
     "gachaResultPic": "lihui-guaidao-panther.png",
     "gachaResultPicOffset": [
-      0
+      0.227,
+      0.43
     ],
     "gachaResultPicTiling": [
-      0
+      0.308,
+      0.654
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -3622,16 +5888,22 @@
     "gachaNamePic": "Tongyong-mingzi-5-i18n.png",
     "gachaCode": "guaidao-daihao-gaojuanxing.png",
     "gachaCodePos": [
-      0
+      22,
+      -13,
+      -4.5
     ],
     "gachaMask": "guaidao-mianjuicon-gaojuanxing2.png",
     "fiveStarLinesOne": "美丽的玫瑰，往往都是带刺的！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-panther.png",
     "thiefCodePos": [
+      -6.8,
+      -19.2,
       0
     ],
     "thiefNamePos": [
+      -250.5,
+      194.8,
       0
     ],
     "littlePic": "item-501191.png",
@@ -3639,35 +5911,113 @@
     "icon": "Tongyong-touxiang-A-5.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}۞��]�罻�^��n��N5�n5��u�n���x۽w獶�}4�}��n��]��]7�]�ם��n��]��n5߽6�n��6�n��O8ۭ�׮��^:��v�]{��v�_<睺�M�מy�m��m;�m��]:ۭ��M��n5���n�ۍ}�n��m��n��ot"
+        "241:92.57",
+        "261:34.57",
+        "271:17.71",
+        "263:0.0415"
+      ],
+      [
+        "241:185.14",
+        "261:69.14",
+        "271:35.42",
+        "263:0.083"
+      ],
+      [
+        "241:277.71",
+        "261:103.71",
+        "271:53.13",
+        "263:0.1245"
+      ],
+      [
+        "241:370.28",
+        "261:138.28",
+        "271:70.84",
+        "263:0.166"
+      ],
+      [
+        "241:462.85",
+        "261:172.85",
+        "271:88.55",
+        "263:0.2075"
+      ],
+      [
+        "241:555.42",
+        "261:207.42",
+        "271:106.26",
+        "263:0.249"
+      ],
+      [
+        "241:647.99",
+        "261:241.99",
+        "271:123.97",
+        "263:0.2905"
       ]
     ],
     "awakeSkill": [
-      0
+      119131,
+      119132
     ],
     "awakeAward": [
+      238191,
+      238001,
+      239191,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238191
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239191
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      119101
     ],
     "gunSkill": 119161,
     "gunBullets": 12,
@@ -3676,23 +6026,48 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2013,
+        8
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        281,
+        291
+      ],
+      [
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      263,
+      281,
+      291
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
     "collectionExp": 200,
     "commendSn": [
-      0
+      105,
+      106
     ],
     "testThiefInfo": ""
   },
@@ -3721,15 +6096,21 @@
     "zhenrongPersona": "zhenrong-lihui-queen-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-queen.png",
     "jinjieThiefpos": [
+      -172,
+      -324,
       0
     ],
     "jinjieThiefScale": 0.74,
@@ -3752,7 +6133,9 @@
     "cvName": "佐藤利奈",
     "chcvName": "杨梦露",
     "cvNamepos": [
-      0
+      -55,
+      128.2,
+      -20.47
     ],
     "Story": "高中三年级的少女，学生会长。\n头脑聪明，品行端正，性格冷静，责任感强，还很有行动力。\n但相对也有死心眼，不懂妥协的一面。\n以某个事件为契机觉醒了人格面具能力。\n代号是「QUEEN」。\n初始人格面具是「琼安」。",
     "showSound": "VO_Sys_Thief_Queen_01",
@@ -3770,19 +6153,29 @@
     "chat": "1201",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.897,
+      0.05,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      0,
+      0.02,
+      0.34
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      40.72,
+      -1.25
     ],
     "bigPic": "kapai-004.png",
     "readyPic": "guaidao-kapai-queen-new.png",
@@ -3790,20 +6183,26 @@
     "gachaPic": "guaidao-kapai-queen-new.png",
     "gachaBigPic": "lihui-guaidao-queen.png",
     "thiefBigPicPos": [
+      -172,
+      -324,
       0
     ],
     "thiefBigPicScale": 0.74,
     "thiefGrowthPicPos": [
+      -172,
+      -324,
       0
     ],
     "thiefGrowthPicScale": 0.74,
     "gachaResultBg": "lihui-guaidao-queen-shilian.png",
     "gachaResultPic": "lihui-guaidao-queen.png",
     "gachaResultPicOffset": [
-      0
+      0.34,
+      0.3
     ],
     "gachaResultPicTiling": [
-      0
+      0.44,
+      0.88
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -3814,16 +6213,22 @@
     "gachaNamePic": "Tongyong-mingzi-12-i18n.png",
     "gachaCode": "guaidao-daihao-xindaozhen.png",
     "gachaCodePos": [
-      0
+      25.9,
+      -26,
+      14.5
     ],
     "gachaMask": "guaidao-mianjuicon-xindaozhen2.png",
     "fiveStarLinesOne": "承受我的怒火吧！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-queen.png",
     "thiefCodePos": [
+      -22.8,
+      -37.1,
       0
     ],
     "thiefNamePos": [
+      -250.5,
+      194.8,
       0
     ],
     "littlePic": "item-501201.png",
@@ -3831,38 +6236,113 @@
     "icon": "Tongyong-touxiang-A-9.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}�ζ�]�׍��m;�u�M��n5��{�n��m�۽xם��]4�6�]�۟6�_w�m�׭��u�O}�n5߭��n��n9�n��}8�]t�}�ۍx���]y罻�]7�u�^�ۍy�zۭu�8۽uێz�]t��vۍz߭6ۭv׿"
+        "241:90.86",
+        "261:31.14",
+        "271:20.76",
+        "411:0.0332"
       ],
       [
-        "۽u���]t�}�"
+        "241:181.72",
+        "261:62.28",
+        "271:41.52",
+        "411:0.0664"
+      ],
+      [
+        "241:272.58",
+        "261:93.42",
+        "271:62.28",
+        "411:0.0996"
+      ],
+      [
+        "241:363.44",
+        "261:124.56",
+        "271:83.04",
+        "411:0.1328"
+      ],
+      [
+        "241:454.3",
+        "261:155.7",
+        "271:103.8",
+        "411:0.166"
+      ],
+      [
+        "241:545.16",
+        "261:186.84",
+        "271:124.56",
+        "411:0.1992"
+      ],
+      [
+        "241:636.02",
+        "261:217.98",
+        "271:145.32",
+        "411:0.2324"
       ]
     ],
     "awakeSkill": [
-      0
+      120132,
+      120131
     ],
     "awakeAward": [
+      238201,
+      238001,
+      239201,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238201
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239201
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      120101
     ],
     "gunSkill": 120161,
     "gunBullets": 6,
@@ -3871,16 +6351,40 @@
     "resetPosition": 0,
     "cardCommend": [
       [
-        0
+        2002,
+        20
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        281,
+        291
+      ],
+      [
+        273
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      263,
+      281,
+      291
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
@@ -3914,15 +6418,21 @@
     "zhenrongPersona": "zhenrong-lihui-mont-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-mont.png",
     "jinjieThiefpos": [
+      -81,
+      -328,
       0
     ],
     "jinjieThiefScale": 0.67,
@@ -3945,7 +6455,9 @@
     "cvName": "下地紫野",
     "chcvName": "木雅瑞林",
     "cvNamepos": [
-      0
+      -22.2,
+      114.6,
+      -20.47
     ],
     "Story": "有一半法国血统的美少女，曾是世界级天才选手。\n从小苦练花样滑冰、身为完美主义者的她因为赛场上的意外而一蹶不振，过去的创伤依然藏在她的内心深处。\n代号是「MONT」。\n初始人格面具Ⅱ是「忒耳普西科瑞」。",
     "showSound": "sys24_001_1",
@@ -3963,19 +6475,29 @@
     "chat": "1211",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.762,
+      0.015,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      0.11,
+      0,
+      0.27
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      45.93,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-mont-new.png",
@@ -3983,20 +6505,26 @@
     "gachaPic": "guaidao-kapai-mont-new.png",
     "gachaBigPic": "lihui-guaidao-mont.png",
     "thiefBigPicPos": [
+      -81,
+      -328,
       0
     ],
     "thiefBigPicScale": 0.67,
     "thiefGrowthPicPos": [
+      -81,
+      -328,
       0
     ],
     "thiefGrowthPicScale": 0.67,
     "gachaResultBg": "lihui-guaidao-mont-shilian.png",
     "gachaResultPic": "lihui-guaidao-mont.png",
     "gachaResultPicOffset": [
-      0
+      0.387,
+      0.436
     ],
     "gachaResultPicTiling": [
-      0
+      0.34,
+      0.572
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -4007,16 +6535,22 @@
     "gachaNamePic": "Tongyong-mingzi-23-i18n.png",
     "gachaCode": "guaidao-daihao-qinyin.png",
     "gachaCodePos": [
-      0
+      6.2,
+      -19.6,
+      -1.29
     ],
     "gachaMask": "guaidao-mianjuicon-qinyin2.png",
     "fiveStarLinesOne": "",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-mont.png",
     "thiefCodePos": [
+      -27.2,
+      -26.9,
       0
     ],
     "thiefNamePos": [
+      -230.6,
+      190.8,
       0
     ],
     "littlePic": "item-501211.png",
@@ -4024,38 +6558,113 @@
     "icon": "Tongyong-touxiang-A-13.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ{�N��]�덻�]��n��M��n5׍5�n��ݼ۽v�6�}4�n6�]��mv�^��m��"
+        "241:70.07",
+        "261:24.64",
+        "271:13.29",
+        "263:0.0312"
       ],
       [
-        "�n��Ow�n5��6�n���z۽y�^��}5ۏ6�]��~v�]v�m�׮��n��^zۍx�N6ۭu�8۽{��6�}5��^=ӏv�]{ۏ6�_w�}��M��"
+        "241:140.14",
+        "261:49.28",
+        "271:26.58",
+        "263:0.0624"
+      ],
+      [
+        "241:210.21",
+        "261:73.92",
+        "271:39.87",
+        "263:0.0936"
+      ],
+      [
+        "241:280.28",
+        "261:98.56",
+        "271:53.16",
+        "263:0.1248"
+      ],
+      [
+        "241:350.35",
+        "261:123.2",
+        "271:66.45",
+        "263:0.156"
+      ],
+      [
+        "241:420.42",
+        "261:147.84",
+        "271:79.74",
+        "263:0.1872"
+      ],
+      [
+        "241:490.49",
+        "261:172.48",
+        "271:93.03",
+        "263:0.2184"
       ]
     ],
     "awakeSkill": [
-      0
+      121131,
+      121132
     ],
     "awakeAward": [
+      238211,
+      238001,
+      239211,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238211
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239211
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      121101
     ],
     "gunSkill": 121161,
     "gunBullets": 5,
@@ -4064,23 +6673,48 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2006,
+        14
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        281,
+        291
+      ],
+      [
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      263,
+      281,
+      291
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
     "collectionExp": 50,
     "commendSn": [
-      0
+      110,
+      108
     ],
     "testThiefInfo": ""
   },
@@ -4114,6 +6748,8 @@
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-marian.png",
     "jinjieThiefpos": [
+      -54,
+      -293,
       0
     ],
     "jinjieThiefScale": 0.73,
@@ -4152,19 +6788,29 @@
     "chat": "1231",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.8,
+      0,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-marian-new.png",
@@ -4172,24 +6818,31 @@
     "gachaPic": "guaidao-kapai-marian-new.png",
     "gachaBigPic": "lihui-guaidao-marian.png",
     "thiefBigPicPos": [
+      -38,
+      -323,
       0
     ],
     "thiefBigPicScale": 0.77,
     "thiefGrowthPicPos": [
+      -38,
+      -323,
       0
     ],
     "thiefGrowthPicScale": 0.77,
     "gachaResultBg": "lihui-guaidao-marian-shilian.png",
     "gachaResultPic": "lihui-guaidao-marian.png",
     "gachaResultPicOffset": [
-      0
+      0.28,
+      0.49
     ],
     "gachaResultPicTiling": [
-      0
+      1,
+      1
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [
-      0
+      1,
+      1.92
     ],
     "gachaResultMask": "guaidao-mianjuicon-marian2.png",
     "gachaResultName": "guaidao-mingzi-chouka-marian.png",
@@ -4198,7 +6851,9 @@
     "gachaNamePic": "",
     "gachaCode": "guaidao-daihao-marian.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-marian2.png",
     "fiveStarLinesOne": "",
@@ -4211,44 +6866,113 @@
     "icon": "Tongyong-touxiang-A-26.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍu�ͽۭv�n��ݸ�t�o}ۍv߮"
+        "241:118.29",
+        "261:26",
+        "271:19.24",
+        "671:0.0299"
       ],
       [
-        "ۭy�n���<�tӟ"
+        "241:236.58",
+        "261:52",
+        "271:38.48",
+        "671:0.0598"
       ],
       [
-        "ۍw�;ۭ{�n����t��{ۍx�}zۭuӍ�׾����]}�n5��x�n��}6�_zۮ��^=�n5�O{�n�מ��]u�:�]5��6�_6�M��]"
+        "241:354.87",
+        "261:78",
+        "271:57.72",
+        "671:0.0897"
       ],
       [
-        "�n��~:���m="
+        "241:473.16",
+        "261:104",
+        "271:76.96",
+        "671:0.1196"
+      ],
+      [
+        "241:591.45",
+        "261:130",
+        "271:96.2",
+        "671:0.1495"
+      ],
+      [
+        "241:709.74",
+        "261:156",
+        "271:115.44",
+        "671:0.1794"
+      ],
+      [
+        "241:828.03",
+        "261:182",
+        "271:134.68",
+        "671:0.2093"
       ]
     ],
     "awakeSkill": [
-      0
+      123131,
+      123132
     ],
     "awakeAward": [
+      238231,
+      238001,
+      239231,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238231
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239231
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      123101
     ],
     "gunSkill": 123161,
     "gunBullets": 9,
@@ -4257,23 +6981,44 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2007,
+        2
+      ],
+      [
+        2003,
+        6
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        671
+      ],
+      [
+        243
+      ],
+      [
+        361
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      671,
+      243
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 200,
     "commendSn": [
-      0
+      116
     ],
     "testThiefInfo": "·有同伴生命值低于50%时，使自身获得圣母之泪使最大生命值提升。\n·消耗圣母之泪治疗同伴，并使被治疗的同伴最大生命值提升。\n·治疗的过程中可以提供大量祝福效果。（测试用文字，非正式版本）"
   },
@@ -4302,15 +7047,21 @@
     "zhenrongPersona": "zhenrong-lihui-noir-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      7,
+      -15,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-noir.png",
     "jinjieThiefpos": [
+      -122,
+      -364,
       0
     ],
     "jinjieThiefScale": 0.7,
@@ -4333,7 +7084,9 @@
     "cvName": "户松遥",
     "chcvName": "陈雨",
     "cvNamepos": [
-      0
+      -55,
+      128.2,
+      -20.47
     ],
     "Story": "高中三年级的少女，大型连锁餐饮公司社长家的大小姐。\n性格落落大方，稳重文雅。虽然能得体顺利地跟周围的人交流，但因为成长环境问题，有躲避与人深交的倾向。\n这样的她，是如何觉醒人格面具能力的呢……？\n代号是「NOIR」。\n初始人格面具是「米莱迪」。",
     "showSound": "VO_Sys_Thief_Noir_01",
@@ -4351,19 +7104,29 @@
     "chat": "1251",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.774,
+      0.123,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
-      0
+      0,
+      0.06,
+      0.34
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      41.1,
+      -1.25
     ],
     "bigPic": "kapai-001.png",
     "readyPic": "guaidao-kapai-noir-new.png",
@@ -4371,20 +7134,26 @@
     "gachaPic": "guaidao-kapai-noir-new.png",
     "gachaBigPic": "lihui-guaidao-noir.png",
     "thiefBigPicPos": [
+      -122,
+      -364,
       0
     ],
     "thiefBigPicScale": 0.7,
     "thiefGrowthPicPos": [
+      -122,
+      -364,
       0
     ],
     "thiefGrowthPicScale": 0.7,
     "gachaResultBg": "lihui-guaidao-noir-shilian.png",
     "gachaResultPic": "lihui-guaidao-noir-chouka.png",
     "gachaResultPicOffset": [
-      0
+      0.27,
+      0.386
     ],
     "gachaResultPicTiling": [
-      0
+      0.43,
+      0.65
     ],
     "gachaResultPicRotation": -33.1,
     "gachaResultPicAdapter": [],
@@ -4395,16 +7164,22 @@
     "gachaNamePic": "Tongyong-mingzi-7-i18n.png",
     "gachaCode": "guaidao-daihao-aochuncun.png",
     "gachaCodePos": [
-      0
+      11,
+      -20,
+      0.48
     ],
     "gachaMask": "guaidao-mianjuicon-aochuncun2.png",
     "fiveStarLinesOne": "道路就由我自己开拓吧……",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-noir.png",
     "thiefCodePos": [
+      -33.3,
+      -31.9,
       0
     ],
     "thiefNamePos": [
+      -250.5,
+      194.8,
       0
     ],
     "littlePic": "item-501251.png",
@@ -4412,38 +7187,113 @@
     "icon": "Tongyong-touxiang-A-3.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}۞��]���_8�}5�N=�n5��u�n���۽w�޷�]4��6�]��v�_"
+        "241:92.57",
+        "261:32.86",
+        "271:18.48",
+        "301:0.0499"
       ],
       [
-        "�ͻמx�}5�^=�n5߽6�n��}x�n��v�Mt��zۍx�o9ۭu���_v�}5�n=�n5�x�n�����n��]<�}5�o}�n5���n��}4�n��ow�}5�~="
+        "241:185.14",
+        "261:65.72",
+        "271:36.96",
+        "301:0.0998"
+      ],
+      [
+        "241:277.71",
+        "261:98.58",
+        "271:55.44",
+        "301:0.1497"
+      ],
+      [
+        "241:370.28",
+        "261:131.44",
+        "271:73.92",
+        "301:0.1996"
+      ],
+      [
+        "241:462.85",
+        "261:164.3",
+        "271:92.4",
+        "301:0.2495"
+      ],
+      [
+        "241:555.42",
+        "261:197.16",
+        "271:110.88",
+        "301:0.2994"
+      ],
+      [
+        "241:647.99",
+        "261:230.02",
+        "271:129.36",
+        "301:0.3493"
       ]
     ],
     "awakeSkill": [
-      0
+      125131,
+      125132
     ],
     "awakeAward": [
+      238251,
+      238001,
+      239251,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238251
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239251
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      125101
     ],
     "gunSkill": 125161,
     "gunBullets": 1,
@@ -4457,11 +7307,26 @@
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      -1
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
@@ -4495,15 +7360,21 @@
     "zhenrongPersona": "zhenrong-lihui-joker-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [
+      -183,
+      -48,
       0
     ],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [
+      74,
+      458,
       0
     ],
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-joker.png",
     "jinjieThiefpos": [
+      -254,
+      -472,
       0
     ],
     "jinjieThiefScale": 0.8,
@@ -4526,7 +7397,9 @@
     "cvName": "福山润",
     "chcvName": "谷江山",
     "cvNamepos": [
-      0
+      -55,
+      125,
+      -20.47
     ],
     "Story": "高中二年级的少年。\n以某个事件为契机，觉醒成为了「人格面具」操控者。\n代号是「JOKER」。\n初始人格面具是「亚森」。",
     "showSound": "VO_Sys_Thief_Joker_01",
@@ -4544,19 +7417,29 @@
     "chat": "1261",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.618,
+      -0.052,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-joker-new.png",
@@ -4564,20 +7447,26 @@
     "gachaPic": "guaidao-kapai-joker-new.png",
     "gachaBigPic": "lihui-guaidao-joker.png",
     "thiefBigPicPos": [
+      -254,
+      -472,
       0
     ],
     "thiefBigPicScale": 0.8,
     "thiefGrowthPicPos": [
+      -254,
+      -472,
       0
     ],
     "thiefGrowthPicScale": 0.8,
     "gachaResultBg": "lihui-guaidao-joker-shilian.png",
     "gachaResultPic": "lihui-guaidao-joker.png",
     "gachaResultPicOffset": [
-      0
+      0.487,
+      0.424
     ],
     "gachaResultPicTiling": [
-      0
+      0.421,
+      0.704
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -4588,16 +7477,22 @@
     "gachaNamePic": "guaidao-daihao-yugonglian.png",
     "gachaCode": "guaidao-daihao-yugonglian.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-joker2.png",
     "fiveStarLinesOne": "演出时刻！",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-joker.png",
     "thiefCodePos": [
-      0
+      290,
+      -86.8,
+      -40.1
     ],
     "thiefNamePos": [
+      -148.3,
+      180.4,
       0
     ],
     "littlePic": "item-501261.png",
@@ -4605,41 +7500,113 @@
     "icon": "Tongyong-touxiang-A-6.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ}ߍ��]��]��^��}4�^v�]"
+        "241:93.43",
+        "261:33.71",
+        "271:16",
+        "263:0.0415"
       ],
       [
-        "�ζ�^��m��}��}4�}��o4�ݺ�]5�}�׏6�}5ێv�]�߽��]w��6�^�ۭ�׮��^:�^v�]z�v�_4ۭ��N�ۍy�N"
+        "241:186.86",
+        "261:67.42",
+        "271:32",
+        "263:0.083"
       ],
       [
-        "ۭv�m�۽}�n��n=ۍz�5ۭvߟ{۽u�m��M��"
+        "241:280.29",
+        "261:101.13",
+        "271:48",
+        "263:0.1245"
+      ],
+      [
+        "241:373.72",
+        "261:134.84",
+        "271:64",
+        "263:0.166"
+      ],
+      [
+        "241:467.15",
+        "261:168.55",
+        "271:80",
+        "263:0.2075"
+      ],
+      [
+        "241:560.58",
+        "261:202.26",
+        "271:96",
+        "263:0.249"
+      ],
+      [
+        "241:654.01",
+        "261:235.97",
+        "271:112",
+        "263:0.2905"
       ]
     ],
     "awakeSkill": [
-      0
+      126131,
+      126132
     ],
     "awakeAward": [
+      238261,
+      238001,
+      239261,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238261
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239261
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      126101
     ],
     "gunSkill": 126161,
     "gunBullets": 8,
@@ -4648,23 +7615,49 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2003,
+        24
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        281,
+        291
+      ],
+      [
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      411,
+      263,
+      281,
+      291
     ],
     "belongGacha": 1,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
     "collectionExp": 200,
     "commendSn": [
-      0
+      101,
+      102,
+      115
     ],
     "testThiefInfo": ""
   },
@@ -4698,6 +7691,8 @@
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-puppet.png",
     "jinjieThiefpos": [
+      -54,
+      -293,
       0
     ],
     "jinjieThiefScale": 0.73,
@@ -4736,19 +7731,29 @@
     "chat": "1271",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.84,
+      0.07,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-puppet-new.png",
@@ -4756,24 +7761,31 @@
     "gachaPic": "guaidao-kapai-puppet-new.png",
     "gachaBigPic": "lihui-guaidao-puppet.png",
     "thiefBigPicPos": [
+      128,
+      120,
       0
     ],
     "thiefBigPicScale": 0.72,
     "thiefGrowthPicPos": [
+      0,
+      50,
       0
     ],
     "thiefGrowthPicScale": 0.9,
     "gachaResultBg": "lihui-guaidao-puppet-shilian.png",
     "gachaResultPic": "lihui-guaidao-puppet.png",
     "gachaResultPicOffset": [
-      0
+      0.14,
+      0.06
     ],
     "gachaResultPicTiling": [
-      0
+      1,
+      1
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [
-      0
+      1,
+      1.62
     ],
     "gachaResultMask": "guaidao-mianjuicon-puppet2.png",
     "gachaResultName": "guaidao-mingzi-chouka-puppet.png",
@@ -4782,7 +7794,9 @@
     "gachaNamePic": "",
     "gachaCode": "guaidao-daihao-zuoyuanhaixi.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-puppet2.png",
     "fiveStarLinesOne": "",
@@ -4795,38 +7809,110 @@
     "icon": "Tongyong-touxiang-A-25.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍ{�ζ�]��ݻ�^x�n��N:�n5ם{�n��^"
+        "241:75.86",
+        "261:20.79",
+        "271:15.43",
+        "273:0.0467"
       ],
       [
-        "۽w�ζ�}4�~6�]��6�^�߽�׎��n��^4�n5�M��n��}z۽z׽��}5�6�]��}��]7���׾��n��m��n5�u�n��n;�n��n"
+        "241:151.72",
+        "261:41.58",
+        "271:30.86",
+        "273:0.0934"
       ],
       [
-        "۽���6ۍy�]6ۭu�w۽u��5۽��n�"
+        "241:227.58",
+        "261:62.37",
+        "271:46.29",
+        "273:0.1401"
+      ],
+      [
+        "241:303.44",
+        "261:83.16",
+        "271:61.72",
+        "273:0.1868"
+      ],
+      [
+        "241:379.3",
+        "261:103.95",
+        "271:77.15",
+        "273:0.2335"
+      ],
+      [
+        "241:455.16",
+        "261:124.74",
+        "271:92.58",
+        "273:0.2802"
+      ],
+      [
+        "241:531.02",
+        "261:145.53",
+        "271:108.01",
+        "273:0.3269"
       ]
     ],
     "awakeSkill": [
-      0
+      127131,
+      127132
     ],
     "awakeAward": [
+      238271,
+      238001,
+      239271,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238271
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239271
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [],
     "gunSkill": 0,
@@ -4836,23 +7922,42 @@
     "resetPosition": 0,
     "cardCommend": [
       [
-        0
+        2007,
+        12
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        273
+      ],
+      [
+        273
+      ],
+      [
+        273
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      273,
+      243,
+      263
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 50,
     "commendSn": [
-      0
+      7,
+      109
     ],
     "testThiefInfo": ""
   },
@@ -4886,6 +7991,8 @@
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-riddle.png",
     "jinjieThiefpos": [
+      -54,
+      -293,
       0
     ],
     "jinjieThiefScale": 0.73,
@@ -4924,19 +8031,29 @@
     "chat": "1281",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.634,
+      0.404,
+      2.29
     ],
     "qishiRotation": [
-      0
+      -3.195,
+      10.01,
+      9.117
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-riddle-new.png",
@@ -4944,24 +8061,31 @@
     "gachaPic": "guaidao-kapai-riddle-new.png",
     "gachaBigPic": "lihui-guaidao-riddle.png",
     "thiefBigPicPos": [
+      7,
+      -226,
       0
     ],
     "thiefBigPicScale": 0.73,
     "thiefGrowthPicPos": [
+      7,
+      -226,
       0
     ],
     "thiefGrowthPicScale": 0.73,
     "gachaResultBg": "lihui-guaidao-riddle-shilian.png",
     "gachaResultPic": "lihui-guaidao-riddle.png",
     "gachaResultPicOffset": [
-      0
+      0.25,
+      0.33
     ],
     "gachaResultPicTiling": [
-      0
+      1,
+      1
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [
-      0
+      1,
+      2.04
     ],
     "gachaResultMask": "guaidao-mianjuicon-riddle2.png",
     "gachaResultName": "guaidao-mingzi-chouka-riddle.png",
@@ -4970,7 +8094,9 @@
     "gachaNamePic": "",
     "gachaCode": "guaidao-daihao-xisenyangcai.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-riddle2.png",
     "fiveStarLinesOne": "",
@@ -4983,38 +8109,113 @@
     "icon": "Tongyong-touxiang-A-23.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍu�]xۭv�ζ�]"
+        "241:101.14",
+        "261:28.86",
+        "271:18.86",
+        "263:0.0415"
       ],
       [
-        "��M8ם��m6�ͺמ��n�߾�ۭ�����]�ߍ��_:�ͻמ��n��]��n5�N9�n��^x�n��8ۭ�׮��^t罺�^8�n�����}6Ӿv�^���6�]{�^��]u�^��}6�ݸ׽;�ͺ�m6�m��]��m��M��"
+        "241:202.28",
+        "261:57.72",
+        "271:37.72",
+        "263:0.083"
+      ],
+      [
+        "241:303.42",
+        "261:86.58",
+        "271:56.58",
+        "263:0.1245"
+      ],
+      [
+        "241:404.56",
+        "261:115.44",
+        "271:75.44",
+        "263:0.166"
+      ],
+      [
+        "241:505.7",
+        "261:144.3",
+        "271:94.3",
+        "263:0.2075"
+      ],
+      [
+        "241:606.84",
+        "261:173.16",
+        "271:113.16",
+        "263:0.249"
+      ],
+      [
+        "241:707.98",
+        "261:202.02",
+        "271:132.02",
+        "263:0.2905"
       ]
     ],
     "awakeSkill": [
-      0
+      128131,
+      128132
     ],
     "awakeAward": [
+      238281,
+      238001,
+      239281,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238281
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239281
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      128101
     ],
     "gunSkill": 128161,
     "gunBullets": 7,
@@ -5023,23 +8224,46 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2008,
+        16
+      ],
+      [
+        2008,
+        15
       ]
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        263
+      ],
+      [
+        263
+      ],
+      [
+        341
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      263,
+      243,
+      273
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 200,
     "commendSn": [
-      0
+      8,
+      103
     ],
     "testThiefInfo": ""
   },
@@ -5073,6 +8297,8 @@
     "zhenrongPersonaScale": 1,
     "zhenronglistThief": "touxiang-guaidaofu-joker.png",
     "jinjieThiefpos": [
+      -54,
+      -293,
       0
     ],
     "jinjieThiefScale": 0.73,
@@ -5111,19 +8337,29 @@
     "chat": "1291",
     "qishiScale": 1,
     "qishiPosition": [
-      0
+      -1.705,
+      0,
+      2.29
     ],
     "qishiRotation": [
+      0,
+      0,
       0
     ],
     "collisionThief": [
+      0,
+      0,
       0
     ],
     "collisionThiefB": [
+      0,
+      0,
       0
     ],
     "rotateThief": [
-      0
+      0.5,
+      25.85,
+      -1.25
     ],
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-joker-new.png",
@@ -5131,20 +8367,26 @@
     "gachaPic": "guaidao-kapai-joker-new.png",
     "gachaBigPic": "lihui-guaidao-joker.png",
     "thiefBigPicPos": [
+      -254,
+      -472,
       0
     ],
     "thiefBigPicScale": 0.8,
     "thiefGrowthPicPos": [
+      -254,
+      -472,
       0
     ],
     "thiefGrowthPicScale": 0.8,
     "gachaResultBg": "lihui-guaidao-joker-shilian.png",
     "gachaResultPic": "lihui-guaidao-joker.png",
     "gachaResultPicOffset": [
-      0
+      0.487,
+      0.424
     ],
     "gachaResultPicTiling": [
-      0
+      0.421,
+      0.704
     ],
     "gachaResultPicRotation": 0,
     "gachaResultPicAdapter": [],
@@ -5155,7 +8397,9 @@
     "gachaNamePic": "",
     "gachaCode": "guaidao-daihao-tengchuanxueshi.png",
     "gachaCodePos": [
-      0
+      6.4,
+      -26.3,
+      3.44
     ],
     "gachaMask": "guaidao-mianjuicon-joker.png",
     "fiveStarLinesOne": "",
@@ -5168,35 +8412,113 @@
     "icon": "Tongyong-touxiang-A-6.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
-      "�M��]��m5�M��m��m6�M��m��m7�M��"
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
     ],
     "awakeItemCount": [
-      "�]��M|�m�"
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
     ],
     "awakeProperty": [
       [
-        "ۍu�~�ۭw�ov�]y�}��M8ם��m;�m�׮9�n��O:ۭ�����]��]��_z�׎��n��]��n5�^<�n��ou�n��^�ۭ�׮��^u�v�]z׎v�^�ם��M�׭�ۭ��_w�ݹ�n��n=ۍ{۟{ۭvۭ7۽u��5ۭ���9"
+        "241:103.71",
+        "261:32.29",
+        "271:15.43",
+        "263:0.0415"
+      ],
+      [
+        "241:207.42",
+        "261:64.58",
+        "271:30.86",
+        "263:0.083"
+      ],
+      [
+        "241:311.13",
+        "261:96.87",
+        "271:46.29",
+        "263:0.1245"
+      ],
+      [
+        "241:414.84",
+        "261:129.16",
+        "271:61.72",
+        "263:0.166"
+      ],
+      [
+        "241:518.55",
+        "261:161.45",
+        "271:77.15",
+        "263:0.2075"
+      ],
+      [
+        "241:622.26",
+        "261:193.74",
+        "271:92.58",
+        "263:0.249"
+      ],
+      [
+        "241:725.97",
+        "261:226.03",
+        "271:108.01",
+        "263:0.2905"
       ]
     ],
     "awakeSkill": [
-      0
+      129131,
+      129132
     ],
     "awakeAward": [
+      238291,
+      238001,
+      239291,
+      238001,
+      0,
+      238001,
       0
     ],
     "levelAward": [
       [
-        0
+        20,
+        238291
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239291
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
       ]
     ],
     "awakeUnlockLv": [
-      0
+      1,
+      4
     ],
     "awakeMaxLv": [
-      0
+      4,
+      7,
+      10
     ],
     "skills": [
-      0
+      129101
     ],
     "gunSkill": 129161,
     "gunBullets": 8,
@@ -5210,11 +8532,26 @@
     ],
     "cardCommendMainAttr": [
       [
-        0
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
       ]
     ],
     "cardCommendSecondAttr": [
-      0
+      -1
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,

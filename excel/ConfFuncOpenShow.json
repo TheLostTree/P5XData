@@ -2,10 +2,10 @@
   {
     "sn": 6,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      ""
+      "6"
     ],
     "funcName": "武器",
     "dialog": [],
@@ -16,10 +16,12 @@
   {
     "sn": 9,
     "trigger": [
-      0
+      5,
+      10
     ],
     "triggerValue": [
-      "�B?1��1���\u0018��"
+      "9",
+      "UI_MainMenu_Right"
     ],
     "funcName": "启示",
     "dialog": [],
@@ -30,10 +32,12 @@
   {
     "sn": 10,
     "trigger": [
-      0
+      5,
+      10
     ],
     "triggerValue": [
-      "�E\b�Ƣ�B"
+      "10",
+      "UI_MainUI"
     ],
     "funcName": "灵感",
     "dialog": [],
@@ -44,10 +48,10 @@
   {
     "sn": 16,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�"
+      "16"
     ],
     "funcName": "面具-全书",
     "dialog": [],
@@ -58,10 +62,12 @@
   {
     "sn": 301,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�]|�B?1��1���\u0018��"
+      "11182",
+      "UI_MainMenu_Right"
     ],
     "funcName": "天鹅绒试炼",
     "dialog": [],
@@ -72,10 +78,10 @@
   {
     "sn": 302,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�M"
+      "302"
     ],
     "funcName": "厄抑之境",
     "dialog": [],
@@ -86,10 +92,10 @@
   {
     "sn": 312,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�]"
+      "312"
     ],
     "funcName": "心轨择行",
     "dialog": [],
@@ -100,10 +106,12 @@
   {
     "sn": 330,
     "trigger": [
-      0
+      5,
+      10
     ],
     "triggerValue": [
-      "�}\u0014#�\u001a�s\u001e��ъ\bm"
+      "330",
+      "UI_MainMenu_Right"
     ],
     "funcName": "阏凶梦之扉",
     "dialog": [],
@@ -114,10 +122,14 @@
   {
     "sn": 351,
     "trigger": [
-      0
+      5,
+      18,
+      10
     ],
     "triggerValue": [
-      "ߝtP��j)�z{�F(!"
+      "351",
+      "0",
+      "UI_MainMenu_Right"
     ],
     "funcName": "棒球",
     "dialog": [],
@@ -128,10 +140,10 @@
   {
     "sn": 352,
     "trigger": [
-      0
+      4
     ],
     "triggerValue": [
-      "�]="
+      "11092"
     ],
     "funcName": "钓鱼",
     "dialog": [],
@@ -142,10 +154,10 @@
   {
     "sn": 353,
     "trigger": [
-      0
+      4
     ],
     "triggerValue": [
-      "�M6"
+      "20026"
     ],
     "funcName": "扭蛋",
     "dialog": [],
@@ -156,10 +168,10 @@
   {
     "sn": 360,
     "trigger": [
-      0
+      2
     ],
     "triggerValue": [
-      "�M�"
+      "40325"
     ],
     "funcName": "社团",
     "dialog": [],
@@ -170,10 +182,10 @@
   {
     "sn": 401,
     "trigger": [
-      0
+      4
     ],
     "triggerValue": [
-      "�M�"
+      "10263"
     ],
     "funcName": "契约",
     "dialog": [],
@@ -184,10 +196,12 @@
   {
     "sn": 402,
     "trigger": [
-      0
+      5,
+      20
     ],
     "triggerValue": [
-      "�M��"
+      "402",
+      "906"
     ],
     "funcName": "活动",
     "dialog": [],
@@ -198,10 +212,12 @@
   {
     "sn": 403,
     "trigger": [
-      0
+      5,
+      18
     ],
     "triggerValue": [
-      "�M�"
+      "403",
+      "0"
     ],
     "funcName": "计划",
     "dialog": [],
@@ -212,10 +228,10 @@
   {
     "sn": 407,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�N"
+      "407"
     ],
     "funcName": "目标",
     "dialog": [],
@@ -226,10 +242,10 @@
   {
     "sn": 503,
     "trigger": [
-      0
+      2
     ],
     "triggerValue": [
-      "�}4"
+      "13003"
     ],
     "funcName": "卢布朗咖啡",
     "dialog": [],
@@ -240,10 +256,10 @@
   {
     "sn": 605,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�N"
+      "605"
     ],
     "funcName": "都市日程",
     "dialog": [],
@@ -254,10 +270,10 @@
   {
     "sn": 609,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�O"
+      "609"
     ],
     "funcName": "异世界",
     "dialog": [],
@@ -268,10 +284,10 @@
   {
     "sn": 701,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�M"
+      "701"
     ],
     "funcName": "自宅",
     "dialog": [],
@@ -282,10 +298,10 @@
   {
     "sn": 702,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�M"
+      "702"
     ],
     "funcName": "种植",
     "dialog": [],
@@ -296,10 +312,10 @@
   {
     "sn": 703,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�M"
+      "703"
     ],
     "funcName": "烹饪",
     "dialog": [],
@@ -310,10 +326,10 @@
   {
     "sn": 704,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�N"
+      "704"
     ],
     "funcName": "工作台",
     "dialog": [],
@@ -324,10 +340,10 @@
   {
     "sn": 705,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�N"
+      "705"
     ],
     "funcName": "自宅",
     "dialog": [],
@@ -338,10 +354,12 @@
   {
     "sn": 706,
     "trigger": [
-      0
+      5,
+      9
     ],
     "triggerValue": [
-      "�N��}4�"
+      "706",
+      "2130004"
     ],
     "funcName": "衣柜",
     "dialog": [],
@@ -352,10 +370,10 @@
   {
     "sn": 707,
     "trigger": [
-      0
+      2
     ],
     "triggerValue": [
-      "�M6"
+      "20027"
     ],
     "funcName": "展示柜",
     "dialog": [],
@@ -366,10 +384,10 @@
   {
     "sn": 903,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�M"
+      "903"
     ],
     "funcName": "怪盗",
     "dialog": [],
@@ -380,10 +398,10 @@
   {
     "sn": 905,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�N"
+      "905"
     ],
     "funcName": "协同者",
     "dialog": [],
@@ -394,10 +412,10 @@
   {
     "sn": 906,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�N"
+      "906"
     ],
     "funcName": "商店",
     "dialog": [],
@@ -408,10 +426,10 @@
   {
     "sn": 908,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�O"
+      "908"
     ],
     "funcName": "通讯录",
     "dialog": [],
@@ -422,10 +440,10 @@
   {
     "sn": 910,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�]"
+      "910"
     ],
     "funcName": "异闻",
     "dialog": [],
@@ -436,10 +454,10 @@
   {
     "sn": 913,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�]"
+      "913"
     ],
     "funcName": "教程",
     "dialog": [],
@@ -450,10 +468,10 @@
   {
     "sn": 915,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�^"
+      "915"
     ],
     "funcName": "乐园",
     "dialog": [],
@@ -464,10 +482,12 @@
   {
     "sn": 990,
     "trigger": [
-      0
+      4,
+      18
     ],
     "triggerValue": [
-      "�M��"
+      "10354",
+      "0"
     ],
     "funcName": "人格面具",
     "dialog": [],

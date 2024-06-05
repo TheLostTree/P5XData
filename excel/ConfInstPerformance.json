@@ -2,16 +2,27 @@
   {
     "sn": 1,
     "timelineIndexs": [
-      0
+      10,
+      11,
+      12,
+      13,
+      14
     ],
     "BindType": 0,
     "MonsterSn": [],
     "animalModels": [
-      "����\u0018�k�-�ק�F���bu���^�������\u0018�k�-�ק���jj",
-      "�'Z��nu����\u001a��!�ֿ�\u001a�"
+      "kamoshida_student",
+      "kamoshida_student_2",
+      "kamoshida_student_3",
+      "kamoshida_student_4",
+      "kamoshida_throne"
     ],
     "bSameAni": 0,
     "animalDirect": [
+      18.82,
+      0,
+      -18.07,
+      0,
       0
     ],
     "animalPos": "2.51,0,0.314|-1.67,0,0.88|-2.492,0,0.473|1.679,0,0.681|0,0,-0.2",
@@ -23,7 +34,7 @@
     "BindType": 0,
     "MonsterSn": [],
     "animalModels": [
-      "����\u0018�k�+�\t"
+      "kamoshida_crown"
     ],
     "bSameAni": 0,
     "animalDirect": [],
@@ -36,11 +47,11 @@
     "BindType": 0,
     "MonsterSn": [],
     "animalModels": [
-      "��ݢ����Z��"
+      "sc_door_scdamen"
     ],
     "bSameAni": 0,
     "animalDirect": [
-      0
+      -167.8229
     ],
     "animalPos": "-8.9,3.2,-44.8",
     "hangPoint": ""
@@ -51,10 +62,12 @@
     "BindType": 0,
     "MonsterSn": [],
     "animalModels": [
-      "��̸ע����}������̸ע����}��(!"
+      "sd_MuNei_ouenn2_left",
+      "sd_MuNei_ouenn2_right"
     ],
     "bSameAni": 1,
     "animalDirect": [
+      0,
       0
     ],
     "animalPos": "0.789,0,-0.641|-0.789,0,-0.641",
@@ -66,10 +79,12 @@
     "BindType": 0,
     "MonsterSn": [],
     "animalModels": [
-      "��̸ע����}�����̸ע����}�(!"
+      "sd_MuNei_ouenn1_left",
+      "sd_MuNei_ouenn1_right"
     ],
     "bSameAni": 1,
     "animalDirect": [
+      0,
       0
     ],
     "animalPos": "0.789,0,-0.641|-0.789,0,-0.641",
@@ -80,7 +95,7 @@
     "timelineIndexs": [],
     "BindType": 1,
     "MonsterSn": [
-      0
+      911506
     ],
     "animalModels": [],
     "bSameAni": 0,
@@ -93,7 +108,7 @@
     "timelineIndexs": [],
     "BindType": 1,
     "MonsterSn": [
-      0
+      911507
     ],
     "animalModels": [],
     "bSameAni": 0,
@@ -106,7 +121,7 @@
     "timelineIndexs": [],
     "BindType": 1,
     "MonsterSn": [
-      0
+      911508
     ],
     "animalModels": [],
     "bSameAni": 0,

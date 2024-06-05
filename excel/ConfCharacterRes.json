@@ -7,14 +7,22 @@
     "skillIcon": "guaidao-mianjuicon-wonder.png",
     "generalAttackImg": "wonder-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      0,
+      16,
+      0,
+      16,
+      0,
+      16
     ],
     "generalAttackScale": [
-      0
+      0.6,
+      0.6,
+      0.5
     ],
     "gunShift": "0.356,-0.1,0.2;0.356,-0.2,0.2",
     "gunScale": "1,0.7",
@@ -26,17 +34,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_wonder1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_wonder1.prefab",
     "battleEndTL": [
-      "L��w^���r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_wonder_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 1,
     "battleEndTLposition": "-2,0,-3.29;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-84.78,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -46,13 +55,28 @@
     "shootCD": 100,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L��w^���\u0012�\u001bi���m2��z�Ǌ\bK�\bm���i���\n'u��n���x�������秦��i���\n'u��n���x������ky��L��w^���}�Ǌ\bK�\bm���i���\n'u��\u001e(!.(!���}�"
+      "TL_wonder_HighLight.prefab",
+      "TL_wonder_HighLight.prefab",
+      "TL_wonder_buff_HighLight_green.prefab",
+      "TL_wonder_buff_HighLight.prefab",
+      "TL_wonder_buff_HighLight.prefab",
+      "TL_wonder_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L��w^���\u0012�\u001b�)��'�y�ky��L��w^���\u0012�\u001b�)��'�y�ky��L��w^���}�Ǌ\bK�\bm�\n�z�je���v��}��/�(�׫�����\u0012�\u001b�)��'�y�ky��L��w^���}�Ǌ\bK�\bm�Ȧ�X���i���m2��z�Ǌ\bK�\bm�Ȧ�X���i���"
+      "TL_wonder_HighLight_simplified.prefab",
+      "TL_wonder_HighLight_simplified.prefab",
+      "TL_wonder_buff_HighLight_green_simplified.prefab",
+      "TL_wonder_buff_HighLight_simplified.prefab",
+      "TL_wonder_buff_HighLight_simplified.prefab",
+      "TL_wonder_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��(�׫\u001e(!.(!��(�׫\u001e(!.(!��bz�b\u001e(!.(!��bz�b\u001e(!.(!��bz�b\u001e(!.(!��(�׫"
+      "HighLight_wonder",
+      "HighLight_wonder",
+      "HighLight_xieshi",
+      "HighLight_xieshi",
+      "HighLight_xieshi",
+      "HighLight_wonder"
     ],
     "showtimeImage": "HL-beijing-wonder.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -62,10 +86,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#�����z��iǩ���m2�P�ӆ'��\n'u��ɩ�x?j�^j�ky��"
+      "TL_UI_Thief_wonder_face.prefab",
+      "TL_UI_Thief_wonder_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#�����z��iǩ���m2�P�ӆ'��\n'u��ɩ�x?v+\u001a������}�"
+      "TL_UI_Thief_wonder_face.prefab",
+      "TL_UI_Thief_wonder_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "0,-0.095,-0.08;0,-0.191,-0.024;0,0.014,0",
     "specialModelSn": "ysc_common_suofangtuixiangS3|ysc_common_suofangtuixiangS2|ysc_common_suofangtuixiangS1|bqg_yilei_faqiuji_table_01|bqg_yilei_faqiuji_table_02",
@@ -84,13 +110,21 @@
     "skillIcon": "",
     "generalAttackImg": "",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ],
     "generalAttackScale": [
+      0,
+      0,
       0
     ],
     "gunShift": "",
@@ -107,14 +141,18 @@
     "battleEndTLposition": "",
     "battleEndTLrotation": "",
     "idleInterval": [
-      0
+      13,
+      18
     ],
     "idleBattleAnims": [],
     "idleAnims": [
-      "�֧w�޲��j�b�x?��+��Z���z�u��'!z춊�"
+      "stand_rest_baoxiong_story",
+      "stand_rest_danhuichen_story"
     ],
     "idleAnims2": [
-      "�֧w�޲��j�b�x?�_춊�֧w�޲��jxn��^��5��h�+-jw��-�j-����M��+"
+      "stand_rest_baoxiong_01_story",
+      "stand_rest_danhuichen_01_story",
+      "stand_rest_motoufa_01_story"
     ],
     "bulletImg": "",
     "shootNode": "",
@@ -150,13 +188,21 @@
     "skillIcon": "",
     "generalAttackImg": "",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ],
     "generalAttackScale": [
+      0,
+      0,
       0
     ],
     "gunShift": "",
@@ -173,11 +219,13 @@
     "battleEndTLposition": "",
     "battleEndTLrotation": "",
     "idleInterval": [
-      0
+      13,
+      18
     ],
     "idleBattleAnims": [],
     "idleAnims": [
-      "�֧w�޲��j�b�x?��+��Z���z�u��'!z춊�"
+      "stand_rest_baoxiong_story",
+      "stand_rest_danhuichen_story"
     ],
     "idleAnims2": [],
     "bulletImg": "",
@@ -214,14 +262,22 @@
     "skillIcon": "guaidao-mianjuicon-joker.png",
     "generalAttackImg": "joker-generalAttack.png",
     "pursueAttackShift": [
-      0
+      -26.5,
+      -17.6
     ],
     "pursueAttackScale": 0.25,
     "generalAttackShift": [
-      0
+      0.46,
+      -1.47,
+      -1.77,
+      -0.62,
+      0.1,
+      -0.61
     ],
     "generalAttackScale": [
-      0
+      0.6,
+      0.6,
+      0.5
     ],
     "gunShift": "0.356,-0.1,0.2;0.356,-0.2,0.2",
     "gunScale": "1,0.7",
@@ -233,16 +289,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_joker1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_joker1.prefab",
     "battleEndTL": [
-      "L��G�������֚�}��/�����'-����jkz�\"�{)iǩ���"
+      "TL_joker_victory1.prefab",
+      "TL_joker_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-1.22,0,-3.01;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,0,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -252,13 +310,13 @@
     "shootCD": 100,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L�ɢG��\u0018��X����{\nky��"
+      "TL_Joker_highlight_new.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L�ɢG��\u0018��X����{\u000f�je���v��}�"
+      "TL_Joker_highlight_new_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��bz�b"
+      "HighLight_xieshi"
     ],
     "showtimeImage": "HL-beijing-joker.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -268,10 +326,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#������\u001e���q�ky��L��#������\u001e����8�����櫦��i"
+      "TL_UI_Thief_joker_face.prefab",
+      "TL_UI_Thief_joker_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#������\u001e���q�ky��L��#������\u001e����8���b��iy����"
+      "TL_UI_Thief_joker_face.prefab",
+      "TL_UI_Thief_joker_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -290,13 +350,21 @@
     "skillIcon": "",
     "generalAttackImg": "",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ],
     "generalAttackScale": [
+      0,
+      0,
       0
     ],
     "gunShift": "",
@@ -350,13 +418,21 @@
     "skillIcon": "",
     "generalAttackImg": "",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ],
     "generalAttackScale": [
+      0,
+      0,
       0
     ],
     "gunShift": "",
@@ -410,13 +486,21 @@
     "skillIcon": "",
     "generalAttackImg": "",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ],
     "generalAttackScale": [
+      0,
+      0,
       0
     ],
     "gunShift": "",
@@ -470,14 +554,22 @@
     "skillIcon": "guaidao-mianjuicon-moerjiana.png",
     "generalAttackImg": "mona-generalAttack.png",
     "pursueAttackShift": [
-      0
+      -29,
+      -15
     ],
     "pursueAttackScale": 0.25,
     "generalAttackShift": [
-      0
+      0.13,
+      -0.97,
+      -1.76,
+      -0.24,
+      0.15,
+      -0.76
     ],
     "generalAttackScale": [
-      0
+      0.5,
+      0.6,
+      0.5
     ],
     "gunShift": "0.013,0.3,0;0.013,0.3,0",
     "gunScale": "1,0.7",
@@ -489,17 +581,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_mona1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_mona1.prefab",
     "battleEndTL": [
-      "L��v��'-������m2�����������)���",
-      "��쥧\u001e���i"
+      "TL_mona_victory.prefab",
+      "TL_mona_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-1.62,0,-2.93;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-110.52,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -509,13 +602,13 @@
     "shootCD": 100,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L��v�\u001e(!.(!���}�"
+      "TL_mona_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L��v�\u001e(!.(!��\"��b~'����i"
+      "TL_mona_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!����"
+      "HighLight_mona"
     ],
     "showtimeImage": "HL-beijing-mona.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -543,14 +636,22 @@
     "skillIcon": "guaidao-mianjuicon-banbenlongsi.png",
     "generalAttackImg": "skull-generalAttack.png",
     "pursueAttackShift": [
-      0
+      30.4,
+      -17.6
     ],
     "pursueAttackScale": 0.25,
     "generalAttackShift": [
-      0
+      1.27,
+      -1.26,
+      -1.16,
+      -0.43,
+      0.28,
+      -0.63
     ],
     "generalAttackScale": [
-      0
+      0.45,
+      0.5,
+      0.5
     ],
     "gunShift": "-0.3,0.26,0.5;-0.3,0.36,0.5",
     "gunScale": "1,0.7",
@@ -562,16 +663,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_skull1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_skull1.prefab",
     "battleEndTL": [
-      "L���e�����򦷟i����.�_��h�/⚚޲Ȩ��Zq�ky��"
+      "TL_skull_victory.prefab",
+      "TL_skull_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-1.63,0,-3.14;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-56.24,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -581,13 +684,13 @@
     "shootCD": 250,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L���e�x������ky��"
+      "TL_skull_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L���e�x�������je���v��}�"
+      "TL_skull_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��$�Y"
+      "HighLight_skull"
     ],
     "showtimeImage": "HL-beijing-skull.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -597,10 +700,10 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#�����K����jx������ky��"
+      "TL_UI_Thief_skull_mianju_fight.prefab"
     ],
     "maskdisAppear": [
-      "L��#�����K����jx������ky��"
+      "TL_UI_Thief_skull_mianju_fight.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -619,13 +722,21 @@
     "skillIcon": "guaidao-mianjuicon-banbenlongsi.png",
     "generalAttackImg": "skull-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ],
     "generalAttackScale": [
+      0,
+      0,
       0
     ],
     "gunShift": "",
@@ -638,17 +749,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_skull1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_skull1.prefab",
     "battleEndTL": [
-      "L��w^���r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_wonder_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 1,
     "battleEndTLposition": "-1.63,0,-3.14;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-56.24,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -686,14 +798,22 @@
     "skillIcon": "guaidao-mianjuicon-tengchuanxueshi.png",
     "generalAttackImg": "tembin-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      1.03,
+      -1.76,
+      -1,
+      -1.1,
+      0.5,
+      -1.2
     ],
     "generalAttackScale": [
-      0
+      0.6,
+      0.6,
+      0.7
     ],
     "gunShift": "-0.328,-0.028,0.168;-0.328,0,-0.056",
     "gunScale": "1,0.7",
@@ -705,17 +825,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_tembin1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_tembin1.prefab",
     "battleEndTL": [
-      "L��w^���r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_wonder_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 1,
     "battleEndTLposition": "-0.79,0,-3.2;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-14.08,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -725,13 +846,13 @@
     "shootCD": 100,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "M雊Ǌ\be�\bm���i"
+      "Tembin_Highlight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "M雊Ǌ\be�\bm�Ȧ�X���i���"
+      "Tembin_Highlight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��.�\u0018"
+      "HighLight_oushi"
     ],
     "showtimeImage": "HL-beijing-yuki.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -741,10 +862,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#�����雊�iǩ���m2�P�ӆ'��צn)�ɩ�x?j�^j�ky��"
+      "TL_UI_Thief_tembin_face.prefab",
+      "TL_UI_Thief_tembin_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#�����雊�iǩ���m2�P�ӆ'��צn)�ɩ�x?v+\u001a������}�"
+      "TL_UI_Thief_tembin_face.prefab",
+      "TL_UI_Thief_tembin_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -763,14 +886,22 @@
     "skillIcon": "guaidao-mianjuicon-gaojuanxing.png",
     "generalAttackImg": "panther-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      -0.14,
+      -0.53,
+      -1.05,
+      -0.03,
+      0.44,
+      -0.33
     ],
     "generalAttackScale": [
-      0
+      0.6,
+      0.6,
+      0.5
     ],
     "gunShift": "0.128,-0.336,0.544;0.128,-0.436,0.544",
     "gunScale": "1,0.7",
@@ -782,17 +913,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_panther1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
     "battleEndTL": [
-      "L��w^���r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_wonder_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 1,
     "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -802,32 +934,35 @@
     "shootCD": 100,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L��j{az�Ǌ\bK�\bm���i"
+      "TL_Panther_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L��j{az�Ǌ\bK�\bm�Ȧ�X���i���"
+      "TL_Panther_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��Z��^"
+      "HighLight_panther"
     ],
     "showtimeImage": "HL-beijing-panther.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [
-      "�\u0016�v����>��\u001d����\u0016�v����>��)�"
+      "zhandou-new-huodi.png",
+      "zhandou-new-huo.png"
     ],
     "buffSn": 1191112,
     "buffSkill": [
-      "�_u�"
+      "119113"
     ],
     "buffSkillNum": [
-      ""
+      "2"
     ],
     "maskAppear": [
-      "L��#����������&���ky��L��#����n��j{az�扩����櫦��i"
+      "TL_UI_Thief_panther_mianju.prefab",
+      "TL_UI_Thief_bs_panther_mianju_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#����������&���ky��L��#����n��j{az�扩��b��iy����"
+      "TL_UI_Thief_panther_mianju.prefab",
+      "TL_UI_Thief_bs_panther_mianju_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -846,14 +981,22 @@
     "skillIcon": "guaidao-mianjuicon-xiduochuanyoujie.png",
     "generalAttackImg": "fox-generalAttack.png",
     "pursueAttackShift": [
-      0
+      63.8,
+      -48.8
     ],
     "pursueAttackScale": 0.29,
     "generalAttackShift": [
-      0
+      1.16,
+      -0.45,
+      0.48,
+      -1.43,
+      1.03,
+      -1.05
     ],
     "generalAttackScale": [
-      0
+      0.5,
+      0.74,
+      0.61
     ],
     "gunShift": "0.125,1.15,0.5;0.125,1.25,0.5",
     "gunScale": "1,0.7",
@@ -865,17 +1008,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_fox1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_fox1.prefab",
     "battleEndTL": [
-      "L��w^���r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_wonder_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 1,
     "battleEndTLposition": "-1.36,0,-2.64;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-110,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -885,13 +1029,13 @@
     "shootCD": 50,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L�ߣ\u001fǊ\bK�\bm���i"
+      "TL_fox_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L�ߣ\u001fǊ\bK�\bm�Ȧ�X���i���"
+      "TL_fox_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!���"
+      "HighLight_fox"
     ],
     "showtimeImage": "HL-beijing-fox.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -919,14 +1063,22 @@
     "skillIcon": "guaidao-mianjuicon-aochuncun.png",
     "generalAttackImg": "noir-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      0.45,
+      -0.5,
+      -0.6,
+      0.07,
+      0.32,
+      -0.03
     ],
     "generalAttackScale": [
-      0
+      0.7,
+      0.6,
+      0.5
     ],
     "gunShift": "0.011,-0.326,0.281;0.039,0.1,0.72",
     "gunScale": "1,0.7",
@@ -938,16 +1090,19 @@
     "alloutatkTL": "TL_AllOutAttack_part2_noir1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_noir1.prefab",
     "battleEndTL": [
-      "L��*��'-���/�芿��h�/⚚޲Ȩ��Zq�ky��"
+      "TL_noir_victory",
+      "TL_noir_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-0.92,0,-3.2;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-101.85,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5~(!��-jw[��޲�6"
+      "fight_standby_rest01",
+      "fight_standby_rest02"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -957,13 +1112,13 @@
     "shootCD": 100,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L��*�\u001e(!�(!���}�"
+      "TL_noir_Highlight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L��*�\u001e(!�(!��\"��b~'����i"
+      "TL_noir_Highlight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��.�\u0018"
+      "HighLight_oushi"
     ],
     "showtimeImage": "HL-beijing-noir.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -973,12 +1128,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'��z\"����8�����櫦��i"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_noir_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'��z\"����8���b��iy����"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_noir_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -997,14 +1152,22 @@
     "skillIcon": "guaidao-mianjuicon-mingzhiwulang.png",
     "generalAttackImg": "crow-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      1.37,
+      -1.37,
+      -0.55,
+      -0.83,
+      0.66,
+      -0.87
     ],
     "generalAttackScale": [
-      0
+      0.45,
+      0.5,
+      0.5
     ],
     "gunShift": "0.045,0,0.192;0.045,0,1,0.192",
     "gunScale": "1,0.7",
@@ -1016,17 +1179,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_crow1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_crow1.prefab",
     "battleEndTL": [
-      "L�ܮ�?�'-������m2�r�0�������)���",
-      "��쥧\u001e���i"
+      "TL_crow_victory.prefab",
+      "TL_crow_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-0.74,0,-3.43;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-98.75,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1036,13 +1200,13 @@
     "shootCD": 100,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L�ܮ�?\u001e(!.(!���}�"
+      "TL_crow_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L�ܮ�?\u001e(!.(!��\"��b~'����i"
+      "TL_crow_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��.�\u0018"
+      "HighLight_oushi"
     ],
     "showtimeImage": "HL-beijing-crow.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1052,10 +1216,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#����������&���ky��L��#����r�0�&��)���iy����"
+      "TL_UI_Thief_panther_mianju.prefab",
+      "TL_UI_Thief_crow_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#����������&���ky��L��#����r�0�&��)��جj�^j�ky��"
+      "TL_UI_Thief_panther_mianju.prefab",
+      "TL_UI_Thief_crow_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1074,14 +1240,22 @@
     "skillIcon": "guaidao-mianjuicon-xindaozhen.png",
     "generalAttackImg": "queen-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      0.4,
+      -1.7,
+      -1,
+      -1.25,
+      -0.77,
+      -1.79
     ],
     "generalAttackScale": [
-      0
+      0.6,
+      0.7,
+      0.8
     ],
     "gunShift": "-0.345,-0.345,0.258;-0.345,-0.245,0.258",
     "gunScale": "1,0.7",
@@ -1093,16 +1267,19 @@
     "alloutatkTL": "TL_AllOutAttack_part2_queen1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_queen1.prefab",
     "battleEndTL": [
-      "L��������򦷟i�����z��h�/⚚޲Ȩ��Zq�ky��"
+      "TL_queen_victory.prefab",
+      "TL_queen_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-5.13,0,0.29;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-2.25,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5~(!��-jw[��޲�6"
+      "fight_standby_rest01",
+      "fight_standby_rest02"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1112,13 +1289,13 @@
     "shootCD": 100,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L����x������ky��"
+      "TL_queen_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L����x�������je���v��}�"
+      "TL_queen_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!���y�"
+      "HighLight_queen"
     ],
     "showtimeImage": "HL-beijing-queen.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1128,10 +1305,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#����������&���ky��L��#�����瞟���8�����櫦��i"
+      "TL_UI_Thief_panther_mianju.prefab",
+      "TL_UI_Thief_queen_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#����������&���ky��L��#�����瞟���8���b��iy����"
+      "TL_UI_Thief_panther_mianju.prefab",
+      "TL_UI_Thief_queen_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1150,14 +1329,22 @@
     "skillIcon": "guaidao-mianjuicon-baniaochengsi.png",
     "generalAttackImg": "comte-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      0.41,
+      -1.2,
+      -1.24,
+      -0.84,
+      0.28,
+      -0.69
     ],
     "generalAttackScale": [
-      0
+      0.5,
+      0.5,
+      0.5
     ],
     "gunShift": "0,-0.332,0.168;-0.135,0.01,0.004",
     "gunScale": "1,0.7",
@@ -1169,17 +1356,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_comte1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_comte1.prefab",
     "battleEndTL": [
-      "L��w^���r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_wonder_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 1,
     "battleEndTLposition": "-0.65,0,-3.5;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-21.68,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1189,13 +1377,13 @@
     "shootCD": 500,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L�ܢk^�\u0018��X���ky��"
+      "TL_comte_highlight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L�ܢk^�\u0018��X����je���v��}�"
+      "TL_comte_highlight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��.�\u0018"
+      "HighLight_oushi"
     ],
     "showtimeImage": "HL-beijing-seiji.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1205,12 +1393,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'��Ǣ�/�jx�\u000fڦ�����}�"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_seiji_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'��צn)��裋�b��iy����"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_tembin_seiji_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1229,14 +1417,22 @@
     "skillIcon": "guaidao-mianjuicon-shenshanlingyang.png",
     "generalAttackImg": "leo-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      0.8,
+      -1.27,
+      -1.26,
+      -0.97,
+      0.49,
+      -0.9
     ],
     "generalAttackScale": [
-      0
+      0.45,
+      0.5,
+      0.5
     ],
     "gunShift": "-0.345,-0.345,0.258;-0.345,-0.245,0.258",
     "gunScale": "1,0.7",
@@ -1248,17 +1444,20 @@
     "alloutatkTL": "TL_AllOutAttack_part2_leo1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_leo1.prefab",
     "battleEndTL": [
-      "L��w^���r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_wonder_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 1,
     "battleEndTLposition": "-0.84,0,-3.73;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-3.37,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5~(!��-jw[��޲�6~(!��-jw[��޲�7"
+      "fight_standby_rest01",
+      "fight_standby_rest02",
+      "fight_standby_rest03"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1268,13 +1467,13 @@
     "shootCD": 500,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L��z�Ǌ\be�\bm���i"
+      "TL_leo_Highlight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L��z�Ǌ\be�\bm�Ȧ�X���i���"
+      "TL_leo_Highlight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��nj|bjx"
+      "HighLight_huanxiang"
     ],
     "showtimeImage": "HL-beijing-leo.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1284,12 +1483,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'��W��h��;�j�^j�ky��"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_leo_mianju_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'��W��h��;�v+\u001a������}�"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_leo_mianju_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1308,14 +1507,22 @@
     "skillIcon": "guaidao-mianjuicon-lufeier.png",
     "generalAttackImg": "cattle-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      0.96,
+      -0.72,
+      -1.34,
+      -0.03,
+      -0.06,
+      -0.02
     ],
     "generalAttackScale": [
-      0
+      0.5,
+      0.5,
+      0.5
     ],
     "gunShift": "0,0.3,0;0,0.3,0",
     "gunScale": "1,0.7",
@@ -1327,17 +1534,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_cattle1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_cattle1.prefab",
     "battleEndTL": [
-      "L��j�e{��r�+ʚ�}��/�\u001a��^�������)���",
-      "��쥧\u001e���i"
+      "TL_cattle_victory.prefab",
+      "TL_cattle_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-2,0,-3.29;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-84.78,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1347,13 +1555,13 @@
     "shootCD": 200,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L��j�e{��\u0012�\u001bi���"
+      "TL_cattle_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L��j�e{��\u0012�\u001b�)��'�y�ky��"
+      "TL_cattle_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!�(!��\u001czw"
+      "Highlight_scene"
     ],
     "showtimeImage": "HL-beijing-cattle.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1381,14 +1589,22 @@
     "skillIcon": "guaidao-mianjuicon-qinyin.png",
     "generalAttackImg": "frost-generalAttack.png",
     "pursueAttackShift": [
-      0
+      31.57,
+      -37.7
     ],
     "pursueAttackScale": 0.2,
     "generalAttackShift": [
-      0
+      1.19,
+      -0.73,
+      -0.52,
+      -0.97,
+      1.21,
+      -1.07
     ],
     "generalAttackScale": [
-      0
+      0.45,
+      0.5,
+      0.5
     ],
     "gunShift": "-0.345,-0.345,0.258;-0.345,-0.245,0.258",
     "gunScale": "1,0.7",
@@ -1400,17 +1616,19 @@
     "alloutatkTL": "TL_AllOutAttack_part2_frost2.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_frost2.prefab",
     "battleEndTL": [
-      "L��w^���r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_wonder_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 1,
     "battleEndTLposition": "-1,0,-3.36;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,0,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5~(!��-jw[��޲�6"
+      "fight_standby_rest01",
+      "fight_standby_rest02"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1420,30 +1638,30 @@
     "shootCD": 650,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L�߮�-�x������ky��"
+      "TL_frost_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L�߮�-�x�������je���v��}�"
+      "TL_frost_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!�(!����"
+      "Highlight_frost"
     ],
     "showtimeImage": "HL-beijing-mont.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [
-      "�\u0016�v��n���j'���"
+      "zhandou-buff-mont.png"
     ],
     "buffSn": 0,
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'������jx�\u000fڦ�����}�"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_frost_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'������jx�\u000f݊Ʃ�櫦��i"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_frost_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1462,14 +1680,22 @@
     "skillIcon": "guaidao-mianjuicon-xinjingsuyu.png",
     "generalAttackImg": "closer-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      -0.95,
+      -0.64,
+      -1.9,
+      0.07,
+      -0.76,
+      -0.27
     ],
     "generalAttackScale": [
-      0
+      0.6,
+      0.6,
+      0.5
     ],
     "gunShift": "0.011,-0.326,0.281;0.039,0.1,0.72",
     "gunScale": "1,0.7",
@@ -1481,17 +1707,19 @@
     "alloutatkTL": "TL_AllOutAttack_part2_closer1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_closer_1080p.prefab",
     "battleEndTL": [
-      "L��w^���r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_wonder_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 1,
     "battleEndTLposition": "-1,0,-3.36;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,0,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5~(!��-jw[��޲�6"
+      "fight_standby_rest01",
+      "fight_standby_rest02"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1501,13 +1729,13 @@
     "shootCD": 100,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L�ܖ�\u001e���\u0012�\u001bi���"
+      "TL_closer_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L�ܖ�\u001e���\u0012�\u001b�)��'�y�ky��"
+      "TL_closer_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!�(!��%�ǫ"
+      "Highlight_closer"
     ],
     "showtimeImage": "HL-beijing-closer.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1517,12 +1745,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'���h���ɩ�x?j�^j�ky��"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_closer_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'���h���ɩ�x?v+\u001a������}�"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_closer_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1541,14 +1769,22 @@
     "skillIcon": "guaidao-mianjuicon-soy.png",
     "generalAttackImg": "soy-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      3.53,
+      -1.55,
+      0.96,
+      -0.69,
+      0.88,
+      -0.27
     ],
     "generalAttackScale": [
-      0
+      0.8,
+      0.74,
+      0.5
     ],
     "gunShift": "0.125,1.15,0.5;0.125,1.25,0.5",
     "gunScale": "1,0.7",
@@ -1560,16 +1796,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_soy1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_fox1.prefab",
     "battleEndTL": [
-      "L��/��h�*ky��L��/��h�/⚚޲Ȩ��Zq�ky��"
+      "TL_soy_victory.prefab",
+      "TL_soy_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-1.36,0,-2.64;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-110,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1579,13 +1817,13 @@
     "shootCD": 700,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L��/Ǌ\bK�\bm���i"
+      "TL_soy_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L��/Ǌ\bK�\bm�Ȧ�X���i���"
+      "TL_soy_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��.�\u0018"
+      "HighLight_oushi"
     ],
     "showtimeImage": "HL-beijing-soy.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1595,10 +1833,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#��������&���ky��L��#�������ɩ�x?j�^j�ky��"
+      "TL_UI_Thief_soy_mianju.prefab",
+      "TL_UI_Thief_soy_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#��������&���ky��L��#�������ɩ�x?v+\u001a������}�"
+      "TL_UI_Thief_soy_mianju.prefab",
+      "TL_UI_Thief_soy_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1617,14 +1857,22 @@
     "skillIcon": "guaidao-mianjuicon-kii.png",
     "generalAttackImg": "kii-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      0.5,
+      -1.29,
+      -1.24,
+      -0.98,
+      0.07,
+      -0.99
     ],
     "generalAttackScale": [
-      0
+      0.6,
+      0.6,
+      0.6
     ],
     "gunShift": "0,-0.332,0.168;-0.135,0.01,0.004",
     "gunScale": "1,0.7",
@@ -1636,16 +1884,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_kii1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_comte1.prefab",
     "battleEndTL": [
-      "L��/��h�*ky��L��/��h�/⚚޲Ȩ��Zq�ky��"
+      "TL_kii_victory.prefab",
+      "TL_kii_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-0.65,0,-3.5;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-21.68,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1655,13 +1905,13 @@
     "shootCD": 500,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L��/Ǌ\bK�\bm���i"
+      "TL_kii_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L��/Ǌ\bK�\bm�Ȧ�X���i���"
+      "TL_kii_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��nj|bjx"
+      "HighLight_huanxiang"
     ],
     "showtimeImage": "HL-beijing-kii.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1671,12 +1921,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'��H��&��)���iy����"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_kii_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#����rZ",
-      "z��iǩ���m2�P�ӆ'��H��&��)��جj�^j�ky��"
+      "TL_UI_Thief_closer_face.prefab",
+      "TL_UI_Thief_kii_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1695,14 +1945,22 @@
     "skillIcon": "guaidao-mianjuicon-kotomo.png",
     "generalAttackImg": "kotomo-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      -0.04,
+      -1.15,
+      -1.31,
+      -0.6,
+      -0.37,
+      -0.6
     ],
     "generalAttackScale": [
-      0
+      0.5,
+      0.6,
+      0.5
     ],
     "gunShift": "0.06,-0.276,0.045;0.128,-0.436,0.544",
     "gunScale": "1,0.7",
@@ -1714,17 +1972,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_kotomo1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
     "battleEndTL": [
-      "L���&���r�+ʚ�}��/�(����������)���",
-      "��쥧\u001e���i"
+      "TL_kotomo_victory.prefab",
+      "TL_kotomo_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1734,13 +1993,13 @@
     "shootCD": 300,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L���&���\u0012�\u001bi���"
+      "TL_kotomo_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L���&���\u0012�\u001b�)��'�y�ky��"
+      "TL_kotomo_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��.�\u0018"
+      "HighLight_oushi"
     ],
     "showtimeImage": "HL-beijing-moko.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1750,10 +2009,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#�����雊�iǩ���m2�P�ӆ'��J-�j?ɩ�x?j�^j�ky��"
+      "TL_UI_Thief_tembin_face.prefab",
+      "TL_UI_Thief_kotomo_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#�����雊�iǩ���m2�P�ӆ'��J-�j?ɩ�x?v+\u001a������}�"
+      "TL_UI_Thief_tembin_face.prefab",
+      "TL_UI_Thief_kotomo_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1772,14 +2033,22 @@
     "skillIcon": "guaidao-mianjuicon-rin.png",
     "generalAttackImg": "tirara-generalAttack.png",
     "pursueAttackShift": [
+      0,
       0
     ],
     "pursueAttackScale": 1,
     "generalAttackShift": [
-      0
+      -0.37,
+      -1.22,
+      -1.49,
+      -0.9,
+      -0.28,
+      -0.76
     ],
     "generalAttackScale": [
-      0
+      0.6,
+      0.6,
+      0.5
     ],
     "gunShift": "-0.247,0.546,0.296;0.128,-0.436,0.544",
     "gunScale": "1,0.7",
@@ -1791,17 +2060,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_tirara1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
     "battleEndTL": [
-      "L�튶�k��r�+ʚ�}��/�b����������)���",
-      "��쥧\u001e���i"
+      "TL_tirara_victory.prefab",
+      "TL_tirara_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1811,13 +2081,13 @@
     "shootCD": 200,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L�튶�k��\u0019b�\u001bi���"
+      "TL_tirara_Highlight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L�튶�k��\u0019b�\u001b�)��'�y�ky��"
+      "TL_tirara_Highlight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��nj|bjx"
+      "HighLight_huanxiang"
     ],
     "showtimeImage": "HL-beijing-rin.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1827,10 +2097,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#����������&���ky��L��#�����*ڭ��jx�\u000fڦ�����}�"
+      "TL_UI_Thief_panther_mianju.prefab",
+      "TL_UI_Thief_tirara_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#����������&���ky��L��#�����*ڭ��jx�\u000f݊Ʃ�櫦��i"
+      "TL_UI_Thief_panther_mianju.prefab",
+      "TL_UI_Thief_tirara_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1849,14 +2121,22 @@
     "skillIcon": "guaidao-mianjuicon-yui.png",
     "generalAttackImg": "yui-generalAttack.png",
     "pursueAttackShift": [
-      0
+      27,
+      -27
     ],
     "pursueAttackScale": 0.2,
     "generalAttackShift": [
-      0
+      0.89,
+      -0.5,
+      -1.23,
+      -0.84,
+      -0.1,
+      -0.74
     ],
     "generalAttackScale": [
-      0
+      0.5,
+      0.6,
+      0.5
     ],
     "gunShift": "-0.68,-0.28,0.17;-0.68,-0.28,0.17",
     "gunScale": "1,0.7",
@@ -1868,16 +2148,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_Bui2.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
     "battleEndTL": [
-      "L���/��h�*ky��L��w^���r�+�������*'���z��}�"
+      "TL_Bui_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1887,13 +2169,13 @@
     "shootCD": 500,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L���/Ǌ\bK�\bm���i"
+      "TL_Bui_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L���/Ǌ\bK�\bm�Ȧ�X���i���"
+      "TL_Bui_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��\u001e�"
+      "HighLight_keji"
     ],
     "showtimeImage": "HL-beijing-yui.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1904,7 +2186,8 @@
     "buffSkillNum": [],
     "maskAppear": [],
     "maskdisAppear": [
-      "L��#������\u001e���q�ky��L��#����n�ɩ�x?v+\u001a������}�"
+      "TL_UI_Thief_joker_face.prefab",
+      "TL_UI_Thief_bui_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1923,14 +2206,22 @@
     "skillIcon": "guaidao-mianjuicon-sepia.png",
     "generalAttackImg": "sepia-generalAttack.png",
     "pursueAttackShift": [
-      0
+      -15.6,
+      -56.4
     ],
     "pursueAttackScale": 0.29,
     "generalAttackShift": [
-      0
+      0.7,
+      -1.6,
+      -1.2,
+      -1.3,
+      -0.2,
+      -1.5
     ],
     "generalAttackScale": [
-      0
+      0.6,
+      0.7,
+      0.7
     ],
     "gunShift": "-0.68,-0.28,0.17;-0.68,-0.28,0.17",
     "gunScale": "1,0.7",
@@ -1942,17 +2233,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_lancer1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
     "battleEndTL": [
-      "L��jw\u001e���r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_lancer_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -1962,13 +2254,13 @@
     "shootCD": 500,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L��h��ȿ�(!�(!���}�"
+      "TL_sumitosi_highlight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L��h��ȿ�(!�(!��\"��b~'����i"
+      "TL_sumitosi_highlight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��.�\u0018"
+      "HighLight_oushi"
     ],
     "showtimeImage": "HL-beijing-sepia.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -1979,7 +2271,8 @@
     "buffSkillNum": [],
     "maskAppear": [],
     "maskdisAppear": [
-      "L��#�����颶�\"���z��}��/�\b�8by��h��ȿɩ�x?v+\u001a������}�"
+      "TL_UI_Thief_sumitosi_face.prefab",
+      "TL_UI_Thief_sumitosi_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -1998,14 +2291,22 @@
     "skillIcon": "guaidao-mianjuicon-riddle.png",
     "generalAttackImg": "why-generalAttack.png",
     "pursueAttackShift": [
-      0
+      -12.7,
+      -34.33
     ],
     "pursueAttackScale": 0.2,
     "generalAttackShift": [
-      0
+      0.25,
+      -1.33,
+      -1.24,
+      -0.98,
+      0.07,
+      -0.99
     ],
     "generalAttackScale": [
-      0
+      0.5,
+      0.6,
+      0.6
     ],
     "gunShift": "-0.68,-0.28,0.17;-0.68,-0.28,0.17",
     "gunScale": "1,0.7",
@@ -2017,16 +2318,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_why1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
     "battleEndTL": [
-      "L���/��h�*ky��L��w^���r�+�������*'���z��}�"
+      "TL_why_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -2036,13 +2339,13 @@
     "shootCD": 500,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L���/Ǌ\be�\bm���i"
+      "TL_why_Highlight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L���/Ǌ\be�\bm�Ȧ�X���i���"
+      "TL_why_Highlight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��nj|bjx"
+      "HighLight_huanxiang"
     ],
     "showtimeImage": "HL-beijing-riddle.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -2053,7 +2356,8 @@
     "buffSkillNum": [],
     "maskAppear": [],
     "maskdisAppear": [
-      "L��#��������&���ky��L��#�����\u001c�ɩ�x?v+\u001a������}�"
+      "TL_UI_Thief_soy_mianju.prefab",
+      "TL_UI_Thief_why_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",
@@ -2072,7 +2376,8 @@
     "skillIcon": "",
     "generalAttackImg": "icon-append-okyann.png",
     "pursueAttackShift": [
-      0
+      60,
+      -6
     ],
     "pursueAttackScale": 0.25,
     "generalAttackShift": [],
@@ -2182,14 +2487,22 @@
     "skillIcon": "guaidao-mianjuicon-gongxiameibo.png",
     "generalAttackImg": "marian-generalAttack.png",
     "pursueAttackShift": [
-      0
+      40.3,
+      -25.6
     ],
     "pursueAttackScale": 0.2,
     "generalAttackShift": [
-      0
+      1.85,
+      -1.22,
+      -0.16,
+      -0.76,
+      1.2,
+      -0.53
     ],
     "generalAttackScale": [
-      0
+      0.5,
+      0.5,
+      0.5
     ],
     "gunShift": "0.47,-0.42,0.3;-0.68,-0.28,0.17",
     "gunScale": "1,0.7",
@@ -2201,17 +2514,18 @@
     "alloutatkTL": "TL_AllOutAttack_part2_marian1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
     "battleEndTL": [
-      "L��j�����r�+ʚ�}��/�(�׫�������)���",
-      "��쥧\u001e���i"
+      "TL_Marian_victory.prefab",
+      "TL_wonder_victory_impressionspace.prefab"
     ],
     "battleEndTLgeneral": 0,
     "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
     "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      0
+      7,
+      13
     ],
     "idleBattleAnims": [
-      "~(!��-jw[��޲�5"
+      "fight_standby_rest01"
     ],
     "idleAnims": [],
     "idleAnims2": [],
@@ -2221,13 +2535,13 @@
     "shootCD": 200,
     "endShootAnim": 500,
     "showtimeTimeline": [
-      "L��j�����\u0012�\u001bi���"
+      "TL_marian_HighLight.prefab"
     ],
     "showtimeTimelineSimplified": [
-      "L��j�����\u0012�\u001b�)��'�y�ky��"
+      "TL_marian_HighLight_simplified.prefab"
     ],
     "showtimeScene": [
-      "\u001e(!.(!��\u001a�&�"
+      "HighLight_Marian"
     ],
     "showtimeImage": "HL-beijing-marian.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
@@ -2237,10 +2551,12 @@
     "buffSkill": [],
     "buffSkillNum": [],
     "maskAppear": [
-      "L��#�������j�'��h��;����m2�P�ӆ'��f����ɩ�x?j�^j�ky��"
+      "TL_UI_Thief_marian_thief_mianju.prefab",
+      "TL_UI_Thief_marian_yanjing_appear.prefab"
     ],
     "maskdisAppear": [
-      "L��#�������j�'��h��;����m2�P�ӆ'��f����ɩ�x?v+\u001a������}�"
+      "TL_UI_Thief_marian_thief_mianju.prefab",
+      "TL_UI_Thief_marian_yanjing_disappear.prefab"
     ],
     "defaultIKOffset": "",
     "specialModelSn": "",

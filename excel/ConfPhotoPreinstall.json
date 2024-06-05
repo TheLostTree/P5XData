@@ -4,20 +4,29 @@
     "name": "三人成行",
     "pic": "paizhao-dongzuo-08.png",
     "CharacterSn": [
-      0
+      1,
+      3
     ],
     "leaderAction": 3,
     "preinstall": [
-      0
+      102,
+      302
     ],
     "preinstallExpression": [
-      0
+      101,
+      301
     ],
     "preinstallOffset": [
-      0
+      0.459,
+      0,
+      -0.31,
+      -0.311,
+      0,
+      -0.235
     ],
     "preinstallRotate": [
-      0
+      0,
+      13.42752
     ],
     "method": 0,
     "param": 0,

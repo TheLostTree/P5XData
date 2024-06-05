@@ -3,7 +3,9 @@
     "sn": 1,
     "senceSn": 2129,
     "birthPoint": [
-      0
+      291.03,
+      40.14,
+      125.06
     ],
     "modelSn": "home_yiloupiaochuang",
     "faceToAngle": 180,
@@ -16,7 +18,8 @@
     "actionPic": "zhujiemian-jiaohu01.png",
     "actionName": "坐",
     "EventNPC": [
-      0
+      2129009,
+      2129010
     ],
     "FuncNPC": []
   },
@@ -24,7 +27,9 @@
     "sn": 2,
     "senceSn": 2129,
     "birthPoint": [
-      0
+      293.23,
+      40.38,
+      125.72
     ],
     "modelSn": "home_yilou_chaji",
     "faceToAngle": 180,
@@ -43,7 +48,9 @@
     "sn": 3,
     "senceSn": 2129,
     "birthPoint": [
-      0
+      287.52,
+      40.37,
+      131.47
     ],
     "modelSn": "home_liangxi01",
     "faceToAngle": 180,
@@ -62,7 +69,9 @@
     "sn": 4,
     "senceSn": 2130,
     "birthPoint": [
-      0
+      312.63,
+      44.42,
+      114.28
     ],
     "modelSn": "home_shafa",
     "faceToAngle": 90,
@@ -75,7 +84,7 @@
     "actionPic": "zhujiemian-jiaohu01.png",
     "actionName": "坐",
     "EventNPC": [
-      0
+      2129007
     ],
     "FuncNPC": []
   },
@@ -83,7 +92,9 @@
     "sn": 5,
     "senceSn": 2130,
     "birthPoint": [
-      0
+      312.49,
+      44.42,
+      107.95
     ],
     "modelSn": "home_chuang",
     "faceToAngle": 0,
@@ -97,14 +108,18 @@
     "actionName": "躺",
     "EventNPC": [],
     "FuncNPC": [
-      0
+      2129011,
+      2129012,
+      2129013
     ]
   },
   {
     "sn": 101,
     "senceSn": 99,
     "birthPoint": [
-      0
+      293.23,
+      40.38,
+      125.72
     ],
     "modelSn": "home_yilou_chaji",
     "faceToAngle": 0,
@@ -123,7 +138,9 @@
     "sn": 102,
     "senceSn": 99,
     "birthPoint": [
-      0
+      287.52,
+      40.37,
+      131.47
     ],
     "modelSn": "home_liangxi01",
     "faceToAngle": 0,

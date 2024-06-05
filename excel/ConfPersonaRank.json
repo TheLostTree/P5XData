@@ -3,10 +3,10 @@
     "sn": 1,
     "levelMax": 25,
     "levelAwake": [
-      0
+      20
     ],
     "moneyAwake": [
-      0
+      1000
     ],
     "slot": 2,
     "image": "common-new-luoma-1.png",
@@ -17,10 +17,10 @@
     "sn": 2,
     "levelMax": 35,
     "levelAwake": [
-      0
+      30
     ],
     "moneyAwake": [
-      0
+      1500
     ],
     "slot": 3,
     "image": "common-new-luoma-2.png",
@@ -31,10 +31,10 @@
     "sn": 3,
     "levelMax": 45,
     "levelAwake": [
-      0
+      40
     ],
     "moneyAwake": [
-      0
+      2000
     ],
     "slot": 4,
     "image": "common-new-luoma-3.png",
@@ -45,10 +45,12 @@
     "sn": 4,
     "levelMax": 60,
     "levelAwake": [
-      0
+      50,
+      55
     ],
     "moneyAwake": [
-      0
+      2000,
+      4000
     ],
     "slot": 4,
     "image": "common-new-luoma-4.png",
@@ -59,10 +61,12 @@
     "sn": 5,
     "levelMax": 70,
     "levelAwake": [
-      0
+      60,
+      65
     ],
     "moneyAwake": [
-      0
+      4000,
+      8000
     ],
     "slot": 5,
     "image": "common-new-luoma-5.png",
@@ -73,10 +77,14 @@
     "sn": 6,
     "levelMax": 85,
     "levelAwake": [
-      0
+      70,
+      75,
+      80
     ],
     "moneyAwake": [
-      0
+      4000,
+      8000,
+      12000
     ],
     "slot": 5,
     "image": "common-new-luoma-6.png",
@@ -87,10 +95,14 @@
     "sn": 7,
     "levelMax": 95,
     "levelAwake": [
-      0
+      80,
+      85,
+      90
     ],
     "moneyAwake": [
-      0
+      6000,
+      12000,
+      18000
     ],
     "slot": 6,
     "image": "common-new-luoma-7.png",
@@ -101,10 +113,14 @@
     "sn": 8,
     "levelMax": 99,
     "levelAwake": [
-      0
+      80,
+      85,
+      90
     ],
     "moneyAwake": [
-      0
+      10000,
+      20000,
+      30000
     ],
     "slot": 6,
     "image": "common-new-luoma-8.png",

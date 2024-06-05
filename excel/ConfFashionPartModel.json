@@ -3369,10 +3369,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�(����~*��Zky��"
+      "kii_gun_fire_1.prefab"
     ],
     "weaponEffectPoint": [
-      "����9^"
+      "t_muzzle"
     ]
   },
   {
@@ -6529,10 +6529,10 @@
     "hangPoint": "",
     "inOutEffect": 1,
     "weaponEffect": [
-      "�z��y�h��8�\bh�籦������Mi���"
+      "wonder_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "��"
+      "wuqi"
     ]
   },
   {
@@ -6545,10 +6545,10 @@
     "hangPoint": "",
     "inOutEffect": 1,
     "weaponEffect": [
-      "�z��y�h��9�\bh�籦������Zky��"
+      "wonder_weapon_05_wholeexport_rig_1.prefab"
     ],
     "weaponEffectPoint": [
-      "��"
+      "wuqi"
     ]
   },
   {
@@ -6561,10 +6561,10 @@
     "hangPoint": "",
     "inOutEffect": 1,
     "weaponEffect": [
-      "�z��y�h��9�\bh�籦������Mi���"
+      "wonder_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "��"
+      "wuqi"
     ]
   },
   {
@@ -6577,10 +6577,10 @@
     "hangPoint": "",
     "inOutEffect": 1,
     "weaponEffect": [
-      "�z��y�h��9�\bh�籦������zky��"
+      "wonder_weapon_05_wholeexport_rig_3.prefab"
     ],
     "weaponEffectPoint": [
-      "��"
+      "wuqi"
     ]
   },
   {
@@ -6617,10 +6617,10 @@
     "hangPoint": "t_weapon",
     "inOutEffect": 0,
     "weaponEffect": [
-      "¯��e�\u0007����ӏ�֚�}�"
+      "wq_skull_weapon_04_01.prefab"
     ],
     "weaponEffectPoint": [
-      "�"
+      "wp_rot"
     ]
   },
   {
@@ -6633,7 +6633,7 @@
     "hangPoint": "t_weapon",
     "inOutEffect": 0,
     "weaponEffect": [
-      "¯��e�\u0007����ӟ����i"
+      "wq_skull_weapon_05_1.prefab"
     ],
     "weaponEffectPoint": []
   },
@@ -6683,10 +6683,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "����\u0007����ӟ���^{\u001ah���\u000f�֚�}�"
+      "mona_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "�"
+      "wp_rot"
     ]
   },
   {
@@ -6735,11 +6735,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "rZ",
-      "z��y�h��8�\bh�籦������Zky��"
+      "closer_weapon_04_wholeexport_rig_1.prefab"
     ],
     "weaponEffectPoint": [
-      "�&��-7"
+      "lianzi032"
     ]
   },
   {
@@ -6752,11 +6751,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "rZ",
-      "z��y�h��9�\bh�籦������Zky��"
+      "closer_weapon_05_wholeexport_rig_1.prefab"
     ],
     "weaponEffectPoint": [
-      "�&��-7"
+      "lianzi032"
     ]
   },
   {
@@ -6793,10 +6791,34 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�)��\u0007����ӏ���^{\u001ah����w�Ӛky���)��\u0007����ӏ���^{\u001ah����w���ky���)��\u0007����ӏ���^{\u001ah����w��zky���)��\u0007����ӏ���^{\u001ah����w�׺ky���)��\u0007����ӏ���^{\u001ah����w��Zky���)��\u0007����ӏ���^{\u001ah����w�ۚky���)��\u0007����ӏ���^{\u001ah����w���ky���)��\u0007����ӏ���^{\u001ah����w��zky���)��\u0007����ӏ���^{\u001ah����w�ߺky���)��\u0007����ӏ���^{\u001ah����w��Zky���)��\u0007����ӏ���^{\u001ah����w��ky���)��\u0007����ӏ���^{\u001ah����w���ky���)��\u0007����ӏ���^{\u001ah����w��ky��"
+      "wind_weapon_04_wholeexport_Bone005.prefab",
+      "wind_weapon_04_wholeexport_Bone009.prefab",
+      "wind_weapon_04_wholeexport_Bone013.prefab",
+      "wind_weapon_04_wholeexport_Bone017.prefab",
+      "wind_weapon_04_wholeexport_Bone021.prefab",
+      "wind_weapon_04_wholeexport_Bone025.prefab",
+      "wind_weapon_04_wholeexport_Bone029.prefab",
+      "wind_weapon_04_wholeexport_Bone033.prefab",
+      "wind_weapon_04_wholeexport_Bone037.prefab",
+      "wind_weapon_04_wholeexport_Bone041.prefab",
+      "wind_weapon_04_wholeexport_Bone045.prefab",
+      "wind_weapon_04_wholeexport_Bone049.prefab",
+      "wind_weapon_04_wholeexport_Bone074.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���NA�w���h��5�\u001a'{M{\u0006���mA�w�ېh��6�\u001a'{M�\u0006���~��w��Ph��8�\u001a'{N=\u0006��Ӿ"
+      "Bone005",
+      "Bone009",
+      "Bone013",
+      "Bone017",
+      "Bone021",
+      "Bone025",
+      "Bone029",
+      "Bone033",
+      "Bone037",
+      "Bone041",
+      "Bone045",
+      "Bone049",
+      "Bone074"
     ]
   },
   {
@@ -6809,10 +6831,23 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�)��\u0007����ӟ���^{\u001ah����w���ky���)��\u0007����ӟ���^{\u001ah����w�׺ky���)��\u0007����ӟ���^{\u001ah����w�ۚky���)��\u0007����ӟ���^{\u001ah����w��zky���)��\u0007����ӟ���^{\u001ah����w��Zky���)��\u0007����ӟ���^{\u001ah����w���ky���)��\u0007����ӟ���^{\u001ah����w��ky��"
+      "wind_weapon_05_wholeexport_Bone009.prefab",
+      "wind_weapon_05_wholeexport_Bone017.prefab",
+      "wind_weapon_05_wholeexport_Bone025.prefab",
+      "wind_weapon_05_wholeexport_Bone033.prefab",
+      "wind_weapon_05_wholeexport_Bone041.prefab",
+      "wind_weapon_05_wholeexport_Bone049.prefab",
+      "wind_weapon_05_wholeexport_Bone074.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���OA�w�װh��6�\u001a'{M�\u0006��ӍA�w���h��;"
+      "Bone009",
+      "Bone017",
+      "Bone025",
+      "Bone033",
+      "Bone041",
+      "Bone049",
+      "Bone074",
+      ""
     ]
   },
   {
@@ -6849,10 +6884,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "����橢���!�W�ƚ+����5���i"
+      "soy_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���N"
+      "Bone204"
     ]
   },
   {
@@ -6865,10 +6900,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "����橢���!�W�ƚ+����5���i"
+      "soy_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���N"
+      "Bone204"
     ]
   },
   {
@@ -6905,10 +6940,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "��?�橢���!�W�ƚ+����5���i"
+      "leo_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���M"
+      "Bone001"
     ]
   },
   {
@@ -6921,10 +6956,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "��?�橢���!�W�ƚ+����5���i"
+      "leo_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���M"
+      "Bone001"
     ]
   },
   {
@@ -6961,10 +6996,14 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�L���y�h��8�\bh�籦������Mi���n�2jy��橢���!�W�ƚ+����6���i�$ɩ��\u0007����ӏ���^{\u001ah���\u000f�ޚ�}�"
+      "okyann_weapon_04_wholeexport_rig_01.prefab",
+      "okyann_weapon_04_wholeexport_rig_02.prefab",
+      "okyann_weapon_04_wholeexport_rig_03.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006��מ\u0001�w���h��z"
+      "Bone154",
+      "Bone158",
+      "Bone161"
     ]
   },
   {
@@ -6977,10 +7016,16 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�L���y�h��9�\bh�籦������Mi���n�2jy��橢���!�W�ƚ+����6���i�$ɩ��\u0007����ӟ���^{\u001ah���\u000f�ޚ�}��&���\u001ej�'�N�\u001a%y�i���(?ӊky��"
+      "okyann_weapon_05_wholeexport_rig_01.prefab",
+      "okyann_weapon_05_wholeexport_rig_02.prefab",
+      "okyann_weapon_05_wholeexport_rig_03.prefab",
+      "okyann_weapon_05_wholeexport_rig_04.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006��מ\u0001�w���h��z�\u001a'{^}"
+      "Bone154",
+      "Bone158",
+      "Bone160",
+      "Bone159"
     ]
   },
   {
@@ -7017,10 +7062,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�*ڭ��y�h��8�\bh�籦������Mi���"
+      "tirara_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006��מ"
+      "Bone154"
     ]
   },
   {
@@ -7033,10 +7078,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�*ڭ��y�h��9�\bh�籦������Mi���"
+      "tirara_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006��מ"
+      "Bone154"
     ]
   },
   {
@@ -7073,10 +7118,12 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "��h���y�h��8�\bh�籦������Mi���nJ-�j?�橢���!�W�ƚ+����6���i"
+      "kotomo_weapon_04_wholeexport_rig_01.prefab",
+      "kotomo_weapon_04_wholeexport_rig_02.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���~��w��"
+      "Bone136",
+      "Bone137"
     ]
   },
   {
@@ -7089,10 +7136,12 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "��h���y�h��9�\bh�籦������Mi���nJ-�j?�橢���!�W�ƚ+����6���i"
+      "kotomo_weapon_05_wholeexport_rig_01.prefab",
+      "kotomo_weapon_05_wholeexport_rig_02.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���~��w��"
+      "Bone136",
+      "Bone137"
     ]
   },
   {
@@ -7129,10 +7178,12 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "n��橢���!�W�ƚ+����5���i���\u001ej�'�N?�\u001a%y�i���(?�_�ښ�}�"
+      "bui_weapon_04_wholeexport_rig_01.prefab",
+      "bui_weapon_04_wholeexport_rig_01_02.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���nA�w��"
+      "Bone125",
+      "Bone126"
     ]
   },
   {
@@ -7145,10 +7196,12 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "n��橢���!�W�ƚ+����5���i���\u001ej�'�N�\u001a%y�i���(?�_����i"
+      "bui_weapon_05_wholeexport_rig_01.prefab",
+      "bui_weapon_05_wholeexport_rig_01_2.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���nA�w��"
+      "Bone125",
+      "Bone126"
     ]
   },
   {
@@ -7185,10 +7238,10 @@
     "hangPoint": "h_M_HR1",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�(��橢���!�W�ƚ+����5���i"
+      "kii_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���N"
+      "Bone204"
     ]
   },
   {
@@ -7201,10 +7254,10 @@
     "hangPoint": "h_M_HR1",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�(��橢���!�W�ƚ+����5���i"
+      "kii_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���N"
+      "Bone204"
     ]
   },
   {
@@ -7253,10 +7306,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�雊�y�h��9�\bh�籦������Mi���"
+      "tembin_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "n���\n��u"
+      "bone_wp_1_11"
     ]
   },
   {
@@ -7293,10 +7346,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "r��{�\u001ej�'�N?�\u001a%y�i���(?�Zky��"
+      "comte_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "n���\u000b�"
+      "bone_wuqi"
     ]
   },
   {
@@ -7309,10 +7362,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "r��{�\u001ej�'�N�\u001a%y�i���(?�Zky��"
+      "comte_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "n���\u000b�"
+      "bone_wuqi"
     ]
   },
   {
@@ -7349,10 +7402,10 @@
     "hangPoint": "t_weapon",
     "inOutEffect": 0,
     "weaponEffect": [
-      "r�0�\u0007����ӏ���^{\u001ah���\u000f����i"
+      "crow_weapon_04_wholeexport_rig_1.prefab"
     ],
     "weaponEffectPoint": [
-      "��\u001ej�'"
+      "t_weapon"
     ]
   },
   {
@@ -7365,7 +7418,7 @@
     "hangPoint": "t_weapon",
     "inOutEffect": 0,
     "weaponEffect": [
-      "¯ܮ�?�橢���i���"
+      "wq_crow_weapon_05_1.prefab"
     ],
     "weaponEffectPoint": []
   },
@@ -7403,10 +7456,12 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "~��橢���!�W�ƚ+����5���i����\u001ej�'�N?�\u001a%y�i���(?�jky��"
+      "fox_weapon_04_wholeexport_rig_01.prefab",
+      "fox_weapon_04_wholeexport_rig_02.prefab"
     ],
     "weaponEffectPoint": [
-      "��)F�(���"
+      "h_wpR",
+      "sword_rot"
     ]
   },
   {
@@ -7419,10 +7474,12 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "~��橢���!�W�ƚ+����5���i����\u001ej�'�N�\u001a%y�i���(?�jky��"
+      "fox_weapon_05_wholeexport_rig_01.prefab",
+      "fox_weapon_05_wholeexport_rig_02.prefab"
     ],
     "weaponEffectPoint": [
-      "��)F�(���"
+      "h_wpR",
+      "sword_rot"
     ]
   },
   {
@@ -7459,10 +7516,12 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "����\u0007����ӏ���^{\u001ah���\u000f�֚�}��j���橢���!�W�ƚ+����6���i"
+      "navi_weapon_04_wholeexport_rig_01.prefab",
+      "navi_weapon_04_wholeexport_rig_02.prefab"
     ],
     "weaponEffectPoint": [
-      "��^n�$�Y���M6"
+      "notebook01",
+      "notebook02"
     ]
   },
   {
@@ -7475,10 +7534,12 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "����\u0007����ӟ���^{\u001ah���\u000f����i�ھ/�y�h��9�\bh�籦������jky��"
+      "navi_weapon_05_wholeexport_rig_1.prefab",
+      "navi_weapon_05_wholeexport_rig_2.prefab"
     ],
     "weaponEffectPoint": [
-      "��^n�$�Y���M6"
+      "notebook01",
+      "notebook02"
     ]
   },
   {
@@ -7515,10 +7576,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�颶�\"�\u0007����ӏ���^{\u001ah���\u000f�֚�}�"
+      "sumitosi_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "n���\u000b��8Z�"
+      "bone_guaizhang"
     ]
   },
   {
@@ -7531,10 +7592,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�颶�\"�\u0007����ӟ���^{\u001ah���\u000f�֚�}�"
+      "sumitosi_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "n���\u000b��8Z�"
+      "bone_guaizhang"
     ]
   },
   {
@@ -7571,10 +7632,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "������橢���!�W�ƚ+����5���i"
+      "panther_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "�橢�"
+      "weapon_04"
     ]
   },
   {
@@ -7587,10 +7648,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "������橢���!�W�ƚ+����i���"
+      "panther_weapon_05_wholeexport_rig_1.prefab"
     ],
     "weaponEffectPoint": [
-      "�橢�"
+      "weapon_05"
     ]
   },
   {
@@ -7627,11 +7688,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "~�",
-      "��\u001ej�'�N?�\u001a%y�i���(?�Zky��"
+      "frost_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0004��y�h��5"
+      "BN_weapon_01"
     ]
   },
   {
@@ -7644,11 +7704,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "~�",
-      "��\u001ej�'�N�\u001a%y�i���(?�Zky��"
+      "frost_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0004��y�h��5"
+      "BN_weapon_01"
     ]
   },
   {
@@ -7697,10 +7756,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "����\u0007����ӟ���^{\u001ah���\u000f�֚�}�"
+      "noir_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "y��r�9"
+      "effect05"
     ]
   },
   {
@@ -7737,10 +7796,10 @@
     "hangPoint": "wp_root",
     "inOutEffect": 1,
     "weaponEffect": [
-      "��\u001e��\u001ej�'�N?�\u001a%y�i���(?֚�}�"
+      "joker_weapon_04_wholeexport_rig_1.prefab"
     ],
     "weaponEffectPoint": [
-      "뢋"
+      "wp_root"
     ]
   },
   {
@@ -7753,10 +7812,10 @@
     "hangPoint": "wp_root",
     "inOutEffect": 1,
     "weaponEffect": [
-      "��\u001e��\u001ej�'�N�\u001a%y�i���(?֚�}�"
+      "joker_weapon_05_wholeexport_rig_1.prefab"
     ],
     "weaponEffectPoint": [
-      "뢋"
+      "wp_root"
     ]
   },
   {
@@ -7793,10 +7852,10 @@
     "hangPoint": "",
     "inOutEffect": 1,
     "weaponEffect": [
-      "�h��橢���!�W�ƚ+����5���i"
+      "umi_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���\u0007������-"
+      "Bone_weapon_root"
     ]
   },
   {
@@ -7809,10 +7868,10 @@
     "hangPoint": "",
     "inOutEffect": 1,
     "weaponEffect": [
-      "�h��橢���!�W�ƚ+����5���i"
+      "umi_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006���\u0007������-"
+      "Bone_weapon_root"
     ]
   },
   {
@@ -7849,10 +7908,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�\u001c��橢���!�W�ƚ+����5���i"
+      "why_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006��ӽ"
+      "Bone073"
     ]
   },
   {
@@ -7865,10 +7924,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "�\u001c��橢���!�W�ƚ+����5���i"
+      "why_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006��ӽ"
+      "Bone073"
     ]
   },
   {
@@ -7905,10 +7964,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "���j�y�h��8�\bh�籦������Mi���"
+      "marian_weapon_04_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006��ӝ"
+      "Bone050"
     ]
   },
   {
@@ -7921,10 +7980,10 @@
     "hangPoint": "",
     "inOutEffect": 0,
     "weaponEffect": [
-      "���j�y�h��9�\bh�籦������Mi���"
+      "marian_weapon_05_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "\u0006��ӝ"
+      "Bone050"
     ]
   },
   {
@@ -10421,10 +10480,10 @@
     "hangPoint": "h_M_HR1",
     "inOutEffect": 0,
     "weaponEffect": [
-      "q�m���y�h��8�\u001f���^{\u001ah���\u000f�֚�}�"
+      "cattle_weapon_04_R_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "n���\u0007�����"
+      "bone_weapon_01"
     ]
   },
   {
@@ -10437,10 +10496,10 @@
     "hangPoint": "h_M_HL1",
     "inOutEffect": 0,
     "weaponEffect": [
-      "q�m���y�h��8�����^{\u001ah���\u000f�֚�}�"
+      "cattle_weapon_04_L_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "n���\u0007�����"
+      "bone_weapon_02"
     ]
   },
   {
@@ -10453,10 +10512,10 @@
     "hangPoint": "h_M_HR1",
     "inOutEffect": 0,
     "weaponEffect": [
-      "q�m���y�h��9�\u001f���^{\u001ah���\u000f�֚�}�"
+      "cattle_weapon_05_R_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "n���\u0007�����"
+      "bone_weapon_02"
     ]
   },
   {
@@ -10469,10 +10528,10 @@
     "hangPoint": "h_M_HL1",
     "inOutEffect": 0,
     "weaponEffect": [
-      "q�m���y�h��9�����^{\u001ah���\u000f�֚�}�"
+      "cattle_weapon_05_L_wholeexport_rig_01.prefab"
     ],
     "weaponEffectPoint": [
-      "n���\u0007�����"
+      "bone_weapon_01"
     ]
   },
   {
@@ -10533,7 +10592,7 @@
     "hangPoint": "h_M_HR1",
     "inOutEffect": 0,
     "weaponEffect": [
-      "¯���\u0007����ӏ��Mi���"
+      "wq_queen_weapon_04_R_01.prefab"
     ],
     "weaponEffectPoint": []
   },
@@ -10547,7 +10606,7 @@
     "hangPoint": "h_M_HL1",
     "inOutEffect": 0,
     "weaponEffect": [
-      "¯���\u0007����ӏ��Mi���"
+      "wq_queen_weapon_04_L_01.prefab"
     ],
     "weaponEffectPoint": []
   },
@@ -10561,7 +10620,7 @@
     "hangPoint": "h_M_HR1",
     "inOutEffect": 0,
     "weaponEffect": [
-      "¯���\u0007����ӟ��Zky��"
+      "wq_queen_weapon_05_R_1.prefab"
     ],
     "weaponEffectPoint": []
   },
@@ -10575,7 +10634,7 @@
     "hangPoint": "h_M_HL1",
     "inOutEffect": 0,
     "weaponEffect": [
-      "¯���\u0007����ӟ��Zky��"
+      "wq_queen_weapon_05_L_1.prefab"
     ],
     "weaponEffectPoint": []
   }

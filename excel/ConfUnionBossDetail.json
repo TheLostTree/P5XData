@@ -6,37 +6,70 @@
     "difficultyLevel": 5,
     "instSn": 73011,
     "guaiwuSn": [
-      0
+      730111,
+      730121,
+      730131,
+      730141
     ],
     "weakSn": [
-      0
+      730112,
+      730122,
+      730132,
+      730142,
+      730152
     ],
     "weakRound": [
-      0
+      2
     ],
     "weakFactor": [
       [
-        0
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
       ]
     ],
     "difficultFactor": [
-      0
+      1,
+      1.5,
+      2,
+      3,
+      4
     ],
     "killedScore": [
-      0
+      50000,
+      100000,
+      150000,
+      200000,
+      250000
     ],
     "desc": "战斗中造成一定伤害后BOSS会进入下一阶段并虚弱，虚弱期持续2回合，无法反击同时受到伤害大量提升。",
     "bossCard": "B-guaiwutouxiang-dominion.png",
     "bossModel": "dominion",
     "bossAnim": "fight_standby",
     "bossPosition": [
-      0
+      38.44,
+      19.13,
+      242.76
     ],
     "bossRotation": [
-      0
+      -0.875,
+      -38.15823,
+      0.669
     ],
     "bossScale": [
-      0
+      1.8,
+      1.8,
+      1.8
     ]
   },
   {
@@ -46,37 +79,67 @@
     "difficultyLevel": 5,
     "instSn": 73111,
     "guaiwuSn": [
-      0
+      731111,
+      731121,
+      731122,
+      731123,
+      731124
     ],
     "weakSn": [
-      0
+      731112
     ],
     "weakRound": [
-      0
+      2
     ],
     "weakFactor": [
       [
-        0
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
       ]
     ],
     "difficultFactor": [
-      0
+      2,
+      3,
+      4,
+      6,
+      8
     ],
     "killedScore": [
-      0
+      25000,
+      50000,
+      75000,
+      100000,
+      125000
     ],
     "desc": "战斗中造成一定伤害后BOSS会进入下一阶段并虚弱，虚弱期持续2回合，无法反击同时受到伤害大量提升。",
     "bossCard": "B-guaiwutouxiang-koryu.png",
     "bossModel": "koryu",
     "bossAnim": "fight_standby",
     "bossPosition": [
-      0
+      38.26,
+      20.57,
+      240.45
     ],
     "bossRotation": [
-      0
+      0.744,
+      -40.103,
+      -0.6033
     ],
     "bossScale": [
-      0
+      0.4,
+      0.4,
+      0.4
     ]
   },
   {
@@ -86,37 +149,75 @@
     "difficultyLevel": 5,
     "instSn": 73211,
     "guaiwuSn": [
-      0
+      732111,
+      732113,
+      732115,
+      732117
     ],
     "weakSn": [
-      0
+      732112,
+      732114,
+      732116,
+      732118
     ],
     "weakRound": [
-      0
+      2,
+      2
     ],
     "weakFactor": [
       [
-        0
+        2,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        3
       ]
     ],
     "difficultFactor": [
-      0
+      1,
+      1,
+      1,
+      1,
+      1
     ],
     "killedScore": [
-      0
+      50000,
+      100000,
+      150000,
+      200000,
+      250000
     ],
     "desc": "战斗中造成一定伤害后BOSS会进入下一阶段并虚弱，虚弱期持续2回合，无法反击同时受到伤害大量提升。",
     "bossCard": "B-guaiwutouxiang-oberon.png",
     "bossModel": "oberon",
     "bossAnim": "fight_standby",
     "bossPosition": [
-      0
+      38.4,
+      17.8,
+      241.98
     ],
     "bossRotation": [
-      0
+      9.15,
+      -16.414,
+      -7.287
     ],
     "bossScale": [
-      0
+      2,
+      2,
+      2
     ]
   },
   {
@@ -126,37 +227,64 @@
     "difficultyLevel": 5,
     "instSn": 73311,
     "guaiwuSn": [
-      0
+      733111
     ],
     "weakSn": [
-      0
+      733112,
+      733121
     ],
     "weakRound": [
-      0
+      2
     ],
     "weakFactor": [
       [
-        0
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
       ]
     ],
     "difficultFactor": [
-      0
+      2,
+      3,
+      4,
+      6,
+      8
     ],
     "killedScore": [
-      0
+      25000,
+      50000,
+      75000,
+      100000,
+      125000
     ],
     "desc": "战斗中造成一定伤害后BOSS会进入下一阶段并虚弱，虚弱期持续2回合，无法反击同时受到伤害大量提升。",
     "bossCard": "B-guaiwutouxiang-surtr.png",
     "bossModel": "surtr",
     "bossAnim": "fight_standby",
     "bossPosition": [
-      0
+      39.23,
+      18.99,
+      241.81
     ],
     "bossRotation": [
-      0
+      3.3649,
+      -29.849,
+      2.461
     ],
     "bossScale": [
-      0
+      1,
+      1,
+      1
     ]
   },
   {
@@ -166,37 +294,68 @@
     "difficultyLevel": 5,
     "instSn": 73411,
     "guaiwuSn": [
-      0
+      734111,
+      734121,
+      734122,
+      734123,
+      734124
     ],
     "weakSn": [
-      0
+      734112,
+      734131
     ],
     "weakRound": [
-      0
+      2
     ],
     "weakFactor": [
       [
-        0
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
       ]
     ],
     "difficultFactor": [
-      0
+      1,
+      1.5,
+      2,
+      3,
+      4
     ],
     "killedScore": [
-      0
+      50000,
+      100000,
+      150000,
+      200000,
+      250000
     ],
     "desc": "战斗中造成一定伤害后BOSS会进入下一阶段并虚弱，虚弱期持续2回合，无法反击同时受到伤害大量提升。",
     "bossCard": "B-guaiwutouxiang-vishnu.png",
     "bossModel": "vishnu",
     "bossAnim": "fight_standby",
     "bossPosition": [
-      0
+      38.427,
+      18.961,
+      242.182
     ],
     "bossRotation": [
-      0
+      9.15,
+      -16.414,
+      -7.286
     ],
     "bossScale": [
-      0
+      1.2,
+      1.2,
+      1.2
     ]
   },
   {
@@ -206,37 +365,63 @@
     "difficultyLevel": 5,
     "instSn": 73511,
     "guaiwuSn": [
-      0
+      735111
     ],
     "weakSn": [
-      0
+      735112
     ],
     "weakRound": [
-      0
+      2
     ],
     "weakFactor": [
       [
-        0
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        2
       ]
     ],
     "difficultFactor": [
-      0
+      2,
+      3,
+      4,
+      6,
+      8
     ],
     "killedScore": [
-      0
+      25000,
+      50000,
+      75000,
+      100000,
+      125000
     ],
     "desc": "战斗中造成一定伤害后BOSS会进入下一阶段并虚弱，虚弱期持续2回合，无法反击同时受到伤害大量提升。",
     "bossCard": "B-guaiwutouxiang-atabaku.png",
     "bossModel": "atabaku",
     "bossAnim": "fight_standby",
     "bossPosition": [
-      0
+      38.56,
+      19.07,
+      242.76
     ],
     "bossRotation": [
-      0
+      -0.875,
+      -38.158,
+      0.669
     ],
     "bossScale": [
-      0
+      1.5,
+      1.5,
+      1.5
     ]
   }
 ]

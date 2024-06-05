@@ -2,50 +2,60 @@
   {
     "sn": 1,
     "valueRange": [
-      0
+      1,
+      20
     ],
     "time": [
-      0
+      2,
+      40
     ],
     "strength": 1
   },
   {
     "sn": 2,
     "valueRange": [
-      0
+      20,
+      40
     ],
     "time": [
-      0
+      2,
+      35
     ],
     "strength": 2
   },
   {
     "sn": 3,
     "valueRange": [
-      0
+      40,
+      60
     ],
     "time": [
-      0
+      2,
+      20
     ],
     "strength": 3
   },
   {
     "sn": 4,
     "valueRange": [
-      0
+      60,
+      80
     ],
     "time": [
-      0
+      2,
+      20
     ],
     "strength": 4
   },
   {
     "sn": 5,
     "valueRange": [
-      0
+      80,
+      100
     ],
     "time": [
-      0
+      2,
+      10
     ],
     "strength": 5
   }

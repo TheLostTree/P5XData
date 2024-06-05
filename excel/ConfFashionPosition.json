@@ -7,14 +7,16 @@
     "savePose": "",
     "isDress": 1,
     "defaultFashion": [
-      0
+      700007,
+      700008,
+      700009
     ],
     "sort": 0
   },
   {
     "sn": 2,
     "fashionType": [
-      0
+      1
     ],
     "typeName": "上装",
     "typeIcon": "yigui-youyeqian2-i18n.png",
@@ -66,7 +68,7 @@
   {
     "sn": 7,
     "fashionType": [
-      0
+      1
     ],
     "typeName": "包",
     "typeIcon": "yigui-youyeqian6-i18n.png",
@@ -93,14 +95,16 @@
     "savePose": "",
     "isDress": 1,
     "defaultFashion": [
-      0
+      700004,
+      700005,
+      700006
     ],
     "sort": 0
   },
   {
     "sn": 11,
     "fashionType": [
-      0
+      1
     ],
     "typeName": "下装",
     "typeIcon": "yigui-youyeqian3-i18n.png",
@@ -112,21 +116,23 @@
   {
     "sn": 12,
     "fashionType": [
-      0
+      1
     ],
     "typeName": "手饰",
     "typeIcon": "yigui-youyeqian8-i18n.png",
     "savePose": "",
     "isDress": 1,
     "defaultFashion": [
-      0
+      700001,
+      700002,
+      700003
     ],
     "sort": 6
   },
   {
     "sn": 13,
     "fashionType": [
-      0
+      1
     ],
     "typeName": "鞋",
     "typeIcon": "yigui-youyeqian5-i18n.png",
@@ -138,7 +144,8 @@
   {
     "sn": 99,
     "fashionType": [
-      0
+      1,
+      2
     ],
     "typeName": "套装",
     "typeIcon": "yigui-youyeqian1-i18n.png",

@@ -5,10 +5,13 @@
     "unlockType": 0,
     "unlockParam": 0,
     "areaSn": [
-      0
+      100,
+      101,
+      102,
+      103
     ],
     "childPalace": [
-      0
+      1
     ],
     "nameWorldPic": "ditu-yishijie-sixiang-i18n.png",
     "Item": 421001,
@@ -24,10 +27,14 @@
     "unlockType": 2,
     "unlockParam": 11445,
     "areaSn": [
-      0
+      200,
+      201,
+      202,
+      203,
+      204
     ],
     "childPalace": [
-      0
+      2
     ],
     "nameWorldPic": "ditu-yishijie-hexie-i18n.png",
     "Item": 421002,

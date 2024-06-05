@@ -7,20 +7,25 @@
     "patrolType": 2,
     "patrol": "25.67,10.01,28.93",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -37,7 +42,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 5007,
@@ -51,20 +59,25 @@
     "patrolType": 2,
     "patrol": "50,10.01,28.93|50,10.01,38.93",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80914,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 1,
@@ -81,7 +94,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 5002,
     "PalaceObjectSn": 0,
@@ -95,20 +111,25 @@
     "patrolType": 1,
     "patrol": "88.54,31.917,102.9|88.54,31.917,96.13",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 1,
@@ -125,7 +146,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052003,
     "PalaceObjectSn": 41052018,
@@ -139,20 +163,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -169,7 +198,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -183,20 +215,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -213,7 +250,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -227,20 +267,25 @@
     "patrolType": 1,
     "patrol": "94.02,31.917,92.28|94.02,31.917,104.53",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 1,
@@ -257,7 +302,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052004,
     "PalaceObjectSn": 41052019,
@@ -271,20 +319,25 @@
     "patrolType": 1,
     "patrol": "74.09,31.917,90.91|66.54,31.91706,90.91|66.54,31.91706,83.58",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 1,
@@ -301,7 +354,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052005,
     "PalaceObjectSn": 41052020,
@@ -315,20 +371,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -345,7 +406,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -359,20 +423,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -389,7 +458,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -403,20 +475,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -433,7 +510,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -447,20 +527,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -477,7 +562,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -491,20 +579,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -521,7 +614,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -535,20 +631,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -565,7 +666,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -579,20 +683,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -609,7 +718,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -623,20 +735,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -653,7 +770,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -667,20 +787,25 @@
     "patrolType": 1,
     "patrol": "83.56,31.917,80.08|83.56,31.917,73.82",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 1,
@@ -697,7 +822,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052006,
     "PalaceObjectSn": 41052021,
@@ -711,20 +839,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -741,7 +874,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -755,20 +891,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -785,7 +926,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -799,20 +943,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -829,7 +978,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -843,20 +995,25 @@
     "patrolType": 2,
     "patrol": "69.031,31.917,69.04",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 80913,
     "alertLevelCondition": 0,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -873,7 +1030,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 41052015,
     "PalaceObjectSn": 41052024,
@@ -887,20 +1047,25 @@
     "patrolType": 1,
     "patrol": "69.071,31.912,69.192",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -917,7 +1082,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -931,20 +1099,25 @@
     "patrolType": 1,
     "patrol": "67.438,31.912,76.527",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -961,7 +1134,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -975,20 +1151,25 @@
     "patrolType": 1,
     "patrol": "91.447,31.917,92.282",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1005,7 +1186,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1019,20 +1203,25 @@
     "patrolType": 1,
     "patrol": "80.812,31.912,64.287",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1049,7 +1238,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1063,20 +1255,25 @@
     "patrolType": 1,
     "patrol": "75.18,31.912,64.287",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1093,7 +1290,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1107,20 +1307,25 @@
     "patrolType": 1,
     "patrol": "69.61,31.912,64.287",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1137,7 +1342,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1151,20 +1359,25 @@
     "patrolType": 1,
     "patrol": "75.204,31.912,79.682",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1181,7 +1394,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1195,20 +1411,25 @@
     "patrolType": 1,
     "patrol": "80.85,31.912,79.682",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1225,7 +1446,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1239,20 +1463,25 @@
     "patrolType": 1,
     "patrol": "70.93,31.913,92.736",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1269,7 +1498,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1283,20 +1515,25 @@
     "patrolType": 1,
     "patrol": "70.93,31.913,89.28",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1313,7 +1550,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1327,20 +1567,25 @@
     "patrolType": 1,
     "patrol": "74.38,31.913,89.28",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1357,7 +1602,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1371,20 +1619,25 @@
     "patrolType": 1,
     "patrol": "77.68,31.913,89.28",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1401,7 +1654,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1415,20 +1671,25 @@
     "patrolType": 1,
     "patrol": "77.68,31.913,92.736",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1445,7 +1706,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1459,20 +1723,25 @@
     "patrolType": 1,
     "patrol": "84.36,31.917,103.342",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1489,7 +1758,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,
@@ -1503,20 +1775,25 @@
     "patrolType": 1,
     "patrol": "88.54,31.917,103.342",
     "restTime": [
-      0
+      700,
+      1100
     ],
     "sightR": [
-      0
+      5,
+      120,
+      3
     ],
     "feelingR": [
-      0
+      3,
+      3
     ],
     "alertTime": 3000,
     "chaseR": 25,
     "battleSn": 21501,
     "alertLevelCondition": 15,
     "alertThreshold": [
-      0
+      50,
+      -40
     ],
     "canView": 0,
     "patrolWay": 3,
@@ -1533,7 +1810,10 @@
     "alwaysShow": 0,
     "colliderDetection": 1,
     "soundTag": [
-      "Z\u0018����j�\u001e�'(�ם\n\u0017��)�M��z�ڮ\u0007�.�-"
+      "Whisper",
+      "TargetScouted",
+      "ChessingTarget",
+      "TargetLost"
     ],
     "AreaAlert": 0,
     "PalaceObjectSn": 0,

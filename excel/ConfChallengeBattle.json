@@ -11,14 +11,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-genbu.png",
     "monsterShow": []
@@ -35,14 +48,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-archangel.png",
     "monsterShow": []
@@ -59,18 +85,32 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-zouchouten.png",
     "monsterShow": [
-      0
+      501032,
+      501034
     ]
   },
   {
@@ -85,14 +125,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-berith.png",
     "monsterShow": []
@@ -109,14 +162,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-nekoshogun.png",
     "monsterShow": []
@@ -133,18 +199,32 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-yatagarasu.png",
     "monsterShow": [
-      0
+      501062,
+      501064
     ]
   },
   {
@@ -159,14 +239,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-sisa.png",
     "monsterShow": []
@@ -183,14 +276,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-unicorn.png",
     "monsterShow": []
@@ -207,25 +313,39 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-jikokuten.png",
     "monsterShow": [
-      0
+      501092,
+      501094
     ]
   },
   {
     "sn": 10401,
     "instSn": 50110,
     "scoreGuaiWu": [
-      0
+      501101
     ],
     "actionNum": 5,
     "battleName": "终焉试炼上",
@@ -242,14 +362,19 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-cerberus.png",
     "monsterShow": [
-      0
+      501102,
+      501103,
+      501104,
+      501105,
+      501106,
+      501107
     ]
   },
   {
     "sn": 10402,
     "instSn": 50111,
     "scoreGuaiWu": [
-      0
+      501111
     ],
     "actionNum": 5,
     "battleName": "终焉试炼下",
@@ -266,7 +391,7 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-melchizedek.png",
     "monsterShow": [
-      0
+      501112
     ]
   },
   {
@@ -281,14 +406,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-genbu.png",
     "monsterShow": []
@@ -305,14 +443,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-archangel.png",
     "monsterShow": []
@@ -329,18 +480,32 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-zouchouten.png",
     "monsterShow": [
-      0
+      501032,
+      501034
     ]
   },
   {
@@ -355,14 +520,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-berith.png",
     "monsterShow": []
@@ -379,14 +557,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-nekoshogun.png",
     "monsterShow": []
@@ -403,18 +594,32 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-yatagarasu.png",
     "monsterShow": [
-      0
+      501062,
+      501064
     ]
   },
   {
@@ -429,14 +634,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-sisa.png",
     "monsterShow": []
@@ -453,14 +671,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-unicorn.png",
     "monsterShow": []
@@ -477,25 +708,39 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-jikokuten.png",
     "monsterShow": [
-      0
+      501092,
+      501094
     ]
   },
   {
     "sn": 11401,
     "instSn": 50110,
     "scoreGuaiWu": [
-      0
+      501101
     ],
     "actionNum": 5,
     "battleName": "终焉试炼上",
@@ -512,14 +757,19 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-cerberus.png",
     "monsterShow": [
-      0
+      501102,
+      501103,
+      501104,
+      501105,
+      501106,
+      501107
     ]
   },
   {
     "sn": 11402,
     "instSn": 50111,
     "scoreGuaiWu": [
-      0
+      501111
     ],
     "actionNum": 5,
     "battleName": "终焉试炼下",
@@ -536,7 +786,7 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-melchizedek.png",
     "monsterShow": [
-      0
+      501112
     ]
   },
   {
@@ -551,14 +801,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-sisa.png",
     "monsterShow": []
@@ -575,14 +838,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-unicorn.png",
     "monsterShow": []
@@ -599,18 +875,32 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-daisoujou.png",
     "monsterShow": [
-      0
+      502032,
+      502034
     ]
   },
   {
@@ -625,14 +915,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-apsaras.png",
     "monsterShow": []
@@ -649,14 +952,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-leanan_sidhe.png",
     "monsterShow": []
@@ -673,18 +989,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-byako.png",
     "monsterShow": [
-      0
+      502062
     ]
   },
   {
@@ -699,18 +1028,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-erigor.png",
     "monsterShow": [
-      0
+      502072
     ]
   },
   {
@@ -725,18 +1067,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-fuuki.png",
     "monsterShow": [
-      0
+      502082
     ]
   },
   {
@@ -751,25 +1106,38 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-lachesis.png",
     "monsterShow": [
-      0
+      502092
     ]
   },
   {
     "sn": 21401,
     "instSn": 50210,
     "scoreGuaiWu": [
-      0
+      502101
     ],
     "actionNum": 7,
     "battleName": "终焉试炼上",
@@ -786,14 +1154,15 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-zaougongen.png",
     "monsterShow": [
-      0
+      502102
     ]
   },
   {
     "sn": 21402,
     "instSn": 50211,
     "scoreGuaiWu": [
-      0
+      502111,
+      502112
     ],
     "actionNum": 9,
     "battleName": "终焉试炼下",
@@ -810,7 +1179,7 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-oberon.png",
     "monsterShow": [
-      0
+      502113
     ]
   },
   {
@@ -825,14 +1194,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-sisa.png",
     "monsterShow": []
@@ -849,14 +1231,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-unicorn.png",
     "monsterShow": []
@@ -873,18 +1268,32 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-daisoujou.png",
     "monsterShow": [
-      0
+      502032,
+      502034
     ]
   },
   {
@@ -899,14 +1308,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-apsaras.png",
     "monsterShow": []
@@ -923,14 +1345,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-leanan_sidhe.png",
     "monsterShow": []
@@ -947,18 +1382,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-byako.png",
     "monsterShow": [
-      0
+      502062
     ]
   },
   {
@@ -973,18 +1421,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-erigor.png",
     "monsterShow": [
-      0
+      502072
     ]
   },
   {
@@ -999,18 +1460,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-fuuki.png",
     "monsterShow": [
-      0
+      502082
     ]
   },
   {
@@ -1025,25 +1499,38 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        42
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        30
       ]
     ],
     "starDesc": [
-      "�m��"
+      "42回合内取得胜利",
+      "36回合内取得胜利",
+      "30回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-lachesis.png",
     "monsterShow": [
-      0
+      502092
     ]
   },
   {
     "sn": 22401,
     "instSn": 50210,
     "scoreGuaiWu": [
-      0
+      502101
     ],
     "actionNum": 7,
     "battleName": "终焉试炼上",
@@ -1060,14 +1547,15 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-zaougongen.png",
     "monsterShow": [
-      0
+      502102
     ]
   },
   {
     "sn": 22402,
     "instSn": 50211,
     "scoreGuaiWu": [
-      0
+      502111,
+      502112
     ],
     "actionNum": 9,
     "battleName": "终焉试炼下",
@@ -1084,7 +1572,7 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-oberon.png",
     "monsterShow": [
-      0
+      502113
     ]
   },
   {
@@ -1099,14 +1587,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-genbu.png",
     "monsterShow": []
@@ -1123,14 +1624,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-archangel.png",
     "monsterShow": []
@@ -1147,18 +1661,32 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-zouchouten.png",
     "monsterShow": [
-      0
+      503032,
+      503034
     ]
   },
   {
@@ -1173,14 +1701,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-jackfrost.png",
     "monsterShow": []
@@ -1197,14 +1738,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-leanan_sidhe.png",
     "monsterShow": []
@@ -1221,18 +1775,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-whiterider.png",
     "monsterShow": [
-      0
+      503062
     ]
   },
   {
@@ -1247,18 +1814,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-blackrider.png",
     "monsterShow": [
-      0
+      503072
     ]
   },
   {
@@ -1273,18 +1853,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-redrider.png",
     "monsterShow": [
-      0
+      503082
     ]
   },
   {
@@ -1299,25 +1892,38 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      3000,
+      3000,
+      5000
     ],
     "monsterHead": "B-guaiwutouxiang-palerider.png",
     "monsterShow": [
-      0
+      503092
     ]
   },
   {
     "sn": 31401,
     "instSn": 50310,
     "scoreGuaiWu": [
-      0
+      503101
     ],
     "actionNum": 5,
     "battleName": "终焉试炼上",
@@ -1334,14 +1940,14 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-baphomet.png",
     "monsterShow": [
-      0
+      503102
     ]
   },
   {
     "sn": 31402,
     "instSn": 50311,
     "scoreGuaiWu": [
-      0
+      503111
     ],
     "actionNum": 7,
     "battleName": "终焉试炼下",
@@ -1358,7 +1964,7 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-zaougongen.png",
     "monsterShow": [
-      0
+      503112
     ]
   },
   {
@@ -1373,14 +1979,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-genbu.png",
     "monsterShow": []
@@ -1397,14 +2016,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-archangel.png",
     "monsterShow": []
@@ -1421,18 +2053,32 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-zouchouten.png",
     "monsterShow": [
-      0
+      503032,
+      503034
     ]
   },
   {
@@ -1447,14 +2093,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-jackfrost.png",
     "monsterShow": []
@@ -1471,14 +2130,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-leanan_sidhe.png",
     "monsterShow": []
@@ -1495,18 +2167,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-whiterider.png",
     "monsterShow": [
-      0
+      503062
     ]
   },
   {
@@ -1521,18 +2206,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-blackrider.png",
     "monsterShow": [
-      0
+      503072
     ]
   },
   {
@@ -1547,18 +2245,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-redrider.png",
     "monsterShow": [
-      0
+      503082
     ]
   },
   {
@@ -1573,25 +2284,38 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      6000,
+      6000,
+      10000
     ],
     "monsterHead": "B-guaiwutouxiang-palerider.png",
     "monsterShow": [
-      0
+      503092
     ]
   },
   {
     "sn": 32401,
     "instSn": 50310,
     "scoreGuaiWu": [
-      0
+      503101
     ],
     "actionNum": 5,
     "battleName": "终焉试炼上",
@@ -1608,14 +2332,14 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-baphomet.png",
     "monsterShow": [
-      0
+      503102
     ]
   },
   {
     "sn": 32402,
     "instSn": 50311,
     "scoreGuaiWu": [
-      0
+      503111
     ],
     "actionNum": 7,
     "battleName": "终焉试炼下",
@@ -1632,7 +2356,7 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-zaougongen.png",
     "monsterShow": [
-      0
+      503112
     ]
   },
   {
@@ -1647,14 +2371,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      9000,
+      9000,
+      15000
     ],
     "monsterHead": "B-guaiwutouxiang-genbu.png",
     "monsterShow": []
@@ -1671,14 +2408,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      9000,
+      9000,
+      15000
     ],
     "monsterHead": "B-guaiwutouxiang-archangel.png",
     "monsterShow": []
@@ -1695,18 +2445,32 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      9000,
+      9000,
+      15000
     ],
     "monsterHead": "B-guaiwutouxiang-zouchouten.png",
     "monsterShow": [
-      0
+      503032,
+      503034
     ]
   },
   {
@@ -1721,14 +2485,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      9000,
+      9000,
+      15000
     ],
     "monsterHead": "B-guaiwutouxiang-jackfrost.png",
     "monsterShow": []
@@ -1745,14 +2522,27 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        33
+      ],
+      [
+        1,
+        26
+      ],
+      [
+        1,
+        20
       ]
     ],
     "starDesc": [
-      "�}��"
+      "33回合内取得胜利",
+      "26回合内取得胜利",
+      "20回合内取得胜利"
     ],
     "starScore": [
-      0
+      9000,
+      9000,
+      15000
     ],
     "monsterHead": "B-guaiwutouxiang-leanan_sidhe.png",
     "monsterShow": []
@@ -1769,18 +2559,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      9000,
+      9000,
+      15000
     ],
     "monsterHead": "B-guaiwutouxiang-whiterider.png",
     "monsterShow": [
-      0
+      503062
     ]
   },
   {
@@ -1795,18 +2598,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      9000,
+      9000,
+      15000
     ],
     "monsterHead": "B-guaiwutouxiang-blackrider.png",
     "monsterShow": [
-      0
+      503072
     ]
   },
   {
@@ -1821,18 +2637,31 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      9000,
+      9000,
+      15000
     ],
     "monsterHead": "B-guaiwutouxiang-redrider.png",
     "monsterShow": [
-      0
+      503082
     ]
   },
   {
@@ -1847,25 +2676,38 @@
     "maxStars": 3,
     "starEvents": [
       [
-        0
+        1,
+        39
+      ],
+      [
+        1,
+        33
+      ],
+      [
+        1,
+        26
       ]
     ],
     "starDesc": [
-      "����"
+      "39回合内取得胜利",
+      "33回合内取得胜利",
+      "26回合内取得胜利"
     ],
     "starScore": [
-      0
+      9000,
+      9000,
+      15000
     ],
     "monsterHead": "B-guaiwutouxiang-palerider.png",
     "monsterShow": [
-      0
+      503092
     ]
   },
   {
     "sn": 33401,
     "instSn": 50310,
     "scoreGuaiWu": [
-      0
+      503101
     ],
     "actionNum": 5,
     "battleName": "终焉试炼上",
@@ -1882,14 +2724,14 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-baphomet.png",
     "monsterShow": [
-      0
+      503102
     ]
   },
   {
     "sn": 33402,
     "instSn": 50311,
     "scoreGuaiWu": [
-      0
+      503111
     ],
     "actionNum": 7,
     "battleName": "终焉试炼下",
@@ -1906,7 +2748,7 @@
     "starScore": [],
     "monsterHead": "B-guaiwutouxiang-zaougongen.png",
     "monsterShow": [
-      0
+      503112
     ]
   }
 ]

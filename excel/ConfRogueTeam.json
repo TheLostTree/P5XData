@@ -3,7 +3,8 @@
     "sn": 1001,
     "name": "无限制",
     "Condition": [
-      0
+      98,
+      99
     ],
     "motifSn": 1,
     "difficulty": 1,
@@ -20,7 +21,8 @@
     "sn": 1002,
     "name": "咒属性阵容",
     "Condition": [
-      0
+      11,
+      99
     ],
     "motifSn": 1,
     "difficulty": 2,
@@ -37,7 +39,8 @@
     "sn": 1003,
     "name": "电属性阵容",
     "Condition": [
-      0
+      12,
+      99
     ],
     "motifSn": 1,
     "difficulty": 2,
@@ -54,7 +57,8 @@
     "sn": 1004,
     "name": "冰属性阵容",
     "Condition": [
-      0
+      13,
+      99
     ],
     "motifSn": 1,
     "difficulty": 3,
@@ -71,7 +75,8 @@
     "sn": 1005,
     "name": "火属性阵容",
     "Condition": [
-      0
+      14,
+      99
     ],
     "motifSn": 1,
     "difficulty": 3,

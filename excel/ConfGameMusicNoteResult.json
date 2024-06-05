@@ -4,10 +4,12 @@
     "score": 200,
     "feverScore": 2,
     "noteTimeEasy": [
-      0
+      -150,
+      50
     ],
     "noteTime": [
-      0
+      -120,
+      50
     ],
     "effect": "Music_game_prefect.prefab"
   },
@@ -16,10 +18,12 @@
     "score": 100,
     "feverScore": 1,
     "noteTimeEasy": [
-      0
+      -300,
+      100
     ],
     "noteTime": [
-      0
+      -240,
+      80
     ],
     "effect": "Music_game_great.prefab"
   },
@@ -28,10 +32,12 @@
     "score": 50,
     "feverScore": 0,
     "noteTimeEasy": [
-      0
+      -500,
+      150
     ],
     "noteTime": [
-      0
+      -500,
+      150
     ],
     "effect": "Music_game_good.prefab"
   },
@@ -40,10 +46,12 @@
     "score": 0,
     "feverScore": 0,
     "noteTimeEasy": [
-      0
+      -600,
+      150
     ],
     "noteTime": [
-      0
+      -600,
+      150
     ],
     "effect": "Music_game_miss.prefab"
   }

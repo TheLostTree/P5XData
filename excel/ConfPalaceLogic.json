@@ -16,11 +16,29 @@
     "unlockParam": 0,
     "brokenQuest": 11075,
     "childPalace": [
-      0
+      100,
+      101,
+      102,
+      105,
+      107,
+      104,
+      106
     ],
     "awardShow": [
       [
-        "�+!�8��'(��bj�.j/�j/�{\ng���+}5�N��b�'���'�\u0018��\u000b���ڋ���⯗�Mt�̢�\u0018���r���&�������w��x8����]4"
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-击球手",
+        "301007"
+      ],
+      [
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-贩售员",
+        "301008"
+      ],
+      [
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-安保员",
+        "301009"
       ]
     ],
     "shading": "yishijie-yinxiangkongjian-01.png",
@@ -34,7 +52,10 @@
     "trainModel": "scni46_thing_huoche01",
     "trainEffect": "clb03_yinhang_shanliang_06.prefab",
     "changeBGMMission": [
-      0
+      11051,
+      11052,
+      11053,
+      11054
     ],
     "palaceGroup": 0,
     "lockPic": ""
@@ -56,11 +77,33 @@
     "unlockParam": 11515,
     "brokenQuest": 11907,
     "childPalace": [
-      0
+      200,
+      201,
+      202,
+      210,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226
     ],
     "awardShow": [
       [
-        "�+!�8��'(��bj�.j/�j/�{\ng����]t�l��\u0018���r���&�������w��x8����Mw�+!�8��'(��bj�.j/�j/�{\ng����]t�"
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-足轻",
+        "311012"
+      ],
+      [
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-忍者",
+        "311013"
+      ],
+      [
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-将军",
+        "311014"
       ]
     ],
     "shading": "",
@@ -74,7 +117,7 @@
     "trainModel": "scni46_thing_huoche01 (1)",
     "trainEffect": "clb03_yinhang_shanliang_07.prefab",
     "changeBGMMission": [
-      0
+      11903
     ],
     "palaceGroup": 0,
     "lockPic": ""

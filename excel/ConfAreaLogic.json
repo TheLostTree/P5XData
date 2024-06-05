@@ -130,7 +130,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10001
     ],
     "IsAreaLogicClose": 0
   },
@@ -360,7 +360,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10004
     ],
     "IsAreaLogicClose": 0
   },
@@ -875,7 +875,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10003
     ],
     "IsAreaLogicClose": 0
   },
@@ -903,7 +903,7 @@
     "areaSn": 155,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "",
@@ -1067,7 +1067,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10004
     ],
     "IsAreaLogicClose": 0
   },
@@ -1088,7 +1088,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10004
     ],
     "IsAreaLogicClose": 0
   },
@@ -1109,7 +1109,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10004
     ],
     "IsAreaLogicClose": 0
   },
@@ -1130,7 +1130,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10004
     ],
     "IsAreaLogicClose": 0
   },
@@ -1151,7 +1151,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10004
     ],
     "IsAreaLogicClose": 0
   },
@@ -1172,7 +1172,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10004
     ],
     "IsAreaLogicClose": 0
   },
@@ -1276,7 +1276,7 @@
     "areaSn": 175,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 8,
     "triggerParamIn": "",
@@ -1333,7 +1333,7 @@
     "areaSn": 178,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 8,
     "triggerParamIn": "TL_Joker_taizizhuanshen",
@@ -1732,7 +1732,7 @@
     "areaSn": 238,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "UI_DialogView,2106010",
@@ -1820,7 +1820,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10002
     ],
     "IsAreaLogicClose": 0
   },
@@ -1867,6 +1867,7 @@
     "areaSn": 245,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -1981,7 +1982,7 @@
     "areaSn": 254,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,200",
@@ -2000,7 +2001,7 @@
     "areaSn": 255,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,270",
@@ -2190,7 +2191,7 @@
     "areaSn": 265,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -2209,7 +2210,7 @@
     "areaSn": 266,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -2228,7 +2229,7 @@
     "areaSn": 267,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -2247,7 +2248,7 @@
     "areaSn": 268,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,352",
@@ -2266,7 +2267,7 @@
     "areaSn": 269,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -2285,6 +2286,7 @@
     "areaSn": 270,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -2304,7 +2306,7 @@
     "areaSn": 272,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -2323,7 +2325,7 @@
     "areaSn": 277,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -2342,7 +2344,7 @@
     "areaSn": 280,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -3501,7 +3503,7 @@
     "areaSn": 5411,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -3520,7 +3522,7 @@
     "areaSn": 5412,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -4470,7 +4472,7 @@
     "areaSn": 60034,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,DL600301",
@@ -4527,7 +4529,7 @@
     "areaSn": 60043,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,DL600401",
@@ -4603,7 +4605,7 @@
     "areaSn": 60054,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,DL600501",
@@ -4679,7 +4681,7 @@
     "areaSn": 60064,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,DL600601",
@@ -5230,7 +5232,7 @@
     "areaSn": 60145,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,6014002",
@@ -7548,7 +7550,7 @@
     "areaSn": 72003,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,11010",
@@ -7928,6 +7930,7 @@
     "areaSn": 273300,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -8156,6 +8159,7 @@
     "areaSn": 281101,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -9106,6 +9110,7 @@
     "areaSn": 2102211,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -9125,6 +9130,7 @@
     "areaSn": 2102212,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -9144,6 +9150,7 @@
     "areaSn": 2102213,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -9163,6 +9170,7 @@
     "areaSn": 2102214,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -9220,6 +9228,7 @@
     "areaSn": 2102300,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 11,
@@ -9239,6 +9248,7 @@
     "areaSn": 2102301,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 11,
@@ -9505,6 +9515,7 @@
     "areaSn": 2130001,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -9524,6 +9535,7 @@
     "areaSn": 2130002,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -9828,6 +9840,7 @@
     "areaSn": 4000011,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -9847,6 +9860,7 @@
     "areaSn": 4000012,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -11082,7 +11096,7 @@
     "areaSn": 5502929,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3798865",
@@ -11139,7 +11153,7 @@
     "areaSn": 5502933,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "80013",
@@ -11519,7 +11533,7 @@
     "areaSn": 5504101,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "80012",
@@ -11576,7 +11590,7 @@
     "areaSn": 5504105,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910714",
@@ -11614,7 +11628,7 @@
     "areaSn": 5504107,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "900010",
@@ -11690,7 +11704,7 @@
     "areaSn": 5504918,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ5504918",
@@ -11709,7 +11723,7 @@
     "areaSn": 5504919,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "80006",
@@ -11728,7 +11742,7 @@
     "areaSn": 5504920,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ5504920",
@@ -11747,7 +11761,7 @@
     "areaSn": 5504921,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ5504921",
@@ -12184,7 +12198,7 @@
     "areaSn": 5505020,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910712",
@@ -12241,7 +12255,7 @@
     "areaSn": 5505102,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910714",
@@ -12887,7 +12901,7 @@
     "areaSn": 5506034,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910712",
@@ -12925,7 +12939,7 @@
     "areaSn": 5506036,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ5504921",
@@ -12944,7 +12958,7 @@
     "areaSn": 5506100,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910714",
@@ -12963,7 +12977,7 @@
     "areaSn": 5506101,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3798864",
@@ -12982,7 +12996,7 @@
     "areaSn": 5506215,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "80010",
@@ -13039,7 +13053,7 @@
     "areaSn": 5510007,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "80007",
@@ -13058,7 +13072,7 @@
     "areaSn": 5510008,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "80008",
@@ -13077,7 +13091,7 @@
     "areaSn": 5510009,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ5510007",
@@ -13096,7 +13110,7 @@
     "areaSn": 5510012,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -13115,7 +13129,7 @@
     "areaSn": 5510017,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "80014",
@@ -13172,7 +13186,7 @@
     "areaSn": 5511101,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910714",
@@ -13856,7 +13870,7 @@
     "areaSn": 5512100,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910714",
@@ -13875,7 +13889,7 @@
     "areaSn": 5513100,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910714",
@@ -13894,7 +13908,7 @@
     "areaSn": 5514001,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910714",
@@ -13913,7 +13927,7 @@
     "areaSn": 5514014,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ5510013",
@@ -13932,7 +13946,7 @@
     "areaSn": 5514015,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ5510013",
@@ -13970,7 +13984,7 @@
     "areaSn": 5520014,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910714",
@@ -14084,6 +14098,7 @@
     "areaSn": 5600006,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -14141,7 +14156,7 @@
     "areaSn": 5600009,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage301250",
@@ -14160,7 +14175,7 @@
     "areaSn": 5600010,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage301260",
@@ -14179,7 +14194,7 @@
     "areaSn": 5600011,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage301240",
@@ -14198,7 +14213,7 @@
     "areaSn": 5600012,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage301230",
@@ -14236,7 +14251,7 @@
     "areaSn": 5600014,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -14445,7 +14460,7 @@
     "areaSn": 6202001,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage301260",
@@ -14464,7 +14479,7 @@
     "areaSn": 6202002,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage6202001",
@@ -14730,7 +14745,7 @@
     "areaSn": 6317001,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "80002",
@@ -15300,6 +15315,7 @@
     "areaSn": 6317031,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -15452,6 +15468,7 @@
     "areaSn": 7301006,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -15509,7 +15526,7 @@
     "areaSn": 7301009,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage301250",
@@ -15528,7 +15545,7 @@
     "areaSn": 7301010,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage301260",
@@ -15547,7 +15564,7 @@
     "areaSn": 7301011,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage301240",
@@ -15566,7 +15583,7 @@
     "areaSn": 7301012,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage301230",
@@ -15585,7 +15602,7 @@
     "areaSn": 7301014,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -16022,7 +16039,7 @@
     "areaSn": 7302022,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage302209",
@@ -16060,7 +16077,7 @@
     "areaSn": 7302024,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage302207",
@@ -16079,7 +16096,7 @@
     "areaSn": 7302025,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,Stage302214",
@@ -16269,7 +16286,8 @@
     "areaSn": 8300010,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      0,
+      1
     ],
     "triggerActIn": 23,
     "triggerParamIn": "0",
@@ -16288,7 +16306,8 @@
     "areaSn": 8300011,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      0,
+      1
     ],
     "triggerActIn": 23,
     "triggerParamIn": "0",
@@ -16300,7 +16319,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10280
     ],
     "IsAreaLogicClose": 0
   },
@@ -16689,7 +16708,7 @@
     "areaSn": 8301045,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3801024",
@@ -16796,7 +16815,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10310
     ],
     "IsAreaLogicClose": 0
   },
@@ -16843,7 +16862,7 @@
     "areaSn": 8301103,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 2,
     "triggerParamIn": "ziyou01,43,0.4",
@@ -16855,7 +16874,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10330
     ],
     "IsAreaLogicClose": 0
   },
@@ -17035,7 +17054,7 @@
     "areaSn": 8301112,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3801025",
@@ -17047,7 +17066,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10400
     ],
     "IsAreaLogicClose": 0
   },
@@ -18322,7 +18341,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10421
     ],
     "IsAreaLogicClose": 0
   },
@@ -19091,7 +19110,7 @@
     "areaSn": 8306002,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3801146",
@@ -19224,7 +19243,7 @@
     "areaSn": 8306032,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3801208",
@@ -21086,7 +21105,7 @@
     "areaSn": 8311105,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3802050",
@@ -21098,7 +21117,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10727
     ],
     "IsAreaLogicClose": 0
   },
@@ -21221,6 +21240,7 @@
     "areaSn": 8311198,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -21240,6 +21260,7 @@
     "areaSn": 8311199,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -21487,6 +21508,7 @@
     "areaSn": 8311209,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -21620,6 +21642,7 @@
     "areaSn": 8312098,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -21639,6 +21662,7 @@
     "areaSn": 8312099,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -21810,6 +21834,7 @@
     "areaSn": 8312109,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -21867,7 +21892,7 @@
     "areaSn": 8312155,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3802055",
@@ -21879,7 +21904,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10741
     ],
     "IsAreaLogicClose": 0
   },
@@ -21888,6 +21913,7 @@
     "areaSn": 8312248,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -21907,6 +21933,7 @@
     "areaSn": 8312249,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -21983,7 +22010,7 @@
     "areaSn": 8312254,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      93
     ],
     "triggerActIn": 4,
     "triggerParamIn": "jump04,jump07,jump01",
@@ -22078,6 +22105,7 @@
     "areaSn": 8312259,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -22591,6 +22619,7 @@
     "areaSn": 8312325,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -22686,7 +22715,7 @@
     "areaSn": 8312355,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3802095",
@@ -22698,7 +22727,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10728
     ],
     "IsAreaLogicClose": 0
   },
@@ -22726,7 +22755,7 @@
     "areaSn": 8312356,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3802097",
@@ -22738,7 +22767,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10729
     ],
     "IsAreaLogicClose": 0
   },
@@ -22747,6 +22776,7 @@
     "areaSn": 8313198,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -22766,6 +22796,7 @@
     "areaSn": 8313199,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -23032,6 +23063,7 @@
     "areaSn": 8313249,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -23412,7 +23444,7 @@
     "areaSn": 8331043,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3809233",
@@ -23424,7 +23456,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10993
     ],
     "IsAreaLogicClose": 0
   },
@@ -24338,7 +24370,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10850
     ],
     "IsAreaLogicClose": 0
   },
@@ -24359,7 +24391,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10860
     ],
     "IsAreaLogicClose": 0
   },
@@ -24380,7 +24412,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10861
     ],
     "IsAreaLogicClose": 0
   },
@@ -24401,7 +24433,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10880
     ],
     "IsAreaLogicClose": 0
   },
@@ -24422,7 +24454,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10860
     ],
     "IsAreaLogicClose": 0
   },
@@ -24443,7 +24475,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10861
     ],
     "IsAreaLogicClose": 0
   },
@@ -24464,7 +24496,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10880
     ],
     "IsAreaLogicClose": 0
   },
@@ -24485,7 +24517,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10860
     ],
     "IsAreaLogicClose": 0
   },
@@ -24506,7 +24538,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10861
     ],
     "IsAreaLogicClose": 0
   },
@@ -24527,7 +24559,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10880
     ],
     "IsAreaLogicClose": 0
   },
@@ -24548,7 +24580,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10860
     ],
     "IsAreaLogicClose": 0
   },
@@ -24569,7 +24601,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10861
     ],
     "IsAreaLogicClose": 0
   },
@@ -24590,7 +24622,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10880
     ],
     "IsAreaLogicClose": 0
   },
@@ -24979,6 +25011,7 @@
     "areaSn": 8332053,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -24991,7 +25024,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10970
     ],
     "IsAreaLogicClose": 0
   },
@@ -25012,7 +25045,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10970
     ],
     "IsAreaLogicClose": 0
   },
@@ -25116,7 +25149,7 @@
     "areaSn": 8336010,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3809120",
@@ -25135,7 +25168,7 @@
     "areaSn": 8336011,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3809122",
@@ -25185,7 +25218,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10780
     ],
     "IsAreaLogicClose": 0
   },
@@ -25301,7 +25334,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10830
     ],
     "IsAreaLogicClose": 0
   },
@@ -25322,7 +25355,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10830
     ],
     "IsAreaLogicClose": 0
   },
@@ -25343,7 +25376,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10830
     ],
     "IsAreaLogicClose": 0
   },
@@ -25352,7 +25385,7 @@
     "areaSn": 8336045,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3809150",
@@ -25409,7 +25442,7 @@
     "areaSn": 8336057,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 2,
     "triggerParamIn": "ziyou01,0,0.37",
@@ -25421,7 +25454,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10891
     ],
     "IsAreaLogicClose": 0
   },
@@ -25430,7 +25463,7 @@
     "areaSn": 8336057,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3910680",
@@ -25442,7 +25475,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10891
     ],
     "IsAreaLogicClose": 0
   },
@@ -25508,7 +25541,7 @@
     "areaSn": 8336060,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3809175",
@@ -25786,7 +25819,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10911
     ],
     "IsAreaLogicClose": 0
   },
@@ -25807,7 +25840,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10911
     ],
     "IsAreaLogicClose": 0
   },
@@ -25828,7 +25861,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      10911
     ],
     "IsAreaLogicClose": 0
   },
@@ -25856,6 +25889,7 @@
     "areaSn": 8336090,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -26027,6 +26061,7 @@
     "areaSn": 8336115,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -26046,6 +26081,7 @@
     "areaSn": 8336116,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -26274,6 +26310,7 @@
     "areaSn": 8336147,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -26293,6 +26330,7 @@
     "areaSn": 8336148,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -26312,6 +26350,7 @@
     "areaSn": 8336150,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -27433,6 +27472,7 @@
     "areaSn": 8341110,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -27452,6 +27492,7 @@
     "areaSn": 8341111,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -27547,6 +27588,7 @@
     "areaSn": 8342012,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -27623,7 +27665,7 @@
     "areaSn": 8342021,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3809022",
@@ -27661,7 +27703,7 @@
     "areaSn": 8342022,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,3809024",
@@ -27680,6 +27722,7 @@
     "areaSn": 8342030,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -29346,7 +29389,7 @@
     "areaSn": 8355000,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 8,
     "triggerParamIn": "TL_qiuyuantongdaoDoor_Open",
@@ -29415,7 +29458,7 @@
     "forceRotateAngle": 0,
     "appearType": 3,
     "appearParam": [
-      0
+      11085
     ],
     "IsAreaLogicClose": 0
   },
@@ -29436,7 +29479,7 @@
     "forceRotateAngle": 0,
     "appearType": 3,
     "appearParam": [
-      0
+      11085
     ],
     "IsAreaLogicClose": 0
   },
@@ -29521,7 +29564,7 @@
     "areaSn": 8380001,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 5,
     "triggerParamIn": "",
@@ -33663,7 +33706,7 @@
     "areaSn": 8410126,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -33713,7 +33756,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      12355
     ],
     "IsAreaLogicClose": 0
   },
@@ -33988,7 +34031,7 @@
     "areaSn": 8410142,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      -1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -37161,7 +37204,7 @@
     "areaSn": 8420196,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -37173,7 +37216,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      12469
     ],
     "IsAreaLogicClose": 0
   },
@@ -37353,7 +37396,7 @@
     "areaSn": 8420205,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -37365,7 +37408,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      12470
     ],
     "IsAreaLogicClose": 0
   },
@@ -37374,7 +37417,7 @@
     "areaSn": 8420206,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -37386,7 +37429,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      12476
     ],
     "IsAreaLogicClose": 0
   },
@@ -37395,7 +37438,7 @@
     "areaSn": 8420207,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -37407,7 +37450,7 @@
     "forceRotateAngle": 0,
     "appearType": 1,
     "appearParam": [
-      0
+      12476
     ],
     "IsAreaLogicClose": 0
   },
@@ -37948,6 +37991,7 @@
     "areaSn": 8421029,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -38404,7 +38448,7 @@
     "areaSn": 8440014,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -38594,7 +38638,7 @@
     "areaSn": 8440024,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -39354,6 +39398,7 @@
     "areaSn": 8440058,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 4,
@@ -39734,7 +39779,7 @@
     "areaSn": 8440076,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -39753,7 +39798,7 @@
     "areaSn": 8440077,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -40874,6 +40919,7 @@
     "areaSn": 8440129,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -40893,6 +40939,7 @@
     "areaSn": 8440130,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -40912,6 +40959,7 @@
     "areaSn": 8440131,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -40931,6 +40979,7 @@
     "areaSn": 8440132,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -40950,6 +40999,7 @@
     "areaSn": 8440133,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -40969,6 +41019,7 @@
     "areaSn": 8440134,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -40988,6 +41039,7 @@
     "areaSn": 8440135,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -44047,7 +44099,7 @@
     "areaSn": 8450007,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ00002",
@@ -44104,7 +44156,7 @@
     "areaSn": 8450008,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ00002",
@@ -44123,7 +44175,7 @@
     "areaSn": 8450009,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ00002",
@@ -45149,7 +45201,7 @@
     "areaSn": 8450057,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ8450001",
@@ -45168,7 +45220,7 @@
     "areaSn": 8450058,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -45187,7 +45239,7 @@
     "areaSn": 8450059,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -45206,7 +45258,7 @@
     "areaSn": 8450060,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -45225,7 +45277,7 @@
     "areaSn": 8450061,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -49918,7 +49970,7 @@
     "areaSn": 8460076,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ8460001",
@@ -50013,7 +50065,7 @@
     "areaSn": 8460081,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -50032,7 +50084,7 @@
     "areaSn": 8460082,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -53452,6 +53504,7 @@
     "areaSn": 8460262,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -53471,6 +53524,7 @@
     "areaSn": 8460263,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -53490,6 +53544,7 @@
     "areaSn": 8460264,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -53509,6 +53564,7 @@
     "areaSn": 8460265,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -53737,6 +53793,7 @@
     "areaSn": 8460272,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 23,
@@ -54497,6 +54554,7 @@
     "areaSn": 9999951,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -55162,6 +55220,7 @@
     "areaSn": 20001003,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 4,
@@ -55257,6 +55316,7 @@
     "areaSn": 20001007,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -55295,6 +55355,7 @@
     "areaSn": 20001008,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -55770,6 +55831,7 @@
     "areaSn": 20001047,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 4,
@@ -56796,6 +56858,7 @@
     "areaSn": 20002029,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -56815,6 +56878,7 @@
     "areaSn": 20002129,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -61698,7 +61762,7 @@
     "areaSn": 31000001,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -61717,7 +61781,7 @@
     "areaSn": 31000002,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -61736,7 +61800,7 @@
     "areaSn": 31000003,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -61755,7 +61819,7 @@
     "areaSn": 31000004,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -61774,7 +61838,7 @@
     "areaSn": 31000011,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -61793,7 +61857,7 @@
     "areaSn": 31000012,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -61812,7 +61876,7 @@
     "areaSn": 31000013,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 17,
     "triggerParamIn": "",
@@ -64624,6 +64688,7 @@
     "areaSn": 41041026,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -64681,6 +64746,7 @@
     "areaSn": 41041030,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -64983,6 +65049,7 @@
     "areaSn": 41042008,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -65534,7 +65601,7 @@
     "areaSn": 41044001,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 3,
     "triggerParamIn": "80000",
@@ -65781,7 +65848,7 @@
     "areaSn": 41052017,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41052003",
@@ -65990,7 +66057,7 @@
     "areaSn": 41052023,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41052004",
@@ -66047,7 +66114,7 @@
     "areaSn": 41052024,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41052004",
@@ -66085,6 +66152,7 @@
     "areaSn": 41052025,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -66123,6 +66191,7 @@
     "areaSn": 41052026,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -66142,6 +66211,7 @@
     "areaSn": 41052027,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -66161,6 +66231,7 @@
     "areaSn": 41052028,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -66180,6 +66251,7 @@
     "areaSn": 41052029,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -66199,6 +66271,7 @@
     "areaSn": 41052030,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -66408,7 +66481,7 @@
     "areaSn": 41052036,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41121042",
@@ -66427,7 +66500,7 @@
     "areaSn": 41052037,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41121042",
@@ -67491,7 +67564,7 @@
     "areaSn": 41081015,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41093030",
@@ -67548,6 +67621,7 @@
     "areaSn": 41081021,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -67586,6 +67660,7 @@
     "areaSn": 41081022,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -67605,7 +67680,7 @@
     "areaSn": 41081023,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41121041",
@@ -67624,7 +67699,7 @@
     "areaSn": 41081024,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41121041",
@@ -67643,7 +67718,7 @@
     "areaSn": 41081025,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41121041",
@@ -67662,7 +67737,7 @@
     "areaSn": 41081026,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41121041",
@@ -67776,7 +67851,7 @@
     "areaSn": 41092006,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41093030",
@@ -67795,7 +67870,7 @@
     "areaSn": 41092007,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41121041",
@@ -68042,7 +68117,7 @@
     "areaSn": 41093013,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41093027",
@@ -68061,6 +68136,7 @@
     "areaSn": 41093014,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -68099,7 +68175,7 @@
     "areaSn": 41093016,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41093029",
@@ -68118,7 +68194,7 @@
     "areaSn": 41093017,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41121041",
@@ -68137,7 +68213,7 @@
     "areaSn": 41093018,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41121041",
@@ -68156,7 +68232,7 @@
     "areaSn": 41094001,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41094001",
@@ -68175,7 +68251,7 @@
     "areaSn": 41094002,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41093029",
@@ -68194,7 +68270,7 @@
     "areaSn": 41094003,
     "triggerReset": 0,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41121041",
@@ -68289,7 +68365,7 @@
     "areaSn": 41112001,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41113038",
@@ -68859,7 +68935,7 @@
     "areaSn": 41113024,
     "triggerReset": 1,
     "triggerCnt": [
-      0
+      1
     ],
     "triggerActIn": 1,
     "triggerParamIn": "UI_DialogView,GQ41113037",
@@ -70892,6 +70968,7 @@
     "areaSn": 41121040,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -73077,6 +73154,7 @@
     "areaSn": 41142024,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,
@@ -78112,6 +78190,7 @@
     "areaSn": 200030026,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -78131,6 +78210,7 @@
     "areaSn": 200030028,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -78150,6 +78230,7 @@
     "areaSn": 200030030,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -78169,6 +78250,7 @@
     "areaSn": 200030032,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 2,
@@ -78188,6 +78270,7 @@
     "areaSn": 200030034,
     "triggerReset": 0,
     "triggerCnt": [
+      0,
       0
     ],
     "triggerActIn": 5,

@@ -9,7 +9,45 @@
     "buffBonusTimes": 1,
     "buffShowType": 2,
     "buffShowParam": [
-      0
+      3000,
+      3001,
+      3002,
+      3003,
+      3004,
+      3005,
+      3006,
+      3007,
+      3008,
+      3009,
+      3010,
+      3011,
+      3012,
+      3013,
+      3014,
+      3015,
+      3016,
+      3017,
+      3018,
+      3019,
+      3020,
+      3021,
+      3022,
+      3023,
+      3024,
+      3025,
+      3026,
+      3027,
+      3028,
+      3029,
+      3030,
+      3031,
+      3032,
+      3033,
+      3034,
+      3035,
+      3036,
+      3037,
+      3038
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -83,7 +121,13 @@
     "buffBonusTimes": 3,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -103,7 +147,13 @@
     "buffBonusTimes": 4,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      101,
+      201,
+      209,
+      210,
+      203,
+      501,
+      503
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -123,7 +173,14 @@
     "buffBonusTimes": 3,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -143,7 +200,13 @@
     "buffBonusTimes": 4,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      105,
+      107,
+      204,
+      203,
+      501,
+      502,
+      1002
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -163,7 +226,7 @@
     "buffBonusTimes": 2,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      204
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -183,7 +246,9 @@
     "buffBonusTimes": 3,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      201,
+      205,
+      206
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -203,7 +268,27 @@
     "buffBonusTimes": 1,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      501,
+      502,
+      1001,
+      1002
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -223,7 +308,19 @@
     "buffBonusTimes": 1,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      601,
+      602,
+      604,
+      605,
+      608,
+      609,
+      610,
+      614,
+      615,
+      617,
+      618,
+      619,
+      620
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -243,7 +340,12 @@
     "buffBonusTimes": 4,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      103,
+      106,
+      206,
+      203,
+      501,
+      502
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -263,7 +365,9 @@
     "buffBonusTimes": 1,
     "buffShowType": 2,
     "buffShowParam": [
-      0
+      1101,
+      1201,
+      1401
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -283,7 +387,12 @@
     "buffBonusTimes": 4,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      104,
+      205,
+      208,
+      203,
+      501,
+      502
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -303,7 +412,8 @@
     "buffBonusTimes": 1,
     "buffShowType": 2,
     "buffShowParam": [
-      0
+      1500,
+      1600
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -323,7 +433,8 @@
     "buffBonusTimes": 1,
     "buffShowType": 2,
     "buffShowParam": [
-      0
+      1700,
+      1301
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -343,7 +454,12 @@
     "buffBonusTimes": 4,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      102,
+      202,
+      203,
+      501,
+      502,
+      1001
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -357,7 +473,7 @@
     "sn": 19,
     "buffBonusName": "DIV_NIGHT",
     "phaseLimit": [
-      0
+      7
     ],
     "buffBonusParam": 11,
     "buffType": 1,
@@ -365,7 +481,27 @@
     "buffBonusTimes": 2,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      501,
+      502,
+      1001,
+      1002
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -379,7 +515,8 @@
     "sn": 20,
     "buffBonusName": "DIV_DAY",
     "phaseLimit": [
-      0
+      4,
+      5
     ],
     "buffBonusParam": 11,
     "buffType": 1,
@@ -387,7 +524,27 @@
     "buffBonusTimes": 2,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      501,
+      502,
+      1001,
+      1002
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -407,7 +564,8 @@
     "buffBonusTimes": 2,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      302,
+      307
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",
@@ -427,7 +585,27 @@
     "buffBonusTimes": 2,
     "buffShowType": 1,
     "buffShowParam": [
-      0
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      501,
+      502,
+      1001,
+      1002
     ],
     "effectDialog": "『运势占卜』增益效果",
     "buffIcon": "",

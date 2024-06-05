@@ -3,13 +3,19 @@
     "sn": 1,
     "level": 3,
     "levelPrice": [
-      0
+      100,
+      150,
+      200
     ],
     "sellPrice": [
-      0
+      40,
+      60,
+      80
     ],
     "levelColour": [
-      "�F���=�G�{�\u001b�"
+      "#50b50d",
+      "#c900e4",
+      "#e9cb2f"
     ],
     "pic": "Rogue-buff-yushou-s02-2-lan.png",
     "pic0": "Rogue-buff-yushou01-1-lan.png",
@@ -19,13 +25,16 @@
     "sn": 2,
     "level": 2,
     "levelPrice": [
-      0
+      160,
+      240
     ],
     "sellPrice": [
-      0
+      64,
+      96
     ],
     "levelColour": [
-      "s�4{��q��"
+      "#c900e4",
+      "#e9cb2f"
     ],
     "pic": "Rogue-buff-yushou-s02-2-zi.png",
     "pic0": "Rogue-buff-yushou01-1-zi.png",
@@ -35,13 +44,13 @@
     "sn": 3,
     "level": 1,
     "levelPrice": [
-      0
+      300
     ],
     "sellPrice": [
-      0
+      120
     ],
     "levelColour": [
-      "{�\u001b�"
+      "#e9cb2f"
     ],
     "pic": "Rogue-buff-yushou-s02-2-jin.png",
     "pic0": "Rogue-buff-yushou01-1-jin.png",

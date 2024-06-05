@@ -11,10 +11,12 @@
     "miniScale": 0.8,
     "normalScale": 0.8,
     "zoomRange": [
-      0
+      0.56,
+      1.44
     ],
     "iconRange": [
-      0
+      0.6,
+      1.1
     ],
     "playerIconScale": 2.5,
     "specialIconScale": 0,
@@ -38,10 +40,12 @@
     "miniScale": 0.4,
     "normalScale": 0.8,
     "zoomRange": [
-      0
+      0.56,
+      1.2
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.5,
     "specialIconScale": 0,
@@ -65,10 +69,12 @@
     "miniScale": 0.4,
     "normalScale": 0.8,
     "zoomRange": [
-      0
+      0.56,
+      1.2
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.5,
     "specialIconScale": 0,
@@ -92,10 +98,12 @@
     "miniScale": 0.4,
     "normalScale": 0.8,
     "zoomRange": [
-      0
+      0.56,
+      1.2
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.5,
     "specialIconScale": 0,
@@ -119,10 +127,12 @@
     "miniScale": 0.4,
     "normalScale": 0.6,
     "zoomRange": [
-      0
+      0.42,
+      0.9
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 3.33,
     "specialIconScale": 0,
@@ -146,10 +156,12 @@
     "miniScale": 0.4,
     "normalScale": 0.8,
     "zoomRange": [
-      0
+      0.56,
+      1.2
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.5,
     "specialIconScale": 0,
@@ -173,10 +185,12 @@
     "miniScale": 0.4,
     "normalScale": 0.8,
     "zoomRange": [
-      0
+      0.56,
+      1.2
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.5,
     "specialIconScale": 0,
@@ -200,10 +214,12 @@
     "miniScale": 0.3,
     "normalScale": 0.6,
     "zoomRange": [
-      0
+      0.42,
+      0.9
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 3.33,
     "specialIconScale": 0,
@@ -227,10 +243,12 @@
     "miniScale": 0.4,
     "normalScale": 0.7,
     "zoomRange": [
-      0
+      0.49,
+      1.05
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.86,
     "specialIconScale": 0,
@@ -254,10 +272,12 @@
     "miniScale": 0.35,
     "normalScale": 0.7,
     "zoomRange": [
-      0
+      0.49,
+      1.05
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.86,
     "specialIconScale": 0,
@@ -281,10 +301,12 @@
     "miniScale": 0.4,
     "normalScale": 0.7,
     "zoomRange": [
-      0
+      0.49,
+      1.05
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.86,
     "specialIconScale": 0,
@@ -308,10 +330,12 @@
     "miniScale": 0.255,
     "normalScale": 0.34,
     "zoomRange": [
-      0
+      0.24,
+      0.51
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 5.88,
     "specialIconScale": 0,
@@ -335,10 +359,12 @@
     "miniScale": 0.255,
     "normalScale": 0.34,
     "zoomRange": [
-      0
+      0.24,
+      0.51
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 5.88,
     "specialIconScale": 0,
@@ -362,10 +388,12 @@
     "miniScale": 0.175,
     "normalScale": 0.35,
     "zoomRange": [
-      0
+      0.25,
+      0.53
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 5.71,
     "specialIconScale": 0,
@@ -389,10 +417,12 @@
     "miniScale": 0.25,
     "normalScale": 0.5,
     "zoomRange": [
-      0
+      0.35,
+      0.75
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 4,
     "specialIconScale": 0,
@@ -416,10 +446,11 @@
     "miniScale": 0.3,
     "normalScale": 0.6,
     "zoomRange": [
-      0
+      0.42,
+      0.9
     ],
     "iconRange": [
-      0
+      1
     ],
     "playerIconScale": 3.33,
     "specialIconScale": 0,
@@ -443,10 +474,11 @@
     "miniScale": 0.4,
     "normalScale": 0.6,
     "zoomRange": [
-      0
+      0.42,
+      0.9
     ],
     "iconRange": [
-      0
+      1
     ],
     "playerIconScale": 3.33,
     "specialIconScale": 0,
@@ -470,7 +502,8 @@
     "miniScale": 0.75,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [],
     "playerIconScale": 2,
@@ -1369,7 +1402,8 @@
     "miniScale": 0.2,
     "normalScale": 0.3,
     "zoomRange": [
-      0
+      0.3,
+      1.5
     ],
     "iconRange": [],
     "playerIconScale": 0,
@@ -1394,10 +1428,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      2
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 2,
     "specialIconScale": 0.8,
@@ -1421,10 +1457,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      2
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 2,
     "specialIconScale": 0.8,
@@ -1448,10 +1486,12 @@
     "miniScale": 0.36,
     "normalScale": 0.18,
     "zoomRange": [
-      0
+      0.13,
+      0.36
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 11.1,
     "specialIconScale": 0.8,
@@ -1475,10 +1515,12 @@
     "miniScale": 0.26,
     "normalScale": 0.13,
     "zoomRange": [
-      0
+      0.09,
+      0.26
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 15.4,
     "specialIconScale": 0.8,
@@ -1502,10 +1544,12 @@
     "miniScale": 0.26,
     "normalScale": 0.13,
     "zoomRange": [
-      0
+      0.09,
+      0.26
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 15.4,
     "specialIconScale": 0.8,
@@ -1529,10 +1573,12 @@
     "miniScale": 0.26,
     "normalScale": 0.13,
     "zoomRange": [
-      0
+      0.09,
+      0.26
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 15.4,
     "specialIconScale": 0.8,
@@ -1556,10 +1602,12 @@
     "miniScale": 0.36,
     "normalScale": 0.18,
     "zoomRange": [
-      0
+      0.13,
+      0.36
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 11.1,
     "specialIconScale": 0.8,
@@ -1583,10 +1631,12 @@
     "miniScale": 0.3,
     "normalScale": 0.15,
     "zoomRange": [
-      0
+      0.11,
+      0.3
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 13.3,
     "specialIconScale": 0.8,
@@ -1610,10 +1660,12 @@
     "miniScale": 0.3,
     "normalScale": 0.15,
     "zoomRange": [
-      0
+      0.11,
+      0.3
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 13.3,
     "specialIconScale": 0.8,
@@ -1637,10 +1689,12 @@
     "miniScale": 0.3,
     "normalScale": 0.15,
     "zoomRange": [
-      0
+      0.11,
+      0.3
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 13.3,
     "specialIconScale": 0.8,
@@ -1664,10 +1718,12 @@
     "miniScale": 0.3,
     "normalScale": 0.15,
     "zoomRange": [
-      0
+      0.11,
+      0.3
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 13.3,
     "specialIconScale": 0.8,
@@ -1691,10 +1747,12 @@
     "miniScale": 0.36,
     "normalScale": 0.18,
     "zoomRange": [
-      0
+      0.13,
+      0.36
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 11.1,
     "specialIconScale": 0.8,
@@ -1718,10 +1776,12 @@
     "miniScale": 0.3,
     "normalScale": 0.15,
     "zoomRange": [
-      0
+      0.11,
+      0.3
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 13.3,
     "specialIconScale": 0.8,
@@ -1745,10 +1805,12 @@
     "miniScale": 0.3,
     "normalScale": 0.15,
     "zoomRange": [
-      0
+      0.11,
+      0.3
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 13.3,
     "specialIconScale": 0.8,
@@ -1772,10 +1834,12 @@
     "miniScale": 0.3,
     "normalScale": 0.15,
     "zoomRange": [
-      0
+      0.11,
+      0.3
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 13.3,
     "specialIconScale": 0.8,
@@ -1799,10 +1863,12 @@
     "miniScale": 0.3,
     "normalScale": 0.15,
     "zoomRange": [
-      0
+      0.11,
+      0.3
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 13.3,
     "specialIconScale": 0.8,
@@ -1826,10 +1892,12 @@
     "miniScale": 0.6,
     "normalScale": 0.6,
     "zoomRange": [
-      0
+      0.42,
+      0.9
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 3.3,
     "specialIconScale": 0,
@@ -1853,10 +1921,12 @@
     "miniScale": 0.6,
     "normalScale": 0.6,
     "zoomRange": [
-      0
+      0.42,
+      0.9
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 3.3,
     "specialIconScale": 0,
@@ -1880,10 +1950,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -1907,10 +1979,12 @@
     "miniScale": 0.5,
     "normalScale": 0.5,
     "zoomRange": [
-      0
+      0.35,
+      0.75
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 4,
     "specialIconScale": 0,
@@ -1934,10 +2008,12 @@
     "miniScale": 0.5,
     "normalScale": 0.5,
     "zoomRange": [
-      0
+      0.35,
+      0.75
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 4,
     "specialIconScale": 0,
@@ -1961,10 +2037,12 @@
     "miniScale": 0.5,
     "normalScale": 0.5,
     "zoomRange": [
-      0
+      0.35,
+      0.75
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 4,
     "specialIconScale": 0,
@@ -1988,10 +2066,12 @@
     "miniScale": 0.6,
     "normalScale": 0.6,
     "zoomRange": [
-      0
+      0.42,
+      0.9
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 3.3,
     "specialIconScale": 0,
@@ -2015,10 +2095,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2042,10 +2124,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2069,10 +2153,12 @@
     "miniScale": 0.7,
     "normalScale": 0.7,
     "zoomRange": [
-      0
+      0.49,
+      1.05
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.9,
     "specialIconScale": 0,
@@ -2096,10 +2182,12 @@
     "miniScale": 0.95,
     "normalScale": 0.95,
     "zoomRange": [
-      0
+      0.67,
+      1.43
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.1,
     "specialIconScale": 0,
@@ -2123,10 +2211,12 @@
     "miniScale": 0.8,
     "normalScale": 0.8,
     "zoomRange": [
-      0
+      0.56,
+      1.2
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.5,
     "specialIconScale": 0,
@@ -2150,10 +2240,12 @@
     "miniScale": 0.8,
     "normalScale": 0.8,
     "zoomRange": [
-      0
+      0.56,
+      1.2
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.5,
     "specialIconScale": 0,
@@ -2177,10 +2269,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2204,10 +2298,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2231,10 +2327,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2258,10 +2356,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2285,10 +2385,12 @@
     "miniScale": 0.7,
     "normalScale": 0.7,
     "zoomRange": [
-      0
+      0.49,
+      1.05
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.9,
     "specialIconScale": 0,
@@ -2312,10 +2414,12 @@
     "miniScale": 0.7,
     "normalScale": 0.7,
     "zoomRange": [
-      0
+      0.49,
+      1.05
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2.9,
     "specialIconScale": 0,
@@ -2339,10 +2443,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2366,10 +2472,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2393,10 +2501,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2535,10 +2645,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2562,10 +2674,12 @@
     "miniScale": 0.7,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2589,10 +2703,12 @@
     "miniScale": 0.7,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2616,10 +2732,12 @@
     "miniScale": 0.7,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2643,10 +2761,12 @@
     "miniScale": 0.7,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2670,10 +2790,12 @@
     "miniScale": 0.7,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2697,10 +2819,12 @@
     "miniScale": 0.7,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2724,10 +2848,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2751,10 +2877,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2778,10 +2906,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2805,10 +2935,12 @@
     "miniScale": 0.3,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      2
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 2,
     "specialIconScale": 0.8,
@@ -2832,10 +2964,12 @@
     "miniScale": 0.3,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      2
     ],
     "iconRange": [
-      0
+      0.6,
+      1
     ],
     "playerIconScale": 2,
     "specialIconScale": 0.8,
@@ -2859,10 +2993,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2909,10 +3045,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2936,10 +3074,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2963,10 +3103,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -2990,10 +3132,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3017,10 +3161,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3044,10 +3190,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3071,10 +3219,12 @@
     "miniScale": 0.5,
     "normalScale": 0.5,
     "zoomRange": [
-      0
+      0.35,
+      0.75
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 4,
     "specialIconScale": 0,
@@ -3098,10 +3248,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3125,10 +3277,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3152,10 +3306,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3179,10 +3335,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3206,10 +3364,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3233,10 +3393,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3260,10 +3422,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3287,10 +3451,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3314,10 +3480,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3341,10 +3509,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3368,10 +3538,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3395,10 +3567,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3422,10 +3596,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3449,10 +3625,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3476,10 +3654,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3503,10 +3683,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3530,10 +3712,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3557,10 +3741,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3584,10 +3770,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3611,10 +3799,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,
@@ -3638,10 +3828,12 @@
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [
-      0
+      0.7,
+      1.5
     ],
     "iconRange": [
-      0
+      0.7,
+      1.2
     ],
     "playerIconScale": 2,
     "specialIconScale": 0,

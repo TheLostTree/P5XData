@@ -10,7 +10,12 @@
     "scale": 1,
     "obstacleMode": 1,
     "obstacles": [
-      0
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
     ],
     "interactionIcon": "ACT-tuixiangzi1.png",
     "ani_movement": "TL_chess_guowangjiqiren_moveforward.prefab",
@@ -66,7 +71,11 @@
     "scale": 1,
     "obstacleMode": 1,
     "obstacles": [
-      0
+      1,
+      2,
+      3,
+      5,
+      6
     ],
     "interactionIcon": "ACT-tuixiangzi1.png",
     "ani_movement": "TL_chess_zibaojiqiren_moveforward.prefab",
@@ -86,7 +95,11 @@
     "scale": 0.65,
     "obstacleMode": 1,
     "obstacles": [
-      0
+      1,
+      2,
+      3,
+      4,
+      6
     ],
     "interactionIcon": "ACT-tuixiangzi1.png",
     "ani_movement": "TL_chess_zhandouwurenji_moveforward.prefab",
@@ -160,7 +173,12 @@
     "scale": 1,
     "obstacleMode": 1,
     "obstacles": [
-      0
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
     ],
     "interactionIcon": "ACT-tuixiangzi1.png",
     "ani_movement": "TL_chess_baozoujiqiren_moveforward.prefab",

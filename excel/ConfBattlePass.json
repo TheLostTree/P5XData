@@ -38,16 +38,41 @@
     "expCurrency": 100150,
     "extraAwardShow": [
       [
-        0
+        190039,
+        2
+      ],
+      [
+        300002,
+        3
+      ],
+      [
+        300004,
+        3
+      ],
+      [
+        100165,
+        1
+      ],
+      [
+        302490,
+        3
+      ],
+      [
+        100101,
+        6
       ]
     ],
     "awardPicShow": [
-      "m�m��ڲ��j\u0007���i�\u0006ڶ�^=�",
-      "���{�ޙ�m�m��ڲ��j\u0007�����\u0006ڶ�^=�",
-      "���{���"
+      "battlePass_page_1_1.png",
+      "battlePass_page_1_3.png",
+      "battlePass_page_1_2.png",
+      "battlePass_page_1_4.png"
     ],
     "weaponShow": [
-      0
+      190039,
+      100165,
+      309031,
+      500099
     ],
     "Text1": "",
     "Text2": "",
@@ -87,13 +112,16 @@
     "paymentAward": -1,
     "paymentAward0": -1,
     "levelparam": [
-      0
+      20,
+      50
     ],
     "awardparam": [
-      0
+      -1,
+      -1
     ],
     "awardparam1": [
-      0
+      201301,
+      201302
     ],
     "expCurrency": 100151,
     "extraAwardShow": [
@@ -117,27 +145,55 @@
     "paymentAward": 201087,
     "paymentAward0": -1,
     "levelparam": [
-      0
+      20,
+      50
     ],
     "awardparam": [
-      0
+      -1,
+      -1
     ],
     "awardparam1": [
-      0
+      201301,
+      201302
     ],
     "expCurrency": 100151,
     "extraAwardShow": [
       [
-        0
+        190040,
+        2
+      ],
+      [
+        300002,
+        3
+      ],
+      [
+        300004,
+        3
+      ],
+      [
+        100165,
+        1
+      ],
+      [
+        302490,
+        3
+      ],
+      [
+        100101,
+        6
       ]
     ],
     "awardPicShow": [
-      "m�m��ڲ��j\u0007���i�\u0006ڶ�^=�",
-      "���{�ޙ�m�m��ڲ��j\u0007�����\u0006ڶ�^=�",
-      "���{���"
+      "battlePass_page_1_1.png",
+      "battlePass_page_1_3.png",
+      "battlePass_page_1_2.png",
+      "battlePass_page_1_4.png"
     ],
     "weaponShow": [
-      0
+      190040,
+      100165,
+      309031,
+      500099
     ],
     "Text1": "",
     "Text2": "",
@@ -153,13 +209,16 @@
     "paymentAward": 201089,
     "paymentAward0": 201088,
     "levelparam": [
-      0
+      20,
+      50
     ],
     "awardparam": [
-      0
+      -1,
+      -1
     ],
     "awardparam1": [
-      0
+      201301,
+      201302
     ],
     "expCurrency": 100151,
     "extraAwardShow": [

@@ -2,7 +2,7 @@
   {
     "sn": 0,
     "stepSound": [
-      "\u0016�-�ש�M6"
+      "Footstep0002"
     ],
     "stepSound_rain": "Footstep0018",
     "horseStepSound": []
@@ -10,121 +10,169 @@
   {
     "sn": 1,
     "stepSound": [
-      "\u0016�-�ש�M6"
+      "Footstep0002"
     ],
     "stepSound_rain": "Footstep0018",
     "horseStepSound": [
-      "�ש�z+����^���f��k-z�碹��������j_��ש�z+��"
+      "step_normal_1",
+      "step_normal_2",
+      "step_normal_3",
+      "step_normal_4",
+      "step_normal_5"
     ]
   },
   {
     "sn": 2,
     "stepSound": [
-      "\u0016�-�ש�M6"
+      "Footstep0002"
     ],
     "stepSound_rain": "Footstep0002",
     "horseStepSound": [
-      "�ש�z+����^���f��k-z�碹��������j_��ש�z+��"
+      "step_normal_1",
+      "step_normal_2",
+      "step_normal_3",
+      "step_normal_4",
+      "step_normal_5"
     ]
   },
   {
     "sn": 8,
     "stepSound": [
-      "\u0016�-�ש�M9"
+      "Footstep0005"
     ],
     "stepSound_rain": "Footstep0005",
     "horseStepSound": [
-      "�ש�\u0006�z���ש�\u0006�z���ש�\u0006�z���ש�\u0006�z���ש�\u0006�z��"
+      "step_water_1",
+      "step_water_2",
+      "step_water_3",
+      "step_water_4",
+      "step_water_5"
     ]
   },
   {
     "sn": 16,
     "stepSound": [
-      "\u0016�-�ש�Mt"
+      "Footstep0010"
     ],
     "stepSound_rain": "Footstep0010",
     "horseStepSound": [
-      "�ש�\nڲ���ש�\nڲ���ש�\nڲ���ש�\nڲ���ש�\nڲ��"
+      "step_grass_1",
+      "step_grass_2",
+      "step_grass_3",
+      "step_grass_4",
+      "step_grass_5"
     ]
   },
   {
     "sn": 32,
     "stepSound": [
-      "\u0016�-�ש�My"
+      "Footstep0015"
     ],
     "stepSound_rain": "Footstep0015",
     "horseStepSound": [
-      "�ש��h����ש��h����ש��h����ש��h����ש��h���"
+      "step_stone_1",
+      "step_stone_2",
+      "step_stone_3",
+      "step_stone_4",
+      "step_stone_5"
     ]
   },
   {
     "sn": 64,
     "stepSound": [
-      "\u0016�-�ש�M6"
+      "Footstep0002"
     ],
     "stepSound_rain": "Footstep0002",
     "horseStepSound": [
-      "�ש��kk\u000f��ש��kk\u000f��ש��kk\u000f��ש��kk\u000f��ש��kk\u000f�"
+      "step_straw_1",
+      "step_straw_2",
+      "step_straw_3",
+      "step_straw_4",
+      "step_straw_5"
     ]
   },
   {
     "sn": 256,
     "stepSound": [
-      "\u0016�-�ש�M6"
+      "Footstep0002"
     ],
     "stepSound_rain": "Footstep0002",
     "horseStepSound": [
-      "�ש�����l���z0�k-z�잌?��^��'�\u000f��ש�����"
+      "step_snow_1",
+      "step_snow_2",
+      "step_snow_3",
+      "step_snow_4",
+      "step_snow_5"
     ]
   },
   {
     "sn": 512,
     "stepSound": [
-      "\u0016�-�ש�M�"
+      "Footstep0028"
     ],
     "stepSound_rain": "Footstep0028",
     "horseStepSound": [
-      "�ש�\n(w�l��\u001d�k-z����^��(����ש�\n(w�"
+      "step_wood_1",
+      "step_wood_2",
+      "step_wood_3",
+      "step_wood_4",
+      "step_wood_5"
     ]
   },
   {
     "sn": 4096,
     "stepSound": [
-      "\u0016�-�ש�M6"
+      "Footstep0002"
     ],
     "stepSound_rain": "Footstep0018",
     "horseStepSound": [
-      "�ש�z+����^���f��k-z�碹��������j_��ש�z+��"
+      "step_normal_1",
+      "step_normal_2",
+      "step_normal_3",
+      "step_normal_4",
+      "step_normal_5"
     ]
   },
   {
     "sn": 8192,
     "stepSound": [
-      "\u0016�-�ש�M6"
+      "Footstep0002"
     ],
     "stepSound_rain": "Footstep0018",
     "horseStepSound": [
-      "�ש�z+����^���f��k-z�碹��������j_��ש�z+��"
+      "step_normal_1",
+      "step_normal_2",
+      "step_normal_3",
+      "step_normal_4",
+      "step_normal_5"
     ]
   },
   {
     "sn": 16384,
     "stepSound": [
-      "\u0016�-�ש�M6"
+      "Footstep0002"
     ],
     "stepSound_rain": "Footstep0018",
     "horseStepSound": [
-      "�ש�z+����^���f��k-z�碹��������j_��ש�z+��"
+      "step_normal_1",
+      "step_normal_2",
+      "step_normal_3",
+      "step_normal_4",
+      "step_normal_5"
     ]
   },
   {
     "sn": 32768,
     "stepSound": [
-      "\u0016�-�ש�M6"
+      "Footstep0002"
     ],
     "stepSound_rain": "Footstep0018",
     "horseStepSound": [
-      "�ש�z+����^���f��k-z�碹��������j_��ש�z+��"
+      "step_normal_1",
+      "step_normal_2",
+      "step_normal_3",
+      "step_normal_4",
+      "step_normal_5"
     ]
   }
 ]

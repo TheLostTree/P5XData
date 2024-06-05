@@ -4,7 +4,7 @@
     "name": "开局遗失物选择",
     "type": 3,
     "sceneSn": [
-      0
+      32001
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -23,7 +23,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      101
     ],
     "combatAward": 0,
     "time": 0,
@@ -42,7 +42,8 @@
     "name": "buff强化",
     "type": 5,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -78,7 +79,8 @@
     "name": "新手随机事件",
     "type": 8,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -97,7 +99,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      399
     ],
     "combatAward": 0,
     "time": 0,
@@ -116,7 +118,8 @@
     "name": "随机事件",
     "type": 8,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -135,7 +138,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      300
     ],
     "combatAward": 0,
     "time": 0,
@@ -154,7 +157,9 @@
     "name": "宝箱站点",
     "type": 15,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -173,7 +178,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      400
     ],
     "combatAward": 0,
     "time": 0,
@@ -192,7 +197,8 @@
     "name": "随机事件-分支1",
     "type": 8,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -211,7 +217,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      308
     ],
     "combatAward": 0,
     "time": 0,
@@ -230,7 +236,8 @@
     "name": "随机事件-分支2",
     "type": 8,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -249,7 +256,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      309
     ],
     "combatAward": 0,
     "time": 0,
@@ -268,7 +275,8 @@
     "name": "随机事件-分支3",
     "type": 8,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -287,7 +295,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      310
     ],
     "combatAward": 0,
     "time": 0,
@@ -306,7 +314,8 @@
     "name": "随机事件-分支4",
     "type": 8,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -325,7 +334,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      311
     ],
     "combatAward": 0,
     "time": 0,
@@ -344,7 +353,9 @@
     "name": "阴影战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 32000002,
     "palaceObjectSn": 0,
@@ -363,7 +374,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      211
     ],
     "combatAward": 216001,
     "time": 0,
@@ -382,7 +393,9 @@
     "name": "阴影战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 32000002,
     "palaceObjectSn": 0,
@@ -401,7 +414,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      221
     ],
     "combatAward": 216001,
     "time": 0,
@@ -420,7 +433,9 @@
     "name": "阴影战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 32000002,
     "palaceObjectSn": 0,
@@ -439,7 +454,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      231
     ],
     "combatAward": 216001,
     "time": 0,
@@ -458,7 +473,9 @@
     "name": "精英战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 32000003,
     "palaceObjectSn": 0,
@@ -477,7 +494,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      241
     ],
     "combatAward": 216002,
     "time": 0,
@@ -496,7 +513,9 @@
     "name": "精英战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 32000003,
     "palaceObjectSn": 0,
@@ -515,7 +534,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      242
     ],
     "combatAward": 216002,
     "time": 0,
@@ -534,7 +553,9 @@
     "name": "精英战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 32000003,
     "palaceObjectSn": 0,
@@ -553,7 +574,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      243
     ],
     "combatAward": 216002,
     "time": 0,
@@ -572,7 +593,9 @@
     "name": "首领战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32031,
+      32032,
+      32033
     ],
     "npcSn": 32000004,
     "palaceObjectSn": 0,
@@ -591,7 +614,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      203
     ],
     "combatAward": 216003,
     "time": 0,
@@ -610,7 +633,9 @@
     "name": "首领战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32031,
+      32032,
+      32033
     ],
     "npcSn": 32000004,
     "palaceObjectSn": 0,
@@ -629,7 +654,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      204
     ],
     "combatAward": 216003,
     "time": 0,
@@ -648,7 +673,9 @@
     "name": "BOSS战斗1",
     "type": 6,
     "sceneSn": [
-      0
+      32031,
+      32032,
+      32033
     ],
     "npcSn": 32000006,
     "palaceObjectSn": 0,
@@ -684,7 +711,9 @@
     "name": "BOSS战斗2",
     "type": 6,
     "sceneSn": [
-      0
+      32031,
+      32032,
+      32033
     ],
     "npcSn": 32000006,
     "palaceObjectSn": 0,
@@ -720,7 +749,9 @@
     "name": "BOSS战斗3",
     "type": 6,
     "sceneSn": [
-      0
+      32031,
+      32032,
+      32033
     ],
     "npcSn": 32000006,
     "palaceObjectSn": 0,
@@ -756,7 +787,9 @@
     "name": "BOSS战斗4",
     "type": 6,
     "sceneSn": [
-      0
+      32031,
+      32032,
+      32033
     ],
     "npcSn": 32000006,
     "palaceObjectSn": 0,
@@ -792,7 +825,9 @@
     "name": "一场艰难的战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -811,7 +846,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      75207
     ],
     "combatAward": 0,
     "time": 0,
@@ -830,7 +865,9 @@
     "name": "一场艰难的战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -849,7 +886,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      75208
     ],
     "combatAward": 216004,
     "time": 0,
@@ -868,7 +905,9 @@
     "name": "一场艰难的战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -887,7 +926,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      75209
     ],
     "combatAward": 0,
     "time": 0,
@@ -906,7 +945,9 @@
     "name": "一场艰难的战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -925,7 +966,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      75210
     ],
     "combatAward": 0,
     "time": 0,
@@ -944,7 +985,9 @@
     "name": "一场艰难的战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -963,7 +1006,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      75211
     ],
     "combatAward": 0,
     "time": 0,
@@ -982,7 +1025,9 @@
     "name": "一场艰难的战斗",
     "type": 6,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1001,7 +1046,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      75212
     ],
     "combatAward": 0,
     "time": 0,
@@ -1020,7 +1065,9 @@
     "name": "标准遗失物",
     "type": 14,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1056,7 +1103,9 @@
     "name": "全遗失物",
     "type": 14,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1092,7 +1141,9 @@
     "name": "高价值遗失物",
     "type": 14,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1128,7 +1179,7 @@
     "name": "收集物选择-标准",
     "type": 3,
     "sceneSn": [
-      0
+      32001
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1147,7 +1198,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      131
     ],
     "combatAward": 0,
     "time": 0,
@@ -1166,7 +1217,7 @@
     "name": "收集物选择-全",
     "type": 3,
     "sceneSn": [
-      0
+      32001
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1185,7 +1236,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      171
     ],
     "combatAward": 0,
     "time": 0,
@@ -1204,7 +1255,9 @@
     "name": "普通战斗御守",
     "type": 4,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1223,12 +1276,12 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      52
     ],
     "combatAward": 0,
     "time": 1,
     "consume": [
-      0
+      15
     ],
     "motifSn": 1,
     "unlock": 0,
@@ -1244,7 +1297,9 @@
     "name": "精英战斗御守",
     "type": 4,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1263,12 +1318,12 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      53
     ],
     "combatAward": 0,
     "time": 1,
     "consume": [
-      0
+      15
     ],
     "motifSn": 1,
     "unlock": 0,
@@ -1284,7 +1339,9 @@
     "name": "首领战斗御守",
     "type": 4,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1303,12 +1360,12 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      54
     ],
     "combatAward": 0,
     "time": 1,
     "consume": [
-      0
+      15
     ],
     "motifSn": 1,
     "unlock": 0,
@@ -1324,7 +1381,9 @@
     "name": "宝箱事件-3个",
     "type": 11,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1343,7 +1402,9 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      451,
+      433,
+      471
     ],
     "combatAward": 0,
     "time": 0,
@@ -1362,7 +1423,9 @@
     "name": "宝箱事件-2个",
     "type": 11,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1381,7 +1444,8 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      471,
+      432
     ],
     "combatAward": 0,
     "time": 0,
@@ -1400,7 +1464,9 @@
     "name": "宝箱事件-1个",
     "type": 11,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 0,
@@ -1419,7 +1485,7 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      431
     ],
     "combatAward": 0,
     "time": 0,
@@ -1438,7 +1504,9 @@
     "name": "地铁硬币箱子",
     "type": 12,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 32000001,
@@ -1474,7 +1542,9 @@
     "name": "地铁硬币箱子",
     "type": 12,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 32000001,
@@ -1510,7 +1580,9 @@
     "name": "地铁硬币箱子",
     "type": 12,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 32000001,
@@ -1546,7 +1618,9 @@
     "name": "遗失物箱子",
     "type": 12,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 32000003,
@@ -1582,7 +1656,9 @@
     "name": "御守箱子",
     "type": 12,
     "sceneSn": [
-      0
+      32021,
+      32022,
+      32023
     ],
     "npcSn": 0,
     "palaceObjectSn": 32000002,
@@ -1618,7 +1694,8 @@
     "name": "普通商店",
     "type": 7,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -1637,12 +1714,14 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      51,
+      141
     ],
     "combatAward": 0,
     "time": 2,
     "consume": [
-      0
+      15,
+      30
     ],
     "motifSn": 1,
     "unlock": 0,
@@ -1658,7 +1737,8 @@
     "name": "最终商店",
     "type": 7,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -1677,12 +1757,15 @@
     "consumeParam": [],
     "TextEventSn": [],
     "configParam": [
-      0
+      3,
+      51,
+      141
     ],
     "combatAward": 0,
     "time": 2,
     "consume": [
-      0
+      15,
+      30
     ],
     "motifSn": 1,
     "unlock": 0,
@@ -1698,7 +1781,8 @@
     "name": "胶囊睡眠仓",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030001,
     "palaceObjectSn": 0,
@@ -1716,7 +1800,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      101001,
+      101002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -1736,7 +1821,8 @@
     "name": "幸运刮刮乐",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030002,
     "palaceObjectSn": 0,
@@ -1754,7 +1840,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      102001,
+      102002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -1774,7 +1861,8 @@
     "name": "恋爱的苦涩 女生篇",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030003,
     "palaceObjectSn": 0,
@@ -1792,7 +1880,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      103001,
+      103002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -1812,7 +1901,8 @@
     "name": "恋爱的苦涩 男生篇",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030004,
     "palaceObjectSn": 0,
@@ -1830,7 +1920,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      104001,
+      104002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -1850,7 +1941,8 @@
     "name": "免费的午餐",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030005,
     "palaceObjectSn": 0,
@@ -1868,7 +1960,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      105001,
+      105002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -1888,7 +1981,8 @@
     "name": "奇怪的椅子",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030006,
     "palaceObjectSn": 0,
@@ -1906,7 +2000,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      106001,
+      106002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -1926,7 +2021,8 @@
     "name": "跳蚤市场",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030007,
     "palaceObjectSn": 0,
@@ -1944,7 +2040,9 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      107001,
+      107002,
+      107003
     ],
     "configParam": [],
     "combatAward": 0,
@@ -1964,7 +2062,8 @@
     "name": "项目经理人",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030008,
     "palaceObjectSn": 0,
@@ -1982,7 +2081,9 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      108001,
+      108002,
+      108003
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2002,7 +2103,8 @@
     "name": "心愿抽奖",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -2020,7 +2122,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      109001,
+      109002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2040,7 +2143,8 @@
     "name": "心愿抽奖",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -2058,7 +2162,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      109101,
+      109002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2078,7 +2183,8 @@
     "name": "心愿抽奖",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -2096,7 +2202,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      109201,
+      109002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2116,7 +2223,8 @@
     "name": "心愿抽奖",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -2134,7 +2242,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      109301,
+      109002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2154,7 +2263,8 @@
     "name": "心愿抽奖",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -2172,7 +2282,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      109401,
+      109002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2192,7 +2303,8 @@
     "name": "店铺大酬宾",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -2210,7 +2322,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      110001,
+      110002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2230,7 +2343,8 @@
     "name": "鳄鱼法则",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030010,
     "palaceObjectSn": 0,
@@ -2248,7 +2362,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      111001,
+      111002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2268,7 +2383,8 @@
     "name": "鳄鱼法则",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030010,
     "palaceObjectSn": 0,
@@ -2286,7 +2402,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      111001,
+      111002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2306,7 +2423,8 @@
     "name": "理财推销员",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030011,
     "palaceObjectSn": 0,
@@ -2324,7 +2442,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      112001,
+      112002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2344,7 +2463,8 @@
     "name": "胆小的探险家",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030012,
     "palaceObjectSn": 0,
@@ -2362,7 +2482,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      113001,
+      113002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2382,7 +2503,8 @@
     "name": "想下班的NPC",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030013,
     "palaceObjectSn": 0,
@@ -2400,7 +2522,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      114001,
+      114002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2420,7 +2543,7 @@
     "name": "结冰的咖啡",
     "type": 9,
     "sceneSn": [
-      0
+      32011
     ],
     "npcSn": 32030014,
     "palaceObjectSn": 0,
@@ -2438,7 +2561,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      115001,
+      115002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2458,7 +2582,7 @@
     "name": "滚烫的咖啡",
     "type": 9,
     "sceneSn": [
-      0
+      32011
     ],
     "npcSn": 32030014,
     "palaceObjectSn": 0,
@@ -2476,7 +2600,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      116001,
+      116002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2496,7 +2621,8 @@
     "name": "为科学献身",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030015,
     "palaceObjectSn": 0,
@@ -2514,7 +2640,9 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      117001,
+      117002,
+      117003
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2534,7 +2662,8 @@
     "name": "小孩子的游戏",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030016,
     "palaceObjectSn": 0,
@@ -2552,7 +2681,9 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      118001,
+      118002,
+      118003
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2572,7 +2703,8 @@
     "name": "创业公司的天使轮融资",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030017,
     "palaceObjectSn": 0,
@@ -2590,7 +2722,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      119001,
+      119002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2610,7 +2743,8 @@
     "name": "创业公司的A轮融资",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030017,
     "palaceObjectSn": 0,
@@ -2628,7 +2762,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      120001,
+      120002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2648,7 +2783,8 @@
     "name": "创业公司的B轮融资",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030017,
     "palaceObjectSn": 0,
@@ -2666,7 +2802,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      121001,
+      121002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2686,7 +2823,8 @@
     "name": "加杠杆交易",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030018,
     "palaceObjectSn": 0,
@@ -2704,7 +2842,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      122001,
+      122002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2724,7 +2863,8 @@
     "name": "俄罗斯轮盘",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030019,
     "palaceObjectSn": 0,
@@ -2742,7 +2882,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      123001,
+      123002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2762,7 +2903,8 @@
     "name": "超级赛跑-第一弹",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -2780,7 +2922,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      124001,
+      124002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2800,7 +2943,8 @@
     "name": "超级赛跑-第二弹",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -2818,7 +2962,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      125001,
+      125002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2838,7 +2983,8 @@
     "name": "超级赛跑-第三弹",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -2856,7 +3002,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      126001,
+      126002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2876,7 +3023,8 @@
     "name": "超级赛跑-决赛",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -2894,7 +3042,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      127001,
+      127002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2914,7 +3063,8 @@
     "name": "勇者之路-战士篇",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030020,
     "palaceObjectSn": 0,
@@ -2932,7 +3082,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      128001,
+      128002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2952,7 +3103,8 @@
     "name": "勇者之路-守卫篇",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030021,
     "palaceObjectSn": 0,
@@ -2970,7 +3122,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      129001,
+      129002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -2990,7 +3143,8 @@
     "name": "勇者之路-终极考验篇",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -3008,7 +3162,10 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      130001,
+      130002,
+      130003,
+      130004
     ],
     "configParam": [],
     "combatAward": 0,
@@ -3028,7 +3185,8 @@
     "name": "赛马场的粉丝效应",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030023,
     "palaceObjectSn": 0,
@@ -3046,7 +3204,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      131001,
+      131002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -3066,7 +3225,8 @@
     "name": "被麻烦的顺便",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030024,
     "palaceObjectSn": 0,
@@ -3084,7 +3244,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      132001,
+      132002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -3104,7 +3265,8 @@
     "name": "水星逆行",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030025,
     "palaceObjectSn": 0,
@@ -3122,7 +3284,10 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      133001,
+      133002,
+      133003,
+      133004
     ],
     "configParam": [],
     "combatAward": 0,
@@ -3142,7 +3307,7 @@
     "name": "虚荣心与仪式感",
     "type": 9,
     "sceneSn": [
-      0
+      32011
     ],
     "npcSn": 32030026,
     "palaceObjectSn": 0,
@@ -3160,7 +3325,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      134001,
+      134002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -3180,7 +3346,8 @@
     "name": "勾玉之神",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -3194,15 +3361,16 @@
     "configGold": [],
     "desText": "",
     "conditionType": [
-      0
+      3
     ],
     "conditionParam": [
-      0
+      1
     ],
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      135001,
+      135002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -3222,7 +3390,8 @@
     "name": "情绪操控实验1",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030028,
     "palaceObjectSn": 0,
@@ -3240,7 +3409,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      136001,
+      136002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -3260,7 +3430,8 @@
     "name": "情绪操控实验2",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030028,
     "palaceObjectSn": 0,
@@ -3278,7 +3449,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      137001,
+      137002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -3298,7 +3470,8 @@
     "name": "情绪操控实验3",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030028,
     "palaceObjectSn": 0,
@@ -3316,7 +3489,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      138001,
+      138002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -3336,7 +3510,8 @@
     "name": "情绪操控实验4",
     "type": 9,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030028,
     "palaceObjectSn": 0,
@@ -3354,7 +3529,8 @@
     "consumeType": [],
     "consumeParam": [],
     "TextEventSn": [
-      0
+      139001,
+      139002
     ],
     "configParam": [],
     "combatAward": 0,
@@ -3374,7 +3550,8 @@
     "name": "马无夜草不肥",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030001,
     "palaceObjectSn": 0,
@@ -3410,7 +3587,8 @@
     "name": "再努努力吧",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030001,
     "palaceObjectSn": 0,
@@ -3446,7 +3624,8 @@
     "name": "想做就做",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030002,
     "palaceObjectSn": 0,
@@ -3482,7 +3661,8 @@
     "name": "没必要碰运气",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030002,
     "palaceObjectSn": 0,
@@ -3518,7 +3698,8 @@
     "name": "要相信对方",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030003,
     "palaceObjectSn": 0,
@@ -3554,7 +3735,8 @@
     "name": "也有别的选择",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030003,
     "palaceObjectSn": 0,
@@ -3590,7 +3772,8 @@
     "name": "去见她吧",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030004,
     "palaceObjectSn": 0,
@@ -3626,7 +3809,8 @@
     "name": "放弃也是选择",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030004,
     "palaceObjectSn": 0,
@@ -3662,7 +3846,8 @@
     "name": "炸猪排更好吃",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030005,
     "palaceObjectSn": 0,
@@ -3698,7 +3883,8 @@
     "name": "牛排更好吃",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030005,
     "palaceObjectSn": 0,
@@ -3734,7 +3920,8 @@
     "name": "查看座椅下方",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030006,
     "palaceObjectSn": 0,
@@ -3770,7 +3957,8 @@
     "name": "坐下休息",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030006,
     "palaceObjectSn": 0,
@@ -3806,7 +3994,8 @@
     "name": "买下1号盒子",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030007,
     "palaceObjectSn": 0,
@@ -3822,10 +4011,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      1
     ],
     "consumeParam": [
-      0
+      75
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -3846,7 +4035,8 @@
     "name": "买下2号盒子",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030007,
     "palaceObjectSn": 0,
@@ -3862,10 +4052,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      1
     ],
     "consumeParam": [
-      0
+      125
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -3886,7 +4076,8 @@
     "name": "我没钱",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030007,
     "palaceObjectSn": 0,
@@ -3922,7 +4113,8 @@
     "name": "及时交付就行",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030008,
     "palaceObjectSn": 0,
@@ -3938,10 +4130,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      2
     ],
     "consumeParam": [
-      0
+      20
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -3962,7 +4154,8 @@
     "name": "必须做到最好",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030008,
     "palaceObjectSn": 0,
@@ -3978,10 +4171,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      2
     ],
     "consumeParam": [
-      0
+      50
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -4002,7 +4195,8 @@
     "name": "健康更重要",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030008,
     "palaceObjectSn": 0,
@@ -4038,7 +4232,8 @@
     "name": "给它铁道硬币",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -4054,10 +4249,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      1
     ],
     "consumeParam": [
-      0
+      50
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -4078,7 +4273,8 @@
     "name": "什么也不给",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -4114,7 +4310,8 @@
     "name": "给它更多",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -4130,10 +4327,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      1
     ],
     "consumeParam": [
-      0
+      50
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -4154,7 +4351,8 @@
     "name": "继续给它更多",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -4170,10 +4368,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      1
     ],
     "consumeParam": [
-      0
+      50
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -4194,7 +4392,8 @@
     "name": "继续给它更多",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -4210,10 +4409,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      1
     ],
     "consumeParam": [
-      0
+      50
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -4234,7 +4433,8 @@
     "name": "最后一次",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030009,
     "palaceObjectSn": 0,
@@ -4250,10 +4450,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      1
     ],
     "consumeParam": [
-      0
+      50
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -4274,7 +4474,8 @@
     "name": "客户回馈礼包",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -4310,7 +4511,8 @@
     "name": "客户幸运礼包",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -4346,7 +4548,8 @@
     "name": "赎回一部分",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030010,
     "palaceObjectSn": 0,
@@ -4362,10 +4565,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      2
     ],
     "consumeParam": [
-      0
+      10
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -4386,7 +4589,8 @@
     "name": "眼不见心不烦",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030010,
     "palaceObjectSn": 0,
@@ -4422,7 +4626,8 @@
     "name": "无风险低收益",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030011,
     "palaceObjectSn": 0,
@@ -4458,7 +4663,8 @@
     "name": "高风险高回报",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030011,
     "palaceObjectSn": 0,
@@ -4494,7 +4700,8 @@
     "name": "成为英雄",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030012,
     "palaceObjectSn": 0,
@@ -4530,7 +4737,8 @@
     "name": "逃避并不可耻",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030012,
     "palaceObjectSn": 0,
@@ -4566,7 +4774,8 @@
     "name": "爱岗敬业",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030013,
     "palaceObjectSn": 0,
@@ -4602,7 +4811,8 @@
     "name": "偷懒也没关系",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030013,
     "palaceObjectSn": 0,
@@ -4638,7 +4848,8 @@
     "name": "开足马力吧",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030014,
     "palaceObjectSn": 0,
@@ -4674,7 +4885,8 @@
     "name": "买保温设备吧",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030014,
     "palaceObjectSn": 0,
@@ -4710,7 +4922,8 @@
     "name": "不要害怕，冲",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030014,
     "palaceObjectSn": 0,
@@ -4746,7 +4959,8 @@
     "name": "慎重行事吧",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030014,
     "palaceObjectSn": 0,
@@ -4760,10 +4974,10 @@
     "configGold": [],
     "desText": "全体队员减少30%最大生命。",
     "conditionType": [
-      0
+      4
     ],
     "conditionParam": [
-      0
+      30
     ],
     "consumeType": [],
     "consumeParam": [],
@@ -4786,7 +5000,8 @@
     "name": "选红色胶囊",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030015,
     "palaceObjectSn": 0,
@@ -4822,7 +5037,8 @@
     "name": "选蓝色胶囊",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030015,
     "palaceObjectSn": 0,
@@ -4858,7 +5074,8 @@
     "name": "选他兜里的",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030015,
     "palaceObjectSn": 0,
@@ -4894,7 +5111,8 @@
     "name": "选一张卡牌",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030016,
     "palaceObjectSn": 0,
@@ -4930,7 +5148,8 @@
     "name": "拿一个玩具",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030016,
     "palaceObjectSn": 0,
@@ -4966,7 +5185,8 @@
     "name": "抱歉，我很忙",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030016,
     "palaceObjectSn": 0,
@@ -5002,7 +5222,8 @@
     "name": "要",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030017,
     "palaceObjectSn": 0,
@@ -5038,7 +5259,8 @@
     "name": "不要",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030017,
     "palaceObjectSn": 0,
@@ -5074,7 +5296,8 @@
     "name": "要！",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030017,
     "palaceObjectSn": 0,
@@ -5110,7 +5333,8 @@
     "name": "不要！",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030017,
     "palaceObjectSn": 0,
@@ -5146,7 +5370,8 @@
     "name": "要！！",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030017,
     "palaceObjectSn": 0,
@@ -5182,7 +5407,8 @@
     "name": "不要！！",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030017,
     "palaceObjectSn": 0,
@@ -5218,7 +5444,8 @@
     "name": "豁出去了！",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030018,
     "palaceObjectSn": 0,
@@ -5234,10 +5461,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      2
     ],
     "consumeParam": [
-      0
+      60
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -5258,7 +5485,8 @@
     "name": "还是不要吧",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030018,
     "palaceObjectSn": 0,
@@ -5294,7 +5522,8 @@
     "name": "试一试",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030019,
     "palaceObjectSn": 0,
@@ -5330,7 +5559,8 @@
     "name": "好危险，算了",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030019,
     "palaceObjectSn": 0,
@@ -5366,7 +5596,8 @@
     "name": "跑酷第一弹",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -5402,7 +5633,8 @@
     "name": "离开",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -5438,7 +5670,8 @@
     "name": "跑酷第二弹",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -5474,7 +5707,8 @@
     "name": "离开",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -5510,7 +5744,8 @@
     "name": "跑酷第三弹",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -5546,7 +5781,8 @@
     "name": "离开",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -5582,7 +5818,8 @@
     "name": "跑酷王挑战",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -5618,7 +5855,8 @@
     "name": "离开",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32000001,
     "palaceObjectSn": 0,
@@ -5654,7 +5892,8 @@
     "name": "好的",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030020,
     "palaceObjectSn": 0,
@@ -5690,7 +5929,8 @@
     "name": "算了",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030020,
     "palaceObjectSn": 0,
@@ -5726,7 +5966,8 @@
     "name": "好的",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030021,
     "palaceObjectSn": 0,
@@ -5762,7 +6003,8 @@
     "name": "算了",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030021,
     "palaceObjectSn": 0,
@@ -5798,7 +6040,8 @@
     "name": "推荐剑和盾",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -5812,10 +6055,12 @@
     "configGold": [],
     "desText": "获得遗失物「勇者之证」。\n拥有最好的剑与盾时可选。",
     "conditionType": [
-      0
+      1,
+      1
     ],
     "conditionParam": [
-      0
+      37,
+      38
     ],
     "consumeType": [],
     "consumeParam": [],
@@ -5838,7 +6083,8 @@
     "name": "推荐最好的剑",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -5852,10 +6098,10 @@
     "configGold": [],
     "desText": "获得60枚铁道硬币\n拥有「最好的剑」时可选择。",
     "conditionType": [
-      0
+      1
     ],
     "conditionParam": [
-      0
+      37
     ],
     "consumeType": [],
     "consumeParam": [],
@@ -5878,7 +6124,8 @@
     "name": "推荐最好的盾",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -5892,10 +6139,10 @@
     "configGold": [],
     "desText": "获得60枚铁道硬币\n拥有「最好的盾」时可选择。",
     "conditionType": [
-      0
+      1
     ],
     "conditionParam": [
-      0
+      38
     ],
     "consumeType": [],
     "consumeParam": [],
@@ -5918,7 +6165,8 @@
     "name": "什么也不推荐",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -5954,7 +6202,8 @@
     "name": "要有信心",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030023,
     "palaceObjectSn": 0,
@@ -5970,10 +6219,10 @@
     "conditionType": [],
     "conditionParam": [],
     "consumeType": [
-      0
+      1
     ],
     "consumeParam": [
-      0
+      50
     ],
     "TextEventSn": [],
     "configParam": [],
@@ -5994,7 +6243,8 @@
     "name": "还是算了吧",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030023,
     "palaceObjectSn": 0,
@@ -6030,7 +6280,8 @@
     "name": "冷静下来",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030024,
     "palaceObjectSn": 0,
@@ -6066,7 +6317,8 @@
     "name": "想怎样都可以",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030024,
     "palaceObjectSn": 0,
@@ -6102,7 +6354,8 @@
     "name": "换工作吧",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030025,
     "palaceObjectSn": 0,
@@ -6116,10 +6369,10 @@
     "configGold": [],
     "desText": "50%概率获得150枚铁道硬币，\n50%概率失去所有角色70%生命",
     "conditionType": [
-      0
+      4
     ],
     "conditionParam": [
-      0
+      70
     ],
     "consumeType": [],
     "consumeParam": [],
@@ -6142,7 +6395,8 @@
     "name": "搬家好了",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030025,
     "palaceObjectSn": 0,
@@ -6156,10 +6410,10 @@
     "configGold": [],
     "desText": "50%概率获得80枚铁道硬币，\n50%概率失去所有角色20%生命",
     "conditionType": [
-      0
+      4
     ],
     "conditionParam": [
-      0
+      20
     ],
     "consumeType": [],
     "consumeParam": [],
@@ -6182,7 +6436,8 @@
     "name": "大扫除",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030025,
     "palaceObjectSn": 0,
@@ -6196,10 +6451,10 @@
     "configGold": [],
     "desText": "50%概率获得10枚铁道硬币，\n50%概率失去所有角色1%生命",
     "conditionType": [
-      0
+      4
     ],
     "conditionParam": [
-      0
+      1
     ],
     "consumeType": [],
     "consumeParam": [],
@@ -6222,7 +6477,8 @@
     "name": "什么也不做",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030025,
     "palaceObjectSn": 0,
@@ -6258,7 +6514,8 @@
     "name": "让他清醒点",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030026,
     "palaceObjectSn": 0,
@@ -6294,7 +6551,8 @@
     "name": "随他的便",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030026,
     "palaceObjectSn": 0,
@@ -6330,7 +6588,8 @@
     "name": "许愿很重要",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -6366,7 +6625,8 @@
     "name": "接受变化吧",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -6402,7 +6662,8 @@
     "name": "测试绿色唱片",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -6438,7 +6699,8 @@
     "name": "推论值发表吧",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -6474,7 +6736,8 @@
     "name": "测试红色唱片",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -6510,7 +6773,8 @@
     "name": "推论值发表吧",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -6546,7 +6810,8 @@
     "name": "测试蓝色唱片",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -6582,7 +6847,8 @@
     "name": "推论值发表吧",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -6618,7 +6884,8 @@
     "name": "测试粉色唱片",
     "type": 10,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,
@@ -6654,7 +6921,8 @@
     "name": "推论值发表吧",
     "type": 13,
     "sceneSn": [
-      0
+      32011,
+      32012
     ],
     "npcSn": 32030022,
     "palaceObjectSn": 0,

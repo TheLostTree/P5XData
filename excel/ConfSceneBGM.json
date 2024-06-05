@@ -20,11 +20,17 @@
     "music": "Beneath the Mask -rain",
     "amsound": "",
     "conditions": [
-      0
+      1,
+      1
     ],
     "params": [
       [
-        0
+        1,
+        10294
+      ],
+      [
+        2,
+        10294
       ]
     ],
     "sortingOrder": 1000
@@ -35,11 +41,11 @@
     "music": "Beneath the Mask -rain",
     "amsound": "",
     "conditions": [
-      0
+      2
     ],
     "params": [
       [
-        0
+        1
       ]
     ],
     "sortingOrder": 100
@@ -50,11 +56,11 @@
     "music": "Beneath the Mask -rain",
     "amsound": "",
     "conditions": [
-      0
+      3
     ],
     "params": [
       [
-        0
+        5
       ]
     ],
     "sortingOrder": 10

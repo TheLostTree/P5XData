@@ -3,13 +3,13 @@
     "sn": 1,
     "func_Name": "怪盗·成长",
     "UIs": [
-      0
+      252
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10260
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -19,13 +19,13 @@
     "sn": 2,
     "func_Name": "怪盗·升级",
     "UIs": [
-      0
+      2
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10260
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -35,13 +35,13 @@
     "sn": 3,
     "func_Name": "怪盗·潜能",
     "UIs": [
-      0
+      3
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10260
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -51,13 +51,13 @@
     "sn": 4,
     "func_Name": "怪盗·意识",
     "UIs": [
-      0
+      4
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10260
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -71,7 +71,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10260
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -85,7 +85,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10459
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -95,13 +95,13 @@
     "sn": 7,
     "func_Name": "武器·强化",
     "UIs": [
-      0
+      7
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10459
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -111,13 +111,13 @@
     "sn": 8,
     "func_Name": "武器·改造",
     "UIs": [
-      0
+      8
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10459
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -131,7 +131,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -145,7 +145,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10696
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -155,13 +155,13 @@
     "sn": 11,
     "func_Name": "人格面具·训练",
     "UIs": [
-      0
+      11
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10351
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -171,13 +171,13 @@
     "sn": 12,
     "func_Name": "人格面具·强化",
     "UIs": [
-      0
+      12
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10351
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -187,13 +187,13 @@
     "sn": 13,
     "func_Name": "人格面具·意识",
     "UIs": [
-      0
+      13
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10351
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -203,13 +203,13 @@
     "sn": 14,
     "func_Name": "人格面具·技能",
     "UIs": [
-      0
+      14
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10351
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -219,13 +219,13 @@
     "sn": 15,
     "func_Name": "人格面具·全书",
     "UIs": [
-      0
+      15
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10696
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -235,13 +235,14 @@
     "sn": 16,
     "func_Name": "人格面具·合成",
     "UIs": [
-      0
+      16,
+      21
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10696
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -251,13 +252,14 @@
     "sn": 17,
     "func_Name": "设置",
     "UIs": [
-      0
+      17,
+      18
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -267,13 +269,13 @@
     "sn": 18,
     "func_Name": "第二面具槽位",
     "UIs": [
-      0
+      19
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10696
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -283,13 +285,13 @@
     "sn": 19,
     "func_Name": "第三面具槽位",
     "UIs": [
-      0
+      20
     ],
     "level": 30,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10696
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -303,7 +305,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10696
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -317,7 +319,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10260
     ],
     "activityType": 0,
     "unOpenedStrSn": 1000005,
@@ -331,7 +333,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10468
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -345,7 +347,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10110
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -359,7 +361,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10110
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -373,7 +375,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 1000420,
@@ -383,13 +385,14 @@
     "sn": 200,
     "func_Name": "阵容设置",
     "UIs": [
-      0
+      205,
+      253
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10080
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -399,13 +402,16 @@
     "sn": 201,
     "func_Name": "探索度",
     "UIs": [
-      0
+      201,
+      203,
+      210,
+      212
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10686
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -419,7 +425,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10686
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -433,7 +439,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -443,13 +449,13 @@
     "sn": 206,
     "func_Name": "观察模式",
     "UIs": [
-      0
+      206
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10351
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -459,13 +465,13 @@
     "sn": 207,
     "func_Name": "牛车",
     "UIs": [
-      0
+      207
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10253
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -479,7 +485,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -493,7 +499,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10686
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -507,7 +513,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -521,7 +527,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10060
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -531,13 +537,13 @@
     "sn": 213,
     "func_Name": "退出",
     "UIs": [
-      0
+      213
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10686
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -551,7 +557,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      11130
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -565,7 +571,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10005
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -579,7 +585,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      11182
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -593,7 +599,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10442
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -607,7 +613,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -621,7 +627,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -635,7 +641,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -649,7 +655,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -663,7 +669,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -677,7 +683,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10442
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -687,13 +693,13 @@
     "sn": 310,
     "func_Name": "心之海试炼",
     "UIs": [
-      0
+      1003
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      11462
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -707,7 +713,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      11089
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -721,7 +727,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10008
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -735,7 +741,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      11181
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -749,7 +755,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -763,7 +769,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      12070
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -777,7 +783,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      11091
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -791,7 +797,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      20026
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -805,7 +811,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      40322
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -819,7 +825,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      40322
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -833,7 +839,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      70001
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -843,13 +849,14 @@
     "sn": 401,
     "func_Name": "契约",
     "UIs": [
-      0
+      401,
+      410
     ],
     "level": 1,
     "reserveQuest": 10080,
     "reserveFuncOpenShowSn": 401,
     "quest": [
-      0
+      10250
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -859,13 +866,13 @@
     "sn": 402,
     "func_Name": "活动",
     "UIs": [
-      0
+      402
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10080
     ],
     "activityType": 4,
     "unOpenedStrSn": 0,
@@ -875,13 +882,13 @@
     "sn": 403,
     "func_Name": "计划",
     "UIs": [
-      0
+      403
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10688
     ],
     "activityType": 2,
     "unOpenedStrSn": 0,
@@ -895,7 +902,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10456
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -905,13 +912,13 @@
     "sn": 407,
     "func_Name": "目标",
     "UIs": [
-      0
+      407
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10220
     ],
     "activityType": 19,
     "unOpenedStrSn": 0,
@@ -925,7 +932,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10080
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -935,13 +942,13 @@
     "sn": 409,
     "func_Name": "社区关注（企业微信号）",
     "UIs": [
-      0
+      409
     ],
     "level": 10,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -955,7 +962,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10493
     ],
     "activityType": 20,
     "unOpenedStrSn": 0,
@@ -965,13 +972,13 @@
     "sn": 500,
     "func_Name": "玩法合集",
     "UIs": [
-      0
+      215
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10095
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -985,7 +992,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10456
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -999,7 +1006,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      11425
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1013,7 +1020,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      20110
     ],
     "activityType": 0,
     "unOpenedStrSn": 1047206,
@@ -1027,7 +1034,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10442
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1037,13 +1044,13 @@
     "sn": 601,
     "func_Name": "站牌",
     "UIs": [
-      0
+      601
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10080
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1057,7 +1064,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10281
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1071,7 +1078,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10230
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1081,13 +1088,13 @@
     "sn": 605,
     "func_Name": "都市日程",
     "UIs": [
-      0
+      605
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10465
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1097,13 +1104,13 @@
     "sn": 606,
     "func_Name": "菜单",
     "UIs": [
-      0
+      606
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1113,13 +1120,13 @@
     "sn": 607,
     "func_Name": "聊天",
     "UIs": [
-      0
+      650
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10446
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1129,13 +1136,13 @@
     "sn": 608,
     "func_Name": "SNS",
     "UIs": [
-      0
+      651
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10121
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1145,13 +1152,14 @@
     "sn": 609,
     "func_Name": "异世界",
     "UIs": [
-      0
+      609,
+      611
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10686
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1161,13 +1169,13 @@
     "sn": 610,
     "func_Name": "异世界挑战",
     "UIs": [
-      0
+      610
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10442
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1181,7 +1189,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      11088
     ],
     "activityType": 0,
     "unOpenedStrSn": 1045000,
@@ -1195,7 +1203,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10260
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1209,7 +1217,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10260
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1219,13 +1227,13 @@
     "sn": 652,
     "func_Name": "SNS",
     "UIs": [
-      0
+      652
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10462
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1239,7 +1247,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10250
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1253,7 +1261,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10091
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1267,7 +1275,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10476
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1281,7 +1289,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10474
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1295,7 +1303,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10289
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1309,7 +1317,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10092
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1323,7 +1331,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10110
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1337,7 +1345,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      20026
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1347,13 +1355,13 @@
     "sn": 801,
     "func_Name": "面具",
     "UIs": [
-      0
+      801
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1363,13 +1371,13 @@
     "sn": 802,
     "func_Name": "普攻",
     "UIs": [
-      0
+      802
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1379,13 +1387,13 @@
     "sn": 803,
     "func_Name": "诡计",
     "UIs": [
-      0
+      803
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10253
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1395,13 +1403,13 @@
     "sn": 804,
     "func_Name": "枪械",
     "UIs": [
-      0
+      804
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10680
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1411,13 +1419,13 @@
     "sn": 805,
     "func_Name": "翻页",
     "UIs": [
-      0
+      805
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10063
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1427,13 +1435,13 @@
     "sn": 806,
     "func_Name": "道具",
     "UIs": [
-      0
+      806
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10063
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1443,13 +1451,13 @@
     "sn": 807,
     "func_Name": "防御",
     "UIs": [
-      0
+      807
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10063
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1459,13 +1467,13 @@
     "sn": 808,
     "func_Name": "总攻击",
     "UIs": [
-      0
+      808
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10301
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1479,7 +1487,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1493,7 +1501,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10056
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1503,13 +1511,13 @@
     "sn": 850,
     "func_Name": "战斗信息",
     "UIs": [
-      0
+      850
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10310
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1523,7 +1531,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10310
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1537,7 +1545,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10310
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1551,7 +1559,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1565,7 +1573,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1575,13 +1583,13 @@
     "sn": 900,
     "func_Name": "协助怪盗",
     "UIs": [
-      0
+      900
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10250
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1591,13 +1599,13 @@
     "sn": 901,
     "func_Name": "个性化",
     "UIs": [
-      0
+      901
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10250
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1611,7 +1619,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10060
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1625,7 +1633,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10260
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1635,13 +1643,13 @@
     "sn": 904,
     "func_Name": "人格面具",
     "UIs": [
-      0
+      251
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10351
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1655,7 +1663,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10110
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1665,13 +1673,13 @@
     "sn": 906,
     "func_Name": "商店",
     "UIs": [
-      0
+      404
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10080
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1685,7 +1693,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10080
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1699,7 +1707,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10446
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1713,7 +1721,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1727,7 +1735,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      11085
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1741,7 +1749,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10020
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1755,7 +1763,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10465
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1765,13 +1773,13 @@
     "sn": 913,
     "func_Name": "教程",
     "UIs": [
-      0
+      214
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10063
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1785,7 +1793,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1799,7 +1807,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      20031
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1813,7 +1821,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1827,7 +1835,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1841,7 +1849,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1855,7 +1863,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10080
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1869,7 +1877,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10250
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1879,13 +1887,13 @@
     "sn": 930,
     "func_Name": "修改名称",
     "UIs": [
-      0
+      930
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1895,13 +1903,13 @@
     "sn": 1001,
     "func_Name": "地图",
     "UIs": [
-      0
+      1001
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1911,13 +1919,13 @@
     "sn": 1002,
     "func_Name": "任务",
     "UIs": [
-      0
+      1002
     ],
     "level": 1,
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      -1
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1931,7 +1939,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      10281
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -1945,7 +1953,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      0
+      11300
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,

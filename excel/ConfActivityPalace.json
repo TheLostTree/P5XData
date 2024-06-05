@@ -10,7 +10,8 @@
     "frontPalaceSn": [],
     "type": 1,
     "sceneSn": [
-      0
+      41011,
+      41012
     ],
     "storySn": [],
     "questSn": 20101,
@@ -20,21 +21,24 @@
     "picture": "huodong-link-pic3.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20110
     ],
     "defeatType": [
-      0
+      1,
+      4
     ],
     "defeatParam": [
-      "�"
+      "0",
+      "0"
     ],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 211,
     "monsterShow": [
-      0
+      911011,
+      911012
     ]
   },
   {
@@ -46,11 +50,13 @@
     "name": "开始跑步吧",
     "desc": "怪盗团遇到了陌生的怪盗「SKULL」和「MONA」，与他们建立了合作关系，「SKULL」回忆自己似乎来过这个城堡。",
     "frontPalaceSn": [
-      0
+      10001
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41031,
+      41032,
+      41033
     ],
     "storySn": [],
     "questSn": 20168,
@@ -60,17 +66,18 @@
     "picture": "huodong-link-pic4.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20167
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 212,
     "monsterShow": [
-      0
+      911511,
+      911512
     ]
   },
   {
@@ -82,33 +89,40 @@
     "name": "恶趣味的城堡",
     "desc": "怪盗团摸索着前进，寻找核心，途中所见的城堡内景色，即便委婉地说也难以称得上「有品位」。",
     "frontPalaceSn": [
-      0
+      10002
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41041,
+      41042,
+      41043,
+      41044
     ],
     "storySn": [],
     "questSn": 20192,
     "teleportPointSn": [
-      0
+      4104101,
+      4104102
     ],
     "firstAwardSn": 432103,
     "explorationGroup": 104,
     "picture": "huodong-link-pic4.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20207
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 213,
     "monsterShow": [
-      0
+      911522,
+      911532,
+      911541,
+      911552
     ]
   },
   {
@@ -120,11 +134,13 @@
     "name": "吵闹的家伙们",
     "desc": "与木内的宫殿相比，城堡内部有许多阴暗又令人不安的地方，CLOSER似乎对这里感到不适……？",
     "frontPalaceSn": [
-      0
+      10003
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41052,
+      41051,
+      41053
     ],
     "storySn": [],
     "questSn": 20210,
@@ -134,17 +150,20 @@
     "picture": "huodong-link-pic3.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20222
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 214,
     "monsterShow": [
-      0
+      911562,
+      911572,
+      911582,
+      911593
     ]
   },
   {
@@ -156,11 +175,11 @@
     "name": "监狱救援",
     "desc": "共同经历了阴影们层层阻击后，怪盗团来到了地下监狱，那里关押着一名失散的同伴。",
     "frontPalaceSn": [
-      0
+      10004
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41061
     ],
     "storySn": [],
     "questSn": 20240,
@@ -170,17 +189,20 @@
     "picture": "huodong-link-pic3.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20252
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 215,
     "monsterShow": [
-      0
+      911604,
+      911603,
+      911602,
+      911601
     ]
   },
   {
@@ -192,11 +214,12 @@
     "name": "有品位的同伴",
     "desc": "怪盗团成功救出了「PANTHER」，寻找核心的队伍再次壮大，但失散的最后一位伙伴「JOKER」究竟在哪里呢？",
     "frontPalaceSn": [
-      0
+      10005
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41071,
+      41072
     ],
     "storySn": [],
     "questSn": 20260,
@@ -206,17 +229,23 @@
     "picture": "huodong-link-pic4.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20268
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 216,
     "monsterShow": [
-      0
+      911613,
+      911623,
+      911631,
+      911643,
+      911641,
+      911654,
+      911662
     ]
   },
   {
@@ -228,33 +257,39 @@
     "name": "不堪的回忆",
     "desc": "为了找到前进的道路，怪盗团来到西馆的一个特殊房间，「PANTHER」似乎在这里有不愉快的回忆。",
     "frontPalaceSn": [
-      0
+      10006
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41081
     ],
     "storySn": [],
     "questSn": 20280,
     "teleportPointSn": [
-      0
+      41081001,
+      41081002
     ],
     "firstAwardSn": 432107,
     "explorationGroup": 108,
     "picture": "huodong-link-pic4.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20292
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 217,
     "monsterShow": [
-      0
+      911702,
+      911701,
+      911713,
+      911722,
+      911732,
+      911744
     ]
   },
   {
@@ -266,32 +301,40 @@
     "name": "为了朋友",
     "desc": "在名为「爱之修炼场」的区域，怪盗团目睹受到不公正对待的认知存在，这时，CLOSER发现了一个熟悉的面孔。",
     "frontPalaceSn": [
-      0
+      10007
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41091,
+      41092,
+      41093,
+      41094
     ],
     "storySn": [],
     "questSn": 20300,
     "teleportPointSn": [
-      0
+      41092001,
+      41093001,
+      41093002
     ],
     "firstAwardSn": 432108,
     "explorationGroup": 109,
     "picture": "huodong-link-pic3.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20312
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 218,
     "monsterShow": [
+      911763,
+      911762,
+      911772,
       0
     ]
   },
@@ -304,11 +347,11 @@
     "name": "最后的底牌",
     "desc": "突然，强大的阴影袭击了怪盗团，困境中，他们尚有一张底牌还未亮出。",
     "frontPalaceSn": [
-      0
+      10008
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41101
     ],
     "storySn": [],
     "questSn": 20320,
@@ -318,21 +361,23 @@
     "picture": "huodong-link-pic3.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20322
     ],
     "defeatType": [
-      0
+      1,
+      4
     ],
     "defeatParam": [
-      "�"
+      "0",
+      "0"
     ],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 219,
     "monsterShow": [
-      0
+      911081
     ]
   },
   {
@@ -344,33 +389,41 @@
     "name": "怪盗团集结",
     "desc": "「Joker」加入，怪盗团终于集结， 为了盗取核心再次踏上前进之路。",
     "frontPalaceSn": [
-      0
+      10009
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41111,
+      41112,
+      41113
     ],
     "storySn": [],
     "questSn": 20340,
     "teleportPointSn": [
-      0
+      41111001,
+      41112001,
+      41113001,
+      41113002
     ],
     "firstAwardSn": 432110,
     "explorationGroup": 111,
     "picture": "huodong-link-pic1.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20348
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 220,
     "monsterShow": [
-      0
+      911783,
+      911782,
+      911792,
+      911802
     ]
   },
   {
@@ -382,33 +435,37 @@
     "name": "熟悉的感觉",
     "desc": "前方有无数陷阱等待着怪盗团，为了前进他们必须团结一心才能突破难关。",
     "frontPalaceSn": [
-      0
+      10010
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41121
     ],
     "storySn": [],
     "questSn": 20360,
     "teleportPointSn": [
-      0
+      41121001,
+      41121002,
+      41121003
     ],
     "firstAwardSn": 432111,
     "explorationGroup": 112,
     "picture": "huodong-link-pic1.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20368
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "获得棒球",
     "tryoutTeam": 0,
     "monsterShow": [
-      0
+      911822,
+      911834,
+      911843
     ]
   },
   {
@@ -420,11 +477,11 @@
     "name": "短暂的休憩",
     "desc": "经过一连串的战斗和探索，怪盗团疲惫不堪，是时候休息一下了。",
     "frontPalaceSn": [
-      0
+      10011
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41131
     ],
     "storySn": [],
     "questSn": 20380,
@@ -434,21 +491,25 @@
     "picture": "huodong-link-pic3.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20387
     ],
     "defeatType": [
-      0
+      1
     ],
     "defeatParam": [
-      ""
+      "0"
     ],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 222,
     "monsterShow": [
-      0
+      911852,
+      911872,
+      911883,
+      911894,
+      911881
     ]
   },
   {
@@ -460,33 +521,38 @@
     "name": "最后的挑战",
     "desc": "休整之后，怪盗团开始寻找第三颗球，虽然他们希望尽快找到，但事情似乎并不那么简单。",
     "frontPalaceSn": [
-      0
+      10012
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41141,
+      41142
     ],
     "storySn": [],
     "questSn": 20400,
     "teleportPointSn": [
-      0
+      4114203,
+      4114204
     ],
     "firstAwardSn": 432113,
     "explorationGroup": 114,
     "picture": "huodong-link-pic3.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20413
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "获得棒球",
     "tryoutTeam": 0,
     "monsterShow": [
-      0
+      911902,
+      911901,
+      911911,
+      911922
     ]
   },
   {
@@ -498,11 +564,14 @@
     "name": "收下欲望",
     "desc": "怪盗团终于抵达最深处的房间，他们能成功盗取「核心」吗……",
     "frontPalaceSn": [
-      0
+      10013
     ],
     "type": 1,
     "sceneSn": [
-      0
+      41161,
+      41162,
+      41163,
+      41164
     ],
     "storySn": [],
     "questSn": 20440,
@@ -512,17 +581,21 @@
     "picture": "huodong-link-pic2.png",
     "uiType": 1,
     "victoryType": [
-      0
+      1
     ],
     "victoryParam": [
-      0
+      20449
     ],
     "defeatType": [],
     "defeatParam": [],
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 225,
     "monsterShow": [
-      0
+      911501,
+      911962,
+      911973,
+      911981,
+      911972
     ]
   }
 ]

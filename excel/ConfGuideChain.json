@@ -8,10 +8,10 @@
     "gamePadSteps": 0,
     "key": 111,
     "trigger": [
-      0
+      12
     ],
     "triggerValue": [
-      "��5�"
+      "3901460"
     ],
     "skip": 1
   },
@@ -24,10 +24,14 @@
     "gamePadSteps": 0,
     "key": 121,
     "trigger": [
-      0
+      4,
+      10,
+      9
     ],
     "triggerValue": [
-      "�M7�B?6�\b�׫i�b��b{\r��M5"
+      "10030",
+      "UI_NpcInteractiveView",
+      "268001"
     ],
     "skip": 1
   },
@@ -40,10 +44,14 @@
     "gamePadSteps": 0,
     "key": 131,
     "trigger": [
-      0
+      28,
+      16,
+      10
     ],
     "triggerValue": [
-      "�}5P�Ӣ�\"�Ȩ�B"
+      "1",
+      "301",
+      "UI_TopMissionUI"
     ],
     "skip": 1
   },
@@ -56,10 +64,12 @@
     "gamePadSteps": 0,
     "key": 141,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�M:�B?&�\u0001�T"
+      "10061",
+      "UI_JumpActUI"
     ],
     "skip": 1
   },
@@ -72,10 +82,12 @@
     "gamePadSteps": 0,
     "key": 151,
     "trigger": [
-      0
+      4,
+      12
     ],
     "triggerValue": [
-      "�M��4ӎ�"
+      "10310",
+      "3800460"
     ],
     "skip": 1
   },
@@ -88,10 +100,12 @@
     "gamePadSteps": 0,
     "key": 161,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�N9�B?N�L��\"�u\b"
+      "10450",
+      "UI_TopMissionUI"
     ],
     "skip": 1
   },
@@ -104,10 +118,10 @@
     "gamePadSteps": 0,
     "key": 181,
     "trigger": [
-      0
+      9
     ],
     "triggerValue": [
-      "�}"
+      "132"
     ],
     "skip": 1
   },
@@ -120,10 +134,12 @@
     "gamePadSteps": 0,
     "key": 191,
     "trigger": [
-      0
+      6,
+      19
     ],
     "triggerValue": [
-      "�M5�"
+      "20010",
+      "1"
     ],
     "skip": 1
   },
@@ -136,10 +152,14 @@
     "gamePadSteps": 0,
     "key": 201,
     "trigger": [
-      0
+      6,
+      19,
+      10
     ],
     "triggerValue": [
-      "�M5�u\b�\u000bmi�\u0000�\\"
+      "20010",
+      "3",
+      "UI_AttackAlly"
     ],
     "skip": 1
   },
@@ -152,10 +172,14 @@
     "gamePadSteps": 0,
     "key": 211,
     "trigger": [
-      0
+      6,
+      19,
+      10
     ],
     "triggerValue": [
-      "�M4�U\b�;��\u0016�yө"
+      "20001",
+      "1",
+      "UI_TurnBasedOpt"
     ],
     "skip": 1
   },
@@ -168,10 +192,12 @@
     "gamePadSteps": 0,
     "key": 221,
     "trigger": [
-      0
+      6,
+      19
     ],
     "triggerValue": [
-      "�M4�"
+      "20001",
+      "4"
     ],
     "skip": 1
   },
@@ -184,10 +210,12 @@
     "gamePadSteps": 0,
     "key": 321,
     "trigger": [
-      0
+      6,
+      10
     ],
     "triggerValue": [
-      "�M4�B?\u0002�ZrC�x�+y)\"�"
+      "20003",
+      "UI_AttackOneMoreSkill"
     ],
     "skip": 1
   },
@@ -200,10 +228,12 @@
     "gamePadSteps": 0,
     "key": 411,
     "trigger": [
-      0
+      6,
+      19
     ],
     "triggerValue": [
-      "�M4�"
+      "20004",
+      "2"
     ],
     "skip": 1
   },
@@ -216,10 +246,12 @@
     "gamePadSteps": 0,
     "key": 421,
     "trigger": [
-      0
+      6,
+      19
     ],
     "triggerValue": [
-      "�M4�"
+      "20004",
+      "5"
     ],
     "skip": 1
   },
@@ -232,10 +264,12 @@
     "gamePadSteps": 0,
     "key": 431,
     "trigger": [
-      0
+      6,
+      19
     ],
     "triggerValue": [
-      "�M4�"
+      "20004",
+      "8"
     ],
     "skip": 1
   },
@@ -248,10 +282,12 @@
     "gamePadSteps": 0,
     "key": 441,
     "trigger": [
-      0
+      6,
+      10
     ],
     "triggerValue": [
-      "�M4�B?\u0002�ZrC�x�+y)\"�"
+      "20004",
+      "UI_AttackOneMoreSkill"
     ],
     "skip": 1
   },
@@ -264,10 +300,14 @@
     "gamePadSteps": 0,
     "key": 451,
     "trigger": [
-      0
+      6,
+      19,
+      10
     ],
     "triggerValue": [
-      "�M4�]\u0014#�-��$\u0002Yr"
+      "20004",
+      "10",
+      "UI_AttackAlly"
     ],
     "skip": 1
   },
@@ -280,10 +320,12 @@
     "gamePadSteps": 0,
     "key": 461,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�M=�B?:��Z��tƩ"
+      "10090",
+      "UI_OpenWorldMap"
     ],
     "skip": 1
   },
@@ -296,10 +338,12 @@
     "gamePadSteps": 0,
     "key": 481,
     "trigger": [
-      0
+      23,
+      10
     ],
     "triggerValue": [
-      "�B?N��\u0005�\u001et�m"
+      "0",
+      "UI_TurnBasedOpt"
     ],
     "skip": 1
   },
@@ -312,10 +356,10 @@
     "gamePadSteps": 0,
     "key": 491,
     "trigger": [
-      0
+      2
     ],
     "triggerValue": [
-      "�M�"
+      "10355"
     ],
     "skip": 1
   },
@@ -328,10 +372,14 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      25,
+      10
     ],
     "triggerValue": [
-      "�Mt�]��B?N��\u0005�\u001et�m"
+      "20100",
+      "1211",
+      "UI_TurnBasedOpt"
     ],
     "skip": 1
   },
@@ -344,10 +392,14 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      3,
+      10
     ],
     "triggerValue": [
-      "�Mtӝ\u0014#�-��$:w�����)e"
+      "20100",
+      "50",
+      "UI_AttackOneMoreSkill"
     ],
     "skip": 1
   },
@@ -360,10 +412,12 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      12
     ],
     "triggerValue": [
-      "�]t�t׍�"
+      "71101",
+      "3901425"
     ],
     "skip": 1
   },
@@ -376,10 +430,14 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      19,
+      29
     ],
     "triggerValue": [
-      "�M��]"
+      "20300",
+      "1",
+      "0"
     ],
     "skip": 1
   },
@@ -392,10 +450,14 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      19,
+      29
     ],
     "triggerValue": [
-      "�M��m"
+      "20300",
+      "2",
+      "0"
     ],
     "skip": 1
   },
@@ -408,10 +470,14 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      19,
+      29
     ],
     "triggerValue": [
-      "�M��}"
+      "20300",
+      "3",
+      "0"
     ],
     "skip": 1
   },
@@ -424,10 +490,14 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      19,
+      29
     ],
     "triggerValue": [
-      "�M�Ӎ"
+      "20300",
+      "4",
+      "0"
     ],
     "skip": 1
   },
@@ -440,10 +510,14 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      25,
+      10
     ],
     "triggerValue": [
-      "�N��E\b�;��\u0016�yө"
+      "20601",
+      "0",
+      "UI_TurnBasedOpt"
     ],
     "skip": 1
   },
@@ -456,10 +530,14 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      3,
+      10
     ],
     "triggerValue": [
-      "�N�׮T#�-��$:w�����)e"
+      "20601",
+      "65",
+      "UI_AttackOneMoreSkill"
     ],
     "skip": 1
   },
@@ -472,10 +550,12 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      12,
+      10
     ],
     "triggerValue": [
-      "߽uӮT#�-��$:w�����)e"
+      "3711065",
+      "UI_AttackOneMoreSkill"
     ],
     "skip": 1
   },
@@ -488,10 +568,12 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      19
     ],
     "triggerValue": [
-      "�N��"
+      "20602",
+      "1"
     ],
     "skip": 1
   },
@@ -504,10 +586,10 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      12
     ],
     "triggerValue": [
-      "��5�m"
+      "3901423"
     ],
     "skip": 1
   },
@@ -520,10 +602,10 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      12
     ],
     "triggerValue": [
-      "d>��Mu"
+      "ZD700011"
     ],
     "skip": 1
   },
@@ -536,10 +618,12 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      3,
+      10
     ],
     "triggerValue": [
-      "�U\b�\u000bmi�\u0013�'$"
+      "71",
+      "UI_AttackTrick"
     ],
     "skip": 1
   },
@@ -552,10 +636,10 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      12
     ],
     "triggerValue": [
-      "d>��Mw"
+      "ZD700013"
     ],
     "skip": 1
   },
@@ -568,10 +652,12 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      0
+      6,
+      19
     ],
     "triggerValue": [
-      "�O6�"
+      "80821",
+      "1"
     ],
     "skip": 1
   },
@@ -584,10 +670,12 @@
     "gamePadSteps": 0,
     "key": 1111,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�M��B?\u000e+❫b�"
+      "10251",
+      "UI_Divination"
     ],
     "skip": 1
   },
@@ -600,10 +688,12 @@
     "gamePadSteps": 0,
     "key": 1131,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�M��B?\n���ǈ��1��V'�"
+      "10290",
+      "UI_ComposeItemsMainView"
     ],
     "skip": 1
   },
@@ -616,10 +706,14 @@
     "gamePadSteps": 0,
     "key": 1141,
     "trigger": [
-      0
+      4,
+      20,
+      10
     ],
     "triggerValue": [
-      "�N��=P��j)�"
+      "10687",
+      "609",
+      "UI_MainUI"
     ],
     "skip": 1
   },
@@ -632,10 +726,14 @@
     "gamePadSteps": 0,
     "key": 1151,
     "trigger": [
-      0
+      4,
+      9,
+      10
     ],
     "triggerValue": [
-      "�M�����]4P�ɺj@r�\b"
+      "10298",
+      "8300100",
+      "UI_JumpActUI"
     ],
     "skip": 1
   },
@@ -648,10 +746,10 @@
     "gamePadSteps": 0,
     "key": 1161,
     "trigger": [
-      0
+      2
     ],
     "triggerValue": [
-      "�M�"
+      "10330"
     ],
     "skip": 1
   },
@@ -664,10 +762,12 @@
     "gamePadSteps": 0,
     "key": 1171,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�N9�B?\u000e+❫b�"
+      "10458",
+      "UI_Divination"
     ],
     "skip": 1
   },
@@ -680,10 +780,12 @@
     "gamePadSteps": 0,
     "key": 1181,
     "trigger": [
-      0
+      20,
+      10
     ],
     "triggerValue": [
-      "�MT#�\u001a�s\u001e��ъ\bm"
+      "401",
+      "UI_MainMenu_Right"
     ],
     "skip": 1
   },
@@ -696,10 +798,10 @@
     "gamePadSteps": 0,
     "key": 1193,
     "trigger": [
-      0
+      3
     ],
     "triggerValue": [
-      "׭"
+      "162"
     ],
     "skip": 1
   },
@@ -712,10 +814,14 @@
     "gamePadSteps": 0,
     "key": 1201,
     "trigger": [
-      0
+      4,
+      3,
+      10
     ],
     "triggerValue": [
-      "�N��]xP��j�exǞ�)�"
+      "10687",
+      "114",
+      "UI_BattleMeeting"
     ],
     "skip": 1
   },
@@ -728,10 +834,12 @@
     "gamePadSteps": 0,
     "key": 1211,
     "trigger": [
-      0
+      4,
+      20
     ],
     "triggerValue": [
-      "�M{ߍ;"
+      "10173",
+      "407"
     ],
     "skip": 1
   },
@@ -744,10 +852,14 @@
     "gamePadSteps": 0,
     "key": 1221,
     "trigger": [
-      0
+      4,
+      20,
+      10
     ],
     "triggerValue": [
-      "�N���7P��j)�z{�F(!"
+      "10689",
+      "403",
+      "UI_MainMenu_Right"
     ],
     "skip": 1
   },
@@ -760,10 +872,12 @@
     "gamePadSteps": 0,
     "key": 1413,
     "trigger": [
-      0
+      4,
+      20
     ],
     "triggerValue": [
-      "�N:�9"
+      "10468",
+      "605"
     ],
     "skip": 1
   },
@@ -776,10 +890,12 @@
     "gamePadSteps": 0,
     "key": 1431,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�N;�B?5�\u000e��֢�]\u0012��"
+      "10470",
+      "UI_NewOpenWorldEvent"
     ],
     "skip": 1
   },
@@ -792,10 +908,12 @@
     "gamePadSteps": 0,
     "key": 1481,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�N;�B?\n�$"
+      "10476",
+      "UI_Cook"
     ],
     "skip": 1
   },
@@ -808,10 +926,14 @@
     "gamePadSteps": 0,
     "key": 1501,
     "trigger": [
-      0
+      4,
+      10,
+      22
     ],
     "triggerValue": [
-      "�N;�B?>V��Ƣ�X��"
+      "10479",
+      "UI_PlantMainView",
+      "1"
     ],
     "skip": 1
   },
@@ -824,10 +946,10 @@
     "gamePadSteps": 0,
     "key": 1531,
     "trigger": [
-      0
+      16
     ],
     "triggerValue": [
-      "�M"
+      "203"
     ],
     "skip": 1
   },
@@ -840,10 +962,12 @@
     "gamePadSteps": 0,
     "key": 1571,
     "trigger": [
-      0
+      4,
+      20
     ],
     "triggerValue": [
-      "�M���7"
+      "10261",
+      "903"
     ],
     "skip": 1
   },
@@ -856,10 +980,12 @@
     "gamePadSteps": 0,
     "key": 1604,
     "trigger": [
-      0
+      4,
+      20
     ],
     "triggerValue": [
-      "�Mu��9"
+      "10111",
+      "905"
     ],
     "skip": 1
   },
@@ -872,10 +998,12 @@
     "gamePadSteps": 0,
     "key": 1623,
     "trigger": [
-      0
+      2,
+      20
     ],
     "triggerValue": [
-      "�N9�"
+      "10459",
+      "6"
     ],
     "skip": 1
   },
@@ -888,10 +1016,12 @@
     "gamePadSteps": 0,
     "key": 1645,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�N��B?=��v�j)Չ�"
+      "10699",
+      "UI_PersonaMainView"
     ],
     "skip": 1
   },
@@ -904,10 +1034,14 @@
     "gamePadSteps": 0,
     "key": 1661,
     "trigger": [
-      0
+      4,
+      10,
+      11
     ],
     "triggerValue": [
-      "�Mv�B?1��Hԓ����"
+      "10122",
+      "UI_MainSNSTip",
+      "2129"
     ],
     "skip": 1
   },
@@ -920,10 +1054,10 @@
     "gamePadSteps": 0,
     "key": 1672,
     "trigger": [
-      0
+      10
     ],
     "triggerValue": [
-      "P��jV�yj+��\"��yX�"
+      "UI_PalaceWorldMileageView"
     ],
     "skip": 1
   },
@@ -936,10 +1070,12 @@
     "gamePadSteps": 0,
     "key": 1681,
     "trigger": [
-      0
+      20,
+      10
     ],
     "triggerValue": [
-      "�MT#�^���N���I����yX�"
+      "301",
+      "UI_VelvetTrialEntranceView"
     ],
     "skip": 1
   },
@@ -952,10 +1088,14 @@
     "gamePadSteps": 0,
     "key": 1691,
     "trigger": [
-      0
+      4,
+      10,
+      20
     ],
     "triggerValue": [
-      "�M:�B?=�Zq�\b�]"
+      "10065",
+      "UI_PalaceUI",
+      "913"
     ],
     "skip": 1
   },
@@ -968,10 +1108,10 @@
     "gamePadSteps": 0,
     "key": 1704,
     "trigger": [
-      0
+      10
     ],
     "triggerValue": [
-      "P��j�b�"
+      "UI_Fashion"
     ],
     "skip": 1
   },
@@ -984,10 +1124,14 @@
     "gamePadSteps": 0,
     "key": 1711,
     "trigger": [
-      0
+      4,
+      3,
+      10
     ],
     "triggerValue": [
-      "�M��]|P��j)�z{�F(!"
+      "10263",
+      "118",
+      "UI_MainMenu_Right"
     ],
     "skip": 1
   },
@@ -1000,10 +1144,12 @@
     "gamePadSteps": 0,
     "key": 1721,
     "trigger": [
-      0
+      4,
+      10
     ],
     "triggerValue": [
-      "�^:�B?U�oz�뉩D��ڝǕ��"
+      "11463",
+      "UI_VelvetTrialEntranceView"
     ],
     "skip": 1
   },
@@ -1016,10 +1162,10 @@
     "gamePadSteps": 0,
     "key": 1731,
     "trigger": [
-      0
+      20
     ],
     "triggerValue": [
-      ""
+      "9"
     ],
     "skip": 1
   },
@@ -1032,10 +1178,10 @@
     "gamePadSteps": 0,
     "key": 1741,
     "trigger": [
-      0
+      10
     ],
     "triggerValue": [
-      "P�Ī�\t��V'�"
+      "UI_EquipCardView"
     ],
     "skip": 1
   },
@@ -1048,10 +1194,12 @@
     "gamePadSteps": 0,
     "key": 1752,
     "trigger": [
-      0
+      3,
+      10
     ],
     "triggerValue": [
-      "׾�#�ڕ��V'�"
+      "176",
+      "UI_TalentView"
     ],
     "skip": 1
   },
@@ -1064,10 +1212,10 @@
     "gamePadSteps": 0,
     "key": 1761,
     "trigger": [
-      0
+      20
     ],
     "triggerValue": [
-      "�"
+      "10"
     ],
     "skip": 1
   },
@@ -1080,10 +1228,10 @@
     "gamePadSteps": 0,
     "key": 1773,
     "trigger": [
-      0
+      3
     ],
     "triggerValue": [
-      "׾"
+      "175"
     ],
     "skip": 1
   },
@@ -1096,10 +1244,10 @@
     "gamePadSteps": 0,
     "key": 1781,
     "trigger": [
-      0
+      4
     ],
     "triggerValue": [
-      "�M7"
+      "20032"
     ],
     "skip": 1
   },
@@ -1112,10 +1260,10 @@
     "gamePadSteps": 0,
     "key": 1791,
     "trigger": [
-      0
+      10
     ],
     "triggerValue": [
-      "P�Ԟ*'1��"
+      "UI_UnionMain"
     ],
     "skip": 1
   },
@@ -1128,10 +1276,10 @@
     "gamePadSteps": 0,
     "key": 1801,
     "trigger": [
-      0
+      10
     ],
     "triggerValue": [
-      "P��i�Z��"
+      "UI_Gachapon"
     ],
     "skip": 1
   },
@@ -1144,10 +1292,10 @@
     "gamePadSteps": 0,
     "key": 1811,
     "trigger": [
-      0
+      10
     ],
     "triggerValue": [
-      "P�ӣ#\u001a�"
+      "UI_ToyMain"
     ],
     "skip": 1
   },
@@ -1160,10 +1308,12 @@
     "gamePadSteps": 0,
     "key": 1821,
     "trigger": [
-      0
+      20,
+      10
     ],
     "triggerValue": [
-      "�}\u0014#�Z��^1筊x"
+      "330",
+      "UI_BattleMeeting"
     ],
     "skip": 1
   },
@@ -1176,10 +1326,10 @@
     "gamePadSteps": 0,
     "key": 1831,
     "trigger": [
-      0
+      10
     ],
     "triggerValue": [
-      "P���j)Չ�"
+      "UI_ClubMainView"
     ],
     "skip": 1
   },
@@ -1192,10 +1342,14 @@
     "gamePadSteps": 0,
     "key": 1841,
     "trigger": [
-      0
+      2,
+      3,
+      10
     ],
     "triggerValue": [
-      "�M=�_7P���j)Չ�"
+      "20091",
+      "183",
+      "UI_ClubMainView"
     ],
     "skip": 1
   },
@@ -1208,10 +1362,12 @@
     "gamePadSteps": 0,
     "key": 1851,
     "trigger": [
-      0
+      16,
+      10
     ],
     "triggerValue": [
-      "�M�#�h�祊׌�؟1��V'�"
+      "603",
+      "UI_RogueliteMotifMainView"
     ],
     "skip": 1
   },
@@ -1224,10 +1380,12 @@
     "gamePadSteps": 0,
     "key": 1861,
     "trigger": [
-      0
+      16,
+      10
     ],
     "triggerValue": [
-      "�N\u0014#�h�祊׍�׌j�b{"
+      "604",
+      "UI_RogueliteNodeMapView"
     ],
     "skip": 1
   },
@@ -1240,10 +1398,10 @@
     "gamePadSteps": 0,
     "key": 1871,
     "trigger": [
-      0
+      9
     ],
     "triggerValue": [
-      "�6�}"
+      "5502931"
     ],
     "skip": 1
   },
@@ -1256,10 +1414,10 @@
     "gamePadSteps": 0,
     "key": 1881,
     "trigger": [
-      0
+      5
     ],
     "triggerValue": [
-      "�]"
+      "410"
     ],
     "skip": 1
   },
@@ -1272,10 +1430,12 @@
     "gamePadSteps": 0,
     "key": 1891,
     "trigger": [
-      0
+      2,
+      10
     ],
     "triggerValue": [
-      "�Mt�B?\u0001�b�+r"
+      "20100",
+      "UI_Activity"
     ],
     "skip": 1
   },
@@ -1288,10 +1448,14 @@
     "gamePadSteps": 0,
     "key": 1901,
     "trigger": [
-      0
+      16,
+      27,
+      10
     ],
     "triggerValue": [
-      "�M�P�Ӣ�\"�Ȩ�B"
+      "303",
+      "2",
+      "UI_TopMissionUI"
     ],
     "skip": 1
   },
@@ -1304,10 +1468,12 @@
     "gamePadSteps": 0,
     "key": 1921,
     "trigger": [
-      0
+      5,
+      10
     ],
     "triggerValue": [
-      "�E\b�\u0016��W�y�b�"
+      "10",
+      "UI_BattleMeeting"
     ],
     "skip": 1
   },
@@ -1320,10 +1486,10 @@
     "gamePadSteps": 0,
     "key": 1931,
     "trigger": [
-      0
+      20
     ],
     "triggerValue": [
-      "�M"
+      "302"
     ],
     "skip": 1
   },
@@ -1336,10 +1502,12 @@
     "gamePadSteps": 0,
     "key": 1941,
     "trigger": [
-      0
+      3,
+      10
     ],
     "triggerValue": [
-      "׮�#�ڕ�\u001eZ��tȥy�\u001eV'�"
+      "167",
+      "UI_PalaceWorldMileageView"
     ],
     "skip": 1
   },
@@ -1352,10 +1520,10 @@
     "gamePadSteps": 0,
     "key": 1951,
     "trigger": [
-      0
+      20
     ],
     "triggerValue": [
-      "�M"
+      "503"
     ],
     "skip": 1
   },
@@ -1368,10 +1536,10 @@
     "gamePadSteps": 0,
     "key": 1961,
     "trigger": [
-      0
+      20
     ],
     "triggerValue": [
-      "߭"
+      "360"
     ],
     "skip": 1
   },
@@ -1384,10 +1552,12 @@
     "gamePadSteps": 0,
     "key": 1981,
     "trigger": [
-      0
+      2,
+      10
     ],
     "triggerValue": [
-      "�]<�B?\n\u0016����x�Z�*%��-��"
+      "11089",
+      "UI_ChallengePlayCollection"
     ],
     "skip": 1
   },
@@ -1400,10 +1570,10 @@
     "gamePadSteps": 0,
     "key": 1993,
     "trigger": [
-      0
+      2
     ],
     "triggerValue": [
-      "�]<"
+      "11089"
     ],
     "skip": 1
   },
@@ -1416,10 +1586,10 @@
     "gamePadSteps": 0,
     "key": 2001,
     "trigger": [
-      0
+      20
     ],
     "triggerValue": [
-      "�M"
+      "402"
     ],
     "skip": 1
   },
@@ -1432,10 +1602,10 @@
     "gamePadSteps": 0,
     "key": 9991,
     "trigger": [
-      0
+      10
     ],
     "triggerValue": [
-      "P�ӆ'�\n�)�\u0007-����X�"
+      "UI_ThiefCoopsActivityView"
     ],
     "skip": 1
   }

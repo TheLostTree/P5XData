@@ -3,21 +3,22 @@
     "sn": 1,
     "limitType": 1,
     "limitTimes": [
-      0
+      1
     ]
   },
   {
     "sn": 2,
     "limitType": 3,
     "limitTimes": [
-      0
+      3,
+      1
     ]
   },
   {
     "sn": 3,
     "limitType": 2,
     "limitTimes": [
-      0
+      10254
     ]
   }
 ]

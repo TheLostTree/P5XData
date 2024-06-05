@@ -320,7 +320,9 @@
     "model": "bs_niudan_3_2",
     "modelFaceTo": 245,
     "modelPosition": [
-      0
+      0,
+      1,
+      -500
     ],
     "collectionExp": 10,
     "recoveryParam": 3
@@ -334,7 +336,9 @@
     "model": "bs_niudan_3_4",
     "modelFaceTo": 245,
     "modelPosition": [
-      0
+      0,
+      1,
+      -500
     ],
     "collectionExp": 10,
     "recoveryParam": 3
@@ -348,7 +352,9 @@
     "model": "bs_niudan_3_3",
     "modelFaceTo": 245,
     "modelPosition": [
-      0
+      0,
+      0.9,
+      -500
     ],
     "collectionExp": 10,
     "recoveryParam": 3
@@ -362,7 +368,9 @@
     "model": "bs_niudan_3_1",
     "modelFaceTo": 245,
     "modelPosition": [
-      0
+      0,
+      1,
+      -500
     ],
     "collectionExp": 20,
     "recoveryParam": 3
@@ -376,7 +384,9 @@
     "model": "bs_niudan_3_5",
     "modelFaceTo": 245,
     "modelPosition": [
-      0
+      0,
+      0.75,
+      -500
     ],
     "collectionExp": 10,
     "recoveryParam": 3
@@ -390,7 +400,9 @@
     "model": "bs_niudan_3_6",
     "modelFaceTo": 245,
     "modelPosition": [
-      0
+      0,
+      1,
+      -500
     ],
     "collectionExp": 30,
     "recoveryParam": 3
@@ -440,7 +452,9 @@
     "model": "bs_niudan_7_6",
     "modelFaceTo": 245,
     "modelPosition": [
-      0
+      0,
+      -1.44,
+      -100
     ],
     "collectionExp": 10,
     "recoveryParam": 4

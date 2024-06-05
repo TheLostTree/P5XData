@@ -16,7 +16,9 @@
     "forward": 0,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.03,
+      0.17,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -41,7 +43,9 @@
     "forward": 0,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.3,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -66,7 +70,9 @@
     "forward": 0,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.65,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -91,7 +97,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.3,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -116,7 +124,9 @@
     "forward": 1.5,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0,
+      0.6,
+      0.5
     ],
     "jumpFadeInTime": 0.1,
     "jumpBtnImg": "",
@@ -141,7 +151,9 @@
     "forward": 2.5,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.01,
+      0.467,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -166,7 +178,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.3,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -191,7 +205,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.3,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -216,7 +232,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.3,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -241,7 +259,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.3,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -266,7 +286,9 @@
     "forward": 1.5,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0,
+      0.6,
+      0.5
     ],
     "jumpFadeInTime": 0.1,
     "jumpBtnImg": "",
@@ -337,7 +359,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.23,
+      0.6,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -362,7 +386,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.23,
+      0.6,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -387,7 +413,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.23,
+      0.6,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -412,7 +440,9 @@
     "forward": 0,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.3,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -437,7 +467,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.2,
+      0.4,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -462,7 +494,9 @@
     "forward": 0.4,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.3,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -487,7 +521,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.3,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -512,7 +548,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.3,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "",
@@ -537,7 +575,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.03,
+      0.4,
+      0.5
     ],
     "jumpFadeInTime": 0.05,
     "jumpBtnImg": "ACT-tiaoyueputong2.png",
@@ -562,7 +602,9 @@
     "forward": 0,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.2,
+      0.2,
+      0.2
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "ACT-tiaoyueputong2.png",
@@ -587,7 +629,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.25,
+      0.8
     ],
     "jumpFadeInTime": 0.2,
     "jumpBtnImg": "ACT-tiaoyueputong2.png",
@@ -612,7 +656,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.03,
+      0.4,
+      0.5
     ],
     "jumpFadeInTime": 0.2,
     "jumpBtnImg": "ACT-tiaoyueputong2.png",
@@ -637,7 +683,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.35,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "ACT-tiaoyueputong2.png",
@@ -662,7 +710,9 @@
     "forward": -1,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0,
+      0.4,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "ACT-tiaoyueputong2.png",
@@ -687,7 +737,9 @@
     "forward": 0.5,
     "effect": "TL_man_jump.prefab",
     "effectTime": [
-      0
+      0.1,
+      0.25,
+      0.5
     ],
     "jumpFadeInTime": 0.01,
     "jumpBtnImg": "ACT-tiaoyueputong2.png",

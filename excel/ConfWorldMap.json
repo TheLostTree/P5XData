@@ -17,17 +17,20 @@
     "unlockTips": 1014301,
     "line": 4,
     "stationNpc": [
-      0
+      10102
     ],
     "boardNpc": [
-      0
+      10024
     ],
     "stationDesc": "不但作为住宅区很受欢迎，而且被称为三角地带的小巷也因餐厅而热闹非凡。",
     "iconSchedulePos": [
-      0
+      -36,
+      -135
     ],
     "iconScheduleRot": [
-      0
+      0,
+      0,
+      -8.4
     ]
   },
   {
@@ -48,17 +51,28 @@
     "unlockTips": 1014302,
     "line": 12,
     "stationNpc": [
-      0
+      2102016,
+      2102017,
+      2102018,
+      2102025,
+      29020,
+      29021
     ],
     "boardNpc": [
-      0
+      2102102,
+      2102103,
+      29019,
+      5000002
     ],
     "stationDesc": "有名的年轻人街道，各种各样的商店鳞次栉比。处于交通要道，可以在此换乘多条路线。",
     "iconSchedulePos": [
-      0
+      -62,
+      -118
     ],
     "iconScheduleRot": [
-      0
+      0,
+      0,
+      -8.4
     ]
   },
   {
@@ -79,17 +93,20 @@
     "unlockTips": 1014305,
     "line": 11,
     "stationNpc": [
-      0
+      50001
     ],
     "boardNpc": [
-      0
+      50027
     ],
     "stationDesc": "作为东京副都心的繁华闹区。\n娱乐街中各种店家林立，夜里变身为成人的街道。",
     "iconSchedulePos": [
-      0
+      0,
+      -108
     ],
     "iconScheduleRot": [
-      0
+      0,
+      0,
+      25.2
     ]
   },
   {
@@ -98,7 +115,7 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "L����j�b�\u000f��nv&�"
+      "TL_shenbaoting_gushudian"
     ],
     "unlockType": 1,
     "Open": 1,
@@ -146,7 +163,8 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "L��x3�+h��(�\f�jt��8��8b��������"
+      "TL_jingzhitou_gongyuan",
+      "TL_jingzhitou_gongyuan2"
     ],
     "unlockType": 3,
     "Open": 1,
@@ -171,7 +189,7 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "L�܆'Z��b�\t(�\b.j"
+      "TL_chidai_xingkongguan"
     ],
     "unlockType": 3,
     "Open": 1,
@@ -196,7 +214,7 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "L�셩����z+!�\u000b�"
+      "TL_shangye_meishuguan"
     ],
     "unlockType": 3,
     "Open": 1,
@@ -234,14 +252,17 @@
     "line": 11,
     "stationNpc": [],
     "boardNpc": [
-      0
+      400001
     ],
     "stationDesc": "除了拥有工具到家电的电器街面貌，女仆咖啡店等次文化也在这里发扬光大。",
     "iconSchedulePos": [
-      0
+      22,
+      -108
     ],
     "iconScheduleRot": [
-      0
+      0,
+      0,
+      25.2
     ]
   },
   {
@@ -250,7 +271,7 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "L���j��j���^r\u0016�"
+      "TL_shuidaoqiao_youlechang"
     ],
     "unlockType": 1,
     "Open": 1,
@@ -275,7 +296,8 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "L�ꉩ�j�퉩�x-i2��&�q�?�&���൭"
+      "TL_qiancao_tiankongta",
+      "TL_qiancao_tiankongta2"
     ],
     "unlockType": 3,
     "Open": 1,
@@ -300,7 +322,8 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "L���퉩��&���/�!z{bj㉪!�-"
+      "TL_shentian_jiaohui",
+      "TL_shentian_jiaohui2"
     ],
     "unlockType": 2,
     "Open": 1,
@@ -371,7 +394,7 @@
     "lockShow": 1,
     "type": 2,
     "params": [
-      "L���Z��\u001e�8���"
+      "TL_yuedao_wenzishao"
     ],
     "unlockType": 1,
     "Open": 1,
@@ -396,7 +419,8 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "L��j'!jx?��bjyn�T��֢r\u0016�����&����"
+      "TL_taichang_motianlun1",
+      "TL_taichang_motianlun2"
     ],
     "unlockType": 1,
     "Open": 1,
@@ -467,7 +491,7 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "L�����8b�"
+      "TL_yuansu_zhuzhizi"
     ],
     "unlockType": 1,
     "Open": 1,
@@ -492,7 +516,7 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "L�݋\u0006����jwbj"
+      "TL_diwa_lamiandian"
     ],
     "unlockType": 1,
     "Open": 1,
@@ -525,7 +549,7 @@
     "icon": "dushi-ditiezhan-shigu-new.png",
     "sceneSn": 250,
     "transferPoint": [
-      0
+      250000
     ],
     "tipsStr": 1014025,
     "unlockTips": 1014325,
@@ -554,17 +578,26 @@
     "unlockTips": 1014326,
     "line": 2,
     "stationNpc": [
-      0
+      273002,
+      273003
     ],
     "boardNpc": [
-      0
+      273004,
+      269201,
+      271001,
+      276201,
+      272002,
+      999995001
     ],
     "stationDesc": "很适合散步的街道。有『戏剧之城』的称号，是知名的『亚文化天堂』。\n历史悠久的己刮学园也坐落在此。",
     "iconSchedulePos": [
-      0
+      40,
+      -85
     ],
     "iconScheduleRot": [
-      0
+      0,
+      0,
+      25.2
     ]
   },
   {
@@ -585,17 +618,20 @@
     "unlockTips": 1014327,
     "line": 12,
     "stationNpc": [
-      0
+      280003
     ],
     "boardNpc": [
-      0
+      280005
     ],
     "stationDesc": "寂静怀旧的东京街道。\n可远离日常的繁忙与都市的喧嚣。",
     "iconSchedulePos": [
-      0
+      40,
+      -92
     ],
     "iconScheduleRot": [
-      0
+      0,
+      0,
+      25.2
     ]
   },
   {
@@ -617,14 +653,17 @@
     "line": 2,
     "stationNpc": [],
     "boardNpc": [
-      0
+      300001
     ],
     "stationDesc": "这是个街道多姿多彩、并列着形形色色店家的街区。不论男女老少都喜爱这里。",
     "iconSchedulePos": [
-      0
+      5,
+      -104
     ],
     "iconScheduleRot": [
-      0
+      0,
+      0,
+      25.2
     ]
   }
 ]

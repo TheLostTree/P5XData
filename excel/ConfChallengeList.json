@@ -5,14 +5,14 @@
     "funcOpen": 302,
     "type": 1,
     "param": [
-      0
+      1101
     ],
     "showParam": [],
     "icon": "wanfaheji-MTicon3-7.png",
     "iconBg": "wanfaheji-MTicon2-1.png",
     "bg": "wanfaheji-MTicon1-6.png",
     "funcSn": [
-      0
+      31002
     ],
     "desc": "怪盗经验",
     "selectedTag": 0,
@@ -37,14 +37,14 @@
     "funcOpen": 302,
     "type": 1,
     "param": [
-      0
+      1201
     ],
     "showParam": [],
     "icon": "wanfaheji-MTicon3-6.png",
     "iconBg": "wanfaheji-MTicon2-3.png",
     "bg": "wanfaheji-MTicon1-5.png",
     "funcSn": [
-      0
+      31003
     ],
     "desc": "武器经验",
     "selectedTag": 0,
@@ -69,14 +69,14 @@
     "funcOpen": 302,
     "type": 1,
     "param": [
-      0
+      1401
     ],
     "showParam": [],
     "icon": "wanfaheji-MTicon3-5.png",
     "iconBg": "wanfaheji-MTicon2-1.png",
     "bg": "wanfaheji-MTicon1-4.png",
     "funcSn": [
-      0
+      31005
     ],
     "desc": "面具经验",
     "selectedTag": 0,
@@ -101,14 +101,14 @@
     "funcOpen": 302,
     "type": 1,
     "param": [
-      0
+      1301
     ],
     "showParam": [],
     "icon": "wanfaheji-MTicon3-1.png",
     "iconBg": "wanfaheji-MTicon2-1.png",
     "bg": "wanfaheji-MTicon1-3.png",
     "funcSn": [
-      0
+      31004
     ],
     "desc": "大量魂石",
     "selectedTag": 0,
@@ -133,14 +133,14 @@
     "funcOpen": 302,
     "type": 1,
     "param": [
-      0
+      1700
     ],
     "showParam": [],
     "icon": "wanfaheji-MTicon3-4.png",
     "iconBg": "wanfaheji-MTicon2-2.png",
     "bg": "wanfaheji-MTicon1-9.png",
     "funcSn": [
-      0
+      31008
     ],
     "desc": "技能升级",
     "selectedTag": 0,
@@ -165,14 +165,14 @@
     "funcOpen": 302,
     "type": 1,
     "param": [
-      0
+      1500
     ],
     "showParam": [],
     "icon": "wanfaheji-MTicon3-3.png",
     "iconBg": "wanfaheji-MTicon2-1.png",
     "bg": "wanfaheji-MTicon1-8.png",
     "funcSn": [
-      0
+      31006
     ],
     "desc": "潜能提升材料-初级",
     "selectedTag": 0,
@@ -197,14 +197,14 @@
     "funcOpen": 302,
     "type": 1,
     "param": [
-      0
+      1600
     ],
     "showParam": [],
     "icon": "wanfaheji-MTicon3-2.png",
     "iconBg": "wanfaheji-MTicon2-3.png",
     "bg": "wanfaheji-MTicon1-7.png",
     "funcSn": [
-      0
+      31007
     ],
     "desc": "武器突破材料-初级",
     "selectedTag": 0,
@@ -234,7 +234,7 @@
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      21800
     ],
     "desc": "",
     "selectedTag": 0,
@@ -259,16 +259,17 @@
     "funcOpen": 9,
     "type": 3,
     "param": [
-      0
+      1802
     ],
     "showParam": [
-      0
+      2,
+      14
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31014
     ],
     "desc": "生机之语",
     "selectedTag": 0,
@@ -293,16 +294,17 @@
     "funcOpen": 9,
     "type": 3,
     "param": [
-      0
+      1803
     ],
     "showParam": [
-      0
+      15,
+      20
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31015
     ],
     "desc": "羁绊之语",
     "selectedTag": 0,
@@ -327,16 +329,17 @@
     "funcOpen": 9,
     "type": 3,
     "param": [
-      0
+      1804
     ],
     "showParam": [
-      0
+      4,
+      8
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31016
     ],
     "desc": "抗争之语",
     "selectedTag": 0,
@@ -361,16 +364,17 @@
     "funcOpen": 9,
     "type": 3,
     "param": [
-      0
+      1805
     ],
     "showParam": [
-      0
+      16,
+      19
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31017
     ],
     "desc": "决胜之语",
     "selectedTag": 0,
@@ -395,16 +399,17 @@
     "funcOpen": 9,
     "type": 3,
     "param": [
-      0
+      1809
     ],
     "showParam": [
-      0
+      6,
+      9
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31021
     ],
     "desc": "自然之语",
     "selectedTag": 0,
@@ -429,16 +434,17 @@
     "funcOpen": 9,
     "type": 3,
     "param": [
-      0
+      1901
     ],
     "showParam": [
-      0
+      12,
+      24
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31023
     ],
     "desc": "从容之语",
     "selectedTag": 0,
@@ -463,16 +469,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3000
     ],
     "showParam": [
-      0
+      155
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31110
     ],
     "desc": "",
     "selectedTag": 0,
@@ -497,16 +503,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3001
     ],
     "showParam": [
-      0
+      122
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31120
     ],
     "desc": "",
     "selectedTag": 0,
@@ -531,16 +537,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3033
     ],
     "showParam": [
-      0
+      111
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31431
     ],
     "desc": "",
     "selectedTag": 0,
@@ -565,16 +571,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3034
     ],
     "showParam": [
-      0
+      117
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31432
     ],
     "desc": "",
     "selectedTag": 0,
@@ -599,16 +605,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3035
     ],
     "showParam": [
-      0
+      178
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31433
     ],
     "desc": "",
     "selectedTag": 0,
@@ -633,16 +639,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3002
     ],
     "showParam": [
-      0
+      181
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31130
     ],
     "desc": "",
     "selectedTag": 0,
@@ -667,16 +673,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3003
     ],
     "showParam": [
-      0
+      211
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31140
     ],
     "desc": "",
     "selectedTag": 0,
@@ -701,16 +707,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3036
     ],
     "showParam": [
-      0
+      143
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31434
     ],
     "desc": "",
     "selectedTag": 0,
@@ -735,16 +741,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3037
     ],
     "showParam": [
-      0
+      193
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31435
     ],
     "desc": "",
     "selectedTag": 0,
@@ -769,16 +775,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3038
     ],
     "showParam": [
-      0
+      184
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31436
     ],
     "desc": "",
     "selectedTag": 0,
@@ -803,16 +809,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3004
     ],
     "showParam": [
-      0
+      187
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31150
     ],
     "desc": "",
     "selectedTag": 0,
@@ -837,16 +843,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3005
     ],
     "showParam": [
-      0
+      200
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31160
     ],
     "desc": "",
     "selectedTag": 0,
@@ -871,16 +877,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3006
     ],
     "showParam": [
-      0
+      168
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31170
     ],
     "desc": "",
     "selectedTag": 0,
@@ -905,16 +911,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3007
     ],
     "showParam": [
-      0
+      144
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31180
     ],
     "desc": "",
     "selectedTag": 0,
@@ -939,16 +945,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3008
     ],
     "showParam": [
-      0
+      227
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31190
     ],
     "desc": "",
     "selectedTag": 0,
@@ -973,16 +979,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3009
     ],
     "showParam": [
-      0
+      230
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31200
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1007,16 +1013,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3010
     ],
     "showParam": [
-      0
+      172
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31210
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1041,16 +1047,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3011
     ],
     "showParam": [
-      0
+      231
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31220
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1075,16 +1081,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3012
     ],
     "showParam": [
-      0
+      141
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31230
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1109,16 +1115,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3013
     ],
     "showParam": [
-      0
+      189
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31240
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1143,16 +1149,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3014
     ],
     "showParam": [
-      0
+      202
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31250
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1177,16 +1183,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3015
     ],
     "showParam": [
-      0
+      201
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31260
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1211,16 +1217,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3016
     ],
     "showParam": [
-      0
+      249
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31270
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1245,16 +1251,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3017
     ],
     "showParam": [
-      0
+      244
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31280
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1279,16 +1285,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3018
     ],
     "showParam": [
-      0
+      159
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31290
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1313,16 +1319,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3019
     ],
     "showParam": [
-      0
+      147
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31300
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1347,16 +1353,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3020
     ],
     "showParam": [
-      0
+      210
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31310
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1381,16 +1387,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3022
     ],
     "showParam": [
-      0
+      237
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31330
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1415,16 +1421,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3021
     ],
     "showParam": [
-      0
+      206
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31320
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1449,16 +1455,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3023
     ],
     "showParam": [
-      0
+      208
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31340
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1483,16 +1489,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3025
     ],
     "showParam": [
-      0
+      247
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31360
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1517,16 +1523,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3026
     ],
     "showParam": [
-      0
+      191
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31370
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1551,16 +1557,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3024
     ],
     "showParam": [
-      0
+      213
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31350
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1585,16 +1591,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3027
     ],
     "showParam": [
-      0
+      215
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31380
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1619,16 +1625,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3028
     ],
     "showParam": [
-      0
+      216
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31390
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1653,16 +1659,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3030
     ],
     "showParam": [
-      0
+      253
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31410
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1687,16 +1693,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3031
     ],
     "showParam": [
-      0
+      121
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31420
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1721,16 +1727,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3032
     ],
     "showParam": [
-      0
+      254
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31430
     ],
     "desc": "",
     "selectedTag": 0,
@@ -1755,16 +1761,16 @@
     "funcOpen": 302,
     "type": 2,
     "param": [
-      0
+      3029
     ],
     "showParam": [
-      0
+      212
     ],
     "icon": "",
     "iconBg": "",
     "bg": "",
     "funcSn": [
-      0
+      31400
     ],
     "desc": "",
     "selectedTag": 0,

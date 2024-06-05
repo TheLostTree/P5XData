@@ -7,11 +7,11 @@
     "characterColor": "#0072D6",
     "weaponNamePic": "pinzhi-chouka-mingzidi-lan.png",
     "weaponStarPic": [
-      "�)�/��x1�x>�)�"
+      "pinzhi-xingxing-jin.png"
     ],
     "characterNamePic": "pinzhi-chouka-mingzidi-lan.png",
     "characterStarPic": [
-      "�)�/��x1�x>�)�"
+      "pinzhi-xingxing-jin.png"
     ],
     "weaponGradePic": "chuka-danchoudi2.png",
     "anim": "lan",
@@ -29,11 +29,11 @@
     "characterColor": "#c900e4",
     "weaponNamePic": "pinzhi-chouka-mingzidi-zi.png",
     "weaponStarPic": [
-      "�)�/��x1�x>�)�"
+      "pinzhi-xingxing-jin.png"
     ],
     "characterNamePic": "pinzhi-chouka-mingzidi-zi.png",
     "characterStarPic": [
-      "�)�/��x1�x>�)�"
+      "pinzhi-xingxing-jin.png"
     ],
     "weaponGradePic": "chuka-danchoudi4.png",
     "anim": "lan",
@@ -51,19 +51,21 @@
     "characterColor": "#E9CB2F",
     "weaponNamePic": "pinzhi-chouka-mingzidi-jin.png",
     "weaponStarPic": [
-      "�)�/��x1�x>�)�"
+      "pinzhi-xingxing-jin.png"
     ],
     "characterNamePic": "pinzhi-chouka-mingzidi-jin.png",
     "characterStarPic": [
-      "�)�/��x1�x>�)�"
+      "pinzhi-xingxing-jin.png"
     ],
     "weaponGradePic": "chuka-danchoudi5.png",
     "anim": "zi",
     "characterEffect": [
-      "��!k�޲�m�O܅�ষ�i�\u001ar\u0016���.��t��^�\r����"
+      "gacha_result10_cheng.prefab",
+      "gacha_result10_cheng2.prefab"
     ],
     "weaponEffect": [
-      "��!k�޲�m�O܅�ষ�i�\u001ar\u0016���.��t��^�\r����"
+      "gacha_result10_cheng.prefab",
+      "gacha_result10_cheng2.prefab"
     ],
     "characterRecordPic": "chouka-jilu-guaidao-type2-i18n.png",
     "weaponRecordPic": "chouka-jilu-wuqi-type2-i18n.png",
@@ -77,19 +79,29 @@
     "characterColor": "#b5d9e5",
     "weaponNamePic": "pinzhi-chouka-mingzidi-cai.png",
     "weaponStarPic": [
-      "�)�/��x1�x>q���Zg����\u0018��)��)��Ƣ�M��\nb�8b�\u0018��\u0018���\u001a��7�x)�|��b�\fb�\u000f�j/���)�/��x1�x>q��Ӛg"
+      "pinzhi-xingxing-cai-01.png",
+      "pinzhi-xingxing-cai-02.png",
+      "pinzhi-xingxing-cai-03.png",
+      "pinzhi-xingxing-cai-04.png",
+      "pinzhi-xingxing-cai-05.png"
     ],
     "characterNamePic": "pinzhi-chouka-mingzidi-cai.png",
     "characterStarPic": [
-      "�)�/��x1�x>q���Zg����\u0018��)��)��Ƣ�M��\nb�8b�\u0018��\u0018���\u001a��7�x)�|��b�\fb�\u000f�j/���)�/��x1�x>q��Ӛg"
+      "pinzhi-xingxing-cai-01.png",
+      "pinzhi-xingxing-cai-02.png",
+      "pinzhi-xingxing-cai-03.png",
+      "pinzhi-xingxing-cai-04.png",
+      "pinzhi-xingxing-cai-05.png"
     ],
     "weaponGradePic": "chuka-danchoudi6.png",
     "anim": "cheng",
     "characterEffect": [
-      "��!k�޲�m�O�j*ky����!k�޲�m�O�j-���"
+      "gacha_result10_cai.prefab",
+      "gacha_result10_cai3.prefab"
     ],
     "weaponEffect": [
-      "��!k�޲�m�O�j*ky����!k�޲�m�O�j-���"
+      "gacha_result10_cai.prefab",
+      "gacha_result10_cai3.prefab"
     ],
     "characterRecordPic": "chouka-jilu-guaidao-type1-i18n.png",
     "weaponRecordPic": "chouka-jilu-wuqi-type1-i18n.png",

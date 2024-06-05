@@ -2,7 +2,9 @@
   {
     "sn": 1,
     "uiName": [
-      "P�ͥ�'���rدyX��B?\u0016��۫x��z���:.r\u0015\b�'\u001e��'���rӛ��-V'�"
+      "UI_NpcInteractiveView",
+      "UI_FurnitureInteractTouch",
+      "UI_SceneInteractObjectView"
     ],
     "bindKey": 1,
     "bindKeyGamepad": 7,
@@ -19,14 +21,18 @@
   {
     "sn": 2,
     "uiName": [
-      "P��j)�j�\b���iǔ!B?:��Z��tƩP��jV�yj+��\b���iǌj"
+      "UI_MainMap",
+      "UI_PalaceUI",
+      "UI_OpenWorldMap",
+      "UI_PalaceWorld",
+      "UI_PalaceMap"
     ],
     "bindKey": 27,
     "bindKeyGamepad": 12,
     "des": "打开当前地图",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      215
     ],
     "showType": 1,
     "modify": 1,
@@ -38,14 +44,18 @@
   {
     "sn": 3,
     "uiName": [
-      "P��j)�!B?=�Zq�\bP��j�exǞ�)�P��zYO���P�Ě�rV'�"
+      "UI_MainUI",
+      "UI_PalaceUI",
+      "UI_BattleMeeting",
+      "UI_CellPhone",
+      "UI_EmptyView"
     ],
     "bindKey": 3,
     "bindKeyGamepad": 8,
     "des": "打开菜单",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      215
     ],
     "showType": 1,
     "modify": 1,
@@ -57,7 +67,9 @@
   {
     "sn": 4,
     "uiName": [
-      "P��j)�j�\b���iǔ!B?:��Z��tƩ"
+      "UI_MainMap",
+      "UI_PalaceUI",
+      "UI_OpenWorldMap"
     ],
     "bindKey": 39,
     "bindKeyGamepad": 9,
@@ -74,14 +86,16 @@
   {
     "sn": 5,
     "uiName": [
-      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+      "UI_MainUI",
+      "UI_PalaceUI",
+      "UI_BattleMeeting"
     ],
     "bindKey": 30,
     "bindKeyGamepad": 0,
     "des": "打开人格面具",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      904
     ],
     "showType": 1,
     "modify": 1,
@@ -93,14 +107,16 @@
   {
     "sn": 6,
     "uiName": [
-      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+      "UI_MainUI",
+      "UI_PalaceUI",
+      "UI_BattleMeeting"
     ],
     "bindKey": 17,
     "bindKeyGamepad": 0,
     "des": "打开怪盗",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      903
     ],
     "showType": 1,
     "modify": 1,
@@ -112,14 +128,16 @@
   {
     "sn": 7,
     "uiName": [
-      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+      "UI_MainUI",
+      "UI_PalaceUI",
+      "UI_BattleMeeting"
     ],
     "bindKey": 34,
     "bindKeyGamepad": 0,
     "des": "打开阵容",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      200
     ],
     "showType": 1,
     "modify": 1,
@@ -131,14 +149,14 @@
   {
     "sn": 8,
     "uiName": [
-      "P��j)�z{�F(!"
+      "UI_MainMenu_Right"
     ],
     "bindKey": 95,
     "bindKeyGamepad": 0,
     "des": "打开雏鸟计划",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      403
     ],
     "showType": 1,
     "modify": 1,
@@ -150,14 +168,14 @@
   {
     "sn": 9,
     "uiName": [
-      "P��j)�z{�F(!"
+      "UI_MainMenu_Right"
     ],
     "bindKey": 96,
     "bindKeyGamepad": 0,
     "des": "打开契约",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      401
     ],
     "showType": 1,
     "modify": 1,
@@ -169,14 +187,14 @@
   {
     "sn": 10,
     "uiName": [
-      "P��j)�z{�F(!"
+      "UI_MainMenu_Right"
     ],
     "bindKey": 97,
     "bindKeyGamepad": 0,
     "des": "打开目标",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      407
     ],
     "showType": 1,
     "modify": 1,
@@ -188,14 +206,14 @@
   {
     "sn": 11,
     "uiName": [
-      "P��j)�z{�F(!"
+      "UI_MainMenu_Right"
     ],
     "bindKey": 98,
     "bindKeyGamepad": 0,
     "des": "打开活动",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      402
     ],
     "showType": 1,
     "modify": 1,
@@ -207,14 +225,16 @@
   {
     "sn": 12,
     "uiName": [
-      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+      "UI_MainUI",
+      "UI_PalaceUI",
+      "UI_BattleMeeting"
     ],
     "bindKey": 25,
     "bindKeyGamepad": 0,
     "des": "打开协同者",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      905
     ],
     "showType": 1,
     "modify": 1,
@@ -226,14 +246,16 @@
   {
     "sn": 13,
     "uiName": [
-      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+      "UI_MainUI",
+      "UI_PalaceUI",
+      "UI_BattleMeeting"
     ],
     "bindKey": 23,
     "bindKeyGamepad": 0,
     "des": "打开邮件",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      907
     ],
     "showType": 1,
     "modify": 1,
@@ -245,7 +267,8 @@
   {
     "sn": 14,
     "uiName": [
-      "P�Ӣ�\"�Ȩ�B\u0014#�ڲC\u001a�s\u001e�"
+      "UI_TopMissionUI",
+      "UI_TaskMainMenu"
     ],
     "bindKey": 24,
     "bindKeyGamepad": 14,
@@ -262,14 +285,14 @@
   {
     "sn": 15,
     "uiName": [
-      "P��j)�"
+      "UI_MainUI"
     ],
     "bindKey": 40,
     "bindKeyGamepad": 6,
     "des": "打开都市",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      605
     ],
     "showType": 1,
     "modify": 1,
@@ -281,14 +304,16 @@
   {
     "sn": 16,
     "uiName": [
-      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+      "UI_MainUI",
+      "UI_PalaceUI",
+      "UI_BattleMeeting"
     ],
     "bindKey": 16,
     "bindKeyGamepad": 0,
     "des": "打开背包",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      902
     ],
     "showType": 1,
     "modify": 1,
@@ -300,14 +325,16 @@
   {
     "sn": 17,
     "uiName": [
-      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+      "UI_MainUI",
+      "UI_PalaceUI",
+      "UI_BattleMeeting"
     ],
     "bindKey": 29,
     "bindKeyGamepad": 0,
     "des": "打开通讯录",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      908
     ],
     "showType": 1,
     "modify": 1,
@@ -319,14 +346,14 @@
   {
     "sn": 18,
     "uiName": [
-      "P��j)�"
+      "UI_MainUI"
     ],
     "bindKey": 21,
     "bindKeyGamepad": 0,
     "des": "打开拍照",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      912
     ],
     "showType": 1,
     "modify": 1,
@@ -338,14 +365,16 @@
   {
     "sn": 19,
     "uiName": [
-      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+      "UI_MainUI",
+      "UI_PalaceUI",
+      "UI_BattleMeeting"
     ],
     "bindKey": 35,
     "bindKeyGamepad": 0,
     "des": "打开奖杯",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      909
     ],
     "showType": 1,
     "modify": 1,
@@ -357,14 +386,16 @@
   {
     "sn": 20,
     "uiName": [
-      "P��O���{\u0005b{\u0005\b�I�p�j��z���X��B?Rx��(Z��޾'�V'�\"s\u001a�"
+      "UI_ChatPreviewView",
+      "UI_UnionChatPreviewView",
+      "UI_UnionChatPreviewViewInMain"
     ],
     "bindKey": 2,
     "bindKeyGamepad": 4,
     "des": "打开聊天面板",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      607
     ],
     "showType": 1,
     "modify": 1,
@@ -376,14 +407,14 @@
   {
     "sn": 21,
     "uiName": [
-      "P��j)�j"
+      "UI_MainMap"
     ],
     "bindKey": 28,
     "bindKeyGamepad": 3,
     "des": "打开SNS",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      608
     ],
     "showType": 1,
     "modify": 1,
@@ -395,7 +426,7 @@
   {
     "sn": 22,
     "uiName": [
-      "P�¢i��:(�\u0016�"
+      "UI_CommonToolBar"
     ],
     "bindKey": 68,
     "bindKeyGamepad": 0,
@@ -412,14 +443,14 @@
   {
     "sn": 23,
     "uiName": [
-      "P��j)�"
+      "UI_MainUI"
     ],
     "bindKey": 38,
     "bindKeyGamepad": 5,
     "des": "打开异世界",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      200
     ],
     "showType": 1,
     "modify": 1,
@@ -431,7 +462,7 @@
   {
     "sn": 24,
     "uiName": [
-      "P�Ӣ�\"�Ȩ�B"
+      "UI_TopMissionUI"
     ],
     "bindKey": 36,
     "bindKeyGamepad": 13,
@@ -573,7 +604,7 @@
     "des": "打开商店",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      906
     ],
     "showType": 1,
     "modify": 1,
@@ -585,14 +616,14 @@
   {
     "sn": 101,
     "uiName": [
-      "P�ɺj@r�\b"
+      "UI_JumpActUI"
     ],
     "bindKey": 51,
     "bindKeyGamepad": 104,
     "des": "奔跑",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      211
     ],
     "showType": 2,
     "modify": 1,
@@ -604,8 +635,8 @@
   {
     "sn": 102,
     "uiName": [
-      "P�ɺj@r�\bP��",
-      "\u000e��z�ȝ�\u0015��"
+      "UI_JumpActUI",
+      "UI_ChessDungeonInfoView"
     ],
     "bindKey": 1,
     "bindKeyGamepad": 7,
@@ -622,14 +653,14 @@
   {
     "sn": 103,
     "uiName": [
-      "P�ɺj@r�\b"
+      "UI_JumpActUI"
     ],
     "bindKey": 31,
     "bindKeyGamepad": 103,
     "des": "观察模式",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      206
     ],
     "showType": 2,
     "modify": 1,
@@ -641,7 +672,7 @@
   {
     "sn": 104,
     "uiName": [
-      "P��jV�yB"
+      "UI_PalaceUI"
     ],
     "bindKey": 26,
     "bindKeyGamepad": 0,
@@ -658,7 +689,7 @@
   {
     "sn": 105,
     "uiName": [
-      "P��jV�yB"
+      "UI_PalaceUI"
     ],
     "bindKey": 4,
     "bindKeyGamepad": 0,
@@ -675,14 +706,14 @@
   {
     "sn": 106,
     "uiName": [
-      "P��jV�yB"
+      "UI_PalaceUI"
     ],
     "bindKey": 60,
     "bindKeyGamepad": 9,
     "des": "退出异世界回到都市",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      213
     ],
     "showType": 2,
     "modify": 0,
@@ -694,7 +725,7 @@
   {
     "sn": 107,
     "uiName": [
-      "P�ɺj@r�\b"
+      "UI_JumpActUI"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 5,
@@ -711,7 +742,7 @@
   {
     "sn": 201,
     "uiName": [
-      "P��jg�jǛjYU��"
+      "UI_GameBaseballView"
     ],
     "bindKey": 31,
     "bindKeyGamepad": 103,
@@ -728,7 +759,7 @@
   {
     "sn": 202,
     "uiName": [
-      "P��jg�jǛjYU��"
+      "UI_GameBaseballView"
     ],
     "bindKey": 1,
     "bindKeyGamepad": 7,
@@ -745,7 +776,7 @@
   {
     "sn": 301,
     "uiName": [
-      "P�Ŋ�b�\u0000����"
+      "UI_FishingControll"
     ],
     "bindKey": 1,
     "bindKeyGamepad": 7,
@@ -762,7 +793,7 @@
   {
     "sn": 302,
     "uiName": [
-      "P�Ŋ�b�\u0000����"
+      "UI_FishingControll"
     ],
     "bindKey": 15,
     "bindKeyGamepad": 3,
@@ -779,7 +810,7 @@
   {
     "sn": 303,
     "uiName": [
-      "P�Ŋ�b�\u0000����"
+      "UI_FishingControll"
     ],
     "bindKey": 18,
     "bindKeyGamepad": 4,
@@ -796,7 +827,7 @@
   {
     "sn": 304,
     "uiName": [
-      "P�Ŋ�b�\u0000����"
+      "UI_FishingControll"
     ],
     "bindKey": 31,
     "bindKeyGamepad": 103,
@@ -813,7 +844,7 @@
   {
     "sn": 305,
     "uiName": [
-      "P�Ŋ�b�\u0000����"
+      "UI_FishingControll"
     ],
     "bindKey": 51,
     "bindKeyGamepad": 8,
@@ -875,7 +906,10 @@
   {
     "sn": 401,
     "uiName": [
-      "P��j)�j�\b���iǔ!B?K+-zd��ا�װP����^�'��)�\u0016��j�e"
+      "UI_MainMap",
+      "UI_PalaceUI",
+      "UI_SystemSettingNew",
+      "UI_SystemSettingForBattle"
     ],
     "bindKey": 67,
     "bindKeyGamepad": 0,
@@ -892,7 +926,10 @@
   {
     "sn": 402,
     "uiName": [
-      "P��j)�j�\b���iǔ!B?K+-zd��ا�װP����^�'��)�\u0016��j�e"
+      "UI_MainMap",
+      "UI_PalaceUI",
+      "UI_SystemSettingNew",
+      "UI_SystemSettingForBattle"
     ],
     "bindKey": 66,
     "bindKeyGamepad": 0,
@@ -909,7 +946,8 @@
   {
     "sn": 403,
     "uiName": [
-      "P��j)�j�\b���iǔ"
+      "UI_MainMap",
+      "UI_PalaceUI"
     ],
     "bindKey": 37,
     "bindKeyGamepad": 0,
@@ -926,7 +964,8 @@
   {
     "sn": 404,
     "uiName": [
-      "P��j)�j�\b���iǔ"
+      "UI_MainMap",
+      "UI_PalaceUI"
     ],
     "bindKey": 33,
     "bindKeyGamepad": 0,
@@ -943,7 +982,8 @@
   {
     "sn": 405,
     "uiName": [
-      "P��j)�j�\b���iǔ"
+      "UI_MainMap",
+      "UI_PalaceUI"
     ],
     "bindKey": 15,
     "bindKeyGamepad": 0,
@@ -960,7 +1000,8 @@
   {
     "sn": 406,
     "uiName": [
-      "P��j)�j�\b���iǔ"
+      "UI_MainMap",
+      "UI_PalaceUI"
     ],
     "bindKey": 18,
     "bindKeyGamepad": 0,
@@ -977,7 +1018,7 @@
   {
     "sn": 407,
     "uiName": [
-      "P�¢i��:(�\u0016�"
+      "UI_CommonToolBar"
     ],
     "bindKey": 22,
     "bindKeyGamepad": 0,
@@ -994,7 +1035,23 @@
   {
     "sn": 408,
     "uiName": [
-      "P�É�h�X��U\b�8���\u0015��6P�É�h�X�Å\b�8���\u0015��;P�É�h�X���\b�8���\u0015��=P�Ҷ��E�(��'N)��)�P�ˢ\b�5��V'�P�Ҷ����ޮ�'hƢ�&�uB?J�ڞ\u0007��'�\u0002Y@��ˢ�\u0015��\u0014#�����y8by�ޮ�%�\u000bm��(�X��B?=��v�j�R��U��\u0014#�����y8by�\u001a�p���b�׫P�Ӻ�+��l1��P��� �jZ \n�ߊ����h�8�V'�P�źw\u000e��ӊ�\u0014#��I�ޮ�&"
+      "UI_DialogView1",
+      "UI_DialogView2",
+      "UI_DialogView4",
+      "UI_DialogView7",
+      "UI_DialogView8",
+      "UI_DialogView9",
+      "UI_StoryRecordInTimeline",
+      "UI_LoginNameView",
+      "UI_StrangePersonaMainCard",
+      "UI_StrangeThiefAllAttrLookView",
+      "UI_StrangeThiefHeroAllAttrLookView",
+      "UI_PersonaCardSortView",
+      "UI_StrangeThiefMainCardFilter",
+      "UI_TutorialsMain",
+      "UI_AniDialogConfirmDialogTipView",
+      "UI_FuncOpenTips",
+      "UI_PWSaferoom"
     ],
     "bindKey": 1,
     "bindKeyGamepad": 7,
@@ -1011,7 +1068,9 @@
   {
     "sn": 409,
     "uiName": [
-      "P��{\u0003�k ��W��*'P�Ҷ������ӭ��V'�P�¢i��\u001a-�����\u0015��"
+      "UI_NewPlayCollection",
+      "UI_StrangeThiefTrainView",
+      "UI_CommonBottomTipsView"
     ],
     "bindKey": 15,
     "bindKeyGamepad": 3,
@@ -1028,7 +1087,9 @@
   {
     "sn": 410,
     "uiName": [
-      "P��{\u0003�k ��W��*'P�Ҷ������ӭ��V'�P�¢i��\u001a-�����\u0015��"
+      "UI_NewPlayCollection",
+      "UI_StrangeThiefTrainView",
+      "UI_CommonBottomTipsView"
     ],
     "bindKey": 18,
     "bindKeyGamepad": 4,
@@ -1045,7 +1106,11 @@
   {
     "sn": 411,
     "uiName": [
-      "P�¢i��:(�\u0016�P�Ҷ��N�%m��#����n���VڭB?.�\"�֦yX��B?N�h�&��Ƣ"
+      "UI_CommonToolBar",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_LoginNameView",
+      "UI_TutorialsMain"
     ],
     "bindKey": 60,
     "bindKeyGamepad": 6,
@@ -1077,7 +1142,8 @@
   {
     "sn": 413,
     "uiName": [
-      "P�Ҷ��N�%m��#����n���V�"
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar"
     ],
     "bindKey": 40,
     "bindKeyGamepad": 104,
@@ -1094,7 +1160,8 @@
   {
     "sn": 414,
     "uiName": [
-      "P�Ҷ��N�%m��#����n���V�"
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar"
     ],
     "bindKey": 20,
     "bindKeyGamepad": 103,
@@ -1111,7 +1178,8 @@
   {
     "sn": 415,
     "uiName": [
-      "P�Ҷ��N�%m��#����n���V�"
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar"
     ],
     "bindKey": 3,
     "bindKeyGamepad": 13,
@@ -1128,7 +1196,7 @@
   {
     "sn": 416,
     "uiName": [
-      "P�ˢ\b�5��V'�"
+      "UI_LoginNameView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 5,
@@ -1145,7 +1213,8 @@
   {
     "sn": 417,
     "uiName": [
-      "P��{\u0003�k ��W��*'P�Ӻ�+��l1��"
+      "UI_NewPlayCollection",
+      "UI_TutorialsMain"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 3,
@@ -1162,7 +1231,8 @@
   {
     "sn": 418,
     "uiName": [
-      "P��{\u0003�k ��W��*'P�Ӻ�+��l1��"
+      "UI_NewPlayCollection",
+      "UI_TutorialsMain"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 4,
@@ -1179,14 +1249,14 @@
   {
     "sn": 501,
     "uiName": [
-      "P�Ӻ��jǝ:�"
+      "UI_TurnBasedOpt"
     ],
     "bindKey": 37,
     "bindKeyGamepad": 1,
     "des": "枪械",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      804
     ],
     "showType": 6,
     "modify": 1,
@@ -1198,14 +1268,14 @@
   {
     "sn": 502,
     "uiName": [
-      "P�Ӻ��jǝ:�"
+      "UI_TurnBasedOpt"
     ],
     "bindKey": 19,
     "bindKeyGamepad": 5,
     "des": "面具",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      801
     ],
     "showType": 6,
     "modify": 1,
@@ -1217,7 +1287,7 @@
   {
     "sn": 503,
     "uiName": [
-      "P��\u0004�����JH��B"
+      "UI_TBPersonaSkillUI"
     ],
     "bindKey": 3,
     "bindKeyGamepad": 12,
@@ -1234,14 +1304,14 @@
   {
     "sn": 504,
     "uiName": [
-      "P�Ӻ��jǝ:�"
+      "UI_TurnBasedOpt"
     ],
     "bindKey": 1,
     "bindKeyGamepad": 7,
     "des": "近战攻击",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      802
     ],
     "showType": 6,
     "modify": 1,
@@ -1253,14 +1323,14 @@
   {
     "sn": 505,
     "uiName": [
-      "P�Ӻ��jǝ:�"
+      "UI_TurnBasedOpt"
     ],
     "bindKey": 17,
     "bindKeyGamepad": 6,
     "des": "防御",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      807
     ],
     "showType": 6,
     "modify": 1,
@@ -1272,14 +1342,14 @@
   {
     "sn": 506,
     "uiName": [
-      "P�Ӻ��jǝ:�"
+      "UI_TurnBasedOpt"
     ],
     "bindKey": 32,
     "bindKeyGamepad": 8,
     "des": "道具",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      806
     ],
     "showType": 6,
     "modify": 1,
@@ -1291,7 +1361,7 @@
   {
     "sn": 507,
     "uiName": [
-      "P���֜���2��JH�"
+      "UI_AttackOneMoreSkill"
     ],
     "bindKey": 16,
     "bindKeyGamepad": 0,
@@ -1308,14 +1378,14 @@
   {
     "sn": 508,
     "uiName": [
-      "P���֜���2��JH�"
+      "UI_AttackOneMoreSkill"
     ],
     "bindKey": 1,
     "bindKeyGamepad": 7,
     "des": "总攻击",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      808
     ],
     "showType": 6,
     "modify": 1,
@@ -1327,14 +1397,14 @@
   {
     "sn": 509,
     "uiName": [
-      "P���֜�*^y�)"
+      "UI_AttackSpeedUp"
     ],
     "bindKey": 28,
     "bindKeyGamepad": 14,
     "des": "设置",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      850
     ],
     "showType": 6,
     "modify": 1,
@@ -1346,8 +1416,13 @@
   {
     "sn": 510,
     "uiName": [
-      "P��\u0004�����JH��B\u0014#�",
-      "y)\"�R'~�\b�K\u001eJH���ߠr�#�-��$:w�����)eP���֜�K\u001e\"צP���֜�:�rE\b�\u000bmi�\u0011�W�z֢"
+      "UI_TBPersonaSkillUI",
+      "UI_UseSkillInfo",
+      "UI_UseSkillInfoHL",
+      "UI_AttackOneMoreSkill",
+      "UI_AttackUseItem",
+      "UI_AttackTrick",
+      "UI_AttackRoleDetail"
     ],
     "bindKey": 60,
     "bindKeyGamepad": 6,
@@ -1364,14 +1439,14 @@
   {
     "sn": 511,
     "uiName": [
-      "P���֜�*^y�)"
+      "UI_AttackSpeedUp"
     ],
     "bindKey": 20,
     "bindKeyGamepad": 103,
     "des": "加速",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      851
     ],
     "showType": 6,
     "modify": 1,
@@ -1383,14 +1458,14 @@
   {
     "sn": 512,
     "uiName": [
-      "P���֜�*^y�)"
+      "UI_AttackSpeedUp"
     ],
     "bindKey": 40,
     "bindKeyGamepad": 104,
     "des": "自动战斗",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      852
     ],
     "showType": 6,
     "modify": 1,
@@ -1432,14 +1507,14 @@
   {
     "sn": 515,
     "uiName": [
-      "P���֜���2��JH�"
+      "UI_AttackOneMoreSkill"
     ],
     "bindKey": 41,
     "bindKeyGamepad": 12,
     "des": "one More1",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      810
     ],
     "showType": 6,
     "modify": 0,
@@ -1451,14 +1526,14 @@
   {
     "sn": 516,
     "uiName": [
-      "P���֜���2��JH�"
+      "UI_AttackOneMoreSkill"
     ],
     "bindKey": 42,
     "bindKeyGamepad": 11,
     "des": "one More2",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      810
     ],
     "showType": 6,
     "modify": 0,
@@ -1470,14 +1545,14 @@
   {
     "sn": 517,
     "uiName": [
-      "P���֜���2��JH�"
+      "UI_AttackOneMoreSkill"
     ],
     "bindKey": 43,
     "bindKeyGamepad": 104,
     "des": "one More3",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      810
     ],
     "showType": 6,
     "modify": 0,
@@ -1489,14 +1564,14 @@
   {
     "sn": 518,
     "uiName": [
-      "P���֜���2��JH�"
+      "UI_AttackOneMoreSkill"
     ],
     "bindKey": 44,
     "bindKeyGamepad": 103,
     "des": "one More4",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      810
     ],
     "showType": 6,
     "modify": 0,
@@ -1508,7 +1583,9 @@
   {
     "sn": 519,
     "uiName": [
-      "P��\u0004�����JH��B\u0014#�-��$Rǈ��#�-��$N��"
+      "UI_TBPersonaSkillUI",
+      "UI_AttackUseItem",
+      "UI_AttackTrick"
     ],
     "bindKey": 1,
     "bindKeyGamepad": 7,
@@ -1525,7 +1602,8 @@
   {
     "sn": 520,
     "uiName": [
-      "P�Ա䤊YH��\u0007-B?Rǒ�)e\"w�"
+      "UI_UseSkillInfoHL",
+      "UI_UseSkillInfo"
     ],
     "bindKey": 1,
     "bindKeyGamepad": 7,
@@ -1542,14 +1620,14 @@
   {
     "sn": 521,
     "uiName": [
-      "P�Ӻ��jǝ:�"
+      "UI_TurnBasedOpt"
     ],
     "bindKey": 21,
     "bindKeyGamepad": 10,
     "des": "支援",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      803
     ],
     "showType": 6,
     "modify": 1,
@@ -1561,14 +1639,15 @@
   {
     "sn": 522,
     "uiName": [
-      "P�Ӻ��jǝ:�T#�-��$F�^\r�Z�"
+      "UI_TurnBasedOpt",
+      "UI_AttackRoleDetail"
     ],
     "bindKey": 3,
     "bindKeyGamepad": 12,
     "des": "切换",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      805
     ],
     "showType": 6,
     "modify": 1,
@@ -1580,14 +1659,14 @@
   {
     "sn": 523,
     "uiName": [
-      "P���֜�\te"
+      "UI_AttackAlly"
     ],
     "bindKey": 22,
     "bindKeyGamepad": 2,
     "des": "HighLight",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      809
     ],
     "showType": 6,
     "modify": 0,
@@ -1599,14 +1678,14 @@
   {
     "sn": 524,
     "uiName": [
-      "P��\u0004x��X��Ԟ��-"
+      "UI_TBHighlightSelect"
     ],
     "bindKey": 41,
     "bindKeyGamepad": 0,
     "des": "HighLight1",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      809
     ],
     "showType": 6,
     "modify": 0,
@@ -1618,14 +1697,14 @@
   {
     "sn": 525,
     "uiName": [
-      "P��\u0004x��X��Ԟ��-"
+      "UI_TBHighlightSelect"
     ],
     "bindKey": 42,
     "bindKeyGamepad": 0,
     "des": "HighLight2",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      809
     ],
     "showType": 6,
     "modify": 0,
@@ -1637,14 +1716,14 @@
   {
     "sn": 526,
     "uiName": [
-      "P��\u0004x��X��Ԟ��-"
+      "UI_TBHighlightSelect"
     ],
     "bindKey": 43,
     "bindKeyGamepad": 0,
     "des": "HighLight3",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      809
     ],
     "showType": 6,
     "modify": 0,
@@ -1656,14 +1735,14 @@
   {
     "sn": 527,
     "uiName": [
-      "P��\u0004x��X��Ԟ��-"
+      "UI_TBHighlightSelect"
     ],
     "bindKey": 44,
     "bindKeyGamepad": 0,
     "des": "HighLight4",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      809
     ],
     "showType": 6,
     "modify": 0,
@@ -1675,7 +1754,9 @@
   {
     "sn": 528,
     "uiName": [
-      "P��\u0004�����JH��B\u0014#�-��$Rǈ��#�-��$F�^\r�Z�"
+      "UI_TBPersonaSkillUI",
+      "UI_AttackUseItem",
+      "UI_AttackRoleDetail"
     ],
     "bindKey": 37,
     "bindKeyGamepad": 1,
@@ -1692,7 +1773,9 @@
   {
     "sn": 529,
     "uiName": [
-      "P��\u0004�����JH��B\u0014#�-��$Rǈ��#�-��$F�^\r�Z�"
+      "UI_TBPersonaSkillUI",
+      "UI_AttackUseItem",
+      "UI_AttackRoleDetail"
     ],
     "bindKey": 33,
     "bindKeyGamepad": 2,
@@ -1709,14 +1792,14 @@
   {
     "sn": 530,
     "uiName": [
-      "P���֜�*^y�)"
+      "UI_AttackSpeedUp"
     ],
     "bindKey": 60,
     "bindKeyGamepad": 13,
     "des": "退出战斗",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      853
     ],
     "showType": 6,
     "modify": 0,
@@ -1728,14 +1811,15 @@
   {
     "sn": 531,
     "uiName": [
-      "P���֜�*^y�)P���֜�\u001a%x7�j)"
+      "UI_AttackSpeedUp",
+      "UI_AttackRoleDetail"
     ],
     "bindKey": 31,
     "bindKeyGamepad": 11,
     "des": "查看单位详细信息",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      850
     ],
     "showType": 6,
     "modify": 0,
@@ -1747,14 +1831,14 @@
   {
     "sn": 532,
     "uiName": [
-      "P���֜�\u0007-���z����"
+      "UI_AttackActionSequence"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 9,
     "des": "查看战斗tips",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      854
     ],
     "showType": 6,
     "modify": 0,
@@ -1766,7 +1850,7 @@
   {
     "sn": 550,
     "uiName": [
-      "P���֜�\u001a%x7�j)"
+      "UI_AttackRoleDetail"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 8,
@@ -2143,14 +2227,14 @@
   {
     "sn": 10001,
     "uiName": [
-      "P�¢�Lj)Չ�"
+      "UI_CoopMainView"
     ],
     "bindKey": 41,
     "bindKeyGamepad": 13,
     "des": "协同者偏好",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      31
     ],
     "showType": 99,
     "modify": 0,
@@ -2162,14 +2246,14 @@
   {
     "sn": 10002,
     "uiName": [
-      "P�¢�Lj)Չ�"
+      "UI_CoopMainView"
     ],
     "bindKey": 42,
     "bindKeyGamepad": 5,
     "des": "协同者奖励",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      32
     ],
     "showType": 99,
     "modify": 0,
@@ -2181,14 +2265,14 @@
   {
     "sn": 10003,
     "uiName": [
-      "P�¢�Lj)Չ�"
+      "UI_CoopMainView"
     ],
     "bindKey": 43,
     "bindKeyGamepad": 8,
     "des": "协同者档案",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      33
     ],
     "showType": 99,
     "modify": 0,
@@ -2200,14 +2284,16 @@
   {
     "sn": 10004,
     "uiName": [
-      "P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�r'~�k�`���\b�+kjx\u001eN\u0018�|Ƣ��ߠZ��az"
+      "UI_StrangeThiefMainInfo",
+      "UI_StrangeThiefMainInfoFromCard",
+      "UI_StrangeThiefMainInfoFromOther"
     ],
     "bindKey": 41,
     "bindKeyGamepad": 13,
     "des": "主角灵感\\怪盗成长",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      2
     ],
     "showType": 99,
     "modify": 0,
@@ -2219,14 +2305,16 @@
   {
     "sn": 10005,
     "uiName": [
-      "P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�r'~�k�`���\b�+kjx\u001eN\u0018�|Ƣ��ߠZ��az"
+      "UI_StrangeThiefMainInfo",
+      "UI_StrangeThiefMainInfoFromCard",
+      "UI_StrangeThiefMainInfoFromOther"
     ],
     "bindKey": 42,
     "bindKeyGamepad": 5,
     "des": "怪盗武器",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      6
     ],
     "showType": 99,
     "modify": 0,
@@ -2238,14 +2326,16 @@
   {
     "sn": 10006,
     "uiName": [
-      "P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�r'~�k�`���\b�+kjx\u001eN\u0018�|Ƣ��ߠZ��az"
+      "UI_StrangeThiefMainInfo",
+      "UI_StrangeThiefMainInfoFromCard",
+      "UI_StrangeThiefMainInfoFromOther"
     ],
     "bindKey": 43,
     "bindKeyGamepad": 8,
     "des": "怪盗启示",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      9
     ],
     "showType": 99,
     "modify": 0,
@@ -2257,14 +2347,16 @@
   {
     "sn": 10007,
     "uiName": [
-      "P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�r'~�k�`���\b�+kjx\u001eN\u0018�|Ƣ��ߠZ��az"
+      "UI_StrangeThiefMainInfo",
+      "UI_StrangeThiefMainInfoFromCard",
+      "UI_StrangeThiefMainInfoFromOther"
     ],
     "bindKey": 44,
     "bindKeyGamepad": 7,
     "des": "主角面具\\怪盗技能",
     "waitAni": 1,
     "KeyOpen": [
-      0
+      5
     ],
     "showType": 99,
     "modify": 0,
@@ -2276,14 +2368,17 @@
   {
     "sn": 20000,
     "uiName": [
-      "P��j)�j�\b���iǔ!B?:��Z��tƩP��jg�i�\u001e��b{"
+      "UI_MainMap",
+      "UI_PalaceUI",
+      "UI_OpenWorldMap",
+      "UI_GamepadMenuView"
     ],
     "bindKey": 4,
     "bindKeyGamepad": 11,
     "des": "轮盘菜单",
     "waitAni": 0,
     "KeyOpen": [
-      0
+      215
     ],
     "showType": 99,
     "modify": 0,
@@ -2295,7 +2390,7 @@
   {
     "sn": 20001,
     "uiName": [
-      "P��jg�i�\u001e��b{"
+      "UI_GamepadMenuView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 1,
@@ -2312,7 +2407,7 @@
   {
     "sn": 20002,
     "uiName": [
-      "P��jg�i�\u001e��b{"
+      "UI_GamepadMenuView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 2,
@@ -2344,7 +2439,18 @@
   {
     "sn": 20101,
     "uiName": [
-      "P�É�h�*'~*�\u000e&��\u0004�X��B?I�_M�d\n�ߊ����h�8�V'�P��j��\u0000�����8���\u0013��b{\u0005\b�\t�\u000e&��\u0000�����8���\u0013��b{\u0005\b�X��Ԥ�YCz��jZ N*U��\u0014#�b�\u001bS��ް8���\u0013��b{\u0005\b���\u0006�¢w�`�jZ N*U��\u0014#�&j\u0007��w�`�jZ N*U��\u0014#�ڕ�\u001eJ�j���w�e\b�[�p�^�8���\u0013��b{\u0005\b�[�p\u001b�nW���h�8�V'�P��m�*'~*�\u000e&��\u0004�X�"
+      "UI_DialogConfirmDialogTipView",
+      "UI_SelfTalkConfirmDialogTipView",
+      "UI_WarningConfirmDialogTipView",
+      "UI_AniDialogConfirmDialogTipView",
+      "\nUI_FightSkillDesDialogTipView",
+      "UI_FightTipDesDialogTipView",
+      "UI_OneBtnConfirmDialogTipView",
+      "UI_ImageConfirmDialogTipView",
+      "UI_PalaceSummaryConfirm",
+      "UI_FuncOpenDialogTipView",
+      "UI_FuncBubbleDialogTipView",
+      "UI_TwoBtnConfirmDialogTipView"
     ],
     "bindKey": 1,
     "bindKeyGamepad": 7,
@@ -2361,7 +2467,18 @@
   {
     "sn": 20102,
     "uiName": [
-      "P�É�h�*'~*�\u000e&��\u0004�X��B?I�_M�d\n�ߊ����h�8�V'�P��j��\u0000�����8���\u0013��b{\u0005\b�\t�\u000e&��\u0000�����8���\u0013��b{\u0005\b�X��Ԥ�YCz��jZ N*U��\u0014#�b�\u001bS��ް8���\u0013��b{\u0005\b���\u0006�¢w�`�jZ N*U��\u0014#�&j\u0007��w�`�jZ N*U��\u0014#�ڕ�\u001eJ�j���w�e\b�[�p�^�8���\u0013��b{\u0005\b�[�p\u001b�nW���h�8�V'�P��m�*'~*�\u000e&��\u0004�X�"
+      "UI_DialogConfirmDialogTipView",
+      "UI_SelfTalkConfirmDialogTipView",
+      "UI_WarningConfirmDialogTipView",
+      "UI_AniDialogConfirmDialogTipView",
+      "\nUI_FightSkillDesDialogTipView",
+      "UI_FightTipDesDialogTipView",
+      "UI_OneBtnConfirmDialogTipView",
+      "UI_ImageConfirmDialogTipView",
+      "UI_PalaceSummaryConfirm",
+      "UI_FuncOpenDialogTipView",
+      "UI_FuncBubbleDialogTipView",
+      "UI_TwoBtnConfirmDialogTipView"
     ],
     "bindKey": 60,
     "bindKeyGamepad": 6,
@@ -2378,7 +2495,10 @@
   {
     "sn": 20201,
     "uiName": [
-      "P��j\u0002-zk\u0014#�^��Z�*%��-���#�����y8by��j)Չ�"
+      "UI_BagItems",
+      "UI_NewPlayCollection",
+      "UI_StrangeThiefTrainView",
+      ""
     ],
     "bindKey": 0,
     "bindKeyGamepad": 10,
@@ -2395,7 +2515,7 @@
   {
     "sn": 20202,
     "uiName": [
-      "P��j\u0002-zk"
+      "UI_BagItems"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 14,
@@ -2412,7 +2532,7 @@
   {
     "sn": 20203,
     "uiName": [
-      "P��j\u0002-zk"
+      "UI_BagItems"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 4,
@@ -2429,7 +2549,7 @@
   {
     "sn": 20204,
     "uiName": [
-      "P��j\u0002-zk"
+      "UI_BagItems"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 3,
@@ -2446,7 +2566,7 @@
   {
     "sn": 20205,
     "uiName": [
-      "P��j\u0002-zk"
+      "UI_BagItems"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 8,
@@ -2463,7 +2583,7 @@
   {
     "sn": 20206,
     "uiName": [
-      "P��j\u0002-zk"
+      "UI_BagItems"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 5,
@@ -2480,7 +2600,7 @@
   {
     "sn": 20207,
     "uiName": [
-      "P��j\u0002-zk"
+      "UI_BagItems"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 13,
@@ -2497,7 +2617,7 @@
   {
     "sn": 20208,
     "uiName": [
-      "P��j\u0002-zk"
+      "UI_BagItems"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 7,
@@ -2514,14 +2634,14 @@
   {
     "sn": 20301,
     "uiName": [
-      "P��z�(��O���"
+      "UI_PersonalProfile"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 13,
     "des": "菜单-打开个人信息",
     "waitAni": 0,
     "KeyOpen": [
-      0
+      901
     ],
     "showType": 99,
     "modify": 0,
@@ -2533,7 +2653,7 @@
   {
     "sn": 20401,
     "uiName": [
-      "P��{\u0003�k ��W��*'"
+      "UI_NewPlayCollection"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 9,
@@ -2550,7 +2670,9 @@
   {
     "sn": 20501,
     "uiName": [
-      "P�Ҷ�������j)ȝ�\u0005���j�T#�����y8by�\u001a�r'~�k�c�����+kjx\u001eN\u0018�|Ƣ���"
+      "UI_StrangeThiefMainInfoFromCard",
+      "UI_StrangeThiefMainInfoFromOther",
+      "I_StrangeThiefMainInfo"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 9,
@@ -2567,7 +2689,8 @@
   {
     "sn": 20502,
     "uiName": [
-      "P�ӆ'�2�^��(�X��B?=��v��ץ.�$V'�"
+      "UI_ThiefModelLookView",
+      "UI_PersonaModelLookView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 5,
@@ -2584,7 +2707,8 @@
   {
     "sn": 20503,
     "uiName": [
-      "P�ӆ'�2�^��(�X��B?=��v��ץ.�$V'�"
+      "UI_ThiefModelLookView",
+      "UI_PersonaModelLookView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 14,
@@ -2601,7 +2725,8 @@
   {
     "sn": 20504,
     "uiName": [
-      "P�ӆ'�2�^��(�X��B?=��v��ץ.�$V'�"
+      "UI_ThiefModelLookView",
+      "UI_PersonaModelLookView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 8,
@@ -2618,7 +2743,8 @@
   {
     "sn": 20505,
     "uiName": [
-      "P�Ҷ��������P-���Eb{\u0005\b�+kjx\u001eN\u0018�|w��\te\u0002�k.�$V'�"
+      "UI_StrangeThiefAllAttrLookView",
+      "UI_StrangeThiefHeroAllAttrLookView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 9,
@@ -2635,7 +2761,9 @@
   {
     "sn": 20506,
     "uiName": [
-      "P�Ҷ�������j)ȝ�\u0005���j�T#�����y8by�\u001a�r'~�k�c�����+kjx\u001eN\u0018�|Ƣ���"
+      "UI_StrangeThiefMainInfoFromCard",
+      "UI_StrangeThiefMainInfoFromOther",
+      "I_StrangeThiefMainInfo"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 13,
@@ -2652,7 +2780,7 @@
   {
     "sn": 20511,
     "uiName": [
-      "P�Ҷ����ޮ�'hƢ�&�"
+      "UI_StrangePersonaMainCard"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 8,
@@ -2669,7 +2797,7 @@
   {
     "sn": 20512,
     "uiName": [
-      "P�Ҷ����ޮ�'hƢ�&�"
+      "UI_StrangePersonaMainCard"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 5,
@@ -2686,7 +2814,7 @@
   {
     "sn": 20513,
     "uiName": [
-      "P�Ҷ����ޮ�'hƢ�&�uB?J�ڞ\u0007��'�1��\t��\u0016)mz"
+      "UI_StrangePersonaMainCard，UI_StrangeThiefMainCardFilter"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 5,
@@ -2703,7 +2831,7 @@
   {
     "sn": 20521,
     "uiName": [
-      "P�Ҷ������Ҷ��V'�"
+      "UI_StrangeThiefStoryView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 5,
@@ -2720,7 +2848,8 @@
   {
     "sn": 20531,
     "uiName": [
-      "P�Ҷ������ӭ��V'�P�Ҷ������ӭ��V'�"
+      "UI_StrangeThiefTrainView",
+      "UI_StrangeThiefTrainView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 9,
@@ -2737,7 +2866,7 @@
   {
     "sn": 20532,
     "uiName": [
-      "P�Ҷ������ӭ��V'�"
+      "UI_StrangeThiefTrainView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 13,
@@ -2754,7 +2883,7 @@
   {
     "sn": 20533,
     "uiName": [
-      "P�Ҷ������ӭ��V'�"
+      "UI_StrangeThiefTrainView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 8,
@@ -2771,7 +2900,7 @@
   {
     "sn": 20534,
     "uiName": [
-      "P�Ҷ������ӭ��V'�"
+      "UI_StrangeThiefTrainView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 14,
@@ -2788,7 +2917,7 @@
   {
     "sn": 20535,
     "uiName": [
-      "P�Ҷ������ӭ��V'�"
+      "UI_StrangeThiefTrainView"
     ],
     "bindKey": 0,
     "bindKeyGamepad": 5,

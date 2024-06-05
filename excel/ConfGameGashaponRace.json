@@ -7,7 +7,10 @@
     "effect": "game_Gashapon_sence_common_up.prefab",
     "effect2": "game_Gashapon_sence_common.prefab",
     "BALL_MODEL": [
-      "\u0019�!j�'�����7�&�r\u001b�j�Z���m�e�N?ɩ܆ᚲ\u0016���jYӟ�jw!�f���h��ږ_������n"
+      "Gashapon_ball_03_yanchu",
+      "Gashapon_ball_04_yanchu",
+      "Gashapon_ball_05_yanchu",
+      "Gashapon_ball_02_yanchu"
     ]
   },
   {
@@ -18,7 +21,8 @@
     "effect": "game_Gashapon_sence_exclusive_up.prefab",
     "effect2": "game_Gashapon_sence_exclusive.prefab",
     "BALL_MODEL": [
-      "\u0019�!j�'�����5�&�r\u001b�j�Z���m�e�N�ɩ܆"
+      "Gashapon_ball_01_yanchu",
+      "Gashapon_ball_06_yanchu"
     ]
   },
   {
@@ -29,7 +33,7 @@
     "effect": "game_Gashapon_sence_hidden_up.prefab",
     "effect2": "game_Gashapon_sence_hidden.prefab",
     "BALL_MODEL": [
-      "\u0019�!j�'�����:�&�r\u001b"
+      "Gashapon_ball_06_yanchu"
     ]
   }
 ]

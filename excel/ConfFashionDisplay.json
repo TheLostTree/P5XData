@@ -2,10 +2,13 @@
   {
     "sn": 1,
     "limitDayType": [
-      0
+      1
     ],
     "limitPhaseType": [
-      0
+      1,
+      2,
+      3,
+      5
     ],
     "sceneType": [],
     "fashionTypeSpecial": 0,
@@ -14,13 +17,31 @@
   {
     "sn": 2,
     "limitDayType": [
-      0
+      1
     ],
     "limitPhaseType": [
-      0
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "sceneType": [
-      0
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      271,
+      272,
+      274,
+      275,
+      276,
+      277,
+      278
     ],
     "fashionTypeSpecial": 13,
     "fashionSpecial": 10014
@@ -28,10 +49,11 @@
   {
     "sn": 3,
     "limitDayType": [
-      0
+      1
     ],
     "limitPhaseType": [
-      0
+      6,
+      7
     ],
     "sceneType": [],
     "fashionTypeSpecial": 0,
@@ -40,10 +62,16 @@
   {
     "sn": 4,
     "limitDayType": [
-      0
+      2
     ],
     "limitPhaseType": [
-      0
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "sceneType": [],
     "fashionTypeSpecial": 0,
@@ -52,10 +80,17 @@
   {
     "sn": 5,
     "limitDayType": [
-      0
+      1,
+      2
     ],
     "limitPhaseType": [
-      0
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "sceneType": [],
     "fashionTypeSpecial": 0,

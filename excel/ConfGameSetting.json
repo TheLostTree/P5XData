@@ -35,7 +35,7 @@
     "name": "手柄视角灵敏",
     "autoSelect": 40,
     "Level": [
-      0
+      100
     ],
     "order": 1,
     "serSave": 1,
@@ -47,7 +47,7 @@
     "name": "手柄缩放灵敏",
     "autoSelect": 40,
     "Level": [
-      0
+      10
     ],
     "order": 2,
     "serSave": 1,
@@ -59,7 +59,7 @@
     "name": "鼠标视角灵敏",
     "autoSelect": 20,
     "Level": [
-      0
+      10
     ],
     "order": 3,
     "serSave": 1,
@@ -71,7 +71,7 @@
     "name": "鼠标缩放灵敏",
     "autoSelect": 50,
     "Level": [
-      0
+      20
     ],
     "order": 4,
     "serSave": 1,
@@ -93,7 +93,8 @@
     "name": "镜头操作模式",
     "autoSelect": 1,
     "Level": [
-      0
+      1,
+      2
     ],
     "order": 5,
     "serSave": 1,
@@ -155,7 +156,9 @@
     "name": "简化HighLight表现",
     "autoSelect": 3,
     "Level": [
-      0
+      1,
+      2,
+      3
     ],
     "order": 0,
     "serSave": 0,
@@ -167,7 +170,9 @@
     "name": "简化解明怪盗表现",
     "autoSelect": 3,
     "Level": [
-      0
+      1,
+      2,
+      3
     ],
     "order": 0,
     "serSave": 0,
@@ -179,7 +184,9 @@
     "name": "简化特写表现",
     "autoSelect": 3,
     "Level": [
-      0
+      1,
+      2,
+      3
     ],
     "order": 0,
     "serSave": 0,
@@ -211,7 +218,7 @@
     "name": "手机视角灵敏",
     "autoSelect": 25,
     "Level": [
-      0
+      20
     ],
     "order": 3,
     "serSave": 1,
@@ -223,7 +230,7 @@
     "name": "手机缩放灵敏",
     "autoSelect": 40,
     "Level": [
-      0
+      20
     ],
     "order": 4,
     "serSave": 1,
@@ -235,7 +242,7 @@
     "name": "鼠标视角灵敏",
     "autoSelect": 20,
     "Level": [
-      0
+      5
     ],
     "order": 3,
     "serSave": 1,
@@ -247,7 +254,7 @@
     "name": "鼠标缩放灵敏",
     "autoSelect": 50,
     "Level": [
-      0
+      20
     ],
     "order": 4,
     "serSave": 1,

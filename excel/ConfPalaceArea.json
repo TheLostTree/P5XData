@@ -3,7 +3,7 @@
     "sn": 100,
     "name": "棒球场大门",
     "palaceWorldSn": [
-      0
+      8300
     ],
     "icon": "yishijie-icon-chukou-bai-new.png",
     "pic": "tansuodu-pics-01-new.png",
@@ -16,16 +16,22 @@
     "sn": 101,
     "name": "展览馆",
     "palaceWorldSn": [
-      0
+      8301,
+      8302,
+      8303,
+      8304,
+      8306
     ],
     "icon": "",
     "pic": "tansuodu-pics-01-new.png",
     "isEntrance": 0,
     "floorName": [
-      "SPT�"
+      "展览馆1层",
+      "展览馆2层"
     ],
     "floorTeleportPoint": [
-      0
+      8301000,
+      8304000
     ],
     "miniScale": 1
   },
@@ -33,7 +39,7 @@
     "sn": 102,
     "name": "训练馆",
     "palaceWorldSn": [
-      0
+      8311
     ],
     "icon": "",
     "pic": "tansuodu-pics-02-new.png",
@@ -46,16 +52,24 @@
     "sn": 104,
     "name": "俱乐部",
     "palaceWorldSn": [
-      0
+      8331,
+      8332,
+      8336,
+      8341,
+      8342
     ],
     "icon": "",
     "pic": "tansuodu-pics-03-new.png",
     "isEntrance": 0,
     "floorName": [
-      "?PO�\u0013�"
+      "俱乐部1层",
+      "俱乐部2层",
+      "俱乐部3层"
     ],
     "floorTeleportPoint": [
-      0
+      8331000,
+      8336000,
+      8341000
     ],
     "miniScale": 0
   },
@@ -63,7 +77,7 @@
     "sn": 105,
     "name": "天台南段",
     "palaceWorldSn": [
-      0
+      8350
     ],
     "icon": "",
     "pic": "tansuodu-pics-01-new.png",
@@ -76,7 +90,7 @@
     "sn": 106,
     "name": "中心球场",
     "palaceWorldSn": [
-      0
+      8355
     ],
     "icon": "",
     "pic": "tansuodu-pics-01-new.png",
@@ -89,7 +103,7 @@
     "sn": 107,
     "name": "天台北段",
     "palaceWorldSn": [
-      0
+      8351
     ],
     "icon": "",
     "pic": "tansuodu-pics-01-new.png",
@@ -102,7 +116,7 @@
     "sn": 200,
     "name": "城外树林",
     "palaceWorldSn": [
-      0
+      8400
     ],
     "icon": "",
     "pic": "",
@@ -115,7 +129,7 @@
     "sn": 201,
     "name": "宫殿大门",
     "palaceWorldSn": [
-      0
+      8401
     ],
     "icon": "",
     "pic": "",
@@ -128,7 +142,7 @@
     "sn": 202,
     "name": "摄影棚",
     "palaceWorldSn": [
-      0
+      8402
     ],
     "icon": "",
     "pic": "",
@@ -141,7 +155,7 @@
     "sn": 210,
     "name": "三之丸",
     "palaceWorldSn": [
-      0
+      8410
     ],
     "icon": "",
     "pic": "",
@@ -154,7 +168,7 @@
     "sn": 220,
     "name": "二之丸",
     "palaceWorldSn": [
-      0
+      8420
     ],
     "icon": "",
     "pic": "",
@@ -167,7 +181,7 @@
     "sn": 221,
     "name": "本丸",
     "palaceWorldSn": [
-      0
+      8421
     ],
     "icon": "",
     "pic": "",
@@ -180,7 +194,7 @@
     "sn": 222,
     "name": "天守阁底层",
     "palaceWorldSn": [
-      0
+      8440
     ],
     "icon": "",
     "pic": "",
@@ -193,7 +207,7 @@
     "sn": 223,
     "name": "天守阁中层",
     "palaceWorldSn": [
-      0
+      8450
     ],
     "icon": "",
     "pic": "",
@@ -206,7 +220,7 @@
     "sn": 224,
     "name": "天守阁顶层",
     "palaceWorldSn": [
-      0
+      8460
     ],
     "icon": "",
     "pic": "",
@@ -219,7 +233,7 @@
     "sn": 225,
     "name": "西侧屋外",
     "palaceWorldSn": [
-      0
+      8461
     ],
     "icon": "",
     "pic": "",
@@ -232,7 +246,7 @@
     "sn": 226,
     "name": "东侧屋外",
     "palaceWorldSn": [
-      0
+      8462
     ],
     "icon": "",
     "pic": "",

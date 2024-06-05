@@ -4,14 +4,15 @@
     "QualityName": "寻常",
     "CardLevelMax": 10,
     "exabilityNum": [
-      0
+      2
     ],
     "exabilityNumPR": [
-      0
+      1
     ],
     "exabilityMaxNum": 2,
     "exabilityUnlock": [
-      0
+      5,
+      10
     ],
     "strenExp": 100,
     "strenExpType0": 100,
@@ -23,14 +24,16 @@
     "QualityName": "稀有",
     "CardLevelMax": 15,
     "exabilityNum": [
-      0
+      3
     ],
     "exabilityNumPR": [
-      0
+      1
     ],
     "exabilityMaxNum": 3,
     "exabilityUnlock": [
-      0
+      5,
+      10,
+      15
     ],
     "strenExp": 300,
     "strenExpType0": 300,
@@ -42,14 +45,19 @@
     "QualityName": "罕见",
     "CardLevelMax": 20,
     "exabilityNum": [
-      0
+      3,
+      4
     ],
     "exabilityNumPR": [
-      0
+      80,
+      20
     ],
     "exabilityMaxNum": 4,
     "exabilityUnlock": [
-      0
+      5,
+      10,
+      15,
+      20
     ],
     "strenExp": 800,
     "strenExpType0": 800,
@@ -61,14 +69,20 @@
     "QualityName": "绝世",
     "CardLevelMax": 25,
     "exabilityNum": [
-      0
+      3,
+      4
     ],
     "exabilityNumPR": [
-      0
+      60,
+      40
     ],
     "exabilityMaxNum": 4,
     "exabilityUnlock": [
-      0
+      5,
+      10,
+      15,
+      20,
+      25
     ],
     "strenExp": 1000,
     "strenExpType0": 1000,

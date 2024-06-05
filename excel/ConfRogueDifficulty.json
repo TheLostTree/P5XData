@@ -6,12 +6,19 @@
     "difficulty": 1,
     "scoreRatio": 0,
     "showtext": [
-      ""
+      "最基础的调度难度，无额外战斗效果。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 0,
     "unlock": 1,
@@ -25,12 +32,19 @@
     "difficulty": 2,
     "scoreRatio": 40,
     "showtext": [
-      "/�"
+      "所有敌人生命值+5%。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 1,
     "unlock": 1,
@@ -44,12 +58,20 @@
     "difficulty": 3,
     "scoreRatio": 90,
     "showtext": [
-      "/�K�"
+      "所有敌人攻击力+5%；",
+      "所有敌人生命值+5%。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 2,
     "unlock": 5,
@@ -63,12 +85,21 @@
     "difficulty": 4,
     "scoreRatio": 150,
     "showtext": [
-      "/�K���<n"
+      "所有敌人攻击力+5%；",
+      "所有敌人生命值+5%；",
+      "所有角色SP消耗提升5%。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 3,
     "unlock": 5,
@@ -82,12 +113,21 @@
     "difficulty": 5,
     "scoreRatio": 220,
     "showtext": [
-      "/�K�]+H�"
+      "所有敌人攻击力+5%；",
+      "所有敌人生命值+10%；",
+      "所有角色SP消耗提升5%。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 4,
     "unlock": 10,
@@ -101,12 +141,21 @@
     "difficulty": 6,
     "scoreRatio": 300,
     "showtext": [
-      "/�t/�t�#�"
+      "所有敌人攻击力+10%；",
+      "所有敌人生命值+10%；",
+      "所有角色SP消耗提升5%。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 5,
     "unlock": 10,
@@ -120,12 +169,19 @@
     "difficulty": 1,
     "scoreRatio": 0,
     "showtext": [
-      ""
+      "最基础的调度难度，无额外战斗效果。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 0,
     "unlock": 1,
@@ -139,12 +195,19 @@
     "difficulty": 2,
     "scoreRatio": 40,
     "showtext": [
-      "/�"
+      "所有敌人生命值+5%。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 1,
     "unlock": 1,
@@ -158,12 +221,20 @@
     "difficulty": 3,
     "scoreRatio": 90,
     "showtext": [
-      "/�K�"
+      "所有敌人攻击力+5%；",
+      "所有敌人生命值+5%。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 2,
     "unlock": 5,
@@ -177,12 +248,21 @@
     "difficulty": 4,
     "scoreRatio": 150,
     "showtext": [
-      "/�K���<n"
+      "所有敌人攻击力+5%；",
+      "所有敌人生命值+5%；",
+      "所有角色SP消耗提升5%。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 3,
     "unlock": 5,
@@ -196,12 +276,21 @@
     "difficulty": 5,
     "scoreRatio": 220,
     "showtext": [
-      "/�K�]+H�"
+      "所有敌人攻击力+5%；",
+      "所有敌人生命值+10%；",
+      "所有角色SP消耗提升5%。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 4,
     "unlock": 10,
@@ -215,12 +304,21 @@
     "difficulty": 6,
     "scoreRatio": 300,
     "showtext": [
-      "/�t/�t�#�"
+      "所有敌人攻击力+10%；",
+      "所有敌人生命值+10%；",
+      "所有角色SP消耗提升5%。"
     ],
     "RogueBuffMin": 12,
     "RogueBuffMax": 20,
     "buyBuffprice": [
-      0
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
     ],
     "enemytext": 5,
     "unlock": 10,

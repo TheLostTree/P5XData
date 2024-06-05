@@ -5,28 +5,33 @@
     "unlockType": 0,
     "unlockParam": [],
     "costMoney": [
-      0
+      22,
+      500
     ],
     "desc": "适合想要轻松享乐的新手\n球速70km/h",
     "leftTime": 2,
     "hitTime": [
-      0
+      1.4,
+      1.8
     ],
     "hitPos": [
-      0
+      30,
+      -30
     ],
     "homeRunTime": [
-      0
+      1.5,
+      1.7
     ],
     "homeRunPos": [
-      0
+      10,
+      -10
     ],
     "roundCount": 5,
     "greatAward": [
-      0
+      202001
     ],
     "firstGreatAward": [
-      0
+      202002
     ],
     "perfectAward": 202003,
     "firstPerfectAward": 202004,
@@ -37,31 +42,37 @@
     "name": "中级难度",
     "unlockType": 4,
     "unlockParam": [
-      0
+      2,
+      9
     ],
     "costMoney": [
-      0
+      22,
+      800
     ],
     "desc": "适合想要有一些挑战的老手\n球速80km/h",
     "leftTime": 1.5,
     "hitTime": [
-      0
+      1,
+      1.4
     ],
     "hitPos": [
-      0
+      25,
+      -25
     ],
     "homeRunTime": [
-      0
+      1.1,
+      1.3
     ],
     "homeRunPos": [
-      0
+      7.5,
+      -7.5
     ],
     "roundCount": 5,
     "greatAward": [
-      0
+      202005
     ],
     "firstGreatAward": [
-      0
+      202006
     ],
     "perfectAward": 202007,
     "firstPerfectAward": 202008,
@@ -72,31 +83,37 @@
     "name": "高级难度",
     "unlockType": 4,
     "unlockParam": [
-      0
+      2,
+      17
     ],
     "costMoney": [
-      0
+      22,
+      1500
     ],
     "desc": "适合操作娴熟的人\n球速90km/h",
     "leftTime": 1,
     "hitTime": [
-      0
+      0.7,
+      0.9
     ],
     "hitPos": [
-      0
+      20,
+      -20
     ],
     "homeRunTime": [
-      0
+      0.75,
+      0.85
     ],
     "homeRunPos": [
-      0
+      5,
+      -5
     ],
     "roundCount": 5,
     "greatAward": [
-      0
+      202009
     ],
     "firstGreatAward": [
-      0
+      202010
     ],
     "perfectAward": 202011,
     "firstPerfectAward": 202012,

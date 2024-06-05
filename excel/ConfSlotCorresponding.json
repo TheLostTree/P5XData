@@ -4,15 +4,25 @@
     "type": 1,
     "slotFrame": "left",
     "slotClickRange": [
-      0
+      0,
+      -0.1,
+      0,
+      0.7,
+      0.7,
+      0.7
     ],
     "slotPosition": [
-      0
+      280.733,
+      41.277,
+      119.258
     ],
     "uiShow": 2,
     "model": "plant_xiaohuapen01 (3)",
     "handleAdapter": [
-      0
+      0,
+      2129071,
+      0,
+      2129062
     ]
   },
   {
@@ -20,15 +30,25 @@
     "type": 1,
     "slotFrame": "left",
     "slotClickRange": [
-      0
+      0,
+      -0.1,
+      0,
+      0.7,
+      0.7,
+      0.7
     ],
     "slotPosition": [
-      0
+      280.765,
+      41.277,
+      120.263
     ],
     "uiShow": 2,
     "model": "plant_xiaohuapen01 (2)",
     "handleAdapter": [
-      0
+      0,
+      2129071,
+      2129061,
+      2129063
     ]
   },
   {
@@ -36,14 +56,24 @@
     "type": 1,
     "slotFrame": "left",
     "slotClickRange": [
-      0
+      0,
+      -0.1,
+      0,
+      0.7,
+      0.7,
+      0.7
     ],
     "slotPosition": [
-      0
+      280.719,
+      41.277,
+      121.269
     ],
     "uiShow": 1,
     "model": "plant_xiaohuapen01 (1)",
     "handleAdapter": [
+      0,
+      2129072,
+      2129062,
       0
     ]
   },
@@ -52,15 +82,25 @@
     "type": 1,
     "slotFrame": "right",
     "slotClickRange": [
-      0
+      0,
+      -0.1,
+      0,
+      0.7,
+      0.7,
+      0.7
     ],
     "slotPosition": [
-      0
+      280.8,
+      41.277,
+      132.385
     ],
     "uiShow": 2,
     "model": "plant_xiaohuapen01 (6)",
     "handleAdapter": [
-      0
+      0,
+      2129074,
+      0,
+      2129065
     ]
   },
   {
@@ -68,15 +108,25 @@
     "type": 1,
     "slotFrame": "right",
     "slotClickRange": [
-      0
+      0,
+      -0.1,
+      0,
+      0.7,
+      0.7,
+      0.7
     ],
     "slotPosition": [
-      0
+      280.8,
+      41.277,
+      133.4943
     ],
     "uiShow": 2,
     "model": "plant_xiaohuapen01 (5)",
     "handleAdapter": [
-      0
+      0,
+      2129074,
+      2129064,
+      2129066
     ]
   },
   {
@@ -84,14 +134,24 @@
     "type": 1,
     "slotFrame": "right",
     "slotClickRange": [
-      0
+      0,
+      -0.1,
+      0,
+      0.7,
+      0.7,
+      0.7
     ],
     "slotPosition": [
-      0
+      280.8,
+      41.277,
+      134.536
     ],
     "uiShow": 1,
     "model": "plant_xiaohuapen01 (4)",
     "handleAdapter": [
+      0,
+      2129073,
+      2129065,
       0
     ]
   },
@@ -100,15 +160,25 @@
     "type": 2,
     "slotFrame": "left",
     "slotClickRange": [
-      0
+      0,
+      -0.2,
+      0,
+      0.6,
+      0.4,
+      1.8
     ],
     "slotPosition": [
-      0
+      281.602,
+      41,
+      119.286
     ],
     "uiShow": 2,
     "model": "plant_huapen02",
     "handleAdapter": [
-      0
+      2129061,
+      0,
+      0,
+      2129072
     ]
   },
   {
@@ -116,14 +186,24 @@
     "type": 2,
     "slotFrame": "left",
     "slotClickRange": [
-      0
+      0,
+      -0.2,
+      0,
+      0.6,
+      0.4,
+      1.8
     ],
     "slotPosition": [
-      0
+      281.602,
+      41,
+      121.264
     ],
     "uiShow": 1,
     "model": "plant_huapen02 (2)",
     "handleAdapter": [
+      2129063,
+      0,
+      2129071,
       0
     ]
   },
@@ -132,15 +212,25 @@
     "type": 2,
     "slotFrame": "right",
     "slotClickRange": [
-      0
+      0,
+      -0.2,
+      0,
+      0.6,
+      0.4,
+      1.8
     ],
     "slotPosition": [
-      0
+      281.602,
+      41,
+      134.586
     ],
     "uiShow": 1,
     "model": "plant_huapen02 (3)",
     "handleAdapter": [
-      0
+      2129064,
+      0,
+      0,
+      2129074
     ]
   },
   {
@@ -148,14 +238,24 @@
     "type": 2,
     "slotFrame": "right",
     "slotClickRange": [
-      0
+      0,
+      -0.2,
+      0,
+      0.6,
+      0.4,
+      1.8
     ],
     "slotPosition": [
-      0
+      281.602,
+      41,
+      132.599
     ],
     "uiShow": 2,
     "model": "plant_huapen02 (4)",
     "handleAdapter": [
+      2129066,
+      0,
+      2129073,
       0
     ]
   }

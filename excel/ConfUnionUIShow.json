@@ -3,58 +3,138 @@
     "sn": 1,
     "playerPosList": [
       [
-        0
+        132.731,
+        100.089,
+        69.855
+      ],
+      [
+        133.861,
+        100.09,
+        69.797
       ]
     ],
     "playerFaceAngle": [
-      0
+      -5.716278,
+      -47.97546
     ],
     "playerAni": [
-      "�x���\"�Ɵz\u001a.��쵩�"
+      "@union_sit",
+      "@safehouse_stand"
     ],
     "playermonaPosList": [
       [
-        0
+        132.768,
+        100.585,
+        69.44
       ]
     ],
     "playermonaFaceAngle": [
-      0
+      -37.89999
     ],
     "playermonaAni": [
-      "��ކ��{�-jw"
+      "@safehouse_stand"
     ],
     "monaPosList": [
       [
-        0
+        131.305,
+        100.585,
+        70.66702
+      ],
+      [
+        133.1353,
+        100.894,
+        72.04052
+      ],
+      [
+        132.129,
+        100.894,
+        70.925
+      ],
+      [
+        133.112,
+        100.894,
+        70.545
       ]
     ],
     "monaFaceAngle": [
-      0
+      69.5,
+      -84.61279,
+      -41.1767,
+      -41.1767
     ],
     "monaAni": [
-      "��ކ��{�-jwli����\u001e�ȭ��ކ��{�\"�Ɵz\u001a.���"
+      "@safehouse_stand",
+      "@safehouse_sit",
+      "@safehouse_sit",
+      "@safehouse_sit"
     ],
     "thiefPosList": [
       [
-        0
+        133.848,
+        100.089,
+        71.729
+      ],
+      [
+        132.061,
+        100.101,
+        69.785
+      ],
+      [
+        133.966,
+        100.105,
+        70.863
+      ],
+      [
+        132.041,
+        100.101,
+        72.612
       ]
     ],
     "thiefFaceAngle": [
-      0
+      -94.54031,
+      51.8715,
+      -48.63,
+      145
     ],
     "thiefAni": [
-      "�x���\"�Ɵz\u001a.��쵩ݺx���\"�Ɵz\u001a.��쵩�"
+      "@union_sit",
+      "@safehouse_stand",
+      "@union_sit",
+      "@safehouse_stand"
     ],
     "specialThiefPosList": [
       [
-        0
+        132.794,
+        100.087,
+        72.591
+      ],
+      [
+        133.737,
+        100.097,
+        72.696
+      ],
+      [
+        131.511,
+        100.08,
+        71.609
+      ],
+      [
+        133.652,
+        100.107,
+        69.479
       ]
     ],
     "specialThiefFaceAngle": [
-      0
+      172.5797,
+      -119.5563,
+      111.2678,
+      -28.97742
     ],
     "specialThiefAni": [
-      "�x���\"�Ɵz\u001a.��쵩ݺx���\"�Ɵz\u001a.��쵩�"
+      "@union_sit",
+      "@safehouse_stand",
+      "@union_sit",
+      "@safehouse_stand"
     ],
     "timeline": "TL_union_main_pos.prefab"
   }

@@ -247,7 +247,10 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�Ҷ�������j)ȝ�\u0005����\u0017�P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�p���\b�+kjx\u001eN\u0018�|Ƣ��ߠZ�&�"
+      "UI_StrangeThiefMainInfoFromOther",
+      "UI_StrangeThiefMainInfo",
+      "UI_StrangeThiefMainCard",
+      "UI_StrangeThiefMainInfoFromCard"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -283,7 +286,10 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�Ҷ�������j)ȝ�\u0005����\u0017�P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�p���\b�+kjx\u001eN\u0018�|Ƣ��ߠZ�&�"
+      "UI_StrangeThiefMainInfoFromOther",
+      "UI_StrangeThiefMainInfo",
+      "UI_StrangeThiefMainCard",
+      "UI_StrangeThiefMainInfoFromCard"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -319,10 +325,16 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�Ӣ�\"�Ȩ�B\u0014#�j��z���X�"
+      "UI_TopMissionUI",
+      "UI_ChatPreviewView"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�(Z��޾'�V'�P��q��\"{^��-9��r�b{\u0005\b��\\\"{^��-�����\u0014#�\"�Ȩ�֯�\u0006�y�\b�'!yۥy:�q"
+      "UI_OpenWorldBubble",
+      "UI_ChatPreviewView",
+      "UI_SceneInteractObjectView",
+      "UI_NpcInteractiveView",
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -345,7 +357,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      7
     ],
     "passKeyEvent": 1
   },
@@ -359,7 +371,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j�exǞ�)�P�Υ�֢�]\u0006�ە"
+      "UI_BattleMeeting",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -367,7 +380,13 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��j)r\n\u0016����yB?\r���(Z�W���޽�T#�ڊ\\���ezx\u001e\r�bjU\b�\nޝ�\u001a�ub{\u0005\b�\nޝ�^���V'�P��{\u0006�t7�j)lV'�P�����=S�y�+uX�"
+      "UI_DailyChallenge",
+      "UI_DailyChallengeLevel",
+      "UI_DailyChallengeDetial",
+      "UI_ArenaMainView",
+      "UI_ArenaRewardView",
+      "UI_RewardDetailsView",
+      "UI_ArenaPVPRecordView"
     ],
     "story_state": 3,
     "story_enable": 2,
@@ -448,7 +467,10 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -504,10 +526,33 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      5,
+      2,
+      201
     ],
     "show_enter_state": [
-      0
+      101,
+      1,
+      301,
+      4,
+      6,
+      401,
+      1100,
+      102,
+      901,
+      7,
+      501,
+      801,
+      601,
+      602,
+      302,
+      1000,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -539,10 +584,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -577,10 +622,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -652,10 +697,20 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      1,
+      201,
+      301,
+      4,
+      5,
+      2,
+      6,
+      401,
+      302
     ],
     "show_enter_state": [
-      0
+      101,
+      102,
+      901
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -675,7 +730,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      1
     ],
     "passKeyEvent": 1
   },
@@ -692,10 +747,23 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      1,
+      201,
+      301,
+      4,
+      5,
+      2,
+      6,
+      401,
+      3,
+      302,
+      703,
+      704
     ],
     "show_enter_state": [
-      0
+      101,
+      102,
+      901
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -730,10 +798,23 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      1,
+      201,
+      301,
+      4,
+      5,
+      2,
+      6,
+      401,
+      3,
+      302
     ],
     "show_enter_state": [
-      0
+      101,
+      102,
+      901,
+      601,
+      602
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -769,7 +850,23 @@
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      301,
+      4,
+      6,
+      401,
+      1100,
+      7,
+      501,
+      801,
+      601,
+      602,
+      302,
+      1000,
+      1200,
+      1300,
+      1400,
+      1600,
+      1700
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -802,14 +899,39 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P��\bV�xȬ�*'V'�P��j)r\n\u0016����xV�xȬ�*'V'�"
+      "UI_DCFakeMissionView",
+      "UI_DailyChallengeFakeMissionView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      201,
+      5,
+      2,
+      401,
+      3,
+      501,
+      801
     ],
     "show_enter_state": [
-      0
+      101,
+      1,
+      301,
+      4,
+      6,
+      102,
+      7,
+      601,
+      602,
+      302,
+      701,
+      901,
+      703,
+      704,
+      1100,
+      1200,
+      1300,
+      1400,
+      1700
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -841,10 +963,12 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�y8by��jה#�h�祊ד�'�J֭"
+      "UI_PalaceThiefState",
+      "UI_RogueliteThiefState"
     ],
     "continueMutexArgs": [
-      "P��jV�y8by��jה#�h�祊ד�'�J֭"
+      "UI_PalaceThiefState",
+      "UI_RogueliteThiefState"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -882,10 +1006,25 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      1,
+      201,
+      301,
+      4,
+      5,
+      2,
+      6,
+      401,
+      302
     ],
     "show_enter_state": [
-      0
+      101,
+      102,
+      501,
+      601,
+      602,
+      901,
+      1300,
+      1400
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -917,7 +1056,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��r\u0017��W���\u001e"
+      "UI_ScheduleTrace"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -953,7 +1092,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�̊�\"�sZ�(\u001a��"
+      "UI_MissionNavigated"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -992,7 +1131,12 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [
-      0
+      1,
+      201,
+      301,
+      4,
+      2,
+      6
     ],
     "show_enter_state": [],
     "is_default": 1,
@@ -1028,10 +1172,29 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      101,
+      1,
+      201,
+      5,
+      2,
+      102
     ],
     "show_enter_state": [
-      0
+      301,
+      4,
+      6,
+      401,
+      1100,
+      7,
+      501,
+      801,
+      601,
+      602,
+      302,
+      1000,
+      1200,
+      1300,
+      1600
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -1051,7 +1214,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      2
     ],
     "passKeyEvent": 1
   },
@@ -1068,10 +1231,15 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      101,
+      1,
+      201,
+      5,
+      2,
+      102
     ],
     "show_enter_state": [
-      0
+      1700
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -1091,7 +1259,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      1002
     ],
     "passKeyEvent": 1
   },
@@ -1108,10 +1276,30 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      101,
+      1,
+      201,
+      5,
+      2,
+      102
     ],
     "show_enter_state": [
-      0
+      301,
+      4,
+      6,
+      401,
+      1100,
+      7,
+      501,
+      801,
+      601,
+      602,
+      302,
+      1000,
+      1200,
+      1300,
+      1600,
+      1700
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -1143,17 +1331,36 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ѣ\u000b��+^N\u0018�}+Z�"
+      "UI_RogueliteThiefState"
     ],
     "continueMutexArgs": [
-      "P�Ѣ\u000b��+^N\u0018�}+Z�"
+      "UI_RogueliteThiefState"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      101,
+      1,
+      201,
+      301,
+      5,
+      2,
+      302
     ],
     "show_enter_state": [
-      0
+      4,
+      6,
+      401,
+      1100,
+      501,
+      801,
+      601,
+      602,
+      701,
+      1000,
+      1200,
+      1300,
+      1600,
+      1700
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -1185,12 +1392,33 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#𨚚",
-      "x�^��\u001a�ub{\u0005\b�+h�$^r��\"t��b��\b��^�j+��/z{Lj�\b�ǝ���k%b{"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_ComposeItemsMainView",
+      "UI_StoryRecordInTimeline",
+      "UI_OpenWorldEventMap",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�n���jZ \u0016",
-      "^uX��B?2�m�(h�Ǖ��\u0014#�ip��z���+�V'�P��y�C��h�8�V'�P�ˊh�y���/z{AjyޭB?\u0016��:��N*lP�ź����\"{^��-N���B?6�\b�׫i�b��b{\u0005\b�'\u001e��'���rӛ��-V'�"
+      "UI_NpcFuncDialogFixedView",
+      "UI_MultiChoiceView",
+      "UI_NpcInteractiveView",
+      "UI_HeadDialogTipView",
+      "UI_LimitedTimeEventBanner",
+      "UI_FuncOpenTips",
+      "UI_FurnitureInteractTouch",
+      "UI_NpcInteractiveView",
+      "UI_SceneInteractObjectView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1225,10 +1453,27 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�^��^�j+��/z{T#�zu��WD���1�T#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_NewOpenWorldEvent",
+      "UI_OpenWorldEventMap",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�P�Ѣ\u000b��+^\u000e&��\u0005b{"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView",
+      "UI_RogueliteDialogView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1263,10 +1508,25 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�zu��WD���1�T#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_OpenWorldEventMap",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1301,10 +1561,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1339,10 +1613,12 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ӣ�\"�Ȩ�B\u0014#�\"�Ȩ�#RN*lP�̊�\"�s�w�jYS�"
+      "UI_TopMissionUI",
+      "UI_MissionSNSTips",
+      "UI_MissionPhoneCallTip"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�"
+      "UI_FuncOpenTips"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1377,10 +1653,12 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ӣ�\"�Ȩ�B\u0014#�\"�Ȩ�#RN*lP�̊�\"�s�w�jYS�"
+      "UI_TopMissionUI",
+      "UI_MissionSNSTips",
+      "UI_MissionPhoneCallTip"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�"
+      "UI_FuncOpenTips"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1415,10 +1693,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1453,10 +1745,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1491,10 +1797,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1529,10 +1849,25 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�É�h�X��U\b�k�\n\u0016��+��x��B?J�+�\u0019ZrE\b�+h�!kjg�#���������B?JH�J�+�)b�B?J��uJR���\nX�P�ҥ�R������*S��\b�+h�$�VڭB?I�^v�^N�%m��#�����y��{\u001bn��\b�f��)�\n�ߊ����h�8�V'�P��1B?J�+�\u0017���H�8�zX�yB?1�bh�Z�X�"
+      "UI_DialogView1",
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1567,10 +1902,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1605,10 +1954,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1643,10 +2006,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1681,10 +2058,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1719,10 +2110,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1757,10 +2162,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1795,10 +2214,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1833,10 +2266,26 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ƺ��jx\u0012�;����#�������$P�Ҷ��\u0016��yB?J�+�Zڙ�#���������*T#��y�T�+h� ���\b�*^y�)J�+�)b�8�P�Ҷ��N�%m��#����n���VڭB?J�+�7��7����P��j��\u0000�����8���\u0013��b{\u0005\b�c\u0014#�����y�+t�ӊg��w�#�\u001ev&������"
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�������[j�\b�'!yۥy:(���P�ͥ�'���rدyX�"
+      "UI_FuncOpenTips",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1871,11 +2320,36 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�yB\u0014#��Ȭ�*'P�\b�Ƣ�ǧ���\u0018���\b�Ƣ�ǧ��b�\u001bT#�h��brE\b����\u0007-P�\b�Ƣ�B\u0014#�\u001a�s\u001e��ъ\bmP�Υ�֢�]\u0006�ە�\b��\\\"{^��-�����\u0014#�\u001a�s\u001a�B?\n\u0016�>����\u0015��\u0014#�\"�Ȩ��肷��B?\u0002�Zr@%�%\b�\u000bmi�\u0000rب�'����yB?\u0002�ZrD�y�T�B?\u0016��۫x��z���:.r\u0015\b�Ȭ�*'5�⁫^uB?Iǧx��z�����y�U��"
+      "UI_PalaceUI",
+      "UI_TopMissionUI",
+      "UI_MainMenu_TopRight",
+      "UI_MainMenu_Right",
+      "UI_Joystick",
+      "UI_JumpActUI",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_OpenWorldBubble",
+      "UI_NpcInteractiveView",
+      "UI_MainMap",
+      "UI_ChatPreviewView",
+      "UI_MissionProgress",
+      "UI_AttackAlly",
+      "UI_AttackActionSequence",
+      "UI_AttackSpeedUp",
+      "UI_FurnitureInteractTouch",
+      "UI_MissionNavigated",
+      "UI_SceneInteractObjectView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�n���jZ \u0016",
-      "^uX��B?2�m�(h�Ǖ��\u0014#�ip��z���+�V'�P��y�C��h�8�V'�P�ˊh�y���/z{AjyޭB?\u0016��:��N*lP�ź����\"{^��-N���B?6�\b�׫i�b��b{\u0005\b�'\u001e��'���rӛ��-V'�"
+      "UI_NpcFuncDialogFixedView",
+      "UI_MultiChoiceView",
+      "UI_NpcInteractiveView",
+      "UI_HeadDialogTipView",
+      "UI_LimitedTimeEventBanner",
+      "UI_FuncOpenTips",
+      "UI_FurnitureInteractTouch",
+      "UI_NpcInteractiveView",
+      "UI_SceneInteractObjectView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1910,10 +2384,25 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�É�h�X��U\b�k�\n\u0016��+��x��B?J�+�\u0019ZrE\b�+h�!kjg�#���������B?JH�J�+�)b�B?J��uJR���\nX�P�ҥ�R������*S��\b�+h�$�VڭB?I�^v�^N�%m��#�����y��{\u001bn��\b�f��)�\n�ߊ����h�8�V'�P��1B?J�+�\u0017���H�8�zX�yB?1�bh�Z�X�"
+      "UI_DialogView1",
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1949,7 +2438,10 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�������[j�\b�'!yۥy:(���P�ͥ�'���rدyX�"
+      "UI_FuncOpenTips",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -1984,10 +2476,25 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�É�h�X��U\b�k�\n\u0016��+��x��B?J�+�\u0019ZrE\b�+h�!kjg�#���������B?JH�J�+�)b�B?J��uJR���\nX�P�ҥ�R������*S��\b�+h�$�VڭB?I�^v�^N�%m��#�����y��{\u001bn��\b�f��)�\n�ߊ����h�8�V'�P��1B?J�+�\u0017���H�8�zX�yB?1�bh�Z�X�"
+      "UI_DialogView1",
+      "UI_GuoChangSuDuXian",
+      "UI_StoryBlack",
+      "UI_StoryFrame",
+      "UI_StoryFrame2",
+      "UI_SkipStoryClip",
+      "UI_SpeedUpStoryClip",
+      "UI_SpeedUpStoryClipTip",
+      "UI_StoryToolbar",
+      "UI_ScheduleToolbar",
+      "UI_StoryTearTexture",
+      "UI_WarningConfirmDialogTipView",
+      "UI_GM",
+      "UI_StoryRecordInTimeline",
+      "UI_MediaPlayView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip��z���+�V'�"
+      "UI_FuncOpenTips",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -2023,7 +2530,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە"
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -2046,7 +2553,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2060,7 +2567,7 @@
     "topForeverSn": 1033,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�¢i����N*"
+      "UI_CommonKeyTip"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -2079,14 +2586,19 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      6,
+      8,
+      9
     ],
     "passKeyEvent": 1
   },
@@ -2101,7 +2613,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��T#����n���i�"
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -2124,7 +2637,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2139,7 +2652,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��T#����n���i�"
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -2162,7 +2676,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2177,7 +2691,9 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��T#����n���iǔ#�h�祊׌�؟1��V'�"
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace",
+      "UI_RogueliteMotifMainView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -2200,7 +2716,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2236,7 +2752,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      41
     ],
     "passKeyEvent": 1
   },
@@ -2272,7 +2788,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      41
     ],
     "passKeyEvent": 1
   },
@@ -2286,7 +2802,7 @@
     "topForeverSn": 1029,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -2310,7 +2826,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2324,7 +2840,7 @@
     "topForeverSn": 1029,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -2348,7 +2864,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2384,7 +2900,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 0
   },
@@ -2420,7 +2936,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 0
   },
@@ -2435,7 +2951,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��T#����n���i�"
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -2458,7 +2975,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2506,7 +3023,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -2530,7 +3047,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2544,7 +3061,9 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bmP�¢Y^rدy(h�X��B?\u000e+❫b�"
+      "UI_MainMenu_TopRight",
+      "UI_CollectiveShopView",
+      "UI_Divination"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -2563,14 +3082,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2584,7 +3106,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɺj@r�\bP�ɣ+-��\u0014#�j'\"צN*"
+      "UI_JumpActUI",
+      "UI_Joystick",
+      "UI_CommonItemTip"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -2608,7 +3132,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2622,10 +3146,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\u0004����\bV'�P�̡؟�֦yB?&���'$P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_TBPauseUIView",
+      "UI_ModifyName",
+      "UI_Joystick",
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -2660,7 +3188,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -2696,7 +3224,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -2720,7 +3248,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -2734,10 +3262,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\u0004����\bV'�P�̡؟�֦yB?&���'$P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_TBPauseUIView",
+      "UI_ModifyName",
+      "UI_Joystick",
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -2772,10 +3304,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\u0004����\bV'�P�̡؟�֦yB?&���'$P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_TBPauseUIView",
+      "UI_ModifyName",
+      "UI_Joystick",
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -2810,7 +3346,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j�\u000bz����b{\u0005\b��2�؜"
+      "UI_PassLevelupView",
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -2881,7 +3418,8 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P��z�\u000bz��R�\b�[�p�^�8�"
+      "UI_HeroLevelUp",
+      "UI_FuncOpenTips"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -2916,10 +3454,11 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�É�h�X��"
+      "UI_DialogView1"
     ],
     "continueMutexArgs": [
-      "P��z�\u000bz��R�\b�[�p�^�8�"
+      "UI_HeroLevelUp",
+      "UI_FuncOpenTips"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -2955,7 +3494,8 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P��z�\u000bz��R�\b�[�p�^�8�"
+      "UI_HeroLevelUp",
+      "UI_FuncOpenTips"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -3126,7 +3666,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -3196,10 +3736,12 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [
-      "P�É�h�X��U\b�[�p�^�8��B?&�\u0001�T"
+      "UI_DialogView1",
+      "UI_FuncOpenTips",
+      "UI_JumpActUI"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -3302,10 +3844,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\u0004����\bV'�P�̡؟�֦yB?&���'$P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_TBPauseUIView",
+      "UI_ModifyName",
+      "UI_Joystick",
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -3340,10 +3886,12 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ъ\bm\u0002�\u0003��h����B?:��Z��tKޞ�\u001a�B?:��Z��tKޞ�\u001a"
+      "UI_RightArcDialogList",
+      "UI_OpenWorldEventMap",
+      "UI_OpenWorldEventMap"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -3378,10 +3926,12 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ъ\bm\u0002�\u0003��h����B?:��Z��tKޞ�\u001a�B?:��Z��tKޞ�\u001a"
+      "UI_RightArcDialogList",
+      "UI_OpenWorldEventMap",
+      "UI_OpenWorldEventMap"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -3518,7 +4068,24 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ъ\bm\u0002�\u0003��h����B?\u000e&��\u0005b{\rT#��jZ V'��B?\u000e&��\u0005b{\r�#��jZ V'��B?\u000e&��\u0005b{\u000eT#��jZ V'��B?\u000e&��\u0005b{\u000e�#��jZ V'��B?\u000e&��\u0005b{\u000fT#��jZ V'��E\b�8���\u0015��5�B?\u000e&��\u0005b{\rvP�É�h�X��]�#��jZ V'�ׅ\b�8���\u0015��5�B?\u000e&��\u0005b{\rzP�É�h�X��^"
+      "UI_RightArcDialogList",
+      "UI_DialogView1",
+      "UI_DialogView2",
+      "UI_DialogView3",
+      "UI_DialogView4",
+      "UI_DialogView5",
+      "UI_DialogView6",
+      "UI_DialogView7",
+      "UI_DialogView8",
+      "UI_DialogView9",
+      "UI_DialogView10",
+      "UI_DialogView11",
+      "UI_DialogView12",
+      "UI_DialogView13",
+      "UI_DialogView14",
+      "UI_DialogView15",
+      "UI_DialogView16",
+      "UI_DialogView17"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -3554,10 +4121,15 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�6�x�h��\bV'�P�ź����\"{^��-N���B?I�^v�^N��yB?Iǧx��z�����y�U��"
+      "UI_OpenWorldBubble",
+      "UI_TakePhotoUIView",
+      "UI_FurnitureInteractTouch",
+      "UI_ScheduleTrace",
+      "UI_SceneInteractObjectView"
     ],
     "continueMutexArgs": [
-      "P�ź����\"{^��-N���B?Iǧx��z�����y�U��"
+      "UI_FurnitureInteractTouch",
+      "UI_SceneInteractObjectView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -3745,7 +4317,10 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -4092,7 +4667,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -4107,7 +4682,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P��y�C��h�8�V'�"
+      "UI_HeadDialogTipView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -4125,14 +4700,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -4214,7 +4792,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�5$�"
+      "UI_MainSNSTip"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -4238,7 +4816,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -4269,14 +4847,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 2,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -4290,10 +4871,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P�Ԟ*'2�b#Z��\b��^�j+��nm�^"
+      "UI_UnionModifyName",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -4311,14 +4893,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 2,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -4400,10 +4985,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -4494,7 +5079,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -4530,7 +5115,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -4544,7 +5129,7 @@
     "topForeverSn": 1054,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -4580,7 +5165,7 @@
     "topForeverSn": 1054,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -4616,7 +5201,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -4652,7 +5239,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە�\b�6�� �jY^�\u0007�j)�z{���"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble",
+      "UI_DailyChallengeMainMenuView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -4671,7 +5261,10 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -4690,7 +5283,9 @@
     "topForeverSn": 0,
     "mutexMode": 0,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -4726,7 +5321,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -4762,7 +5359,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -4832,8 +5431,18 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P��j)r\n\u0016����x��zU\b��^�j+��nm�^P��j)�z{�N�Q�\bmP�ɣ+-��\u0014#�Z��^1筊x\u0014#�ڊ\\���ezx\u001e1��1��V'�P�Ν����\u0007��X��B?U�oz�뉩B��$����X��B?\f#h�f�\u0005�m��޵��V'�P�Ԟ*'\u0006�",
-      "1��V'�"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_DailyChallengeLevel",
+      "UI_OpenWorldBubble",
+      "UI_MainMenu_TopRight",
+      "UI_Joystick",
+      "UI_BattleMeeting",
+      "UI_DailyChallengeMainMenuView",
+      "UI_OneTimeDungeonView",
+      "UI_VelvetTrialCheckpointView",
+      "UI_DCNormalBattleDetailView",
+      "UI_UnionBossMainView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -4857,7 +5466,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -4871,8 +5480,21 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P��j)r\n\u0016����x��zU\b��^�j+��nm�^P��j)�z{�N�Q�\bmP�Ѣ\u000b��+^M�\u0016��jب�X��B?\t�e>\u001a'yB?&���'$P��j�exǞ�)�P��y�\u0002��ezx\u001e\u0012{kjw\u001eV'�P��j)r\n\u0016����xƢ�ǧ�X��B?:w��g��x\u001e�ub{\u0005\b�W���S�&�\n\u0017���\"��b{\u0005\b�0�����\u0016��W�z֢�X��B?Rx��\u001a",
-      "�Ƣ�X�"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_DailyChallengeLevel",
+      "UI_OpenWorldBubble",
+      "UI_MainMenu_TopRight",
+      "UI_RogueliteTeamFormationView",
+      "UI_CellPhone",
+      "UI_Joystick",
+      "UI_BattleMeeting",
+      "UI_WeekChallengeEntranceView",
+      "UI_DailyChallengeMainMenuView",
+      "UI_OneTimeDungeonView",
+      "UI_VelvetTrialCheckpointView",
+      "UI_DCNormalBattleDetailView",
+      "UI_UnionBossMainView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -4896,7 +5518,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      15
     ],
     "passKeyEvent": 1
   },
@@ -4910,7 +5532,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -4968,7 +5590,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      14
     ],
     "passKeyEvent": 1
   },
@@ -4982,7 +5604,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -5024,7 +5648,13 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��j)r\n\u0016����yB?\r���(Z�W���޽�T#�ڊ\\���ezx\u001e\r�bjU\b�\nޝ�\u001a�ub{\u0005\b�\nޝ�^���V'�P��{\u0006�t7�j)lV'�P�����=S�y�+uX�"
+      "UI_DailyChallenge",
+      "UI_DailyChallengeLevel",
+      "UI_DailyChallengeDetial",
+      "UI_ArenaMainView",
+      "UI_ArenaRewardView",
+      "UI_RewardDetailsView",
+      "UI_ArenaPVPRecordView"
     ],
     "story_state": 3,
     "story_enable": 2,
@@ -5054,10 +5684,13 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�̊�\"�p\u001cq�mN*"
+      "UI_MissionAcceptTip"
     ],
     "continueMutexArgs": [
-      "P�̊�\"�s�\n޲ĭj�T#�\"�Ȩ��肷��I�P�̊�\"�qb�+!y�\b��2�؜"
+      "UI_MissionProgressStart",
+      "UI_MissionProgressEnd",
+      "UI_MissionFinished",
+      "UI_Joystick"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -5098,7 +5731,11 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x�ߡB?&�\u0001�T!B?&���'$"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo",
+      "UI_JumpActUI",
+      "UI_Joystick"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -5134,7 +5771,11 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x�ߡB?&�\u0001�T!B?&���'$"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo",
+      "UI_JumpActUI",
+      "UI_Joystick"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -5170,7 +5811,9 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x��"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -5200,9 +5843,13 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��jV�y+����.�",
-      "J\u001b�}B?=�Zq䮚f��h�J\u001b�}B?=�Zq䮚f��\u001a",
-      "�h�P��jV�y+����Z)�#�ڕ�\u001eJ�j����\u0014#�ڕ�\u001eJ�j����Z)�#�ڕ�\u001eJ�j�"
+      "UI_PalaceSummaryLossShuff",
+      "UI_PalaceSummaryWinShuff",
+      "UI_PalaceSummaryBossWin",
+      "UI_PalaceSummaryWin",
+      "UI_PalaceSummaryLoss",
+      "UI_PalaceSummaryGreatWin",
+      "UI_PalaceSummary"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -5210,7 +5857,12 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x�ߡB?&�\u0001�T!B?&���'$P��jV�y8by��j�"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo",
+      "UI_JumpActUI",
+      "UI_Joystick",
+      "UI_PalaceThiefState"
     ],
     "story_state": 3,
     "story_enable": 0,
@@ -5246,7 +5898,9 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x��"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -5282,7 +5936,9 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x��"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -5318,7 +5974,9 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x��"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -5354,7 +6012,9 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x��"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -5418,7 +6078,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�x��"
+      "UI_PalaceInfo"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -5476,7 +6136,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -5512,7 +6172,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -5560,7 +6220,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -5579,7 +6239,10 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -5598,10 +6261,10 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -5636,10 +6299,10 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�Ê��jب�)\""
+      "UI_DivinationSkip"
     ],
     "continueMutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -5674,7 +6337,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�Ê��jب�)\""
+      "UI_DivinationSkip"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -5710,10 +6373,10 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -5748,10 +6411,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�Ê��jب��^�\u001a1P�Ê��jب�)\""
+      "UI_DivinationOpenBox",
+      "UI_DivinationSkip"
     ],
     "continueMutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -5786,7 +6450,8 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�Ê��jب��^�\u001a1P�Ê��jب�)\""
+      "UI_DivinationOpenBox",
+      "UI_DivinationSkip"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -5822,7 +6487,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -5948,7 +6613,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -6018,7 +6683,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      40
     ],
     "passKeyEvent": 0
   },
@@ -6054,7 +6719,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -6068,7 +6733,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��z�(��O���"
+      "UI_PersonalProfile"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -6087,14 +6752,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -6108,7 +6776,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j�exǞ�)�P�Υ�֢�]\u0006�ە�\b�(^rJh�{K��T#�j�^�װ"
+      "UI_BattleMeeting",
+      "UI_OpenWorldBubble",
+      "UI_CheckpointList",
+      "UI_ChapterNew"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -6116,7 +6787,12 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P�����1��V'�P�����E�\u001a��b{\u0005\b�\u0017�j�Cz֢��b{\u0005\b�\nޝ��=\u0017���U��\u0014#�y�)�)�\r�bjU\b�6�� �jY^�\u0007�zؚ"
+      "UI_ArenaMainView",
+      "UI_ArenaRewardView",
+      "UI_RewardDetailsView",
+      "UI_ArenaPVPRecordView",
+      "UI_CheckpointDetial",
+      "UI_DailyChallengeDetial"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -6134,7 +6810,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -6148,7 +6824,11 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j)r\n\u0016����yB?\u0005�m��\u001ezا�B?:��Z��t\u001b�nW�#�y�)�)�.+-P��mz�^"
+      "UI_DailyChallenge",
+      "UI_BattleMeeting",
+      "UI_OpenWorldBubble",
+      "UI_CheckpointList",
+      "UI_ChapterNew"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -6156,7 +6836,12 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P�����1��V'�P�����E�\u001a��b{\u0005\b�\u0017�j�Cz֢��b{\u0005\b�\nޝ��=\u0017���U��\u0014#�y�)�)�\r�bjU\b�6�� �jY^�\u0007�zؚ"
+      "UI_ArenaMainView",
+      "UI_ArenaRewardView",
+      "UI_RewardDetailsView",
+      "UI_ArenaPVPRecordView",
+      "UI_CheckpointDetial",
+      "UI_DailyChallengeDetial"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -6226,7 +6911,7 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��j)r\n\u0016����x7���"
+      "UI_DailyChallengeDetial"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -6324,7 +7009,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��z�(��O���"
+      "UI_PersonalProfile"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -6382,7 +7067,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -6656,7 +7341,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -6742,7 +7427,7 @@
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      1400
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -6778,7 +7463,7 @@
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      1400
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -6814,7 +7499,7 @@
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      1400
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -6834,7 +7519,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      1001
     ],
     "passKeyEvent": 1
   },
@@ -6848,11 +7533,15 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ԟ*'\u0005�\u001e2)�1�U��\u0014#�'���O���{\u0005b{\u0005\b�I�pZ��\u001a�ub{\u0005\b�:)2+",
-      "���!B?&���'$P��j)�z{�F(!"
+      "UI_UnionBaseMiniMapView",
+      "UI_UnionChatPreviewView",
+      "UI_UnionBaseMainView",
+      "UI_TopMissionUI",
+      "UI_Joystick",
+      "UI_MainMenu_Right"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -6875,7 +7564,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -7365,10 +8054,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j)�j"
+      "UI_MainMap"
     ],
     "continueMutexArgs": [
-      "P��j)�j"
+      "UI_MainMap"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -8049,7 +8738,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -8085,7 +8774,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɺj@r�\bP�ɣ+-��"
+      "UI_JumpActUI",
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -8172,14 +8862,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -8210,14 +8903,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -8287,7 +8983,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      30
     ],
     "passKeyEvent": 1
   },
@@ -8301,7 +8997,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��jW��X�"
+      "UI_TalentView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -8393,7 +9089,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -8408,7 +9104,8 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -8431,7 +9128,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -8446,7 +9143,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -8464,14 +9162,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -8485,10 +9186,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��z�(�������\u0004��YU��"
+      "UI_PersonaCarryingSkillView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -8523,10 +9225,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j��x\u000fz�(��b{\u0005\b�7��jh��ޮ�'iX��B?\n���ȭx�����V'�P��z�(��\u001a�ub{"
+      "UI_CarryingPersonaView",
+      "UI_DecomposePersonaView",
+      "UI_CompositePersonaView",
+      "UI_PersonaMainView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -8562,7 +9268,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -8598,7 +9305,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -8634,7 +9342,8 @@
     "mutexMode": 2,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -8669,10 +9378,11 @@
     "topForeverSn": 1034,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -8707,10 +9417,12 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j��x\u000fz�(��b{\u0005\b�����ޮ�'iX�"
+      "UI_CarryingPersonaView",
+      "UI_JudgePersonaView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -8746,7 +9458,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -8781,10 +9494,13 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��z�(��\u001a�ub{\u0005\b�&��(�������V'�P�Ȟק�'�=��v���"
+      "UI_PersonaMainView",
+      "UI_CarryingPersonaView",
+      "UI_IntensifyPersonaView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -8887,7 +9603,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j"
+      "UI_Map"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -8924,7 +9640,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P��r\u0017��W���[j�\b�+h�$�V�"
+      "UI_ScheduleToolbar",
+      "UI_StoryToolbar"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -8947,7 +9664,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      14
     ],
     "passKeyEvent": 1
   },
@@ -8961,10 +9678,12 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��� �jZ \n�ߊ����h�8�V'�P�É�h�X��"
+      "UI_AniDialogConfirmDialogTipView",
+      "UI_DialogView1"
     ],
     "continueMutexArgs": [
-      "P��r\u0017��W���[j�\b�+h�$�V�"
+      "UI_ScheduleToolbar",
+      "UI_StoryToolbar"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -8999,7 +9718,9 @@
     "topForeverSn": 1035,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��z�(��\u001a�ub{\u0005\b�&��(�������V'�P�Ȟק�'�=��v���"
+      "UI_PersonaMainView",
+      "UI_CarryingPersonaView",
+      "UI_IntensifyPersonaView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -9023,7 +9744,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -9037,7 +9758,9 @@
     "topForeverSn": 1035,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��z�(��\u001a�ub{\u0005\b�&��(�������V'�P�Ȟק�'�=��v���"
+      "UI_PersonaMainView",
+      "UI_CarryingPersonaView",
+      "UI_IntensifyPersonaView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -9061,7 +9784,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -9075,7 +9798,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�r'~�k�`���\b�˥F�^I�^r�b{\u0005\b�˥F�^\n\u0016���h��b{"
+      "UI_StrangeThiefMainInfo",
+      "UI_StrangeThiefMainInfoFromCard",
+      "UI_MulRoleSelectView",
+      "UI_MulRoleChangeRoleView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -9099,7 +9825,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -9114,7 +9840,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -9137,7 +9863,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -9151,7 +9877,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�x(^rJh�{O��\u0014#�f�\u0004���Ţ���*'V'�"
+      "UI_PalaceCheckpointPick",
+      "UI_ClimbingTowerFormationView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -9357,7 +10084,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��z�(��\u001a�ub{\u0005\b�&��(�������V'�"
+      "UI_PersonaMainView",
+      "UI_CarryingPersonaView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -9394,7 +10122,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��T#����n���i�"
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -9430,7 +10159,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��T#����n���i�"
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -9635,10 +10365,19 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�̊�\"�tڑ���\u0012q��#�ڑ���\u000f���{\u0005\bV'�P�̊�\"�tڑ���\u0013��\b��^�j+��nm�^P�ͥ�'���rدyX��B?\u0016��۫x��z���:.r"
+      "UI_MissionTakePhotoScan",
+      "UI_TakePhotoPreviewUIView",
+      "UI_MissionTakePhotoTip",
+      "UI_OpenWorldBubble",
+      "UI_NpcInteractiveView",
+      "UI_FurnitureInteractTouch"
     ],
     "continueMutexArgs": [
-      "P�̊�\"�tڑ���\u0013��\b��^�j+��nm�^P�ͥ�'���rدyX��B?\u0016��۫x��z���:.r\u0015\b��2�؜"
+      "UI_MissionTakePhotoTip",
+      "UI_OpenWorldBubble",
+      "UI_NpcInteractiveView",
+      "UI_FurnitureInteractTouch",
+      "UI_Joystick"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -9661,7 +10400,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -9676,7 +10415,9 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�̊�\"�tڑ���\u0013��\b��^�j+��nm�^P�ͥ�'���rدyX�"
+      "UI_MissionTakePhotoTip",
+      "UI_OpenWorldBubble",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -9711,10 +10452,11 @@
     "topForeverSn": 1023,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��T#����n���i�"
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -9737,7 +10479,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -9768,10 +10510,13 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [
-      "P�¢i���^"
+      "UI_CommonOpen"
     ],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
@@ -9858,7 +10603,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��T#����n���i�"
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -9881,7 +10627,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -9895,10 +10641,12 @@
     "topForeverSn": 1069,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��T#����n���iǔ#�����y8by�\u001a�r'~"
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace",
+      "UI_StrangeThiefMainInfo"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -9916,14 +10664,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      13
     ],
     "passKeyEvent": 1
   },
@@ -9972,7 +10723,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -9995,7 +10746,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -10010,7 +10761,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -10147,7 +10898,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��r\u0017��W���\u001eP�̊�\"�sZ�(\u001a��"
+      "UI_ScheduleTrace",
+      "UI_MissionNavigated"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10388,7 +11140,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��T#����n���i�"
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -10411,7 +11164,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -10459,7 +11212,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɺj@r�\bP�ɣ+-��"
+      "UI_JumpActUI",
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10483,7 +11237,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -10519,7 +11273,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      3
     ],
     "passKeyEvent": 1
   },
@@ -10533,7 +11287,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\b��j�ex7�j)U��"
+      "UI_DCInBattleDetailView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10569,7 +11323,16 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�*^y�)P��z[޵:�jQb�\u001bS��ޱX��B?L\u0011�\u0019b�\u001bD��ڝǔ#��pZ��S��\b�0��\u0016��W�z֢�X��B?:w��g��x\u001e�pZ��^I�+yX��B?:w��g��x\u001e�pZ��^N�Q�\bmV'�P���֜�\u001a.��\b�I�ph��Z��^I�+yX��B?F�.zX�x\u0016��W���Չ�"
+      "UI_AttackSpeedUp",
+      "UI_VelvetTrialFightTipDesView",
+      "UI_TBHighlightEntrance",
+      "UI_TurnBasedTip",
+      "UI_DCInBattleDetailView",
+      "UI_OneTimeDungeonBattleScoreView",
+      "UI_OneTimeDungeonBattleTopRightView",
+      "UI_AttackRound",
+      "UI_UnionBossBattleScoreView",
+      "UI_RogueliteBattleBuffView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10593,7 +11356,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      4
     ],
     "passKeyEvent": 1
   },
@@ -10641,8 +11404,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�*^y�)P��z[޵:�jQb�\u001bS��ޱX��B?U�oz�뉩E�\bmN*U��\u0014#��pZ��S��\b�0��\u0016��W�z֢�X��B?:w��g��x\u001e�pZ��^I�+yX��B?:w��g��x\u001e�pZ��^N�Q�\bmV'�P�Ԟ*'\u0006�",
-      "\u0005�m�䜢����"
+      "UI_AttackSpeedUp",
+      "UI_VelvetTrialFightTipDesView",
+      "UI_VelvetTrialFightTipView",
+      "UI_TurnBasedTip",
+      "UI_DCInBattleDetailView",
+      "UI_OneTimeDungeonBattleScoreView",
+      "UI_OneTimeDungeonBattleTopRightView",
+      "UI_UnionBossBattleScoreView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10678,7 +11447,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�*^y�)P��z[޵:�jQb�\u001bS��ޱX�"
+      "UI_AttackSpeedUp",
+      "UI_VelvetTrialFightTipDesView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10702,7 +11472,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      5
     ],
     "passKeyEvent": 1
   },
@@ -10716,7 +11486,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�É�h�X��U\b�6�� �jY^�\u0007�jG���\"�ub{\u0005\b�6�� �jY^�\u0007�j��jם"
+      "UI_DialogView1",
+      "UI_DailyChallengeFakeMissionView",
+      "UI_DailyChallengeNavigated"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10752,7 +11524,16 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ӻ��jǝ:�T#�-��$J��uJT#�^���N���X����7�V'�P��\b��j�ex7�j)U��\u0014#�y8�x;���'\u0005�m�䜢����\u0014#�y8�x;���'\u0005�m���\u0018���b{\u0005\b�\u000bmi�\u0001��\u0001��\u001dP���֜�\u001a.��\b�I�ph��Z��^I�+yX��B?N��\u0005�\u001eu8�"
+      "UI_TurnBasedOpt",
+      "UI_AttackSpeedUp",
+      "UI_VelvetTrialFightTipDesView",
+      "UI_DCInBattleDetailView",
+      "UI_OneTimeDungeonBattleScoreView",
+      "UI_OneTimeDungeonBattleTopRightView",
+      "UI_AttackBossBlood",
+      "UI_AttackRound",
+      "UI_UnionBossBattleScoreView",
+      "UI_TurnBasedTip"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10788,7 +11569,15 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�*^y�)P��z[޵:�jQb�\u001bS��ޱX��B?L\u0011�\u0019b�\u001bD��ڝǔ#��pZ��S��\b�0��\u0016��W�z֢�X��B?:w��g��x\u001e�pZ��^I�+yX��B?:w��g��x\u001e�pZ��^N�Q�\bmV'�P���֜�\u001a.��\b�I�ph��Z��^I�+yX�"
+      "UI_AttackSpeedUp",
+      "UI_VelvetTrialFightTipDesView",
+      "UI_TBHighlightEntrance",
+      "UI_TurnBasedTip",
+      "UI_DCInBattleDetailView",
+      "UI_OneTimeDungeonBattleScoreView",
+      "UI_OneTimeDungeonBattleTopRightView",
+      "UI_AttackRound",
+      "UI_UnionBossBattleScoreView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10824,7 +11613,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�*^y�)P��z[޵:�jQb�\u001bS��ޱX��B?\u0002�ZrDh�w"
+      "UI_AttackSpeedUp",
+      "UI_VelvetTrialFightTipDesView",
+      "UI_AttackRound"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10848,7 +11639,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      5
     ],
     "passKeyEvent": 1
   },
@@ -10862,7 +11653,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�*^y�)P��z[޵:�jQb�\u001bS��ޱX�"
+      "UI_AttackSpeedUp",
+      "UI_VelvetTrialFightTipDesView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10886,7 +11678,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      5
     ],
     "passKeyEvent": 1
   },
@@ -10900,8 +11692,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\u0004�����JH��B\u0014#�-��$N���B?\u0002�ZrE",
-      "x�^"
+      "UI_TBPersonaSkillUI",
+      "UI_AttackTrick",
+      "UI_AttackUseItem"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -10993,7 +11786,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 0
   },
@@ -11029,7 +11822,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 0
   },
@@ -11043,7 +11836,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -11062,10 +11855,13 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [
-      "P�¢i���^"
+      "UI_CommonOpen"
     ],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
@@ -11083,7 +11879,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -11119,7 +11917,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -11223,7 +12023,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -11259,7 +12061,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -11332,10 +12136,25 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      101,
+      1,
+      201,
+      301,
+      4,
+      5,
+      2,
+      6,
+      401,
+      1100,
+      102,
+      901,
+      7,
+      3,
+      302
     ],
     "show_enter_state": [
-      0
+      501,
+      801
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -11373,7 +12192,11 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x�ߡB?&�\u0001�T!B?&���'$"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo",
+      "UI_JumpActUI",
+      "UI_Joystick"
     ],
     "story_state": 3,
     "story_enable": 1,
@@ -11459,7 +12282,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -11495,7 +12318,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -11509,7 +12332,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -11528,14 +12351,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -11549,7 +12375,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -11573,7 +12399,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -11587,7 +12413,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -11611,7 +12437,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -11625,7 +12451,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -11649,7 +12475,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -11685,7 +12511,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -11767,7 +12593,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�¢�F��O��+z�\u0013��b{"
+      "UI_CoopGiftProgressTipView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -11871,7 +12697,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ъ\bm\u0002�\u0003��h���"
+      "UI_RightArcDialogList"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -11941,7 +12767,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�*^y�)"
+      "UI_AttackSpeedUp"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -11977,7 +12803,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��$����ǧ�B?J�ڞ\u0007��'�1��\t��P�Υ�֢�]\u0006�ە"
+      "UI_CheckpointMenu",
+      "UI_StrangeThiefMainCard",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -12013,7 +12841,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��r\u0018��鞞��"
+      "UI_AchievementTip"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -12084,7 +12912,15 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?1��P�\b�Ƣ�ǧ��b�\u001bT#�\u001a�s\u001a�B?:��Z��t\u001b�nW�#�\"�Ȩ�֯�\u0006�y�\b�Ƣ�#RN*T#�ڕ�\u001eP�\b�(Z��޾'�V'�"
+      "UI_NpcInteractiveView",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_MainMap",
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_MainSNSTip",
+      "UI_PalaceUI",
+      "UI_ChatPreviewView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -12102,14 +12938,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -12124,7 +12963,15 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?1��P�\b�Ƣ�ǧ��b�\u001bT#�\u001a�s\u001a�B?:��Z��t\u001b�nW�#�\"�Ȩ�֯�\u0006�y�\b�Ƣ�#RN*T#�ڕ�\u001eP�\b�(Z��޾'�V'�"
+      "UI_NpcInteractiveView",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_MainMap",
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_MainSNSTip",
+      "UI_PalaceUI",
+      "UI_ChatPreviewView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -12142,14 +12989,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -12164,7 +13014,15 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?1��P�\b�Ƣ�ǧ��b�\u001bT#�\u001a�s\u001a�B?:��Z��t\u001b�nW�#�\"�Ȩ�֯�\u0006�y�\b�Ƣ�#RN*T#�ڕ�\u001eP�\b�(Z��޾'�V'�"
+      "UI_NpcInteractiveView",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_MainMap",
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_MainSNSTip",
+      "UI_PalaceUI",
+      "UI_ChatPreviewView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -12182,14 +13040,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -12204,7 +13065,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە"
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -12227,7 +13088,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -12241,7 +13102,11 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��z�(����YU��\u0014#�-��$Rǈ��#��=��v��)eP�\b�\u000bmi�\u0013�'$P�Ա䤊YH��"
+      "UI_PersonaSkillView",
+      "UI_AttackUseItem",
+      "UI_TBPersonaSkillUI",
+      "UI_AttackTrick",
+      "UI_UseSkillInfo"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -12277,10 +13142,11 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�:�rE\b�W���S�&�\u0012{kjw\u001eV'�"
+      "UI_AttackTrick",
+      "UI_VelvetTrialEntranceView"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە"
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -12350,7 +13216,15 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?1��P�\b�Ƣ�ǧ��b�\u001bT#�\u001a�s\u001a�B?:��Z��t\u001b�nW�#�\"�Ȩ�֯�\u0006�y�\b�Ƣ�#RN*T#�ڕ�\u001eP�\b�(Z��޾'�V'�"
+      "UI_NpcInteractiveView",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_MainMap",
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_MainSNSTip",
+      "UI_PalaceUI",
+      "UI_ChatPreviewView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -12373,7 +13247,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -12388,7 +13262,15 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?1��P�\b�Ƣ�ǧ��b�\u001bT#�\u001a�s\u001a�B?:��Z��t\u001b�nW�#�\"�Ȩ�֯�\u0006�y�\b�Ƣ�#RN*T#�ڕ�\u001eP�\b�(Z��޾'�V'�"
+      "UI_NpcInteractiveView",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_MainMap",
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_MainSNSTip",
+      "UI_PalaceUI",
+      "UI_ChatPreviewView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -12411,7 +13293,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -12425,7 +13307,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\b\u001b�}'�y�U��"
+      "UI_DCBuffSelectView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -12449,7 +13331,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -12701,17 +13583,29 @@
     "topForeverSn": 1021,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?1��P�\b�Ƣ�ǧ��b�\u001bT#�\u001a�s\u001a�B?:��Z��t\u001b�nW�#�\"�Ȩ�֯�\u0006�y�\b�Ƣ�#RN*T#��Ȭ�*'P"
+      "UI_NpcInteractiveView",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_MainMap",
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_MainSNSTip",
+      "UI_TopMissionUI"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P�����1��V'�P�����E�\u001a��b{\u0005\b�\u0017�j�Cz֢��b{\u0005\b�\nޝ��=\u0017���U��\u0014#�y�)�)�\r�bjU\b�6�� �jY^�\u0007�zؚ"
+      "UI_ArenaMainView",
+      "UI_ArenaRewardView",
+      "UI_RewardDetailsView",
+      "UI_ArenaPVPRecordView",
+      "UI_CheckpointDetial",
+      "UI_DailyChallengeDetial"
     ],
     "story_state": 3,
     "story_enable": 2,
@@ -12724,14 +13618,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -12745,11 +13642,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P�ͥ�n���jZ \u0016",
-      "^uX��B?2�m�(h�Ǖ��"
+      "UI_NpcFuncDialogFixedView",
+      "UI_MultiChoiceView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -12784,11 +13681,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P�ͥ�n���jZ \u0016",
-      "^uX��B?2�m�(h�Ǖ��"
+      "UI_NpcFuncDialogFixedView",
+      "UI_MultiChoiceView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -12806,7 +13703,10 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -12825,10 +13725,19 @@
     "topForeverSn": 1056,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x�ߡB?&�\u0001�T!B?&���'$P��jV�yB\u0014#�ڕ�\u001eN\u0018�}+Z��\b�6�� �jY^�\u0007�jG���\"�ub{\u0005\b�6�� �jY^�\u0007�j��jם"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo",
+      "UI_JumpActUI",
+      "UI_Joystick",
+      "UI_PalaceUI",
+      "UI_PalaceThiefState",
+      "UI_DailyChallengeFakeMissionView",
+      "UI_DailyChallengeNavigated"
     ],
     "continueMutexArgs": [
-      "P��j)r\n\u0016����x֯�\u0006�y�\b�6�� �jY^�\u0007�jG���\"�ub{"
+      "UI_DailyChallengeNavigated",
+      "UI_DailyChallengeFakeMissionView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -12863,7 +13772,7 @@
     "topForeverSn": 1060,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -12905,7 +13814,11 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x�ߡB?&�\u0001�T!B?&���'$"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo",
+      "UI_JumpActUI",
+      "UI_Joystick"
     ],
     "story_state": 3,
     "story_enable": 1,
@@ -13025,7 +13938,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 0
   },
@@ -13095,7 +14008,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -13248,10 +14161,20 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      1,
+      201,
+      301,
+      4,
+      5,
+      2,
+      6,
+      401,
+      1100,
+      102,
+      302
     ],
     "show_enter_state": [
-      0
+      101
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -13456,10 +14379,28 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      1,
+      201,
+      301,
+      4,
+      5,
+      2,
+      6,
+      401,
+      1100,
+      302
     ],
     "show_enter_state": [
-      0
+      101,
+      102,
+      501,
+      601,
+      602,
+      701,
+      704,
+      901,
+      1300,
+      1600
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -13559,7 +14500,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��z�(����YDƙZ�ub{"
+      "UI_PersonaSkillExplainView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -13595,7 +14536,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -13631,7 +14572,9 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��z�(����YU��\u0014#�����y8by���YT#�����y8by���YE���j�"
+      "UI_PersonaSkillView",
+      "UI_StrangeThiefSkill",
+      "UI_StrangeThiefSkillFromCard"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -13667,7 +14610,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��z�(����YKz�������b{"
+      "UI_PersonaSKillLevelupCostView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -13691,7 +14634,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      6
     ],
     "passKeyEvent": 0
   },
@@ -13739,7 +14682,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ҷ��N�%m�"
+      "UI_StoryToolbar"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -13779,7 +14722,7 @@
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      401
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -13815,7 +14758,7 @@
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      401
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -13851,7 +14794,7 @@
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      1000
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -13871,7 +14814,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -13888,10 +14831,23 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      101,
+      1,
+      201,
+      301,
+      4,
+      5,
+      2,
+      6,
+      1100,
+      102,
+      901,
+      7,
+      3,
+      302
     ],
     "show_enter_state": [
-      0
+      401
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -13911,7 +14867,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -13925,7 +14881,7 @@
     "topForeverSn": 1036,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j�\u000f��Z�Ǖ��"
+      "UI_PassPucharseView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -13944,14 +14900,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 2,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -13965,7 +14924,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��ƙh��\u001a�ub{"
+      "UI_ExploreMainView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -14001,7 +14960,9 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��ƙh��\u001a�ub{\u0005\b���������yX��B?1��1���:)F(!"
+      "UI_ExploreMainView",
+      "UI_PassPucharseView",
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -14037,13 +14998,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      701
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -14063,7 +15025,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      12
     ],
     "passKeyEvent": 1
   },
@@ -14099,7 +15061,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -14113,11 +15075,26 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�yB\u0014#��Ȭ�*'P�\b�Ƣ�ǧ��b�\u001bT#�h��brE\b����\u0007-P�\b�Ƣ�B\u0014#�\u001a�s\u001e��ъ\bmP�Υ�֢�]\u0006�ە�\b��\\\"{^��-�����\u0014#�\u001a�s\u001a�B?2+",
-      "��Ϯ�+z�\b�[��+n��'���r���T#�ڕ�\u001eN\u0018�}+Z��\b�(Z��޾'�V'�P��q��\"{^��-9��r�b{"
+      "UI_PalaceUI",
+      "UI_TopMissionUI",
+      "UI_MainMenu_Right",
+      "UI_Joystick",
+      "UI_JumpActUI",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_OpenWorldBubble",
+      "UI_NpcInteractiveView",
+      "UI_MainMap",
+      "UI_MissionProgres",
+      "UI_FurnitureInteractTouch",
+      "UI_PalaceThiefState",
+      "UI_ChatPreviewView",
+      "UI_SceneInteractObjectView"
     ],
     "continueMutexArgs": [
-      "P��y�C��h�8�V'�P��Y&�z�(�B?&���'$"
+      "UI_HeadDialogTipView",
+      "UI_PWSaferoom",
+      "UI_Joystick"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -14186,7 +15163,11 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��y�h�:ڊub{\u0005\b�\u0016��B?\u0005�$N�\u001a�s\u001e��\b��Z�*%��-���i�\u0014#�\u001a�s\u001e��Ӣ�b�\u001b"
+      "UI_WeaponTrainView",
+      "UI_Back",
+      "UI_BackToMainMenu",
+      "UI_PlayCollectionBack",
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -14210,7 +15191,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -14224,10 +15205,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�̊�\"�sZ�(\u001a��"
+      "UI_MissionNavigated"
     ],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��"
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14262,10 +15243,20 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P���p\u001c�+�%b{"
+      "UI_P5XActivityView"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^uB?:��Z��t\u001b�nW�#�\"�Ȩ�֯�\u0006�y�\b��\\\"{^��-�����\u0014#�\u001a�u\bP��j)�z{�F(!�B?1��1�T#�\u001a�t�I8�P��jV�yB\u0014#�j��z���X�"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_NpcInteractiveView",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_MainMap",
+      "UI_MainSNSTip",
+      "UI_PalaceUI",
+      "UI_ChatPreviewView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -14283,14 +15274,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -14321,14 +15315,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 2,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -14359,14 +15356,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -14380,10 +15380,19 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��z��\r��rد�ܕ��\u0014#�\"�Ȩ�֯�\u0006�y"
+      "UI_SevenDayActivityView",
+      "UI_MissionNavigated"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^uB?6�\b�׫i�b��b{\u0005\b�Ƣ�B\u0014#�\u001a�s\u001e��ъ\bmP��j)�j�\b�Ƣ�#RN*T#�ڕ�\u001eP�\b�(Z��޾'�V'�"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_NpcInteractiveView",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_MainMap",
+      "UI_MainSNSTip",
+      "UI_PalaceUI",
+      "UI_ChatPreviewView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14419,7 +15428,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14454,10 +15464,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��rد��"
+      "UI_Activity"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14492,10 +15503,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��rد��"
+      "UI_Activity"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14531,7 +15543,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14549,7 +15562,10 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -14568,10 +15584,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��rد��"
+      "UI_Activity"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14589,7 +15606,10 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -14609,7 +15629,8 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14644,10 +15665,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��rد��"
+      "UI_Activity"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14682,10 +15704,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��rد��"
+      "UI_Activity"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14720,10 +15743,11 @@
     "topForeverSn": 1078,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��rد��"
+      "UI_Activity"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14758,10 +15782,11 @@
     "topForeverSn": 1078,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��rد��"
+      "UI_Activity"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -14796,10 +15821,11 @@
     "topForeverSn": 1078,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��rد��"
+      "UI_Activity"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -15140,7 +16166,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��rد�ܔ#��\\\u0007-����X�"
+      "UI_Activity",
+      "UI_P5XActivityView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -15176,7 +16203,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��rد�ܔ#��\\\u0007-����X�"
+      "UI_Activity",
+      "UI_P5XActivityView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -15212,7 +16240,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��rد�ܔ#��\\\u0007-����X��B?\u0001�b�+r=�Zq�\u001a�u\b�\u0007-������iǷ"
+      "UI_Activity",
+      "UI_P5XActivityView",
+      "UI_ActivityPalaceMain",
+      "UI_ActivityPalace3D"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -15282,7 +16313,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���p\u001c�+�%b{"
+      "UI_P5XActivityView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -15335,14 +16366,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      30
     ],
     "passKeyEvent": 1
   },
@@ -15373,14 +16407,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      30
     ],
     "passKeyEvent": 1
   },
@@ -15428,7 +16465,7 @@
     "topForeverSn": 1057,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -15452,7 +16489,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -15488,7 +16525,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -15524,7 +16561,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -15544,7 +16581,9 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x��"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo"
     ],
     "story_state": 1,
     "story_enable": 2,
@@ -15591,14 +16630,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -15634,7 +16676,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -15706,7 +16748,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -15792,7 +16834,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�¢Y^rب�Ƣ"
+      "UI_CollectionMain"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -15816,7 +16858,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -15852,7 +16894,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -15867,7 +16909,7 @@
     "mutexMode": 2,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�̊�\"�sZ�(\u001a��"
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -15924,7 +16966,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -15960,7 +17002,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -15974,7 +17016,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��i�Z��"
+      "UI_Gachapon"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -15998,7 +17040,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -16012,7 +17054,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��i�Z���#�W��*'1��"
+      "UI_Gachapon",
+      "UI_CollectionMain"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -16036,7 +17079,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -16072,7 +17115,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -16108,7 +17151,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -16122,7 +17165,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��i�Z��"
+      "UI_Gachapon"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -16146,7 +17189,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -16160,7 +17203,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��i�Z��"
+      "UI_Gachapon"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -16184,7 +17227,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -16220,7 +17263,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -16256,7 +17299,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -16292,7 +17335,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -16306,7 +17349,7 @@
     "topForeverSn": 1067,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��i�Z��"
+      "UI_Gachapon"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -16377,7 +17420,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P��y�C��h�8�V'�"
+      "UI_HeadDialogTipView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -16480,7 +17523,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -16504,7 +17547,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -16519,7 +17562,7 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە"
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -16542,7 +17585,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      16
     ],
     "passKeyEvent": 1
   },
@@ -16578,7 +17621,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -16592,7 +17635,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��z�-zd�X��B?\u001d��-�ޕJ"
+      "UI_GetItemTipView",
+      "UI_HeroLevelUp"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -16628,10 +17672,15 @@
     "topForeverSn": 1046,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�É�h�X��U\b�8���\u0015��6P�É�h�X�Å\b�8���\u0015��;P�É�h�X���\b�8���\u0015��="
+      "UI_DialogView1",
+      "UI_DialogView2",
+      "UI_DialogView4",
+      "UI_DialogView7",
+      "UI_DialogView8",
+      "UI_DialogView9"
     ],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە"
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -16654,7 +17703,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -16669,7 +17718,13 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ޮ�޽�T�B?6�\b�׫i�b��b{\u0005\b�[��+n��'���r���T#�\"�Ȩ�֯�\u0006�y�\b�'!yۥy:�q�\b�'\u001e��'���rӛ��-V'�"
+      "UI_FuncOpenTips",
+      "UI_HeroLevelUp",
+      "UI_NpcInteractiveView",
+      "UI_FurnitureInteractTouch",
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace",
+      "UI_SceneInteractObjectView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -16692,7 +17747,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -16706,11 +17761,14 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�¢�\u0014#�C�z��"
+      "UI_Cook",
+      "UI_CookPrepare"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ޮ�޽�T�B?2+",
-      "���j��jםP��r\u0017��W���\u001e"
+      "UI_FuncOpenTips",
+      "UI_HeroLevelUp",
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -16733,7 +17791,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -16748,8 +17806,10 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ޮ�޽�T�B?2+",
-      "���j��jםP��r\u0017��W���\u001e"
+      "UI_FuncOpenTips",
+      "UI_HeroLevelUp",
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -16772,7 +17832,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -16786,11 +17846,14 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�¢�\u0014#�C�z��"
+      "UI_Cook",
+      "UI_CookPrepare"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ޮ�޽�T�B?2+",
-      "���j��jםP��r\u0017��W���\u001e"
+      "UI_FuncOpenTips",
+      "UI_HeroLevelUp",
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -16813,7 +17876,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -16827,7 +17890,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�É�h�X��"
+      "UI_DialogView1"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -16864,7 +17927,9 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���iǔ#�\"�Ȩ�֯�\u0006�y"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -16887,7 +17952,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -16901,10 +17966,12 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ϕ��1��V'�"
+      "UI_PlantMainView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���iǔ#�\"�Ȩ�֯�\u0006�y"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -16927,7 +17994,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -16941,10 +18008,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ϕ��1��V'�"
+      "UI_PlantMainView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���i�"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -16967,7 +18035,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -16981,10 +18049,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ϕ��:��jب�X�"
+      "UI_PlantOperationView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���i�"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -17007,7 +18076,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -17021,10 +18090,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ϕ��:��jب�X�"
+      "UI_PlantOperationView"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���i�"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -17047,7 +18117,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -17083,7 +18153,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -17098,7 +18168,8 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���i�"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -17121,7 +18192,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -17138,7 +18209,7 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      2
     ],
     "show_enter_state": [],
     "is_default": 0,
@@ -17227,7 +18298,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -17242,7 +18313,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە"
+      "UI_OpenWorldBubble"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -17260,14 +18331,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -17315,7 +18389,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -17354,7 +18428,7 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      2
     ],
     "show_enter_state": [],
     "is_default": 0,
@@ -17387,10 +18461,15 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�Ҷ��\u0006V��B?\u000e+❫b�u\b�Ɯ�)���\u0005��j)ˢ�^�%\b�\u0007-���"
+      "UI_StoryBlack",
+      "UI_Divination",
+      "UI_MachimGreatBargainLottery",
+      "UI_Activity"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip[�p8���\u0015��\u0014#�h��br"
+      "UI_FuncOpenTips",
+      "UI_NpcFuncDialogView",
+      "UI_Joystick"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -17425,10 +18504,12 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɺj@r�\bP�ɣ+-��"
+      "UI_JumpActUI",
+      "UI_Joystick"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#�ip[�p8���\u0015��"
+      "UI_FuncOpenTips",
+      "UI_NpcFuncDialogView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -17446,7 +18527,10 @@
     "uiType": 0,
     "sortingOrder": 605,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -17602,7 +18686,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -17638,7 +18722,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -17707,10 +18791,10 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -17728,14 +18812,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -17755,7 +18842,15 @@
     "show_enter_state": [],
     "is_default": 0,
     "open_hide_ui": [
-      "P��z�-zd�X��B?=�Zq�'~�\b�\u0017�jYOjV�x�ߡB?&�\u0001�T!B?&���'$P��jV�yB\u0014#�ڕ�\u001eN\u0018�}+Z��\b�6�� �jY^�\u0007�jG���\"�ub{\u0005\b�6�� �jY^�\u0007�j��jם"
+      "UI_GetItemTipView",
+      "UI_PalaceInfo",
+      "UI_RecallPalaceInfo",
+      "UI_JumpActUI",
+      "UI_Joystick",
+      "UI_PalaceUI",
+      "UI_PalaceThiefState",
+      "UI_DailyChallengeFakeMissionView",
+      "UI_DailyChallengeNavigated"
     ],
     "story_state": 3,
     "story_enable": 1,
@@ -17788,10 +18883,10 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      201
     ],
     "show_enter_state": [
-      0
+      1100
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -17826,7 +18921,7 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      201
     ],
     "show_enter_state": [],
     "is_default": 0,
@@ -17862,10 +18957,10 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      201
     ],
     "show_enter_state": [
-      0
+      1100
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -17897,12 +18992,12 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɺj@r�\b"
+      "UI_JumpActUI"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [
-      0
+      201
     ],
     "show_enter_state": [],
     "is_default": 0,
@@ -17969,10 +19064,10 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bm"
+      "UI_MainMenu_TopRight"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -17990,7 +19085,10 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -18043,7 +19141,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ӻ��jǝN*"
+      "UI_TurnBasedTip"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -18080,7 +19178,10 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?\u0016��:��N*lP��r\u0017��W���\u001eP�Ӻ�+��l\u0012{^"
+      "UI_NpcInteractiveView",
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace",
+      "UI_TutorialsEnter"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -18103,7 +19204,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -18207,7 +19308,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      50
     ],
     "passKeyEvent": 1
   },
@@ -18494,8 +19595,13 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�'!yۥy:�q�\b�Ȭ�*'5�⁫^uB?\u0000�O\b�",
-      "\n�좵b{\u0005\b�ך�k�u��iǍj��jםP�ͥ��iǍj��jםP�Ӻ�+��l\u0012{^"
+      "UI_OpenWorldBubble",
+      "UI_ScheduleTrace",
+      "UI_MissionNavigated",
+      "UI_AINPCPosCursorView",
+      "UI_NearGuideTraceNavigated",
+      "UI_NpcTraceNavigated",
+      "UI_TutorialsEnter"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -18531,7 +19637,9 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���iǔ#�\"�Ȩ�֯�\u0006�y"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -18554,7 +19662,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -18568,15 +19676,17 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j�exǞ�)�P�Ӣ�\"�Ȩ�B"
+      "UI_BattleMeeting",
+      "UI_TopMissionUI"
     ],
     "continueMutexArgs": [
-      "P��j�exǞ�)�P�Ӣ�\"�Ȩ�B"
+      "UI_BattleMeeting",
+      "UI_TopMissionUI"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      703
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -18608,7 +19718,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j)�z{�F(!�B?:w��g��x\u001e�t��Չ�"
+      "UI_MainMenu_Right",
+      "UI_OneTimeDungeonTimerView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -18679,7 +19790,9 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?\u0016��:��N*lP��r\u0017��W���\u001e"
+      "UI_NpcInteractiveView",
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -18749,7 +19862,9 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���iǔ#�\"�Ȩ�֯�\u0006�y"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -18887,7 +20002,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -18978,7 +20093,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      40
     ],
     "passKeyEvent": 0
   },
@@ -18992,7 +20107,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Φب��"
+      "UI_Optional"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -19028,7 +20143,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j)r\n\u0016����xƢ�ǧ�X�"
+      "UI_DailyChallengeMainMenuView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -19098,10 +20213,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P����^�'��)�\u0016��j�e"
+      "UI_SystemSettingForBattle"
     ],
     "continueMutexArgs": [
-      "P����^�'��)�\u0016��j�e"
+      "UI_SystemSettingForBattle"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -19136,10 +20251,13 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�¢i����N*T#�������$"
+      "UI_CommonKeyTip",
+      "UI_StoryBlack"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���iǔ#�\"�Ȩ�֯�\u0006�y"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -19162,7 +20280,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      11
     ],
     "passKeyEvent": 0
   },
@@ -19177,7 +20295,9 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���iǔ#�\"�Ȩ�֯�\u0006�y"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -19212,10 +20332,13 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�Ҷ��E��{\u0003\u001a�u\b�*&���{$�"
+      "UI_StoryReviewMain",
+      "UI_CommonKeyTip"
     ],
     "continueMutexArgs": [
-      "P�źw\u000e��ӊ�\u0014#����n���iǔ#�\"�Ȩ�֯�\u0006�y"
+      "UI_FuncOpenTips",
+      "UI_ScheduleTrace",
+      "UI_MissionNavigated"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -19272,7 +20395,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -19580,7 +20703,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 1
   },
@@ -19820,7 +20943,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 0
   },
@@ -20128,7 +21251,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 0
   },
@@ -20164,7 +21287,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -20200,7 +21323,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -20248,7 +21371,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -20284,7 +21407,7 @@
     "topForeverSn": 1059,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -20308,7 +21431,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -20323,8 +21446,16 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?1��1���\u0018���\b�Ƣ�B\u0014#�zu��WA���yB?2+",
-      "���j��jםP��r\u0017��W���\u001eP��j�exǞ�)�P��j)�j�\b�(Z��޾'�V'�P�Ӣ�\"�Ȩ�B"
+      "UI_NpcInteractiveView",
+      "UI_MainMenu_Right",
+      "UI_MainUI",
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace",
+      "UI_BattleMeeting",
+      "UI_MainMap",
+      "UI_ChatPreviewView",
+      "UI_TopMissionUI"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -20342,14 +21473,17 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -20364,8 +21498,19 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?1��1���\u0018���\b�Ƣ�B\u0014#�zu��WA���yB?2+",
-      "���j��jםP��r\u0017��W���\u001eP��r\u0017��W���\u001eP��j�exǞ�)�P��j)�j�\b�(Z��޾'�V'�P�Ӣ�\"�Ȩ�B\u0014#�\u001a�s\u001e��Ӣ�b�\u001bT#�h�祊גq��I�^v�^"
+      "UI_NpcInteractiveView",
+      "UI_MainMenu_Right",
+      "UI_MainUI",
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace",
+      "UI_ScheduleTrace",
+      "UI_BattleMeeting",
+      "UI_MainMap",
+      "UI_ChatPreviewView",
+      "UI_TopMissionUI",
+      "UI_MainMenu_TopRight",
+      "UI_RogueliteSceneSchedule"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -20383,7 +21528,10 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -20403,7 +21551,10 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^uB?I�^v�^N��yB?\u0005�m��\u001ezا"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace",
+      "UI_BattleMeeting"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -20426,7 +21577,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -20441,7 +21592,9 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^uB?I�^v�^N��"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -20477,7 +21630,9 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�Υ�֢�]\u0006�ە�\b�Ȭ�*'5�⁫^uB?I�^v�^N��"
+      "UI_OpenWorldBubble",
+      "UI_MissionNavigated",
+      "UI_ScheduleTrace"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -20580,7 +21735,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�yB"
+      "UI_PalaceUI"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -20604,7 +21759,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -20618,7 +21773,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�yB\u0014#�h�祊׌�؟1��V'�P�Ѣ\u000b��+^M�\u0016��jب�X�"
+      "UI_PalaceUI",
+      "UI_RogueliteMotifMainView",
+      "UI_RogueliteTeamFormationView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -20642,7 +21799,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -20656,7 +21813,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�yB"
+      "UI_PalaceUI"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -20680,7 +21837,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -20694,7 +21851,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�yB\u0014#�h��br"
+      "UI_PalaceUI",
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -20730,10 +21888,16 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��\u0014#�h�祊גq��I�^v�^P�Ѣ\u000b��+^\n���t�X��B?6�\b�׫i�b��b{"
+      "UI_Joystick",
+      "UI_RogueliteSceneSchedule",
+      "UI_RogueliteCommonTipView",
+      "UI_NpcInteractiveView"
     ],
     "continueMutexArgs": [
-      "P�ɣ+-��\u0014#�h�祊גq��I�^v�^P�Ѣ\u000b��+^\n���t�X��B?6�\b�׫i�b��b{"
+      "UI_Joystick",
+      "UI_RogueliteSceneSchedule",
+      "UI_RogueliteCommonTipView",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -20802,7 +21966,9 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�yB\u0014#�h�祊׌�؟1��V'�P�Ѣ\u000b��+^I�^r��}���[rV'�"
+      "UI_PalaceUI",
+      "UI_RogueliteMotifMainView",
+      "UI_RogueliteSelectDifficultyView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -20826,7 +21992,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -20840,7 +22006,8 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ͥ�'���rدyX��B?\u000e&��\u0005b{\u000e"
+      "UI_NpcInteractiveView",
+      "UI_DialogView4"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -20876,7 +22043,8 @@
     "topForeverSn": 1071,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�ͥ�'���rدyX��B?\u000e&��\u0005b{\u000e"
+      "UI_NpcInteractiveView",
+      "UI_DialogView4"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -20912,7 +22080,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��\u0014#�h�祊ג��T#�ip��z���+�V'�P�É�h�X��"
+      "UI_Joystick",
+      "UI_RogueliteShop",
+      "UI_NpcInteractiveView",
+      "UI_DialogView4"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -20936,7 +22107,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 1
   },
@@ -20950,7 +22121,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��\u0014#�h�祊ג��T#�ip��z���+�V'�P�É�h�X��"
+      "UI_Joystick",
+      "UI_RogueliteShop",
+      "UI_NpcInteractiveView",
+      "UI_DialogView4"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -20974,7 +22148,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 1
   },
@@ -20988,7 +22162,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��\u0014#�h�祊ג��T#�ip��z���+�V'�P�É�h�X��"
+      "UI_Joystick",
+      "UI_RogueliteShop",
+      "UI_NpcInteractiveView",
+      "UI_DialogView4"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -21012,7 +22189,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 1
   },
@@ -21026,8 +22203,9 @@
     "topForeverSn": 1071,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��\u0014#�h�祊ׁ���",
-      "yB?6�\b�׫i�b��b{"
+      "UI_Joystick",
+      "UI_RogueliteBuffChoose",
+      "UI_NpcInteractiveView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -21051,7 +22229,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      30
     ],
     "passKeyEvent": 1
   },
@@ -21065,7 +22243,9 @@
     "topForeverSn": 1071,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��\u0014#�ip��z���+�V'�P��jV�yB"
+      "UI_Joystick",
+      "UI_NpcInteractiveView",
+      "UI_PalaceUI"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -21089,7 +22269,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -21103,7 +22283,7 @@
     "topForeverSn": 0,
     "mutexMode": 0,
     "mutexArgs": [
-      "P��jV�yB"
+      "UI_PalaceUI"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -21127,7 +22307,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -21141,7 +22321,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ѣ\u000b��+^\u001d��n�$P��jV�yB"
+      "UI_RogueliteHandbook",
+      "UI_PalaceUI"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -21165,7 +22346,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -21179,7 +22360,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ѣ\u000b��+^\u001d��n�$P��jV�yB"
+      "UI_RogueliteHandbook",
+      "UI_PalaceUI"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -21203,7 +22385,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -21217,10 +22399,11 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�yB\u0014#�ip��z���+�V'�"
+      "UI_PalaceUI",
+      "UI_NpcInteractiveView"
     ],
     "continueMutexArgs": [
-      "P�Ѣ\u000b��+^Iǧy'!yۥ"
+      "UI_RogueliteSceneSchedule"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -21255,7 +22438,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��\u0014#�ڕ�\u001eP"
+      "UI_Joystick",
+      "UI_PalaceUI"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -21292,7 +22476,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -21361,11 +22545,37 @@
     "topForeverSn": 1071,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��jV�yB\u0014#��Ȭ�*'P�\b�Ƣ�ǧ���\u0018���\b�Ƣ�ǧ��b�\u001bT#�h��brE\b����\u0007-P�\b�Ƣ�B\u0014#�\u001a�s\u001e��ъ\bmP�Υ�֢�]\u0006�ە�\b��\\\"{^��-�����\u0014#�\u001a�s\u001a�B?\n\u0016�>����\u0015��\u0014#�\"�Ȩ��肷��B?\u0002�Zr@%�%\b�\u000bmi�\u0000rب�'����yB?\u0002�ZrD�y�T�B?\u0016��۫x��z���:.r\u0015\b�Ȭ�*'5�⁫^uB?Iǧx��z�����y�U��"
+      "UI_PalaceUI",
+      "UI_TopMissionUI",
+      "UI_MainMenu_TopRight",
+      "UI_MainMenu_Right",
+      "UI_Joystick",
+      "UI_JumpActUI",
+      "UI_MainUI",
+      "UI_MainMenu_Right",
+      "UI_OpenWorldBubble",
+      "UI_NpcInteractiveView",
+      "UI_MainMap",
+      "UI_ChatPreviewView",
+      "UI_MissionProgress",
+      "UI_AttackAlly",
+      "UI_AttackActionSequence",
+      "UI_AttackSpeedUp",
+      "UI_FurnitureInteractTouch",
+      "UI_MissionNavigated",
+      "UI_SceneInteractObjectView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�n���jZ \u0016",
-      "^uX��B?2�m�(h�Ǖ��\u0014#�ip��z���+�V'�P��y�C��h�8�V'�P�ˊh�y���/z{AjyޭB?\u0016��:��N*lP�ź����\"{^��-N���B?6�\b�׫i�b��b{\u0005\b�'\u001e��'���rӛ��-V'�P�Ѣ\u000b��+^Iǧy'!yۥ"
+      "UI_NpcFuncDialogFixedView",
+      "UI_MultiChoiceView",
+      "UI_NpcInteractiveView",
+      "UI_HeadDialogTipView",
+      "UI_LimitedTimeEventBanner",
+      "UI_FuncOpenTips",
+      "UI_FurnitureInteractTouch",
+      "UI_NpcInteractiveView",
+      "UI_SceneInteractObjectView",
+      "UI_RogueliteSceneSchedule"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -21468,7 +22678,8 @@
     "topForeverSn": 1071,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��j)�z{�F(!�B?:w��g��x\u001e�t��Չ�"
+      "UI_MainMenu_Right",
+      "UI_OneTimeDungeonTimerView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -21492,7 +22703,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      17
     ],
     "passKeyEvent": 1
   },
@@ -21506,7 +22717,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�:-jPڙ�\u001e"
+      "UI_AttackTotalDamage"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -21542,7 +22753,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�:-jPڙ�\u001e"
+      "UI_AttackTotalDamage"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -21578,7 +22789,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�\u001a.�"
+      "UI_AttackRound"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -21614,7 +22825,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�\u001b�}8�"
+      "UI_AttackBuffTips"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -21650,7 +22861,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���֜�\u001b�}8�"
+      "UI_AttackBuffTips"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -21724,7 +22935,7 @@
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      301
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -21757,7 +22968,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -21780,7 +22991,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -21795,7 +23006,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -21831,7 +23042,7 @@
     "mutexMode": 2,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -21866,7 +23077,8 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�Ţ�[jYC��ܺ[rP����f\u0019��I�^rب�X�"
+      "UI_FootballDiffculty",
+      "UI_RythmGameSelectionView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 1,
@@ -21902,10 +23114,13 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��jG���hP�b{\u0005\b�6�x�h���z���B\u0015��"
+      "UI_TakePhotoUIView",
+      "UI_TakePhotoPreviewUIView"
     ],
     "continueMutexArgs": [
-      "P�̊�\"�tڑ���\u0013��\b��^�j+��nm�^P�ͥ�'���rدyX�"
+      "UI_MissionTakePhotoTip",
+      "UI_OpenWorldBubble",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 1,
     "hide_enter_state": [],
@@ -21974,10 +23189,12 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P����f\u0019��\"w�V'�P����f\u0019��J֫��\u001av)�V'�P����f\u0019��1��.���x\u0015��"
+      "UI_RythmGameInfoView",
+      " UI_RythmGameStartLoadingView",
+      "UI_RythmGameMainLoadingView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -22080,10 +23297,11 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P����f\u0019��1��.���x\u0015��\u0014#𥹲޽�T�X�"
+      "UI_RythmGameMainLoadingView",
+      "UI_ClubLevelUpView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -22101,7 +23319,10 @@
     "uiType": 0,
     "sortingOrder": 0,
     "commonCloseViewName": [
-      "P�¢i��)h��6P�¢i��)h��7P�¢i��)h��8P�¢i��)h��9"
+      "UI_CommonClose02",
+      "UI_CommonClose03",
+      "UI_CommonClose04",
+      "UI_CommonClose05"
     ],
     "commonOpenViewName": [],
     "ctrlDeviceVisibleState": [],
@@ -22120,10 +23341,12 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P����f\u0019��J֫��\u001av)�V'�P����f\u0019��=��yX�"
+      "UI_RythmGameStartLoadingView",
+      "UI_RythmGamePauseView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX��B?G+a�f�x����b{"
+      "UI_NpcInteractiveView",
+      "UI_RythmGamePauseView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -22226,10 +23449,11 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P���z��R�b{"
+      "UI_ClubLevelUpView"
     ],
     "continueMutexArgs": [
-      "P���z��R�b{\u0005\b��\\\"{^��-�����"
+      "UI_ClubLevelUpView",
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -22265,7 +23489,7 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -22300,10 +23524,12 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P����f\u0019��J��u'��)�\"w�V'�P����f\u0019��J֫��\u001av)�V'�P����f\u0019��1��.���x\u0015��"
+      "UI_RythmGameSpeedSettingInfoView",
+      "UI_RythmGameStartLoadingView",
+      "UI_RythmGameMainLoadingView"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -22444,7 +23670,7 @@
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
     "show_enter_state": [
-      0
+      1500
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -22476,7 +23702,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P���z��R�b{"
+      "UI_ClubLevelUpView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -22502,7 +23728,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -22516,7 +23742,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ţ�[jYC��ܺ[r"
+      "UI_FootballDiffculty"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -22542,7 +23768,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 1
   },
@@ -22650,7 +23876,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -22698,7 +23924,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɺj@r�\bP�ɣ+-��"
+      "UI_JumpActUI",
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -22734,7 +23961,8 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɺj@r�\bP�ɣ+-��"
+      "UI_JumpActUI",
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -24504,10 +25732,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\u0004����\bV'�P�̡؟�֦yB?&���'$P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_TBPauseUIView",
+      "UI_ModifyName",
+      "UI_Joystick",
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -26446,7 +27678,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -26482,7 +27714,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -28320,10 +29552,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\b\u001b�}'�y�U��\u0014#�h��brE\b��2�؜��ڶ�^"
+      "UI_DCBuffSelectView",
+      "UI_Joystick",
+      "UI_Joystick_battle"
     ],
     "continueMutexArgs": [
-      "P��\b\u001b�}'�y�U��\u0014#�h��brE\b��2�؜��ڶ�^"
+      "UI_DCBuffSelectView",
+      "UI_Joystick",
+      "UI_Joystick_battle"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -29786,10 +31022,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\u0004����\bV'�P�̡؟�֦yB?&���'$P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_TBPauseUIView",
+      "UI_ModifyName",
+      "UI_Joystick",
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -29824,10 +31064,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\u0004����\bV'�P�̡؟�֦yB?&���'$P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_TBPauseUIView",
+      "UI_ModifyName",
+      "UI_Joystick",
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -29964,10 +31208,14 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P��\u0004����\bV'�P�̡؟�֦yB?&���'$P�ͥ�'���rدyX��B?:��Z��t\u001b�nW"
+      "UI_TBPauseUIView",
+      "UI_ModifyName",
+      "UI_Joystick",
+      "UI_NpcInteractiveView",
+      "UI_OpenWorldBubble"
     ],
     "continueMutexArgs": [
-      "P�ͥ�'���rدyX�"
+      "UI_NpcInteractiveView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -30092,7 +31340,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      30
     ],
     "passKeyEvent": 1
   },
@@ -30774,7 +32022,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 0
   },
@@ -30810,7 +32058,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 0
   },
@@ -30846,7 +32094,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 0
   },
@@ -30963,7 +32211,7 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P���֜�\u0007]\u0011��r��"
+      "UI_AttackAddEffectTips"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -31033,14 +32281,32 @@
     "mutexMode": 0,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P��jV�y8by��j�"
+      "UI_PalaceThiefState"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      101,
+      1,
+      201,
+      301,
+      5,
+      2,
+      302
     ],
     "show_enter_state": [
-      0
+      4,
+      6,
+      401,
+      1100,
+      501,
+      801,
+      601,
+      602,
+      701,
+      1000,
+      1200,
+      1300,
+      1600
     ],
     "is_default": 0,
     "open_hide_ui": [],
@@ -31060,7 +32326,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 1
   },
@@ -31130,7 +32396,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 0
   },
@@ -31166,7 +32432,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      40
     ],
     "passKeyEvent": 0
   },
@@ -31180,7 +32446,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ê��jب��m��ڔ\f\u001a�"
+      "UI_DivinationOptionalAward"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -31219,10 +32485,32 @@
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [
-      0
+      5,
+      2,
+      101,
+      1,
+      301,
+      4,
+      6,
+      401,
+      1100,
+      102,
+      901,
+      7,
+      501,
+      801,
+      601,
+      602,
+      302,
+      1000,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600
     ],
     "show_enter_state": [
-      0
+      201
     ],
     "is_default": 1,
     "open_hide_ui": [],
@@ -31254,10 +32542,10 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�Ѣ\u000b��+^Iǧy'!yۥ"
+      "UI_RogueliteSceneSchedule"
     ],
     "continueMutexArgs": [
-      "P�Ѣ\u000b��+^Iǧy'!yۥ"
+      "UI_RogueliteSceneSchedule"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -31326,7 +32614,9 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P��j)�z{�N�Q�\bmP�¢i��(h�B?\u000e+❫b�"
+      "UI_MainMenu_TopRight",
+      "UI_CommonShop",
+      "UI_Divination"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -31350,7 +32640,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 0,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -31364,7 +32654,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -31435,7 +32725,7 @@
     "mutexMode": 1,
     "mutexArgs": [],
     "continueMutexArgs": [
-      "P��y�C��h�8�V'�"
+      "UI_HeadDialogTipView"
     ],
     "isAvailableInTimeline": 0,
     "hide_enter_state": [],
@@ -31458,7 +32748,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      10
     ],
     "passKeyEvent": 1
   },
@@ -31494,7 +32784,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      40
     ],
     "passKeyEvent": 0
   },
@@ -31508,7 +32798,7 @@
     "topForeverSn": 0,
     "mutexMode": 1,
     "mutexArgs": [
-      "P�¢jh�+^=��v���"
+      "UI_CompositePersonaView"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -31532,7 +32822,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      8
     ],
     "passKeyEvent": 0
   },
@@ -31546,7 +32836,7 @@
     "topForeverSn": 0,
     "mutexMode": 2,
     "mutexArgs": [
-      "P�ɣ+-��"
+      "UI_Joystick"
     ],
     "continueMutexArgs": [],
     "isAvailableInTimeline": 0,
@@ -31604,7 +32894,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -31742,7 +33032,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -31846,7 +33136,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -31882,7 +33172,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -31918,7 +33208,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -31954,7 +33244,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
@@ -31990,7 +33280,7 @@
     "lowerRenderFrameRateOnShow": 0,
     "esc_close": 1,
     "keytips": [
-      0
+      20
     ],
     "passKeyEvent": 0
   },
