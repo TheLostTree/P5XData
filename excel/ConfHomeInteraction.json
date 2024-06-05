@@ -4,7 +4,7 @@
     "type": 3,
     "actionLimitPerson": 2,
     "param": [
-      "TL_home_piaochuang.prefab"
+      "L��g��&�r\u001b��\nky��"
     ],
     "specialCoop": 0,
     "fixedAction": "",
@@ -13,7 +13,7 @@
     "actionPic": "zhujiemian-jiaohu01.png",
     "actionName": "坐",
     "EventNPC": [
-      2129010
+      0
     ],
     "FuncNPC": []
   },
@@ -22,7 +22,7 @@
     "type": 3,
     "actionLimitPerson": 6,
     "param": [
-      "TL_home_chaji.prefab"
+      "L��g�r\u0016����}�"
     ],
     "specialCoop": 0,
     "fixedAction": "",
@@ -38,7 +38,7 @@
     "type": 3,
     "actionLimitPerson": 1,
     "param": [
-      "TL_home_tatami.prefab"
+      "L��g���Z�*ky��"
     ],
     "specialCoop": 0,
     "fixedAction": "",
@@ -54,7 +54,7 @@
     "type": 3,
     "actionLimitPerson": 3,
     "param": [
-      "TL_home_shafa.prefab"
+      "L��g��\u0016�j��}�"
     ],
     "specialCoop": 0,
     "fixedAction": "",
@@ -63,7 +63,7 @@
     "actionPic": "zhujiemian-jiaohu01.png",
     "actionName": "坐",
     "EventNPC": [
-      2129007
+      0
     ],
     "FuncNPC": []
   },
@@ -72,7 +72,7 @@
     "type": 3,
     "actionLimitPerson": 1,
     "param": [
-      "TL_home_chuang.prefab"
+      "L��g�r\u001b��\nky��"
     ],
     "specialCoop": 0,
     "fixedAction": "",
@@ -82,9 +82,7 @@
     "actionName": "躺",
     "EventNPC": [],
     "FuncNPC": [
-      2129011,
-      2129012,
-      2129013
+      0
     ]
   }
 ]

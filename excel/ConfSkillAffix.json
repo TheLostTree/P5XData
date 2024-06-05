@@ -1,0 +1,1023 @@
+[
+  {
+    "sn": 1,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "物理特化",
+    "desc": "所有怪盗<color=#FFFC40>物理</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 2,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "射击特化",
+    "desc": "所有怪盗<color=#FFFC40>射击</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "火焰特化",
+    "desc": "所有怪盗<color=#ff381d>火焰</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 4,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "冰冻特化",
+    "desc": "所有怪盗<color=#00aeff>冰冻</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 5,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "电击特化",
+    "desc": "所有怪盗<color=#fbff37>电击</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 6,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "疾风特化",
+    "desc": "所有怪盗<color=#81ea2c>疾风</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 7,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "念动特化",
+    "desc": "所有怪盗<color=#ff63ff>念动</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 8,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "核热特化",
+    "desc": "所有怪盗<color=#00fcff>核热</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 9,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "祝福特化",
+    "desc": "所有怪盗<color=#fffea0>祝福</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 10,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "诅咒特化",
+    "desc": "所有怪盗<color=#ff0036>诅咒</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 11,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "万能特化",
+    "desc": "所有怪盗<color=#FFFC40>万能</color>伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 12,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "暴击特化",
+    "desc": "所有怪盗<color=#FFFC40>暴击效果</color>提高50%",
+    "icon": "icon-boss-buff05.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 13,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "反抗特化",
+    "desc": "<color=#FFFC40>反抗</color>怪盗造成伤害提高20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 14,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "支配特化",
+    "desc": "<color=#FFFC40>支配</color>怪盗造成伤害提高20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 15,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "治疗特化",
+    "desc": "<color=#FFFC40>治疗</color>怪盗造成伤害提高20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 16,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "防卫特化",
+    "desc": "<color=#FFFC40>防卫</color>怪盗造成伤害提高20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 17,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "优越特化",
+    "desc": "<color=#FFFC40>优越</color>怪盗造成伤害提高20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 18,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "屈从特化",
+    "desc": "<color=#FFFC40>屈从</color>怪盗造成伤害提高20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 21,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "燃烧特化",
+    "desc": "处于<color=#ff381d>燃烧</color>状态的敌人受到的伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 22,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "冻结特化",
+    "desc": "处于<color=#00aeff>冻结</color>状态的敌人受到的伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 23,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "触电特化",
+    "desc": "处于<color=#fbff37>触电</color>状态的敌人受到的伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 24,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "风袭特化",
+    "desc": "处于<color=#81ea2c>风袭</color>状态的敌人受到的伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 25,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "元素特化",
+    "desc": "处于<color=#81ea2c>元素异常</color>状态的敌人受到的伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 31,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "物理弱点",
+    "desc": "所有敌人对<color=#FFFC40>物理</color>属性的适应性变为弱",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 32,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "射击弱点",
+    "desc": "所有敌人对<color=#FFFC40>射击</color>属性的适应性变为弱",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 33,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "火焰弱点",
+    "desc": "所有敌人对<color=#ff381d>火焰</color>属性的适应性变为弱",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 34,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "冰冻弱点",
+    "desc": "所有敌人对<color=#00aeff>冰冻</color>属性的适应性变为弱",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 35,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "电击弱点",
+    "desc": "所有敌人对<color=#fbff37>电击</color>属性的适应性变为弱",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 36,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "疾风弱点",
+    "desc": "所有敌人对<color=#81ea2c>疾风</color>属性的适应性变为弱",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 37,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "念动弱点",
+    "desc": "所有敌人对<color=#ff63ff>念动</color>属性的适应性变为弱",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 38,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "核热弱点",
+    "desc": "所有敌人对<color=#00fcff>核热</color>属性的适应性变为弱",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 39,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "祝福弱点",
+    "desc": "所有敌人对<color=#fffea0>祝福</color>属性的适应性变为弱",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 40,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "诅咒弱点",
+    "desc": "所有敌人对<color=#ff0036>诅咒</color>属性的适应性变为弱",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 41,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "祝福之力",
+    "desc": "处于<color=#fffea0>祝福</color>状态的怪盗造成伤害提高25%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 42,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "护盾特化",
+    "desc": "处于<color=#fffea0>护盾</color>下的怪盗造成伤害提高20%",
+    "icon": "icon-boss-buff04.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 101,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "物理弱化",
+    "desc": "所有怪盗<color=#FFFC40>物理</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 102,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "射击弱化",
+    "desc": "所有怪盗<color=#FFFC40>射击</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 103,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "火焰弱化",
+    "desc": "所有怪盗<color=#ff381d>火焰</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 104,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "冰冻弱化",
+    "desc": "所有怪盗<color=#00aeff>冰冻</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 105,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "电击弱化",
+    "desc": "所有怪盗<color=#fbff37>电击</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 106,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "疾风弱化",
+    "desc": "所有怪盗<color=#81ea2c>疾风</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 107,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "念动弱化",
+    "desc": "所有怪盗<color=#ff63ff>念动</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 108,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "核热弱化",
+    "desc": "所有怪盗<color=#00fcff>核热</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 109,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "祝福弱化",
+    "desc": "所有怪盗<color=#fffea0>祝福</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 110,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "诅咒弱化",
+    "desc": "所有怪盗<color=#ff0036>诅咒</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 111,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "万能弱化",
+    "desc": "所有怪盗<color=#FFFC40>万能</color>伤害降低20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 112,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "暴击弱化",
+    "desc": "所有怪盗<color=#FFFC40>暴击效果</color>降低50%",
+    "icon": "icon-boss-buff05.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 113,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "反抗弱化",
+    "desc": "<color=#FFFC40>反抗</color>怪盗造成伤害降低20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 114,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "支配弱化",
+    "desc": "<color=#FFFC40>支配</color>怪盗造成伤害降低20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 115,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "治疗弱化",
+    "desc": "<color=#FFFC40>治疗</color>怪盗造成伤害降低20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 116,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "防卫弱化",
+    "desc": "<color=#FFFC40>防卫</color>怪盗造成伤害降低20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 117,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "优越弱化",
+    "desc": "<color=#FFFC40>优越</color>怪盗造成伤害降低20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 118,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "屈从弱化",
+    "desc": "<color=#FFFC40>屈从</color>怪盗造成伤害降低20%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 1001,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [
+      0
+    ],
+    "name": "沉积冗气",
+    "desc": "进入战斗时，所有怪盗获得2层『强化印记』；回合结束时，自动消除1层；每次打出弱点伤害时，获得1层。\n『强化印记』：每层提供10%的伤害加成，最多可叠加2层。",
+    "icon": "icon-boss-buff05.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 1002,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "坍塌预警",
+    "desc": "使用人格面具技能或触发追加效果时，获得1层『强化印记』，最多可叠加3层；全体怪盗行动一轮后，获得『强化印记』层数*15%的伤害加成并移除1层『强化印记』。",
+    "icon": "icon-boss-buff05.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 1003,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "结晶辐射",
+    "desc": "回合开始时，每有一个最大生命值提升的效果，获得1层『强化印记』；触发追加效果造成伤害时，获得1层『强化印记』；『强化印记』：每层提供10%的伤害加成，最多可叠加3层。",
+    "icon": "icon-boss-buff05.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 2001,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "圣洁领域",
+    "desc": "敌人每有一个<color=#FFFC40>负面状态</color>，受到的伤害提升6%，最多使其受到的伤害提升30%",
+    "icon": "icon-boss-buff03.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 2002,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "致命一击",
+    "desc": "敌人初始受到伤害提高50%，受到伤害后使后续受到伤害降低50%，可叠加2层。每2回合重置该减伤效果。",
+    "icon": "icon-boss-buff03.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 2003,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "多重连携",
+    "desc": "敌人初始受到伤害降低50%，受到伤害后使后续受到伤害提高20%，可叠加4层。每2回合重置该易伤效果。",
+    "icon": "icon-boss-buff03.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 2004,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "追加特化",
+    "desc": "所有怪盗<color=#FFFC40>追加效果</color>造成的伤害提升50%",
+    "icon": "icon-boss-buff05.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 2005,
+    "buffsn": [
+      0
+    ],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "威压领域",
+    "desc": "首领每回合末使所有怪盗获得1层<color=#FFFC40>『威压』</color>；『威压』被驱散后，使所有敌人获得1层『威压』。\n『威压』：防御力降低10%，可叠加5层。",
+    "icon": "icon-boss-buff03.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 2101,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "天使降临",
+    "desc": "主天使会源源不断地召唤天使援军，击败天使可以回复精力值。\n对处于虚弱阶段时主天使召唤的天使造成伤害可获得积分",
+    "icon": "icon-boss-buff03.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  },
+  {
+    "sn": 3001,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "集火领域",
+    "desc": "所有阴影受到总攻击伤害提升100%",
+    "icon": "icon-boss-buff05.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3021,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "支配领域",
+    "desc": "阴影受到伤害后，使全体怪盗造成伤害提升5%，可叠加10层",
+    "icon": "icon-boss-buff05.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3022,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "反抗领域",
+    "desc": "阴影被击败后，使全体怪盗造成伤害提升25%，可叠加2层",
+    "icon": "icon-boss-buff05.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3023,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "守护领域",
+    "desc": "全体怪盗受治疗/护盾效果提升20%，受治疗/护盾后造成伤害提升50%；战斗开始时全体怪盗损失50%生命值",
+    "icon": "icon-boss-buff05.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3043,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "火焰领域",
+    "desc": "全体怪盗<color=#ff381d>火焰</color>伤害提高50%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3044,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "冻结领域",
+    "desc": "全体怪盗<color=#00aeff>冰冻</color>伤害提高50%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3045,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "电击领域",
+    "desc": "全体怪盗<color=#fbff37>电击</color>伤害提高50%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3046,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "疾风领域",
+    "desc": "全体怪盗<color=#81ea2c>疾风</color>伤害提高50%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3047,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "念动领域",
+    "desc": "全体怪盗<color=#ff63ff>念动</color>伤害提高50%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3048,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "核热领域",
+    "desc": "全体怪盗<color=#00fcff>核热</color>伤害提高50%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3049,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "祝福领域",
+    "desc": "全体怪盗<color=#fffea0>祝福</color>伤害提高50%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 3050,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "诅咒领域",
+    "desc": "全体怪盗<color=#ff0036>诅咒</color>伤害提高50%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 4001,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "解明特化",
+    "desc": "解明怪盗对在场怪盗的<color=#FFFC40>属性提升</color>效果，提升至25%",
+    "icon": "icon-boss-buff01.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 4003,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "武装擂台",
+    "desc": "全体怪盗<color=#FFFC40>物理</color>/<color=#FFFC40>射击</color>属性伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 4004,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "熔岩幻境",
+    "desc": "全体怪盗<color=#ff381d>火焰</color>/<color=#ff63ff>念动</color>属性伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 4005,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "量子冰场",
+    "desc": "全体怪盗<color=#00aeff>冰冻</color>/<color=#00fcff>核热</color>属性伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 4006,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "雷光圣所",
+    "desc": "全体怪盗<color=#fbff37>电击</color>/<color=#fffea0>祝福</color>属性伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 4007,
+    "buffsn": [],
+    "AIsn": [],
+    "skillsn": [],
+    "name": "厄命风眼",
+    "desc": "全体怪盗<color=#81ea2c>疾风</color>/<color=#ff0036>诅咒</color>属性伤害提高20%",
+    "icon": "icon-boss-buff02.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#00b4ff"
+  },
+  {
+    "sn": 5001,
+    "buffsn": [],
+    "AIsn": [
+      0
+    ],
+    "skillsn": [],
+    "name": "猩红潮汐",
+    "desc": "战斗开始以及每经过5个回合，对全体造成一次固定伤害，并使全体获得一层<color=#FFFC40>「狂热之力」</color>：受到伤害提升5%，可被驱散，可叠加15层。",
+    "icon": "icon-boss-buff03.png",
+    "bg": "icon-boss-buff-bg.png",
+    "color": "#d20100"
+  }
+]

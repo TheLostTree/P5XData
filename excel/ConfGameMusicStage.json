@@ -1,0 +1,932 @@
+[
+  {
+    "sn": 101,
+    "songSn": 1,
+    "name": "Wake Up Your Hero",
+    "name2": "Wake Up Your Hero",
+    "artist": "目黑将司",
+    "length": "1:29",
+    "bpm": 140,
+    "unlockLevel": 1,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 3,
+    "fcNum": 278,
+    "feverScore": 185,
+    "bms": "WakeUpYourHero_E.bms",
+    "music": "BGM_WakeUpYourHero_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_01_WakeUpYourHero",
+    "quest": 40323,
+    "order": 10
+  },
+  {
+    "sn": 102,
+    "songSn": 1,
+    "name": "Wake Up Your Hero",
+    "name2": "Wake Up Your Hero",
+    "artist": "目黑将司",
+    "length": "1:29",
+    "bpm": 140,
+    "unlockLevel": 1,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 371,
+    "feverScore": 247,
+    "bms": "WakeUpYourHero_N.bms",
+    "music": "BGM_WakeUpYourHero_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_01_WakeUpYourHero",
+    "quest": 0,
+    "order": 10
+  },
+  {
+    "sn": 103,
+    "songSn": 1,
+    "name": "Wake Up Your Hero",
+    "name2": "Wake Up Your Hero",
+    "artist": "目黑将司",
+    "length": "1:29",
+    "bpm": 140,
+    "unlockLevel": 0,
+    "unlockStage": [
+      0
+    ],
+    "difficultyLevel": 3,
+    "difficultyNum": 9,
+    "fcNum": 742,
+    "feverScore": 371,
+    "bms": "WakeUpYourHero_H.bms",
+    "music": "BGM_WakeUpYourHero_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_01_WakeUpYourHero",
+    "quest": 0,
+    "order": 10
+  },
+  {
+    "sn": 201,
+    "songSn": 2,
+    "name": "Life Will Change",
+    "name2": "Life Will Change",
+    "artist": "目黑将司",
+    "length": "1:29",
+    "bpm": 132,
+    "unlockLevel": 8,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 3,
+    "fcNum": 152,
+    "feverScore": 101,
+    "bms": "LifeWillChange_E.bms",
+    "music": "BGM_LifeWillChange_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_02_LifeWillChange",
+    "quest": 0,
+    "order": 80
+  },
+  {
+    "sn": 202,
+    "songSn": 2,
+    "name": "Life Will Change",
+    "name2": "Life Will Change",
+    "artist": "目黑将司",
+    "length": "1:29",
+    "bpm": 132,
+    "unlockLevel": 8,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 6,
+    "fcNum": 407,
+    "feverScore": 271,
+    "bms": "LifeWillChange_N.bms",
+    "music": "BGM_LifeWillChange_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_02_LifeWillChange",
+    "quest": 0,
+    "order": 80
+  },
+  {
+    "sn": 203,
+    "songSn": 2,
+    "name": "Life Will Change",
+    "name2": "Life Will Change",
+    "artist": "目黑将司",
+    "length": "1:29",
+    "bpm": 132,
+    "unlockLevel": 0,
+    "unlockStage": [
+      0
+    ],
+    "difficultyLevel": 3,
+    "difficultyNum": 8,
+    "fcNum": 584,
+    "feverScore": 292,
+    "bms": "LifeWillChange_H.bms",
+    "music": "BGM_LifeWillChange_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_02_LifeWillChange",
+    "quest": 0,
+    "order": 80
+  },
+  {
+    "sn": 301,
+    "songSn": 3,
+    "name": "Will Power",
+    "name2": "Will Power",
+    "artist": "目黑将司",
+    "length": "1:33",
+    "bpm": 144,
+    "unlockLevel": 2,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 4,
+    "fcNum": 213,
+    "feverScore": 142,
+    "bms": "WillPower_E.bms",
+    "music": "BGM_WillPower_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_03_WillPower",
+    "quest": 0,
+    "order": 20
+  },
+  {
+    "sn": 302,
+    "songSn": 3,
+    "name": "Will Power",
+    "name2": "Will Power",
+    "artist": "目黑将司",
+    "length": "1:33",
+    "bpm": 144,
+    "unlockLevel": 2,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 6,
+    "fcNum": 447,
+    "feverScore": 298,
+    "bms": "WillPower_N.bms",
+    "music": "BGM_WillPower_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_03_WillPower",
+    "quest": 0,
+    "order": 20
+  },
+  {
+    "sn": 401,
+    "songSn": 4,
+    "name": "Tokyo Emergency",
+    "name2": "Tokyo Emergency",
+    "artist": "目黑将司",
+    "length": "1:24",
+    "bpm": 125,
+    "unlockLevel": 3,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 1,
+    "fcNum": 114,
+    "feverScore": 76,
+    "bms": "TokyoEmergency_E.bms",
+    "music": "BGM_TokyoEmergency_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_04_TokyoEmergency",
+    "quest": 0,
+    "order": 30
+  },
+  {
+    "sn": 402,
+    "songSn": 4,
+    "name": "Tokyo Emergency",
+    "name2": "Tokyo Emergency",
+    "artist": "目黑将司",
+    "length": "1:24",
+    "bpm": 125,
+    "unlockLevel": 3,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 4,
+    "fcNum": 145,
+    "feverScore": 96,
+    "bms": "TokyoEmergency_N.bms",
+    "music": "BGM_TokyoEmergency_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_04_TokyoEmergency",
+    "quest": 0,
+    "order": 30
+  },
+  {
+    "sn": 501,
+    "songSn": 5,
+    "name": "Last Surprise",
+    "name2": "Last Surprise",
+    "artist": "目黑将司",
+    "length": "1:26",
+    "bpm": 123,
+    "unlockLevel": 1,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 2,
+    "fcNum": 186,
+    "feverScore": 124,
+    "bms": "LastSurprise_E.bms",
+    "music": "BGM_LastSurprise_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_05_LastSurprise",
+    "quest": 0,
+    "order": 11
+  },
+  {
+    "sn": 502,
+    "songSn": 5,
+    "name": "Last Surprise",
+    "name2": "Last Surprise",
+    "artist": "目黑将司",
+    "length": "1:26",
+    "bpm": 123,
+    "unlockLevel": 1,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 4,
+    "fcNum": 293,
+    "feverScore": 195,
+    "bms": "LastSurprise_N.bms",
+    "music": "BGM_LastSurprise_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_05_LastSurprise",
+    "quest": 0,
+    "order": 11
+  },
+  {
+    "sn": 601,
+    "songSn": 6,
+    "name": "Desire Surrender",
+    "name2": "Desire Surrender",
+    "artist": "目黑将司",
+    "length": "1:58",
+    "bpm": 134,
+    "unlockLevel": 1,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 2,
+    "fcNum": 204,
+    "feverScore": 136,
+    "bms": "DesireSurrender_E.bms",
+    "music": "BGM_DesireSurrender_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_06_DesireSurrender",
+    "quest": 0,
+    "order": 12
+  },
+  {
+    "sn": 602,
+    "songSn": 6,
+    "name": "Desire Surrender",
+    "name2": "Desire Surrender",
+    "artist": "目黑将司",
+    "length": "1:58",
+    "bpm": 134,
+    "unlockLevel": 1,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 4,
+    "fcNum": 297,
+    "feverScore": 198,
+    "bms": "DesireSurrender_N.bms",
+    "music": "BGM_DesireSurrender_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_06_DesireSurrender",
+    "quest": 0,
+    "order": 12
+  },
+  {
+    "sn": 701,
+    "songSn": 7,
+    "name": "Shadow Loop",
+    "name2": "Shadow Loop",
+    "artist": "目黑将司",
+    "length": "1:08",
+    "bpm": 86,
+    "unlockLevel": 4,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 4,
+    "fcNum": 155,
+    "feverScore": 103,
+    "bms": "ShadowLoop_E.bms",
+    "music": "BGM_ShadowLoop_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_07_ShadowLoop",
+    "quest": 0,
+    "order": 40
+  },
+  {
+    "sn": 702,
+    "songSn": 7,
+    "name": "Shadow Loop",
+    "name2": "Shadow Loop",
+    "artist": "目黑将司",
+    "length": "1:08",
+    "bpm": 86,
+    "unlockLevel": 4,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 6,
+    "fcNum": 349,
+    "feverScore": 232,
+    "bms": "ShadowLoop_N.bms",
+    "music": "BGM_ShadowLoop_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_07_ShadowLoop",
+    "quest": 0,
+    "order": 40
+  },
+  {
+    "sn": 801,
+    "songSn": 8,
+    "name": "Last Strike",
+    "name2": "Last Strike",
+    "artist": "目黑将司",
+    "length": "1:39",
+    "bpm": 134,
+    "unlockLevel": 5,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 3,
+    "fcNum": 187,
+    "feverScore": 124,
+    "bms": "LastStrike_E.bms",
+    "music": "BGM_LastStrike_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_08_LastStrike",
+    "quest": 40329,
+    "order": 50
+  },
+  {
+    "sn": 802,
+    "songSn": 8,
+    "name": "Last Strike",
+    "name2": "Last Strike",
+    "artist": "目黑将司",
+    "length": "1:39",
+    "bpm": 134,
+    "unlockLevel": 5,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 257,
+    "feverScore": 171,
+    "bms": "LastStrike_N.bms",
+    "music": "BGM_LastStrike_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_08_LastStrike",
+    "quest": 40329,
+    "order": 50
+  },
+  {
+    "sn": 901,
+    "songSn": 9,
+    "name": "Blooming Villain",
+    "name2": "Blooming Villain",
+    "artist": "目黑将司",
+    "length": "1:19",
+    "bpm": 150,
+    "unlockLevel": 6,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 1,
+    "fcNum": 93,
+    "feverScore": 62,
+    "bms": "BloomingVillain_E.bms",
+    "music": "BGM_BloomingVillain_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_09_BloomingVillain",
+    "quest": 0,
+    "order": 60
+  },
+  {
+    "sn": 902,
+    "songSn": 9,
+    "name": "Blooming Villain",
+    "name2": "Blooming Villain",
+    "artist": "目黑将司",
+    "length": "1:19",
+    "bpm": 150,
+    "unlockLevel": 6,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 239,
+    "feverScore": 159,
+    "bms": "BloomingVillain_N.bms",
+    "music": "BGM_BloomingVillain_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_09_BloomingVillain",
+    "quest": 0,
+    "order": 60
+  },
+  {
+    "sn": 1001,
+    "songSn": 10,
+    "name": "Rivers In The Desert",
+    "name2": "Rivers In The Desert",
+    "artist": "目黑将司",
+    "length": "2:00",
+    "bpm": 130,
+    "unlockLevel": 7,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 3,
+    "fcNum": 307,
+    "feverScore": 204,
+    "bms": "RiversInTheDesert_E.bms",
+    "music": "BGM_RiversInTheDesert_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_10_RiversInTheDesert",
+    "quest": 40334,
+    "order": 70
+  },
+  {
+    "sn": 1002,
+    "songSn": 10,
+    "name": "Rivers In The Desert",
+    "name2": "Rivers In The Desert",
+    "artist": "目黑将司",
+    "length": "2:00",
+    "bpm": 130,
+    "unlockLevel": 7,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 401,
+    "feverScore": 267,
+    "bms": "RiversInTheDesert_N.bms",
+    "music": "BGM_RiversInTheDesert_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_10_RiversInTheDesert",
+    "quest": 40334,
+    "order": 70
+  },
+  {
+    "sn": 1101,
+    "songSn": 11,
+    "name": "Fake Idol",
+    "name2": "Fake Idol",
+    "artist": "目黑将司",
+    "length": "1:03",
+    "bpm": 182,
+    "unlockLevel": 9,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 3,
+    "fcNum": 139,
+    "feverScore": 92,
+    "bms": "FakeIdol_E.bms",
+    "music": "BGM_FakeIdol_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_11_FakeIdol",
+    "quest": 0,
+    "order": 90
+  },
+  {
+    "sn": 1102,
+    "songSn": 11,
+    "name": "Fake Idol",
+    "name2": "Fake Idol",
+    "artist": "目黑将司",
+    "length": "1:03",
+    "bpm": 182,
+    "unlockLevel": 9,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 6,
+    "fcNum": 279,
+    "feverScore": 186,
+    "bms": "FakeIdol_N.bms",
+    "music": "BGM_FakeIdol_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_11_FakeIdol",
+    "quest": 0,
+    "order": 90
+  },
+  {
+    "sn": 1103,
+    "songSn": 11,
+    "name": "Fake Idol",
+    "name2": "Fake Idol",
+    "artist": "目黑将司",
+    "length": "1:03",
+    "bpm": 182,
+    "unlockLevel": 9,
+    "unlockStage": [],
+    "difficultyLevel": 3,
+    "difficultyNum": 10,
+    "fcNum": 522,
+    "feverScore": 261,
+    "bms": "FakeIdol_H.bms",
+    "music": "BGM_FakeIdol_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_11_FakeIdol",
+    "quest": 0,
+    "order": 90
+  },
+  {
+    "sn": 1201,
+    "songSn": 12,
+    "name": "Fatal Desire",
+    "name2": "Fatal Desire",
+    "artist": "目黑将司",
+    "length": "1:32",
+    "bpm": 143,
+    "unlockLevel": 10,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 2,
+    "fcNum": 144,
+    "feverScore": 96,
+    "bms": "FatalDesire_E.bms",
+    "music": "BGM_FatalDesire_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_12_FatalDesire",
+    "quest": 0,
+    "order": 100
+  },
+  {
+    "sn": 1202,
+    "songSn": 12,
+    "name": "Fatal Desire",
+    "name2": "Fatal Desire",
+    "artist": "目黑将司",
+    "length": "1:32",
+    "bpm": 143,
+    "unlockLevel": 10,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 352,
+    "feverScore": 234,
+    "bms": "FatalDesire_N.bms",
+    "music": "BGM_FatalDesire_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_12_FatalDesire",
+    "quest": 0,
+    "order": 100
+  },
+  {
+    "sn": 1203,
+    "songSn": 12,
+    "name": "Fatal Desire",
+    "name2": "Fatal Desire",
+    "artist": "目黑将司",
+    "length": "1:32",
+    "bpm": 143,
+    "unlockLevel": 0,
+    "unlockStage": [
+      0
+    ],
+    "difficultyLevel": 3,
+    "difficultyNum": 10,
+    "fcNum": 999,
+    "feverScore": 499,
+    "bms": "FatalDesire_H.bms",
+    "music": "BGM_FatalDesire_MG",
+    "rankScore": [
+      0
+    ],
+    "rankAward": [
+      0
+    ],
+    "basicAward": [
+      0
+    ],
+    "achievement": [
+      0
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_12_FatalDesire",
+    "quest": 0,
+    "order": 100
+  }
+]

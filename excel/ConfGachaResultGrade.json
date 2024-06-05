@@ -1,70 +1,98 @@
 [
   {
-    "sn": 2,
-    "gradeBox": "chouka-new-wuqixingji-1.png",
-    "weaponColorOne": "#a8a8a8",
-    "weaponColorTwo": "#64c92a",
-    "characterColor": "#e5e5e5",
-    "characterNamePic": "chouka-wuqi-mingzidi-yin.png",
+    "sn": 3,
+    "weaponColorOne": "#0072D6",
+    "weaponColorTwo": "#178df5",
+    "weaponColor": "#0089fd",
+    "characterColor": "#0072D6",
+    "weaponNamePic": "pinzhi-chouka-mingzidi-lan.png",
+    "weaponStarPic": [
+      "�)�/��x1�x>�)�"
+    ],
+    "characterNamePic": "pinzhi-chouka-mingzidi-lan.png",
     "characterStarPic": [
-      "common-new-xingxing-yin.png"
+      "�)�/��x1�x>�)�"
     ],
     "weaponGradePic": "chuka-danchoudi2.png",
     "anim": "lan",
-    "effect": "",
-    "color": "#92949b",
+    "characterEffect": [],
+    "weaponEffect": [],
+    "characterRecordPic": "chouka-jilu-guaidao-type3-i18n.png",
+    "weaponRecordPic": "chouka-jilu-wuqi-type3-i18n.png",
     "sound": "Anim0063"
   },
   {
-    "sn": 3,
-    "gradeBox": "chouka-new-wuqixingji-1.png",
-    "weaponColorOne": "#0072D6",
-    "weaponColorTwo": "#178df5",
-    "characterColor": "#e5e5e5",
-    "characterNamePic": "chouka-wuqi-mingzidi-yin.png",
-    "characterStarPic": [
-      "common-new-xingxing-yin.png"
+    "sn": 4,
+    "weaponColorOne": "#c900e4",
+    "weaponColorTwo": "#db2ff7",
+    "weaponColor": "#db2ff7",
+    "characterColor": "#c900e4",
+    "weaponNamePic": "pinzhi-chouka-mingzidi-zi.png",
+    "weaponStarPic": [
+      "�)�/��x1�x>�)�"
     ],
-    "weaponGradePic": "chuka-danchoudi3.png",
+    "characterNamePic": "pinzhi-chouka-mingzidi-zi.png",
+    "characterStarPic": [
+      "�)�/��x1�x>�)�"
+    ],
+    "weaponGradePic": "chuka-danchoudi4.png",
     "anim": "lan",
-    "effect": "",
-    "color": "#00a835",
+    "characterEffect": [],
+    "weaponEffect": [],
+    "characterRecordPic": "chouka-jilu-guaidao-type3-i18n.png",
+    "weaponRecordPic": "chouka-jilu-wuqi-type3-i18n.png",
     "sound": "Anim0064"
   },
   {
-    "sn": 4,
-    "gradeBox": "chouka-new-wuqixingji-2.png",
-    "weaponColorOne": "#c900e4",
-    "weaponColorTwo": "#db2ff7",
-    "characterColor": "#e5e5e5",
-    "characterNamePic": "chouka-wuqi-mingzidi-jin.png",
-    "characterStarPic": [
-      "common-new-xingxing-jin.png"
-    ],
-    "weaponGradePic": "chuka-danchoudi4.png",
-    "anim": "zi",
-    "effect": "chouka_pingzhise01.prefab",
-    "color": "#a725f9",
-    "sound": "Anim0065"
-  },
-  {
     "sn": 5,
-    "gradeBox": "chouka-new-wuqixingji-3.png",
     "weaponColorOne": "#E9CB2F",
     "weaponColorTwo": "#F9D829",
-    "characterColor": "#caf2ff",
-    "characterNamePic": "chouka-wuqi-mingzidi-cai.png",
+    "weaponColor": "#ffc81a",
+    "characterColor": "#E9CB2F",
+    "weaponNamePic": "pinzhi-chouka-mingzidi-jin.png",
+    "weaponStarPic": [
+      "�)�/��x1�x>�)�"
+    ],
+    "characterNamePic": "pinzhi-chouka-mingzidi-jin.png",
     "characterStarPic": [
-      "common-new-xingxing-zuan01.png",
-      "common-new-xingxing-zuan02.png",
-      "common-new-xingxing-zuan03.png",
-      "common-new-xingxing-zuan04.png",
-      "common-new-xingxing-zuan05.png"
+      "�)�/��x1�x>�)�"
     ],
     "weaponGradePic": "chuka-danchoudi5.png",
+    "anim": "zi",
+    "characterEffect": [
+      "��!k�޲�m�O܅�ষ�i�\u001ar\u0016���.��t��^�\r����"
+    ],
+    "weaponEffect": [
+      "��!k�޲�m�O܅�ষ�i�\u001ar\u0016���.��t��^�\r����"
+    ],
+    "characterRecordPic": "chouka-jilu-guaidao-type2-i18n.png",
+    "weaponRecordPic": "chouka-jilu-wuqi-type2-i18n.png",
+    "sound": "Anim0198"
+  },
+  {
+    "sn": 6,
+    "weaponColorOne": "#b5d9e5",
+    "weaponColorTwo": "#64c92a",
+    "weaponColor": "#b5d9e5",
+    "characterColor": "#b5d9e5",
+    "weaponNamePic": "pinzhi-chouka-mingzidi-cai.png",
+    "weaponStarPic": [
+      "�)�/��x1�x>q���Zg����\u0018��)��)��Ƣ�M��\nb�8b�\u0018��\u0018���\u001a��7�x)�|��b�\fb�\u000f�j/���)�/��x1�x>q��Ӛg"
+    ],
+    "characterNamePic": "pinzhi-chouka-mingzidi-cai.png",
+    "characterStarPic": [
+      "�)�/��x1�x>q���Zg����\u0018��)��)��Ƣ�M��\nb�8b�\u0018��\u0018���\u001a��7�x)�|��b�\fb�\u000f�j/���)�/��x1�x>q��Ӛg"
+    ],
+    "weaponGradePic": "chuka-danchoudi6.png",
     "anim": "cheng",
-    "effect": "chouka_pingzhise_cai.prefab",
-    "color": "#f1b500",
-    "sound": "Anim0066"
+    "characterEffect": [
+      "��!k�޲�m�O�j*ky����!k�޲�m�O�j-���"
+    ],
+    "weaponEffect": [
+      "��!k�޲�m�O�j*ky����!k�޲�m�O�j-���"
+    ],
+    "characterRecordPic": "chouka-jilu-guaidao-type1-i18n.png",
+    "weaponRecordPic": "chouka-jilu-wuqi-type1-i18n.png",
+    "sound": "Anim0199"
   }
 ]

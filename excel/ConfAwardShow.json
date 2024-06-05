@@ -433,7 +433,7 @@
     "sn": 44,
     "title": 1,
     "item": 1,
-    "thief": 0,
+    "thief": 1,
     "personality": 0,
     "coopExp": 0,
     "persona": 0,
@@ -554,7 +554,7 @@
     "title": 1,
     "item": 1,
     "thief": 0,
-    "personality": 0,
+    "personality": 1,
     "coopExp": 0,
     "persona": 0,
     "jewellery": 0
@@ -582,7 +582,7 @@
   {
     "sn": 59,
     "title": 1,
-    "item": 1,
+    "item": 0,
     "thief": 0,
     "personality": 1,
     "coopExp": 0,
@@ -603,6 +603,396 @@
     "sn": 61,
     "title": 1,
     "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 62,
+    "title": 1,
+    "item": 0,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 63,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 1,
+    "coopExp": 1,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 64,
+    "title": 1,
+    "item": 0,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 65,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 66,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 67,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 68,
+    "title": 1,
+    "item": 0,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 69,
+    "title": 1,
+    "item": 1,
+    "thief": 1,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 1,
+    "jewellery": 0
+  },
+  {
+    "sn": 70,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 71,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 72,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 73,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 74,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 75,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 76,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 77,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 78,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 79,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 80,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 81,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 82,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 83,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 84,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 85,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 86,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 87,
+    "title": 0,
+    "item": 0,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 88,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 89,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 90,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 91,
+    "title": 1,
+    "item": 1,
+    "thief": 1,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 92,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 93,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 94,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 95,
+    "title": 1,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 96,
+    "title": 2,
+    "item": 2,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 97,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 98,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 99,
+    "title": 1,
+    "item": 1,
+    "thief": 0,
+    "personality": 0,
+    "coopExp": 0,
+    "persona": 0,
+    "jewellery": 0
+  },
+  {
+    "sn": 100,
+    "title": 1,
+    "item": 1,
     "thief": 0,
     "personality": 0,
     "coopExp": 0,

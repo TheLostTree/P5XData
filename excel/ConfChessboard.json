@@ -2,105 +2,324 @@
   {
     "sn": 1,
     "size": [
-      6,
-      6
+      0
     ],
     "beginpos": [
-      0,
-      0,
       0
     ],
     "scale": 1,
     "chessSn": [
-      1,
-      2,
-      3,
-      4,
-      5
+      0
     ],
     "destination": [
-      6,
-      6
+      0
     ],
-    "destEffect": "light_sample.prefab",
+    "destEffect": "fx_chess_targetTerrain.prefab",
     "faceToAngle": 0,
     "cam": ""
   },
   {
     "sn": 2,
     "size": [
-      8,
-      8
+      0
     ],
     "beginpos": [
-      0,
-      0,
       0
     ],
     "scale": 1,
     "chessSn": [
-      6,
-      7
+      0
     ],
     "destination": [
-      8,
-      8
+      0
     ],
-    "destEffect": "light_sample.prefab",
+    "destEffect": "fx_chess_targetTerrain.prefab",
     "faceToAngle": 0,
     "cam": ""
   },
   {
     "sn": 100,
     "size": [
-      5,
-      5
+      0
     ],
     "beginpos": [
-      77.2781,
-      50.3101,
-      146.4881
+      0
     ],
     "scale": 1.3,
     "chessSn": [
-      101,
-      102,
-      103,
-      104,
-      105,
-      106,
-      107
+      0
     ],
     "destination": [
-      1,
-      3
+      0
     ],
-    "destEffect": "light_sample.prefab",
+    "destEffect": "fx_chess_targetTerrain.prefab",
     "faceToAngle": 0,
     "cam": ""
   },
   {
     "sn": 101,
     "size": [
-      5,
-      5
+      0
     ],
     "beginpos": [
-      122.9678,
-      50.317,
-      181.245
+      0
     ],
     "scale": 1.3,
     "chessSn": [
-      101,
-      102
+      0
     ],
     "destination": [
-      1,
-      3
+      0
     ],
-    "destEffect": "light_sample.prefab",
+    "destEffect": "fx_chess_targetTerrain.prefab",
     "faceToAngle": 0,
     "cam": "chess"
+  },
+  {
+    "sn": 102,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam_1_chess01"
+  },
+  {
+    "sn": 900,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess1"
+  },
+  {
+    "sn": 901,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess2"
+  },
+  {
+    "sn": 30001,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess1"
+  },
+  {
+    "sn": 30002,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess1"
+  },
+  {
+    "sn": 30003,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess1"
+  },
+  {
+    "sn": 30004,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess2"
+  },
+  {
+    "sn": 30005,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess1"
+  },
+  {
+    "sn": 30006,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess1"
+  },
+  {
+    "sn": 30007,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess1"
+  },
+  {
+    "sn": 30008,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess1"
+  },
+  {
+    "sn": 30009,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess2"
+  },
+  {
+    "sn": 30010,
+    "size": [
+      0
+    ],
+    "beginpos": [
+      0
+    ],
+    "scale": 1.3,
+    "chessSn": [
+      0
+    ],
+    "destination": [
+      0
+    ],
+    "destEffect": "fx_chess_targetTerrain.prefab",
+    "faceToAngle": 0,
+    "cam": "Cam20031_chess2"
   }
 ]

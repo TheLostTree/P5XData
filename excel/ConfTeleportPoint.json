@@ -11,9 +11,7 @@
     "sn": 10001,
     "sceneSn": 10,
     "position": [
-      111.15,
-      7.81,
-      109.59
+      0
     ],
     "direction": 124.13,
     "cinemaXY": [],
@@ -23,9 +21,7 @@
     "sn": 10002,
     "sceneSn": 10,
     "position": [
-      111.91,
-      7.05,
-      92.92
+      0
     ],
     "direction": -21.04,
     "cinemaXY": [],
@@ -35,26 +31,47 @@
     "sn": 10003,
     "sceneSn": 10,
     "position": [
-      138.53,
-      7.74,
-      105.1
+      0
     ],
-    "direction": 126.21,
-    "cinemaXY": [],
+    "direction": 216.21,
+    "cinemaXY": [
+      0
+    ],
     "cinemaZ": ""
   },
   {
     "sn": 10004,
     "sceneSn": 10,
     "position": [
-      130.52,
-      7.79,
-      97.27
+      0
     ],
     "direction": -153.9128,
     "cinemaXY": [
-      -153.7166,
-      0.6116157
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 10005,
+    "sceneSn": 10,
+    "position": [
+      0
+    ],
+    "direction": 94,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 10006,
+    "sceneSn": 10,
+    "position": [
+      0
+    ],
+    "direction": 139,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -62,14 +79,47 @@
     "sn": 10010,
     "sceneSn": 10,
     "position": [
-      109.3558,
-      7.769233,
-      110.9313
+      0
     ],
     "direction": 128.7335,
     "cinemaXY": [
-      124.5732,
-      0.5636035
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 10020,
+    "sceneSn": 10,
+    "position": [
+      0
+    ],
+    "direction": -102.8998,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 10030,
+    "sceneSn": 10,
+    "position": [
+      0
+    ],
+    "direction": -102.8998,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 10031,
+    "sceneSn": 10,
+    "position": [
+      0
+    ],
+    "direction": -5,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -85,9 +135,7 @@
     "sn": 11001,
     "sceneSn": 11,
     "position": [
-      4.47,
-      0.42,
-      12.912
+      0
     ],
     "direction": 175.8,
     "cinemaXY": [],
@@ -97,9 +145,7 @@
     "sn": 11002,
     "sceneSn": 11,
     "position": [
-      5.611,
-      0.4112,
-      10.045
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
@@ -117,9 +163,7 @@
     "sn": 12001,
     "sceneSn": 12,
     "position": [
-      10.66,
-      2.94,
-      8.53
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
@@ -145,12 +189,12 @@
     "sn": 15000,
     "sceneSn": 10,
     "position": [
-      103.43,
-      7.0184,
-      92.901
+      0
     ],
-    "direction": 0,
-    "cinemaXY": [],
+    "direction": -57,
+    "cinemaXY": [
+      0
+    ],
     "cinemaZ": ""
   },
   {
@@ -189,9 +233,7 @@
     "sn": 21001,
     "sceneSn": 21,
     "position": [
-      4.94,
-      0.54,
-      11.56
+      0
     ],
     "direction": 9.26,
     "cinemaXY": [],
@@ -209,9 +251,7 @@
     "sn": 22001,
     "sceneSn": 22,
     "position": [
-      6.11,
-      0.05,
-      8.43
+      0
     ],
     "direction": 122.2403,
     "cinemaXY": [],
@@ -229,9 +269,7 @@
     "sn": 23001,
     "sceneSn": 23,
     "position": [
-      10.09,
-      1.02,
-      4.54
+      0
     ],
     "direction": 183,
     "cinemaXY": [],
@@ -283,8 +321,7 @@
     "position": [],
     "direction": 183,
     "cinemaXY": [
-      -177.7166,
-      0.6266157
+      0
     ],
     "cinemaZ": ""
   },
@@ -292,15 +329,44 @@
     "sn": 29001,
     "sceneSn": 29,
     "position": [
-      20.507,
-      14.304,
-      33.35
+      0
+    ],
+    "direction": -38,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 29010,
+    "sceneSn": 29,
+    "position": [
+      0
+    ],
+    "direction": 50,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 29300,
+    "sceneSn": 29,
+    "position": [
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      -36.0321,
-      0.6614
+      0
     ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 30001,
+    "sceneSn": 30,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
     "cinemaZ": ""
   },
   {
@@ -315,9 +381,7 @@
     "sn": 50001,
     "sceneSn": 50,
     "position": [
-      217.49,
-      99.35,
-      292.25
+      0
     ],
     "direction": 183,
     "cinemaXY": [],
@@ -327,14 +391,11 @@
     "sn": 50002,
     "sceneSn": 50,
     "position": [
-      255.28,
-      99.34,
-      285.71
+      0
     ],
     "direction": 358,
     "cinemaXY": [
-      3.504638671875,
-      0.631706357
+      0
     ],
     "cinemaZ": ""
   },
@@ -342,14 +403,11 @@
     "sn": 50003,
     "sceneSn": 50,
     "position": [
-      211.34,
-      99.293,
-      248.55
+      0
     ],
     "direction": 290,
     "cinemaXY": [
-      -67.3477,
-      0.647
+      0
     ],
     "cinemaZ": ""
   },
@@ -357,14 +415,11 @@
     "sn": 50004,
     "sceneSn": 50,
     "position": [
-      215.29,
-      99.293,
-      266.53
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -87.063,
-      0.6879678
+      0
     ],
     "cinemaZ": ""
   },
@@ -372,14 +427,11 @@
     "sn": 50005,
     "sceneSn": 50,
     "position": [
-      216.96,
-      99.293,
-      255.72
+      0
     ],
     "direction": 43.4,
     "cinemaXY": [
-      43.81,
-      0.722
+      0
     ],
     "cinemaZ": ""
   },
@@ -387,14 +439,11 @@
     "sn": 50006,
     "sceneSn": 50,
     "position": [
-      263.31,
-      99.293,
-      266.37
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -89.289,
-      0.6653
+      0
     ],
     "cinemaZ": ""
   },
@@ -402,14 +451,11 @@
     "sn": 50007,
     "sceneSn": 50,
     "position": [
-      258.98,
-      99.293,
-      249.74
+      0
     ],
     "direction": 326.868,
     "cinemaXY": [
-      -37.4993,
-      0.301
+      0
     ],
     "cinemaZ": ""
   },
@@ -417,15 +463,124 @@
     "sn": 50008,
     "sceneSn": 50,
     "position": [
-      206.45,
-      99.293,
-      273.57
+      0
     ],
-    "direction": 346.471,
+    "direction": -30,
     "cinemaXY": [
-      -4.57,
-      0.65
+      0
     ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 50009,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": 61,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 50010,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": -10,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 50011,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": -14,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 50012,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": -77,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 50015,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": -95,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 50020,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": 31.3017,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 50300,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 50301,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 54000,
+    "sceneSn": 54,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 54001,
+    "sceneSn": 51,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
     "cinemaZ": ""
   },
   {
@@ -440,9 +595,7 @@
     "sn": 90001,
     "sceneSn": 90,
     "position": [
-      54.7,
-      25,
-      106.28
+      0
     ],
     "direction": 183,
     "cinemaXY": [],
@@ -457,12 +610,18 @@
     "cinemaZ": ""
   },
   {
+    "sn": 158000,
+    "sceneSn": 158,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
     "sn": 200001,
     "sceneSn": 200,
     "position": [
-      0.18,
-      0.12,
-      0.2
+      0
     ],
     "direction": 287,
     "cinemaXY": [],
@@ -485,17 +644,22 @@
     "cinemaZ": ""
   },
   {
+    "sn": 251000,
+    "sceneSn": 251,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
     "sn": 261000,
     "sceneSn": 261,
     "position": [
-      11.805,
-      0.3,
-      17.195
+      0
     ],
     "direction": 100.731,
     "cinemaXY": [
-      -123.7568,
-      0.5611
+      0
     ],
     "cinemaZ": ""
   },
@@ -503,13 +667,11 @@
     "sn": 264001,
     "sceneSn": 264,
     "position": [
-      33.47,
-      6.776926,
-      52.22
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      178.0029
+      0
     ],
     "cinemaZ": ""
   },
@@ -517,14 +679,11 @@
     "sn": 264002,
     "sceneSn": 271,
     "position": [
-      91.237,
-      14.799,
-      110.24
+      0
     ],
     "direction": 174.554,
     "cinemaXY": [
-      179.9461,
-      0.5976
+      0
     ],
     "cinemaZ": ""
   },
@@ -532,13 +691,391 @@
     "sn": 264003,
     "sceneSn": 266,
     "position": [
-      33.47,
-      6.776926,
-      52.22
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      178.0029
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 266001,
+    "sceneSn": 266,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 267001,
+    "sceneSn": 267,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 268010,
+    "sceneSn": 268,
+    "position": [
+      0
+    ],
+    "direction": 52,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 269001,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 269002,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": 6,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 269011,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": -169.52,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 269012,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": -94,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 269013,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": 86.46,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 269014,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": 98.3887,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 269015,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": 81.98544,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 269016,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": 85.26297,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 269017,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 269018,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 271011,
+    "sceneSn": 271,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 271012,
+    "sceneSn": 271,
+    "position": [
+      0
+    ],
+    "direction": -98.79797,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 271013,
+    "sceneSn": 271,
+    "position": [
+      0
+    ],
+    "direction": -4.183258,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 271014,
+    "sceneSn": 271,
+    "position": [
+      0
+    ],
+    "direction": 130.8561,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 271020,
+    "sceneSn": 271,
+    "position": [
+      0
+    ],
+    "direction": 40.89421,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 272010,
+    "sceneSn": 272,
+    "position": [
+      0
+    ],
+    "direction": -159,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 273001,
+    "sceneSn": 273,
+    "position": [
+      0
+    ],
+    "direction": -144,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 273301,
+    "sceneSn": 273,
+    "position": [
+      0
+    ],
+    "direction": -9.06,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 274000,
+    "sceneSn": 274,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 275001,
+    "sceneSn": 275,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 275002,
+    "sceneSn": 275,
+    "position": [
+      0
+    ],
+    "direction": 51,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 275003,
+    "sceneSn": 275,
+    "position": [
+      0
+    ],
+    "direction": -38,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 275010,
+    "sceneSn": 275,
+    "position": [
+      0
+    ],
+    "direction": -38,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 276001,
+    "sceneSn": 276,
+    "position": [
+      0
+    ],
+    "direction": 176.2461,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 276011,
+    "sceneSn": 276,
+    "position": [
+      0
+    ],
+    "direction": -10.96906,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 276012,
+    "sceneSn": 276,
+    "position": [
+      0
+    ],
+    "direction": -125.812,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 276013,
+    "sceneSn": 276,
+    "position": [
+      0
+    ],
+    "direction": -7.251343,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 276014,
+    "sceneSn": 276,
+    "position": [
+      0
+    ],
+    "direction": 178.3234,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 276015,
+    "sceneSn": 276,
+    "position": [
+      0
+    ],
+    "direction": -116,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 278000,
+    "sceneSn": 278,
+    "position": [
+      0
+    ],
+    "direction": 100.731,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -546,9 +1083,7 @@
     "sn": 280000,
     "sceneSn": 281,
     "position": [
-      63.22,
-      99.63,
-      50.42
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
@@ -558,21 +1093,113 @@
     "sn": 281001,
     "sceneSn": 281,
     "position": [
-      66.548,
-      99.62,
-      99.174
+      0
     ],
-    "direction": 285.6785,
+    "direction": -99.74365,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 281002,
+    "sceneSn": 281,
+    "position": [
+      0
+    ],
+    "direction": 58,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 281004,
+    "sceneSn": 281,
+    "position": [
+      0
+    ],
+    "direction": -23,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 281005,
+    "sceneSn": 281,
+    "position": [
+      0
+    ],
+    "direction": 111,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 281010,
+    "sceneSn": 281,
+    "position": [
+      0
+    ],
+    "direction": -51,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 281300,
+    "sceneSn": 281,
+    "position": [
+      0
+    ],
+    "direction": -91.66373,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 281301,
+    "sceneSn": 281,
+    "position": [
+      0
+    ],
+    "direction": -13.96698,
     "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 281302,
+    "sceneSn": 281,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 281303,
+    "sceneSn": 281,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
     "cinemaZ": ""
   },
   {
     "sn": 300000,
     "sceneSn": 300,
     "position": [
-      281.47,
-      0.01,
-      279.33
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
@@ -582,9 +1209,7 @@
     "sn": 400000,
     "sceneSn": 400,
     "position": [
-      335.74,
-      0.01,
-      292.58
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
@@ -594,21 +1219,681 @@
     "sn": 501000,
     "sceneSn": 5010,
     "position": [
-      300.57,
-      105.56,
-      353.75
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
     "cinemaZ": ""
   },
   {
+    "sn": 999888,
+    "sceneSn": 8402,
+    "position": [
+      0
+    ],
+    "direction": 149.82,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999889,
+    "sceneSn": 3061,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999890,
+    "sceneSn": 2133,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999891,
+    "sceneSn": 300,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999892,
+    "sceneSn": 269,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999893,
+    "sceneSn": 264,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999894,
+    "sceneSn": 265,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999895,
+    "sceneSn": 8471,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999896,
+    "sceneSn": 8470,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999897,
+    "sceneSn": 5012,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999898,
+    "sceneSn": 8460,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999899,
+    "sceneSn": 134,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999900,
+    "sceneSn": 999985,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999901,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999902,
+    "sceneSn": 8460,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999903,
+    "sceneSn": 281,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999904,
+    "sceneSn": 271,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999905,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999906,
+    "sceneSn": 41011,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999907,
+    "sceneSn": 41162,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999908,
+    "sceneSn": 4003,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999909,
+    "sceneSn": 8355,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999910,
+    "sceneSn": 281,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999911,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999912,
+    "sceneSn": 5011,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999913,
+    "sceneSn": 133,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999914,
+    "sceneSn": 2103,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999915,
+    "sceneSn": 271,
+    "position": [
+      0
+    ],
+    "direction": 72.25,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999916,
+    "sceneSn": 8402,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999917,
+    "sceneSn": 2132,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999918,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999919,
+    "sceneSn": 21,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999920,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 2.97,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999921,
+    "sceneSn": 8336,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999922,
+    "sceneSn": 8301,
+    "position": [
+      0
+    ],
+    "direction": 173.1,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999923,
+    "sceneSn": 8402,
+    "position": [
+      0
+    ],
+    "direction": 80.59999,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999924,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": -26.94,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999925,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 0.29,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999926,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 2.8,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999927,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 149.61,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999928,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999929,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": -47.79999,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999930,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": -172.9441,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999931,
+    "sceneSn": 8302,
+    "position": [
+      0
+    ],
+    "direction": 171.43,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999932,
+    "sceneSn": 8402,
+    "position": [
+      0
+    ],
+    "direction": -20.94,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999933,
+    "sceneSn": 271,
+    "position": [
+      0
+    ],
+    "direction": 135.62,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999934,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 116.7555,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999935,
+    "sceneSn": 10,
+    "position": [
+      0
+    ],
+    "direction": 10.68,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999936,
+    "sceneSn": 999991,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999937,
+    "sceneSn": 8402,
+    "position": [
+      0
+    ],
+    "direction": 134.75,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999938,
+    "sceneSn": 4001,
+    "position": [
+      0
+    ],
+    "direction": -13.66,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999939,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": 13.78,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999940,
+    "sceneSn": 4000,
+    "position": [
+      0
+    ],
+    "direction": -0.7000122,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999941,
+    "sceneSn": 5509,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999942,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999943,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": 73.77,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999944,
+    "sceneSn": 8304,
+    "position": [
+      0
+    ],
+    "direction": -16.31,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999945,
+    "sceneSn": 8355,
+    "position": [
+      0
+    ],
+    "direction": -108.4738,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999946,
+    "sceneSn": 282,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999947,
+    "sceneSn": 132,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999948,
+    "sceneSn": 10,
+    "position": [
+      0
+    ],
+    "direction": -63,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999949,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": 94.47,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999950,
+    "sceneSn": 50,
+    "position": [
+      0
+    ],
+    "direction": -10,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
     "sn": 999951,
     "sceneSn": 8331,
     "position": [
-      129.82,
-      5.9299,
-      189.86
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
@@ -618,9 +1903,7 @@
     "sn": 999952,
     "sceneSn": 8350,
     "position": [
-      142.29,
-      176.13,
-      380.81
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
@@ -630,9 +1913,7 @@
     "sn": 999953,
     "sceneSn": 8304,
     "position": [
-      238.38,
-      19.84,
-      55.624
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
@@ -642,14 +1923,11 @@
     "sn": 999954,
     "sceneSn": 8356,
     "position": [
-      185.49,
-      6.6473,
-      131.61
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      -94.8936,
-      0.4841
+      0
     ],
     "cinemaZ": ""
   },
@@ -657,14 +1935,11 @@
     "sn": 999955,
     "sceneSn": 2130,
     "position": [
-      312.64,
-      44.459,
-      110.26
+      0
     ],
     "direction": 66.4335,
     "cinemaXY": [
-      -112.4005,
-      0.4659
+      0
     ],
     "cinemaZ": ""
   },
@@ -672,14 +1947,11 @@
     "sn": 999956,
     "sceneSn": 2102,
     "position": [
-      289.97,
-      99.57,
-      235.02
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      57.7513,
-      0.505
+      0
     ],
     "cinemaZ": ""
   },
@@ -687,9 +1959,7 @@
     "sn": 999957,
     "sceneSn": 8331,
     "position": [
-      89.412,
-      1.5,
-      171.09
+      0
     ],
     "direction": -99.14999,
     "cinemaXY": [],
@@ -707,14 +1977,11 @@
     "sn": 999959,
     "sceneSn": 5502,
     "position": [
-      622.65,
-      43.451,
-      265.26
+      0
     ],
-    "direction": -94.79791,
+    "direction": -179.6,
     "cinemaXY": [
-      -90.8247,
-      0.392
+      0
     ],
     "cinemaZ": ""
   },
@@ -722,14 +1989,11 @@
     "sn": 999960,
     "sceneSn": 8300,
     "position": [
-      75.421,
-      30.059,
-      248.43
+      0
     ],
     "direction": 129.5824,
     "cinemaXY": [
-      138.3034,
-      0.0718
+      0
     ],
     "cinemaZ": ""
   },
@@ -737,13 +2001,10 @@
     "sn": 999961,
     "sceneSn": 8302,
     "position": [
-      206.93,
-      0.09,
-      81.801
+      0
     ],
-    "direction": -177.8084,
+    "direction": -175,
     "cinemaXY": [
-      -165.4826,
       0
     ],
     "cinemaZ": ""
@@ -752,14 +2013,11 @@
     "sn": 999962,
     "sceneSn": 271,
     "position": [
-      91.071,
-      14.8,
-      110.17
+      0
     ],
-    "direction": 0.3308,
+    "direction": -179.94,
     "cinemaXY": [
-      0.33,
-      0.557
+      0
     ],
     "cinemaZ": ""
   },
@@ -767,14 +2025,11 @@
     "sn": 999963,
     "sceneSn": 5502,
     "position": [
-      586.65,
-      46.72,
-      290.65
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      3.0162,
-      0.3299
+      0
     ],
     "cinemaZ": ""
   },
@@ -782,14 +2037,11 @@
     "sn": 999964,
     "sceneSn": 5502,
     "position": [
-      584.2043,
-      40.3866,
-      169.6544
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      -0.2801,
-      0.2773
+      0
     ],
     "cinemaZ": ""
   },
@@ -797,14 +2049,11 @@
     "sn": 999965,
     "sceneSn": 8300,
     "position": [
-      104.96,
-      30.06,
-      282.5186
+      0
     ],
     "direction": -129.9194,
     "cinemaXY": [
-      234.6317,
-      0.3258
+      0
     ],
     "cinemaZ": ""
   },
@@ -812,14 +2061,11 @@
     "sn": 999966,
     "sceneSn": 8300,
     "position": [
-      88.402,
-      30.059,
-      267.66
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      204.6598,
-      0.597
+      0
     ],
     "cinemaZ": ""
   },
@@ -835,14 +2081,11 @@
     "sn": 999968,
     "sceneSn": 273,
     "position": [
-      104.74,
-      12.581,
-      71.144
+      0
     ],
     "direction": -15.83047,
     "cinemaXY": [
-      -19.7738,
-      0.4656
+      0
     ],
     "cinemaZ": ""
   },
@@ -850,14 +2093,11 @@
     "sn": 999969,
     "sceneSn": 10,
     "position": [
-      121.94,
-      7.7799,
-      103.79
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      30.3797,
-      0.443
+      0
     ],
     "cinemaZ": ""
   },
@@ -865,9 +2105,7 @@
     "sn": 999970,
     "sceneSn": 2102,
     "position": [
-      190.91,
-      99.56,
-      365.76
+      0
     ],
     "direction": 93.59129,
     "cinemaXY": [],
@@ -877,14 +2115,11 @@
     "sn": 999971,
     "sceneSn": 273,
     "position": [
-      106.61,
-      12.579,
-      153.74
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      -157.1822,
-      0.3863
+      0
     ],
     "cinemaZ": ""
   },
@@ -892,14 +2127,11 @@
     "sn": 999972,
     "sceneSn": 273,
     "position": [
-      96.419,
-      12.56,
-      134.68
+      0
     ],
     "direction": 10,
     "cinemaXY": [
-      8.2808,
-      0.5831
+      0
     ],
     "cinemaZ": ""
   },
@@ -907,14 +2139,11 @@
     "sn": 999973,
     "sceneSn": 273,
     "position": [
-      99.509,
-      12.56,
-      130.86
+      0
     ],
     "direction": 268,
     "cinemaXY": [
-      -111.194382,
-      0.707609057
+      0
     ],
     "cinemaZ": ""
   },
@@ -922,14 +2151,11 @@
     "sn": 999974,
     "sceneSn": 273,
     "position": [
-      106.61,
-      12.579,
-      153.74
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      -157.1822,
-      0.3863
+      0
     ],
     "cinemaZ": ""
   },
@@ -937,14 +2163,11 @@
     "sn": 999975,
     "sceneSn": 273,
     "position": [
-      103.1397,
-      12.56,
-      139.9535
+      0
     ],
     "direction": -153.9903,
     "cinemaXY": [
-      -146.1609,
-      0.48
+      0
     ],
     "cinemaZ": ""
   },
@@ -960,11 +2183,9 @@
     "sn": 999977,
     "sceneSn": 8300,
     "position": [
-      139.46,
-      28.9,
-      406.81
+      0
     ],
-    "direction": 162.434,
+    "direction": 162,
     "cinemaXY": [],
     "cinemaZ": ""
   },
@@ -972,14 +2193,11 @@
     "sn": 999978,
     "sceneSn": 273,
     "position": [
-      101.39,
-      12.63,
-      142.29
+      0
     ],
     "direction": 178.1,
     "cinemaXY": [
-      178.1001,
-      0.6846
+      0
     ],
     "cinemaZ": ""
   },
@@ -995,14 +2213,11 @@
     "sn": 999980,
     "sceneSn": 281,
     "position": [
-      51.989,
-      99.62,
-      96.187
+      0
     ],
     "direction": 175.6,
     "cinemaXY": [
-      170.2789,
-      0.6237
+      0
     ],
     "cinemaZ": ""
   },
@@ -1026,14 +2241,11 @@
     "sn": 999983,
     "sceneSn": 281,
     "position": [
-      62.109,
-      99.715,
-      51.883
+      0
     ],
     "direction": -10.99268,
     "cinemaXY": [
-      -21.596,
-      0.46
+      0
     ],
     "cinemaZ": ""
   },
@@ -1065,14 +2277,11 @@
     "sn": 999987,
     "sceneSn": 268,
     "position": [
-      95.775,
-      14.83995,
-      101.92
+      0
     ],
     "direction": 87.02249,
     "cinemaXY": [
-      -128.7097,
-      0.4127
+      0
     ],
     "cinemaZ": ""
   },
@@ -1098,8 +2307,7 @@
     "position": [],
     "direction": 0,
     "cinemaXY": [
-      0.6189,
-      0.5669
+      0
     ],
     "cinemaZ": ""
   },
@@ -1115,14 +2323,11 @@
     "sn": 999992,
     "sceneSn": 4001,
     "position": [
-      171.79,
-      16.599,
-      120.0659
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      -0.5348,
-      0.39
+      0
     ],
     "cinemaZ": ""
   },
@@ -1130,14 +2335,11 @@
     "sn": 999993,
     "sceneSn": 268,
     "position": [
-      100.9,
-      14.83995,
-      106.93
+      0
     ],
     "direction": 183.176,
     "cinemaXY": [
-      -178.3728,
-      0.6659
+      0
     ],
     "cinemaZ": ""
   },
@@ -1147,8 +2349,7 @@
     "position": [],
     "direction": 0,
     "cinemaXY": [
-      89.7716,
-      0.6484
+      0
     ],
     "cinemaZ": ""
   },
@@ -1156,9 +2357,7 @@
     "sn": 999995,
     "sceneSn": 11,
     "position": [
-      5.296,
-      0.535156,
-      6.644
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
@@ -1167,12 +2366,8 @@
   {
     "sn": 999996,
     "sceneSn": 999993,
-    "position": [
-      38.237,
-      10.013,
-      43.974
-    ],
-    "direction": 166.779,
+    "position": [],
+    "direction": 0,
     "cinemaXY": [],
     "cinemaZ": ""
   },
@@ -1180,26 +2375,19 @@
     "sn": 999997,
     "sceneSn": 2102,
     "position": [
-      199.14,
-      99.56,
-      361.19
+      0
     ],
     "direction": -1.679901,
     "cinemaXY": [
-      4.5428,
-      0.5732
+      0
     ],
     "cinemaZ": ""
   },
   {
     "sn": 999998,
     "sceneSn": 999993,
-    "position": [
-      38.237,
-      10.013,
-      43.974
-    ],
-    "direction": 166.779,
+    "position": [],
+    "direction": 0,
     "cinemaXY": [],
     "cinemaZ": ""
   },
@@ -1215,9 +2403,7 @@
     "sn": 2102001,
     "sceneSn": 2102,
     "position": [
-      209.01,
-      99.56,
-      334.48
+      0
     ],
     "direction": 142.75,
     "cinemaXY": [],
@@ -1227,9 +2413,7 @@
     "sn": 2102002,
     "sceneSn": 2102,
     "position": [
-      255.6,
-      99.56,
-      279.4
+      0
     ],
     "direction": 142.75,
     "cinemaXY": [],
@@ -1239,14 +2423,11 @@
     "sn": 2102003,
     "sceneSn": 2102,
     "position": [
-      293.01,
-      99.58,
-      250.53
+      0
     ],
-    "direction": -38.55847,
+    "direction": -38.5584,
     "cinemaXY": [
-      -36.4732,
-      0.618
+      0
     ],
     "cinemaZ": ""
   },
@@ -1254,9 +2435,7 @@
     "sn": 2102004,
     "sceneSn": 2102,
     "position": [
-      284.74,
-      99.56,
-      236.64
+      0
     ],
     "direction": -125.87,
     "cinemaXY": [],
@@ -1266,35 +2445,33 @@
     "sn": 2102005,
     "sceneSn": 2102,
     "position": [
-      270.55,
-      99.56,
-      254.83
+      0
     ],
-    "direction": -125.87,
-    "cinemaXY": [],
+    "direction": -128,
+    "cinemaXY": [
+      0
+    ],
     "cinemaZ": ""
   },
   {
     "sn": 2102006,
     "sceneSn": 2102,
     "position": [
-      289.22,
-      99.56,
-      233.21
+      0
     ],
-    "direction": 59.87,
-    "cinemaXY": [],
+    "direction": 66.43223,
+    "cinemaXY": [
+      0
+    ],
     "cinemaZ": ""
   },
   {
     "sn": 2102007,
     "sceneSn": 2102,
     "position": [
-      299.4,
-      99.56,
-      215.71
+      0
     ],
-    "direction": 144.76,
+    "direction": 140,
     "cinemaXY": [],
     "cinemaZ": ""
   },
@@ -1302,9 +2479,7 @@
     "sn": 2102008,
     "sceneSn": 2102,
     "position": [
-      209.81,
-      99.55,
-      359.88
+      0
     ],
     "direction": 172.93,
     "cinemaXY": [],
@@ -1314,21 +2489,19 @@
     "sn": 2102009,
     "sceneSn": 2102,
     "position": [
-      217.48,
-      99.56,
-      339.73
+      0
     ],
-    "direction": 89.66,
-    "cinemaXY": [],
+    "direction": 100,
+    "cinemaXY": [
+      0
+    ],
     "cinemaZ": ""
   },
   {
     "sn": 2102010,
     "sceneSn": 2102,
     "position": [
-      291.6,
-      99.56,
-      235.74
+      0
     ],
     "direction": 53,
     "cinemaXY": [],
@@ -1338,14 +2511,11 @@
     "sn": 2102011,
     "sceneSn": 2102,
     "position": [
-      293.03,
-      99.583,
-      231.01
+      0
     ],
     "direction": -50.72,
     "cinemaXY": [
-      -34.42081,
-      0.8050533
+      0
     ],
     "cinemaZ": ""
   },
@@ -1353,9 +2523,7 @@
     "sn": 2102012,
     "sceneSn": 2102,
     "position": [
-      187.61,
-      99.57,
-      367.03
+      0
     ],
     "direction": 128.3262,
     "cinemaXY": [],
@@ -1365,14 +2533,11 @@
     "sn": 2102013,
     "sceneSn": 2102,
     "position": [
-      278.61,
-      99.553,
-      242.19
+      0
     ],
     "direction": -32.61368,
     "cinemaXY": [
-      -34.42081,
-      0.8050533
+      0
     ],
     "cinemaZ": ""
   },
@@ -1380,14 +2545,11 @@
     "sn": 2102014,
     "sceneSn": 2102,
     "position": [
-      290.04,
-      99.572,
-      229.95
+      0
     ],
     "direction": -32.61368,
     "cinemaXY": [
-      -34.42081,
-      0.8050533
+      0
     ],
     "cinemaZ": ""
   },
@@ -1395,9 +2557,7 @@
     "sn": 2102015,
     "sceneSn": 2102,
     "position": [
-      256.3,
-      99.553,
-      278.93
+      0
     ],
     "direction": 151.1465,
     "cinemaXY": [],
@@ -1407,9 +2567,7 @@
     "sn": 2102016,
     "sceneSn": 2102,
     "position": [
-      300.92,
-      99.553,
-      228.51
+      0
     ],
     "direction": 6.608909,
     "cinemaXY": [],
@@ -1419,9 +2577,7 @@
     "sn": 2102017,
     "sceneSn": 2102,
     "position": [
-      274.64,
-      99.553,
-      240.23
+      0
     ],
     "direction": 6.608909,
     "cinemaXY": [],
@@ -1431,9 +2587,7 @@
     "sn": 2102018,
     "sceneSn": 2102,
     "position": [
-      298.3,
-      99.553,
-      283.03
+      0
     ],
     "direction": -173.6648,
     "cinemaXY": [],
@@ -1443,13 +2597,10 @@
     "sn": 2102019,
     "sceneSn": 2102,
     "position": [
-      190.84,
-      99.56,
-      367.22
+      0
     ],
     "direction": 103.4829,
     "cinemaXY": [
-      0,
       0
     ],
     "cinemaZ": ""
@@ -1458,26 +2609,23 @@
     "sn": 2102020,
     "sceneSn": 2102,
     "position": [
-      201.78,
-      99.56,
-      342.75
+      0
     ],
-    "direction": -21.78018,
-    "cinemaXY": [],
+    "direction": 26,
+    "cinemaXY": [
+      0
+    ],
     "cinemaZ": ""
   },
   {
     "sn": 2102021,
     "sceneSn": 2102,
     "position": [
-      256.9031,
-      99.55393,
-      279.6531
+      0
     ],
     "direction": -21.18442,
     "cinemaXY": [
-      -21.07965,
-      0.4241496
+      0
     ],
     "cinemaZ": ""
   },
@@ -1485,14 +2633,11 @@
     "sn": 2102022,
     "sceneSn": 2102,
     "position": [
-      213.8,
-      99.553,
-      355
+      0
     ],
     "direction": -87.5957,
     "cinemaXY": [
-      -86.16696,
-      0.694938242
+      0
     ],
     "cinemaZ": ""
   },
@@ -1500,14 +2645,11 @@
     "sn": 2102023,
     "sceneSn": 2102,
     "position": [
-      263.67,
-      99.56,
-      266.6
+      0
     ],
     "direction": 57.1,
     "cinemaXY": [
-      57.34357,
-      0.6054457
+      0
     ],
     "cinemaZ": ""
   },
@@ -1515,14 +2657,11 @@
     "sn": 2102024,
     "sceneSn": 2102,
     "position": [
-      267.06,
-      99.56,
-      261.99
+      0
     ],
     "direction": 58.56,
     "cinemaXY": [
-      58.41347,
-      0.5575514
+      0
     ],
     "cinemaZ": ""
   },
@@ -1530,14 +2669,11 @@
     "sn": 2102025,
     "sceneSn": 2102,
     "position": [
-      272.92,
-      99.56,
-      255.47
+      0
     ],
     "direction": 48.32829,
     "cinemaXY": [
-      48.32816,
-      0.5852834
+      0
     ],
     "cinemaZ": ""
   },
@@ -1545,14 +2681,11 @@
     "sn": 2102026,
     "sceneSn": 2102,
     "position": [
-      291.8,
-      99.56,
-      224.41
+      0
     ],
     "direction": -123.05,
     "cinemaXY": [
-      -122.6788,
-      0.5923622
+      0
     ],
     "cinemaZ": ""
   },
@@ -1560,14 +2693,11 @@
     "sn": 2102027,
     "sceneSn": 2102,
     "position": [
-      267.82,
-      99.56,
-      234.84
+      0
     ],
-    "direction": 120.822,
+    "direction": -154,
     "cinemaXY": [
-      152.6987304,
-      0.59505
+      0
     ],
     "cinemaZ": ""
   },
@@ -1575,14 +2705,11 @@
     "sn": 2102028,
     "sceneSn": 2102,
     "position": [
-      270.34,
-      99.552,
-      259.25
+      0
     ],
     "direction": 58,
     "cinemaXY": [
-      53.4138,
-      0.590395
+      0
     ],
     "cinemaZ": ""
   },
@@ -1590,14 +2717,59 @@
     "sn": 2102029,
     "sceneSn": 2102,
     "position": [
-      287.015,
-      99.55,
-      257.247
+      0
     ],
     "direction": 53.72765,
     "cinemaXY": [
-      68.42,
-      0.643
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102030,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 132,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102031,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 14.37,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102032,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 262.61,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102040,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 249.14,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -1605,14 +2777,11 @@
     "sn": 2102101,
     "sceneSn": 2102,
     "position": [
-      260.1,
-      99.56,
-      321.14
+      0
     ],
     "direction": 100.3878,
     "cinemaXY": [
-      116.7766,
-      0.6585869
+      0
     ],
     "cinemaZ": ""
   },
@@ -1620,14 +2789,11 @@
     "sn": 2102102,
     "sceneSn": 2102,
     "position": [
-      249.39,
-      99.56,
-      288.46
+      0
     ],
     "direction": 126.08,
     "cinemaXY": [
-      126.0764,
-      0.5833133
+      0
     ],
     "cinemaZ": ""
   },
@@ -1635,14 +2801,11 @@
     "sn": 2102103,
     "sceneSn": 2102,
     "position": [
-      236.57,
-      99.56,
-      279.61
+      0
     ],
     "direction": 103.665,
     "cinemaXY": [
-      99.8396,
-      0.6200351
+      0
     ],
     "cinemaZ": ""
   },
@@ -1650,14 +2813,11 @@
     "sn": 2102104,
     "sceneSn": 2102,
     "position": [
-      214.3344,
-      99.56,
-      322.0897
+      0
     ],
     "direction": -3.587738,
     "cinemaXY": [
-      3.657913,
-      0.6627474
+      0
     ],
     "cinemaZ": ""
   },
@@ -1665,14 +2825,11 @@
     "sn": 2102105,
     "sceneSn": 2102,
     "position": [
-      237.7753,
-      99.56,
-      279.2962
+      0
     ],
     "direction": 111.4478,
     "cinemaXY": [
-      109.886,
-      0.6154879
+      0
     ],
     "cinemaZ": ""
   },
@@ -1680,14 +2837,11 @@
     "sn": 2102106,
     "sceneSn": 2102,
     "position": [
-      212.4594,
-      99.56,
-      298.9572
+      0
     ],
     "direction": -38.9657,
     "cinemaXY": [
-      -38.96552,
-      0.6353559
+      0
     ],
     "cinemaZ": ""
   },
@@ -1695,14 +2849,11 @@
     "sn": 2102107,
     "sceneSn": 2102,
     "position": [
-      220.3088,
-      99.56,
-      323.9471
+      0
     ],
     "direction": -36.3017,
     "cinemaXY": [
-      -36.30139,
-      0.6782867
+      0
     ],
     "cinemaZ": ""
   },
@@ -1710,14 +2861,11 @@
     "sn": 2102108,
     "sceneSn": 2102,
     "position": [
-      266.3916,
-      99.56,
-      314.008
+      0
     ],
     "direction": -20.76718,
     "cinemaXY": [
-      -20.52376,
-      0.6546261
+      0
     ],
     "cinemaZ": ""
   },
@@ -1725,14 +2873,11 @@
     "sn": 2102109,
     "sceneSn": 2102,
     "position": [
-      259.3154,
-      99.56,
-      288.4662
+      0
     ],
     "direction": 175.8265,
     "cinemaXY": [
-      175.8246,
-      0.5638768
+      0
     ],
     "cinemaZ": ""
   },
@@ -1740,24 +2885,101 @@
     "sn": 2102110,
     "sceneSn": 2102,
     "position": [
-      223.5755,
-      99.56,
-      328.5073
+      0
     ],
     "direction": -79.06305,
     "cinemaXY": [
-      -77.96,
-      0.5974186
+      0
     ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102111,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102112,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102113,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102114,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102115,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 72,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102116,
+    "sceneSn": 2102,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2103001,
+    "sceneSn": 2103,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
     "cinemaZ": ""
   },
   {
     "sn": 2108001,
     "sceneSn": 2108,
     "position": [
-      0.916,
-      0.229,
-      -5.27
+      0
     ],
     "direction": 0,
     "cinemaXY": [],
@@ -1767,14 +2989,11 @@
     "sn": 2110001,
     "sceneSn": 2110,
     "position": [
-      209.01,
-      99.56,
-      334.48
+      0
     ],
     "direction": 142.75,
     "cinemaXY": [
-      139.6802,
-      0.4799111
+      0
     ],
     "cinemaZ": ""
   },
@@ -1806,14 +3025,11 @@
     "sn": 2129001,
     "sceneSn": 2129,
     "position": [
-      296.9,
-      40.38,
-      126.17
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      -2.014,
-      0.573
+      0
     ],
     "cinemaZ": ""
   },
@@ -1821,14 +3037,11 @@
     "sn": 2129002,
     "sceneSn": 2129,
     "position": [
-      288.94,
-      41.09,
-      126.024
+      0
     ],
-    "direction": 0,
+    "direction": -118,
     "cinemaXY": [
-      -1.3695,
-      0.6753
+      0
     ],
     "cinemaZ": ""
   },
@@ -1836,14 +3049,11 @@
     "sn": 2129003,
     "sceneSn": 2129,
     "position": [
-      288.94,
-      41.09,
-      126.024
+      0
     ],
-    "direction": 0,
+    "direction": -65,
     "cinemaXY": [
-      -1.3695,
-      0.6753
+      0
     ],
     "cinemaZ": ""
   },
@@ -1851,9 +3061,7 @@
     "sn": 2129004,
     "sceneSn": 2129,
     "position": [
-      296.55,
-      40.39,
-      128.26
+      0
     ],
     "direction": 212,
     "cinemaXY": [],
@@ -1863,14 +3071,11 @@
     "sn": 2130001,
     "sceneSn": 2130,
     "position": [
-      313.31,
-      44.68,
-      109.96
+      0
     ],
     "direction": 0.3073862,
     "cinemaXY": [
-      -179.985,
-      0.488
+      0
     ],
     "cinemaZ": ""
   },
@@ -1878,14 +3083,35 @@
     "sn": 2130002,
     "sceneSn": 2130,
     "position": [
-      313.16,
-      44.68,
-      110.14
+      0
     ],
-    "direction": 64,
+    "direction": 44,
     "cinemaXY": [
-      135.754,
-      0.6380217
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2130003,
+    "sceneSn": 2130,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2130004,
+    "sceneSn": 2130,
+    "position": [
+      0
+    ],
+    "direction": -25,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -1901,14 +3127,11 @@
     "sn": 3000001,
     "sceneSn": 271,
     "position": [
-      91.237,
-      14.799,
-      110.24
+      0
     ],
     "direction": 183.176,
     "cinemaXY": [
-      -178.3728,
-      0.6659
+      0
     ],
     "cinemaZ": ""
   },
@@ -1921,17 +3144,22 @@
     "cinemaZ": ""
   },
   {
+    "sn": 3057001,
+    "sceneSn": 3057,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
     "sn": 4000001,
     "sceneSn": 4000,
     "position": [
-      146.7075,
-      18.93917,
-      228.3491
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      1,
-      0.3
+      0
     ],
     "cinemaZ": ""
   },
@@ -1939,14 +3167,11 @@
     "sn": 4000002,
     "sceneSn": 4000,
     "position": [
-      76.916,
-      23.66884,
-      136.48
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      1,
-      0.3
+      0
     ],
     "cinemaZ": ""
   },
@@ -1954,14 +3179,11 @@
     "sn": 4000003,
     "sceneSn": 4000,
     "position": [
-      189.1078,
-      15.09151,
-      136.548
+      0
     ],
     "direction": 180,
     "cinemaXY": [
-      180,
-      0.295
+      0
     ],
     "cinemaZ": ""
   },
@@ -1969,14 +3191,11 @@
     "sn": 4000004,
     "sceneSn": 4000,
     "position": [
-      117.3382,
-      13.37326,
-      55.264
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      1,
-      0.35
+      0
     ],
     "cinemaZ": ""
   },
@@ -1984,14 +3203,11 @@
     "sn": 4001001,
     "sceneSn": 4001,
     "position": [
-      146.7075,
-      18.93917,
-      228.3491
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      1,
-      0.3
+      0
     ],
     "cinemaZ": ""
   },
@@ -1999,14 +3215,11 @@
     "sn": 4001002,
     "sceneSn": 4001,
     "position": [
-      76.916,
-      23.66884,
-      136.48
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      1,
-      0.3
+      0
     ],
     "cinemaZ": ""
   },
@@ -2014,14 +3227,11 @@
     "sn": 4001003,
     "sceneSn": 4001,
     "position": [
-      189.1078,
-      15.09151,
-      136.548
+      0
     ],
     "direction": 180,
     "cinemaXY": [
-      180,
-      0.295
+      0
     ],
     "cinemaZ": ""
   },
@@ -2029,15 +3239,240 @@
     "sn": 4001004,
     "sceneSn": 4001,
     "position": [
-      117.3382,
-      13.37326,
-      55.264
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      1,
-      0.35
+      0
     ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4002001,
+    "sceneSn": 40020,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4103301,
+    "sceneSn": 41033,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4104101,
+    "sceneSn": 41041,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4104102,
+    "sceneSn": 41041,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4104301,
+    "sceneSn": 41043,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4105101,
+    "sceneSn": 41051,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4105201,
+    "sceneSn": 41052,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4105202,
+    "sceneSn": 41052,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4105301,
+    "sceneSn": 41053,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4105302,
+    "sceneSn": 41053,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4105303,
+    "sceneSn": 41053,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4105304,
+    "sceneSn": 41053,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4106101,
+    "sceneSn": 41061,
+    "position": [
+      0
+    ],
+    "direction": 139,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4106102,
+    "sceneSn": 41061,
+    "position": [
+      0
+    ],
+    "direction": -8.5,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4107101,
+    "sceneSn": 41071,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4107102,
+    "sceneSn": 41071,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4107201,
+    "sceneSn": 41072,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4113101,
+    "sceneSn": 41131,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4114201,
+    "sceneSn": 41142,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4114202,
+    "sceneSn": 41142,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4114203,
+    "sceneSn": 41142,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4114204,
+    "sceneSn": 41142,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
     "cinemaZ": ""
   },
   {
@@ -2057,208 +3492,22 @@
     "cinemaZ": ""
   },
   {
-    "sn": 5500000,
-    "sceneSn": 5500,
+    "sn": 5011000,
+    "sceneSn": 5011,
     "position": [],
     "direction": 0,
-    "cinemaXY": [
-      0,
-      0.5
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5500001,
-    "sceneSn": 5500,
-    "position": [
-      194.9503,
-      43.28,
-      87.85245
-    ],
-    "direction": 0,
-    "cinemaXY": [
-      -0.033,
-      0.707
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5500002,
-    "sceneSn": 5500,
-    "position": [
-      195.5692,
-      43.17,
-      213.7621
-    ],
-    "direction": 90,
-    "cinemaXY": [
-      93.36707,
-      0.5419554
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5500003,
-    "sceneSn": 5500,
-    "position": [
-      294.1346,
-      49.27,
-      150.0291
-    ],
-    "direction": 90,
-    "cinemaXY": [
-      90,
-      0.6
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5500004,
-    "sceneSn": 5500,
-    "position": [
-      163.0863,
-      43.13,
-      117.3926
-    ],
-    "direction": 180,
-    "cinemaXY": [
-      -180,
-      0.69
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5500005,
-    "sceneSn": 5500,
-    "position": [
-      292.4592,
-      43.14,
-      341.0421
-    ],
-    "direction": 90,
-    "cinemaXY": [
-      91.27997,
-      0.4916
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5500007,
-    "sceneSn": 5500,
-    "position": [
-      259.4438,
-      46.28,
-      150.4149
-    ],
-    "direction": 90,
-    "cinemaXY": [
-      90,
-      0.5
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5500008,
-    "sceneSn": 5500,
-    "position": [
-      130.0396,
-      40.13,
-      149.9295
-    ],
-    "direction": 270,
-    "cinemaXY": [
-      -90.07,
-      0.587
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5500009,
-    "sceneSn": 5500,
-    "position": [
-      259.3075,
-      46.14,
-      309.8015
-    ],
-    "direction": 0,
-    "cinemaXY": [
-      0.5518,
-      0.6245
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5500010,
-    "sceneSn": 5500,
-    "position": [
-      259.2131,
-      49.2,
-      437.3836
-    ],
-    "direction": 0,
-    "cinemaXY": [
-      -0.6694,
-      0.4156
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5500011,
-    "sceneSn": 5500,
-    "position": [
-      97.027,
-      36.97,
-      405.1103
-    ],
-    "direction": 270,
-    "cinemaXY": [
-      -91,
-      0.42
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5502001,
-    "sceneSn": 5502,
-    "position": [
-      583.8933,
-      40.34747,
-      198.4972
-    ],
-    "direction": 0,
-    "cinemaXY": [
-      -0.033,
-      0.707
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5502002,
-    "sceneSn": 5502,
-    "position": [
-      648.077,
-      52.24057,
-      423.5374
-    ],
-    "direction": 0,
-    "cinemaXY": [
-      1.323,
-      0.66
-    ],
+    "cinemaXY": [],
     "cinemaZ": ""
   },
   {
     "sn": 5502003,
     "sceneSn": 5502,
     "position": [
-      584.325,
-      46.783,
-      296.48
+      0
     ],
     "direction": 90,
     "cinemaXY": [
-      90,
-      0.6
+      0
     ],
     "cinemaZ": ""
   },
@@ -2266,14 +3515,11 @@
     "sn": 5502004,
     "sceneSn": 5502,
     "position": [
-      551.82,
-      58.255,
-      713.33
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      0.5518,
-      0.6245
+      0
     ],
     "cinemaZ": ""
   },
@@ -2281,29 +3527,11 @@
     "sn": 5502005,
     "sceneSn": 5502,
     "position": [
-      584.2043,
-      40.3866,
-      169.6544
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      -0.2801,
-      0.2773
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5502006,
-    "sceneSn": 5502,
-    "position": [
-      456.3838,
-      61.23056,
-      711.9171
-    ],
-    "direction": 0,
-    "cinemaXY": [
-      -2.847,
-      0.66
+      0
     ],
     "cinemaZ": ""
   },
@@ -2311,44 +3539,11 @@
     "sn": 5502007,
     "sceneSn": 5502,
     "position": [
-      711.8699,
-      49.22077,
-      511.72
+      0
     ],
-    "direction": 0,
+    "direction": 90,
     "cinemaXY": [
-      0.4058,
-      0.673845
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5502008,
-    "sceneSn": 5502,
-    "position": [
-      520.0399,
-      40.23077,
-      418.76
-    ],
-    "direction": 0,
-    "cinemaXY": [
-      0.5518,
-      0.6245
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5502009,
-    "sceneSn": 5502,
-    "position": [
-      359.97,
-      64.22077,
-      835.01
-    ],
-    "direction": 0,
-    "cinemaXY": [
-      0.5518,
-      0.6245
+      0
     ],
     "cinemaZ": ""
   },
@@ -2356,29 +3551,11 @@
     "sn": 5502010,
     "sceneSn": 5502,
     "position": [
-      808.3,
-      61.63,
-      905.29
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      1.2461,
-      0.7432
-    ],
-    "cinemaZ": ""
-  },
-  {
-    "sn": 5502011,
-    "sceneSn": 5502,
-    "position": [
-      807.8815,
-      64.292,
-      715.9642
-    ],
-    "direction": 0,
-    "cinemaXY": [
-      0.8125,
-      0.66
+      0
     ],
     "cinemaZ": ""
   },
@@ -2386,14 +3563,11 @@
     "sn": 5502012,
     "sceneSn": 5502,
     "position": [
-      689.21,
-      58.19,
-      712.99
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -91,
-      0.42
+      0
     ],
     "cinemaZ": ""
   },
@@ -2401,14 +3575,47 @@
     "sn": 5502013,
     "sceneSn": 5502,
     "position": [
-      928.81,
-      67.2,
-      681.08
+      0
     ],
     "direction": 90,
     "cinemaXY": [
-      91,
-      0.42
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5502202,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5502209,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5502220,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2416,23 +3623,1620 @@
     "sn": 5502300,
     "sceneSn": 5502,
     "position": [
-      719.8868,
-      43.23,
-      295.8869
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      0,
-      0.8951
+      0
     ],
     "cinemaZ": ""
   },
   {
-    "sn": 5600000,
-    "sceneSn": 5600,
-    "position": [],
+    "sn": 5502301,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5502400,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
     "direction": 0,
-    "cinemaXY": [],
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5502401,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5502402,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5502403,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5502500,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504001,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504002,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504003,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504004,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504008,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504009,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504010,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504011,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504012,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504052,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504204,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504300,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505001,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505002,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505006,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505009,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505010,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505011,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505012,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505017,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505018,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505019,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505025,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505026,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505201,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5505300,
+    "sceneSn": 5505,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506001,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506002,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506003,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506004,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506005,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506006,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506007,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506008,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506009,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506018,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506021,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506026,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506027,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506028,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506029,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506201,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506300,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5506301,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5509006,
+    "sceneSn": 5509,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5509007,
+    "sceneSn": 5509,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510001,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510002,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510008,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510009,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510010,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510011,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510017,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510018,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510019,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510022,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510201,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510300,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510301,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5510302,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511001,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511002,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511003,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511004,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511005,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511013,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511014,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511015,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511016,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511201,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5511300,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512001,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512002,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512003,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512004,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512013,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512014,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512017,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512020,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512021,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512022,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512023,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512201,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5512300,
+    "sceneSn": 5512,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513001,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513002,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513003,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513004,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513005,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513006,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513016,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513017,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513018,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513019,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513201,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5513300,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514001,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514002,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514003,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514004,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514005,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514006,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514016,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514017,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514018,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514019,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5514300,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5519006,
+    "sceneSn": 5519,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5519007,
+    "sceneSn": 5519,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5520001,
+    "sceneSn": 5520,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5520002,
+    "sceneSn": 5520,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5520010,
+    "sceneSn": 5520,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5520011,
+    "sceneSn": 5520,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5520012,
+    "sceneSn": 5520,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5520019,
+    "sceneSn": 5520,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5520020,
+    "sceneSn": 5520,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5520021,
+    "sceneSn": 5520,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5600001,
+    "sceneSn": 5600,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5601001,
+    "sceneSn": 5601,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5602001,
+    "sceneSn": 5602,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5603001,
+    "sceneSn": 5603,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5604001,
+    "sceneSn": 5604,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5605001,
+    "sceneSn": 5605,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5606001,
+    "sceneSn": 5606,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5607001,
+    "sceneSn": 5607,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5608001,
+    "sceneSn": 5608,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5609001,
+    "sceneSn": 5609,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5610000,
+    "sceneSn": 20001,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
     "cinemaZ": ""
   },
   {
@@ -2463,14 +5267,11 @@
     "sn": 8003001,
     "sceneSn": 8003,
     "position": [
-      17.39,
-      5.63,
-      38.62
+      0
     ],
     "direction": 93.8,
     "cinemaXY": [
-      92,
-      0.2
+      0
     ],
     "cinemaZ": ""
   },
@@ -2478,14 +5279,23 @@
     "sn": 8301000,
     "sceneSn": 8301,
     "position": [
-      55.34,
-      0.0599,
-      79.879
+      0
     ],
     "direction": 90,
     "cinemaXY": [
-      63.43,
-      0.4
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8301001,
+    "sceneSn": 8301,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2493,14 +5303,11 @@
     "sn": 8301005,
     "sceneSn": 8301,
     "position": [
-      78.35,
-      0.01,
-      82.76
+      0
     ],
     "direction": 180,
     "cinemaXY": [
-      -180,
-      0.42
+      0
     ],
     "cinemaZ": ""
   },
@@ -2508,14 +5315,107 @@
     "sn": 8301006,
     "sceneSn": 8301,
     "position": [
-      179.86,
-      0.02,
-      53.62
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      0,
-      0.38
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8301010,
+    "sceneSn": 8301,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8301015,
+    "sceneSn": 8301,
+    "position": [
+      0
+    ],
+    "direction": 45,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8302001,
+    "sceneSn": 8302,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8302002,
+    "sceneSn": 8302,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8302003,
+    "sceneSn": 8302,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8303001,
+    "sceneSn": 8303,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8303002,
+    "sceneSn": 8303,
+    "position": [
+      0
+    ],
+    "direction": 250,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8303020,
+    "sceneSn": 8303,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2523,14 +5423,11 @@
     "sn": 8304000,
     "sceneSn": 8304,
     "position": [
-      207.69,
-      19.858,
-      10.032
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -90,
-      0.5
+      0
     ],
     "cinemaZ": ""
   },
@@ -2538,14 +5435,35 @@
     "sn": 8304001,
     "sceneSn": 8304,
     "position": [
-      201.32,
-      19.85,
-      11.01
+      0
     ],
     "direction": 90,
     "cinemaXY": [
-      90,
-      0.35
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8304002,
+    "sceneSn": 8304,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8304003,
+    "sceneSn": 8304,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2553,14 +5471,11 @@
     "sn": 8304020,
     "sceneSn": 8304,
     "position": [
-      204.55,
-      19.9892,
-      18.217
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      1.84,
-      0.38
+      0
     ],
     "cinemaZ": ""
   },
@@ -2568,14 +5483,23 @@
     "sn": 8306001,
     "sceneSn": 8306,
     "position": [
-      229.54,
-      0,
-      88.041
+      0
     ],
     "direction": 180,
     "cinemaXY": [
-      -180,
-      0.38
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8306002,
+    "sceneSn": 8306,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2583,14 +5507,11 @@
     "sn": 8306014,
     "sceneSn": 8306,
     "position": [
-      342.54,
-      -0.019,
-      77.65
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -90,
-      0.35
+      0
     ],
     "cinemaZ": ""
   },
@@ -2598,14 +5519,11 @@
     "sn": 8306020,
     "sceneSn": 8306,
     "position": [
-      318.8907,
-      0.01030367,
-      43.905
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -86.63,
-      0.322
+      0
     ],
     "cinemaZ": ""
   },
@@ -2613,14 +5531,11 @@
     "sn": 8307990,
     "sceneSn": 8307,
     "position": [
-      229.169,
-      0.01,
-      90.708
+      0
     ],
     "direction": 180,
     "cinemaXY": [
-      30.3,
-      0.47
+      0
     ],
     "cinemaZ": ""
   },
@@ -2628,14 +5543,11 @@
     "sn": 8307991,
     "sceneSn": 8307,
     "position": [
-      310.5601,
-      0.0460673,
-      33.153
+      0
     ],
     "direction": 90,
     "cinemaXY": [
-      30.3,
-      0.47
+      0
     ],
     "cinemaZ": ""
   },
@@ -2643,14 +5555,185 @@
     "sn": 8307992,
     "sceneSn": 8307,
     "position": [
-      394.75,
-      0.01999975,
-      100.887
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      30.3,
-      0.47
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8311000,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8311001,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": -135,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8311002,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8311003,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8311004,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8311005,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8311010,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8311011,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": -135,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8311171,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": -0.6862183,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8312000,
+    "sceneSn": 8312,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8312001,
+    "sceneSn": 8312,
+    "position": [
+      0
+    ],
+    "direction": 45,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8312002,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": -45,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8312122,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": 80.9408,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8313001,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": -108.9586,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8313002,
+    "sceneSn": 8311,
+    "position": [
+      0
+    ],
+    "direction": 173.6523,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2658,14 +5741,119 @@
     "sn": 8331000,
     "sceneSn": 8331,
     "position": [
-      88.473,
-      1.5,
-      185.46
+      0
     ],
     "direction": 180,
     "cinemaXY": [
-      180,
-      0.388
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8331001,
+    "sceneSn": 8331,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8331002,
+    "sceneSn": 8331,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8331003,
+    "sceneSn": 8331,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8331004,
+    "sceneSn": 8331,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8331005,
+    "sceneSn": 8331,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8331006,
+    "sceneSn": 8331,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8331007,
+    "sceneSn": 8331,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8331008,
+    "sceneSn": 8331,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8331015,
+    "sceneSn": 8331,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2673,14 +5861,11 @@
     "sn": 8331020,
     "sceneSn": 8331,
     "position": [
-      151.0039,
-      5.93,
-      172.1
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      0,
-      0.514
+      0
     ],
     "cinemaZ": ""
   },
@@ -2688,14 +5873,11 @@
     "sn": 8331021,
     "sceneSn": 8331,
     "position": [
-      117.41,
-      1.5,
-      94.782
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -129.64,
-      0.52
+      0
     ],
     "cinemaZ": ""
   },
@@ -2703,14 +5885,11 @@
     "sn": 8331022,
     "sceneSn": 8331,
     "position": [
-      205,
-      1.5099,
-      155.06
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      0,
-      0.38
+      0
     ],
     "cinemaZ": ""
   },
@@ -2718,14 +5897,11 @@
     "sn": 8331101,
     "sceneSn": 8331,
     "position": [
-      86.85,
-      1.5,
-      170.84
+      0
     ],
     "direction": 90,
     "cinemaXY": [
-      90,
-      0.3
+      0
     ],
     "cinemaZ": ""
   },
@@ -2733,14 +5909,11 @@
     "sn": 8331102,
     "sceneSn": 8331,
     "position": [
-      144.7,
-      5.92,
-      174.16
+      0
     ],
     "direction": 90,
     "cinemaXY": [
-      90,
-      0.34
+      0
     ],
     "cinemaZ": ""
   },
@@ -2748,14 +5921,11 @@
     "sn": 8331103,
     "sceneSn": 8331,
     "position": [
-      126.74,
-      1.5,
-      95.52
+      0
     ],
     "direction": 180,
     "cinemaXY": [
-      180,
-      0.48
+      0
     ],
     "cinemaZ": ""
   },
@@ -2763,14 +5933,107 @@
     "sn": 8331104,
     "sceneSn": 8331,
     "position": [
-      199.28,
-      1.4997,
-      98.82
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      0,
-      0.32
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8332001,
+    "sceneSn": 8332,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8332002,
+    "sceneSn": 8332,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8332003,
+    "sceneSn": 8332,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8332004,
+    "sceneSn": 8332,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8332005,
+    "sceneSn": 8332,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8332006,
+    "sceneSn": 8332,
+    "position": [
+      0
+    ],
+    "direction": 295,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8332007,
+    "sceneSn": 8332,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8332008,
+    "sceneSn": 8332,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2778,14 +6041,23 @@
     "sn": 8332020,
     "sceneSn": 8332,
     "position": [
-      152.91,
-      1.5715,
-      126.8
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      0,
-      0.487
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8335000,
+    "sceneSn": 8335,
+    "position": [
+      0
+    ],
+    "direction": -180,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2793,14 +6065,95 @@
     "sn": 8336000,
     "sceneSn": 8336,
     "position": [
-      185.93,
-      9.6,
-      153.66
+      0
     ],
     "direction": 180,
     "cinemaXY": [
-      180,
-      0.323
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8336001,
+    "sceneSn": 8336,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8336002,
+    "sceneSn": 8336,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8336003,
+    "sceneSn": 8336,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8336004,
+    "sceneSn": 8336,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8336005,
+    "sceneSn": 8336,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8336006,
+    "sceneSn": 8336,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8336007,
+    "sceneSn": 8336,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2808,14 +6161,11 @@
     "sn": 8336020,
     "sceneSn": 8336,
     "position": [
-      199.92,
-      9.5,
-      153
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      0,
-      0.3
+      0
     ],
     "cinemaZ": ""
   },
@@ -2823,14 +6173,11 @@
     "sn": 8336021,
     "sceneSn": 8336,
     "position": [
-      199.02,
-      9.6,
-      91.29
+      0
     ],
     "direction": -53,
     "cinemaXY": [
-      -53,
-      0.39
+      0
     ],
     "cinemaZ": ""
   },
@@ -2838,14 +6185,11 @@
     "sn": 8336022,
     "sceneSn": 8336,
     "position": [
-      105.1835,
-      9.6,
-      185.0141
+      0
     ],
     "direction": -132,
     "cinemaXY": [
-      -132,
-      0.35
+      0
     ],
     "cinemaZ": ""
   },
@@ -2853,14 +6197,11 @@
     "sn": 8336023,
     "sceneSn": 8336,
     "position": [
-      66.2041,
-      9.56072,
-      144.723
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      270,
-      0.46
+      0
     ],
     "cinemaZ": ""
   },
@@ -2868,14 +6209,35 @@
     "sn": 8336024,
     "sceneSn": 8336,
     "position": [
-      74.33189,
-      9.59,
-      91.11583
+      0
     ],
     "direction": -40,
     "cinemaXY": [
-      -40,
-      0.37
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8336028,
+    "sceneSn": 8336,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8336030,
+    "sceneSn": 8336,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2883,14 +6245,11 @@
     "sn": 8336101,
     "sceneSn": 8336,
     "position": [
-      184.67,
-      9.6,
-      153.63
+      0
     ],
     "direction": 90,
     "cinemaXY": [
-      90,
-      0.33
+      0
     ],
     "cinemaZ": ""
   },
@@ -2898,14 +6257,11 @@
     "sn": 8336102,
     "sceneSn": 8336,
     "position": [
-      119.8,
-      9.6,
-      154.07
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -90,
-      0.42
+      0
     ],
     "cinemaZ": ""
   },
@@ -2913,14 +6269,11 @@
     "sn": 8336103,
     "sceneSn": 8336,
     "position": [
-      160.34,
-      9.5997,
-      110.23
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -90,
-      0.5
+      0
     ],
     "cinemaZ": ""
   },
@@ -2928,14 +6281,11 @@
     "sn": 8336104,
     "sceneSn": 8336,
     "position": [
-      109.32,
-      9.6157,
-      80.928
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -90,
-      0.36
+      0
     ],
     "cinemaZ": ""
   },
@@ -2943,14 +6293,59 @@
     "sn": 8341000,
     "sceneSn": 8341,
     "position": [
-      153.2,
-      15.899,
-      124.27
+      0
     ],
     "direction": 0,
     "cinemaXY": [
-      0,
-      0.5
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8341001,
+    "sceneSn": 8341,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8341002,
+    "sceneSn": 8341,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8342001,
+    "sceneSn": 8342,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8342002,
+    "sceneSn": 8342,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -2958,14 +6353,11 @@
     "sn": 8342020,
     "sceneSn": 8342,
     "position": [
-      143.6194,
-      15.86,
-      101.211
+      0
     ],
     "direction": 270,
     "cinemaXY": [
-      -80,
-      0.47
+      0
     ],
     "cinemaZ": ""
   },
@@ -2973,14 +6365,11 @@
     "sn": 8342021,
     "sceneSn": 8342,
     "position": [
-      172.4665,
-      15.9,
-      38.6954
+      0
     ],
     "direction": 51,
     "cinemaXY": [
-      59.5,
-      0.49
+      0
     ],
     "cinemaZ": ""
   },
@@ -2988,14 +6377,11 @@
     "sn": 8342022,
     "sceneSn": 8342,
     "position": [
-      208.5613,
-      15.86,
-      55.82274
+      0
     ],
     "direction": -43,
     "cinemaXY": [
-      -87.75,
-      0.812
+      0
     ],
     "cinemaZ": ""
   },
@@ -3003,14 +6389,93 @@
     "sn": 8342101,
     "sceneSn": 8342,
     "position": [
-      144.21,
-      15.864,
-      110.71
+      0
     ],
     "direction": 90,
     "cinemaXY": [
-      90,
-      0.34
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8350001,
+    "sceneSn": 8350,
+    "position": [
+      0
+    ],
+    "direction": 225,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8350002,
+    "sceneSn": 8350,
+    "position": [
+      0
+    ],
+    "direction": 356,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8350003,
+    "sceneSn": 8350,
+    "position": [
+      0
+    ],
+    "direction": -48,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8350004,
+    "sceneSn": 8350,
+    "position": [
+      0
+    ],
+    "direction": 269,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8351001,
+    "sceneSn": 8351,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8351002,
+    "sceneSn": 8351,
+    "position": [
+      0
+    ],
+    "direction": -146.96,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8353001,
+    "sceneSn": 8353,
+    "position": [
+      0
+    ],
+    "direction": 356,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -3018,14 +6483,33 @@
     "sn": 8355001,
     "sceneSn": 8355,
     "position": [
-      266.89,
-      0,
-      131.27
+      0
     ],
     "direction": -90,
     "cinemaXY": [
-      -88.996,
-      0.4378
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8355002,
+    "sceneSn": 8355,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8355101,
+    "sceneSn": 8355,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
     ],
     "cinemaZ": ""
   },
@@ -3035,6 +6519,2340 @@
     "position": [],
     "direction": 0,
     "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8400001,
+    "sceneSn": 8400,
+    "position": [
+      0
+    ],
+    "direction": 359,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8401001,
+    "sceneSn": 8401,
+    "position": [
+      0
+    ],
+    "direction": 359,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8401002,
+    "sceneSn": 8401,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8401003,
+    "sceneSn": 8401,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8401004,
+    "sceneSn": 8401,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8401005,
+    "sceneSn": 8401,
+    "position": [
+      0
+    ],
+    "direction": -108.23,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8401006,
+    "sceneSn": 8401,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8402001,
+    "sceneSn": 8402,
+    "position": [
+      0
+    ],
+    "direction": 330,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8402002,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 359,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8402003,
+    "sceneSn": 8402,
+    "position": [
+      0
+    ],
+    "direction": 150,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410002,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410003,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410004,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410005,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410006,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410007,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410008,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410009,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410010,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410011,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410012,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8410013,
+    "sceneSn": 8410,
+    "position": [
+      0
+    ],
+    "direction": -161.3654,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420001,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420002,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420003,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420004,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420005,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420006,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420007,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420008,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420009,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420010,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420011,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420012,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420013,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420014,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420015,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420016,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8420017,
+    "sceneSn": 8420,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8421001,
+    "sceneSn": 8421,
+    "position": [
+      0
+    ],
+    "direction": 345,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8421002,
+    "sceneSn": 8421,
+    "position": [
+      0
+    ],
+    "direction": 59.33,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8421003,
+    "sceneSn": 8421,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8421004,
+    "sceneSn": 8421,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440001,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440002,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440003,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440004,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440005,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440006,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440007,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440008,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440009,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440010,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440011,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440012,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440013,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440014,
+    "sceneSn": 8421,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440015,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 350,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440016,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8440017,
+    "sceneSn": 8440,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450001,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450002,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450003,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450004,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450005,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450006,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450007,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450008,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450009,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450010,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450011,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450012,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 141,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8450013,
+    "sceneSn": 8450,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460001,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460002,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460003,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460004,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460005,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460006,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460007,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460008,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460009,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460010,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460011,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460012,
+    "sceneSn": 8461,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460013,
+    "sceneSn": 8461,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460014,
+    "sceneSn": 8462,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460015,
+    "sceneSn": 8462,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460016,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460017,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460018,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460019,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8460020,
+    "sceneSn": 8470,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8461001,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8461002,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8462001,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8462002,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8470001,
+    "sceneSn": 8460,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 20012090,
+    "sceneSn": 20012,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 31000001,
+    "sceneSn": 31000,
+    "position": [
+      0
+    ],
+    "direction": 90.08777,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 31000002,
+    "sceneSn": 31000,
+    "position": [
+      0
+    ],
+    "direction": 135.0607,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 31000003,
+    "sceneSn": 31000,
+    "position": [
+      0
+    ],
+    "direction": 57.00459,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 31000004,
+    "sceneSn": 31000,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 31000005,
+    "sceneSn": 31000,
+    "position": [
+      0
+    ],
+    "direction": 179.1746,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 31000006,
+    "sceneSn": 31000,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 31000007,
+    "sceneSn": 31000,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 33001001,
+    "sceneSn": 33001,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 33001002,
+    "sceneSn": 33001,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 33001003,
+    "sceneSn": 33001,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 33001004,
+    "sceneSn": 33001,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 33001005,
+    "sceneSn": 33001,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 33001006,
+    "sceneSn": 33001,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 33001007,
+    "sceneSn": 33001,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 33001008,
+    "sceneSn": 33001,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001001,
+    "sceneSn": 40002,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001002,
+    "sceneSn": 40008,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001003,
+    "sceneSn": 40001,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001004,
+    "sceneSn": 40016,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001005,
+    "sceneSn": 40010,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001006,
+    "sceneSn": 40009,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001007,
+    "sceneSn": 40003,
+    "position": [
+      0
+    ],
+    "direction": 33,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001008,
+    "sceneSn": 40002,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001009,
+    "sceneSn": 40018,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001010,
+    "sceneSn": 40005,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001011,
+    "sceneSn": 40006,
+    "position": [
+      0
+    ],
+    "direction": -81,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001012,
+    "sceneSn": 40004,
+    "position": [
+      0
+    ],
+    "direction": 165,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001013,
+    "sceneSn": 40003,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001014,
+    "sceneSn": 40003,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001015,
+    "sceneSn": 40007,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001016,
+    "sceneSn": 40003,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001017,
+    "sceneSn": 40005,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001018,
+    "sceneSn": 40002,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001019,
+    "sceneSn": 40019,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001020,
+    "sceneSn": 40009,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001021,
+    "sceneSn": 40002,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001022,
+    "sceneSn": 40008,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001023,
+    "sceneSn": 40011,
+    "position": [
+      0
+    ],
+    "direction": -97,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001024,
+    "sceneSn": 40002,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001025,
+    "sceneSn": 40010,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001026,
+    "sceneSn": 40012,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001027,
+    "sceneSn": 40011,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001028,
+    "sceneSn": 40013,
+    "position": [
+      0
+    ],
+    "direction": -131,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001029,
+    "sceneSn": 40012,
+    "position": [
+      0
+    ],
+    "direction": -62,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001030,
+    "sceneSn": 40014,
+    "position": [
+      0
+    ],
+    "direction": 135,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001031,
+    "sceneSn": 40016,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001032,
+    "sceneSn": 40013,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001033,
+    "sceneSn": 40015,
+    "position": [
+      0
+    ],
+    "direction": 155,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001034,
+    "sceneSn": 40014,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001035,
+    "sceneSn": 40017,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001036,
+    "sceneSn": 40002,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001037,
+    "sceneSn": 40014,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001038,
+    "sceneSn": 40015,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001039,
+    "sceneSn": 40003,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001040,
+    "sceneSn": 40008,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41011002,
+    "sceneSn": 41012,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41011003,
+    "sceneSn": 41011,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41031006,
+    "sceneSn": 41032,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41032004,
+    "sceneSn": 41031,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41032005,
+    "sceneSn": 41033,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41041008,
+    "sceneSn": 41042,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41041009,
+    "sceneSn": 41043,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41041010,
+    "sceneSn": 41041,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41042004,
+    "sceneSn": 41041,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41042005,
+    "sceneSn": 41041,
+    "position": [
+      0
+    ],
+    "direction": -120,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41043016,
+    "sceneSn": 41041,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41043017,
+    "sceneSn": 41044,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41043018,
+    "sceneSn": 41043,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41044002,
+    "sceneSn": 41043,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41081001,
+    "sceneSn": 41081,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41081002,
+    "sceneSn": 41081,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41081003,
+    "sceneSn": 41081,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41092001,
+    "sceneSn": 41092,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41092002,
+    "sceneSn": 41092,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41092003,
+    "sceneSn": 41092,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41092004,
+    "sceneSn": 41092,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41093001,
+    "sceneSn": 41093,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41093002,
+    "sceneSn": 41093,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41094001,
+    "sceneSn": 41094,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41111001,
+    "sceneSn": 41111,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41111002,
+    "sceneSn": 41111,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41112001,
+    "sceneSn": 41112,
+    "position": [
+      0
+    ],
+    "direction": 191,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41112002,
+    "sceneSn": 41112,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41112004,
+    "sceneSn": 41112,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41113001,
+    "sceneSn": 41113,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41113002,
+    "sceneSn": 41113,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41121001,
+    "sceneSn": 41121,
+    "position": [
+      0
+    ],
+    "direction": 190,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41121002,
+    "sceneSn": 41121,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41121003,
+    "sceneSn": 41121,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41131001,
+    "sceneSn": 41131,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41131002,
+    "sceneSn": 41131,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41131003,
+    "sceneSn": 41131,
+    "position": [
+      0
+    ],
+    "direction": -90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41131004,
+    "sceneSn": 41131,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41131005,
+    "sceneSn": 41131,
+    "position": [
+      0
+    ],
+    "direction": -124.504,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41141001,
+    "sceneSn": 41142,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41142002,
+    "sceneSn": 41142,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41150001,
+    "sceneSn": 41164,
+    "position": [
+      0
+    ],
+    "direction": 142.75,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41161001,
+    "sceneSn": 41162,
+    "position": [
+      0
+    ],
+    "direction": -9.4,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41161002,
+    "sceneSn": 41162,
+    "position": [
+      0
+    ],
+    "direction": 47,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41161003,
+    "sceneSn": 41161,
+    "position": [
+      0
+    ],
+    "direction": 7,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41161004,
+    "sceneSn": 41162,
+    "position": [
+      0
+    ],
+    "direction": -180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 41161005,
+    "sceneSn": 41163,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55020070,
+    "sceneSn": 5502,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55040080,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55040110,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55040120,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55040300,
+    "sceneSn": 5504,
+    "position": [
+      0
+    ],
+    "direction": -85.67181,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55060260,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55060270,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55060280,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55060290,
+    "sceneSn": 5506,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55100170,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55100180,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55100190,
+    "sceneSn": 5510,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55110130,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55110140,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55110150,
+    "sceneSn": 5511,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55130160,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55130170,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55130180,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55130190,
+    "sceneSn": 5513,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55140160,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55140170,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55140180,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 55140190,
+    "sceneSn": 5514,
+    "position": [
+      0
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0
+    ],
     "cinemaZ": ""
   }
 ]

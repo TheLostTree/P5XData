@@ -4,9 +4,7 @@
     "name": "普通地面",
     "englishName": "Normal",
     "color": [
-      245,
-      222,
-      179
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -28,9 +26,7 @@
     "name": "寻路消耗0.1",
     "englishName": "Cost 0.1",
     "color": [
-      220,
-      200,
-      200
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -52,9 +48,7 @@
     "name": "寻路消耗0.2",
     "englishName": "Cost 0.2",
     "color": [
-      220,
-      180,
-      180
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -76,9 +70,7 @@
     "name": "寻路消耗0.4",
     "englishName": "Cost 0.4",
     "color": [
-      220,
-      160,
-      160
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -100,9 +92,7 @@
     "name": "寻路消耗0.6",
     "englishName": "Cost 0.6",
     "color": [
-      220,
-      140,
-      140
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -124,9 +114,7 @@
     "name": "寻路消耗0.8",
     "englishName": "Cost 0.8",
     "color": [
-      220,
-      120,
-      120
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -148,9 +136,7 @@
     "name": "寻路消耗2",
     "englishName": "Cost 2",
     "color": [
-      220,
-      100,
-      100
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -172,9 +158,7 @@
     "name": "寻路消耗4",
     "englishName": "Cost 4",
     "color": [
-      220,
-      80,
-      80
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -196,9 +180,7 @@
     "name": "寻路消耗6",
     "englishName": "Cost 6",
     "color": [
-      220,
-      60,
-      60
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -220,9 +202,7 @@
     "name": "寻路消耗8",
     "englishName": "Cost 8",
     "color": [
-      220,
-      40,
-      40
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -244,9 +224,7 @@
     "name": "寻路消耗10",
     "englishName": "Cost 10",
     "color": [
-      220,
-      20,
-      20
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -268,9 +246,7 @@
     "name": "安全区",
     "englishName": "Safety Zone",
     "color": [
-      211,
-      102,
-      160
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -292,9 +268,7 @@
     "name": "水域",
     "englishName": "Shallow Water",
     "color": [
-      65,
-      105,
-      225
+      0
     ],
     "walk": 0,
     "swim": 1,
@@ -316,9 +290,7 @@
     "name": "草地",
     "englishName": "Grass",
     "color": [
-      107,
-      142,
-      35
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -340,9 +312,7 @@
     "name": "石板",
     "englishName": "Stone",
     "color": [
-      192,
-      192,
-      192
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -364,9 +334,7 @@
     "name": "高草地",
     "englishName": "High Grass",
     "color": [
-      21,
-      108,
-      14
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -388,9 +356,7 @@
     "name": "跳点",
     "englishName": "Jump",
     "color": [
-      0,
-      255,
-      255
+      0
     ],
     "walk": 0,
     "swim": 0,
@@ -412,9 +378,7 @@
     "name": "雪地",
     "englishName": "Snow",
     "color": [
-      255,
-      255,
-      255
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -436,9 +400,7 @@
     "name": "木板",
     "englishName": "Wood",
     "color": [
-      147,
-      115,
-      60
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -460,8 +422,6 @@
     "name": "阻挡1",
     "englishName": "Obstacle 1",
     "color": [
-      0,
-      0,
       0
     ],
     "walk": 1,
@@ -484,9 +444,7 @@
     "name": "阻挡2",
     "englishName": "Obstacle 2",
     "color": [
-      36,
-      36,
-      36
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -508,9 +466,7 @@
     "name": "阻挡3",
     "englishName": "Obstacle 3",
     "color": [
-      72,
-      72,
-      72
+      0
     ],
     "walk": 1,
     "swim": 0,
@@ -532,9 +488,7 @@
     "name": "阻挡4",
     "englishName": "Obstacle 4",
     "color": [
-      108,
-      108,
-      108
+      0
     ],
     "walk": 1,
     "swim": 0,

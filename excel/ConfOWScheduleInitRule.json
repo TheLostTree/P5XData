@@ -6,7 +6,7 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      203
+      0
     ],
     "defaultEvent": []
   },
@@ -17,9 +17,7 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      102,
-      103,
-      104
+      0
     ],
     "defaultEvent": []
   },
@@ -30,11 +28,7 @@
     "scheduleNum": 2,
     "randomRange": [],
     "randomEventGroups": [
-      201,
-      202,
-      204,
-      205,
-      206
+      0
     ],
     "defaultEvent": []
   },
@@ -45,8 +39,7 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      301,
-      302
+      0
     ],
     "defaultEvent": []
   },
@@ -57,11 +50,7 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      601,
-      604,
-      605,
-      608,
-      613
+      0
     ],
     "defaultEvent": []
   },
@@ -72,7 +61,7 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      501
+      0
     ],
     "defaultEvent": []
   },
@@ -82,12 +71,23 @@
     "triggerType": 3,
     "scheduleNum": 5,
     "randomRange": [
-      1000,
-      1000
+      0
     ],
     "randomEventGroups": [
-      205,
-      206
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 8,
+    "ruleGroup": 2,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
     ],
     "defaultEvent": []
   },
@@ -97,11 +97,10 @@
     "triggerType": 3,
     "scheduleNum": 5,
     "randomRange": [
-      0,
-      80
+      0
     ],
     "randomEventGroups": [
-      204
+      0
     ],
     "defaultEvent": []
   },
@@ -111,11 +110,10 @@
     "triggerType": 3,
     "scheduleNum": 5,
     "randomRange": [
-      0,
-      100
+      0
     ],
     "randomEventGroups": [
-      202
+      0
     ],
     "defaultEvent": []
   },
@@ -125,15 +123,12 @@
     "triggerType": 3,
     "scheduleNum": 5,
     "randomRange": [
-      0,
-      80
+      0
     ],
     "randomEventGroups": [
-      201
+      0
     ],
-    "defaultEvent": [
-      20104
-    ]
+    "defaultEvent": []
   },
   {
     "sn": 12,
@@ -141,17 +136,12 @@
     "triggerType": 3,
     "scheduleNum": 5,
     "randomRange": [
-      1000,
-      1000
+      0
     ],
     "randomEventGroups": [
-      102,
-      103,
-      104
+      0
     ],
-    "defaultEvent": [
-      10207
-    ]
+    "defaultEvent": []
   },
   {
     "sn": 13,
@@ -159,12 +149,10 @@
     "triggerType": 3,
     "scheduleNum": 5,
     "randomRange": [
-      1000,
-      1000
+      0
     ],
     "randomEventGroups": [
-      301,
-      302
+      0
     ],
     "defaultEvent": []
   },
@@ -174,11 +162,10 @@
     "triggerType": 3,
     "scheduleNum": 5,
     "randomRange": [
-      0,
-      80
+      0
     ],
     "randomEventGroups": [
-      203
+      0
     ],
     "defaultEvent": []
   },
@@ -188,15 +175,10 @@
     "triggerType": 3,
     "scheduleNum": 5,
     "randomRange": [
-      0,
-      120
+      0
     ],
     "randomEventGroups": [
-      601,
-      604,
-      605,
-      608,
-      613
+      0
     ],
     "defaultEvent": []
   },
@@ -207,35 +189,31 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      501
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 17,
-    "ruleGroup": 3,
-    "triggerType": 1,
+    "ruleGroup": 2,
+    "triggerType": 4,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      102
+      0
     ],
-    "defaultEvent": [
-      10201
-    ]
+    "defaultEvent": []
   },
   {
     "sn": 18,
-    "ruleGroup": 3,
-    "triggerType": 1,
-    "scheduleNum": 1,
+    "ruleGroup": 2,
+    "triggerType": 4,
+    "scheduleNum": 4,
     "randomRange": [],
     "randomEventGroups": [
-      801
+      0
     ],
-    "defaultEvent": [
-      80101
-    ]
+    "defaultEvent": []
   },
   {
     "sn": 19,
@@ -244,36 +222,36 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      802
+      0
     ],
     "defaultEvent": [
-      80201
+      0
     ]
   },
   {
     "sn": 20,
-    "ruleGroup": 4,
+    "ruleGroup": 3,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      301
+      0
     ],
     "defaultEvent": [
-      30101
+      0
     ]
   },
   {
     "sn": 21,
-    "ruleGroup": 4,
+    "ruleGroup": 3,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      803
+      0
     ],
     "defaultEvent": [
-      80101
+      0
     ]
   },
   {
@@ -283,36 +261,36 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      804
+      0
     ],
     "defaultEvent": [
-      80201
+      0
     ]
   },
   {
     "sn": 23,
-    "ruleGroup": 5,
+    "ruleGroup": 4,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      202
+      0
     ],
     "defaultEvent": [
-      20201
+      0
     ]
   },
   {
     "sn": 24,
-    "ruleGroup": 5,
+    "ruleGroup": 4,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      805
+      0
     ],
     "defaultEvent": [
-      80101
+      0
     ]
   },
   {
@@ -322,33 +300,37 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      806
+      0
     ],
     "defaultEvent": [
-      80201
+      0
     ]
   },
   {
     "sn": 26,
-    "ruleGroup": 6,
+    "ruleGroup": 5,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      102
+      0
     ],
-    "defaultEvent": []
+    "defaultEvent": [
+      0
+    ]
   },
   {
     "sn": 27,
-    "ruleGroup": 6,
+    "ruleGroup": 5,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      201
+      0
     ],
-    "defaultEvent": []
+    "defaultEvent": [
+      0
+    ]
   },
   {
     "sn": 28,
@@ -357,8 +339,7 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      205,
-      206
+      0
     ],
     "defaultEvent": []
   },
@@ -369,7 +350,7 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      302
+      0
     ],
     "defaultEvent": []
   },
@@ -380,30 +361,29 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      203
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 31,
-    "ruleGroup": 7,
+    "ruleGroup": 6,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      103
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 32,
-    "ruleGroup": 7,
+    "ruleGroup": 6,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      205,
-      206
+      0
     ],
     "defaultEvent": []
   },
@@ -414,7 +394,7 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      301
+      0
     ],
     "defaultEvent": []
   },
@@ -425,397 +405,625 @@
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      204
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 35,
-    "ruleGroup": 8,
+    "ruleGroup": 7,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      104
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 36,
-    "ruleGroup": 8,
+    "ruleGroup": 7,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      205,
-      206
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 37,
-    "ruleGroup": 8,
-    "triggerType": 1,
+    "ruleGroup": 7,
+    "triggerType": 2,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      203
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 38,
-    "ruleGroup": 9,
+    "ruleGroup": 8,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      102
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 39,
-    "ruleGroup": 9,
+    "ruleGroup": 8,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      201
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 40,
-    "ruleGroup": 9,
+    "ruleGroup": 8,
     "triggerType": 1,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      205,
-      206
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 41,
-    "ruleGroup": 9,
-    "triggerType": 1,
+    "ruleGroup": 8,
+    "triggerType": 2,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      302
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 42,
     "ruleGroup": 9,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      203
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 43,
     "ruleGroup": 9,
-    "triggerType": 2,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      501
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 44,
-    "ruleGroup": 10,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 9,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      102
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 45,
-    "ruleGroup": 10,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 9,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      205,
-      206
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 46,
-    "ruleGroup": 10,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 9,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      204
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 47,
-    "ruleGroup": 10,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 9,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      302
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 48,
-    "ruleGroup": 10,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 9,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      203
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 49,
-    "ruleGroup": 10,
-    "triggerType": 2,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 9,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      501
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 50,
-    "ruleGroup": 11,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 9,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      102
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 51,
-    "ruleGroup": 11,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 9,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      205
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 52,
-    "ruleGroup": 11,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 9,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      206
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 53,
-    "ruleGroup": 11,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 9,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      302
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 54,
-    "ruleGroup": 11,
-    "triggerType": 1,
+    "ruleGroup": 9,
+    "triggerType": 4,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      203
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 55,
-    "ruleGroup": 11,
-    "triggerType": 2,
-    "scheduleNum": 1,
+    "ruleGroup": 9,
+    "triggerType": 4,
+    "scheduleNum": 2,
     "randomRange": [],
     "randomEventGroups": [
-      501
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 56,
-    "ruleGroup": 12,
-    "triggerType": 1,
+    "ruleGroup": 9,
+    "triggerType": 2,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      104
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 57,
-    "ruleGroup": 12,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      205
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 58,
-    "ruleGroup": 12,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      203
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 59,
-    "ruleGroup": 12,
-    "triggerType": 2,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      501
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 60,
-    "ruleGroup": 13,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      102
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 61,
-    "ruleGroup": 13,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      205,
-      206
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 62,
-    "ruleGroup": 13,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      302
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 63,
-    "ruleGroup": 13,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      203
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 64,
-    "ruleGroup": 13,
-    "triggerType": 2,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      501
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 65,
-    "ruleGroup": 14,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      104
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 66,
-    "ruleGroup": 14,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      205,
-      206
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 67,
-    "ruleGroup": 14,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      203
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 68,
-    "ruleGroup": 14,
-    "triggerType": 1,
-    "scheduleNum": 1,
-    "randomRange": [],
+    "ruleGroup": 10,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
     "randomEventGroups": [
-      201
+      0
     ],
     "defaultEvent": []
   },
   {
     "sn": 69,
-    "ruleGroup": 14,
+    "ruleGroup": 10,
+    "triggerType": 4,
+    "scheduleNum": 1,
+    "randomRange": [],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 70,
+    "ruleGroup": 10,
+    "triggerType": 4,
+    "scheduleNum": 2,
+    "randomRange": [],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 71,
+    "ruleGroup": 10,
     "triggerType": 2,
     "scheduleNum": 1,
     "randomRange": [],
     "randomEventGroups": [
-      501
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 72,
+    "ruleGroup": 11,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 73,
+    "ruleGroup": 11,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 74,
+    "ruleGroup": 11,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 75,
+    "ruleGroup": 11,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 76,
+    "ruleGroup": 11,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 77,
+    "ruleGroup": 11,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 78,
+    "ruleGroup": 11,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 79,
+    "ruleGroup": 11,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 80,
+    "ruleGroup": 11,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 81,
+    "ruleGroup": 11,
+    "triggerType": 3,
+    "scheduleNum": 5,
+    "randomRange": [
+      0
+    ],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 82,
+    "ruleGroup": 11,
+    "triggerType": 4,
+    "scheduleNum": 1,
+    "randomRange": [],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 83,
+    "ruleGroup": 11,
+    "triggerType": 4,
+    "scheduleNum": 2,
+    "randomRange": [],
+    "randomEventGroups": [
+      0
+    ],
+    "defaultEvent": []
+  },
+  {
+    "sn": 84,
+    "ruleGroup": 11,
+    "triggerType": 2,
+    "scheduleNum": 1,
+    "randomRange": [],
+    "randomEventGroups": [
+      0
     ],
     "defaultEvent": []
   }

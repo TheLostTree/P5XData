@@ -1,0 +1,42 @@
+[
+  {
+    "sn": 1,
+    "buffName": "沉积冗气",
+    "buffDesc": "进入战斗时，所有怪盗获得2层<link=\"dc|999\"><u>『强化印记』</u></link>；回合结束时，自动消除1层；每次打出弱点伤害时，获得1层。",
+    "buffPic": "tianerong-tiaozhan-buff-baopoyaoji01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 2,
+    "buffName": "坍塌预警",
+    "buffDesc": "使用人格面具技能或触发追加效果时，获得1层『强化印记』，最多可叠加3层；全体怪盗行动一轮后，获得『强化印记』层数*15%的伤害加成并移除1层『强化印记』。",
+    "buffPic": "tianerong-tiaozhan-buff-zuantanjixie01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 3,
+    "buffName": "结晶辐射",
+    "buffDesc": "回合开始时，每有一个最大生命值提升的效果，获得1层『强化印记』；触发追加效果造成伤害时，获得1层『强化印记』；『强化印记』：每层提供10%的伤害加成，最多可叠加3层。",
+    "buffPic": "tianerong-tiaozhan-buff-wuxiantongxun01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 4,
+    "buffName": "照明设施",
+    "buffDesc": "伤害提升5%，高级元素(念核祝咒)伤害额外提升10%",
+    "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "sn": 1,
+    "senceSn": 2129,
+    "birthPoint": [
+      0
+    ],
+    "modelSn": "home_yiloupiaochuang",
+    "faceToAngle": 180,
+    "type": 1,
+    "areaType": 0,
+    "areaParam": [
+      0
+    ],
+    "param": "TL_home_piaochuang.prefab",
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "坐",
+    "EventNPC": [
+      0
+    ],
+    "FuncNPC": []
+  },
+  {
+    "sn": 2,
+    "senceSn": 2129,
+    "birthPoint": [
+      0
+    ],
+    "modelSn": "home_yilou_chaji",
+    "faceToAngle": 180,
+    "type": 1,
+    "areaType": 0,
+    "areaParam": [
+      0
+    ],
+    "param": "TL_home_chaji.prefab",
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "坐",
+    "EventNPC": [],
+    "FuncNPC": []
+  },
+  {
+    "sn": 3,
+    "senceSn": 2129,
+    "birthPoint": [
+      0
+    ],
+    "modelSn": "home_liangxi01",
+    "faceToAngle": 180,
+    "type": 1,
+    "areaType": 0,
+    "areaParam": [
+      0
+    ],
+    "param": "TL_home_tatami.prefab",
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "躺",
+    "EventNPC": [],
+    "FuncNPC": []
+  },
+  {
+    "sn": 4,
+    "senceSn": 2130,
+    "birthPoint": [
+      0
+    ],
+    "modelSn": "home_shafa",
+    "faceToAngle": 90,
+    "type": 1,
+    "areaType": 0,
+    "areaParam": [
+      0
+    ],
+    "param": "TL_home_shafa.prefab",
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "坐",
+    "EventNPC": [
+      0
+    ],
+    "FuncNPC": []
+  },
+  {
+    "sn": 5,
+    "senceSn": 2130,
+    "birthPoint": [
+      0
+    ],
+    "modelSn": "home_chuang",
+    "faceToAngle": 0,
+    "type": 1,
+    "areaType": 0,
+    "areaParam": [
+      0
+    ],
+    "param": "TL_home_chuang.prefab",
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "躺",
+    "EventNPC": [],
+    "FuncNPC": [
+      0
+    ]
+  },
+  {
+    "sn": 101,
+    "senceSn": 99,
+    "birthPoint": [
+      0
+    ],
+    "modelSn": "home_yilou_chaji",
+    "faceToAngle": 0,
+    "type": 1,
+    "areaType": 0,
+    "areaParam": [
+      0
+    ],
+    "param": "TL_home_chaji.prefab",
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "坐",
+    "EventNPC": [],
+    "FuncNPC": []
+  },
+  {
+    "sn": 102,
+    "senceSn": 99,
+    "birthPoint": [
+      0
+    ],
+    "modelSn": "home_liangxi01",
+    "faceToAngle": 0,
+    "type": 1,
+    "areaType": 0,
+    "areaParam": [
+      0
+    ],
+    "param": "TL_home_tatami.prefab",
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "坐",
+    "EventNPC": [],
+    "FuncNPC": []
+  }
+]

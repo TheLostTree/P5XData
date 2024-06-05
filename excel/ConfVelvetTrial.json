@@ -1,62 +1,107 @@
 [
   {
     "sn": 1,
-    "chapterNameRes": "shilian-wenzi03.png",
-    "chapterNameBgRes": "shilian-wenzi02.png",
-    "chapterImg": "shilian-tu02.png",
-    "chapterNameResResult": "试炼伊始",
+    "chapterNameRes": "shilian-wenzi05-i18n.png",
+    "chapterEndNameRes": "xinzhihai-jiesuan-qiaojiang-i18n.png",
+    "chapterNameBgRes": "shilian-wenzi04-i18n.png",
+    "chapterImg": "shilian-tu06.png",
+    "chapterNameResResult": "巧匠之作",
+    "backNode": 6,
     "openingLv": 1,
+    "lockLevel": 0,
+    "skillAffix": 4001,
+    "naturePic": [],
     "levelList": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
+      0
     ],
-    "bubbleString": "你完蛋了吼~|啊哈!|嘻嘻……|赶快互相伤害吼~！",
-    "timeline": "TL_VelvetTrial_Chapter01.prefab"
+    "chapterStarAward": [
+      0
+    ],
+    "bubbleString": "让我来判决你的善恶。|你竟敢蔑视灵魂的重量！|死生轮回，不熄不灭。|本大爷我……|怎么办呢……",
+    "timeline": "TL_VelvetTrial_Chapter03.prefab"
   },
   {
     "sn": 2,
-    "chapterNameRes": "shilian-wenzi05.png",
-    "chapterNameBgRes": "shilian-wenzi04.png",
+    "chapterNameRes": "shilian-zhuoremiyu02-i18n.png",
+    "chapterEndNameRes": "xinzhihai-jiesuan-zhire-i18n.png",
+    "chapterNameBgRes": "shilian-zhuoremiyu01-i18n.png",
     "chapterImg": "shilian-tu03.png",
-    "chapterNameResResult": "巧匠之作",
-    "openingLv": 30,
+    "chapterNameResResult": "灼热迷域",
+    "backNode": 6,
+    "openingLv": 1,
+    "lockLevel": 105,
+    "skillAffix": 4004,
+    "naturePic": [],
     "levelList": [
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14
+      0
     ],
-    "bubbleString": "你打算殴打小孩吗~！？|可怕的大人啊—！|当小孩子的对手，真丢人！|诶嘿嘿嘿嘿！|笨~蛋笨~蛋！|嘁~！|我不会饶了你~！|怎么办呢~",
+    "chapterStarAward": [
+      0
+    ],
+    "bubbleString": "嘻嘻，来陪我玩吧~|你难道不想抱抱我吗？|不听话的孩子，我要吃掉你！|肚子里，很暖和哦~|快进来吧~",
     "timeline": "TL_VelvetTrial_Chapter02.prefab"
   },
   {
     "sn": 3,
-    "chapterNameRes": "shilian-wenzi07.png",
-    "chapterNameBgRes": "shilian-wenzi06.png",
-    "chapterImg": "shilian-tu04.png",
-    "chapterNameResResult": "连锁打击",
-    "openingLv": 80,
+    "chapterNameRes": "shilian-shuhanjidi02-i18n.png",
+    "chapterEndNameRes": "xinzhihai-jiesuan-shuhan-i18n.png",
+    "chapterNameBgRes": "shilian-shuhanjidi01-i18n.png",
+    "chapterImg": "shilian-tu07.png",
+    "chapterNameResResult": "暑寒极地",
+    "backNode": 6,
+    "openingLv": 1,
+    "lockLevel": 105,
+    "skillAffix": 4005,
+    "naturePic": [],
     "levelList": [
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24
+      0
     ],
-    "bubbleString": "杀了你HO~|HAW!|Hee……|赶快互相伤害HO~！！",
-    "timeline": "TL_VelvetTrial_Chapter01.prefab"
+    "chapterStarAward": [
+      0
+    ],
+    "bubbleString": "所谓的挑战……便是奉献全力……|较量一番吧……你的力量……|要见识吞噬宇宙的力量吗……|抱歉……我无法手下留情……|受命运的红线牵引……来吧……|我很欣赏你，所以更会拼尽全力……|如果没有充足准备，还是放弃为好……|热衷于自寻死路吗……？|希望是个好对手……|战斗到最后一刻吧……",
+    "timeline": "TL_VelvetTrial_Chapter06.prefab"
+  },
+  {
+    "sn": 4,
+    "chapterNameRes": "shilian-leitingqijing02-i18n.png",
+    "chapterEndNameRes": "xinzhihai-jiesuan-leiting-i18n.png",
+    "chapterNameBgRes": "shilian-leitingqijing01-i18n.png",
+    "chapterImg": "shilian-tu05.png",
+    "chapterNameResResult": "雷霆祈境",
+    "backNode": 6,
+    "openingLv": 1,
+    "lockLevel": 105,
+    "skillAffix": 4006,
+    "naturePic": [],
+    "levelList": [
+      0
+    ],
+    "chapterStarAward": [
+      0
+    ],
+    "bubbleString": "任何人都不许进门！|把我的脑袋还给我。|退下！|供奉出你的钱财。|愚蠢的凡人啊。",
+    "timeline": "TL_VelvetTrial_Chapter04.prefab"
+  },
+  {
+    "sn": 5,
+    "chapterNameRes": "shilian-zuzhouxuanwo02-i18n.png",
+    "chapterEndNameRes": "xinzhihai-jiesuan-zuzhou-i18n.png",
+    "chapterNameBgRes": "shilian-zuzhouxuanwo01-i18n.png",
+    "chapterImg": "shilian-tu04.png",
+    "chapterNameResResult": "诅咒漩涡",
+    "backNode": 6,
+    "openingLv": 1,
+    "lockLevel": 105,
+    "skillAffix": 4007,
+    "naturePic": [],
+    "levelList": [
+      0
+    ],
+    "chapterStarAward": [
+      0
+    ],
+    "bubbleString": "可以为我而死吗？|随便了……|……|这里又窄又小……|看什么看……",
+    "timeline": "TL_VelvetTrial_Chapter05.prefab"
   }
 ]

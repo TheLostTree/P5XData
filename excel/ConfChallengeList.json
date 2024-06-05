@@ -1,108 +1,26 @@
 [
   {
-    "sn": 101,
+    "sn": 1000,
+    "page": 101,
+    "funcOpen": 302,
     "type": 1,
     "param": [
-      5
+      0
     ],
-    "unlockTask": 0,
-    "name": "潜能唤醒",
-    "desc": "怪盗觉醒材料",
-    "selectedTag": 1,
-    "selectedText": "怪盗觉醒",
+    "showParam": [],
+    "icon": "wanfaheji-MTicon3-7.png",
+    "iconBg": "wanfaheji-MTicon2-1.png",
+    "bg": "wanfaheji-MTicon1-6.png",
+    "funcSn": [
+      0
+    ],
+    "desc": "怪盗经验",
+    "selectedTag": 0,
+    "selectedText": "",
     "isShow": 0,
     "showIcon": 0,
-    "icon": "yishijie-icon-eyizhijing-new.png",
-    "funcSn": [
-      10003
-    ],
-    "redtipsType": 0,
-    "redtipsParam": [],
-    "newtipsType": 4,
-    "newtipsParam": [
-      5502084
-    ],
-    "awardShow": [
-      [
-        0
-      ]
-    ]
-  },
-  {
-    "sn": 102,
-    "type": 1,
-    "param": [
-      6
-    ],
     "unlockTask": 0,
-    "name": "军械改装",
-    "desc": "武器突破材料",
-    "selectedTag": 2,
-    "selectedText": "武器突破",
-    "isShow": 0,
-    "showIcon": 0,
-    "icon": "yishijie-icon-eyizhijing-new.png",
-    "funcSn": [
-      10004
-    ],
-    "redtipsType": 0,
-    "redtipsParam": [],
-    "newtipsType": 4,
-    "newtipsParam": [
-      5502084
-    ],
-    "awardShow": [
-      [
-        0
-      ]
-    ]
-  },
-  {
-    "sn": 103,
-    "type": 1,
-    "param": [
-      7
-    ],
-    "unlockTask": 0,
-    "name": "人格试教",
-    "desc": "面具技能材料",
-    "selectedTag": 3,
-    "selectedText": "面具技能",
-    "isShow": 0,
-    "showIcon": 0,
-    "icon": "yishijie-icon-eyizhijing-new.png",
-    "funcSn": [
-      10005
-    ],
-    "redtipsType": 0,
-    "redtipsParam": [],
-    "newtipsType": 4,
-    "newtipsParam": [
-      5502097
-    ],
-    "awardShow": [
-      [
-        0
-      ]
-    ]
-  },
-  {
-    "sn": 104,
-    "type": 1,
-    "param": [
-      8
-    ],
-    "unlockTask": 0,
-    "name": "神谕聆听",
-    "desc": "怪盗启示",
-    "selectedTag": 4,
-    "selectedText": "怪盗启示",
-    "isShow": 0,
-    "showIcon": 0,
-    "icon": "yishijie-icon-eyizhijing-new.png",
-    "funcSn": [
-      10006
-    ],
+    "name": "荣级求索",
     "redtipsType": 0,
     "redtipsParam": [],
     "newtipsType": 0,
@@ -114,22 +32,27 @@
     ]
   },
   {
-    "sn": 105,
+    "sn": 1100,
+    "page": 101,
+    "funcOpen": 302,
     "type": 1,
     "param": [
-      9
+      0
     ],
-    "unlockTask": 0,
-    "name": "神谕聆听",
-    "desc": "怪盗启示",
-    "selectedTag": 4,
-    "selectedText": "怪盗启示",
+    "showParam": [],
+    "icon": "wanfaheji-MTicon3-6.png",
+    "iconBg": "wanfaheji-MTicon2-3.png",
+    "bg": "wanfaheji-MTicon1-5.png",
+    "funcSn": [
+      0
+    ],
+    "desc": "武器经验",
+    "selectedTag": 0,
+    "selectedText": "",
     "isShow": 0,
     "showIcon": 0,
-    "icon": "yishijie-icon-eyizhijing-new.png",
-    "funcSn": [
-      10007
-    ],
+    "unlockTask": 0,
+    "name": "辎械求索",
     "redtipsType": 0,
     "redtipsParam": [],
     "newtipsType": 0,
@@ -141,22 +64,27 @@
     ]
   },
   {
-    "sn": 106,
+    "sn": 1200,
+    "page": 101,
+    "funcOpen": 302,
     "type": 1,
     "param": [
-      10
+      0
     ],
-    "unlockTask": 0,
-    "name": "神谕聆听",
-    "desc": "怪盗启示",
-    "selectedTag": 4,
-    "selectedText": "怪盗启示",
+    "showParam": [],
+    "icon": "wanfaheji-MTicon3-5.png",
+    "iconBg": "wanfaheji-MTicon2-1.png",
+    "bg": "wanfaheji-MTicon1-4.png",
+    "funcSn": [
+      0
+    ],
+    "desc": "面具经验",
+    "selectedTag": 0,
+    "selectedText": "",
     "isShow": 0,
     "showIcon": 0,
-    "icon": "yishijie-icon-eyizhijing-new.png",
-    "funcSn": [
-      10008
-    ],
+    "unlockTask": 0,
+    "name": "人格求索",
     "redtipsType": 0,
     "redtipsParam": [],
     "newtipsType": 0,
@@ -168,237 +96,31 @@
     ]
   },
   {
-    "sn": 201,
-    "type": 2,
+    "sn": 1300,
+    "page": 101,
+    "funcOpen": 302,
+    "type": 1,
     "param": [
-      8306020
+      0
     ],
-    "unlockTask": 10710,
-    "name": "白虎",
-    "desc": "人格面具",
-    "selectedTag": 1,
-    "selectedText": "人格面具",
-    "isShow": 1,
-    "showIcon": 1,
-    "icon": "B-guaiwutouxiang-byako.png",
+    "showParam": [],
+    "icon": "wanfaheji-MTicon3-1.png",
+    "iconBg": "wanfaheji-MTicon2-1.png",
+    "bg": "wanfaheji-MTicon1-3.png",
     "funcSn": [
-      10010
+      0
     ],
-    "redtipsType": 0,
-    "redtipsParam": [],
-    "newtipsType": 3,
-    "newtipsParam": [
-      8306020
-    ],
-    "awardShow": [
-      [
-        0
-      ]
-    ]
-  },
-  {
-    "sn": 202,
-    "type": 2,
-    "param": [
-      8304020
-    ],
-    "unlockTask": 10710,
-    "name": "帕祖祖",
-    "desc": "人格面具",
-    "selectedTag": 1,
-    "selectedText": "人格面具",
-    "isShow": 1,
-    "showIcon": 1,
-    "icon": "B-guaiwutouxiang-pazuzu.png",
-    "funcSn": [
-      10009
-    ],
-    "redtipsType": 0,
-    "redtipsParam": [],
-    "newtipsType": 3,
-    "newtipsParam": [
-      8304020
-    ],
-    "awardShow": [
-      [
-        0
-      ]
-    ]
-  },
-  {
-    "sn": 203,
-    "type": 2,
-    "param": [
-      8331022
-    ],
-    "unlockTask": 11010,
-    "name": "摩洛",
-    "desc": "人格面具",
-    "selectedTag": 1,
-    "selectedText": "人格面具",
-    "isShow": 1,
-    "showIcon": 1,
-    "icon": "B-guaiwutouxiang-moloch.png",
-    "funcSn": [
-      10011
-    ],
-    "redtipsType": 0,
-    "redtipsParam": [],
-    "newtipsType": 3,
-    "newtipsParam": [
-      8331022
-    ],
-    "awardShow": [
-      [
-        0
-      ]
-    ]
-  },
-  {
-    "sn": 204,
-    "type": 2,
-    "param": [
-      8332020
-    ],
-    "unlockTask": 11010,
-    "name": "奥伯隆",
-    "desc": "人格面具",
-    "selectedTag": 1,
-    "selectedText": "人格面具",
-    "isShow": 1,
-    "showIcon": 1,
-    "icon": "B-guaiwutouxiang-oberon.png",
-    "funcSn": [
-      10012
-    ],
-    "redtipsType": 0,
-    "redtipsParam": [],
-    "newtipsType": 3,
-    "newtipsParam": [
-      8332020
-    ],
-    "awardShow": [
-      [
-        0
-      ]
-    ]
-  },
-  {
-    "sn": 205,
-    "type": 2,
-    "param": [
-      8336023
-    ],
-    "unlockTask": 11010,
-    "name": "荒霸吐",
-    "desc": "人格面具",
-    "selectedTag": 1,
-    "selectedText": "人格面具",
-    "isShow": 1,
-    "showIcon": 1,
-    "icon": "B-guaiwutouxiang-arahabaki.png",
-    "funcSn": [
-      10013
-    ],
-    "redtipsType": 0,
-    "redtipsParam": [],
-    "newtipsType": 3,
-    "newtipsParam": [
-      8336023
-    ],
-    "awardShow": [
-      [
-        0
-      ]
-    ]
-  },
-  {
-    "sn": 206,
-    "type": 2,
-    "param": [
-      8342022
-    ],
-    "unlockTask": 11010,
-    "name": "托尔",
-    "desc": "人格面具",
-    "selectedTag": 1,
-    "selectedText": "人格面具",
-    "isShow": 1,
-    "showIcon": 1,
-    "icon": "B-guaiwutouxiang-thor.png",
-    "funcSn": [
-      10014
-    ],
-    "redtipsType": 0,
-    "redtipsParam": [],
-    "newtipsType": 3,
-    "newtipsParam": [
-      8342022
-    ],
-    "awardShow": [
-      [
-        0
-      ]
-    ]
-  },
-  {
-    "sn": 207,
-    "type": 2,
-    "param": [
-      5502214,
-      5502218,
-      5502222
-    ],
-    "unlockTask": 0,
-    "name": "守财奴",
     "desc": "大量魂石",
-    "selectedTag": 1,
-    "selectedText": "大量魂石",
+    "selectedTag": 0,
+    "selectedText": "",
     "isShow": 0,
     "showIcon": 0,
-    "icon": "yishijie-icon-hunshi-new.png",
-    "funcSn": [
-      10015,
-      10087,
-      10091
-    ],
-    "redtipsType": 0,
-    "redtipsParam": [],
-    "newtipsType": 4,
-    "newtipsParam": [
-      5502084
-    ],
-    "awardShow": [
-      [
-        0
-      ]
-    ]
-  },
-  {
-    "sn": 208,
-    "type": 2,
-    "param": [
-      5502215,
-      5502219
-    ],
     "unlockTask": 0,
-    "name": "麻木的食书癖",
-    "desc": "怪盗升级材料",
-    "selectedTag": 1,
-    "selectedText": "怪盗升级",
-    "isShow": 0,
-    "showIcon": 0,
-    "icon": "yishijie-icon-zhuanji-new.png",
-    "funcSn": [
-      10016,
-      10088
-    ],
+    "name": "财赂求索",
     "redtipsType": 0,
     "redtipsParam": [],
-    "newtipsType": 4,
-    "newtipsParam": [
-      5502084
-    ],
+    "newtipsType": 0,
+    "newtipsParam": [],
     "awardShow": [
       [
         0
@@ -406,30 +128,31 @@
     ]
   },
   {
-    "sn": 209,
-    "type": 2,
+    "sn": 1400,
+    "page": 101,
+    "funcOpen": 302,
+    "type": 1,
     "param": [
-      5502216,
-      5502220
+      0
     ],
-    "unlockTask": 0,
-    "name": "暴力的武斗派",
-    "desc": "武器升级材料",
-    "selectedTag": 1,
-    "selectedText": "武器升级",
+    "showParam": [],
+    "icon": "wanfaheji-MTicon3-4.png",
+    "iconBg": "wanfaheji-MTicon2-2.png",
+    "bg": "wanfaheji-MTicon1-9.png",
+    "funcSn": [
+      0
+    ],
+    "desc": "技能升级",
+    "selectedTag": 0,
+    "selectedText": "",
     "isShow": 0,
     "showIcon": 0,
-    "icon": "yishijie-icon-lingjian-new.png",
-    "funcSn": [
-      10017,
-      10089
-    ],
+    "unlockTask": 0,
+    "name": "灵之参悟",
     "redtipsType": 0,
     "redtipsParam": [],
-    "newtipsType": 4,
-    "newtipsParam": [
-      5502084
-    ],
+    "newtipsType": 0,
+    "newtipsParam": [],
     "awardShow": [
       [
         0
@@ -437,30 +160,31 @@
     ]
   },
   {
-    "sn": 210,
-    "type": 2,
+    "sn": 1500,
+    "page": 101,
+    "funcOpen": 302,
+    "type": 1,
     "param": [
-      5502217,
-      5502221
+      0
     ],
-    "unlockTask": 0,
-    "name": "混沌暗影",
-    "desc": "面具升级材料",
-    "selectedTag": 1,
-    "selectedText": "面具升级",
+    "showParam": [],
+    "icon": "wanfaheji-MTicon3-3.png",
+    "iconBg": "wanfaheji-MTicon2-1.png",
+    "bg": "wanfaheji-MTicon1-8.png",
+    "funcSn": [
+      0
+    ],
+    "desc": "潜能提升材料-初级",
+    "selectedTag": 0,
+    "selectedText": "",
     "isShow": 0,
     "showIcon": 0,
-    "icon": "yishijie-icon-rengemianju-new.png",
-    "funcSn": [
-      10018,
-      10090
-    ],
+    "unlockTask": 0,
+    "name": "青涩香调",
     "redtipsType": 0,
     "redtipsParam": [],
-    "newtipsType": 4,
-    "newtipsParam": [
-      5502084
-    ],
+    "newtipsType": 0,
+    "newtipsParam": [],
     "awardShow": [
       [
         0
@@ -468,28 +192,61 @@
     ]
   },
   {
-    "sn": 301,
+    "sn": 1600,
+    "page": 101,
+    "funcOpen": 302,
+    "type": 1,
+    "param": [
+      0
+    ],
+    "showParam": [],
+    "icon": "wanfaheji-MTicon3-2.png",
+    "iconBg": "wanfaheji-MTicon2-3.png",
+    "bg": "wanfaheji-MTicon1-7.png",
+    "funcSn": [
+      0
+    ],
+    "desc": "武器突破材料-初级",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "装配冶艺",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 1700,
+    "page": 101,
+    "funcOpen": 311,
     "type": 4,
-    "param": [
-      5500012
+    "param": [],
+    "showParam": [],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
     ],
-    "unlockTask": 0,
-    "name": "天鹅绒试炼",
     "desc": "",
     "selectedTag": 0,
     "selectedText": "",
     "isShow": 0,
     "showIcon": 0,
-    "icon": "yishijie-icon-tianerong-new.png",
-    "funcSn": [
-      10019
-    ],
+    "unlockTask": 0,
+    "name": "",
     "redtipsType": 0,
     "redtipsParam": [],
-    "newtipsType": 4,
-    "newtipsParam": [
-      5502097
-    ],
+    "newtipsType": 0,
+    "newtipsParam": [],
     "awardShow": [
       [
         0
@@ -497,20 +254,1525 @@
     ]
   },
   {
-    "sn": 401,
-    "type": 5,
+    "sn": 1801,
+    "page": 103,
+    "funcOpen": 9,
+    "type": 3,
     "param": [
-      5502300
+      0
     ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "生机之语",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
     "unlockTask": 0,
-    "name": "心之海秘境",
+    "name": "和谐之语",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 1802,
+    "page": 103,
+    "funcOpen": 9,
+    "type": 3,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "羁绊之语",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "生机之语",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 1803,
+    "page": 103,
+    "funcOpen": 9,
+    "type": 3,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "抗争之语",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "羁绊之语",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 1804,
+    "page": 103,
+    "funcOpen": 9,
+    "type": 3,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "决胜之语",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "抗争之语",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 1805,
+    "page": 103,
+    "funcOpen": 9,
+    "type": 3,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "自然之语",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "决胜之语",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 1806,
+    "page": 103,
+    "funcOpen": 9,
+    "type": 3,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "从容之语",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "享乐之语",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3000,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
     "desc": "",
     "selectedTag": 0,
     "selectedText": "",
     "isShow": 0,
     "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3001,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
     "icon": "",
-    "funcSn": [],
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3002,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3003,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3004,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3005,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3006,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3007,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3008,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3009,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3010,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3011,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3012,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3013,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3014,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3015,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3016,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3017,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3018,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3019,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3020,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3021,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3022,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3023,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3024,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3025,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3026,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3027,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3028,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3029,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3030,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3031,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3032,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3033,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3034,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3035,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3036,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3037,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
+    "redtipsType": 0,
+    "redtipsParam": [],
+    "newtipsType": 0,
+    "newtipsParam": [],
+    "awardShow": [
+      [
+        0
+      ]
+    ]
+  },
+  {
+    "sn": 3038,
+    "page": 102,
+    "funcOpen": 302,
+    "type": 2,
+    "param": [
+      0
+    ],
+    "showParam": [
+      0
+    ],
+    "icon": "",
+    "iconBg": "",
+    "bg": "",
+    "funcSn": [
+      0
+    ],
+    "desc": "",
+    "selectedTag": 0,
+    "selectedText": "",
+    "isShow": 0,
+    "showIcon": 0,
+    "unlockTask": 0,
+    "name": "",
     "redtipsType": 0,
     "redtipsParam": [],
     "newtipsType": 0,

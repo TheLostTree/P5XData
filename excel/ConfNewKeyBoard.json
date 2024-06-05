@@ -1,0 +1,2835 @@
+[
+  {
+    "sn": 1,
+    "uiName": [
+      "P�ͥ�'���rدyX��B?\u0016��۫x��z���:.r\u0015\b�'\u001e��'���rӛ��-V'�"
+    ],
+    "bindKey": 1,
+    "bindKeyGamepad": 7,
+    "des": "都市交互",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 2,
+    "uiName": [
+      "P��j)�j�\b���iǔ!B?:��Z��tƩP��jV�yj+��\b���iǌj"
+    ],
+    "bindKey": 27,
+    "bindKeyGamepad": 12,
+    "des": "打开当前地图",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 3,
+    "uiName": [
+      "P��j)�!B?=�Zq�\bP��j�exǞ�)�P��zYO���P�Ě�rV'�"
+    ],
+    "bindKey": 3,
+    "bindKeyGamepad": 8,
+    "des": "打开菜单",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 4,
+    "uiName": [
+      "P��j)�j�\b���iǔ!B?:��Z��tƩ"
+    ],
+    "bindKey": 39,
+    "bindKeyGamepad": 9,
+    "des": "打开大地图",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 5,
+    "uiName": [
+      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+    ],
+    "bindKey": 30,
+    "bindKeyGamepad": 0,
+    "des": "打开人格面具",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 6,
+    "uiName": [
+      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+    ],
+    "bindKey": 17,
+    "bindKeyGamepad": 0,
+    "des": "打开怪盗",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 7,
+    "uiName": [
+      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+    ],
+    "bindKey": 34,
+    "bindKeyGamepad": 0,
+    "des": "打开阵容",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 8,
+    "uiName": [
+      "P��j)�z{�F(!"
+    ],
+    "bindKey": 95,
+    "bindKeyGamepad": 0,
+    "des": "打开雏鸟计划",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 9,
+    "uiName": [
+      "P��j)�z{�F(!"
+    ],
+    "bindKey": 96,
+    "bindKeyGamepad": 0,
+    "des": "打开契约",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 10,
+    "uiName": [
+      "P��j)�z{�F(!"
+    ],
+    "bindKey": 97,
+    "bindKeyGamepad": 0,
+    "des": "打开目标",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 11,
+    "uiName": [
+      "P��j)�z{�F(!"
+    ],
+    "bindKey": 98,
+    "bindKeyGamepad": 0,
+    "des": "打开活动",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 12,
+    "uiName": [
+      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+    ],
+    "bindKey": 25,
+    "bindKeyGamepad": 0,
+    "des": "打开协同者",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 13,
+    "uiName": [
+      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+    ],
+    "bindKey": 23,
+    "bindKeyGamepad": 0,
+    "des": "打开邮件",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 14,
+    "uiName": [
+      "P�Ӣ�\"�Ȩ�B\u0014#�ڲC\u001a�s\u001e�"
+    ],
+    "bindKey": 24,
+    "bindKeyGamepad": 14,
+    "des": "打开任务",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 15,
+    "uiName": [
+      "P��j)�"
+    ],
+    "bindKey": 40,
+    "bindKeyGamepad": 6,
+    "des": "打开都市",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 16,
+    "uiName": [
+      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+    ],
+    "bindKey": 16,
+    "bindKeyGamepad": 0,
+    "des": "打开背包",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 17,
+    "uiName": [
+      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+    ],
+    "bindKey": 29,
+    "bindKeyGamepad": 0,
+    "des": "打开通讯录",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 18,
+    "uiName": [
+      "P��j)�"
+    ],
+    "bindKey": 21,
+    "bindKeyGamepad": 0,
+    "des": "打开拍照",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 19,
+    "uiName": [
+      "P��j)�!B?=�Zq�\bP��j�exǞ�)�"
+    ],
+    "bindKey": 35,
+    "bindKeyGamepad": 0,
+    "des": "打开奖杯",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 20,
+    "uiName": [
+      "P��O���{\u0005b{\u0005\b�I�p�j��z���X��B?Rx��(Z��޾'�V'�\"s\u001a�"
+    ],
+    "bindKey": 2,
+    "bindKeyGamepad": 4,
+    "des": "打开聊天面板",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 21,
+    "uiName": [
+      "P��j)�j"
+    ],
+    "bindKey": 28,
+    "bindKeyGamepad": 3,
+    "des": "打开SNS",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 22,
+    "uiName": [
+      "P�¢i��:(�\u0016�"
+    ],
+    "bindKey": 68,
+    "bindKeyGamepad": 0,
+    "des": "返回都市主界面",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 23,
+    "uiName": [
+      "P��j)�"
+    ],
+    "bindKey": 38,
+    "bindKeyGamepad": 5,
+    "des": "打开异世界",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 24,
+    "uiName": [
+      "P�Ӣ�\"�Ȩ�B"
+    ],
+    "bindKey": 36,
+    "bindKeyGamepad": 13,
+    "des": "追踪任务",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 25,
+    "uiName": [],
+    "bindKey": 60,
+    "bindKeyGamepad": 6,
+    "des": "退出（通用）",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 26,
+    "uiName": [],
+    "bindKey": 33,
+    "bindKeyGamepad": 3,
+    "des": "音游",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 27,
+    "uiName": [],
+    "bindKey": 18,
+    "bindKeyGamepad": 1,
+    "des": "音游",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 28,
+    "uiName": [],
+    "bindKey": 20,
+    "bindKeyGamepad": 4,
+    "des": "音游",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 29,
+    "uiName": [],
+    "bindKey": 24,
+    "bindKeyGamepad": 8,
+    "des": "音游",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 30,
+    "uiName": [],
+    "bindKey": 25,
+    "bindKeyGamepad": 5,
+    "des": "音游",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 31,
+    "uiName": [],
+    "bindKey": 26,
+    "bindKeyGamepad": 6,
+    "des": "音游",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 32,
+    "uiName": [],
+    "bindKey": 53,
+    "bindKeyGamepad": 0,
+    "des": "唤起光标",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 33,
+    "uiName": [],
+    "bindKey": 94,
+    "bindKeyGamepad": 0,
+    "des": "打开商店",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 1,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 101,
+    "uiName": [
+      "P�ɺj@r�\b"
+    ],
+    "bindKey": 51,
+    "bindKeyGamepad": 104,
+    "des": "奔跑",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 2,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 102,
+    "uiName": [
+      "P�ɺj@r�\bP��",
+      "\u000e��z�ȝ�\u0015��"
+    ],
+    "bindKey": 1,
+    "bindKeyGamepad": 7,
+    "des": "交互",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 2,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 103,
+    "uiName": [
+      "P�ɺj@r�\b"
+    ],
+    "bindKey": 31,
+    "bindKeyGamepad": 103,
+    "des": "观察模式",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 2,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 104,
+    "uiName": [
+      "P��jV�yB"
+    ],
+    "bindKey": 26,
+    "bindKeyGamepad": 0,
+    "des": "打开区域进度界面",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 2,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 105,
+    "uiName": [
+      "P��jV�yB"
+    ],
+    "bindKey": 4,
+    "bindKeyGamepad": 0,
+    "des": "轮盘",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 2,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 106,
+    "uiName": [
+      "P��jV�yB"
+    ],
+    "bindKey": 60,
+    "bindKeyGamepad": 9,
+    "des": "退出异世界回到都市",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 2,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 107,
+    "uiName": [
+      "P�ɺj@r�\b"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 5,
+    "des": "攻击（摘面具）",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 2,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 201,
+    "uiName": [
+      "P��jg�jǛjYU��"
+    ],
+    "bindKey": 31,
+    "bindKeyGamepad": 103,
+    "des": "棒球观察模式",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 3,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 202,
+    "uiName": [
+      "P��jg�jǛjYU��"
+    ],
+    "bindKey": 1,
+    "bindKeyGamepad": 7,
+    "des": "打击棒球",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 3,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 301,
+    "uiName": [
+      "P�Ŋ�b�\u0000����"
+    ],
+    "bindKey": 1,
+    "bindKeyGamepad": 7,
+    "des": "钓鱼拉杆",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 4,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 302,
+    "uiName": [
+      "P�Ŋ�b�\u0000����"
+    ],
+    "bindKey": 15,
+    "bindKeyGamepad": 3,
+    "des": "左移",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 4,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 303,
+    "uiName": [
+      "P�Ŋ�b�\u0000����"
+    ],
+    "bindKey": 18,
+    "bindKeyGamepad": 4,
+    "des": "右移",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 4,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 304,
+    "uiName": [
+      "P�Ŋ�b�\u0000����"
+    ],
+    "bindKey": 31,
+    "bindKeyGamepad": 103,
+    "des": "钓鱼观察模式",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 4,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 305,
+    "uiName": [
+      "P�Ŋ�b�\u0000����"
+    ],
+    "bindKey": 51,
+    "bindKeyGamepad": 8,
+    "des": "换鱼饵",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 4,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 311,
+    "uiName": [],
+    "bindKey": 1,
+    "bindKeyGamepad": 104,
+    "des": "踢球",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 4,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 312,
+    "uiName": [],
+    "bindKey": 31,
+    "bindKeyGamepad": 103,
+    "des": "足球观察模式",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 4,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 321,
+    "uiName": [],
+    "bindKey": 20,
+    "bindKeyGamepad": 7,
+    "des": "音游校准按钮",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 401,
+    "uiName": [
+      "P��j)�j�\b���iǔ!B?K+-zd��ا�װP����^�'��)�\u0016��j�e"
+    ],
+    "bindKey": 67,
+    "bindKeyGamepad": 0,
+    "des": "音量提升",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 5,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 402,
+    "uiName": [
+      "P��j)�j�\b���iǔ!B?K+-zd��ا�װP����^�'��)�\u0016��j�e"
+    ],
+    "bindKey": 66,
+    "bindKeyGamepad": 0,
+    "des": "音量降低",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 5,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 403,
+    "uiName": [
+      "P��j)�j�\b���iǔ"
+    ],
+    "bindKey": 37,
+    "bindKeyGamepad": 0,
+    "des": "向前移动",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 5,
+    "modify": 0,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 404,
+    "uiName": [
+      "P��j)�j�\b���iǔ"
+    ],
+    "bindKey": 33,
+    "bindKeyGamepad": 0,
+    "des": "向后移动",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 5,
+    "modify": 0,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 405,
+    "uiName": [
+      "P��j)�j�\b���iǔ"
+    ],
+    "bindKey": 15,
+    "bindKeyGamepad": 0,
+    "des": "向左移动",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 5,
+    "modify": 0,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 406,
+    "uiName": [
+      "P��j)�j�\b���iǔ"
+    ],
+    "bindKey": 18,
+    "bindKeyGamepad": 0,
+    "des": "向右移动",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 5,
+    "modify": 0,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 407,
+    "uiName": [
+      "P�¢i��:(�\u0016�"
+    ],
+    "bindKey": 22,
+    "bindKeyGamepad": 0,
+    "des": "说明",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 5,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 408,
+    "uiName": [
+      "P�É�h�X��U\b�8���\u0015��6P�É�h�X�Å\b�8���\u0015��;P�É�h�X���\b�8���\u0015��=P�Ҷ��E�(��'N)��)�P�ˢ\b�5��V'�P�Ҷ����ޮ�'hƢ�&�uB?J�ڞ\u0007��'�\u0002Y@��ˢ�\u0015��\u0014#�����y8by�ޮ�%�\u000bm��(�X��B?=��v�j�R��U��\u0014#�����y8by�\u001a�p���b�׫P�Ӻ�+��l1��P��� �jZ \n�ߊ����h�8�V'�P�źw\u000e��ӊ�\u0014#��I�ޮ�&"
+    ],
+    "bindKey": 1,
+    "bindKeyGamepad": 7,
+    "des": "确认键",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 5,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 409,
+    "uiName": [
+      "P��{\u0003�k ��W��*'P�Ҷ������ӭ��V'�P�¢i��\u001a-�����\u0015��"
+    ],
+    "bindKey": 15,
+    "bindKeyGamepad": 3,
+    "des": "切换一级页签（左）",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 410,
+    "uiName": [
+      "P��{\u0003�k ��W��*'P�Ҷ������ӭ��V'�P�¢i��\u001a-�����\u0015��"
+    ],
+    "bindKey": 18,
+    "bindKeyGamepad": 4,
+    "des": "切换一级页签（右）",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 411,
+    "uiName": [
+      "P�¢i��:(�\u0016�P�Ҷ��N�%m��#����n���VڭB?.�\"�֦yX��B?N�h�&��Ƣ"
+    ],
+    "bindKey": 60,
+    "bindKeyGamepad": 6,
+    "des": "取消",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 5,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 412,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 0,
+    "des": "切换跑步",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 5,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 413,
+    "uiName": [
+      "P�Ҷ��N�%m��#����n���V�"
+    ],
+    "bindKey": 40,
+    "bindKeyGamepad": 104,
+    "des": "自动播放剧情",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 414,
+    "uiName": [
+      "P�Ҷ��N�%m��#����n���V�"
+    ],
+    "bindKey": 20,
+    "bindKeyGamepad": 103,
+    "des": "加速播放",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 415,
+    "uiName": [
+      "P�Ҷ��N�%m��#����n���V�"
+    ],
+    "bindKey": 3,
+    "bindKeyGamepad": 13,
+    "des": "查看日志（剧情回顾）",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 416,
+    "uiName": [
+      "P�ˢ\b�5��V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 5,
+    "des": "提交起名申请",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 417,
+    "uiName": [
+      "P��{\u0003�k ��W��*'P�Ӻ�+��l1��"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 3,
+    "des": "切换二级页签（左）",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 418,
+    "uiName": [
+      "P��{\u0003�k ��W��*'P�Ӻ�+��l1��"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 4,
+    "des": "切换二级页签（右）",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 501,
+    "uiName": [
+      "P�Ӻ��jǝ:�"
+    ],
+    "bindKey": 37,
+    "bindKeyGamepad": 1,
+    "des": "枪械",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 502,
+    "uiName": [
+      "P�Ӻ��jǝ:�"
+    ],
+    "bindKey": 19,
+    "bindKeyGamepad": 5,
+    "des": "面具",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 503,
+    "uiName": [
+      "P��\u0004�����JH��B"
+    ],
+    "bindKey": 3,
+    "bindKeyGamepad": 12,
+    "des": "切换面具",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 504,
+    "uiName": [
+      "P�Ӻ��jǝ:�"
+    ],
+    "bindKey": 1,
+    "bindKeyGamepad": 7,
+    "des": "近战攻击",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 505,
+    "uiName": [
+      "P�Ӻ��jǝ:�"
+    ],
+    "bindKey": 17,
+    "bindKeyGamepad": 6,
+    "des": "防御",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 506,
+    "uiName": [
+      "P�Ӻ��jǝ:�"
+    ],
+    "bindKey": 32,
+    "bindKeyGamepad": 8,
+    "des": "道具",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 507,
+    "uiName": [
+      "P���֜���2��JH�"
+    ],
+    "bindKey": 16,
+    "bindKeyGamepad": 0,
+    "des": "One More",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 508,
+    "uiName": [
+      "P���֜���2��JH�"
+    ],
+    "bindKey": 1,
+    "bindKeyGamepad": 7,
+    "des": "总攻击",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 509,
+    "uiName": [
+      "P���֜�*^y�)"
+    ],
+    "bindKey": 28,
+    "bindKeyGamepad": 14,
+    "des": "设置",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 510,
+    "uiName": [
+      "P��\u0004�����JH��B\u0014#�",
+      "y)\"�R'~�\b�K\u001eJH���ߠr�#�-��$:w�����)eP���֜�K\u001e\"צP���֜�:�rE\b�\u000bmi�\u0011�W�z֢"
+    ],
+    "bindKey": 60,
+    "bindKeyGamepad": 6,
+    "des": "返回",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 511,
+    "uiName": [
+      "P���֜�*^y�)"
+    ],
+    "bindKey": 20,
+    "bindKeyGamepad": 103,
+    "des": "加速",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 512,
+    "uiName": [
+      "P���֜�*^y�)"
+    ],
+    "bindKey": 40,
+    "bindKeyGamepad": 104,
+    "des": "自动战斗",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 513,
+    "uiName": [],
+    "bindKey": 15,
+    "bindKeyGamepad": 3,
+    "des": "切换选中（左）",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 514,
+    "uiName": [],
+    "bindKey": 18,
+    "bindKeyGamepad": 4,
+    "des": "切换选中（右）",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 515,
+    "uiName": [
+      "P���֜���2��JH�"
+    ],
+    "bindKey": 41,
+    "bindKeyGamepad": 12,
+    "des": "one More1",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 516,
+    "uiName": [
+      "P���֜���2��JH�"
+    ],
+    "bindKey": 42,
+    "bindKeyGamepad": 11,
+    "des": "one More2",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 517,
+    "uiName": [
+      "P���֜���2��JH�"
+    ],
+    "bindKey": 43,
+    "bindKeyGamepad": 104,
+    "des": "one More3",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 518,
+    "uiName": [
+      "P���֜���2��JH�"
+    ],
+    "bindKey": 44,
+    "bindKeyGamepad": 103,
+    "des": "one More4",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 519,
+    "uiName": [
+      "P��\u0004�����JH��B\u0014#�-��$Rǈ��#�-��$N��"
+    ],
+    "bindKey": 1,
+    "bindKeyGamepad": 7,
+    "des": "选择技能/道具",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 520,
+    "uiName": [
+      "P�Ա䤊YH��\u0007-B?Rǒ�)e\"w�"
+    ],
+    "bindKey": 1,
+    "bindKeyGamepad": 7,
+    "des": "目标选择确认",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 521,
+    "uiName": [
+      "P�Ӻ��jǝ:�"
+    ],
+    "bindKey": 21,
+    "bindKeyGamepad": 10,
+    "des": "支援",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 1,
+    "showGamepad": 1,
+    "sound": ""
+  },
+  {
+    "sn": 522,
+    "uiName": [
+      "P�Ӻ��jǝ:�T#�-��$F�^\r�Z�"
+    ],
+    "bindKey": 3,
+    "bindKeyGamepad": 12,
+    "des": "切换",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 523,
+    "uiName": [
+      "P���֜�\te"
+    ],
+    "bindKey": 22,
+    "bindKeyGamepad": 2,
+    "des": "HighLight",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 524,
+    "uiName": [
+      "P��\u0004x��X��Ԟ��-"
+    ],
+    "bindKey": 41,
+    "bindKeyGamepad": 0,
+    "des": "HighLight1",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 525,
+    "uiName": [
+      "P��\u0004x��X��Ԟ��-"
+    ],
+    "bindKey": 42,
+    "bindKeyGamepad": 0,
+    "des": "HighLight2",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 526,
+    "uiName": [
+      "P��\u0004x��X��Ԟ��-"
+    ],
+    "bindKey": 43,
+    "bindKeyGamepad": 0,
+    "des": "HighLight3",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 527,
+    "uiName": [
+      "P��\u0004x��X��Ԟ��-"
+    ],
+    "bindKey": 44,
+    "bindKeyGamepad": 0,
+    "des": "HighLight4",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 528,
+    "uiName": [
+      "P��\u0004�����JH��B\u0014#�-��$Rǈ��#�-��$F�^\r�Z�"
+    ],
+    "bindKey": 37,
+    "bindKeyGamepad": 1,
+    "des": "战斗道具、技能选中（上）",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 529,
+    "uiName": [
+      "P��\u0004�����JH��B\u0014#�-��$Rǈ��#�-��$F�^\r�Z�"
+    ],
+    "bindKey": 33,
+    "bindKeyGamepad": 2,
+    "des": "战斗道具、技能选中（下）",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 530,
+    "uiName": [
+      "P���֜�*^y�)"
+    ],
+    "bindKey": 60,
+    "bindKeyGamepad": 13,
+    "des": "退出战斗",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 531,
+    "uiName": [
+      "P���֜�*^y�)P���֜�\u001a%x7�j)"
+    ],
+    "bindKey": 31,
+    "bindKeyGamepad": 11,
+    "des": "查看单位详细信息",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 532,
+    "uiName": [
+      "P���֜�\u0007-���z����"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 9,
+    "des": "查看战斗tips",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 6,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 550,
+    "uiName": [
+      "P���֜�\u001a%x7�j)"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 8,
+    "des": "切换己方敌方",
+    "waitAni": 1,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1001,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 7,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1002,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 6,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1003,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 5,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1004,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 8,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1005,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 9,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1006,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 10,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1007,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 14,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1008,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 13,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1009,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 11,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1010,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 12,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1011,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 103,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1012,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 104,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1013,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 1,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1014,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 2,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1015,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 3,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 1016,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 4,
+    "des": "UE直接配置专用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 2001,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 105,
+    "des": "滚动阅读提示用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 2002,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 106,
+    "des": "滚动阅读提示以及新手引导用",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 2003,
+    "uiName": [],
+    "bindKey": 31,
+    "bindKeyGamepad": 103,
+    "des": "都市玩法合集",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 2004,
+    "uiName": [],
+    "bindKey": 0,
+    "bindKeyGamepad": 107,
+    "des": "十字键提示",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 2005,
+    "uiName": [],
+    "bindKey": 37,
+    "bindKeyGamepad": 11,
+    "des": "切换上下页签（手柄肩键/键盘WS",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 2006,
+    "uiName": [],
+    "bindKey": 33,
+    "bindKeyGamepad": 12,
+    "des": "切换上下页签（手柄肩键/键盘WS",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 2007,
+    "uiName": [],
+    "bindKey": 20,
+    "bindKeyGamepad": 3,
+    "des": "作战基地",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 2,
+    "modify": 1,
+    "show": 1,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 2008,
+    "uiName": [],
+    "bindKey": 20,
+    "bindKeyGamepad": 104,
+    "des": "都市拍照任务按钮",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 10001,
+    "uiName": [
+      "P�¢�Lj)Չ�"
+    ],
+    "bindKey": 41,
+    "bindKeyGamepad": 13,
+    "des": "协同者偏好",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 10002,
+    "uiName": [
+      "P�¢�Lj)Չ�"
+    ],
+    "bindKey": 42,
+    "bindKeyGamepad": 5,
+    "des": "协同者奖励",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 10003,
+    "uiName": [
+      "P�¢�Lj)Չ�"
+    ],
+    "bindKey": 43,
+    "bindKeyGamepad": 8,
+    "des": "协同者档案",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 10004,
+    "uiName": [
+      "P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�r'~�k�`���\b�+kjx\u001eN\u0018�|Ƣ��ߠZ��az"
+    ],
+    "bindKey": 41,
+    "bindKeyGamepad": 13,
+    "des": "主角灵感\\怪盗成长",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 10005,
+    "uiName": [
+      "P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�r'~�k�`���\b�+kjx\u001eN\u0018�|Ƣ��ߠZ��az"
+    ],
+    "bindKey": 42,
+    "bindKeyGamepad": 5,
+    "des": "怪盗武器",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 10006,
+    "uiName": [
+      "P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�r'~�k�`���\b�+kjx\u001eN\u0018�|Ƣ��ߠZ��az"
+    ],
+    "bindKey": 43,
+    "bindKeyGamepad": 8,
+    "des": "怪盗启示",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 10007,
+    "uiName": [
+      "P�Ҷ�������j)ȝ�\u0014#�����y8by�\u001a�r'~�k�`���\b�+kjx\u001eN\u0018�|Ƣ��ߠZ��az"
+    ],
+    "bindKey": 44,
+    "bindKeyGamepad": 7,
+    "des": "主角面具\\怪盗技能",
+    "waitAni": 1,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20000,
+    "uiName": [
+      "P��j)�j�\b���iǔ!B?:��Z��tƩP��jg�i�\u001e��b{"
+    ],
+    "bindKey": 4,
+    "bindKeyGamepad": 11,
+    "des": "轮盘菜单",
+    "waitAni": 0,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20001,
+    "uiName": [
+      "P��jg�i�\u001e��b{"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 1,
+    "des": "轮盘菜单视角拉近",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20002,
+    "uiName": [
+      "P��jg�i�\u001e��b{"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 2,
+    "des": "轮盘菜单视角拉远",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20003,
+    "uiName": [],
+    "bindKey": 60,
+    "bindKeyGamepad": 9,
+    "des": "剧情跳过",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20101,
+    "uiName": [
+      "P�É�h�*'~*�\u000e&��\u0004�X��B?I�_M�d\n�ߊ����h�8�V'�P��j��\u0000�����8���\u0013��b{\u0005\b�\t�\u000e&��\u0000�����8���\u0013��b{\u0005\b�X��Ԥ�YCz��jZ N*U��\u0014#�b�\u001bS��ް8���\u0013��b{\u0005\b���\u0006�¢w�`�jZ N*U��\u0014#�&j\u0007��w�`�jZ N*U��\u0014#�ڕ�\u001eJ�j���w�e\b�[�p�^�8���\u0013��b{\u0005\b�[�p\u001b�nW���h�8�V'�P��m�*'~*�\u000e&��\u0004�X�"
+    ],
+    "bindKey": 1,
+    "bindKeyGamepad": 7,
+    "des": "弹窗-确认",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20102,
+    "uiName": [
+      "P�É�h�*'~*�\u000e&��\u0004�X��B?I�_M�d\n�ߊ����h�8�V'�P��j��\u0000�����8���\u0013��b{\u0005\b�\t�\u000e&��\u0000�����8���\u0013��b{\u0005\b�X��Ԥ�YCz��jZ N*U��\u0014#�b�\u001bS��ް8���\u0013��b{\u0005\b���\u0006�¢w�`�jZ N*U��\u0014#�&j\u0007��w�`�jZ N*U��\u0014#�ڕ�\u001eJ�j���w�e\b�[�p�^�8���\u0013��b{\u0005\b�[�p\u001b�nW���h�8�V'�P��m�*'~*�\u000e&��\u0004�X�"
+    ],
+    "bindKey": 60,
+    "bindKeyGamepad": 6,
+    "des": "弹窗-取消",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20201,
+    "uiName": [
+      "P��j\u0002-zk\u0014#�^��Z�*%��-���#�����y8by��j)Չ�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 10,
+    "des": "通用-选中资源条",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20202,
+    "uiName": [
+      "P��j\u0002-zk"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 14,
+    "des": "背包-进入删除状态",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20203,
+    "uiName": [
+      "P��j\u0002-zk"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 4,
+    "des": "背包-使用数量加",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20204,
+    "uiName": [
+      "P��j\u0002-zk"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 3,
+    "des": "背包-使用数量减",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20205,
+    "uiName": [
+      "P��j\u0002-zk"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 8,
+    "des": "背包-使用数量max",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20206,
+    "uiName": [
+      "P��j\u0002-zk"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 5,
+    "des": "背包-详情操作按钮（使用、详情、前往等）",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20207,
+    "uiName": [
+      "P��j\u0002-zk"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 13,
+    "des": "背包-道具锁",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20208,
+    "uiName": [
+      "P��j\u0002-zk"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 7,
+    "des": "背包-选中获取途径",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20301,
+    "uiName": [
+      "P��z�(��O���"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 13,
+    "des": "菜单-打开个人信息",
+    "waitAni": 0,
+    "KeyOpen": [
+      0
+    ],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": "UI0012"
+  },
+  {
+    "sn": 20401,
+    "uiName": [
+      "P��{\u0003�k ��W��*'"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 9,
+    "des": "手柄通用-查看道具",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20501,
+    "uiName": [
+      "P�Ҷ�������j)ȝ�\u0005���j�T#�����y8by�\u001a�r'~�k�c�����+kjx\u001eN\u0018�|Ƣ���"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 9,
+    "des": "怪盗-面具上阵界面/P详情",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20502,
+    "uiName": [
+      "P�ӆ'�2�^��(�X��B?=��v��ץ.�$V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 5,
+    "des": "怪盗-展示切换",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20503,
+    "uiName": [
+      "P�ӆ'�2�^��(�X��B?=��v��ץ.�$V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 14,
+    "des": "怪盗-拍照",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20504,
+    "uiName": [
+      "P�ӆ'�2�^��(�X��B?=��v��ץ.�$V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 8,
+    "des": "怪盗-缩放",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20505,
+    "uiName": [
+      "P�Ҷ��������P-���Eb{\u0005\b�+kjx\u001eN\u0018�|w��\te\u0002�k.�$V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 9,
+    "des": "怪盗详情-选中问号",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20506,
+    "uiName": [
+      "P�Ҷ�������j)ȝ�\u0005���j�T#�����y8by�\u001a�r'~�k�c�����+kjx\u001eN\u0018�|Ƣ���"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 13,
+    "des": "wonder详情/怪盗详情",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20511,
+    "uiName": [
+      "P�Ҷ����ޮ�'hƢ�&�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 8,
+    "des": "上阵P-查看P信息",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20512,
+    "uiName": [
+      "P�Ҷ����ޮ�'hƢ�&�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 5,
+    "des": "上阵P-确认编队",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20513,
+    "uiName": [
+      "P�Ҷ����ޮ�'hƢ�&�uB?J�ڞ\u0007��'�1��\t��\u0016)mz"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 5,
+    "des": "p筛选-确认",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20521,
+    "uiName": [
+      "P�Ҷ������Ҷ��V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 5,
+    "des": "怪盗卡牌-全屏卡牌",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20531,
+    "uiName": [
+      "P�Ҷ������ӭ��V'�P�Ҷ������ӭ��V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 9,
+    "des": "怪盗成长-展开列表",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20532,
+    "uiName": [
+      "P�Ҷ������ӭ��V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 13,
+    "des": "怪盗成长-突破/意识详情",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20533,
+    "uiName": [
+      "P�Ҷ������ӭ��V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 8,
+    "des": "怪盗成长-快速选择",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20534,
+    "uiName": [
+      "P�Ҷ������ӭ��V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 14,
+    "des": "怪盗成长-选择状态",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 20535,
+    "uiName": [
+      "P�Ҷ������ӭ��V'�"
+    ],
+    "bindKey": 0,
+    "bindKeyGamepad": 5,
+    "des": "怪盗成长-升级操作",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 99990,
+    "uiName": [],
+    "bindKey": 99990,
+    "bindKeyGamepad": 0,
+    "des": "攻击、牛车攻击、隐匿偷袭",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  },
+  {
+    "sn": 99991,
+    "uiName": [],
+    "bindKey": 99991,
+    "bindKeyGamepad": 0,
+    "des": "攻击、牛车攻击、隐匿偷袭",
+    "waitAni": 0,
+    "KeyOpen": [],
+    "showType": 99,
+    "modify": 0,
+    "show": 0,
+    "modifyGamepad": 0,
+    "showGamepad": 0,
+    "sound": ""
+  }
+]

@@ -1,158 +1,290 @@
 [
   {
-    "sn": 1,
-    "challengeType": 0,
+    "sn": 1101,
     "openDesc": "全天开放",
     "openIcon": "yishijie-xiaobiaoti-changzhu.png",
-    "chapters": [],
+    "chapters": [
+      0
+    ],
     "priority": 1,
-    "level": 1,
+    "funcOpenSn": 0,
+    "level": 0,
     "quests": [],
     "challenges": [],
-    "npcSn": 0,
+    "npcSn": 5504007,
+    "challengeType": 4,
     "consume": 20
   },
   {
-    "sn": 2,
-    "challengeType": 0,
+    "sn": 1201,
     "openDesc": "全天开放",
     "openIcon": "yishijie-xiaobiaoti-changzhu.png",
-    "chapters": [],
+    "chapters": [
+      0
+    ],
     "priority": 2,
-    "level": 1,
+    "funcOpenSn": 0,
+    "level": 0,
     "quests": [],
     "challenges": [],
-    "npcSn": 0,
+    "npcSn": 5504008,
+    "challengeType": 4,
     "consume": 20
   },
   {
-    "sn": 3,
-    "challengeType": 0,
+    "sn": 1301,
     "openDesc": "全天开放",
     "openIcon": "yishijie-xiaobiaoti-changzhu.png",
-    "chapters": [],
+    "chapters": [
+      0
+    ],
     "priority": 3,
-    "level": 1,
+    "funcOpenSn": 0,
+    "level": 0,
     "quests": [],
     "challenges": [],
-    "npcSn": 0,
+    "npcSn": 5506027,
+    "challengeType": 4,
     "consume": 20
   },
   {
-    "sn": 4,
-    "challengeType": 0,
-    "openDesc": "奖励每日轮替",
-    "openIcon": "yishijie-xiaobiaoti-shijian.png",
-    "chapters": [],
+    "sn": 1401,
+    "openDesc": "全天开放",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
+    "chapters": [
+      0
+    ],
     "priority": 4,
-    "level": 1,
+    "funcOpenSn": 0,
+    "level": 0,
     "quests": [],
     "challenges": [],
-    "npcSn": 0,
+    "npcSn": 5506029,
+    "challengeType": 4,
     "consume": 20
   },
   {
-    "sn": 5,
-    "challengeType": 1,
+    "sn": 1500,
     "openDesc": "全天开放",
     "openIcon": "yishijie-xiaobiaoti-changzhu.png",
     "chapters": [
-      701,
-      702,
-      703
+      0
     ],
-    "priority": 1,
-    "level": 1,
+    "priority": 5,
+    "funcOpenSn": 0,
+    "level": 0,
     "quests": [],
     "challenges": [],
-    "npcSn": 5502205,
+    "npcSn": 5504011,
+    "challengeType": 4,
     "consume": 20
   },
   {
-    "sn": 6,
-    "challengeType": 2,
+    "sn": 1600,
     "openDesc": "全天开放",
     "openIcon": "yishijie-xiaobiaoti-changzhu.png",
     "chapters": [
-      801,
-      802,
-      803
+      0
     ],
-    "priority": 2,
-    "level": 1,
+    "priority": 6,
+    "funcOpenSn": 0,
+    "level": 0,
     "quests": [],
     "challenges": [],
-    "npcSn": 5502206,
+    "npcSn": 5504012,
+    "challengeType": 4,
     "consume": 20
   },
   {
-    "sn": 7,
-    "challengeType": 3,
+    "sn": 1700,
     "openDesc": "全天开放",
     "openIcon": "yishijie-xiaobiaoti-changzhu.png",
     "chapters": [
-      901,
-      902,
-      903
+      0
     ],
-    "priority": 3,
-    "level": 1,
+    "priority": 7,
+    "funcOpenSn": 0,
+    "level": 0,
     "quests": [],
     "challenges": [],
-    "npcSn": 5502207,
+    "npcSn": 5506026,
+    "challengeType": 4,
     "consume": 20
   },
   {
-    "sn": 8,
-    "challengeType": 4,
+    "sn": 1801,
     "openDesc": "全天开放",
-    "openIcon": "yishijie-xiaobiaoti-shijian.png",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
     "chapters": [
-      1001,
-      1002,
-      1003
+      0
     ],
-    "priority": 1,
-    "level": 1,
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
     "quests": [],
     "challenges": [],
-    "npcSn": 0,
+    "npcSn": 5514016,
+    "challengeType": 4,
     "consume": 20
   },
   {
-    "sn": 9,
-    "challengeType": 4,
+    "sn": 1802,
     "openDesc": "全天开放",
-    "openIcon": "yishijie-xiaobiaoti-shijian.png",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
     "chapters": [
-      1004,
-      1005,
-      1006,
-      1010
+      0
     ],
-    "priority": 2,
-    "level": 1,
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
     "quests": [],
     "challenges": [],
-    "npcSn": 0,
+    "npcSn": 5514017,
+    "challengeType": 4,
     "consume": 20
   },
   {
-    "sn": 10,
-    "challengeType": 4,
+    "sn": 1803,
     "openDesc": "全天开放",
-    "openIcon": "yishijie-xiaobiaoti-shijian.png",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
     "chapters": [
-      1007,
-      1008,
-      1009,
-      1011
+      0
     ],
-    "priority": 3,
-    "level": 1,
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
+    "quests": [],
+    "challenges": [],
+    "npcSn": 5514018,
+    "challengeType": 4,
+    "consume": 20
+  },
+  {
+    "sn": 1804,
+    "openDesc": "全天开放",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
+    "chapters": [
+      0
+    ],
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
+    "quests": [],
+    "challenges": [],
+    "npcSn": 5514019,
+    "challengeType": 4,
+    "consume": 20
+  },
+  {
+    "sn": 1805,
+    "openDesc": "全天开放",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
+    "chapters": [
+      0
+    ],
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
+    "quests": [],
+    "challenges": [],
+    "npcSn": 5513016,
+    "challengeType": 4,
+    "consume": 20
+  },
+  {
+    "sn": 1806,
+    "openDesc": "全天开放",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
+    "chapters": [
+      0
+    ],
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
+    "quests": [],
+    "challenges": [],
+    "npcSn": 5513017,
+    "challengeType": 4,
+    "consume": 20
+  },
+  {
+    "sn": 1807,
+    "openDesc": "全天开放",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
+    "chapters": [
+      0
+    ],
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
+    "quests": [],
+    "challenges": [],
+    "npcSn": 5513018,
+    "challengeType": 4,
+    "consume": 20
+  },
+  {
+    "sn": 1808,
+    "openDesc": "全天开放",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
+    "chapters": [
+      0
+    ],
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
+    "quests": [],
+    "challenges": [],
+    "npcSn": 5513019,
+    "challengeType": 4,
+    "consume": 20
+  },
+  {
+    "sn": 1809,
+    "openDesc": "全天开放",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
+    "chapters": [
+      0
+    ],
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
     "quests": [],
     "challenges": [],
     "npcSn": 0,
-    "consume": 20
+    "challengeType": 4,
+    "consume": 0
+  },
+  {
+    "sn": 1900,
+    "openDesc": "全天开放",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
+    "chapters": [
+      0
+    ],
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
+    "quests": [],
+    "challenges": [],
+    "npcSn": 0,
+    "challengeType": 4,
+    "consume": 0
+  },
+  {
+    "sn": 1901,
+    "openDesc": "全天开放",
+    "openIcon": "yishijie-xiaobiaoti-changzhu.png",
+    "chapters": [
+      0
+    ],
+    "priority": 8,
+    "funcOpenSn": 0,
+    "level": 0,
+    "quests": [],
+    "challenges": [],
+    "npcSn": 0,
+    "challengeType": 4,
+    "consume": 0
   }
 ]

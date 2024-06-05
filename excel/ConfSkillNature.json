@@ -2,261 +2,305 @@
   {
     "sn": 1,
     "name": "物理",
-    "picIcon": "persona-wu-new.png",
-    "textIcon": "shuxingtubiao-wu.png",
+    "picIcon": "jineng-new-wu-2.png",
+    "textIcon": "jineng-new-wu.png",
     "color": "#9F8B2F",
     "nature": 1,
     "resistNature": 1,
     "echoBuff": [
-      41001
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "物理元素怪盗技能伤害提升5%"
+      "�!�"
     ],
     "echobufficon": "zouming-icon-wuli-type-2.png",
-    "echobufficon_di": "zouming-icon-wuli-type-1.png"
+    "echobufficon_di": "zouming-icon-wuli-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-wu.png",
+    "personaBackIcon": "persona-card-physics.png",
+    "tipsDesc": "攻击造成物理属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 2,
     "name": "射击",
-    "picIcon": "persona-she-new.png",
-    "textIcon": "shuxingtubiao-she.png",
+    "picIcon": "jineng-new-she-2.png",
+    "textIcon": "jineng-new-she.png",
     "color": "#79680C",
     "nature": 1,
     "resistNature": 1,
     "echoBuff": [
-      41002
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "射击元素怪盗技能伤害提升5%"
+      "\bn"
     ],
     "echobufficon": "zouming-icon-sheji-type-2.png",
-    "echobufficon_di": "zouming-icon-sheji-type-1.png"
+    "echobufficon_di": "zouming-icon-sheji-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-she.png",
+    "personaBackIcon": "persona-card-shoot.png",
+    "tipsDesc": "攻击造成射击属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 3,
-    "name": "火炎",
-    "picIcon": "persona-huo-new.png",
-    "textIcon": "shuxingtubiao-huo.png",
+    "name": "火焰",
+    "picIcon": "jineng-new-huo-2.png",
+    "textIcon": "jineng-new-huo.png",
     "color": "#B91F1F",
     "nature": 1,
     "resistNature": 1,
     "echoBuff": [
-      41003
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "火焰元素怪盗技能伤害提升5%"
+      "�@�"
     ],
     "echobufficon": "zouming-icon-huo-type-2.png",
-    "echobufficon_di": "zouming-icon-huo-type-1.png"
+    "echobufficon_di": "zouming-icon-huo-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-huo.png",
+    "personaBackIcon": "persona-card-fire.png",
+    "tipsDesc": "攻击造成火焰属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 4,
-    "name": "冻结",
-    "picIcon": "persona-bing-new.png",
-    "textIcon": "shuxingtubiao-bing.png",
+    "name": "冰冻",
+    "picIcon": "jineng-new-bing-2.png",
+    "textIcon": "jineng-new-bing.png",
     "color": "#1E75A4",
     "nature": 1,
     "resistNature": 1,
     "echoBuff": [
-      41004
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "冻结元素怪盗技能伤害提升5%"
+      "\bn"
     ],
     "echobufficon": "zouming-icon-bingdong-type-2.png",
-    "echobufficon_di": "zouming-icon-bingdong-type-1.png"
+    "echobufficon_di": "zouming-icon-bingdong-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-bin.png",
+    "personaBackIcon": "persona-card-ice.png",
+    "tipsDesc": "攻击造成冰冻属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 5,
     "name": "电击",
-    "picIcon": "persona-dian-new.png",
-    "textIcon": "shuxingtubiao-dian.png",
+    "picIcon": "jineng-new-dian-2.png",
+    "textIcon": "jineng-new-dian.png",
     "color": "#DDC83B",
     "nature": 1,
     "resistNature": 1,
     "echoBuff": [
-      41005
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "电击元素怪盗技能伤害提升5%"
+      "�!�"
     ],
     "echobufficon": "zouming-icon-dianji-type-2.png",
-    "echobufficon_di": "zouming-icon-dianji-type-1.png"
+    "echobufficon_di": "zouming-icon-dianji-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-dian.png",
+    "personaBackIcon": "persona-card-electric.png",
+    "tipsDesc": "攻击造成电击属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 6,
     "name": "疾风",
-    "picIcon": "persona-feng-new.png",
-    "textIcon": "shuxingtubiao-feng.png",
+    "picIcon": "jineng-new-feng-2.png",
+    "textIcon": "jineng-new-feng.png",
     "color": "#4DB02D",
     "nature": 1,
     "resistNature": 1,
     "echoBuff": [
-      41006
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "疾风元素怪盗技能伤害提升5%"
+      "\bn"
     ],
     "echobufficon": "zouming-icon-jifeng-type-2.png",
-    "echobufficon_di": "zouming-icon-jifeng-type-1.png"
+    "echobufficon_di": "zouming-icon-jifeng-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-feng.png",
+    "personaBackIcon": "persona-card-wind.png",
+    "tipsDesc": "攻击造成疾风属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 7,
     "name": "念动",
-    "picIcon": "persona-nian-new.png",
-    "textIcon": "shuxingtubiao-nian.png",
+    "picIcon": "jineng-new-nian-2.png",
+    "textIcon": "jineng-new-nian.png",
     "color": "#90187A",
     "nature": 1,
     "resistNature": 1,
     "echoBuff": [
-      41007
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "念动元素怪盗技能伤害提升5%"
+      "\bn"
     ],
     "echobufficon": "zouming-icon-niandong-type-2.png",
-    "echobufficon_di": "zouming-icon-niandong-type-1.png"
+    "echobufficon_di": "zouming-icon-niandong-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-nian.png",
+    "personaBackIcon": "persona-card-think.png",
+    "tipsDesc": "攻击造成念动属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 8,
     "name": "核热",
-    "picIcon": "persona-he-new.png",
-    "textIcon": "shuxingtubiao-he.png",
+    "picIcon": "jineng-new-he-2.png",
+    "textIcon": "jineng-new-he.png",
     "color": "#16DFEE",
     "nature": 1,
     "resistNature": 1,
     "echoBuff": [
-      41008
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "核热元素怪盗技能伤害提升5%"
+      "�!�"
     ],
     "echobufficon": "zouming-icon-here-type-2.png",
-    "echobufficon_di": "zouming-icon-here-type-1.png"
+    "echobufficon_di": "zouming-icon-here-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-he.png",
+    "personaBackIcon": "persona-card-pit.png",
+    "tipsDesc": "攻击造成核热属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 9,
     "name": "祝福",
-    "picIcon": "persona-zhu-new.png",
-    "textIcon": "shuxingtubiao-zhu.png",
+    "picIcon": "jineng-new-zhu-2.png",
+    "textIcon": "jineng-new-zhu.png",
     "color": "#FFFEA0",
     "nature": 1,
     "resistNature": 1,
     "echoBuff": [
-      41009
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "祝福元素怪盗技能伤害提升5%"
+      "\bn"
     ],
     "echobufficon": "zouming-icon-zhufu-type-2.png",
-    "echobufficon_di": "zouming-icon-zhufu-type-1.png"
+    "echobufficon_di": "zouming-icon-zhufu-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-zhu.png",
+    "personaBackIcon": "persona-card-blessing.png",
+    "tipsDesc": "攻击造成祝福属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 10,
     "name": "诅咒",
-    "picIcon": "persona-zhou-new.png",
-    "textIcon": "shuxingtubiao-zhou.png",
+    "picIcon": "jineng-new-zhou-2.png",
+    "textIcon": "jineng-new-zhou.png",
     "color": "#60215E",
     "nature": 1,
     "resistNature": 1,
     "echoBuff": [
-      41010
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "诅咒元素怪盗技能伤害提升5%"
+      "\bn"
     ],
     "echobufficon": "zouming-icon-zuzhou-type-2.png",
-    "echobufficon_di": "zouming-icon-zuzhou-type-1.png"
+    "echobufficon_di": "zouming-icon-zuzhou-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-zhou.png",
+    "personaBackIcon": "persona-card-curse.png",
+    "tipsDesc": "攻击造成诅咒属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 11,
     "name": "万能",
-    "picIcon": "persona-wan-new.png",
-    "textIcon": "shuxingtubiao-wan.png",
+    "picIcon": "jineng-new-wan-2.png",
+    "textIcon": "jineng-new-wan.png",
     "color": "#90848F",
     "nature": 1,
     "resistNature": 0,
     "echoBuff": [
-      41011
+      0
     ],
     "echoBuffValue": [
-      0.05
+      0
     ],
     "echobufftitle": [
-      "面具协奏曲"
+      "o\u0003�"
     ],
     "echobuffdesc": [
-      "万能元素怪盗技能伤害提升5%"
+      "\bn"
     ],
     "echobufficon": "zouming-icon-wanneng-type-2.png",
-    "echobufficon_di": "zouming-icon-wanneng-type-1.png"
+    "echobufficon_di": "zouming-icon-wanneng-type-1.png",
+    "gachaResultPic": "chouka-jieguo-xibie-wan.png",
+    "personaBackIcon": "persona-card-universal.png",
+    "tipsDesc": "攻击造成万能属性伤害。",
+    "tipsShow": 1
   },
   {
     "sn": 12,
     "name": "治疗",
-    "picIcon": "persona-hui-new.png",
-    "textIcon": "shuxingtubiao-hui.png",
+    "picIcon": "jineng-new-hui-2.png",
+    "textIcon": "jineng-new-hui.png",
     "color": "#106A20",
     "nature": 1,
     "resistNature": 0,
@@ -265,13 +309,17 @@
     "echobufftitle": [],
     "echobuffdesc": [],
     "echobufficon": "",
-    "echobufficon_di": ""
+    "echobufficon_di": "",
+    "gachaResultPic": "",
+    "personaBackIcon": "",
+    "tipsDesc": "",
+    "tipsShow": 0
   },
   {
     "sn": 13,
-    "name": "辅助",
-    "picIcon": "persona-fu-new.png",
-    "textIcon": "shuxingtubiao-fu.png",
+    "name": "无",
+    "picIcon": "jineng-new-fu-2.png",
+    "textIcon": "jineng-new-fu.png",
     "color": "#106A20",
     "nature": 1,
     "resistNature": 0,
@@ -280,13 +328,17 @@
     "echobufftitle": [],
     "echobuffdesc": [],
     "echobufficon": "",
-    "echobufficon_di": ""
+    "echobufficon_di": "",
+    "gachaResultPic": "",
+    "personaBackIcon": "",
+    "tipsDesc": "攻击无附加元素伤害。",
+    "tipsShow": 0
   },
   {
     "sn": 14,
     "name": "异常",
-    "picIcon": "persona-yi-new.png",
-    "textIcon": "shuxingtubiao-yi.png",
+    "picIcon": "jineng-new-yi-2.png",
+    "textIcon": "jineng-new-yi.png",
     "color": "#390830",
     "nature": 1,
     "resistNature": 0,
@@ -295,6 +347,29 @@
     "echobufftitle": [],
     "echobuffdesc": [],
     "echobufficon": "",
-    "echobufficon_di": ""
+    "echobufficon_di": "",
+    "gachaResultPic": "",
+    "personaBackIcon": "",
+    "tipsDesc": "",
+    "tipsShow": 0
+  },
+  {
+    "sn": 15,
+    "name": "被动",
+    "picIcon": "jineng-new-bei.png",
+    "textIcon": "jineng-new-bei.png",
+    "color": "#DDC83B",
+    "nature": 0,
+    "resistNature": 0,
+    "echoBuff": [],
+    "echoBuffValue": [],
+    "echobufftitle": [],
+    "echobuffdesc": [],
+    "echobufficon": "",
+    "echobufficon_di": "",
+    "gachaResultPic": "",
+    "personaBackIcon": "",
+    "tipsDesc": "",
+    "tipsShow": 0
   }
 ]

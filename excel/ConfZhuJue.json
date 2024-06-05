@@ -6,68 +6,66 @@
     "sceneSn": 2103,
     "unlockParam": 0,
     "model": [
-      "wonder",
-      "wonder_uniform",
-      "wonder_uniform",
-      "cattle_car"
+      "�z�(�׫���~���z��'�g\u001a��^�ƫ�:$z"
     ],
     "modelUI": "wonder",
-    "thiefCode": "guaidao-daihao-wonder.png",
+    "qualityPic": "pinzhi-guaidao-cai.png",
+    "thiefCode": "guaidao-peiyang-daihao-wonder.png",
     "thiefCodePos": [
-      -40,
-      -21,
       0
     ],
-    "typeSN": 1,
-    "modelFashionAble": "1,2,3|1,2,3|1,2,3,7|1,2,3",
+    "typeSN": 999,
+    "modelFashionAble": "1,2,3|1,2,3,10,11,12,13|1,2,3,7,10,11,12,13|1,2,3|1,2,3",
     "leaderName": "",
     "dialogPic": [
-      "duihua-joker-guaidao.png",
-      "duihua-joker.png",
-      "duihua-joker.png",
-      "duihua-joker-guaidao.png"
+      "v衹���G��\u000b��֨�x\u001d�(nk����\u0007n�\u001b��:$z�g�ۢ�澎�\u001e��.j'Z���v衹���G��\u000b��֨�x"
     ],
     "qishiScale": 1,
     "qishiPosition": [
-      0,
-      0,
       0
     ],
     "qishiRotation": [
-      0,
-      0,
+      0
+    ],
+    "collisionZhujue": [
+      0
+    ],
+    "collisionZhujueB": [
+      0
+    ],
+    "rotateZhujue": [
       0
     ],
     "gradeInitial": 5,
     "personaInitial": 101,
     "weaponInitial": 200101,
     "weaponIcon": "guaidao02-zhuangbei02.png",
+    "thiefEnterTL": "TL_UI_Thief_wonder",
     "equipEnterTL": "TL_UI_WeaponEnter_wonder",
     "equipStrenEnterTL": "TL_UI_EquipStrenEnter",
     "equipReformEnterTL": "TL_UI_EquipReformEnter",
     "cardEnterTL": "TL_UI_CardEnter",
-    "cvName": "",
-    "showSound": "Sys_Wonder0002",
-    "weaponenter_sound": "VO_Wonder0001",
-    "thiefchange_sound": "Sys_Wonder0002",
-    "cardenter_sound": "VO_Wonder0059",
-    "thiefbattle_sound": "Sys_Wonder0002",
-    "levelup_sound": "Sys_Wonder0003",
-    "breach_sound": "Sys_Wonder0007",
-    "weaponchange_sound": "Sys_Wonder0006",
+    "cvName": "内山昂辉",
+    "chcvName": "苏尚卿",
+    "showSound": "sys11_001_1",
+    "talent_sound": "sys11_005_1",
+    "weaponenter_sound": "sys11_003_1",
+    "thiefchange_sound": "",
+    "cardenter_sound": "sys11_004_1",
+    "thiefbattle_sound": "sys11_001_1",
+    "levelup_sound": "sys11_008_1",
+    "breach_sound": "sys11_008_1",
+    "weaponchange_sound": "sys11_007_1",
+    "thiefback_sound": "sys11_001_1",
     "bigPic": "kapai-002.png",
     "readyPic": "guaidao-kapai-joker-new.png",
     "zhengrongReadyPic": "zhenrong-lihui-wonder-new.png",
     "thiefBigPicPos": [
-      199.1,
-      -39.7,
       0
     ],
     "jinjieThiefpos": [],
     "jinjieThiefScale": 0,
     "zhenronglistThiefpos": [
-      0,
-      0,
       0
     ],
     "readyShadowPic": "kamian-9-2.png",
@@ -76,36 +74,125 @@
     "readyShadowPicThiefPos": "kamian-9-2.png",
     "icon": "Tongyong-touxiang-A-11.png",
     "isOpen": [
-      1
+      0
     ],
     "startStroy": 5003,
     "property": [
-      241,
-      261,
-      271,
-      251,
-      281,
-      291,
-      321,
-      331
+      0
     ],
     "initialPropertyValue": [
-      184.28,
-      46.24,
-      33.24,
-      52.5,
-      0.05,
-      1.5,
-      2,
-      1
+      0
     ],
     "lockedTips": "完成“%s\"解锁",
     "skillgroup": [
-      10101
+      0
     ],
     "gunSkill": 10161,
     "gunBullets": 8,
     "gunAccuracy": 0.9,
-    "gunCritical": 0.0611
+    "gunCritical": 0.0611,
+    "cardCommend": [
+      0
+    ],
+    "gachaResultName": "guaidao-mingzi-chouka-wonder.png",
+    "gachaResultNameFourStars": "guaidao-mingzi-chouka-wonder.png"
+  },
+  {
+    "sn": 102,
+    "name": "JOKER",
+    "school": 1,
+    "sceneSn": 2103,
+    "unlockParam": 0,
+    "model": [
+      "��\u001e"
+    ],
+    "modelUI": "joker",
+    "qualityPic": "pinzhi-guaidao-cai.png",
+    "thiefCode": "guaidao-peiyang-daihao-wonder.png",
+    "thiefCodePos": [
+      0
+    ],
+    "typeSN": 999,
+    "modelFashionAble": "1,2,3",
+    "leaderName": "",
+    "dialogPic": [
+      "v衹���G��\u000b��֨�x"
+    ],
+    "qishiScale": 1,
+    "qishiPosition": [
+      0
+    ],
+    "qishiRotation": [
+      0
+    ],
+    "collisionZhujue": [
+      0
+    ],
+    "collisionZhujueB": [
+      0
+    ],
+    "rotateZhujue": [
+      0
+    ],
+    "gradeInitial": 5,
+    "personaInitial": 1261,
+    "weaponInitial": 212601,
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "thiefEnterTL": "TL_UI_Thief_wonder",
+    "equipEnterTL": "TL_UI_WeaponEnter_wonder",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "cvName": "内山昂辉",
+    "chcvName": "苏尚卿",
+    "showSound": "Sys_Joker0002",
+    "talent_sound": "Sys_Joker0001",
+    "weaponenter_sound": "Sys_Joker0001",
+    "thiefchange_sound": "Sys_Joker0002",
+    "cardenter_sound": "Sys_Joker0005",
+    "thiefbattle_sound": "Sys_Joker0002",
+    "levelup_sound": "Sys_Joker0003",
+    "breach_sound": "Sys_Joker0004",
+    "weaponchange_sound": "Sys_Joker0006",
+    "thiefback_sound": "",
+    "bigPic": "kapai-002.png",
+    "readyPic": "guaidao-kapai-joker-new.png",
+    "zhengrongReadyPic": "zhenrong-lihui-wonder-new.png",
+    "thiefBigPicPos": [
+      0
+    ],
+    "jinjieThiefpos": [],
+    "jinjieThiefScale": 0,
+    "zhenronglistThiefpos": [
+      0
+    ],
+    "readyShadowPic": "kamian-3-2.png",
+    "littlePic": "kapai-joker01.png",
+    "readyPicThiefPos": "kamian-9-1.png",
+    "readyShadowPicThiefPos": "kamian-3-2.png",
+    "icon": "Tongyong-touxiang-A-6.png",
+    "isOpen": [
+      0
+    ],
+    "startStroy": 5003,
+    "property": [
+      0
+    ],
+    "initialPropertyValue": [
+      0
+    ],
+    "lockedTips": "完成“%s\"解锁",
+    "skillgroup": [
+      0
+    ],
+    "gunSkill": 126161,
+    "gunBullets": 8,
+    "gunAccuracy": 0.92,
+    "gunCritical": 0.0543,
+    "cardCommend": [
+      0
+    ],
+    "gachaResultName": "guaidao-mingzi-chouka-wonder.png",
+    "gachaResultNameFourStars": "guaidao-mingzi-chouka-wonder.png"
   }
 ]

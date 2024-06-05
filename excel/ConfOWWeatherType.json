@@ -2,9 +2,10 @@
   {
     "sn": 1,
     "weather": "",
+    "weatherType": 1,
     "name": "晴天",
     "icon": "zhujiemian-taiyang1.png",
-    "image2": "dushi-tianqi-sun02.png",
+    "image2": "dushi-tianqi-sun01.png",
     "image3": "zhujiemian-kaifangshijie-baitian.png",
     "text": "天气不错，阳光明媚。",
     "grassLandFootPrint": "",
@@ -22,6 +23,7 @@
   {
     "sn": 2,
     "weather": "",
+    "weatherType": 1,
     "name": "阴天",
     "icon": "Demo-zhujiemian-mianjuhong-tianqi.png",
     "image2": "dushi-tianqi-yun01.png",
@@ -42,6 +44,7 @@
   {
     "sn": 3,
     "weather": "Rain",
+    "weatherType": 2,
     "name": "雨天",
     "icon": "Demo-zhujiemian-mianjuhong-tianqi.png",
     "image2": "dushi-tianqi-rain01.png",

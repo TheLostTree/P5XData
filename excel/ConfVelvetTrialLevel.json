@@ -1,793 +1,2907 @@
 [
   {
-    "sn": 1,
+    "sn": 101,
     "levelNum": 1,
+    "openLevel": 1,
     "battleSN": [
-      1
+      0
     ],
+    "naturePic": [],
+    "skillAffix": 4001,
     "goalScores": [
-      6000,
-      6500,
-      7000
+      0
     ],
     "goalAward": [
-      205001,
-      205001,
-      205001
+      0
     ],
     "bonusRule": [
       [
-        1,
-        33,
-        5000
-      ],
-      [
-        5,
-        2
-      ],
-      [
-        4,
-        2
+        "�N5�ny�N��4"
       ]
-    ]
+    ],
+    "battleTips": ""
   },
   {
-    "sn": 2,
+    "sn": 102,
     "levelNum": 2,
+    "openLevel": 1,
     "battleSN": [
-      2
+      0
     ],
+    "naturePic": [],
+    "skillAffix": 4001,
     "goalScores": [
-      8500,
-      14200,
-      15000
+      0
     ],
     "goalAward": [
-      205001,
-      205001,
-      205001
+      0
     ],
     "bonusRule": [
       [
-        1,
-        38,
-        8000
-      ],
-      [
-        6,
-        0,
-        6000
-      ],
-      [
-        5,
-        2
+        "�N5�my�M:�^t�"
       ]
-    ]
+    ],
+    "battleTips": ""
   },
   {
-    "sn": 3,
+    "sn": 103,
     "levelNum": 3,
+    "openLevel": 1,
     "battleSN": [
-      3
+      0
     ],
+    "naturePic": [],
+    "skillAffix": 4001,
     "goalScores": [
-      8000,
-      16000,
-      19500
+      0
     ],
     "goalAward": [
-      205001,
-      205001,
-      205001
+      0
     ],
     "bonusRule": [
       [
-        1,
-        30,
-        8000
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        6,
-        0,
-        6000
+        "�N5�my�M:�^t�"
       ]
-    ]
+    ],
+    "battleTips": ""
   },
   {
-    "sn": 4,
+    "sn": 104,
     "levelNum": 4,
+    "openLevel": 1,
     "battleSN": [
-      4
+      0
     ],
+    "naturePic": [],
+    "skillAffix": 4001,
     "goalScores": [
-      9000,
-      19000,
-      29000
+      0
     ],
     "goalAward": [
-      205001,
-      205001,
-      205001
+      0
     ],
     "bonusRule": [
       [
-        1,
-        38,
-        10000
-      ],
-      [
-        6,
-        1,
-        10000
-      ],
-      [
-        7,
-        3,
-        10000
+        "�N5�m��M:�nt�"
       ]
-    ]
+    ],
+    "battleTips": ""
   },
   {
-    "sn": 5,
+    "sn": 105,
     "levelNum": 5,
+    "openLevel": 1,
     "battleSN": [
-      5
+      0
     ],
+    "naturePic": [],
+    "skillAffix": 4001,
     "goalScores": [
-      15000,
-      23000,
-      26000
+      0
     ],
     "goalAward": [
-      205001,
-      205001,
-      205001
+      0
     ],
     "bonusRule": [
       [
-        1,
-        46,
-        10000
-      ],
-      [
-        2,
-        8,
-        2
-      ],
-      [
-        6,
-        0,
-        8000
+        "�N5�m��M:�m4�"
       ]
-    ]
+    ],
+    "battleTips": ""
   },
   {
-    "sn": 6,
+    "sn": 106,
     "levelNum": 6,
+    "openLevel": 1,
     "battleSN": [
-      6
+      0
     ],
+    "naturePic": [],
+    "skillAffix": 4001,
     "goalScores": [
-      16000,
-      26000,
-      30000
+      0
     ],
     "goalAward": [
-      205001,
-      205001,
-      205001
+      0
     ],
     "bonusRule": [
       [
-        1,
-        46,
-        10000
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        6,
-        0,
-        10000
+        "�N5ێ9�M:ӎt�"
       ]
-    ]
+    ],
+    "battleTips": ""
   },
   {
-    "sn": 7,
-    "levelNum": 1,
-    "battleSN": [
-      7
-    ],
-    "goalScores": [
-      9000,
-      14000,
-      15000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        40,
-        5000
-      ],
-      [
-        6,
-        0,
-        5000
-      ],
-      [
-        5,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 8,
-    "levelNum": 2,
-    "battleSN": [
-      8
-    ],
-    "goalScores": [
-      9500,
-      13200,
-      17000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        40,
-        5000
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        5,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 9,
-    "levelNum": 3,
-    "battleSN": [
-      9
-    ],
-    "goalScores": [
-      47000,
-      55000,
-      63000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        44,
-        5000
-      ],
-      [
-        2,
-        3,
-        2
-      ],
-      [
-        5,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 10,
-    "levelNum": 4,
-    "battleSN": [
-      10
-    ],
-    "goalScores": [
-      13000,
-      18000,
-      20500
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        45,
-        5000
-      ],
-      [
-        6,
-        0,
-        5000
-      ],
-      [
-        5,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 11,
-    "levelNum": 5,
-    "battleSN": [
-      11
-    ],
-    "goalScores": [
-      12000,
-      15000,
-      18000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        45,
-        5000
-      ],
-      [
-        2,
-        3,
-        2
-      ],
-      [
-        2,
-        4,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 12,
-    "levelNum": 6,
-    "battleSN": [
-      12
-    ],
-    "goalScores": [
-      30000,
-      39000,
-      48000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        54,
-        5000
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        5,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 13,
+    "sn": 107,
     "levelNum": 7,
+    "openLevel": 1,
     "battleSN": [
-      13
+      0
     ],
+    "naturePic": [],
+    "skillAffix": 4001,
     "goalScores": [
-      37000,
-      48000,
-      59000
+      0
     ],
     "goalAward": [
-      205001,
-      205001,
-      205001
+      0
     ],
     "bonusRule": [
       [
-        1,
-        60,
-        5000
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        5,
-        2
+        "�N5ۍ��M:�}4�"
       ]
-    ]
+    ],
+    "battleTips": ""
   },
   {
-    "sn": 14,
+    "sn": 108,
     "levelNum": 8,
+    "openLevel": 1,
     "battleSN": [
-      14
+      0
     ],
+    "naturePic": [],
+    "skillAffix": 4001,
     "goalScores": [
-      50000,
-      65000,
-      83000
+      0
     ],
     "goalAward": [
-      205001,
-      205001,
-      205001
+      0
     ],
     "bonusRule": [
       [
-        1,
-        65,
-        5000
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        6,
-        0,
-        5000
+        "�N5ێ9�M:ӎt�"
       ]
-    ]
+    ],
+    "battleTips": ""
   },
   {
-    "sn": 15,
-    "levelNum": 1,
-    "battleSN": [
-      23
-    ],
-    "goalScores": [
-      10000,
-      15000,
-      25000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        15,
-        20000
-      ],
-      [
-        3,
-        1191,
-        2
-      ],
-      [
-        4,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 16,
-    "levelNum": 2,
-    "battleSN": [
-      26
-    ],
-    "goalScores": [
-      10000,
-      15000,
-      25000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        20,
-        25000
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        5,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 17,
-    "levelNum": 3,
-    "battleSN": [
-      29
-    ],
-    "goalScores": [
-      10000,
-      15000,
-      25000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        10,
-        15000
-      ],
-      [
-        2,
-        3,
-        2
-      ],
-      [
-        3,
-        1011,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 18,
-    "levelNum": 4,
-    "battleSN": [
-      32
-    ],
-    "goalScores": [
-      10000,
-      15000,
-      25000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        15,
-        20000
-      ],
-      [
-        3,
-        1191,
-        2
-      ],
-      [
-        4,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 19,
-    "levelNum": 5,
-    "battleSN": [
-      35
-    ],
-    "goalScores": [
-      10000,
-      15000,
-      25000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        20,
-        25000
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        5,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 20,
-    "levelNum": 6,
-    "battleSN": [
-      38
-    ],
-    "goalScores": [
-      10000,
-      15000,
-      25000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        10,
-        15000
-      ],
-      [
-        2,
-        3,
-        2
-      ],
-      [
-        3,
-        1011,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 21,
-    "levelNum": 7,
-    "battleSN": [
-      41
-    ],
-    "goalScores": [
-      10000,
-      15000,
-      25000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        15,
-        20000
-      ],
-      [
-        3,
-        1191,
-        2
-      ],
-      [
-        4,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 22,
-    "levelNum": 8,
-    "battleSN": [
-      44
-    ],
-    "goalScores": [
-      10000,
-      15000,
-      25000
-    ],
-    "goalAward": [
-      205001,
-      205001,
-      205001
-    ],
-    "bonusRule": [
-      [
-        1,
-        20,
-        25000
-      ],
-      [
-        4,
-        2
-      ],
-      [
-        5,
-        2
-      ]
-    ]
-  },
-  {
-    "sn": 23,
+    "sn": 109,
     "levelNum": 9,
+    "openLevel": 1,
     "battleSN": [
-      47
+      0
     ],
+    "naturePic": [],
+    "skillAffix": 4001,
     "goalScores": [
-      10000,
-      15000,
-      25000
+      0
     ],
     "goalAward": [
-      205001,
-      205001,
-      205001
+      0
     ],
     "bonusRule": [
       [
-        1,
-        10,
-        15000
-      ],
-      [
-        2,
-        3,
-        2
-      ],
-      [
-        3,
-        1011,
-        2
+        "�N5ۍ��M:�~t�"
       ]
-    ]
+    ],
+    "battleTips": ""
   },
   {
-    "sn": 24,
+    "sn": 110,
     "levelNum": 10,
+    "openLevel": 1,
     "battleSN": [
-      50
+      0
     ],
+    "naturePic": [],
+    "skillAffix": 4001,
     "goalScores": [
-      10000,
-      15000,
-      25000
+      0
     ],
     "goalAward": [
-      205001,
-      205001,
-      205001
+      0
     ],
     "bonusRule": [
       [
-        1,
-        15,
-        20000
-      ],
-      [
-        3,
-        1191,
-        2
-      ],
-      [
-        4,
-        2
+        "�N5۽t�M4�Mt�M4"
       ]
-    ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 111,
+    "levelNum": 11,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�Nu��y�M4�My�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 112,
+    "levelNum": 12,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�Nu�ݴ�M4�M��M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 113,
+    "levelNum": 13,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�Nu�ݴ�M4�M��M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 114,
+    "levelNum": 14,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�Nu�ݹ�M4�M��M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 115,
+    "levelNum": 15,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�Nu�}��M4�M��M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 116,
+    "levelNum": 16,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�Nu߮4�M4�N4�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 117,
+    "levelNum": 17,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�Nu߮9�M4�N9�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 118,
+    "levelNum": 18,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�Nu߯y�M4�Oy�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 119,
+    "levelNum": 19,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�Nu߮4�M4�N4�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 120,
+    "levelNum": 20,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�Nuߎ9�M4�N9�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 121,
+    "levelNum": 21,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�N�߮t�M4�Nt�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 122,
+    "levelNum": 22,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�N�����M4�N��M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 123,
+    "levelNum": 23,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "ۿz�uם4�N��^t�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 124,
+    "levelNum": 24,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�N���w�M4ӭ5�M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 125,
+    "levelNum": 25,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�N���u�M4ӭ5ם4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 126,
+    "levelNum": 26,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�~:�uߝ4�N��~t�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 127,
+    "levelNum": 27,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�N���t�M4�Ot�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 128,
+    "levelNum": 28,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�N��M��M4ӭ7�M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 129,
+    "levelNum": 29,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�N��M��M4ӭ6�M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 130,
+    "levelNum": 30,
+    "openLevel": 1,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4001,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�^�׍6�M4�N��}4�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 401,
+    "levelNum": 1,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]v�M4ӭ6�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 402,
+    "levelNum": 2,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]v�M4ӭ6�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 403,
+    "levelNum": 3,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]vߝ4ӭ7�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 404,
+    "levelNum": 4,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]v�M4ӭ8�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 405,
+    "levelNum": 5,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]x�M4ӭ:�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 406,
+    "levelNum": 6,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]y��4ӭ=�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 407,
+    "levelNum": 7,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]yם4�N�ם4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 408,
+    "levelNum": 8,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]y۝4�N�۝4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 409,
+    "levelNum": 9,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]yם4�N�ם4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 410,
+    "levelNum": 10,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]{۝4�N�۝4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 411,
+    "levelNum": 11,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]"
+      ],
+      [
+        "�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 412,
+    "levelNum": 12,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]"
+      ],
+      [
+        "�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 413,
+    "levelNum": 13,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]"
+      ],
+      [
+        "ߝ4�N�ߝ4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 414,
+    "levelNum": 14,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]"
+      ],
+      [
+        "�4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 415,
+    "levelNum": 15,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]{�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 416,
+    "levelNum": 16,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]"
+      ],
+      [
+        "�4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 417,
+    "levelNum": 17,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]��M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 418,
+    "levelNum": 18,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 419,
+    "levelNum": 19,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]�׎t�M:�^9�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 420,
+    "levelNum": 20,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 421,
+    "levelNum": 21,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 422,
+    "levelNum": 22,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]��M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 423,
+    "levelNum": 23,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]��]4�M:�]t�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 424,
+    "levelNum": 24,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]���t�M:�_y�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 425,
+    "levelNum": 25,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4004,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�m��]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 501,
+    "levelNum": 1,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]v۝4ӭ6�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 502,
+    "levelNum": 2,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]v۝4ӭ6�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 503,
+    "levelNum": 3,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]v�M4ӭ6�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 504,
+    "levelNum": 4,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]vߝ4ӭ7�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 505,
+    "levelNum": 5,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]x�4ӭ8�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 506,
+    "levelNum": 6,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]y��4ӭ=�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 507,
+    "levelNum": 7,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]y�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 508,
+    "levelNum": 8,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]yם4�N�ם4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 509,
+    "levelNum": 9,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]y�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 510,
+    "levelNum": 10,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]{ם4�N�ם4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 511,
+    "levelNum": 11,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]"
+      ],
+      [
+        "�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 512,
+    "levelNum": 12,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]"
+      ],
+      [
+        "�4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 513,
+    "levelNum": 13,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]"
+      ],
+      [
+        "ߝ4�N�ߝ4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 514,
+    "levelNum": 14,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]"
+      ],
+      [
+        "ߝ4�N�ߝ4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 515,
+    "levelNum": 15,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]{�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 516,
+    "levelNum": 16,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]"
+      ],
+      [
+        "�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 517,
+    "levelNum": 17,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]��m4�M:�]��M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 518,
+    "levelNum": 18,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 519,
+    "levelNum": 19,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 520,
+    "levelNum": 20,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 521,
+    "levelNum": 21,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 522,
+    "levelNum": 22,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]��M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 523,
+    "levelNum": 23,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]��]4�M:�]t�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 524,
+    "levelNum": 24,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]��M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 525,
+    "levelNum": 25,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4005,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n<�]��M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 601,
+    "levelNum": 1,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]v�M4ӭ6�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 602,
+    "levelNum": 2,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]vם4ӭ5�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 603,
+    "levelNum": 3,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]v�4ӭ8�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 604,
+    "levelNum": 4,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]v۝4ӭ6�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 605,
+    "levelNum": 5,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]x�M4ӭ:�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 606,
+    "levelNum": 6,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]yם4�N�ם4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 607,
+    "levelNum": 7,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]y�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 608,
+    "levelNum": 8,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]yם4�N�ם4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 609,
+    "levelNum": 9,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]yם4�N�ם4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 610,
+    "levelNum": 10,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]{�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 611,
+    "levelNum": 11,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]"
+      ],
+      [
+        "�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 612,
+    "levelNum": 12,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]"
+      ],
+      [
+        "�4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 613,
+    "levelNum": 13,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]"
+      ],
+      [
+        "ߝ4�N�ߝ4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 614,
+    "levelNum": 14,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]"
+      ],
+      [
+        "�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 615,
+    "levelNum": 15,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]{�M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 616,
+    "levelNum": 16,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]"
+      ],
+      [
+        "�4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 617,
+    "levelNum": 17,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 618,
+    "levelNum": 18,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]��M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 619,
+    "levelNum": 19,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]��M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 620,
+    "levelNum": 20,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 621,
+    "levelNum": 21,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]��4�N��4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 622,
+    "levelNum": 22,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]��M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 623,
+    "levelNum": 23,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]��M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 624,
+    "levelNum": 24,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]��^t�M:�]y�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 625,
+    "levelNum": 25,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4006,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n}�]��M4�N��M4�"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 701,
+    "levelNum": 1,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӝu�nt�N�۝4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 702,
+    "levelNum": 2,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӝu�nt�N�۝4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 703,
+    "levelNum": 3,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӝu�~t�N�ߝ4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 704,
+    "levelNum": 4,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӝu�nt�N�۝4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 705,
+    "levelNum": 5,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӝu�]4�M:�]4�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 706,
+    "levelNum": 6,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӝu�t�N��4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 707,
+    "levelNum": 7,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӝu�^t�M:�^t�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 708,
+    "levelNum": 8,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӝu�m4�M:�m4�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 709,
+    "levelNum": 9,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӝu�^t�M:�^t�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 710,
+    "levelNum": 10,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӝu�^t�M:�^t�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 711,
+    "levelNum": 11,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭu�}4�M:�}4�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 712,
+    "levelNum": 12,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭu�}4�M:�}4�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 713,
+    "levelNum": 13,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭu�nt�M:�nt�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 714,
+    "levelNum": 14,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭu�~t�M:�~t�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 715,
+    "levelNum": 15,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭu�4�M:Ӎ4�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 716,
+    "levelNum": 16,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭu�t�M:ӎt�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 717,
+    "levelNum": 17,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭvӍ4�M:Ӎ4�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 718,
+    "levelNum": 18,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭv�]��M4�Mv�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 719,
+    "levelNum": 19,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭvӭ4�M:ӭ4�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 720,
+    "levelNum": 20,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭvӎt�M:ӎt�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 721,
+    "levelNum": 21,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭvӮt�M:Ӯt�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 722,
+    "levelNum": 22,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭvӝ4�M:ӝ4�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 723,
+    "levelNum": 23,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭv�]t�M4�Mu�M4"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 724,
+    "levelNum": 24,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭv��4�M:��4�M"
+      ]
+    ],
+    "battleTips": ""
+  },
+  {
+    "sn": 725,
+    "levelNum": 25,
+    "openLevel": 10,
+    "battleSN": [
+      0
+    ],
+    "naturePic": [],
+    "skillAffix": 4007,
+    "goalScores": [
+      0
+    ],
+    "goalAward": [
+      0
+    ],
+    "bonusRule": [
+      [
+        "�n�ӭvӭ4�M:ӭ4�M"
+      ]
+    ],
+    "battleTips": ""
   }
 ]

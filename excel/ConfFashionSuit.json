@@ -1,0 +1,807 @@
+[
+  {
+    "sn": 1,
+    "suitType": 1,
+    "name": "街头风",
+    "suitIcon": "item-datu-309001.png",
+    "suitParts": [
+      0
+    ],
+    "order": 10000,
+    "fashionItem": 309001,
+    "fashionCondition": [
+      0
+    ],
+    "isShow": 1,
+    "otherStyles": [
+      0
+    ],
+    "channel": []
+  },
+  {
+    "sn": 2,
+    "suitType": 2,
+    "name": "家居服·默认",
+    "suitIcon": "item-datu-309002.png",
+    "suitParts": [
+      0
+    ],
+    "order": 10000,
+    "fashionItem": 309002,
+    "fashionCondition": [
+      0
+    ],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 3,
+    "suitType": 3,
+    "name": "校服·默认",
+    "suitIcon": "item-datu-309003.png",
+    "suitParts": [
+      0
+    ],
+    "order": 10000,
+    "fashionItem": 309003,
+    "fashionCondition": [
+      0
+    ],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 100,
+    "suitType": 1,
+    "name": "校服·袜子",
+    "suitIcon": "",
+    "suitParts": [
+      0
+    ],
+    "order": 10000,
+    "fashionItem": 0,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 101,
+    "suitType": 1,
+    "name": "家居服·默认",
+    "suitIcon": "",
+    "suitParts": [
+      0
+    ],
+    "order": 10000,
+    "fashionItem": 0,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1001,
+    "suitType": 1,
+    "name": "街头风·铅灰",
+    "suitIcon": "item-datu-309004.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2000,
+    "fashionItem": 309004,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1002,
+    "suitType": 1,
+    "name": "街头风·幻影",
+    "suitIcon": "item-datu-309005.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2001,
+    "fashionItem": 309005,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1003,
+    "suitType": 1,
+    "name": "街头风·天际",
+    "suitIcon": "item-datu-309006.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2002,
+    "fashionItem": 309006,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1005,
+    "suitType": 1,
+    "name": "校园漫步",
+    "suitIcon": "item-datu-309007.png",
+    "suitParts": [
+      0
+    ],
+    "order": 3000,
+    "fashionItem": 309007,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [
+      0
+    ],
+    "channel": []
+  },
+  {
+    "sn": 1006,
+    "suitType": 1,
+    "name": "校园漫步·春",
+    "suitIcon": "item-datu-309008.png",
+    "suitParts": [
+      0
+    ],
+    "order": 3001,
+    "fashionItem": 309008,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1007,
+    "suitType": 1,
+    "name": "校园漫步·岚",
+    "suitIcon": "item-datu-309009.png",
+    "suitParts": [
+      0
+    ],
+    "order": 3002,
+    "fashionItem": 309009,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1008,
+    "suitType": 1,
+    "name": "校园漫步·酷",
+    "suitIcon": "item-datu-309010.png",
+    "suitParts": [
+      0
+    ],
+    "order": 3003,
+    "fashionItem": 309010,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1009,
+    "suitType": 1,
+    "name": "悠然浅空",
+    "suitIcon": "item-datu-309019.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2003,
+    "fashionItem": 309019,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [
+      0
+    ],
+    "channel": []
+  },
+  {
+    "sn": 1010,
+    "suitType": 1,
+    "name": "悠然浅空·黑",
+    "suitIcon": "item-datu-309020.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2004,
+    "fashionItem": 309020,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1011,
+    "suitType": 1,
+    "name": "悠然浅空·灰",
+    "suitIcon": "item-datu-309021.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2005,
+    "fashionItem": 309021,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1012,
+    "suitType": 1,
+    "name": "悠然浅空·粉",
+    "suitIcon": "item-datu-309022.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2006,
+    "fashionItem": 309022,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1013,
+    "suitType": 1,
+    "name": "休闲学派",
+    "suitIcon": "item-datu-309023.png",
+    "suitParts": [
+      0
+    ],
+    "order": 3004,
+    "fashionItem": 309023,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1014,
+    "suitType": 1,
+    "name": "休闲学派·紫",
+    "suitIcon": "item-datu-309024.png",
+    "suitParts": [
+      0
+    ],
+    "order": 3005,
+    "fashionItem": 309024,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1015,
+    "suitType": 1,
+    "name": "休闲学派·咖",
+    "suitIcon": "item-datu-309025.png",
+    "suitParts": [
+      0
+    ],
+    "order": 3006,
+    "fashionItem": 309025,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1016,
+    "suitType": 1,
+    "name": "休闲学派·绿",
+    "suitIcon": "item-datu-309026.png",
+    "suitParts": [
+      0
+    ],
+    "order": 3007,
+    "fashionItem": 309026,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1017,
+    "suitType": 1,
+    "name": "休闲正装",
+    "suitIcon": "item-datu-309027.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2007,
+    "fashionItem": 309027,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [
+      0
+    ],
+    "channel": []
+  },
+  {
+    "sn": 1018,
+    "suitType": 1,
+    "name": "休闲正装·棕",
+    "suitIcon": "item-datu-309028.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2008,
+    "fashionItem": 309028,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1019,
+    "suitType": 1,
+    "name": "休闲正装·蓝",
+    "suitIcon": "item-datu-309029.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2009,
+    "fashionItem": 309029,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1020,
+    "suitType": 1,
+    "name": "休闲正装·绿",
+    "suitIcon": "item-datu-309030.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2010,
+    "fashionItem": 309030,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1021,
+    "suitType": 1,
+    "name": "时尚街拍",
+    "suitIcon": "item-datu-309031.png",
+    "suitParts": [
+      0
+    ],
+    "order": 4000,
+    "fashionItem": 309031,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1025,
+    "suitType": 1,
+    "name": "摇滚朋克",
+    "suitIcon": "item-datu-309035.png",
+    "suitParts": [
+      0
+    ],
+    "order": 4001,
+    "fashionItem": 309035,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1026,
+    "suitType": 1,
+    "name": "英伦时尚",
+    "suitIcon": "item-datu-309041.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309041,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [
+      0
+    ],
+    "channel": []
+  },
+  {
+    "sn": 1027,
+    "suitType": 1,
+    "name": "传统绅士",
+    "suitIcon": "item-datu-309042.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309042,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 1028,
+    "suitType": 1,
+    "name": "启程之路",
+    "suitIcon": "item-datu-309043.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309043,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 1029,
+    "suitType": 1,
+    "name": "启程之路",
+    "suitIcon": "item-datu-309044.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309044,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 1030,
+    "suitType": 1,
+    "name": "启程之路",
+    "suitIcon": "item-datu-309045.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309045,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 1031,
+    "suitType": 1,
+    "name": "启程之路",
+    "suitIcon": "item-datu-309046.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309046,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 1032,
+    "suitType": 1,
+    "name": "启程之路",
+    "suitIcon": "item-datu-309047.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309047,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 1033,
+    "suitType": 1,
+    "name": "启程之路",
+    "suitIcon": "item-datu-309048.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309048,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 1034,
+    "suitType": 1,
+    "name": "启程之路",
+    "suitIcon": "item-datu-309049.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309049,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 1035,
+    "suitType": 1,
+    "name": "启程之路",
+    "suitIcon": "item-datu-309050.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309050,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 1036,
+    "suitType": 1,
+    "name": "启程之路",
+    "suitIcon": "item-datu-309051.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309051,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 1037,
+    "suitType": 1,
+    "name": "启程之路",
+    "suitIcon": "item-datu-309052.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2011,
+    "fashionItem": 309052,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 2001,
+    "suitType": 2,
+    "name": "啪叽熊·经典",
+    "suitIcon": "item-datu-309011.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2000,
+    "fashionItem": 309011,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [
+      0
+    ],
+    "channel": []
+  },
+  {
+    "sn": 2002,
+    "suitType": 2,
+    "name": "啪叽熊·粉",
+    "suitIcon": "item-datu-309012.png",
+    "suitParts": [
+      0
+    ],
+    "order": 3000,
+    "fashionItem": 309012,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 2003,
+    "suitType": 2,
+    "name": "啪叽熊·青",
+    "suitIcon": "item-datu-309013.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2001,
+    "fashionItem": 309013,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 2004,
+    "suitType": 2,
+    "name": "啪叽熊·棕",
+    "suitIcon": "item-datu-309014.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2002,
+    "fashionItem": 309014,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 2005,
+    "suitType": 2,
+    "name": "悠闲风·日常",
+    "suitIcon": "item-datu-309015.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2003,
+    "fashionItem": 309015,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": [
+      0
+    ]
+  },
+  {
+    "sn": 2006,
+    "suitType": 2,
+    "name": "悠闲风·字母",
+    "suitIcon": "item-datu-309016.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2004,
+    "fashionItem": 309016,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 2007,
+    "suitType": 2,
+    "name": "悠闲风·条纹",
+    "suitIcon": "item-datu-309017.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2005,
+    "fashionItem": 309017,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 2008,
+    "suitType": 2,
+    "name": "悠闲风·云朵",
+    "suitIcon": "item-datu-309018.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2006,
+    "fashionItem": 309018,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 2009,
+    "suitType": 2,
+    "name": "清凉美梦",
+    "suitIcon": "item-datu-309036.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2007,
+    "fashionItem": 309036,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 2010,
+    "suitType": 2,
+    "name": "抹茶梦",
+    "suitIcon": "item-datu-309037.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2008,
+    "fashionItem": 309037,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 2011,
+    "suitType": 2,
+    "name": "猫咪梦",
+    "suitIcon": "item-datu-309038.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2009,
+    "fashionItem": 309038,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 2012,
+    "suitType": 2,
+    "name": "圣诞梦",
+    "suitIcon": "item-datu-309039.png",
+    "suitParts": [
+      0
+    ],
+    "order": 2010,
+    "fashionItem": 309039,
+    "fashionCondition": [],
+    "isShow": 0,
+    "otherStyles": [],
+    "channel": []
+  },
+  {
+    "sn": 4002,
+    "suitType": 991,
+    "name": "己刮学园校服",
+    "suitIcon": "item-datu-309003.png",
+    "suitParts": [
+      0
+    ],
+    "order": 9999,
+    "fashionItem": 309040,
+    "fashionCondition": [],
+    "isShow": 1,
+    "otherStyles": [],
+    "channel": []
+  }
+]

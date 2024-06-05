@@ -1,12 +1,40 @@
 [
   {
+    "sn": "addThief",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "添加怪盗",
+    "desc": "添加怪盗",
+    "format": "addThief 怪盗sn",
+    "example": "addThief 201"
+  },
+  {
+    "sn": "targetFrameRate",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "设置帧率",
+    "desc": "设置帧率",
+    "format": "targetFrameRate 30",
+    "example": "targetFrameRate 30"
+  },
+  {
     "sn": "addExp",
     "type": 0,
     "group": [
-      "便捷"
+      ""
     ],
     "orderGroup": [
-      1010
+      0
     ],
     "name": "加经验",
     "desc": "加经验",
@@ -17,10 +45,10 @@
     "sn": "addCurrency",
     "type": 0,
     "group": [
-      "便捷"
+      ""
     ],
     "orderGroup": [
-      1010
+      0
     ],
     "name": "增减货币",
     "desc": "增减货币",
@@ -28,29 +56,13 @@
     "example": "addCurrency 2 900000"
   },
   {
-    "sn": "funcOpen",
-    "type": 0,
-    "group": [
-      "便捷"
-    ],
-    "orderGroup": [
-      1015
-    ],
-    "name": "功能开启",
-    "desc": "开启指定功能或全部功能",
-    "format": "funcOpen [funcSn]/all",
-    "example": "funcOpen all"
-  },
-  {
     "sn": "exeGMGroup",
     "type": 0,
     "group": [
-      "便捷",
-      "GM指令组"
+      "�c"
     ],
     "orderGroup": [
-      1016,
-      9026
+      0
     ],
     "name": "一键变强",
     "desc": "一键变强",
@@ -61,10 +73,10 @@
     "sn": "skipguide",
     "type": 1,
     "group": [
-      "便捷"
+      ""
     ],
     "orderGroup": [
-      1017
+      0
     ],
     "name": "跳过引导",
     "desc": "跳过引导",
@@ -72,15 +84,27 @@
     "example": "skipguide 0"
   },
   {
+    "sn": "BigGift",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新增大礼包",
+    "desc": "新增大礼包",
+    "format": "",
+    "example": "addItem 3010000 1"
+  },
+  {
     "sn": "levelup",
     "type": 0,
     "group": [
-      "便捷",
-      "主角相关"
+      "�"
     ],
     "orderGroup": [
-      1018,
-      4001
+      0
     ],
     "name": "升到x级",
     "desc": "升到x级",
@@ -91,10 +115,10 @@
     "sn": "finishGuides",
     "type": 1,
     "group": [
-      "便捷"
+      ""
     ],
     "orderGroup": [
-      1019
+      0
     ],
     "name": "一键完成新手引导",
     "desc": "一键完成新手引导",
@@ -105,10 +129,10 @@
     "sn": "finishTutorials",
     "type": 1,
     "group": [
-      "便捷"
+      ""
     ],
     "orderGroup": [
-      1020
+      0
     ],
     "name": "一键完成导览",
     "desc": "一键完成导览",
@@ -116,15 +140,27 @@
     "example": "finishTutorials"
   },
   {
+    "sn": "openAllGuides",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "重置新手引导",
+    "desc": "重置新手引导",
+    "format": "openAllGuides",
+    "example": "openAllGuides"
+  },
+  {
     "sn": "monsterClear",
     "type": 0,
     "group": [
-      "便捷",
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      1021,
-      3002
+      0
     ],
     "name": "结束战斗:清除怪物",
     "desc": "清除关卡内的怪物",
@@ -135,12 +171,10 @@
     "sn": "unlockguanqia ",
     "type": 0,
     "group": [
-      "便捷",
-      "关卡相关"
+      "�Ƭ"
     ],
     "orderGroup": [
-      1022,
-      7001
+      0
     ],
     "name": "解锁关卡",
     "desc": "解锁关卡",
@@ -151,12 +185,10 @@
     "sn": "gotopalace",
     "type": 1,
     "group": [
-      "便捷",
-      "关卡相关"
+      "�Ƭ"
     ],
     "orderGroup": [
-      1023,
-      7002
+      0
     ],
     "name": "进入关卡",
     "desc": "进入关卡，只能进入跑图关卡",
@@ -167,12 +199,10 @@
     "sn": "stageSwitchCommon",
     "type": 0,
     "group": [
-      "便捷",
-      "地图场景"
+      "�J\u0014"
     ],
     "orderGroup": [
-      1024,
-      8001
+      0
     ],
     "name": "切换到公共（主城）场景",
     "desc": "切换场景，场景配置sn",
@@ -183,12 +213,10 @@
     "sn": "stageSwitchInstance",
     "type": 0,
     "group": [
-      "便捷",
-      "地图场景"
+      "�J"
     ],
     "orderGroup": [
-      1025,
-      8002
+      0
     ],
     "name": "切换到任意场景",
     "desc": "切换场景，场景配置sn",
@@ -196,31 +224,13 @@
     "example": "stageSwitchInstance 4000"
   },
   {
-    "sn": "finishQuest",
-    "type": 0,
-    "group": [
-      "便捷",
-      "任务与剧情"
-    ],
-    "orderGroup": [
-      1026,
-      2001
-    ],
-    "name": "任务:完成任务",
-    "desc": "任务:完成任务",
-    "format": "finishQuest sn",
-    "example": "finishQuest 1"
-  },
-  {
     "sn": "Lockblood",
     "type": 0,
     "group": [
-      "便捷",
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      1027,
-      3005
+      0
     ],
     "name": "锁血挂",
     "desc": "战斗内锁住血量",
@@ -231,12 +241,10 @@
     "sn": "LockSpend",
     "type": 0,
     "group": [
-      "便捷",
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      1028,
-      3006
+      0
     ],
     "name": "消耗锁定",
     "desc": "战斗内不消耗",
@@ -247,44 +255,53 @@
     "sn": "instanceCreate",
     "type": 0,
     "group": [
-      "便捷",
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      1029,
-      3001
+      0
     ],
     "name": "进入指定战斗",
-    "desc": "进入战斗  场景SN 战斗发起类型",
-    "format": "instanceCreate sn launchType",
+    "desc": "进入战斗  场景SN 战斗难度系数",
+    "format": "instanceCreate sn difficulty",
     "example": "instanceCreate 1001 0"
   },
   {
     "sn": "addItem",
     "type": 0,
     "group": [
-      "便捷",
-      "装备道具"
+      "�",
+      ""
     ],
     "orderGroup": [
-      1030,
-      6005
+      0
     ],
-    "name": "添加Item表内道具",
-    "desc": "向背包增加物品、货币等",
+    "name": "通过SN添加道具",
+    "desc": "向背包增加Item表中的物品、货币等",
     "format": "addItem sn [num]",
     "example": "addItem 1 100"
+  },
+  {
+    "sn": "addItemByName",
+    "type": 1,
+    "group": [
+      "K"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "通过名称添加道具",
+    "desc": "向背包增加Item表中的物品、货币等",
+    "format": "addItemByName name [num]",
+    "example": "addItemByName 现金 999999"
   },
   {
     "sn": "addAllThief",
     "type": 1,
     "group": [
-      "便捷",
-      "怪盗相关"
+      "�"
     ],
     "orderGroup": [
-      1031,
-      4501
+      0
     ],
     "name": "一键添加所有怪盗",
     "desc": "一键添加所有怪盗",
@@ -295,12 +312,10 @@
     "sn": "addAllPersona",
     "type": 1,
     "group": [
-      "便捷",
-      "人格面具"
+      "��"
     ],
     "orderGroup": [
-      1032,
-      15003
+      0
     ],
     "name": "添加指定类型所有persona",
     "desc": "类型type[普通=0,宝魔=1] num",
@@ -311,10 +326,10 @@
     "sn": "resetAllTutorial",
     "type": 1,
     "group": [
-      "便捷"
+      ""
     ],
     "orderGroup": [
-      1033
+      0
     ],
     "name": "重置所有导览",
     "desc": "重置所有导览",
@@ -322,29 +337,309 @@
     "example": "resetAllTutorial"
   },
   {
+    "sn": "funcOpenNoShow",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "功能开启（不播动画）",
+    "desc": "功能开启（不播动画）",
+    "format": "muteFuncOpenUI true,funcOpen all,TriggerFunc 4050",
+    "example": "funcOpenNoShow"
+  },
+  {
+    "sn": "funcOpen",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "功能开启",
+    "desc": "开启指定功能或全部功能",
+    "format": "funcOpen [funcSn]/all",
+    "example": "funcOpen all"
+  },
+  {
+    "sn": "switchMoveSpeed",
+    "type": 1,
+    "group": [
+      "�C"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "切换主角移动速度",
+    "desc": "切换主角移动速度 1-10",
+    "format": "switchMoveSpeed 10",
+    "example": "switchMoveSpeed 10"
+  },
+  {
+    "sn": "muteFuncOpenUI",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "屏蔽功能开启UI",
+    "desc": "屏蔽功能开启UI",
+    "format": "muteFuncOpenUI true/false",
+    "example": "muteFuncOpenUI true"
+  },
+  {
+    "sn": "unlockQuestLog",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁所有剧情日志",
+    "desc": "解锁所有剧情日志",
+    "format": "unlockQuestLog",
+    "example": "unlockQuestLog"
+  },
+  {
+    "sn": "plotChapterUnlocked",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁原作视听",
+    "desc": "解锁原作视听",
+    "format": "plotUnlocked [章节sn/all]",
+    "example": "plotUnlocked all"
+  },
+  {
+    "sn": "exeGMGroup7",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【超便捷】一章任务开始",
+    "desc": "【超便捷】一章任务开始",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 7"
+  },
+  {
+    "sn": "exeGMGroup8",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【超便捷】一章一进宫",
+    "desc": "【超便捷】一章首次进宫殿",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 8"
+  },
+  {
+    "sn": "exeGMGroup9",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【超便捷】一章二进宫",
+    "desc": "【超便捷】一章觉醒后再进宫殿",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 9"
+  },
+  {
+    "sn": "exeGMGroup10",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【超便捷】一章Boss战",
+    "desc": "【超便捷】一章Boss战",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 10"
+  },
+  {
+    "sn": "exeGMGroup11",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【超便捷】二章任务开始",
+    "desc": "【超便捷】二章任务开始",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 11"
+  },
+  {
+    "sn": "exeGMGroup12",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【超便捷】一键添加满级全怪盗",
+    "desc": "【超便捷】一键添加满级全怪盗",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 12"
+  },
+  {
+    "sn": "exeGMGroup13",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【超便捷】第二章宫殿前",
+    "desc": "【超便捷】第二章宫殿前",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 13"
+  },
+  {
+    "sn": "exeGMGroup15",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【超便捷】一键添加所有人格面具及材料",
+    "desc": "【超便捷】一键添加所有人格面具及材料",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 15"
+  },
+  {
+    "sn": "exeGMGroup16",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【模拟】主角20怪盗30",
+    "desc": "【模拟】主角20怪盗30",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 16"
+  },
+  {
+    "sn": "exeGMGroup17",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【模拟】主角30怪盗40",
+    "desc": "【模拟】主角30怪盗40",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 17"
+  },
+  {
+    "sn": "exeGMGroup18",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【模拟】主角40怪盗50",
+    "desc": "【模拟】主角40怪盗50",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 18"
+  },
+  {
+    "sn": "exeGMGroup19",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【模拟】主角50怪盗60",
+    "desc": "【模拟】主角50怪盗60",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 19"
+  },
+  {
+    "sn": "exeGMGroup22",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "【模拟】主角80怪盗80",
+    "desc": "【模拟】主角80怪盗80",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 22"
+  },
+  {
     "sn": "acceptQuest",
     "type": 0,
     "group": [
-      "任务与剧情"
+      ""
     ],
     "orderGroup": [
-      2002
+      0
     ],
-    "name": "任务:接受任务",
-    "desc": "任务:接受任务",
+    "name": "任务：接受任务",
+    "desc": "接受任务",
     "format": "acceptQuest sn",
     "example": "acceptQuest 1"
+  },
+  {
+    "sn": "finishQuest",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "任务：完成任务",
+    "desc": "完成任务",
+    "format": "finishQuest sn",
+    "example": "finishQuest 1"
   },
   {
     "sn": "playStory",
     "type": 1,
     "group": [
-      "任务与剧情"
+      ""
     ],
     "orderGroup": [
-      2004
+      0
     ],
-    "name": "播放剧情",
+    "name": "剧情：播放剧情",
     "desc": "播放剧情",
     "format": "playStory sn",
     "example": "playStory 100060"
@@ -353,24 +648,80 @@
     "sn": "skipStoryClip",
     "type": 1,
     "group": [
-      "任务与剧情"
+      ""
     ],
     "orderGroup": [
-      2005
+      0
     ],
-    "name": "跳过当前剧情片段",
+    "name": "剧情：跳过当前剧情片段",
     "desc": "跳过当前剧情片段",
     "format": "skipStoryClip",
     "example": "skipStoryClip"
   },
   {
+    "sn": "startDialog",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "对话：显示一组对话",
+    "desc": "显示一组对话 (仅显示，不触发逻辑)",
+    "format": "startDialog sn [id]",
+    "example": "startDialog 3000"
+  },
+  {
+    "sn": "showDialog",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "对话：显示一条对话",
+    "desc": "显示一条对话 (仅显示，不触发逻辑)",
+    "format": "showDialog sn [id]",
+    "example": "showDialog 3000"
+  },
+  {
+    "sn": "startSNS",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "对话：收到一组SNS对话",
+    "desc": "收到一组SNS对话",
+    "format": "snsTidingsAdd sn",
+    "example": "snsTidingsAdd 1"
+  },
+  {
+    "sn": "showQuestStoryInfo",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "调试：显示基本信息",
+    "desc": "显示当前的场景、任务、剧情信息",
+    "format": "showQuestStoryInfo",
+    "example": "showQuestStoryInfo"
+  },
+  {
     "sn": "turnbattlecamcal",
     "type": 1,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3003
+      0
     ],
     "name": "是否矫正单体相机的目标怪物居中(默认是开启)",
     "desc": "执行一次设置开或者关",
@@ -378,41 +729,13 @@
     "example": "turnbattlecamcal"
   },
   {
-    "sn": "setbattlecam",
-    "type": 1,
-    "group": [
-      "战斗"
-    ],
-    "orderGroup": [
-      3003
-    ],
-    "name": "设置战斗的相机",
-    "desc": "施法者1我方2敌方3敌方加血4我方加血",
-    "format": "setbattlecam [施法者] [目标数] [per表] [改变朝向] [敌方位置]",
-    "example": "setbattlecam 1 1 2 1 1"
-  },
-  {
-    "sn": "castbattlecam",
-    "type": 1,
-    "group": [
-      "战斗"
-    ],
-    "orderGroup": [
-      3004
-    ],
-    "name": "设置战斗中怪物施法特写的相机",
-    "desc": "设置怪物施法的相机",
-    "format": "castbattlecam 2 1",
-    "example": "castbattlecam 2 1"
-  },
-  {
     "sn": "battleEnd",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3007
+      0
     ],
     "name": "结束战斗",
     "desc": "结束战斗",
@@ -423,10 +746,10 @@
     "sn": "setFightOptTime",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3008
+      0
     ],
     "name": "设置出手等待时间",
     "desc": "设置出手等待时间",
@@ -437,38 +760,52 @@
     "sn": "addBuff",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3009
+      0
     ],
     "name": "添加buff",
     "desc": "添加buff",
     "format": "addBuff fightType pos buffSn",
-    "example": "addBuff 1 4 621"
+    "example": "addBuff 1 -1 12"
   },
   {
     "sn": "removeBuff",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3010
+      0
     ],
     "name": "移除buff",
     "desc": "移除buff",
     "format": "removeBuff fightType pos buffSn",
-    "example": "removeBuff 1 4 621"
+    "example": "removeBuff 1 -1 12"
+  },
+  {
+    "sn": "instanceSn",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "获取战斗场景sn",
+    "desc": "获取战斗场景sn",
+    "format": "instanceSn",
+    "example": "instanceSn"
   },
   {
     "sn": "addSkill",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3011
+      0
     ],
     "name": "添加技能",
     "desc": "添加技能",
@@ -479,10 +816,10 @@
     "sn": "useSkill",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3012
+      0
     ],
     "name": "使用技能(当前出手单位向指定目标使用技能)",
     "desc": "使用技能",
@@ -493,26 +830,26 @@
     "sn": "getUnitAllAttr",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3013
+      0
     ],
-    "name": "属性:查看指定作战单位全部属性",
+    "name": "属性:查看全部属性",
     "desc": "属性:查看指定作战单位全部属性",
     "format": "getUnitAllAttr fightType pos",
-    "example": "getUnitAllAttr 1 4"
+    "example": "getUnitAllAttr 1 2"
   },
   {
     "sn": "getUnitAttr",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3014
+      0
     ],
-    "name": "属性:查看指定作战单位某一属性",
+    "name": "属性:查看某一属性",
     "desc": "属性:查看指定作战单位某一属性",
     "format": "getUnitAttr fightType pos attrkey",
     "example": "getUnitAttr 1 4 111"
@@ -521,40 +858,40 @@
     "sn": "modifyUnitAttr",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3015
+      0
     ],
-    "name": "属性:指定战斗单位修改属性",
+    "name": "属性:修改属性",
     "desc": "属性:指定战斗单位修改属性",
     "format": "modifyUnitAttr fightType pos key1 value1 key2 value2 ...",
-    "example": "modifyUnitAttr 1 4 112 1000.0 131 10.0"
+    "example": "modifyUnitAttr 1 -1 261 100000"
   },
   {
     "sn": "modifyUnitAdaptAttr",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3016
+      0
     ],
-    "name": "适应性属性:修改指定战斗单位指定适应性属性",
+    "name": "适应性属性:修改适应性",
     "desc": "适应性属性:修改指定战斗单位指定适应性属性",
     "format": "modifyUnitAdaptAttr fightType battlePos adaptKey1 adaptValue1 adaptKey2 adaptValue2 …",
-    "example": "modifyUnitAdaptAttr 2 3 1 1 7 4"
+    "example": "modifyUnitAdaptAttr 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 1 10 1"
   },
   {
     "sn": "showMonsterAdaptAttrs",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3017
+      0
     ],
-    "name": "适应性属性:展示怪物适应性属性",
+    "name": "适应性属性:显示适应性",
     "desc": "适应性属性:展示怪物适应性属性",
     "format": "showMonsterAdaptAttrs",
     "example": "showMonsterAdaptAttrs"
@@ -563,10 +900,10 @@
     "sn": "UnderAttack",
     "type": 1,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3018
+      0
     ],
     "name": "被攻击进入战斗",
     "desc": "被攻击进入战斗",
@@ -577,10 +914,10 @@
     "sn": "setMonsterLevel",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3019
+      0
     ],
     "name": "战斗中设置怪物等级",
     "desc": "战斗中设置怪物等级",
@@ -591,10 +928,10 @@
     "sn": "drawBoundLine",
     "type": 1,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3020
+      0
     ],
     "name": "显示选择区域",
     "desc": "显示选择区域",
@@ -605,10 +942,10 @@
     "sn": "teamSetThief",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3021
+      0
     ],
     "name": "设置阵容怪盗",
     "desc": "设置阵容怪盗",
@@ -619,10 +956,10 @@
     "sn": "teamSetPersona",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3022
+      0
     ],
     "name": "设置阵容面具",
     "desc": "设置阵容怪盗",
@@ -633,10 +970,10 @@
     "sn": "buffGroupInfo",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3023
+      0
     ],
     "name": "获取单位buff组内子buff",
     "desc": "获取单位buff组内子buff",
@@ -647,10 +984,10 @@
     "sn": "getUnitAllBuff",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3024
+      0
     ],
     "name": "查看指定作战单位全部buff",
     "desc": "查看指定作战单位全部buff",
@@ -661,24 +998,38 @@
     "sn": "modifyUnitHPCur",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3025
+      0
     ],
-    "name": "修改单位当前血量",
-    "desc": "修改单位当前血量",
+    "name": "修改单位当前生命值",
+    "desc": "修改单位当前生命值",
     "format": "fightType pos HPCur",
-    "example": "modifyUnitHPCur 1 1 -100"
+    "example": "modifyUnitHPCur 1 -1 -1000"
+  },
+  {
+    "sn": "modifyUnitSPCur",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "修改单位当前精力值",
+    "desc": "修改单位当前精力值",
+    "format": "fightType pos deltaSp",
+    "example": "modifyUnitSPCur 1 -1 100"
   },
   {
     "sn": "addAI",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3026
+      0
     ],
     "name": "战斗中添加AI",
     "desc": "战斗中添加AI",
@@ -689,10 +1040,10 @@
     "sn": "removeAI",
     "type": 0,
     "group": [
-      "战斗"
+      ""
     ],
     "orderGroup": [
-      3027
+      0
     ],
     "name": "战斗中移除AI",
     "desc": "战斗中移除AI",
@@ -700,13 +1051,83 @@
     "example": "removeAI 1 1 2000102"
   },
   {
+    "sn": "gmServerBattle",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "服务器批量战斗",
+    "desc": "服务器批量战斗",
+    "format": "launchType battleTimes instSn…",
+    "example": "gmServerBattle 0 10 1001 1002"
+  },
+  {
+    "sn": "setHighLightEnergyRoundAdd",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "设置HighLightEnergy的每回合增加值",
+    "desc": "设置HighLightEnergy的每回合增加值",
+    "format": "setHighLightEnergyRoundAdd roundAdd",
+    "example": "setHighLightEnergyRoundAdd 0.6"
+  },
+  {
+    "sn": "PlaySound",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "播放声音",
+    "desc": "播放声音",
+    "format": "PlaySound soundKey",
+    "example": "PlaySound bp21_028_1"
+  },
+  {
+    "sn": "supportCD",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "设置支援技能CD",
+    "desc": "",
+    "format": "supportCD round",
+    "example": "supportCD 0"
+  },
+  {
+    "sn": "damageFloat",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "伤害浮动开关",
+    "desc": "damageFloat true 开启； damageFloat false 关闭",
+    "format": "damageFloat true/false",
+    "example": "damageFloat false"
+  },
+  {
     "sn": "upOneLevel",
     "type": 0,
     "group": [
-      "主角相关"
+      ""
     ],
     "orderGroup": [
-      4014
+      0
     ],
     "name": "升1级",
     "desc": "升1级",
@@ -717,38 +1138,38 @@
     "sn": "addEnergy",
     "type": 0,
     "group": [
-      "主角相关"
+      ""
     ],
     "orderGroup": [
-      4015
+      0
     ],
     "name": "体力增减",
     "desc": "增加减少指定数值的体力",
-    "format": "addEnergy +40",
-    "example": "addEnergy -40或+40"
+    "format": "addEnergy -40或+40",
+    "example": "addEnergy 100"
   },
   {
     "sn": "addActionEnergy",
     "type": 0,
     "group": [
-      "主角相关"
+      ""
     ],
     "orderGroup": [
-      4016
+      0
     ],
     "name": "行动力增减",
     "desc": "增加减少指定数值的行动力",
-    "format": "addActionEnergy +40",
-    "example": "addActionEnergy -5或+5"
+    "format": "addActionEnergy -5或+5",
+    "example": "addActionEnergy 5"
   },
   {
     "sn": "unlockCoop",
     "type": 0,
     "group": [
-      "主角相关"
+      ""
     ],
     "orderGroup": [
-      4020
+      0
     ],
     "name": "解锁一个coop",
     "desc": "解锁一个coop",
@@ -759,10 +1180,10 @@
     "sn": "clearDebugAttrs",
     "type": 0,
     "group": [
-      "主角相关"
+      ""
     ],
     "orderGroup": [
-      4022
+      0
     ],
     "name": "清除所有debug属性",
     "desc": "清除所有debug属性",
@@ -770,13 +1191,27 @@
     "example": "clearDebugAttrs"
   },
   {
+    "sn": "currentTalent",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键升级灵感",
+    "desc": "按照当前玩家等级升级所有可以升级灵感",
+    "format": "currentTalent",
+    "example": "currentTalent"
+  },
+  {
     "sn": "addTalentPoints",
     "type": 0,
     "group": [
-      "主角相关"
+      ""
     ],
     "orderGroup": [
-      4023
+      0
     ],
     "name": "增减天赋点",
     "desc": "增加或减少指定数值的天赋点",
@@ -787,10 +1222,10 @@
     "sn": "battlePassPay",
     "type": 0,
     "group": [
-      "主角相关"
+      ""
     ],
     "orderGroup": [
-      4024
+      0
     ],
     "name": "开启大月卡",
     "desc": "开启雏鸟计划-付费版",
@@ -801,10 +1236,10 @@
     "sn": "zhujueChange",
     "type": 0,
     "group": [
-      "主角相关"
+      ""
     ],
     "orderGroup": [
-      4025
+      0
     ],
     "name": "更换主角",
     "desc": "更换主角 主角SN",
@@ -815,10 +1250,10 @@
     "sn": "addDisplayByType",
     "type": 0,
     "group": [
-      "主角相关"
+      ""
     ],
     "orderGroup": [
-      4026
+      0
     ],
     "name": "获取名片外显",
     "desc": "根据DisplayType获取指定外显, 0表示获取所有",
@@ -826,13 +1261,27 @@
     "example": "addDisplayByType 0"
   },
   {
+    "sn": "modifyHumanHP",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "修改主角当前血量",
+    "desc": "修改主角当前血量",
+    "format": "modifyHumanHP -100",
+    "example": "modifyHumanHP 0"
+  },
+  {
     "sn": "PromoteLV",
     "type": 1,
     "group": [
-      "怪盗相关"
+      ""
     ],
     "orderGroup": [
-      4502
+      0
     ],
     "name": "提升指定怪盗等级",
     "desc": "提升指定怪盗等级(max=60)",
@@ -840,13 +1289,27 @@
     "example": "PromoteLV 201 60"
   },
   {
+    "sn": "addWeaponByThiefs",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键获取怪盗武器",
+    "desc": "按照当前主角等级下发满级武器，满改和0改",
+    "format": "addWeaponByThiefs",
+    "example": "addWeaponByThiefs"
+  },
+  {
     "sn": "PromoteAwakeLV",
     "type": 1,
     "group": [
-      "怪盗相关"
+      ""
     ],
     "orderGroup": [
-      4503
+      0
     ],
     "name": "提升指定怪盗觉醒等级",
     "desc": "提升指定怪盗觉醒等级(1-5）",
@@ -857,10 +1320,10 @@
     "sn": "PromoteFeatureLV",
     "type": 1,
     "group": [
-      "怪盗相关"
+      ""
     ],
     "orderGroup": [
-      4504
+      0
     ],
     "name": "提升指定怪盗进化等级",
     "desc": "提升指定怪盗进化等级(1-6)",
@@ -868,13 +1331,55 @@
     "example": "PromoteFeatureLV 201 6"
   },
   {
+    "sn": "modifyThiefHP",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "修改怪盗当前血量",
+    "desc": "modifyThiefHP 怪盗SN(0：当前阵容所有怪盗) 血量修改值",
+    "format": "modifyThiefHP 怪盗SN -100",
+    "example": "modifyThiefHP 0 -100"
+  },
+  {
+    "sn": "PromoteSkillLV",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "提升指定怪盗指定技能到指定等级",
+    "desc": "如果skillSn = -1，则无需第三个参数，作用是将指定怪盗的所有技能提升到最高等级",
+    "format": "thiefSkillLevelup thiefSn skillSn skillLevel",
+    "example": "thiefSkillLevelup 1011 -1"
+  },
+  {
+    "sn": "cardOneKey",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "获得启示卡",
+    "desc": "一件获得所有怪盗的一套推荐启示，练度见CardGM",
+    "format": "cardOneKey",
+    "example": "cardOneKey"
+  },
+  {
     "sn": "forceliuhai1",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4601
+      0
     ],
     "name": "Apple iPhone 13 Pro Max",
     "desc": "设置分辨率为“2778 x 1284”",
@@ -885,10 +1390,10 @@
     "sn": "forceliuhai2",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4602
+      0
     ],
     "name": "Apple iPhone 13/12",
     "desc": "设置分辨率为“2532 x 1170”",
@@ -899,10 +1404,10 @@
     "sn": "forceliuhai3",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4603
+      0
     ],
     "name": "Apple iPhone 11",
     "desc": "设置分辨率为“1792 x 828”",
@@ -913,10 +1418,10 @@
     "sn": "forceliuhai4",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4604
+      0
     ],
     "name": "Apple iPad 10.2英寸平板电脑",
     "desc": "设置分辨率为“2160 x 1620”",
@@ -927,10 +1432,10 @@
     "sn": "forceliuhai5",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4605
+      0
     ],
     "name": "Apple iPad mini",
     "desc": "设置分辨率为“2266 x 1488”",
@@ -941,10 +1446,10 @@
     "sn": "forceliuhai6",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4606
+      0
     ],
     "name": "ivo iQOO Neo5 SE",
     "desc": "设置分辨率为“2400 x 1080”",
@@ -955,10 +1460,10 @@
     "sn": "forceliuhai7",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4607
+      0
     ],
     "name": "Redmi Note 11",
     "desc": "设置分辨率为“2400 x 1080”",
@@ -969,10 +1474,10 @@
     "sn": "forceliuhai8",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4608
+      0
     ],
     "name": "荣耀X30",
     "desc": "设置分辨率为“2388 x 1080”",
@@ -983,10 +1488,10 @@
     "sn": "forceliuhai9",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4609
+      0
     ],
     "name": "Redmi K50 pro",
     "desc": "设置分辨率为“2300 x 1440”",
@@ -997,10 +1502,10 @@
     "sn": "forceliuhai10",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4610
+      0
     ],
     "name": "荣耀Play6T/Redmi 10A",
     "desc": "设置分辨率为“1600 x 720”",
@@ -1011,10 +1516,10 @@
     "sn": "forceliuhai11",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4611
+      0
     ],
     "name": "HUAWEI nova 8 SE",
     "desc": "设置分辨率为“2400 x 1080”",
@@ -1025,10 +1530,10 @@
     "sn": "forceliuhai12",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4612
+      0
     ],
     "name": "vivo iQOO U5x",
     "desc": "设置分辨率为“2408 x 1080”",
@@ -1039,10 +1544,10 @@
     "sn": "forceliuhai13",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4613
+      0
     ],
     "name": "荣耀平板7",
     "desc": "设置分辨率为“2000 x 1200”",
@@ -1053,10 +1558,10 @@
     "sn": "forceliuhai14",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4614
+      0
     ],
     "name": "华为HUAWEI MatePad/小米平板5/vivo Pad",
     "desc": "设置分辨率为“2560 x 1600”",
@@ -1067,10 +1572,10 @@
     "sn": "forceliuhai15",
     "type": 1,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4615
+      0
     ],
     "name": "还原为PC模式",
     "desc": "还原为PC模式",
@@ -1078,69 +1583,1357 @@
     "example": "PCModel"
   },
   {
-    "sn": "SetResolution",
-    "type": 1,
+    "sn": "owEventDateMap",
+    "type": 3,
     "group": [
-      "移动模式"
+      ""
     ],
     "orderGroup": [
-      4616
+      0
     ],
-    "name": "设置移动端分辨率",
-    "desc": "设置移动端分辨率",
-    "format": "SetResolution type fullScreen",
-    "example": "SetResolution 1 true"
+    "name": "一键解锁约会地点",
+    "desc": "一键解锁约会地点",
+    "format": "openAllWorldMap,unlockAllBooks,readBook 306422,readBook 306423,readBook 306424,readBook 306425,levelup 50,acceptQuest 10281,finishQuest 10281,acceptQuest 10075,finishQuest 10075,acceptQuest 11300,finishQuest 11300,acceptQuest 11085,finishQuest 11085,acceptQuest 10030,finishQuest 10030,acceptQuest 10080,finishQuest 10080,acceptQuest 11091,finishQuest 11091,unlockStoryTime,GoHome",
+    "example": "owEventDateMap"
   },
   {
-    "sn": "startDialog",
-    "type": 1,
+    "sn": "owEventMusicClub",
+    "type": 3,
     "group": [
-      "对话"
+      ""
     ],
     "orderGroup": [
-      5001
+      0
     ],
-    "name": "开始一组对话",
-    "desc": "开始一组对话",
-    "format": "startDialog sn [id]",
-    "example": "startDialog 3000"
+    "name": "一键音游",
+    "desc": "一键音游全开,并加一个音游日程。",
+    "format": "funcOpen 360,funcOpen361,acceptQuest 20042,finishQuest 20042,unlockStoryTime,finishGuides,finishTutorials,addActionEnergy 5,changeOpenWorldEvent 1 100101,rhythmGameAllOpen,stageSwitchCommon 273",
+    "example": "owEventMusicClub"
   },
   {
-    "sn": "showDialog",
-    "type": 1,
+    "sn": "owTimeSunny",
+    "type": 3,
     "group": [
-      "对话"
+      ""
     ],
     "orderGroup": [
-      5002
+      0
     ],
-    "name": "显示一条对话",
-    "desc": "显示一条对话",
-    "format": "showDialog sn [id]",
-    "example": "showDialog 3000"
+    "name": "切换到晴天",
+    "desc": "一键切换到晴天（日程第1天）",
+    "format": "timeAdvance -1 1,timeAdvance",
+    "example": "owTimeSunny"
   },
   {
-    "sn": "startSNS",
-    "type": 1,
+    "sn": "owTimeRain",
+    "type": 3,
     "group": [
-      "对话"
+      ""
     ],
     "orderGroup": [
-      5003
+      0
     ],
-    "name": "开始一组SNS对话",
-    "desc": "开始一组SNS对话",
-    "format": "startSNS tidingsSn startPlotSn",
-    "example": "startSNS 100 101"
+    "name": "切换到雨天",
+    "desc": "一键切换到雨天（日程第3天）",
+    "format": "timeAdvance -1 2,timeAdvance 2",
+    "example": "owTimeRain"
+  },
+  {
+    "sn": "owEventQianZao",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键添加【千早】",
+    "desc": "一键添加千早占卜",
+    "format": "acceptQuest 79999,finishQuest 79999,unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,addCurrency 22 100000,addActionEnergy 5,changeOpenWorldEvent 1 90101,stageSwitchCommon 50",
+    "example": "owEventQianZao"
+  },
+  {
+    "sn": "owEventReadBook",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键添加【读书】",
+    "desc": "一键测试读书事件",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,addActionEnergy 1,unlockAllBooks,GoHome,changeOpenWorldEvent 1 50101",
+    "example": "owEventReadBook"
+  },
+  {
+    "sn": "owEventMovie",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键添加【电影】",
+    "desc": "一键测试电影事件",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 700,addActionEnergy 1,addCurrency 22 100000,switchSceneByTeleport 2102007,changeOpenWorldEvent 1 20301",
+    "example": "owEventMovie"
+  },
+  {
+    "sn": "owEventCoop1",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键【梅洛普约会】",
+    "desc": "一键测试梅洛普Coop约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 1,switchSceneByTeleport 2102029,changeOpenWorldEvent 1 30101,",
+    "example": "owEventCoop1"
+  },
+  {
+    "sn": "owEventCoop2",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键【素羽约会】",
+    "desc": "一键测试素羽Coop约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 2,switchSceneByTeleport 268010,changeOpenWorldEvent 1 30201,",
+    "example": "owEventCoop2"
+  },
+  {
+    "sn": "owEventCoop8",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键【朋子约会】",
+    "desc": "一键测试朋子Coop约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 8,switchSceneByTeleport 271020,changeOpenWorldEvent 1 30501,",
+    "example": "owEventCoop8"
+  },
+  {
+    "sn": "owEventCoop6",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键【黑谷清约会】",
+    "desc": "一键测试黑谷清Coop约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 6,switchSceneByTeleport 275010,changeOpenWorldEvent 1 30401,",
+    "example": "owEventCoop6"
+  },
+  {
+    "sn": "owEventCoop5",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键【加纳骏约会】",
+    "desc": "一键测试加纳骏Coop约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 5,stageSwitchCommon 272,changeOpenWorldEvent 1 30701,",
+    "example": "owEventCoop5"
+  },
+  {
+    "sn": "owEventCoop7",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键【李瑶铃约会】",
+    "desc": "一键测试李瑶铃Coop约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 7,switchSceneByTeleport 10031,changeOpenWorldEvent 1 30801,",
+    "example": "owEventCoop7"
+  },
+  {
+    "sn": "owEventCoop9",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键【富山约会】",
+    "desc": "一键测试富山Coop约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 9,stageSwitchCommon 281,changeOpenWorldEvent 1 30601,",
+    "example": "owEventCoop9"
+  },
+  {
+    "sn": "owEventCoop11",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键【YUI约会】",
+    "desc": "一键测试YUI-Coop约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 11,GoHome,changeOpenWorldEvent 1 30301",
+    "example": "owEventCoop11"
+  },
+  {
+    "sn": "owEventLBL",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键【卢布朗】",
+    "desc": "一键测试卢布朗",
+    "format": "acceptQuest 13003,finishQuest 13003,acceptQuest 20260,finishQuest 20260,unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 410,addActionEnergy 1,timeAdvance -1 3,timeAdvance 4,switchSceneByTeleport 10002",
+    "example": "owEventLBL"
+  },
+  {
+    "sn": "coop1_2",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "梅洛普-第2节",
+    "desc": "梅洛普-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 1,coopModIntimacyLv 1 2,addIntimacy  1 400,changeOpenWorldEvent 1 30111,switchSceneByTeleport 2102029",
+    "example": "coop1_2"
+  },
+  {
+    "sn": "coop1_3",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "梅洛普-第3节",
+    "desc": "梅洛普-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 1,coopModIntimacyLv 1 4,addIntimacy  1 400,changeOpenWorldEvent 1 30111,switchSceneByTeleport 2102029",
+    "example": "coop1_3"
+  },
+  {
+    "sn": "coop1_4",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "梅洛普-第4节",
+    "desc": "梅洛普-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 1,coopModIntimacyLv 1 6,addIntimacy  1 400,changeOpenWorldEvent 1 30111,switchSceneByTeleport 2102029",
+    "example": "coop1_4"
+  },
+  {
+    "sn": "coop1_5",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "梅洛普-第5节",
+    "desc": "梅洛普-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 1,coopModIntimacyLv 1 8,addIntimacy  1 400,changeOpenWorldEvent 1 30111,switchSceneByTeleport 2102029",
+    "example": "coop1_5"
+  },
+  {
+    "sn": "coop1_6",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "梅洛普-第6节",
+    "desc": "梅洛普-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 1,coopModIntimacyLv 1 10,addIntimacy  1 400,changeOpenWorldEvent 1 30111,switchSceneByTeleport 2102029",
+    "example": "coop1_6"
+  },
+  {
+    "sn": "coop1_7",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "梅洛普-第7节",
+    "desc": "梅洛普-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 1,coopModIntimacyLv 1 12,addIntimacy  1 400,changeOpenWorldEvent 1 30111,switchSceneByTeleport 2102029",
+    "example": "coop1_7"
+  },
+  {
+    "sn": "coop1_8",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "梅洛普-第8节",
+    "desc": "梅洛普-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 1,coopModIntimacyLv 1 14,addIntimacy  1 400,changeOpenWorldEvent 1 30111,switchSceneByTeleport 2102029",
+    "example": "coop1_8"
+  },
+  {
+    "sn": "coop1_9",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "梅洛普-第9节",
+    "desc": "梅洛普-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 1,coopModIntimacyLv 1 16,addIntimacy  1 400,changeOpenWorldEvent 1 30111,switchSceneByTeleport 2102029",
+    "example": "coop1_9"
+  },
+  {
+    "sn": "coop1_10",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "梅洛普-第10节",
+    "desc": "梅洛普-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 1,coopModIntimacyLv 1 19,addIntimacy  1 400,changeOpenWorldEvent 1 30111,switchSceneByTeleport 2102029",
+    "example": "coop1_10"
+  },
+  {
+    "sn": "coop2_2",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新井素羽-第2节",
+    "desc": "新井素羽-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 2,coopModIntimacyLv 2 2,addIntimacy  2 400,changeOpenWorldEvent 1 30211,switchSceneByTeleport 268010",
+    "example": "coop2_2"
+  },
+  {
+    "sn": "coop2_3",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新井素羽-第3节",
+    "desc": "新井素羽-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 2,coopModIntimacyLv 2 4,addIntimacy  2 400,changeOpenWorldEvent 1 30211,switchSceneByTeleport 268010",
+    "example": "coop2_3"
+  },
+  {
+    "sn": "coop2_4",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新井素羽-第4节",
+    "desc": "新井素羽-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 2,coopModIntimacyLv 2 6,addIntimacy  2 400,changeOpenWorldEvent 1 30211,switchSceneByTeleport 268010",
+    "example": "coop2_4"
+  },
+  {
+    "sn": "coop2_5",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新井素羽-第5节",
+    "desc": "新井素羽-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 2,coopModIntimacyLv 2 8,addIntimacy  2 400,changeOpenWorldEvent 1 30211,switchSceneByTeleport 268010",
+    "example": "coop2_5"
+  },
+  {
+    "sn": "coop2_6",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新井素羽-第6节",
+    "desc": "新井素羽-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 2,coopModIntimacyLv 2 10,addIntimacy  2 400,changeOpenWorldEvent 1 30211,switchSceneByTeleport 268010",
+    "example": "coop2_6"
+  },
+  {
+    "sn": "coop2_7",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新井素羽-第7节",
+    "desc": "新井素羽-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 2,coopModIntimacyLv 2 12,addIntimacy  2 400,changeOpenWorldEvent 1 30211,switchSceneByTeleport 268010",
+    "example": "coop2_7"
+  },
+  {
+    "sn": "coop2_8",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新井素羽-第8节",
+    "desc": "新井素羽-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 2,coopModIntimacyLv 2 14,addIntimacy  2 400,changeOpenWorldEvent 1 30211,switchSceneByTeleport 268010",
+    "example": "coop2_8"
+  },
+  {
+    "sn": "coop2_9",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新井素羽-第9节",
+    "desc": "新井素羽-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 2,coopModIntimacyLv 2 16,addIntimacy  2 400,changeOpenWorldEvent 1 30211,switchSceneByTeleport 268010",
+    "example": "coop2_9"
+  },
+  {
+    "sn": "coop2_10",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新井素羽-第10节",
+    "desc": "新井素羽-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 2,coopModIntimacyLv 2 19,addIntimacy  2 400,changeOpenWorldEvent 1 30211,switchSceneByTeleport 268010",
+    "example": "coop2_10"
+  },
+  {
+    "sn": "coop5_2",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加纳骏-第2节",
+    "desc": "加纳骏-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 5,coopModIntimacyLv 5 2,addIntimacy  5 400,changeOpenWorldEvent 1 30711,switchSceneByTeleport 272010",
+    "example": "coop5_2"
+  },
+  {
+    "sn": "coop5_3",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加纳骏-第3节",
+    "desc": "加纳骏-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 5,coopModIntimacyLv 5 4,addIntimacy  5 400,changeOpenWorldEvent 1 30711,switchSceneByTeleport 272010",
+    "example": "coop5_3"
+  },
+  {
+    "sn": "coop5_4",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加纳骏-第4节",
+    "desc": "加纳骏-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 5,coopModIntimacyLv 5 6,addIntimacy  5 400,changeOpenWorldEvent 1 30711,switchSceneByTeleport 272010",
+    "example": "coop5_4"
+  },
+  {
+    "sn": "coop5_5",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加纳骏-第5节",
+    "desc": "加纳骏-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 5,coopModIntimacyLv 5 8,addIntimacy  5 400,changeOpenWorldEvent 1 30711,switchSceneByTeleport 272010",
+    "example": "coop5_5"
+  },
+  {
+    "sn": "coop5_6",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加纳骏-第6节",
+    "desc": "加纳骏-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 5,coopModIntimacyLv 5 10,addIntimacy  5 400,changeOpenWorldEvent 1 30711,switchSceneByTeleport 272010",
+    "example": "coop5_6"
+  },
+  {
+    "sn": "coop5_7",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加纳骏-第7节",
+    "desc": "加纳骏-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 5,coopModIntimacyLv 5 11,addIntimacy  5 400,changeOpenWorldEvent 1 30711,switchSceneByTeleport 272010",
+    "example": "coop5_7"
+  },
+  {
+    "sn": "coop5_8",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加纳骏-第8节",
+    "desc": "加纳骏-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 5,coopModIntimacyLv 5 12,addIntimacy  5 400,changeOpenWorldEvent 1 30711,switchSceneByTeleport 272010",
+    "example": "coop5_8"
+  },
+  {
+    "sn": "coop5_9",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加纳骏-第9节",
+    "desc": "加纳骏-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 5,coopModIntimacyLv 5 14,addIntimacy  5 400,changeOpenWorldEvent 1 30711,switchSceneByTeleport 272010",
+    "example": "coop5_9"
+  },
+  {
+    "sn": "coop5_10",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加纳骏-第10节",
+    "desc": "加纳骏-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 5,coopModIntimacyLv 5 19,addIntimacy  5 400,changeOpenWorldEvent 1 30711,switchSceneByTeleport 272010",
+    "example": "coop5_10"
+  },
+  {
+    "sn": "coop6_2",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "黑谷清-第2节",
+    "desc": "黑谷清-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 6,coopModIntimacyLv 6 2,addIntimacy  6 400,changeOpenWorldEvent 1 30411,switchSceneByTeleport 275010",
+    "example": "coop6_2"
+  },
+  {
+    "sn": "coop6_3",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "黑谷清-第3节",
+    "desc": "黑谷清-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 6,coopModIntimacyLv 6 4,addIntimacy  6 400,changeOpenWorldEvent 1 30411,switchSceneByTeleport 275010",
+    "example": "coop6_3"
+  },
+  {
+    "sn": "coop6_4",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "黑谷清-第4节",
+    "desc": "黑谷清-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 6,coopModIntimacyLv 6 6,addIntimacy  6 400,changeOpenWorldEvent 1 30411,switchSceneByTeleport 275010",
+    "example": "coop6_4"
+  },
+  {
+    "sn": "coop6_5",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "黑谷清-第5节",
+    "desc": "黑谷清-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 6,coopModIntimacyLv 6 8,addIntimacy  6 400,changeOpenWorldEvent 1 30411,switchSceneByTeleport 275010",
+    "example": "coop6_5"
+  },
+  {
+    "sn": "coop6_6",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "黑谷清-第6节",
+    "desc": "黑谷清-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 6,coopModIntimacyLv 6 10,addIntimacy  6 400,changeOpenWorldEvent 1 30411,switchSceneByTeleport 275010",
+    "example": "coop6_6"
+  },
+  {
+    "sn": "coop6_7",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "黑谷清-第7节",
+    "desc": "黑谷清-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 6,coopModIntimacyLv 6 12,addIntimacy  6 400,changeOpenWorldEvent 1 30411,switchSceneByTeleport 275010",
+    "example": "coop6_7"
+  },
+  {
+    "sn": "coop6_8",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "黑谷清-第8节",
+    "desc": "黑谷清-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 6,coopModIntimacyLv 6 14,addIntimacy  6 400,changeOpenWorldEvent 1 30411,switchSceneByTeleport 275010",
+    "example": "coop6_8"
+  },
+  {
+    "sn": "coop6_9",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "黑谷清-第9节",
+    "desc": "黑谷清-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 6,coopModIntimacyLv 6 16,addIntimacy  6 400,changeOpenWorldEvent 1 30411,switchSceneByTeleport 275010",
+    "example": "coop6_9"
+  },
+  {
+    "sn": "coop6_10",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "黑谷清-第10节",
+    "desc": "黑谷清-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 6,coopModIntimacyLv 6 19,addIntimacy  6 400,changeOpenWorldEvent 1 30411,switchSceneByTeleport 275010",
+    "example": "coop6_10"
+  },
+  {
+    "sn": "coop7_2",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "李瑶铃-第2节",
+    "desc": "李瑶铃-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 7,coopModIntimacyLv 7 2,addIntimacy  7 400,changeOpenWorldEvent 1 30811,switchSceneByTeleport 10031",
+    "example": "coop7_2"
+  },
+  {
+    "sn": "coop7_3",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "李瑶铃-第3节",
+    "desc": "李瑶铃-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 7,coopModIntimacyLv 7 4,addIntimacy  7 400,changeOpenWorldEvent 1 30811,switchSceneByTeleport 10031",
+    "example": "coop7_3"
+  },
+  {
+    "sn": "coop7_4",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "李瑶铃-第4节",
+    "desc": "李瑶铃-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 7,coopModIntimacyLv 7 6,addIntimacy  7 400,changeOpenWorldEvent 1 30811,switchSceneByTeleport 10031",
+    "example": "coop7_4"
+  },
+  {
+    "sn": "coop7_5",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "李瑶铃-第5节",
+    "desc": "李瑶铃-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 7,coopModIntimacyLv 7 8,addIntimacy  7 400,changeOpenWorldEvent 1 30811,switchSceneByTeleport 10031",
+    "example": "coop7_5"
+  },
+  {
+    "sn": "coop7_6",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "李瑶铃-第6节",
+    "desc": "李瑶铃-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 7,coopModIntimacyLv 7 10,addIntimacy  7 400,changeOpenWorldEvent 1 30811,switchSceneByTeleport 10031",
+    "example": "coop7_6"
+  },
+  {
+    "sn": "coop7_7",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "李瑶铃-第7节",
+    "desc": "李瑶铃-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 7,coopModIntimacyLv 7 12,addIntimacy  7 400,changeOpenWorldEvent 1 30811,switchSceneByTeleport 10031",
+    "example": "coop7_7"
+  },
+  {
+    "sn": "coop7_8",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "李瑶铃-第8节",
+    "desc": "李瑶铃-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 7,coopModIntimacyLv 7 14,addIntimacy  7 400,changeOpenWorldEvent 1 30811,switchSceneByTeleport 10031",
+    "example": "coop7_8"
+  },
+  {
+    "sn": "coop7_9",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "李瑶铃-第9节",
+    "desc": "李瑶铃-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 7,coopModIntimacyLv 7 16,addIntimacy  7 400,changeOpenWorldEvent 1 30811,switchSceneByTeleport 10031",
+    "example": "coop7_9"
+  },
+  {
+    "sn": "coop7_10",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "李瑶铃-第10节",
+    "desc": "李瑶铃-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 7,coopModIntimacyLv 7 19,addIntimacy  7 400,changeOpenWorldEvent 1 30811,switchSceneByTeleport 10031",
+    "example": "coop7_10"
+  },
+  {
+    "sn": "coop8_2",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "野毛朋子-第2节",
+    "desc": "野毛朋子-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 8,coopModIntimacyLv 8 2,addIntimacy  8 400,changeOpenWorldEvent 1 30511,switchSceneByTeleport 271020",
+    "example": "coop8_2"
+  },
+  {
+    "sn": "coop8_3",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "野毛朋子-第3节",
+    "desc": "野毛朋子-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 8,coopModIntimacyLv 8 4,addIntimacy  8 400,changeOpenWorldEvent 1 30511,switchSceneByTeleport 271020",
+    "example": "coop8_3"
+  },
+  {
+    "sn": "coop8_4",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "野毛朋子-第4节",
+    "desc": "野毛朋子-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 8,coopModIntimacyLv 8 6,addIntimacy  8 400,changeOpenWorldEvent 1 30511,switchSceneByTeleport 271020",
+    "example": "coop8_4"
+  },
+  {
+    "sn": "coop8_5",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "野毛朋子-第5节",
+    "desc": "野毛朋子-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 8,coopModIntimacyLv 8 8,addIntimacy  8 400,changeOpenWorldEvent 1 30511,switchSceneByTeleport 271020",
+    "example": "coop8_5"
+  },
+  {
+    "sn": "coop8_6",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "野毛朋子-第6节",
+    "desc": "野毛朋子-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 8,coopModIntimacyLv 8 10,addIntimacy  8 400,changeOpenWorldEvent 1 30511,switchSceneByTeleport 271020",
+    "example": "coop8_6"
+  },
+  {
+    "sn": "coop8_7",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "野毛朋子-第7节",
+    "desc": "野毛朋子-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 8,coopModIntimacyLv 8 12,addIntimacy  8 400,changeOpenWorldEvent 1 30511,switchSceneByTeleport 271020",
+    "example": "coop8_7"
+  },
+  {
+    "sn": "coop8_8",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "野毛朋子-第8节",
+    "desc": "野毛朋子-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 8,coopModIntimacyLv 8 14,addIntimacy  8 400,changeOpenWorldEvent 1 30511,switchSceneByTeleport 271020",
+    "example": "coop8_8"
+  },
+  {
+    "sn": "coop8_9",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "野毛朋子-第9节",
+    "desc": "野毛朋子-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 8,coopModIntimacyLv 8 16,addIntimacy  8 400,changeOpenWorldEvent 1 30511,switchSceneByTeleport 271020",
+    "example": "coop8_9"
+  },
+  {
+    "sn": "coop8_10",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "野毛朋子-第10节",
+    "desc": "野毛朋子-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 8,coopModIntimacyLv 8 19,addIntimacy  8 400,changeOpenWorldEvent 1 30511,switchSceneByTeleport 271020",
+    "example": "coop8_10"
+  },
+  {
+    "sn": "coop9_2",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "富山佳代-第2节",
+    "desc": "富山佳代-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 9,coopModIntimacyLv 9 2,addIntimacy  9 400,changeOpenWorldEvent 1 30611,switchSceneByTeleport 281010",
+    "example": "coop9_2"
+  },
+  {
+    "sn": "coop9_3",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "富山佳代-第3节",
+    "desc": "富山佳代-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 9,coopModIntimacyLv 9 4,addIntimacy  9 400,changeOpenWorldEvent 1 30611,switchSceneByTeleport 281010",
+    "example": "coop9_3"
+  },
+  {
+    "sn": "coop9_4",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "富山佳代-第4节",
+    "desc": "富山佳代-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 9,coopModIntimacyLv 9 6,addIntimacy  9 400,changeOpenWorldEvent 1 30611,switchSceneByTeleport 281010",
+    "example": "coop9_4"
+  },
+  {
+    "sn": "coop9_5",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "富山佳代-第5节",
+    "desc": "富山佳代-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 9,coopModIntimacyLv 9 8,addIntimacy  9 400,changeOpenWorldEvent 1 30611,switchSceneByTeleport 281010",
+    "example": "coop9_5"
+  },
+  {
+    "sn": "coop9_6",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "富山佳代-第6节",
+    "desc": "富山佳代-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 9,coopModIntimacyLv 9 10,addIntimacy  9 400,changeOpenWorldEvent 1 30611,switchSceneByTeleport 281010",
+    "example": "coop9_6"
+  },
+  {
+    "sn": "coop9_7",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "富山佳代-第7节",
+    "desc": "富山佳代-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 9,coopModIntimacyLv 9 12,addIntimacy  9 400,changeOpenWorldEvent 1 30611,switchSceneByTeleport 281010",
+    "example": "coop9_7"
+  },
+  {
+    "sn": "coop9_8",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "富山佳代-第8节",
+    "desc": "富山佳代-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 9,coopModIntimacyLv 9 14,addIntimacy  9 400,changeOpenWorldEvent 1 30611,switchSceneByTeleport 281010",
+    "example": "coop9_8"
+  },
+  {
+    "sn": "coop9_9",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "富山佳代-第9节",
+    "desc": "富山佳代-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 9,coopModIntimacyLv 9 16,addIntimacy  9 400,changeOpenWorldEvent 1 30611,switchSceneByTeleport 281010",
+    "example": "coop9_9"
+  },
+  {
+    "sn": "coop9_10",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "富山佳代-第10节",
+    "desc": "富山佳代-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 9,coopModIntimacyLv 9 19,addIntimacy  9 400,changeOpenWorldEvent 1 30611,switchSceneByTeleport 281010",
+    "example": "coop9_10"
+  },
+  {
+    "sn": "coop11_2",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "YUI-第2节",
+    "desc": "YUI-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 11,coopModIntimacyLv 11 2,addIntimacy  11 400,changeOpenWorldEvent 1 30311,switchSceneByTeleport 2130002",
+    "example": "coop11_2"
+  },
+  {
+    "sn": "coop11_3",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "YUI-第3节",
+    "desc": "YUI-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 11,coopModIntimacyLv 11 4,addIntimacy  11 400,changeOpenWorldEvent 1 30311,switchSceneByTeleport 2130002",
+    "example": "coop11_3"
+  },
+  {
+    "sn": "coop11_4",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "YUI-第4节",
+    "desc": "YUI-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 11,coopModIntimacyLv 11 8,addIntimacy  11 400,changeOpenWorldEvent 1 30311,switchSceneByTeleport 2130002",
+    "example": "coop11_4"
+  },
+  {
+    "sn": "coop11_5",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "YUI-第5节",
+    "desc": "YUI-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 11,coopModIntimacyLv 11 10,addIntimacy  11 400,changeOpenWorldEvent 1 30311,switchSceneByTeleport 2130002",
+    "example": "coop11_5"
+  },
+  {
+    "sn": "coop11_6",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "YUI-第6节",
+    "desc": "YUI-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 11,coopModIntimacyLv 11 12,addIntimacy  11 400,changeOpenWorldEvent 1 30311,switchSceneByTeleport 2130002",
+    "example": "coop11_6"
+  },
+  {
+    "sn": "coop11_7",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "YUI-第7节",
+    "desc": "YUI-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 11,coopModIntimacyLv 11 14,addIntimacy  11 400,changeOpenWorldEvent 1 30311,switchSceneByTeleport 2130002",
+    "example": "coop11_7"
+  },
+  {
+    "sn": "coop11_8",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "YUI-第8节",
+    "desc": "YUI-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 11,coopModIntimacyLv 11 16,addIntimacy  11 400,changeOpenWorldEvent 1 30311,switchSceneByTeleport 2130002",
+    "example": "coop11_8"
+  },
+  {
+    "sn": "coop11_9",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "YUI-第9节",
+    "desc": "YUI-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 11,coopModIntimacyLv 11 17,addIntimacy  11 400,changeOpenWorldEvent 1 30311,switchSceneByTeleport 2130002",
+    "example": "coop11_9"
+  },
+  {
+    "sn": "coop11_10",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "YUI-第10节",
+    "desc": "YUI-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 11,coopModIntimacyLv 11 19,addIntimacy  11 400,changeOpenWorldEvent 1 30311,switchSceneByTeleport 2130002",
+    "example": "coop11_10"
+  },
+  {
+    "sn": "coop_1_sp",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "梅洛普-特殊",
+    "desc": "梅洛普-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 1,coopModIntimacyLv 1 15,setCoopRelation 1 2,changeOpenWorldEvent 1 30102,switchSceneByTeleport 2102029",
+    "example": "coop_1_sp"
+  },
+  {
+    "sn": "coop_2_sp",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "新井素羽-特殊",
+    "desc": "新井素羽-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 2,coopModIntimacyLv 2 15,setCoopRelation 2 2,changeOpenWorldEvent 1 30202,switchSceneByTeleport 268010",
+    "example": "coop_2_sp"
+  },
+  {
+    "sn": "coop_5_sp",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加纳骏-特殊",
+    "desc": "加纳骏-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 5,coopModIntimacyLv 5 15,setCoopRelation 5 1,changeOpenWorldEvent 1 30702,switchSceneByTeleport 272010",
+    "example": "coop_5_sp"
+  },
+  {
+    "sn": "coop_6_sp",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "黑谷清-特殊",
+    "desc": "黑谷清-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 6,coopModIntimacyLv 6 15,setCoopRelation 6 1,changeOpenWorldEvent 1 30402,switchSceneByTeleport 275010",
+    "example": "coop_6_sp"
+  },
+  {
+    "sn": "coop_7_sp",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "李瑶铃-特殊",
+    "desc": "李瑶铃-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 7,coopModIntimacyLv 7 15,setCoopRelation 7 2,changeOpenWorldEvent 1 30802,switchSceneByTeleport 10031",
+    "example": "coop_7_sp"
+  },
+  {
+    "sn": "coop_8_sp",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "野毛朋子-特殊",
+    "desc": "野毛朋子-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 8,coopModIntimacyLv 8 15,setCoopRelation 8 2,changeOpenWorldEvent 1 30502,switchSceneByTeleport 271020",
+    "example": "coop_8_sp"
+  },
+  {
+    "sn": "coop_9_sp",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "富山佳代-特殊",
+    "desc": "富山佳代-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 9,coopModIntimacyLv 9 15,setCoopRelation 9 1,changeOpenWorldEvent 1 30602,switchSceneByTeleport 281010",
+    "example": "coop_9_sp"
+  },
+  {
+    "sn": "coop_11_sp",
+    "type": 3,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "YUI-特殊",
+    "desc": "YUI-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 11,coopModIntimacyLv 11 15,setCoopRelation 11 1,changeOpenWorldEvent 1 30302,switchSceneByTeleport 2130002",
+    "example": "coop_11_sp"
   },
   {
     "sn": "addAward",
     "type": 0,
     "group": [
-      "装备道具"
+      "K"
     ],
     "orderGroup": [
-      6006
+      0
     ],
     "name": "添加Award表内的奖励",
     "desc": "获得产出表内的奖励",
@@ -1151,10 +2944,10 @@
     "sn": "clearContainer",
     "type": 0,
     "group": [
-      "装备道具"
+      "K"
     ],
     "orderGroup": [
-      6007
+      0
     ],
     "name": "清空：1消耗 2装备 3材料 4其它 5套装",
     "desc": "1消耗 2装备 3材料 4其它 5套装",
@@ -1165,10 +2958,10 @@
     "sn": "VisitAllPalaceWorldArea",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7003
+      0
     ],
     "name": "解锁所有异世界区域",
     "desc": "解锁所有异世界区域",
@@ -1179,10 +2972,10 @@
     "sn": "unlockOtherWorldNPC",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7004
+      0
     ],
     "name": "解锁NPC传送",
     "desc": "解锁异世界的NPC传送 sn为场景",
@@ -1193,10 +2986,10 @@
     "sn": "clearUIFog",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7005
+      0
     ],
     "name": "临时清除迷雾",
     "desc": "临时清除迷雾",
@@ -1207,24 +3000,24 @@
     "sn": "enterOtherWorld",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7006
+      0
     ],
     "name": "进入异世界场景",
     "desc": "进入异世界场景",
-    "format": "enterOtherWorld [palaceWorldSn]",
-    "example": "enterOtherWorld 1101"
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8301"
   },
   {
     "sn": "resetOtherWorld",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7007
+      0
     ],
     "name": "重置异世界机关状态",
     "desc": "重置异世界机关状态",
@@ -1232,13 +3025,41 @@
     "example": "resetOtherWorld"
   },
   {
+    "sn": "resetNPC",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "重置NPC状态",
+    "desc": "重置NPC状态",
+    "format": "retsetNPC [Npc类型] [SceneSn]",
+    "example": "resetNPC 10 8301"
+  },
+  {
+    "sn": "unlockOtherWorld",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁全部异世界场景",
+    "desc": "解锁全部异世界场景",
+    "format": "unlockOtherWorld",
+    "example": "unlockOtherWorld"
+  },
+  {
     "sn": "trickState",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7008
+      0
     ],
     "name": "检查机关当前状态",
     "desc": "检查机关当前状态",
@@ -1246,13 +3067,27 @@
     "example": "trickState 8331801"
   },
   {
+    "sn": "ShowPalaceObjSn",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "在工程中显示机关Sn",
+    "desc": "仅在工程中机关实例命名上显示机关Sn",
+    "format": "ShowPalaceObjSn",
+    "example": "ShowPalaceObjSn"
+  },
+  {
     "sn": "showAStarGrid",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7009
+      0
     ],
     "name": "显示A星小格",
     "desc": "显示A星小格 [时间]",
@@ -1263,10 +3098,10 @@
     "sn": "resetImpressionSpace",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7010
+      0
     ],
     "name": "重置印象空间",
     "desc": "重新刷新印象空间数据",
@@ -1277,10 +3112,10 @@
     "sn": "enterImpressionSpace",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7011
+      0
     ],
     "name": "进入印象空间X层",
     "desc": "进入印象空间某层",
@@ -1291,10 +3126,10 @@
     "sn": "setWarningValue",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7012
+      0
     ],
     "name": "设置警戒值",
     "desc": "设置警戒值",
@@ -1305,10 +3140,10 @@
     "sn": "showPalaceWorldUI",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7013
+      0
     ],
     "name": "异世界UI",
     "desc": "模拟打开异世界UI",
@@ -1319,10 +3154,10 @@
     "sn": "resetGuanQiaPalace",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7014
+      0
     ],
     "name": "重置机关",
     "desc": "重置关卡机关",
@@ -1333,10 +3168,10 @@
     "sn": "gotopalace recall",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7015
+      0
     ],
     "name": "进入回溯关卡",
     "desc": "进入关卡，只能进入回溯关卡",
@@ -1347,10 +3182,10 @@
     "sn": "unlockRecallPalace",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7016
+      0
     ],
     "name": "解锁回溯关卡",
     "desc": "解锁回溯殿堂关卡",
@@ -1361,10 +3196,10 @@
     "sn": "impressionGuaiPinCell",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7017
+      0
     ],
     "name": "进入or离开怪频任务",
     "desc": "进入1or离开0怪频任务",
@@ -1375,10 +3210,10 @@
     "sn": "switchCheckpoint",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7018
+      0
     ],
     "name": "进入任意类型checkpointSn",
     "desc": "进入任意类型关卡Sn",
@@ -1389,10 +3224,10 @@
     "sn": "exploreExpAdd",
     "type": 1,
     "group": [
-      "关卡相关"
+      "��"
     ],
     "orderGroup": [
-      7019
+      0
     ],
     "name": "增加探索积分",
     "desc": "增加探索积分",
@@ -1400,13 +3235,167 @@
     "example": "exploreExpAdd 8301 100"
   },
   {
+    "sn": "levelUpOtherWorld",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "触发设定异世界的里程等级提升",
+    "desc": "触发设定异世界的里程等级提升",
+    "format": "levelUpOtherWorld 异世界sn",
+    "example": "levelUpOtherWorld 2"
+  },
+  {
+    "sn": "UnlockSceneMapBlock",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁场景所有地图地块",
+    "desc": "解锁场景所有地图地块，不填场景默认解锁当前地图场景",
+    "format": "UnlockSceneMapBlock [地图配置场景sn]",
+    "example": "UnlockSceneMapBlock"
+  },
+  {
+    "sn": "SetMapBlockState",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "设置地图块状态 0 解锁 1 红色 2 透明",
+    "desc": "设置地图块状态 0 解锁 1 红色 2 透明",
+    "format": "SetMapBlockState 地图块sn 状态",
+    "example": "SetMapBlockState 8301001 0"
+  },
+  {
+    "sn": "enterDailyChallenge",
+    "type": 0,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "进入日常副本",
+    "desc": "进入一次性本，材料本",
+    "format": "enterDailyChallenge [challengSn]",
+    "example": "enterDailyChallenge 21001"
+  },
+  {
+    "sn": "enterVelvetTrial",
+    "type": 0,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "进入天鹅绒试炼",
+    "desc": "进入指定level的天鹅绒试炼",
+    "format": "enterVelvetTrial [levelId]",
+    "example": "enterVelvetTrial 1"
+  },
+  {
+    "sn": "CopyCharInfo",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "获取上阵怪盗数值信息",
+    "desc": "获取上阵怪盗数值信息",
+    "format": "CopyCharInfo",
+    "example": "CopyCharInfo"
+  },
+  {
+    "sn": "PlayRandomThiefSound",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "播放随机怪盗声音",
+    "desc": "播放随机怪盗声音",
+    "format": "PlayRandomThiefSound [type]",
+    "example": "PlayRandomThiefSound CampaignStart"
+  },
+  {
+    "sn": "VelvetTrialLock",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁天鹅绒试炼关卡",
+    "desc": "解锁天鹅绒试炼全部关卡",
+    "format": "gmPassAllVelvetTrial 1",
+    "example": "gmPassAllVelvetTrial 1"
+  },
+  {
+    "sn": "DifficultChallengeLock",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁心之海试炼关卡",
+    "desc": "解锁心之海试炼全部关卡",
+    "format": "unlockdc",
+    "example": "unlockdc"
+  },
+  {
+    "sn": "ActivityPalaceLock",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁推关玩法关卡",
+    "desc": "解锁推关玩法指定关卡（不填sn解锁全部关）",
+    "format": "unlockAP",
+    "example": "unlockAP"
+  },
+  {
+    "sn": "switchJumpMode",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "切换区域跳跃模式（临时）",
+    "desc": "切换区域跳跃模式（临时）",
+    "format": "switchJumpMode",
+    "example": "switchJumpMode"
+  },
+  {
     "sn": "curPosition",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8003
+      0
     ],
     "name": "获取当前玩家位置",
     "desc": "获取当前玩家位置",
@@ -1414,13 +3403,27 @@
     "example": "curPosition"
   },
   {
+    "sn": "setpos",
+    "type": 1,
+    "group": [
+      "�"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "设置玩家位置",
+    "desc": "设置玩家位置",
+    "format": "setpos x y z",
+    "example": "setpos 0 0 0"
+  },
+  {
     "sn": "SwitchColliderLayerEnable",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8004
+      0
     ],
     "name": "设置collider是否生效",
     "desc": "1 生效 0 不生效",
@@ -1431,10 +3434,10 @@
     "sn": "curWindow",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8005
+      0
     ],
     "name": "获取当前界面逻辑名称",
     "desc": "获取当前界面逻辑名称",
@@ -1445,10 +3448,10 @@
     "sn": "switchOpenWorldNpc",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8006
+      0
     ],
     "name": "开关开放世界氛围NPC",
     "desc": "开关氛围NPC [开 = 1， 关 = 0]",
@@ -1459,10 +3462,10 @@
     "sn": "newBattleMeetingRoom",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8007
+      0
     ],
     "name": "新作战会议室",
     "desc": "新作战会议室",
@@ -1470,27 +3473,13 @@
     "example": "enterNewBattleMeetingRoom"
   },
   {
-    "sn": "instanceSn",
-    "type": 1,
-    "group": [
-      "地图场景"
-    ],
-    "orderGroup": [
-      8008
-    ],
-    "name": "获取战斗场景sn",
-    "desc": "获取战斗场景sn",
-    "format": "instanceSn",
-    "example": "instanceSn"
-  },
-  {
     "sn": "getCameraParam",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8009
+      0
     ],
     "name": "获取相机参数（X，Y）",
     "desc": "获取相机参数（X，Y）",
@@ -1501,10 +3490,10 @@
     "sn": "switchSceneByTeleport",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8010
+      0
     ],
     "name": "调用传送点",
     "desc": "使用TeleportPoint点",
@@ -1515,10 +3504,10 @@
     "sn": "openAllWorldMap",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8011
+      0
     ],
     "name": "解锁所有世界地图",
     "desc": "解锁所有世界地图",
@@ -1529,10 +3518,10 @@
     "sn": "SetFocusIntensity",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8012
+      0
     ],
     "name": "把场景压暗",
     "desc": "把场景压暗",
@@ -1543,10 +3532,10 @@
     "sn": "changeWeather",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8013
+      0
     ],
     "name": "改变天气",
     "desc": "1 晴天   3雨天",
@@ -1557,10 +3546,10 @@
     "sn": "changeTime",
     "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8014
+      0
     ],
     "name": "改变时间段",
     "desc": "Day 白天  Dusk 傍晚  Night 晚上",
@@ -1568,27 +3557,615 @@
     "example": "changeTime Day"
   },
   {
-    "sn": "goHome",
-    "type": 0,
+    "sn": "CheckPhysicHeight",
+    "type": 1,
     "group": [
-      "地图场景"
+      "�"
     ],
     "orderGroup": [
-      8015
+      0
     ],
-    "name": "回家",
-    "desc": "回家园场景",
-    "format": "GoHome",
-    "example": "GoHome"
+    "name": "是否检测Mesh高度",
+    "desc": "是否检测Mesh高度 【1 = 优先物理mesh检测】 【0 = 不检测，使用navmesh高度】",
+    "format": "CheckPhysicHeight [enable]",
+    "example": "CheckPhysicHeight 1"
+  },
+  {
+    "sn": "curEulerAngles",
+    "type": 1,
+    "group": [
+      "�"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "获取玩家当前朝向",
+    "desc": "获取玩家当前朝向",
+    "format": "curEulerAngles",
+    "example": "curEulerAngles"
+  },
+  {
+    "sn": "enterOtherWorld1",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-宫殿外",
+    "desc": "色欲棒球馆-宫殿外",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8300"
+  },
+  {
+    "sn": "enterOtherWorld2",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-本垒1F东",
+    "desc": "色欲棒球馆-本垒1F东",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8301"
+  },
+  {
+    "sn": "enterOtherWorld3",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-本垒1F中央大厅",
+    "desc": "色欲棒球馆-本垒1F中央大厅",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8302"
+  },
+  {
+    "sn": "enterOtherWorld4",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-本垒1F卸货区",
+    "desc": "色欲棒球馆-本垒1F卸货区",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8303"
+  },
+  {
+    "sn": "enterOtherWorld5",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-本垒1F觉醒区",
+    "desc": "色欲棒球馆-本垒1F觉醒区",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8304"
+  },
+  {
+    "sn": "enterOtherWorld6",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-本垒1F西",
+    "desc": "色欲棒球馆-本垒1F西",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8306"
+  },
+  {
+    "sn": "enterOtherWorld7",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-1垒",
+    "desc": "色欲棒球馆-1垒",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8311"
+  },
+  {
+    "sn": "enterOtherWorld8",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-三垒1F01",
+    "desc": "色欲棒球馆-三垒1F01",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8331"
+  },
+  {
+    "sn": "enterOtherWorld9",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-三垒1F02",
+    "desc": "色欲棒球馆-三垒1F02",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8332"
+  },
+  {
+    "sn": "enterOtherWorld10",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-三垒2F",
+    "desc": "色欲棒球馆-三垒2F",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8336"
+  },
+  {
+    "sn": "enterOtherWorld11",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-三垒3F01",
+    "desc": "色欲棒球馆-三垒3F01",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8341"
+  },
+  {
+    "sn": "enterOtherWorld12",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-三垒3F02",
+    "desc": "色欲棒球馆-三垒3F02",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8342"
+  },
+  {
+    "sn": "enterOtherWorld13",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-天台本→一",
+    "desc": "色欲棒球馆-天台本→一",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8350"
+  },
+  {
+    "sn": "enterOtherWorld14",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-天台一→三",
+    "desc": "色欲棒球馆-天台一→三",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8351"
+  },
+  {
+    "sn": "enterOtherWorld15",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-天台三→本",
+    "desc": "色欲棒球馆-天台三→本",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8353"
+  },
+  {
+    "sn": "enterOtherWorld16",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "色欲棒球馆-中心球场",
+    "desc": "色欲棒球馆-中心球场",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8357"
+  },
+  {
+    "sn": "enterOtherWorld17",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "虚伪影视城-门外树林",
+    "desc": "虚伪影视城-门外树林",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8400"
+  },
+  {
+    "sn": "enterOtherWorld18",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "虚伪影视城-门后大桥",
+    "desc": "虚伪影视城-门后大桥",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8401"
+  },
+  {
+    "sn": "enterOtherWorld19",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "虚伪影视城-摄影棚区域",
+    "desc": "虚伪影视城-摄影棚区域",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8402"
+  },
+  {
+    "sn": "enterOtherWorld20",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "虚伪影视城-三之丸",
+    "desc": "虚伪影视城-三之丸",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8410"
+  },
+  {
+    "sn": "enterOtherWorld21",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "虚伪影视城-二之丸",
+    "desc": "虚伪影视城-二之丸",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8420"
+  },
+  {
+    "sn": "enterOtherWorld22",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "虚伪影视城-天守阁外",
+    "desc": "虚伪影视城-天守阁外",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 8421"
+  },
+  {
+    "sn": "enterChallengeSpecial1",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "玩法本-跑酷易",
+    "desc": "玩法本-跑酷易",
+    "format": "enterDailyChallenge [challengSn]",
+    "example": "enterDailyChallenge 21001"
+  },
+  {
+    "sn": "enterChallengeSpecial2",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "玩法本-跑酷中",
+    "desc": "玩法本-跑酷中",
+    "format": "enterDailyChallenge [challengSn]",
+    "example": "enterDailyChallenge 21002"
+  },
+  {
+    "sn": "enterChallengeSpecial3",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "玩法本-跑酷难",
+    "desc": "玩法本-跑酷难",
+    "format": "enterDailyChallenge [challengSn]",
+    "example": "enterDailyChallenge 21003"
+  },
+  {
+    "sn": "enterChallengeSpecial4",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "玩法本-解密易",
+    "desc": "玩法本-解密易",
+    "format": "enterDailyChallenge [challengSn]",
+    "example": "enterDailyChallenge 21011"
+  },
+  {
+    "sn": "enterChallengeSpecial5",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "玩法本-解密中",
+    "desc": "玩法本-解密中",
+    "format": "enterDailyChallenge [challengSn]",
+    "example": "enterDailyChallenge 21012"
+  },
+  {
+    "sn": "enterChallengeSpecial6",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "玩法本-解密难",
+    "desc": "玩法本-解密难",
+    "format": "enterDailyChallenge [challengSn]",
+    "example": "enterDailyChallenge 21013"
+  },
+  {
+    "sn": "enterChallengeSpecial7",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "玩法本-战斗易",
+    "desc": "玩法本-战斗易",
+    "format": "enterDailyChallenge [challengSn]",
+    "example": "enterDailyChallenge 21021"
+  },
+  {
+    "sn": "enterChallengeSpecial8",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "玩法本-战斗中",
+    "desc": "玩法本-战斗中",
+    "format": "enterDailyChallenge [challengSn]",
+    "example": "enterDailyChallenge 21022"
+  },
+  {
+    "sn": "enterChallengeSpecial9",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "玩法本-战斗难",
+    "desc": "玩法本-战斗难",
+    "format": "enterDailyChallenge [challengSn]",
+    "example": "enterDailyChallenge 21023"
+  },
+  {
+    "sn": "enterOtherWorld23",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "印象空间-入口",
+    "desc": "印象空间-入口",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 5503"
+  },
+  {
+    "sn": "enterOtherWorld24",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "思想剥夺-1层",
+    "desc": "思想剥夺-1层",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 5502"
+  },
+  {
+    "sn": "enterOtherWorld25",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "思想剥夺-2层",
+    "desc": "思想剥夺-2层",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 5504"
+  },
+  {
+    "sn": "enterOtherWorld26",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "思想剥夺-3层",
+    "desc": "思想剥夺-3层",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 5505"
+  },
+  {
+    "sn": "enterOtherWorld27",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "思想剥夺-4层",
+    "desc": "思想剥夺-4层",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 5506"
+  },
+  {
+    "sn": "enterOtherWorld28",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "思想→和谐转换层",
+    "desc": "思想→和谐转换层",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 5509"
+  },
+  {
+    "sn": "enterOtherWorld29",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "和谐剥夺-1层",
+    "desc": "和谐剥夺-1层",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 5510"
+  },
+  {
+    "sn": "enterOtherWorld30",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "和谐剥夺-2层",
+    "desc": "和谐剥夺-2层",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 5511"
+  },
+  {
+    "sn": "enterOtherWorld31",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "和谐剥夺-3层",
+    "desc": "和谐剥夺-3层",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 5512"
+  },
+  {
+    "sn": "enterOtherWorld32",
+    "type": 1,
+    "group": [
+      "��"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "和谐→节制转换层",
+    "desc": "和谐→节制转换层",
+    "format": "enterOtherWorld [SceneSn]",
+    "example": "enterOtherWorld 5513"
   },
   {
     "sn": "hideUI",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9001
+      0
     ],
     "name": "关闭Gui表的界面",
     "desc": "关闭Gui表的界面",
@@ -1599,10 +4176,10 @@
     "sn": "openUI",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9002
+      0
     ],
     "name": "打开Gui表的界面",
     "desc": "打开Gui表的界面",
@@ -1613,10 +4190,10 @@
     "sn": "loadscene",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9003
+      0
     ],
     "name": "客户端切场景",
     "desc": "客户端切场景",
@@ -1627,10 +4204,10 @@
     "sn": "freecamera1",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9004
+      0
     ],
     "name": "漫游相机",
     "desc": "漫游相机 [开关=1或者0]",
@@ -1641,10 +4218,10 @@
     "sn": "freecamera2",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9005
+      0
     ],
     "name": "自由相机",
     "desc": "自由相机 [开关=1或者0]",
@@ -1655,10 +4232,10 @@
     "sn": "playAnim",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9006
+      0
     ],
     "name": "播放动作",
     "desc": "播放动作",
@@ -1669,10 +4246,10 @@
     "sn": "scneffect",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9007
+      0
     ],
     "name": "播放effect",
     "desc": "播放effect",
@@ -1680,27 +4257,13 @@
     "example": "scneffect skill_lightning01.prefab"
   },
   {
-    "sn": "timeline",
-    "type": 1,
-    "group": [
-      "其它"
-    ],
-    "orderGroup": [
-      9008
-    ],
-    "name": "播放timeline",
-    "desc": "播放timeline",
-    "format": "timeline joker_attack_tl.prefab",
-    "example": "timeline joker_attack_tl.prefab"
-  },
-  {
     "sn": "createNpc",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9009
+      0
     ],
     "name": "测试创建NPC",
     "desc": "测试创建NPC",
@@ -1711,10 +4274,10 @@
     "sn": "clientinfo",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9010
+      0
     ],
     "name": "客户端INFO",
     "desc": "客户端INFO",
@@ -1725,10 +4288,10 @@
     "sn": "createhuman",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9011
+      0
     ],
     "name": "客户端创建玩家",
     "desc": "客户端创建玩家",
@@ -1739,10 +4302,10 @@
     "sn": "testHeadEmotion",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9012
+      0
     ],
     "name": "测试头顶表情",
     "desc": "测试头顶表情",
@@ -1753,10 +4316,10 @@
     "sn": "clearChatRecord",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9013
+      0
     ],
     "name": "清空聊天缓存",
     "desc": "清空聊天缓存(清空以后重启一下游戏)",
@@ -1767,10 +4330,10 @@
     "sn": "arenaPoint",
     "type": 0,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9014
+      0
     ],
     "name": "竞技场-设置自己竞技场积分",
     "desc": "竞技场-设置自己竞技场积分",
@@ -1781,10 +4344,10 @@
     "sn": "arenaAddCount",
     "type": 0,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9015
+      0
     ],
     "name": "竞技场-增加挑战次数",
     "desc": "竞技场-增加挑战次数",
@@ -1795,10 +4358,10 @@
     "sn": "arenaClearCD",
     "type": 0,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9016
+      0
     ],
     "name": "竞技场-清除刷新对手cd",
     "desc": "竞技场-清除刷新对手cd",
@@ -1809,10 +4372,10 @@
     "sn": "arenaFightRobot",
     "type": 0,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9017
+      0
     ],
     "name": "竞技场-挑战指定分数机器人",
     "desc": "竞技场-挑战指定分数机器人",
@@ -1823,10 +4386,10 @@
     "sn": "arenaFightByNam",
     "type": 0,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9018
+      0
     ],
     "name": "竞技场-挑战指定对手",
     "desc": "竞技场-挑战指定对手",
@@ -1837,10 +4400,10 @@
     "sn": "arenaZoneNum",
     "type": 0,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9019
+      0
     ],
     "name": "竞技场-设置所在战区当前人数",
     "desc": "竞技场-设置所在战区当前人数",
@@ -1851,10 +4414,10 @@
     "sn": "showTip",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9020
+      0
     ],
     "name": "系统提示",
     "desc": "测试系统提示",
@@ -1862,27 +4425,13 @@
     "example": "showTip 11021"
   },
   {
-    "sn": "testTimelineEffect",
-    "type": 1,
-    "group": [
-      "便捷"
-    ],
-    "orderGroup": [
-      9021
-    ],
-    "name": "测试Timeline特效",
-    "desc": "测试Timeline特效",
-    "format": "testTimelineEffect",
-    "example": "testTimelineEffect"
-  },
-  {
     "sn": "Clear cache",
     "type": 1,
     "group": [
-      "其它"
+      ""
     ],
     "orderGroup": [
-      9027
+      0
     ],
     "name": "清理缓存",
     "desc": "清理本地缓存",
@@ -1890,13 +4439,69 @@
     "example": "clearallpf"
   },
   {
+    "sn": "GamepadShock",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "手柄震动",
+    "desc": "手柄震动",
+    "format": "GamepadShock lowFrequency highFrequency time",
+    "example": "GamepadShock 0.5 0.5 1"
+  },
+  {
+    "sn": "PSDualLight",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "PS手柄亮灯",
+    "desc": "PS手柄亮灯",
+    "format": "PSDualLight r g b time",
+    "example": "PSDualLight 0.5 0.5 0.5 0"
+  },
+  {
+    "sn": "VulkanSwitch",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "Vulkan开关",
+    "desc": "Vulkan开关",
+    "format": "VulkanSwitch",
+    "example": "VulkanSwitch"
+  },
+  {
+    "sn": "NextSceneLoadingAnimation",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "指定下一次切场景动画",
+    "desc": "指定下一次切场景动画（不可指定战斗相关的切场景动画）",
+    "format": "NextSceneLoadingAnimation",
+    "example": "NextSceneLoadingAnimation"
+  },
+  {
     "sn": "changeServerTime",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10001
+      0
     ],
     "name": "开服时间修改",
     "desc": "修改开服时间 如果不填，默认当前时间，如果填，请按照固定格式填写",
@@ -1907,10 +4512,10 @@
     "sn": "getServerTime",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10002
+      0
     ],
     "name": "开服时间获取",
     "desc": "开服时间获取",
@@ -1921,10 +4526,10 @@
     "sn": "reloadConfig",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10003
+      0
     ],
     "name": "热更配置表",
     "desc": "热更配置表",
@@ -1935,10 +4540,10 @@
     "sn": "getOnlineNum",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10004
+      0
     ],
     "name": "系统：获取服务器在线人数",
     "desc": "获取服务器在线人数",
@@ -1949,10 +4554,10 @@
     "sn": "showMsgContentSwitch",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10005
+      0
     ],
     "name": "调试:显示消息内容开关",
     "desc": "调试:显示消息内容开关",
@@ -1963,10 +4568,10 @@
     "sn": "closeCheckToken",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10006
+      0
     ],
     "name": "关闭服务器验证token",
     "desc": "解决手机包连不上自启服务器",
@@ -1977,10 +4582,10 @@
     "sn": "openCheckToken",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10007
+      0
     ],
     "name": "开启服务器验证token",
     "desc": "开启服务器验证token",
@@ -1991,10 +4596,10 @@
     "sn": "setPlayerType",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10008
+      0
     ],
     "name": "设置玩家实名类型(默认成年 1.游客 2.<8 3.<16 4.<18)",
     "desc": "设置玩家实名类型(默认成年 1.游客 2.<8 3.<16 4.<18)",
@@ -2005,10 +4610,10 @@
     "sn": "kick",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10009
+      0
     ],
     "name": "isTourist=1游客 0未成年 isWorkday=默认22-次日8点 1工作日 0假期",
     "desc": "isTourist=1游客 0未成年 isWorkday=默认22-次日8点 1工作日 0假期",
@@ -2019,10 +4624,10 @@
     "sn": "getAttr",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10010
+      0
     ],
     "name": "查看玩家属性",
     "desc": "查看玩家某一条属性的详细值",
@@ -2033,10 +4638,10 @@
     "sn": "modifyAttr",
     "type": 0,
     "group": [
-      "服务器"
+      ""
     ],
     "orderGroup": [
-      10011
+      0
     ],
     "name": "修改玩家指定属性",
     "desc": "修改玩家一组指定属性",
@@ -2047,10 +4652,10 @@
     "sn": "sendMail",
     "type": 1,
     "group": [
-      "邮件"
+      ""
     ],
     "orderGroup": [
-      11001
+      0
     ],
     "name": "发送邮件",
     "desc": "邮件sn 物品sn 物品数量",
@@ -2058,83 +4663,279 @@
     "example": "sendMail 3 3010000 1"
   },
   {
-    "sn": "dailyChallengeTime",
-    "type": 1,
+    "sn": "rogueAddItem",
+    "type": 0,
     "group": [
-      "宫殿废墟"
+      ""
     ],
     "orderGroup": [
-      12001
+      0
     ],
-    "name": "挑战次数",
-    "desc": "增减挑战次数",
-    "format": "dailyChallengeTime 1 增加\ndailyChallengeTime -1 减少",
-    "example": "dailyChallengeTime 1"
+    "name": "添加遗失物",
+    "desc": "在肉鸽玩法中，添加一个特定遗失物",
+    "format": "rogueAddItem sn",
+    "example": "rogueAddItem sn"
+  },
+  {
+    "sn": "rogueAddEvent",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "生成玩法事件",
+    "desc": "在肉鸽站点场景中，生成一个玩法事件",
+    "format": "rogueAddEvent sn",
+    "example": "rogueAddEvent sn"
+  },
+  {
+    "sn": "rogueAddBuff",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "添加御守",
+    "desc": "在肉鸽玩法中，添加一个御守",
+    "format": "rogueAddBuff sn",
+    "example": "rogueAddBuff sn"
+  },
+  {
+    "sn": "rogueAddBuffGroup",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "添加御守套装",
+    "desc": "在肉鸽玩法中，添加套装档位：1=2件套；2=4件套；不配置表示获得6个",
+    "format": "rogueAddBuffGroup sn",
+    "example": "rogueAddBuffGroup sn"
+  },
+  {
+    "sn": "rogueSkipDifficulty",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁难度",
+    "desc": "解锁玩法主题对应难度，支持可配置对应难度",
+    "format": "rogueSkipDifficulty",
+    "example": "rogueSkipDifficulty"
+  },
+  {
+    "sn": "rogueSkipLevel",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁等级",
+    "desc": "解锁玩法主题奖励等级，支持可配置对应等级",
+    "format": "rogueSkipLevel",
+    "example": "rogueSkipLevel"
+  },
+  {
+    "sn": "rogueAddGold",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "添加主题货币",
+    "desc": "在肉鸽玩法中，添加主题货币",
+    "format": "rogueAddGold num",
+    "example": "rogueAddGold num"
+  },
+  {
+    "sn": "rogueAddExp",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "添加主题经验",
+    "desc": "在肉鸽玩法中，添加主题经验",
+    "format": "rogueAddExp num",
+    "example": "rogueAddExp num"
+  },
+  {
+    "sn": "rogueAddPoint",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "添加主题技能点",
+    "desc": "在肉鸽玩法中，添加主题技能点",
+    "format": "rogueAddPoint num",
+    "example": "rogueAddPoint num"
+  },
+  {
+    "sn": "rogueAddLife",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "添加主题命",
+    "desc": "在肉鸽玩法中，添加主题命",
+    "format": "rogueAddLife num",
+    "example": "rogueAddLife num"
+  },
+  {
+    "sn": "rogueFinishFloor",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "完成当前阶段",
+    "desc": "完成玩法当前阶段挑战",
+    "format": "rogueFinishFloor",
+    "example": "rogueFinishFloor"
+  },
+  {
+    "sn": "rogueChangeCurScene sn",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "修改当前站点场景",
+    "desc": "修改当前站点场景",
+    "format": "rogueChangeCurScene sn",
+    "example": "rogueChangeCurScene sn"
+  },
+  {
+    "sn": "rogueDeHeal",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "玩法中扣除血量百分比",
+    "desc": "rogueDeHeal 扣除类型 扣除血量 0=主角 1=怪盗 2=全部",
+    "format": "rogueDeHeal 2 50",
+    "example": "rogueDeHeal 2 50"
+  },
+  {
+    "sn": "rogueUnlockBook",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "全图鉴解锁",
+    "desc": "全图鉴解锁",
+    "format": "rogueUnlockBook",
+    "example": "rogueUnlockBook"
+  },
+  {
+    "sn": "rogueFinishNode",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "节点结束",
+    "desc": "节点结束",
+    "format": "rogueFinishNode",
+    "example": "rogueFinishNode"
+  },
+  {
+    "sn": "roguePrintMap",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "打印地图",
+    "desc": "打印地图",
+    "format": "roguePrintMap",
+    "example": "roguePrintMap"
+  },
+  {
+    "sn": "rogueGotoNode",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "调节点",
+    "desc": "调节点",
+    "format": "rogueGotoNode",
+    "example": "rogueGotoNode"
+  },
+  {
+    "sn": "rogueEnableDK",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "心轨玩法中跳过怪物秒杀条件限制",
+    "desc": "心轨玩法中跳过怪物秒杀条件限制",
+    "format": "rogueEnableDK",
+    "example": "rogueEnableDK"
   },
   {
     "sn": "achievement",
     "type": 1,
     "group": [
-      "成就相关"
+      "�"
     ],
     "orderGroup": [
-      13001
+      0
     ],
     "name": "解锁某个成就",
-    "desc": "类型type[普通=0,章节=1] 成就sn",
+    "desc": "类型type[普通=0,章节=1] 成就sn|章节sn",
     "format": "completeAchievement  type sn",
     "example": "completeAchievement 0 1"
-  },
-  {
-    "sn": "coopGetEmotion",
-    "type": 1,
-    "group": [
-      "都市"
-    ],
-    "orderGroup": [
-      14001
-    ],
-    "name": "协力者-获得心情",
-    "desc": "获取指定协力者的心情状态",
-    "format": "coopGetEmotion [cooperatorSn]",
-    "example": "coopGetEmotion 1"
-  },
-  {
-    "sn": "coopGiftGive",
-    "type": 1,
-    "group": [
-      "都市"
-    ],
-    "orderGroup": [
-      14002
-    ],
-    "name": "协力者-给礼物",
-    "desc": "赠送给指定协力者 x礼物 y数量",
-    "format": "coopGiftGive [cooperatorSn] [giftSn] [giftNum]...",
-    "example": "coopGiftGive 1 1 5"
-  },
-  {
-    "sn": "coopDatingFinish",
-    "type": 1,
-    "group": [
-      "都市"
-    ],
-    "orderGroup": [
-      14003
-    ],
-    "name": "协力者-完成约会",
-    "desc": "完成指定约会",
-    "format": "coopDatingFinish [cooperatorSn] [dateSn]",
-    "example": "coopDatingFinish 1 121"
   },
   {
     "sn": "coopModIntimacyLv",
     "type": 1,
     "group": [
-      "都市"
+      ""
     ],
     "orderGroup": [
-      14004
+      0
     ],
     "name": "协力者-设定协力等级",
     "desc": "将协力者等级设定为指定等级",
@@ -2145,10 +4946,10 @@
     "sn": "addIntimacy",
     "type": 1,
     "group": [
-      "都市"
+      ""
     ],
     "orderGroup": [
-      14005
+      0
     ],
     "name": "协力者-添加亲密度",
     "desc": "向指定协力者添加一定数量的亲密度",
@@ -2156,69 +4957,13 @@
     "example": "addIntimacy 1 20"
   },
   {
-    "sn": "coopModEmotion",
-    "type": 1,
-    "group": [
-      "都市"
-    ],
-    "orderGroup": [
-      14006
-    ],
-    "name": "协力者-调整角色心情",
-    "desc": "改变指定Coop心情",
-    "format": "coopModEmotion [cooperatorSn] [emotion]",
-    "example": "coopModEmotion 14 1"
-  },
-  {
-    "sn": "coopModDisplayInCity",
-    "type": 1,
-    "group": [
-      "都市"
-    ],
-    "orderGroup": [
-      14007
-    ],
-    "name": "协力者-是否出现",
-    "desc": "设定是否在都市出现",
-    "format": "coopModDisplayInCity [cooperatorSn] 1/0",
-    "example": "coopModDisplayInCity 7 1"
-  },
-  {
-    "sn": "coopModCanDate",
-    "type": 1,
-    "group": [
-      "都市"
-    ],
-    "orderGroup": [
-      14008
-    ],
-    "name": "协力者-是否可以接受邀约",
-    "desc": "是否会接受玩家邀约",
-    "format": "coopModCanDate [cooperatorSn] 1/0",
-    "example": "coopModCanDate 7 1"
-  },
-  {
-    "sn": "coopModDateSn",
-    "type": 1,
-    "group": [
-      "都市"
-    ],
-    "orderGroup": [
-      14009
-    ],
-    "name": "协力者-约会地点",
-    "desc": "",
-    "format": "coopModDateSn [cooperatorSn][owCoopStorySn]",
-    "example": "coopModDateSn 7 711"
-  },
-  {
     "sn": "addFiveDAttr",
     "type": 1,
     "group": [
-      "都市"
+      ""
     ],
     "orderGroup": [
-      14010
+      0
     ],
     "name": "调整人格指数",
     "desc": "添加人格指数",
@@ -2229,13 +4974,13 @@
     "sn": "changeOpenWorldEvent",
     "type": 1,
     "group": [
-      "都市"
+      ""
     ],
     "orderGroup": [
-      14011
+      0
     ],
     "name": "改变事件状态",
-    "desc": "改变开放世界事件状态：1.添加；0.完成",
+    "desc": "改变开放世界事件状态：1.添加；0.完成；2.从当前列表删除",
     "format": "changeOpenWorldEvent [status] [eventSn]",
     "example": "changeOpenWorldEvent 1 10011"
   },
@@ -2243,10 +4988,10 @@
     "sn": "unlockcoop sn",
     "type": 1,
     "group": [
-      "都市"
+      ""
     ],
     "orderGroup": [
-      14012
+      0
     ],
     "name": "协力者-解锁协力者",
     "desc": "协力者解锁 0-全部 sn-coopSn",
@@ -2257,13 +5002,13 @@
     "sn": "timeAdvance",
     "type": 1,
     "group": [
-      "都市"
+      ""
     ],
     "orderGroup": [
-      14013
+      0
     ],
     "name": "推进时段",
-    "desc": "推进时段",
+    "desc": "推进时段\ntimeAdvance       推1个时段\ntimeAdvance X     推X个时段\ntimeAdvance -1 X  推到第X天(OpenWorldTimeSn)",
     "format": "timeAdvance",
     "example": "timeAdvance"
   },
@@ -2271,10 +5016,10 @@
     "sn": "unlockStoryTime",
     "type": 1,
     "group": [
-      "都市"
+      ""
     ],
     "orderGroup": [
-      14014
+      0
     ],
     "name": "解锁剧情时段、天气",
     "desc": "解锁剧情时段、天气",
@@ -2285,10 +5030,10 @@
     "sn": "setMovieState",
     "type": 1,
     "group": [
-      "都市"
+      ""
     ],
     "orderGroup": [
-      14015
+      0
     ],
     "name": "修改电影状态",
     "desc": "修改电影状态(电影sn 状态类(1首映 2上架 3玩家看过) 状态(false true))",
@@ -2299,10 +5044,10 @@
     "sn": "unlockAllBooks",
     "type": 1,
     "group": [
-      "都市"
+      ""
     ],
     "orderGroup": [
-      14016
+      0
     ],
     "name": "一键添加所有图书",
     "desc": "一键添加所有图书",
@@ -2313,24 +5058,192 @@
     "sn": "changeUIForDevice",
     "type": 1,
     "group": [
-      "都市"
+      ""
     ],
     "orderGroup": [
-      14017
+      0
     ],
     "name": "切换ui显示为对应端ui配置",
     "desc": "切换ui显示为对应端ui配置 type: 1->键鼠 2->手机 3->手柄（暂时没有）",
-    "format": "changeUIForDevice [type]",
+    "format": "",
     "example": "changeUIForDevice 1"
+  },
+  {
+    "sn": "shopLimitReset",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "商店—限购重置",
+    "desc": "商店—限购重置",
+    "format": "shopLimitReset",
+    "example": "shopLimitReset"
+  },
+  {
+    "sn": "giftShopLimitReset",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "礼包商城—限购重置",
+    "desc": "礼包商城—限购重置",
+    "format": "giftShopLimitReset",
+    "example": "giftShopLimitReset"
+  },
+  {
+    "sn": "lockTimePhase",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "锁定都市时间",
+    "desc": "完成都市事件不会推进时段（-1 取消锁定）",
+    "format": "lockTimePhase",
+    "example": "lockTimePhase"
+  },
+  {
+    "sn": "resetOpenWorldEventStatus",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "都市状态重置",
+    "desc": "重置都市事件状态（0：所有状态 1：日程事件状态 2：图书阅读状态 3：电影观看状态 4:协同者恋人朋友关系）",
+    "format": "resetOpenWorldEventStatus 0",
+    "example": "resetOpenWorldEventStatus 0"
+  },
+  {
+    "sn": "setCoopRelation",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "协同者关系设置",
+    "desc": "参数1：CoopSn 参数2：关系（0=初始，1=朋友，2=恋人）",
+    "format": "setCoopRelation 1 0",
+    "example": "setCoopRelation 1 0"
+  },
+  {
+    "sn": "resetFiveDAttr",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "重置五维",
+    "desc": "一键重置五维属性",
+    "format": "resetFiveDAttr",
+    "example": "resetFiveDAttr"
+  },
+  {
+    "sn": "lockCoopSn",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "锁定约会事件",
+    "desc": "锁定某一个约会Sn，执行对应OWCoopStory的约会，下次约会不随机了直接用这个。\n需要gm失效则需要执行一次-1",
+    "format": "lockCoopSn [sn]",
+    "example": "lockCoopSn 112"
+  },
+  {
+    "sn": "makeAllMoviesAvailable",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键电影首映上架",
+    "desc": "一键电影首映上架",
+    "format": "makeAllMoviesAvailable",
+    "example": "makeAllMoviesAvailable"
+  },
+  {
+    "sn": "addProficiencyExp",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "增加钓鱼熟练度",
+    "desc": "增加钓鱼熟练度",
+    "format": "addProficiencyExp [sn]",
+    "example": "addProficiencyExp 100"
+  },
+  {
+    "sn": "addDivBuff",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "添加某个千早占卜buff",
+    "desc": "添加某个千早占卜buff（填1-22）\n【执行完重登账号，才生效】",
+    "format": "addDivBuff [sn]",
+    "example": "addDivBuff 1"
+  },
+  {
+    "sn": "readBook",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "阅读某本书",
+    "desc": "阅读某本书，Sn填书的Sn",
+    "format": "readBook [booksn]",
+    "example": "readBook 306408"
+  },
+  {
+    "sn": "generateEvents",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "模拟刷N次日程",
+    "desc": "在逻辑服务器内，输出用OWDayTemplateSn刷新N次日程的结果统计。\n晴5：1013 晴6：1014 晴7：1015\n雨5：1023 雨6：1024 雨7：1025",
+    "format": "generateEvents dayTempSn times",
+    "example": "generateEvents 1013 1000"
   },
   {
     "sn": "addPersona",
     "type": 1,
     "group": [
-      "人格面具"
+      "o"
     ],
     "orderGroup": [
-      15001
+      0
     ],
     "name": "添加某个类型的人格面具",
     "desc": "类型type[普通=0,宝魔=1] personaSn",
@@ -2341,10 +5254,10 @@
     "sn": "unlockAllPersona",
     "type": 1,
     "group": [
-      "人格面具"
+      "o"
     ],
     "orderGroup": [
-      15002
+      0
     ],
     "name": "解锁五星人格面具或者宝魔",
     "desc": "解锁五星人格面具或者宝魔",
@@ -2352,13 +5265,125 @@
     "example": "unlockAllPersona"
   },
   {
+    "sn": "gmAllPersonaLevelMax",
+    "type": 1,
+    "group": [
+      "o"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "所有P升级到最大",
+    "desc": "所有P升级到最大",
+    "format": "gmAllPersonaLevelMax",
+    "example": "gmAllPersonaLevelMax"
+  },
+  {
+    "sn": "gmAllPersonaAddSkill",
+    "type": 1,
+    "group": [
+      "o"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "所有P添加技能表技能",
+    "desc": "所有P添加技能表技能",
+    "format": "gmAllPersonaAddSkill",
+    "example": "gmAllPersonaAddSkill"
+  },
+  {
+    "sn": "rhythmGameAutoPlay",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "音游全连",
+    "desc": "音游开启自动全连，开启=1，关闭=0",
+    "format": "rhythmGameAutoPlay [status]",
+    "example": "rhythmGameAutoPlay 1"
+  },
+  {
+    "sn": "rhythmGameDebugMode",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "音游Debug",
+    "desc": "开启debug对话框,开启=1，关闭=0",
+    "format": "rhythmGameDebug [status]",
+    "example": "rhythmGameDebug 1"
+  },
+  {
+    "sn": "rhythmGameAllOpen",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键解锁全部歌曲",
+    "desc": "一键解锁全部歌曲",
+    "format": "rhythmGameAllOpen",
+    "example": "rhythmGameAllOpen"
+  },
+  {
+    "sn": "footballSpecial",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "踢守门weak",
+    "desc": "踢守门weak",
+    "format": "footballSpecial",
+    "example": "footballSpecial"
+  },
+  {
+    "sn": "passMusic",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "通关指定音游关卡",
+    "desc": "通关指定音游关卡",
+    "format": "passMusic [GameMusicStageSn] 进入关卡执行",
+    "example": "passMusic 101"
+  },
+  {
+    "sn": "finishFootballGame",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "通关指定足球关卡",
+    "desc": "通关指定足球关卡",
+    "format": "finishFootballGame sn 进入关卡执行",
+    "example": "finishFootballGame 1"
+  },
+  {
     "sn": "gm1",
     "type": 3,
     "group": [
-      "GM指令组"
+      "\u0018"
     ],
     "orderGroup": [
-      9022
+      0
     ],
     "name": "gm1",
     "desc": "gm1",
@@ -2369,10 +5394,10 @@
     "sn": "gm2",
     "type": 3,
     "group": [
-      "GM指令组"
+      "\u0018"
     ],
     "orderGroup": [
-      9023
+      0
     ],
     "name": "gm2",
     "desc": "gm2",
@@ -2383,10 +5408,10 @@
     "sn": "gm3",
     "type": 3,
     "group": [
-      "GM指令组"
+      "\u0018"
     ],
     "orderGroup": [
-      9024
+      0
     ],
     "name": "gm3",
     "desc": "gm3",
@@ -2397,10 +5422,10 @@
     "sn": "gm4",
     "type": 3,
     "group": [
-      "GM指令组"
+      "\u0018"
     ],
     "orderGroup": [
-      9025
+      0
     ],
     "name": "gm4",
     "desc": "gm4",
@@ -2411,10 +5436,10 @@
     "sn": "postProcessUI",
     "type": 1,
     "group": [
-      "测试"
+      ""
     ],
     "orderGroup": [
-      30004
+      0
     ],
     "name": "测试UI后效",
     "desc": "测试UI后效",
@@ -2425,24 +5450,24 @@
     "sn": "autoTest",
     "type": 1,
     "group": [
-      "测试"
+      ""
     ],
     "orderGroup": [
-      30005
+      0
     ],
     "name": "自动测试",
     "desc": "自动测试",
     "format": "autoTest [groupId]",
-    "example": "autoTest 1"
+    "example": "autoTest 1+H302"
   },
   {
     "sn": "testProto",
     "type": 1,
     "group": [
-      "测试协议"
+      "("
     ],
     "orderGroup": [
-      30006
+      0
     ],
     "name": "测试客户端协议",
     "desc": "发送客户端协议",
@@ -2453,10 +5478,10 @@
     "sn": "testAntiAddiction",
     "type": 1,
     "group": [
-      "测试"
+      ""
     ],
     "orderGroup": [
-      30007
+      0
     ],
     "name": "测试防沉迷退出逻辑",
     "desc": "测试防沉迷退出逻辑",
@@ -2467,10 +5492,10 @@
     "sn": "updateUIState",
     "type": 1,
     "group": [
-      "测试"
+      ""
     ],
     "orderGroup": [
-      30008
+      0
     ],
     "name": "特定UI的显隐",
     "desc": "隐藏特定UI或者显示",
@@ -2481,10 +5506,10 @@
     "sn": "logicNpcToggle",
     "type": 1,
     "group": [
-      "逻辑开关"
+      ""
     ],
     "orderGroup": [
-      40001
+      0
     ],
     "name": "NPC是否创建",
     "desc": "NPC是否创建 [创建=1，不创建=0]",
@@ -2495,10 +5520,10 @@
     "sn": "logicAmbientNpcToggle",
     "type": 1,
     "group": [
-      "逻辑开关"
+      ""
     ],
     "orderGroup": [
-      40002
+      0
     ],
     "name": "氛围NPC是否创建",
     "desc": "氛围NPC是否创建 [创建=1，不创建=0]",
@@ -2509,10 +5534,10 @@
     "sn": "logicBirdToggle",
     "type": 1,
     "group": [
-      "逻辑开关"
+      ""
     ],
     "orderGroup": [
-      40003
+      0
     ],
     "name": "鸽子是否创建",
     "desc": "鸽子是否创建 [创建=1，不创建=0]",
@@ -2523,10 +5548,10 @@
     "sn": "logicPalaceObjToggle",
     "type": 1,
     "group": [
-      "逻辑开关"
+      ""
     ],
     "orderGroup": [
-      40004
+      0
     ],
     "name": "宫殿机关是否创建",
     "desc": "宫殿机关是否创建 [创建=1，不创建=0]",
@@ -2537,10 +5562,10 @@
     "sn": "logicAllToggle",
     "type": 1,
     "group": [
-      "逻辑开关"
+      ""
     ],
     "orderGroup": [
-      40005
+      0
     ],
     "name": "以上所有逻辑是否创建",
     "desc": "所有逻辑是否创建 [创建=1，不创建=0]",
@@ -2551,10 +5576,10 @@
     "sn": "rimPro1",
     "type": 1,
     "group": [
-      "边缘光"
+      ""
     ],
     "orderGroup": [
-      40001
+      0
     ],
     "name": "OutlineWidth",
     "desc": "OutlineWidth",
@@ -2565,10 +5590,10 @@
     "sn": "rimPro2",
     "type": 1,
     "group": [
-      "边缘光"
+      ""
     ],
     "orderGroup": [
-      40002
+      0
     ],
     "name": "远处边缘光宽度",
     "desc": "远处边缘光宽度",
@@ -2579,10 +5604,10 @@
     "sn": "rimPro3",
     "type": 1,
     "group": [
-      "边缘光"
+      ""
     ],
     "orderGroup": [
-      40003
+      0
     ],
     "name": "近距离边缘光宽度",
     "desc": "近距离边缘光宽度",
@@ -2593,10 +5618,10 @@
     "sn": "rimColor1",
     "type": 1,
     "group": [
-      "边缘光"
+      ""
     ],
     "orderGroup": [
-      40004
+      0
     ],
     "name": "边缘光颜色",
     "desc": "边缘光颜色",
@@ -2607,10 +5632,10 @@
     "sn": "rimColor2",
     "type": 1,
     "group": [
-      "边缘光"
+      ""
     ],
     "orderGroup": [
-      40005
+      0
     ],
     "name": "OutlineColor颜色",
     "desc": "OutlineColor颜色",
@@ -2621,14 +5646,476 @@
     "sn": "testCrashSDK",
     "type": 1,
     "group": [
-      "测试"
+      ""
     ],
     "orderGroup": [
-      30008
+      0
     ],
     "name": "测试CrashSDK",
     "desc": "调出 Crash SDK 测试UI",
     "format": "testCrashSDK",
     "example": "testCrashSDK"
+  },
+  {
+    "sn": "StartTriCapture",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "开始捕捉三角面截图",
+    "desc": "开始捕捉三角面截图，参数：三角面数阈值 捕捉间隔秒 相机移动阈值 相机旋转阈值",
+    "format": "StartTriCapture [triCount] [timeSpan] [camPos] [camRot]",
+    "example": "StartTriCapture 600000 5 10 45"
+  },
+  {
+    "sn": "StopTriCapture",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "停止捕捉三角面截图",
+    "desc": "停止捕捉三角面截图",
+    "format": "StopTriCapture",
+    "example": "StopTriCapture"
+  },
+  {
+    "sn": "PWSDKLoad",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "加载PWSDK",
+    "desc": "加载PWSDK",
+    "format": "PWSDKLoad [on/off]",
+    "example": "PWSDKLoad on"
+  },
+  {
+    "sn": "PWSDKEnable",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "启用PWSDK",
+    "desc": "启用PWSDK",
+    "format": "PWSDKEnable [on/off]",
+    "example": "PWSDKEnable on"
+  },
+  {
+    "sn": "EnableAccelerate",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "开启禁用空格加速",
+    "desc": "开启禁用空格加速",
+    "format": "EnableAccelerate [true/false]",
+    "example": "EnableAccelerate true"
+  },
+  {
+    "sn": "SetResolution",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "gm设置分辨率",
+    "desc": "gm设置分辨率 代码定义的QualityType类型（0-9） ture/false 是否全屏   true/false 是否禁用自动校正分辨率",
+    "format": "SetResolution 1 true true",
+    "example": "SetResolution 1 true true"
+  },
+  {
+    "sn": "SetIsGMSetRatio",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "gm设置是否禁用自动校正分辨率",
+    "desc": "gm设置是否禁用自动校正分辨率 ture/false 禁用/不禁用",
+    "format": "SetIsGMSetRatio true",
+    "example": "SetIsGMSetRatio true"
+  },
+  {
+    "sn": "GMSetResolutionByWH",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "gm设置分辨率",
+    "desc": "gm设置分辨率 参数  宽高 true/false 全屏非全屏 true/false 是否禁用自动校正分辨率",
+    "format": "GMSetResolutionByWH 1080 1920 true true",
+    "example": "GMSetResolutionByWH 1080 1920 true true"
+  },
+  {
+    "sn": "TridentEnable",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "启用 Trident",
+    "desc": "启用 Trident",
+    "format": "TridentEnable [on/off]",
+    "example": "TridentEnable on"
+  },
+  {
+    "sn": "TriggerFunc",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "调用Func",
+    "desc": "调用Func",
+    "format": "TriggerFunc [Func Sn]",
+    "example": "TriggerFunc 1"
+  },
+  {
+    "sn": "FullScreen_Low",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "设置分辨率-很低",
+    "desc": "设置分辨率-很低",
+    "format": "SetResolution x true true",
+    "example": "SetResolution 5 true true"
+  },
+  {
+    "sn": "FullScreen_Mid",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "设置分辨率-低",
+    "desc": "设置分辨率-低",
+    "format": "SetResolution x true true",
+    "example": "SetResolution 6 true true"
+  },
+  {
+    "sn": "FullScreen_High",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "设置分辨率-好",
+    "desc": "设置分辨率-好",
+    "format": "SetResolution x true true",
+    "example": "SetResolution 7 true true"
+  },
+  {
+    "sn": "FullScreen_Perfect",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "设置分辨率-很好",
+    "desc": "设置分辨率-很好",
+    "format": "SetResolution x true true",
+    "example": "SetResolution 8 true true"
+  },
+  {
+    "sn": "OpenHDR",
+    "type": 1,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "开启关闭HDR",
+    "desc": "开启关闭HDR",
+    "format": "sm OpenHDR true/false",
+    "example": "sm OpenHDR true"
+  },
+  {
+    "sn": "PVRoleGetReady",
+    "type": 3,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "一键做号",
+    "desc": "一键做号",
+    "format": "levelup 30,funcOpen all,addThief 1011,addThief 1021,addThief 1031,addThief 1041,addThief 1061,addThief 1071,addThief 1081,addThief 1091,addThief 1101,addThief 1111,addThief 1121,addThief 1131,addThief 1141,addThief 1151,addThief 1161,addThief 1171,addThief 1191,addThief 1201,addThief 1211,addThief 1251,addThief 1261,addItem 3 500000,addItem 190016 20,openAllWorldMap,fps,updateUIState /UI-tongyong-uid.prefab/",
+    "example": "PVRoleGetReady"
+  },
+  {
+    "sn": "updateUIGroupState",
+    "type": 1,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "UI屏蔽",
+    "desc": "组合UI屏蔽,填all屏蔽所有UI，支持不同节点组合输入;保留热区屏蔽所有镜头UI",
+    "format": "updateUIGroupState /PC-UI-zhujiemian-liaotian.prefab/ /UI-zhujiemian-ditu-map.prefab/shipei/;hideall2 1关闭,  hideall2 2打开",
+    "example": ""
+  },
+  {
+    "sn": "jvqing",
+    "type": 1,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "剧情相关",
+    "desc": "接受任务，完成任务，播放剧情，剧情跳过",
+    "format": "",
+    "example": ""
+  },
+  {
+    "sn": "zhandou",
+    "type": 1,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "战斗相关",
+    "desc": "进入指定战斗，清除怪物，设置HL能量",
+    "format": "",
+    "example": ""
+  },
+  {
+    "sn": "SynergyUnlock1",
+    "type": 3,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "协同解锁——梅洛普",
+    "desc": "协同解锁梅洛普",
+    "format": "funcOpen 905,unlockcoop 1,acceptQuest 10252",
+    "example": "SynergyUnlock1"
+  },
+  {
+    "sn": "SynergyUnlock2",
+    "type": 3,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "协同解锁——新井素羽",
+    "desc": "协同解锁新井素羽",
+    "format": "funcOpen 905,unlockcoop 2,acceptQuest 12070",
+    "example": "SynergyUnlock2"
+  },
+  {
+    "sn": "SynergyUnlock4",
+    "type": 3,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "协同解锁——路菲尔",
+    "desc": "协同解锁路菲尔",
+    "format": "funcOpen 905,unlockcoop 4,acceptQuest 10110",
+    "example": "SynergyUnlock4"
+  },
+  {
+    "sn": "SynergyUnlock6",
+    "type": 3,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "协同解锁——黑谷清",
+    "desc": "协同解锁黑谷清",
+    "format": "funcOpen 905,unlockcoop 6,acceptQuest 12601",
+    "example": "SynergyUnlock6"
+  },
+  {
+    "sn": "SynergyUnlock8",
+    "type": 3,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "协同解锁——朋子",
+    "desc": "协同解锁朋子",
+    "format": "funcOpen 905,unlockcoop 8,acceptQuest 12804",
+    "example": "SynergyUnlock8"
+  },
+  {
+    "sn": "GmTips",
+    "type": 1,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "GM反馈弹窗开关",
+    "desc": "GM反馈弹窗开关,0=关 1=开",
+    "format": "GmTips [0/1]",
+    "example": "GmTips 0"
+  },
+  {
+    "sn": "qita",
+    "type": 1,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "其他通用功能",
+    "desc": "改变时段，改变天气，穿墙，创建NPC，氛围NPC，漫游相机，屏蔽关卡播报，屏蔽FPS，屏蔽ID和开发中提示，录屏模式，修改分辨率，解锁全地图",
+    "format": "",
+    "example": ""
+  },
+  {
+    "sn": "changeWeather3",
+    "type": 3,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "切换雨天",
+    "desc": "切换至下雨天",
+    "format": "timeAdvance -1 2,timeAdvance 2",
+    "example": "changeWeather3"
+  },
+  {
+    "sn": "changeWeather1",
+    "type": 3,
+    "group": [
+      "P"
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "切换晴天",
+    "desc": "切换至晴天",
+    "format": "timeAdvance -1 1,timeAdvance",
+    "example": "changeWeather1"
+  },
+  {
+    "sn": "goHome",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "回家",
+    "desc": "回家园场景",
+    "format": "GoHome",
+    "example": "GoHome"
+  },
+  {
+    "sn": "addGameGachaItem",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁扭蛋",
+    "desc": "解锁所有扭蛋",
+    "format": "addGameGachaItem",
+    "example": "addGameGachaItem"
+  },
+  {
+    "sn": "unlockGachaBoxMaterial",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁扭蛋盒贴纸",
+    "desc": "解锁扭蛋盒贴纸",
+    "format": "unlockGachaBoxMaterial",
+    "example": "unlockGachaBoxMaterial"
+  },
+  {
+    "sn": "allFashion",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "解锁所有时装",
+    "desc": "解锁所有主角时装",
+    "format": "allFashion",
+    "example": "allFashion"
+  },
+  {
+    "sn": "finishActivityGoalGroup",
+    "type": 0,
+    "group": [
+      ""
+    ],
+    "orderGroup": [
+      0
+    ],
+    "name": "完成所有目标",
+    "desc": "完成所有目标",
+    "format": "finishActivityGoalGroup [目标组]",
+    "example": "finishActivityGoalGroup"
   }
 ]

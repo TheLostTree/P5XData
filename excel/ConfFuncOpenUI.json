@@ -41,8 +41,8 @@
   },
   {
     "sn": 9,
-    "UIComponentPath": "UI_StrangeThiefMainInfo/youxiashipei/Gongneng-zu/Btn-taozhuang",
-    "controlType": 1
+    "UIComponentPath": "UI_StrangeThiefMainInfo/youxiashipei/Gongneng-zu/Btn-taozhuang/image-jinyong",
+    "controlType": 2
   },
   {
     "sn": 10,
@@ -91,12 +91,12 @@
   },
   {
     "sn": 19,
-    "UIComponentPath": "UI_StrangeThiefMainInfo/zuoshipei/zhujue-zu/persona-zu/btn-dianji02",
+    "UIComponentPath": "UI_StrangeThiefMainInfo/zuoshipei/zhujue-zu/persona-zu/A-can/persona2-zu/weishangzhen-zu",
     "controlType": 1
   },
   {
     "sn": 20,
-    "UIComponentPath": "UI_StrangeThiefMainInfo/zuoshipei/zhujue-zu/persona-zu/btn-dianji03",
+    "UIComponentPath": "UI_StrangeThiefMainInfo/zuoshipei/zhujue-zu/persona-zu/A-can/persona3-zu/weishangzhen-zu",
     "controlType": 1
   },
   {
@@ -125,18 +125,8 @@
     "controlType": 1
   },
   {
-    "sn": 202,
-    "UIComponentPath": "UI_PalaceWorld/liuhai/shipei/zhengti01/btn-explore-shop/btn-Button-duihuan",
-    "controlType": 1
-  },
-  {
     "sn": 203,
     "UIComponentPath": "UI_PalaceWorld/liuhai/shipei/zhengti01/quyu/gongdianxiangqing/jiaohuanniu/btn-Button-tansuodu",
-    "controlType": 1
-  },
-  {
-    "sn": 204,
-    "UIComponentPath": "UI_PalaceWorld/liuhai/shipei/zhengti01/quyu/gongdianxiangqing/jiaohuanniu/btn-Button-duihuan",
     "controlType": 1
   },
   {
@@ -170,11 +160,6 @@
     "controlType": 1
   },
   {
-    "sn": 211,
-    "UIComponentPath": "UI_PalaceWorld/liuhai/shipei/zhengti01/quyu/gongdian/jiaohuanniu/btn-Button-duihuan",
-    "controlType": 1
-  },
-  {
     "sn": 212,
     "UIComponentPath": "UI_PalaceUI/shipei/dituxinxi/Button-tansuodu/Image-01",
     "controlType": 1
@@ -185,13 +170,23 @@
     "controlType": 1
   },
   {
+    "sn": 214,
+    "UIComponentPath": "UI_PalaceUI/shipei/dituxinxi/Button-caidan",
+    "controlType": 1
+  },
+  {
+    "sn": 215,
+    "UIComponentPath": "UI_MainMap/shipei/btn-navigation",
+    "controlType": 1
+  },
+  {
     "sn": 251,
-    "UIComponentPath": "UI_PWSaferoom/animation/Image-di01-2/weijiesuo",
+    "UIComponentPath": "UI_PWSaferoom/animation/Image-di01-1/weijiesuo",
     "controlType": 2
   },
   {
     "sn": 252,
-    "UIComponentPath": "UI_PWSaferoom/animation/Image-di01-1/weijiesuo",
+    "UIComponentPath": "UI_PWSaferoom/animation/Image-di01-2/weijiesuo",
     "controlType": 2
   },
   {
@@ -221,12 +216,7 @@
   },
   {
     "sn": 404,
-    "UIComponentPath": "UI_Divination/biaoqian-zuo/scroll-itemlist/Panel/template_new_1_0/item",
-    "controlType": 1
-  },
-  {
-    "sn": 405,
-    "UIComponentPath": "UI_Divination/biaoqian-zuo/scroll-itemlist/Panel/template_new_1_1/item",
+    "UIComponentPath": "UI_MainMenu_Right/zuoshang/gongneng/rukou/mall",
     "controlType": 1
   },
   {
@@ -245,8 +235,18 @@
     "controlType": 1
   },
   {
+    "sn": 409,
+    "UIComponentPath": "UI_CommunityGuidanceView/liandong-zu/shipei01/btn-zu/Btn-wechat-affairs",
+    "controlType": 1
+  },
+  {
+    "sn": 410,
+    "UIComponentPath": "UI_MainMenu_Right/zuoshang/gongneng/rukou/taluo/lock-click",
+    "controlType": 3
+  },
+  {
     "sn": 601,
-    "UIComponentPath": "UI_OpenWorldMap/liuhai/shipei/zhengti01/quyu/jiaohuanniu/gongdian-louceng",
+    "UIComponentPath": "UI_OpenWorldMap/liuhai/shipei/zhengti01/quyu/kongzhianniu-OU/btn-qianwangzhandian",
     "controlType": 1
   },
   {
@@ -266,7 +266,12 @@
   },
   {
     "sn": 610,
-    "UIComponentPath": "UI_ExamineActivityView/zuoyeqian/Button-tiaozhan",
+    "UIComponentPath": "UI_NewPlayCollection/zuoyeqian/wanfa4",
+    "controlType": 1
+  },
+  {
+    "sn": 611,
+    "UIComponentPath": "UI_PalaceUI/shipei/dituxinxi/cc-Button-ZuoZhanJiidi",
     "controlType": 1
   },
   {
@@ -330,23 +335,8 @@
     "controlType": 1
   },
   {
-    "sn": 809,
-    "UIComponentPath": "UI_AttackOneMoreSkill/shipei/Animation-xuanzejineng/qitajineng/showtime-Slider",
-    "controlType": 2
-  },
-  {
     "sn": 850,
-    "UIComponentPath": "UI_AttackSpeedUp/shipei/zanting",
-    "controlType": 1
-  },
-  {
-    "sn": 851,
-    "UIComponentPath": "UI_AttackSpeedUp/shipei/zhandoucaidan",
-    "controlType": 1
-  },
-  {
-    "sn": 852,
-    "UIComponentPath": "UI_AttackSpeedUp/shipei/zidongzhandou",
+    "UIComponentPath": "UI_AttackSpeedUp/shipei/zhandouxinxi",
     "controlType": 1
   },
   {
@@ -355,9 +345,14 @@
     "controlType": 1
   },
   {
-    "sn": 901,
-    "UIComponentPath": "UI_CellPhone/youceshipei/offset/animation/A-caidan/xinxi/touxiang-dianjishijian",
+    "sn": 900,
+    "UIComponentPath": "UI_CellPhone/youceshipei/offset/animation/A-caidan/xinxi/item-head/UI-tongyong-tishi",
     "controlType": 1
+  },
+  {
+    "sn": 901,
+    "UIComponentPath": "UI_CellPhone/youceshipei/offset/animation/A-caidan/xinxi/touxiang-dianjishijian-lock",
+    "controlType": 2
   },
   {
     "sn": 902,
@@ -380,8 +375,28 @@
     "controlType": 1
   },
   {
+    "sn": 907,
+    "UIComponentPath": "UI_MainSNSTip/shipei/list/btn-mail",
+    "controlType": 1
+  },
+  {
     "sn": 930,
     "UIComponentPath": "UI_PersonalProfile/content-you/gongneng1/di/xiugaimingcheng",
+    "controlType": 1
+  },
+  {
+    "sn": 1001,
+    "UIComponentPath": "UI_MainMap/shipei",
+    "controlType": 1
+  },
+  {
+    "sn": 1002,
+    "UIComponentPath": "UI_TopMissionUI/shipei",
+    "controlType": 1
+  },
+  {
+    "sn": 1003,
+    "UIComponentPath": "UI_VelvetTrialEntranceView/Shipei01/cc-Btn-XinZhiHai",
     "controlType": 1
   }
 ]

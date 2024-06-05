@@ -2,11 +2,9 @@
   {
     "sn": 1001,
     "moneyTypes": [
-      8,
-      7
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -14,11 +12,9 @@
   {
     "sn": 1002,
     "moneyTypes": [
-      2,
-      3
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -26,11 +22,9 @@
   {
     "sn": 1011,
     "moneyTypes": [
-      300001,
-      3
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -38,11 +32,9 @@
   {
     "sn": 1012,
     "moneyTypes": [
-      300002,
-      3
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -50,11 +42,9 @@
   {
     "sn": 1013,
     "moneyTypes": [
-      300003,
-      3
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -62,7 +52,7 @@
   {
     "sn": 1014,
     "moneyTypes": [
-      3
+      0
     ],
     "canBuyStates": [
       0
@@ -72,11 +62,9 @@
   {
     "sn": 1015,
     "moneyTypes": [
-      300004,
-      3
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -114,11 +102,9 @@
   {
     "sn": 1021,
     "moneyTypes": [
-      3,
-      7
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -126,7 +112,7 @@
   {
     "sn": 1022,
     "moneyTypes": [
-      22
+      0
     ],
     "canBuyStates": [
       0
@@ -136,7 +122,7 @@
   {
     "sn": 1023,
     "moneyTypes": [
-      12
+      0
     ],
     "canBuyStates": [
       0
@@ -146,7 +132,7 @@
   {
     "sn": 1024,
     "moneyTypes": [
-      1
+      0
     ],
     "canBuyStates": [
       0
@@ -156,7 +142,7 @@
   {
     "sn": 1025,
     "moneyTypes": [
-      9
+      0
     ],
     "canBuyStates": [],
     "hook_ui": []
@@ -164,7 +150,7 @@
   {
     "sn": 1026,
     "moneyTypes": [
-      10
+      0
     ],
     "canBuyStates": [],
     "hook_ui": []
@@ -178,7 +164,7 @@
   {
     "sn": 1028,
     "moneyTypes": [
-      18
+      0
     ],
     "canBuyStates": [
       0
@@ -188,7 +174,7 @@
   {
     "sn": 1029,
     "moneyTypes": [
-      1
+      0
     ],
     "canBuyStates": [
       0
@@ -198,7 +184,7 @@
   {
     "sn": 1030,
     "moneyTypes": [
-      1
+      0
     ],
     "canBuyStates": [
       0
@@ -208,7 +194,7 @@
   {
     "sn": 1031,
     "moneyTypes": [
-      1
+      0
     ],
     "canBuyStates": [
       0
@@ -218,7 +204,7 @@
   {
     "sn": 1032,
     "moneyTypes": [
-      1
+      0
     ],
     "canBuyStates": [
       0
@@ -228,13 +214,9 @@
   {
     "sn": 1033,
     "moneyTypes": [
-      1,
-      22,
-      3
+      0
     ],
     "canBuyStates": [
-      0,
-      0,
       0
     ],
     "hook_ui": []
@@ -242,7 +224,7 @@
   {
     "sn": 1034,
     "moneyTypes": [
-      1
+      0
     ],
     "canBuyStates": [
       0
@@ -252,7 +234,7 @@
   {
     "sn": 1035,
     "moneyTypes": [
-      1
+      0
     ],
     "canBuyStates": [
       0
@@ -262,11 +244,9 @@
   {
     "sn": 1036,
     "moneyTypes": [
-      20,
-      3
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -274,7 +254,7 @@
   {
     "sn": 1037,
     "moneyTypes": [
-      8
+      0
     ],
     "canBuyStates": [
       0
@@ -284,7 +264,7 @@
   {
     "sn": 1038,
     "moneyTypes": [
-      23
+      0
     ],
     "canBuyStates": [
       0
@@ -293,8 +273,12 @@
   },
   {
     "sn": 1039,
-    "moneyTypes": [],
-    "canBuyStates": [],
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
     "hook_ui": []
   },
   {
@@ -330,7 +314,7 @@
   {
     "sn": 1045,
     "moneyTypes": [
-      401004
+      0
     ],
     "canBuyStates": [
       0
@@ -340,11 +324,9 @@
   {
     "sn": 1046,
     "moneyTypes": [
-      8,
-      22
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -352,11 +334,9 @@
   {
     "sn": 1047,
     "moneyTypes": [
-      8,
-      22
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -364,10 +344,9 @@
   {
     "sn": 1048,
     "moneyTypes": [
-      8
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -375,10 +354,9 @@
   {
     "sn": 1049,
     "moneyTypes": [
-      22
+      0
     ],
     "canBuyStates": [
-      0,
       0
     ],
     "hook_ui": []
@@ -386,7 +364,7 @@
   {
     "sn": 1050,
     "moneyTypes": [
-      31
+      0
     ],
     "canBuyStates": [
       0
@@ -396,7 +374,7 @@
   {
     "sn": 1051,
     "moneyTypes": [
-      302904
+      0
     ],
     "canBuyStates": [
       0
@@ -406,7 +384,7 @@
   {
     "sn": 1052,
     "moneyTypes": [
-      302901
+      0
     ],
     "canBuyStates": [
       0
@@ -416,7 +394,7 @@
   {
     "sn": 1053,
     "moneyTypes": [
-      31
+      0
     ],
     "canBuyStates": [
       0
@@ -426,7 +404,255 @@
   {
     "sn": 1054,
     "moneyTypes": [
-      7
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1055,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1056,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1057,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1058,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1059,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1060,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1061,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1062,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1063,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1064,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1065,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [],
+    "hook_ui": []
+  },
+  {
+    "sn": 1066,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1067,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1068,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1069,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1070,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1071,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1072,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1073,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1074,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1075,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1076,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1077,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1078,
+    "moneyTypes": [
+      0
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1079,
+    "moneyTypes": [
+      0
     ],
     "canBuyStates": [
       0

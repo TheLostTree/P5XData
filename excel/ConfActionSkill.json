@@ -7,9 +7,10 @@
     "passivetype1": "10",
     "movePoint": 550,
     "hitAngle": 200,
-    "hitRadius": 3.5,
+    "hitRadius": 4,
     "hitHeight": 2.5,
-    "effect": "joker_thief@effect_attack1.prefab"
+    "effect": "joker_thief@effect_attack1.prefab",
+    "actMoveDis": 1.21
   },
   {
     "sn": 2,
@@ -21,7 +22,8 @@
     "hitAngle": 200,
     "hitRadius": 3.5,
     "hitHeight": 2.5,
-    "effect": "joker_thief@effect_attack2.prefab"
+    "effect": "joker_thief@effect_attack2.prefab",
+    "actMoveDis": 1.44
   },
   {
     "sn": 3,
@@ -33,7 +35,8 @@
     "hitAngle": 200,
     "hitRadius": 3.5,
     "hitHeight": 2.5,
-    "effect": "joker_thief@effect_attack3.prefab"
+    "effect": "joker_thief@effect_attack3.prefab",
+    "actMoveDis": 1.95
   },
   {
     "sn": 4,
@@ -45,7 +48,8 @@
     "hitAngle": 0,
     "hitRadius": 0,
     "hitHeight": 0,
-    "effect": ""
+    "effect": "",
+    "actMoveDis": 0
   },
   {
     "sn": 5,
@@ -57,7 +61,8 @@
     "hitAngle": 0,
     "hitRadius": 0,
     "hitHeight": 0,
-    "effect": ""
+    "effect": "",
+    "actMoveDis": 0
   },
   {
     "sn": 6,
@@ -69,7 +74,8 @@
     "hitAngle": 0,
     "hitRadius": 0,
     "hitHeight": 0,
-    "effect": ""
+    "effect": "",
+    "actMoveDis": 0
   },
   {
     "sn": 7,
@@ -81,7 +87,8 @@
     "hitAngle": 0,
     "hitRadius": 0,
     "hitHeight": 0,
-    "effect": ""
+    "effect": "",
+    "actMoveDis": 0
   },
   {
     "sn": 8,
@@ -90,10 +97,11 @@
     "interrupt": 2,
     "passivetype1": "10",
     "movePoint": 550,
-    "hitAngle": 200,
-    "hitRadius": 3.5,
+    "hitAngle": 60,
+    "hitRadius": 2,
     "hitHeight": 2.5,
-    "effect": ""
+    "effect": "",
+    "actMoveDis": 0
   },
   {
     "sn": 9,
@@ -105,7 +113,8 @@
     "hitAngle": 0,
     "hitRadius": 0,
     "hitHeight": 0,
-    "effect": ""
+    "effect": "",
+    "actMoveDis": 0
   },
   {
     "sn": 10,
@@ -117,6 +126,7 @@
     "hitAngle": 200,
     "hitRadius": 3.5,
     "hitHeight": 2.5,
-    "effect": "joker_thief@effect_attack1_runDash.prefab"
+    "effect": "joker_thief@effect_attack1_runDash.prefab",
+    "actMoveDis": 2.4
   }
 ]

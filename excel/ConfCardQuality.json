@@ -4,51 +4,75 @@
     "QualityName": "寻常",
     "CardLevelMax": 10,
     "exabilityNum": [
-      1
+      0
     ],
-    "exabilityMaxNum": 1,
     "exabilityNumPR": [
-      1
+      0
     ],
-    "strenExp": 40
+    "exabilityMaxNum": 2,
+    "exabilityUnlock": [
+      0
+    ],
+    "strenExp": 100,
+    "strenExpType0": 100,
+    "convertItem": 0,
+    "consumeMoney": 1000
   },
   {
     "sn": 3,
     "QualityName": "稀有",
     "CardLevelMax": 15,
     "exabilityNum": [
-      2
+      0
     ],
-    "exabilityMaxNum": 2,
     "exabilityNumPR": [
-      1
+      0
     ],
-    "strenExp": 75
+    "exabilityMaxNum": 3,
+    "exabilityUnlock": [
+      0
+    ],
+    "strenExp": 300,
+    "strenExpType0": 300,
+    "convertItem": 0,
+    "consumeMoney": 2000
   },
   {
     "sn": 4,
     "QualityName": "罕见",
     "CardLevelMax": 20,
     "exabilityNum": [
-      3
+      0
+    ],
+    "exabilityNumPR": [
+      0
     ],
     "exabilityMaxNum": 4,
-    "exabilityNumPR": [
-      1
+    "exabilityUnlock": [
+      0
     ],
-    "strenExp": 100
+    "strenExp": 800,
+    "strenExpType0": 800,
+    "convertItem": 302304,
+    "consumeMoney": 4000
   },
   {
     "sn": 5,
     "QualityName": "绝世",
     "CardLevelMax": 25,
     "exabilityNum": [
-      4
+      0
+    ],
+    "exabilityNumPR": [
+      0
     ],
     "exabilityMaxNum": 4,
-    "exabilityNumPR": [
-      1
+    "exabilityUnlock": [
+      0
     ],
-    "strenExp": 125
+    "strenExp": 1000,
+    "strenExpType0": 1000,
+    "convertItem": 302305,
+    "consumeMoney": 5000
   }
 ]

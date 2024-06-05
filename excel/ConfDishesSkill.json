@@ -1,925 +1,1610 @@
 [
   {
     "sn": 303004,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 2,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复10精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续2场战斗",
+    "sequence": 0
   },
   {
     "sn": 303005,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 2,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复10精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续2场战斗",
+    "sequence": 0
   },
   {
     "sn": 303006,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 2,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复10精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续2场战斗",
+    "sequence": 0
   },
   {
     "sn": 303007,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 5,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续5场战斗",
+    "sequence": 0
   },
   {
     "sn": 303008,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 5,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续5场战斗",
+    "sequence": 0
   },
   {
     "sn": 303009,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 5,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续5场战斗",
+    "sequence": 0
   },
   {
     "sn": 303010,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的12.5%"
+    "dishDesc": "恢复19.2%最大生命值",
+    "dishItemDesc": "恢复19.2%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 303011,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 303012,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 303013,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的12.5%"
+    "dishDesc": "恢复19.2%最大生命值",
+    "dishItemDesc": "恢复19.2%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 303014,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 303015,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 303019,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 303020,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 303021,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 303025,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 3,
+    "dishTypeS": 2,
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续3场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 303026,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 2,
+    "dishTypeS": 2,
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续2场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 303027,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 3,
+    "dishTypeS": 2,
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续3场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 303028,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复9.6%最大生命值",
+    "dishItemDesc": "恢复9.6%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 303029,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 303030,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 303031,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复19.2%最大生命值",
+    "dishItemDesc": "恢复19.2%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 303032,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 303033,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复19.2%最大生命值",
+    "dishItemDesc": "恢复19.2%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 303034,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复19.2%最大生命值",
+    "dishItemDesc": "恢复19.2%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 303035,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复19.2%最大生命值",
+    "dishItemDesc": "恢复19.2%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 303036,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复23%最大生命值",
+    "dishItemDesc": "恢复23%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 303065,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 2,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复10精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续2场战斗",
+    "sequence": 0
   },
   {
     "sn": 304200,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的10.5%"
+    "dishDesc": "立即恢复16%最大生命值",
+    "dishItemDesc": "立即恢复16%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 304201,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "立即恢复24%最大生命值",
+    "dishItemDesc": "立即恢复24%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 304202,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的12.5%"
+    "dishDesc": "立即恢复32%最大生命值",
+    "dishItemDesc": "立即恢复32%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 304203,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
-    "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishTime": 20,
+    "dishTypeS": 1,
+    "dishDesc": "每回合开始时恢复1.6%生命值",
+    "dishItemDesc": "每回合开始时恢复1.6%生命值，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304204,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
-    "dishTypeS": 2,
-    "dishDesc": "立即恢复17精力值"
+    "dishTime": 15,
+    "dishTypeS": 1,
+    "dishDesc": "每回合开始时恢复2.4%生命值",
+    "dishItemDesc": "每回合开始时恢复2.4%生命值，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304205,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
-    "dishTypeS": 2,
-    "dishDesc": "立即恢复20精力值"
+    "dishTime": 10,
+    "dishTypeS": 1,
+    "dishDesc": "每回合开始时恢复3.2%生命值",
+    "dishItemDesc": "每回合开始时恢复3.2%生命值，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304206,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      210,
-      220
+      0
     ],
-    "dishTime": 0,
-    "dishTypeS": 3,
-    "dishDesc": "HP、SP少量回复"
+    "dishTime": 20,
+    "dishTypeS": 2,
+    "dishDesc": "每回合开始时恢复1.6%精力值",
+    "dishItemDesc": "每回合开始时恢复1.6%精力值，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304207,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      210,
-      220
+      0
     ],
-    "dishTime": 0,
-    "dishTypeS": 3,
-    "dishDesc": "HP、SP少量回复"
+    "dishTime": 15,
+    "dishTypeS": 2,
+    "dishDesc": "每回合开始时恢复2.4%精力值",
+    "dishItemDesc": "每回合开始时恢复2.4%精力值，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304208,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      210,
-      220
+      0
     ],
-    "dishTime": 0,
-    "dishTypeS": 3,
-    "dishDesc": "HP、SP少量回复"
+    "dishTime": 10,
+    "dishTypeS": 2,
+    "dishDesc": "每回合开始时恢复3.2%精力值",
+    "dishItemDesc": "每回合开始时恢复3.2%精力值，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304209,
     "dishSkillType": 2,
     "dishParam": [
-      7322,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 1,
-    "dishDesc": "战斗胜利后HP少量回复"
+    "dishTime": 20,
+    "dishTypeS": 3,
+    "dishDesc": "每回合开始时恢复1.6%生命值、精力值",
+    "dishItemDesc": "每回合开始时恢复1.6%生命值、精力值，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304210,
     "dishSkillType": 2,
     "dishParam": [
-      7323,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 1,
-    "dishDesc": "战斗胜利后HP中量回复"
+    "dishTime": 15,
+    "dishTypeS": 3,
+    "dishDesc": "每回合开始时恢复2.4%生命值、精力值",
+    "dishItemDesc": "每回合开始时恢复2.4%生命值、精力值，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304211,
     "dishSkillType": 2,
     "dishParam": [
-      7324,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 1,
-    "dishDesc": "战斗胜利后HP大量回复"
+    "dishTime": 10,
+    "dishTypeS": 3,
+    "dishDesc": "每回合开始时恢复3.2%生命值、精力值",
+    "dishItemDesc": "每回合开始时恢复3.2%生命值、精力值，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304212,
     "dishSkillType": 2,
     "dishParam": [
-      7325,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 2,
-    "dishDesc": "战斗胜利后SP少量回复"
+    "dishTime": 20,
+    "dishTypeS": 11,
+    "dishDesc": "战斗开始时，获得8%HIGHLIGHT能量",
+    "dishItemDesc": "战斗开始时，获得8%HIGHLIGHT能量，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304213,
     "dishSkillType": 2,
     "dishParam": [
-      7326,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 2,
-    "dishDesc": "战斗胜利后SP中量回复"
+    "dishTime": 15,
+    "dishTypeS": 11,
+    "dishDesc": "战斗开始时，获得12%HIGHLIGHT能量",
+    "dishItemDesc": "战斗开始时，获得12%HIGHLIGHT能量，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304214,
     "dishSkillType": 2,
     "dishParam": [
-      7327,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 2,
-    "dishDesc": "战斗胜利后SP大量回复"
+    "dishTime": 10,
+    "dishTypeS": 11,
+    "dishDesc": "战斗开始时，获得16%HIGHLIGHT能量",
+    "dishItemDesc": "战斗开始时，获得16%HIGHLIGHT能量，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304215,
     "dishSkillType": 2,
     "dishParam": [
-      7301,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 4,
-    "dishDesc": "立即提升14%的攻击力"
+    "dishTime": 20,
+    "dishTypeS": 10,
+    "dishDesc": "生命值提升8%",
+    "dishItemDesc": "生命值提升8%，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304216,
     "dishSkillType": 2,
     "dishParam": [
-      7302,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 4,
-    "dishDesc": "立即提升15.3%的攻击力"
+    "dishTime": 15,
+    "dishTypeS": 10,
+    "dishDesc": "生命值提升12%",
+    "dishItemDesc": "生命值提升12%，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304217,
     "dishSkillType": 2,
     "dishParam": [
-      7303,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 4,
-    "dishDesc": "立即提升16.7%的攻击力"
+    "dishTime": 10,
+    "dishTypeS": 10,
+    "dishDesc": "生命值提升16%",
+    "dishItemDesc": "生命值提升16%，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304218,
     "dishSkillType": 2,
     "dishParam": [
-      7313,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 7,
-    "dishDesc": "暴击效果少量提升"
+    "dishTime": 20,
+    "dishTypeS": 4,
+    "dishDesc": "攻击力提升8%",
+    "dishItemDesc": "攻击力提升8%，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304219,
     "dishSkillType": 2,
     "dishParam": [
-      7314,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 7,
-    "dishDesc": "暴击效果中量提升"
+    "dishTime": 15,
+    "dishTypeS": 4,
+    "dishDesc": "攻击力提升12%",
+    "dishItemDesc": "攻击力提升12%，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304220,
     "dishSkillType": 2,
     "dishParam": [
-      7315,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 7,
-    "dishDesc": "暴击效果大量提升"
+    "dishTime": 10,
+    "dishTypeS": 4,
+    "dishDesc": "攻击力提升16%",
+    "dishItemDesc": "攻击力提升16%，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304221,
     "dishSkillType": 2,
     "dishParam": [
-      7316,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 8,
-    "dishDesc": "效果命中少量提升"
+    "dishTime": 20,
+    "dishTypeS": 5,
+    "dishDesc": "防御力提升8%",
+    "dishItemDesc": "防御力提升8%，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304222,
     "dishSkillType": 2,
     "dishParam": [
-      7317,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 8,
-    "dishDesc": "效果命中中量提升"
+    "dishTime": 15,
+    "dishTypeS": 5,
+    "dishDesc": "防御力提升12%",
+    "dishItemDesc": "防御力提升12%，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304223,
     "dishSkillType": 2,
     "dishParam": [
-      7318,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 8,
-    "dishDesc": "效果命中大量提升"
+    "dishTime": 10,
+    "dishTypeS": 5,
+    "dishDesc": "防御力提升16%",
+    "dishItemDesc": "防御力提升16%，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304224,
     "dishSkillType": 2,
     "dishParam": [
-      7304,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 5,
-    "dishDesc": "防御力少量提升"
+    "dishTime": 20,
+    "dishTypeS": 6,
+    "dishDesc": "暴击率提升4.8%",
+    "dishItemDesc": "暴击率提升4.8%，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304225,
     "dishSkillType": 2,
     "dishParam": [
-      7305,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 5,
-    "dishDesc": "防御力中量提升"
+    "dishTime": 15,
+    "dishTypeS": 6,
+    "dishDesc": "暴击率提升7.2%",
+    "dishItemDesc": "暴击率提升7.2%，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304226,
     "dishSkillType": 2,
     "dishParam": [
-      7306,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 5,
-    "dishDesc": "防御力大量提升"
+    "dishTime": 10,
+    "dishTypeS": 6,
+    "dishDesc": "暴击率提升9.6%",
+    "dishItemDesc": "暴击率提升9.6%，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304227,
     "dishSkillType": 2,
     "dishParam": [
-      7307,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 1,
-    "dishDesc": "生命值少量提升"
+    "dishTime": 20,
+    "dishTypeS": 7,
+    "dishDesc": "暴击效果提升9.6%",
+    "dishItemDesc": "暴击效果提升9.6%，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304228,
     "dishSkillType": 2,
     "dishParam": [
-      7308,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 1,
-    "dishDesc": "生命值中量提升"
+    "dishTime": 15,
+    "dishTypeS": 7,
+    "dishDesc": "暴击效果提升14.4%",
+    "dishItemDesc": "暴击效果提升14.4%，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304229,
     "dishSkillType": 2,
     "dishParam": [
-      7309,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 1,
-    "dishDesc": "生命值大量提升"
+    "dishTime": 10,
+    "dishTypeS": 7,
+    "dishDesc": "暴击效果提升19.2%",
+    "dishItemDesc": "暴击效果提升19.2%，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304230,
     "dishSkillType": 2,
     "dishParam": [
-      7310,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 6,
-    "dishDesc": "暴击率少量提升"
+    "dishTime": 20,
+    "dishTypeS": 8,
+    "dishDesc": "效果命中提升9.6%",
+    "dishItemDesc": "效果命中提升9.6%，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304231,
     "dishSkillType": 2,
     "dishParam": [
-      7311,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 6,
-    "dishDesc": "暴击率中量提升"
+    "dishTime": 15,
+    "dishTypeS": 8,
+    "dishDesc": "效果命中提升14.4%",
+    "dishItemDesc": "效果命中提升14.4%，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304232,
     "dishSkillType": 2,
     "dishParam": [
-      7312,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 6,
-    "dishDesc": "暴击率大量提升"
+    "dishTime": 10,
+    "dishTypeS": 8,
+    "dishDesc": "效果命中提升19.2%",
+    "dishItemDesc": "效果命中提升19.2%，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304233,
     "dishSkillType": 2,
     "dishParam": [
-      7319,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
+    "dishTime": 20,
     "dishTypeS": 9,
-    "dishDesc": "效果抵抗少量提升"
+    "dishDesc": "效果抵抗提升9.6%",
+    "dishItemDesc": "效果抵抗提升9.6%，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304234,
     "dishSkillType": 2,
     "dishParam": [
-      7320,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
+    "dishTime": 15,
     "dishTypeS": 9,
-    "dishDesc": "效果抵抗中量提升"
+    "dishDesc": "效果抵抗提升14.4%",
+    "dishItemDesc": "效果抵抗提升14.4%，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304235,
     "dishSkillType": 2,
     "dishParam": [
-      7321,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
+    "dishTime": 10,
     "dishTypeS": 9,
-    "dishDesc": "效果抵抗大量提升"
+    "dishDesc": "效果抵抗提升19.2%",
+    "dishItemDesc": "效果抵抗提升19.2%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304236,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 5,
+    "dishDesc": "防御力提升12%",
+    "dishItemDesc": "防御力提升12%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304237,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 1,
+    "dishDesc": "每回合开始时恢复2.4%生命值",
+    "dishItemDesc": "每回合开始时恢复2.4%生命值，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304238,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 4,
+    "dishDesc": "攻击力提升12%",
+    "dishItemDesc": "攻击力提升12%，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304600,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的12.6%"
+    "dishDesc": "立即恢复20%最大生命值",
+    "dishItemDesc": "立即恢复20%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 304601,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的13.8%"
+    "dishDesc": "立即恢复30%最大生命值",
+    "dishItemDesc": "立即恢复30%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 304602,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的15%"
+    "dishDesc": "立即恢复40%最大生命值",
+    "dishItemDesc": "立即恢复40%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 304603,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
-    "dishTypeS": 2,
-    "dishDesc": "立即恢复15精力值"
+    "dishTime": 20,
+    "dishTypeS": 1,
+    "dishDesc": "每回合开始时恢复2%生命值",
+    "dishItemDesc": "每回合开始时恢复2%生命值，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304604,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
-    "dishTypeS": 2,
-    "dishDesc": "立即恢复20精力值"
+    "dishTime": 15,
+    "dishTypeS": 1,
+    "dishDesc": "每回合开始时恢复3%生命值",
+    "dishItemDesc": "每回合开始时恢复3%生命值，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304605,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 10,
+    "dishTypeS": 1,
+    "dishDesc": "每回合开始时恢复4%生命值",
+    "dishItemDesc": "每回合开始时恢复4%生命值，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304606,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 20,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复24精力值"
+    "dishDesc": "每回合开始时恢复2%精力值",
+    "dishItemDesc": "每回合开始时恢复2%精力值，效果持续20场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304607,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 2,
+    "dishDesc": "每回合开始时恢复3%精力值",
+    "dishItemDesc": "每回合开始时恢复3%精力值，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304608,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 2,
+    "dishDesc": "每回合开始时恢复4%精力值",
+    "dishItemDesc": "每回合开始时恢复4%精力值，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304609,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 20,
+    "dishTypeS": 3,
+    "dishDesc": "每回合开始时恢复2%生命值、精力值",
+    "dishItemDesc": "每回合开始时恢复2%生命值、精力值，效果持续20场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304610,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 3,
+    "dishDesc": "每回合开始时恢复3%生命值、精力值",
+    "dishItemDesc": "每回合开始时恢复3%生命值、精力值，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304611,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 3,
+    "dishDesc": "每回合开始时恢复4%生命值、精力值",
+    "dishItemDesc": "每回合开始时恢复4%生命值、精力值，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304612,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 20,
+    "dishTypeS": 11,
+    "dishDesc": "战斗开始时，获得10%HIGHLIGHT能量",
+    "dishItemDesc": "战斗开始时，获得10%HIGHLIGHT能量，效果持续20场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304613,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 11,
+    "dishDesc": "战斗开始时，获得15%HIGHLIGHT能量",
+    "dishItemDesc": "战斗开始时，获得15%HIGHLIGHT能量，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304614,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 11,
+    "dishDesc": "战斗开始时，获得20%HIGHLIGHT能量",
+    "dishItemDesc": "战斗开始时，获得20%HIGHLIGHT能量，效果持续10场战斗",
+    "sequence": 0
   },
   {
     "sn": 304615,
     "dishSkillType": 2,
     "dishParam": [
-      7328,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 4,
-    "dishDesc": "立即提升16.8%的攻击力"
+    "dishTime": 20,
+    "dishTypeS": 10,
+    "dishDesc": "生命值提升10%",
+    "dishItemDesc": "生命值提升10%，效果持续20场战斗",
+    "sequence": 0
   },
   {
     "sn": 304616,
     "dishSkillType": 2,
     "dishParam": [
-      7329,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
-    "dishTypeS": 4,
-    "dishDesc": "立即提升18.4%的攻击力"
+    "dishTime": 15,
+    "dishTypeS": 10,
+    "dishDesc": "生命值提升15%",
+    "dishItemDesc": "生命值提升15%，效果持续15场战斗",
+    "sequence": 0
   },
   {
     "sn": 304617,
     "dishSkillType": 2,
     "dishParam": [
-      7330,
-      1,
-      1
+      0
     ],
-    "dishTime": 3,
+    "dishTime": 10,
+    "dishTypeS": 10,
+    "dishDesc": "生命值提升20%",
+    "dishItemDesc": "生命值提升20%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304618,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 20,
     "dishTypeS": 4,
-    "dishDesc": "立即提升20%的攻击力"
+    "dishDesc": "攻击力提升10%",
+    "dishItemDesc": "攻击力提升10%，效果持续20场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304619,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 4,
+    "dishDesc": "攻击力提升15%",
+    "dishItemDesc": "攻击力提升15%，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304620,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 4,
+    "dishDesc": "攻击力提升20%",
+    "dishItemDesc": "攻击力提升20%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304621,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 20,
+    "dishTypeS": 5,
+    "dishDesc": "防御力提升10%",
+    "dishItemDesc": "防御力提升10%，效果持续20场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304622,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 5,
+    "dishDesc": "防御力提升15%",
+    "dishItemDesc": "防御力提升15%，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304623,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 5,
+    "dishDesc": "防御力提升20%",
+    "dishItemDesc": "防御力提升20%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304624,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 20,
+    "dishTypeS": 6,
+    "dishDesc": "暴击率提升6%",
+    "dishItemDesc": "暴击率提升6%，效果持续20场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304625,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 6,
+    "dishDesc": "暴击率提升9%",
+    "dishItemDesc": "暴击率提升9%，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304626,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 6,
+    "dishDesc": "暴击率提升12%",
+    "dishItemDesc": "暴击率提升12%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304627,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 20,
+    "dishTypeS": 7,
+    "dishDesc": "暴击效果提升12%",
+    "dishItemDesc": "暴击效果提升12%，效果持续20场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304628,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 7,
+    "dishDesc": "暴击效果提升18%",
+    "dishItemDesc": "暴击效果提升18%，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304629,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 7,
+    "dishDesc": "暴击效果提升24%",
+    "dishItemDesc": "暴击效果提升24%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304630,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 20,
+    "dishTypeS": 8,
+    "dishDesc": "效果命中提升12%",
+    "dishItemDesc": "效果命中提升12%，效果持续20场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304631,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 8,
+    "dishDesc": "效果命中提升18%",
+    "dishItemDesc": "效果命中提升18%，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304632,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 8,
+    "dishDesc": "效果命中提升24%",
+    "dishItemDesc": "效果命中提升24%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304633,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 20,
+    "dishTypeS": 9,
+    "dishDesc": "效果抵抗提升12%",
+    "dishItemDesc": "效果抵抗提升12%，效果持续20场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304634,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 9,
+    "dishDesc": "效果抵抗提升18%",
+    "dishItemDesc": "效果抵抗提升18%，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304635,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 9,
+    "dishDesc": "效果抵抗提升24%",
+    "dishItemDesc": "效果抵抗提升24%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304636,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 5,
+    "dishDesc": "防御力提升15%",
+    "dishItemDesc": "防御力提升15%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304637,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 15,
+    "dishTypeS": 1,
+    "dishDesc": "每回合开始时恢复3%生命值",
+    "dishItemDesc": "每回合开始时恢复3%生命值，效果持续15场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 304638,
+    "dishSkillType": 2,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 10,
+    "dishTypeS": 4,
+    "dishDesc": "攻击力提升15%",
+    "dishItemDesc": "攻击力提升15%，效果持续10场战斗",
+    "sequence": 0
+  },
+  {
+    "sn": 305502,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 305503,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复9.6%最大生命值",
+    "dishItemDesc": "恢复9.6%最大生命值",
+    "sequence": 0
+  },
+  {
+    "sn": 305504,
+    "dishSkillType": 1,
+    "dishParam": [
+      0
+    ],
+    "dishTime": 0,
+    "dishTypeS": 1,
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 307300,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 2,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续2场战斗",
+    "sequence": 0
   },
   {
     "sn": 307301,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 2,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复10精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续2场战斗",
+    "sequence": 0
   },
   {
     "sn": 307302,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 3,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续3场战斗",
+    "sequence": 0
   },
   {
     "sn": 307303,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 5,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续5场战斗",
+    "sequence": 0
   },
   {
     "sn": 307304,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 3,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复10精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续3场战斗",
+    "sequence": 0
   },
   {
     "sn": 307305,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 5,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续5场战斗",
+    "sequence": 0
   },
   {
     "sn": 307306,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 3,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复10精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续3场战斗",
+    "sequence": 0
   },
   {
     "sn": 307307,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 5,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复17精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续5场战斗",
+    "sequence": 0
   },
   {
     "sn": 307308,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 3,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复10精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续3场战斗",
+    "sequence": 0
   },
   {
     "sn": 307309,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 5,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续5场战斗",
+    "sequence": 0
   },
   {
     "sn": 307310,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 5,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续5场战斗",
+    "sequence": 0
   },
   {
     "sn": 307311,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 3,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续3场战斗",
+    "sequence": 0
   },
   {
     "sn": 307312,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 5,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续5场战斗",
+    "sequence": 0
   },
   {
     "sn": 307313,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 3,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续3场战斗",
+    "sequence": 0
   },
   {
     "sn": 307314,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 5,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续5场战斗",
+    "sequence": 0
   },
   {
     "sn": 307315,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 2,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续2场战斗",
+    "sequence": 0
   },
   {
     "sn": 307316,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 307317,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的12.5%"
+    "dishDesc": "恢复23%最大生命值",
+    "dishItemDesc": "恢复23%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 307318,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的12.5%"
+    "dishDesc": "恢复23%最大生命值",
+    "dishItemDesc": "恢复23%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 307319,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 307320,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的11.5%"
+    "dishDesc": "恢复14.4%最大生命值",
+    "dishItemDesc": "恢复14.4%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 307321,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的10.5%"
+    "dishDesc": "恢复9.6%最大生命值",
+    "dishItemDesc": "恢复9.6%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 307322,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的10.5%"
+    "dishDesc": "恢复9.6%最大生命值",
+    "dishItemDesc": "恢复9.6%最大生命值",
+    "sequence": 0
   },
   {
     "sn": 307323,
-    "dishSkillType": 1,
+    "dishSkillType": 2,
     "dishParam": [
-      220
+      0
     ],
-    "dishTime": 0,
+    "dishTime": 2,
     "dishTypeS": 2,
-    "dishDesc": "立即恢复13精力值"
+    "dishDesc": "每回合开始时，恢复2%精力值",
+    "dishItemDesc": "每回合开始时，恢复2%精力值，效果持续2场战斗",
+    "sequence": 0
   },
   {
     "sn": 307324,
     "dishSkillType": 1,
     "dishParam": [
-      210
+      0
     ],
     "dishTime": 0,
     "dishTypeS": 1,
-    "dishDesc": "立即恢复最大生命值的12.5%"
+    "dishDesc": "恢复19.2%最大生命值",
+    "dishItemDesc": "恢复19.2%最大生命值",
+    "sequence": 0
   }
 ]

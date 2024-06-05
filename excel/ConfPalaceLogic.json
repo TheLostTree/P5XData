@@ -2,233 +2,81 @@
   {
     "sn": 1,
     "name": "木内雄之·宫殿",
+    "brokenName": "认知·棒球馆",
+    "brokenEnName": "Cognitive Place",
     "lordName": "木内雄之",
     "engName": "Takeyuki Kiuchi",
+    "palacePic": "zuozhanjidi-gongdian-munei-i18n.png",
+    "combatRoomPic": "zuozhanjidi-gongdian-munei.png",
     "uiName": "gongdian01",
+    "uiBGName": "Image-gongdianxian01",
     "npcSn": 5502204,
+    "brokenSn": 5502350,
     "unlockType": 0,
     "unlockParam": 0,
+    "brokenQuest": 11075,
     "childPalace": [
-      100,
-      101,
-      105,
-      104,
-      106
+      0
     ],
     "awardShow": [
       [
-        "yishijie-icon-xiaoguai-bai-new.png",
-        "阴影-击球手",
-        "301007"
-      ],
-      [
-        "yishijie-icon-xiaoguai-bai-new.png",
-        "阴影-贩售员",
-        "301008"
-      ],
-      [
-        "yishijie-icon-xiaoguai-bai-new.png",
-        "阴影-安保员",
-        "301009"
+        "�+!�8��'(��bj�.j/�j/�{\ng���+}5�N��b�'���'�\u0018��\u000b���ڋ���⯗�Mt�̢�\u0018���r���&�������w��x8����]4"
       ]
     ],
     "shading": "yishijie-yinxiangkongjian-01.png",
     "shopSn": 14,
     "moneyType": 23,
-    "namePic": "gongdian-mingzi-bangqiuguan.png",
-    "nameWorldPic": "ditu-yishijie-munei.png",
-    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+    "namePic": "gongdian-mingzi-bangqiuguan-i18n.png",
+    "nameWorldPic": "ditu-yishijie-munei-i18n.png",
+    "brokenWorldPic": "wangrirenzhi-side-name01-i18n.png",
+    "cognitionPic": "wangrirenzhi-stage-name01-i18n.png",
+    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png",
+    "trainModel": "scni46_thing_huoche01",
+    "trainEffect": "clb03_yinhang_shanliang_06.prefab",
+    "changeBGMMission": [
+      0
+    ],
+    "palaceGroup": 0,
+    "lockPic": ""
   },
   {
     "sn": 2,
     "name": "宫泽博梦·宫殿",
+    "brokenName": "认知·影视城",
+    "brokenEnName": "Cognitive Place",
     "lordName": "宫泽博梦",
-    "engName": "",
-    "uiName": "",
-    "npcSn": 0,
-    "unlockType": 0,
-    "unlockParam": 0,
+    "engName": "Miyazawa Hiromu",
+    "palacePic": "zuozhanjidi-gongdian-gongze-i18n.png",
+    "combatRoomPic": "zuozhanjidi-gongdian-gongze.png",
+    "uiName": "gongdian02",
+    "uiBGName": "Image-gongdianxian02",
+    "npcSn": 5510003,
+    "brokenSn": 5510008,
+    "unlockType": 2,
+    "unlockParam": 11515,
+    "brokenQuest": 11907,
     "childPalace": [
-      200
+      0
     ],
     "awardShow": [
       [
-        "\u0000\u0000\u0000\u0000"
+        "�+!�8��'(��bj�.j/�j/�{\ng����]t�l��\u0018���r���&�������w��x8����Mw�+!�8��'(��bj�.j/�j/�{\ng����]t�"
       ]
     ],
     "shading": "",
-    "shopSn": 0,
-    "moneyType": 0,
-    "namePic": "",
-    "nameWorldPic": "",
-    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
-  },
-  {
-    "sn": 9992,
-    "name": "TL临时测试场景",
-    "lordName": "TL临时测试场景",
-    "engName": "",
-    "uiName": "",
-    "npcSn": 0,
-    "unlockType": 0,
-    "unlockParam": 0,
-    "childPalace": [
-      992
+    "shopSn": 15,
+    "moneyType": 24,
+    "namePic": "gongdian-mingzi-bangqiuguan-i18n.png",
+    "nameWorldPic": "ditu-yishijie-gongze-i18n.png",
+    "brokenWorldPic": "wangrirenzhi-side-name02-i18n.png",
+    "cognitionPic": "wangrirenzhi-stage-name02-i18n.png",
+    "unlockPic": "tansuodu-icon-zhangjie-gongze.png",
+    "trainModel": "scni46_thing_huoche01 (1)",
+    "trainEffect": "clb03_yinhang_shanliang_07.prefab",
+    "changeBGMMission": [
+      0
     ],
-    "awardShow": [
-      [
-        "\u0000\u0000\u0000\u0000"
-      ]
-    ],
-    "shading": "",
-    "shopSn": 0,
-    "moneyType": 0,
-    "namePic": "",
-    "nameWorldPic": "",
-    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
-  },
-  {
-    "sn": 9994,
-    "name": "思想剥夺之路",
-    "lordName": "思想剥夺之路",
-    "engName": "",
-    "uiName": "",
-    "npcSn": 0,
-    "unlockType": 0,
-    "unlockParam": 0,
-    "childPalace": [
-      994
-    ],
-    "awardShow": [
-      [
-        "\u0000\u0000\u0000\u0000"
-      ]
-    ],
-    "shading": "",
-    "shopSn": 0,
-    "moneyType": 0,
-    "namePic": "",
-    "nameWorldPic": "",
-    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
-  },
-  {
-    "sn": 9995,
-    "name": "山城测试3",
-    "lordName": "山城测试3",
-    "engName": "",
-    "uiName": "",
-    "npcSn": 0,
-    "unlockType": 0,
-    "unlockParam": 0,
-    "childPalace": [
-      995
-    ],
-    "awardShow": [
-      [
-        "\u0000\u0000\u0000\u0000"
-      ]
-    ],
-    "shading": "",
-    "shopSn": 0,
-    "moneyType": 0,
-    "namePic": "",
-    "nameWorldPic": "",
-    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
-  },
-  {
-    "sn": 9996,
-    "name": "山城测试2",
-    "lordName": "山城测试2",
-    "engName": "",
-    "uiName": "",
-    "npcSn": 0,
-    "unlockType": 0,
-    "unlockParam": 0,
-    "childPalace": [
-      996
-    ],
-    "awardShow": [
-      [
-        "\u0000\u0000\u0000\u0000"
-      ]
-    ],
-    "shading": "",
-    "shopSn": 0,
-    "moneyType": 0,
-    "namePic": "",
-    "nameWorldPic": "",
-    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
-  },
-  {
-    "sn": 9997,
-    "name": "山城测试1",
-    "lordName": "山城测试1",
-    "engName": "",
-    "uiName": "",
-    "npcSn": 0,
-    "unlockType": 0,
-    "unlockParam": 0,
-    "childPalace": [
-      997
-    ],
-    "awardShow": [
-      [
-        "\u0000\u0000\u0000\u0000"
-      ]
-    ],
-    "shading": "",
-    "shopSn": 0,
-    "moneyType": 0,
-    "namePic": "",
-    "nameWorldPic": "",
-    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
-  },
-  {
-    "sn": 9998,
-    "name": "动作测试场景",
-    "lordName": "动作测试场景",
-    "engName": "",
-    "uiName": "",
-    "npcSn": 0,
-    "unlockType": 0,
-    "unlockParam": 0,
-    "childPalace": [
-      998
-    ],
-    "awardShow": [
-      [
-        "\u0000\u0000\u0000\u0000"
-      ]
-    ],
-    "shading": "",
-    "shopSn": 0,
-    "moneyType": 0,
-    "namePic": "",
-    "nameWorldPic": "",
-    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
-  },
-  {
-    "sn": 9999,
-    "name": "1号测试场景",
-    "lordName": "1号测试场景",
-    "engName": "",
-    "uiName": "",
-    "npcSn": 0,
-    "unlockType": 0,
-    "unlockParam": 0,
-    "childPalace": [
-      999
-    ],
-    "awardShow": [
-      [
-        "\u0000\u0000\u0000\u0000"
-      ]
-    ],
-    "shading": "",
-    "shopSn": 0,
-    "moneyType": 0,
-    "namePic": "",
-    "nameWorldPic": "",
-    "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png"
+    "palaceGroup": 0,
+    "lockPic": ""
   }
 ]

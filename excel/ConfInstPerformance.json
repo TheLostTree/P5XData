@@ -2,25 +2,16 @@
   {
     "sn": 1,
     "timelineIndexs": [
-      10,
-      11,
-      12,
-      13,
-      14
+      0
     ],
+    "BindType": 0,
+    "MonsterSn": [],
     "animalModels": [
-      "kamoshida_student",
-      "kamoshida_student_2",
-      "kamoshida_student_3",
-      "kamoshida_student_4",
-      "kamoshida_throne"
+      "����\u0018�k�-�ק�F���bu���^�������\u0018�k�-�ק���jj",
+      "�'Z��nu����\u001a��!�ֿ�\u001a�"
     ],
     "bSameAni": 0,
     "animalDirect": [
-      18.82,
-      0,
-      -18.07,
-      0,
       0
     ],
     "animalPos": "2.51,0,0.314|-1.67,0,0.88|-2.492,0,0.473|1.679,0,0.681|0,0,-0.2",
@@ -29,8 +20,10 @@
   {
     "sn": 2,
     "timelineIndexs": [],
+    "BindType": 0,
+    "MonsterSn": [],
     "animalModels": [
-      "kamoshida_crown"
+      "����\u0018�k�+�\t"
     ],
     "bSameAni": 0,
     "animalDirect": [],
@@ -40,12 +33,14 @@
   {
     "sn": 3,
     "timelineIndexs": [],
+    "BindType": 0,
+    "MonsterSn": [],
     "animalModels": [
-      "sc_door_scdamen"
+      "��ݢ����Z��"
     ],
     "bSameAni": 0,
     "animalDirect": [
-      -167.8229
+      0
     ],
     "animalPos": "-8.9,3.2,-44.8",
     "hangPoint": ""
@@ -53,13 +48,13 @@
   {
     "sn": 4,
     "timelineIndexs": [],
+    "BindType": 0,
+    "MonsterSn": [],
     "animalModels": [
-      "sd_MuNei_ouenn2_left",
-      "sd_MuNei_ouenn2_right"
+      "��̸ע����}������̸ע����}��(!"
     ],
     "bSameAni": 1,
     "animalDirect": [
-      0,
       0
     ],
     "animalPos": "0.789,0,-0.641|-0.789,0,-0.641",
@@ -68,16 +63,55 @@
   {
     "sn": 5,
     "timelineIndexs": [],
+    "BindType": 0,
+    "MonsterSn": [],
     "animalModels": [
-      "sd_MuNei_ouenn1_left",
-      "sd_MuNei_ouenn1_right"
+      "��̸ע����}�����̸ע����}�(!"
     ],
     "bSameAni": 1,
     "animalDirect": [
-      0,
       0
     ],
     "animalPos": "0.789,0,-0.641|-0.789,0,-0.641",
     "hangPoint": ""
+  },
+  {
+    "sn": 6,
+    "timelineIndexs": [],
+    "BindType": 1,
+    "MonsterSn": [
+      0
+    ],
+    "animalModels": [],
+    "bSameAni": 0,
+    "animalDirect": [],
+    "animalPos": "",
+    "hangPoint": "root_crown"
+  },
+  {
+    "sn": 7,
+    "timelineIndexs": [],
+    "BindType": 1,
+    "MonsterSn": [
+      0
+    ],
+    "animalModels": [],
+    "bSameAni": 0,
+    "animalDirect": [],
+    "animalPos": "",
+    "hangPoint": "root_crown"
+  },
+  {
+    "sn": 8,
+    "timelineIndexs": [],
+    "BindType": 1,
+    "MonsterSn": [
+      0
+    ],
+    "animalModels": [],
+    "bSameAni": 0,
+    "animalDirect": [],
+    "animalPos": "",
+    "hangPoint": "root_crown"
   }
 ]

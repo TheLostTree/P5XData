@@ -1,57 +1,42 @@
 [
   {
-    "sn": 1,
-    "reformMoney": [
-      1000,
-      2000,
-      3000,
-      4000
-    ],
-    "strenExp": 50,
-    "strenMoney": 75
-  },
-  {
     "sn": 2,
     "reformMoney": [
-      1000,
-      2000,
-      3000,
-      4000
+      0
     ],
-    "strenExp": 200,
-    "strenMoney": 300
+    "strenExp": 50,
+    "universalItem": 0
   },
   {
     "sn": 3,
     "reformMoney": [
-      1000,
-      2000,
-      3000,
-      4000
+      0
     ],
-    "strenExp": 500,
-    "strenMoney": 750
+    "strenExp": 50,
+    "universalItem": 0
   },
   {
     "sn": 4,
     "reformMoney": [
-      1000,
-      2000,
-      3000,
-      4000
+      0
     ],
-    "strenExp": 1000,
-    "strenMoney": 1500
+    "strenExp": 100,
+    "universalItem": 0
   },
   {
     "sn": 5,
     "reformMoney": [
-      1000,
-      2000,
-      3000,
-      4000
+      0
     ],
-    "strenExp": 5000,
-    "strenMoney": 7500
+    "strenExp": 500,
+    "universalItem": 302909
+  },
+  {
+    "sn": 6,
+    "reformMoney": [
+      0
+    ],
+    "strenExp": 2000,
+    "universalItem": 302910
   }
 ]

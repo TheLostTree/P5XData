@@ -1,0 +1,62 @@
+[
+  {
+    "sn": "UI_GetItemTipView",
+    "queueType": 0,
+    "overlap": 1
+  },
+  {
+    "sn": "UI_GetItemAutoTipView",
+    "queueType": 0,
+    "overlap": 1
+  },
+  {
+    "sn": "UI_MissionAccept",
+    "queueType": 0,
+    "overlap": 0
+  },
+  {
+    "sn": "UI_MissionSubmit",
+    "queueType": 0,
+    "overlap": 0
+  },
+  {
+    "sn": "UI_HeroLevelUp",
+    "queueType": 0,
+    "overlap": 1
+  },
+  {
+    "sn": "UI_AchievementTip",
+    "queueType": 0,
+    "overlap": 0
+  },
+  {
+    "sn": "UI_TutorialsEnter",
+    "queueType": 0,
+    "overlap": 0
+  },
+  {
+    "sn": "UI_RogueliteItemChoose",
+    "queueType": 3,
+    "overlap": 0
+  },
+  {
+    "sn": "UI_RogueliteBuffChoose",
+    "queueType": 3,
+    "overlap": 0
+  },
+  {
+    "sn": "UI_RogueliteItemDetail",
+    "queueType": 3,
+    "overlap": 1
+  },
+  {
+    "sn": "UI_RogueliteSuitDetail",
+    "queueType": 3,
+    "overlap": 1
+  },
+  {
+    "sn": "UI_RogueliteBuffDetail",
+    "queueType": 3,
+    "overlap": 1
+  }
+]

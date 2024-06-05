@@ -1,0 +1,35 @@
+[
+  {
+    "sn": 1,
+    "name": "普通款",
+    "icon": "",
+    "nameTxtColor": "",
+    "effect": "game_Gashapon_sence_common_up.prefab",
+    "effect2": "game_Gashapon_sence_common.prefab",
+    "BALL_MODEL": [
+      "\u0019�!j�'�����7�&�r\u001b�j�Z���m�e�N?ɩ܆ᚲ\u0016���jYӟ�jw!�f���h��ږ_������n"
+    ]
+  },
+  {
+    "sn": 2,
+    "name": "限定款",
+    "icon": "niudanji-tujian-SP2-i18n.png",
+    "nameTxtColor": "#f1b500",
+    "effect": "game_Gashapon_sence_exclusive_up.prefab",
+    "effect2": "game_Gashapon_sence_exclusive.prefab",
+    "BALL_MODEL": [
+      "\u0019�!j�'�����5�&�r\u001b�j�Z���m�e�N�ɩ܆"
+    ]
+  },
+  {
+    "sn": 3,
+    "name": "隐藏款",
+    "icon": "niudanji-tujian-SP1-i18n.png",
+    "nameTxtColor": "#ff0000",
+    "effect": "game_Gashapon_sence_hidden_up.prefab",
+    "effect2": "game_Gashapon_sence_hidden.prefab",
+    "BALL_MODEL": [
+      "\u0019�!j�'�����:�&�r\u001b"
+    ]
+  }
+]

@@ -3,10 +3,11 @@
     "sn": 100,
     "name": "棒球场大门",
     "palaceWorldSn": [
-      1107
+      0
     ],
     "icon": "yishijie-icon-chukou-bai-new.png",
     "pic": "tansuodu-pics-01-new.png",
+    "isEntrance": 1,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
@@ -15,46 +16,28 @@
     "sn": 101,
     "name": "展览馆",
     "palaceWorldSn": [
-      1101,
-      1102,
-      1103,
-      1104,
-      1106
+      0
     ],
     "icon": "",
     "pic": "tansuodu-pics-01-new.png",
+    "isEntrance": 0,
     "floorName": [
-      "展览馆1层",
-      "展览馆2层"
+      "SPT�"
     ],
     "floorTeleportPoint": [
-      8301000,
-      8304000
+      0
     ],
     "miniScale": 1
   },
   {
     "sn": 102,
-    "name": "一垒大楼",
+    "name": "训练馆",
     "palaceWorldSn": [
-      1120,
-      1121,
-      1122
+      0
     ],
     "icon": "",
     "pic": "tansuodu-pics-02-new.png",
-    "floorName": [],
-    "floorTeleportPoint": [],
-    "miniScale": 0
-  },
-  {
-    "sn": 103,
-    "name": "二垒大楼",
-    "palaceWorldSn": [
-      1114
-    ],
-    "icon": "",
-    "pic": "tansuodu-pics-03-new.png",
+    "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
@@ -63,35 +46,28 @@
     "sn": 104,
     "name": "俱乐部",
     "palaceWorldSn": [
-      1109,
-      1110,
-      1111,
-      1112,
-      1113
+      0
     ],
     "icon": "",
     "pic": "tansuodu-pics-03-new.png",
+    "isEntrance": 0,
     "floorName": [
-      "俱乐部1层",
-      "俱乐部2层",
-      "俱乐部3层"
+      "?PO�\u0013�"
     ],
     "floorTeleportPoint": [
-      8331000,
-      8336000,
-      8341000
+      0
     ],
     "miniScale": 0
   },
   {
     "sn": 105,
-    "name": "棒球场天台",
+    "name": "天台南段",
     "palaceWorldSn": [
-      1115,
-      1118
+      0
     ],
     "icon": "",
     "pic": "tansuodu-pics-01-new.png",
+    "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
@@ -100,106 +76,167 @@
     "sn": 106,
     "name": "中心球场",
     "palaceWorldSn": [
-      1119
+      0
     ],
     "icon": "",
     "pic": "tansuodu-pics-01-new.png",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 107,
+    "name": "天台北段",
+    "palaceWorldSn": [
+      0
+    ],
+    "icon": "",
+    "pic": "tansuodu-pics-01-new.png",
+    "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
   },
   {
     "sn": 200,
-    "name": "宫殿入口",
+    "name": "城外树林",
     "palaceWorldSn": [
-      1201
+      0
     ],
     "icon": "",
     "pic": "",
+    "isEntrance": 1,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
   },
   {
-    "sn": 992,
-    "name": "TL临时测试场景",
+    "sn": 201,
+    "name": "宫殿大门",
     "palaceWorldSn": [
-      9992
+      0
     ],
     "icon": "",
     "pic": "",
+    "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
   },
   {
-    "sn": 994,
-    "name": "思想剥夺之路",
+    "sn": 202,
+    "name": "摄影棚",
     "palaceWorldSn": [
-      9994
+      0
     ],
     "icon": "",
     "pic": "",
+    "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
   },
   {
-    "sn": 995,
-    "name": "山城测试3",
+    "sn": 210,
+    "name": "三之丸",
     "palaceWorldSn": [
-      9995
+      0
     ],
     "icon": "",
     "pic": "",
+    "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
   },
   {
-    "sn": 996,
-    "name": "山城测试2",
+    "sn": 220,
+    "name": "二之丸",
     "palaceWorldSn": [
-      9996
+      0
     ],
     "icon": "",
     "pic": "",
+    "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
   },
   {
-    "sn": 997,
-    "name": "山城测试1",
+    "sn": 221,
+    "name": "本丸",
     "palaceWorldSn": [
-      9997
+      0
     ],
     "icon": "",
     "pic": "",
+    "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
   },
   {
-    "sn": 998,
-    "name": "1号测试场景",
+    "sn": 222,
+    "name": "天守阁底层",
     "palaceWorldSn": [
-      9998
+      0
     ],
     "icon": "",
     "pic": "",
+    "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0
   },
   {
-    "sn": 999,
-    "name": "1号测试场景",
+    "sn": 223,
+    "name": "天守阁中层",
     "palaceWorldSn": [
-      9999
+      0
     ],
     "icon": "",
     "pic": "",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 224,
+    "name": "天守阁顶层",
+    "palaceWorldSn": [
+      0
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 225,
+    "name": "西侧屋外",
+    "palaceWorldSn": [
+      0
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0
+  },
+  {
+    "sn": 226,
+    "name": "东侧屋外",
+    "palaceWorldSn": [
+      0
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
     "miniScale": 0

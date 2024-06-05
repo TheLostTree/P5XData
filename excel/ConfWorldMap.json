@@ -8,21 +8,27 @@
     "unlockType": 2,
     "Open": 1,
     "unlockParam": 10281,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "sixuanchawu",
-    "icon": "wp-sixuanchawu.png",
+    "icon": "dushi-ditiezhan-sixuanchawu-new.png",
     "sceneSn": 10,
     "transferPoint": [],
     "tipsStr": 1014001,
     "unlockTips": 1014301,
     "line": 4,
     "stationNpc": [
-      10102
+      0
     ],
     "boardNpc": [
-      10024
+      0
     ],
-    "stationDesc": "不但作为住宅区很受欢迎，而且被称为三角地带的小巷也因餐厅而热闹非凡。"
+    "stationDesc": "不但作为住宅区很受欢迎，而且被称为三角地带的小巷也因餐厅而热闹非凡。",
+    "iconSchedulePos": [
+      0
+    ],
+    "iconScheduleRot": [
+      0
+    ]
   },
   {
     "sn": 2,
@@ -35,24 +41,25 @@
     "unlockParam": 10075,
     "UseAnim": 0,
     "button": "segu",
-    "icon": "wp-shegu.png",
+    "icon": "dushi-ditiezhan-segu02-new.png",
     "sceneSn": 2102,
     "transferPoint": [],
     "tipsStr": 1014002,
     "unlockTips": 1014302,
     "line": 12,
     "stationNpc": [
-      2102016,
-      2102017,
-      2102018,
-      2102025
+      0
     ],
     "boardNpc": [
-      2102102,
-      2102103,
-      29019
+      0
     ],
-    "stationDesc": "有名的年轻人街道，各种各样的商店鳞次栉比。处于交通要道，可以在此换乘多条路线。"
+    "stationDesc": "有名的年轻人街道，各种各样的商店鳞次栉比。处于交通要道，可以在此换乘多条路线。",
+    "iconSchedulePos": [
+      0
+    ],
+    "iconScheduleRot": [
+      0
+    ]
   },
   {
     "sn": 5,
@@ -60,22 +67,30 @@
     "lockShow": 1,
     "type": 1,
     "params": [],
-    "unlockType": 1,
-    "Open": 0,
-    "unlockParam": 99,
+    "unlockType": 2,
+    "Open": 1,
+    "unlockParam": 11300,
     "UseAnim": 1,
     "button": "xinsu",
-    "icon": "wp-xinsu.png",
+    "icon": "dushi-ditiezhan-xinsu-new.png",
     "sceneSn": 50,
     "transferPoint": [],
     "tipsStr": 1014005,
     "unlockTips": 1014305,
     "line": 11,
-    "stationNpc": [],
-    "boardNpc": [
-      50027
+    "stationNpc": [
+      0
     ],
-    "stationDesc": "作为东京副都心的繁华闹区。\n娱乐街中各种店家林立，夜里变身为成人的街道。"
+    "boardNpc": [
+      0
+    ],
+    "stationDesc": "作为东京副都心的繁华闹区。\n娱乐街中各种店家林立，夜里变身为成人的街道。",
+    "iconSchedulePos": [
+      0
+    ],
+    "iconScheduleRot": [
+      0
+    ]
   },
   {
     "sn": 6,
@@ -83,14 +98,14 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "TL_shenbaoting_gushudian"
+      "L����j�b�\u000f��nv&�"
     ],
     "unlockType": 1,
     "Open": 1,
     "unlockParam": 20,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "shenbaoting",
-    "icon": "wp-shenbaoting.png",
+    "icon": "dushi-ditiezhan-shenbaoting-new.png",
     "sceneSn": 152,
     "transferPoint": [],
     "tipsStr": 1014006,
@@ -98,7 +113,9 @@
     "line": 6,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "有名的古书店街，各种书店林立。最近因为咖喱而被更多人所知。"
+    "stationDesc": "有名的古书店街，各种书店林立。最近因为咖喱而被更多人所知。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 7,
@@ -109,9 +126,9 @@
     "unlockType": 1,
     "Open": 0,
     "unlockParam": 99,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "chiban",
-    "icon": "wp-chiban.png",
+    "icon": "dushi-ditiezhan-chibanjianfu-new.png",
     "sceneSn": 0,
     "transferPoint": [],
     "tipsStr": 1014007,
@@ -119,7 +136,9 @@
     "line": 7,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "『见附』是城堡的城郭之意。车站周围有许多电视台。"
+    "stationDesc": "『见附』是城堡的城郭之意。车站周围有许多电视台。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 9,
@@ -127,15 +146,14 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "TL_jingzhitou_gongyuan",
-      "TL_jingzhitou_gongyuan2"
+      "L��x3�+h��(�\f�jt��8��8b��������"
     ],
     "unlockType": 3,
     "Open": 1,
-    "unlockParam": 306414,
-    "UseAnim": 1,
+    "unlockParam": 306422,
+    "UseAnim": 0,
     "button": "gongyuan",
-    "icon": "wp-gongyuan.png",
+    "icon": "dushi-ditiezhan-jingtougongyuan-new.png",
     "sceneSn": 90,
     "transferPoint": [],
     "tipsStr": 1014009,
@@ -143,7 +161,9 @@
     "line": 2,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "人气街区『吉祥寺』的标志，充满自然气息的公园。"
+    "stationDesc": "人气街区『吉祥寺』的标志，充满自然气息的公园。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 11,
@@ -151,14 +171,14 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "TL_chidai_xingkongguan"
+      "L�܆'Z��b�\t(�\b.j"
     ],
     "unlockType": 3,
     "Open": 1,
-    "unlockParam": 306418,
-    "UseAnim": 1,
+    "unlockParam": 306425,
+    "UseAnim": 0,
     "button": "chidai",
-    "icon": "wp-chidai.png",
+    "icon": "dushi-ditiezhan-chidai-new.png",
     "sceneSn": 153,
     "transferPoint": [],
     "tipsStr": 1014011,
@@ -166,7 +186,9 @@
     "line": 12,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "与涩谷和新宿齐名的巨大街区。有众多以车站为中心的百货店和餐厅。"
+    "stationDesc": "与涩谷和新宿齐名的巨大街区。有众多以车站为中心的百货店和餐厅。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 12,
@@ -174,14 +196,14 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "TL_shangye_meishuguan"
+      "L�셩����z+!�\u000b�"
     ],
     "unlockType": 3,
     "Open": 1,
-    "unlockParam": 306420,
-    "UseAnim": 1,
+    "unlockParam": 306424,
+    "UseAnim": 0,
     "button": "shangye",
-    "icon": "wp-shangye.png",
+    "icon": "dushi-ditiezhan-shanguye-new.png",
     "sceneSn": 154,
     "transferPoint": [],
     "tipsStr": 1014012,
@@ -189,7 +211,9 @@
     "line": 12,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "一座以活力著称并以商店街为首的多元化街区。美术馆等文化设施也坐落于此。"
+    "stationDesc": "一座以活力著称并以商店街为首的多元化街区。美术馆等文化设施也坐落于此。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 13,
@@ -202,7 +226,7 @@
     "unlockParam": 99,
     "UseAnim": 1,
     "button": "qiuyeyuan",
-    "icon": "wp-qiuyeyuan.png",
+    "icon": "dushi-ditiezhan-qiuyeyuan-new.png",
     "sceneSn": 400,
     "transferPoint": [],
     "tipsStr": 1014013,
@@ -210,9 +234,15 @@
     "line": 11,
     "stationNpc": [],
     "boardNpc": [
-      400001
+      0
     ],
-    "stationDesc": "除了拥有工具到家电的电器街面貌，女仆咖啡店等次文化也在这里发扬光大。"
+    "stationDesc": "除了拥有工具到家电的电器街面貌，女仆咖啡店等次文化也在这里发扬光大。",
+    "iconSchedulePos": [
+      0
+    ],
+    "iconScheduleRot": [
+      0
+    ]
   },
   {
     "sn": 14,
@@ -220,14 +250,14 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "TL_shuidaoqiao_youlechang"
+      "L���j��j���^r\u0016�"
     ],
     "unlockType": 1,
-    "Open": 0,
-    "unlockParam": 99,
-    "UseAnim": 1,
+    "Open": 1,
+    "unlockParam": 20,
+    "UseAnim": 0,
     "button": "shuidaoqiao",
-    "icon": "wp-shuidaoqiao.png",
+    "icon": "dushi-ditiezhan-shuidaoqiao-new.png",
     "sceneSn": 156,
     "transferPoint": [],
     "tipsStr": 1014014,
@@ -235,7 +265,9 @@
     "line": 11,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "除了全天候型的体育场外，还有丰富娱乐设施的街区。有浓重的学生街气息。"
+    "stationDesc": "除了全天候型的体育场外，还有丰富娱乐设施的街区。有浓重的学生街气息。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 15,
@@ -243,15 +275,14 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "TL_qiancao_tiankongta",
-      "TL_qiancao_tiankongta2"
+      "L�ꉩ�j�퉩�x-i2��&�q�?�&���൭"
     ],
     "unlockType": 3,
     "Open": 1,
-    "unlockParam": 306416,
-    "UseAnim": 1,
+    "unlockParam": 306423,
+    "UseAnim": 0,
     "button": "qiancao",
-    "icon": "wp-qiancao.png",
+    "icon": "dushi-ditiezhan-qiancao-new.png",
     "sceneSn": 151,
     "transferPoint": [],
     "tipsStr": 1014015,
@@ -259,7 +290,9 @@
     "line": 7,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "有着众多人气名声的小镇。有以雷门闻名的浅草寺与日本最高的建筑物晴空塔。"
+    "stationDesc": "有着众多人气名声的小镇。有以雷门闻名的浅草寺与日本最高的建筑物晴空塔。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 16,
@@ -267,15 +300,14 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "TL_shentian_jiaohui",
-      "TL_shentian_jiaohui2"
+      "L���퉩��&���/�!z{bj㉪!�-"
     ],
     "unlockType": 2,
     "Open": 1,
     "unlockParam": 11085,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "shentian",
-    "icon": "wp-shentian.png",
+    "icon": "dushi-ditiezhan-shentian-new.png",
     "sceneSn": 155,
     "transferPoint": [],
     "tipsStr": 1014016,
@@ -283,20 +315,22 @@
     "line": 12,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "留存着古旧街道景观的历史古街。存在许多有名的神社和教会。"
+    "stationDesc": "留存着古旧街道景观的历史古街。存在许多有名的神社和教会。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 17,
-    "city": "埋浜",
+    "city": "埋滨",
     "lockShow": 1,
     "type": 2,
     "params": [],
     "unlockType": 1,
     "Open": 0,
     "unlockParam": 99,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "maipang",
-    "icon": "wp-maipang.png",
+    "icon": "dushi-ditiezhan-wubang-new.png",
     "sceneSn": 0,
     "transferPoint": [],
     "tipsStr": 1014017,
@@ -304,7 +338,9 @@
     "line": 5,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "毗邻东京有名的游乐地区。戴斯德尼乐园是大家憧憬的地方。"
+    "stationDesc": "毗邻东京有名的游乐地区。戴斯德尼乐园是大家憧憬的地方。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 18,
@@ -315,9 +351,9 @@
     "unlockType": 1,
     "Open": 0,
     "unlockParam": 99,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "yinzuo",
-    "icon": "wp-yinzuo.png",
+    "icon": "dushi-ditiezhan-yinzuo-new.png",
     "sceneSn": 0,
     "transferPoint": [],
     "tipsStr": 1014018,
@@ -325,7 +361,9 @@
     "line": 7,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "以高级店铺林立而闻名的繁华街区。也是日本地价最高的地区。"
+    "stationDesc": "以高级店铺林立而闻名的繁华街区。也是日本地价最高的地区。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 19,
@@ -333,14 +371,14 @@
     "lockShow": 1,
     "type": 2,
     "params": [
-      "TL_yuedao_wenzishao"
+      "L���Z��\u001e�8���"
     ],
     "unlockType": 1,
-    "Open": 0,
-    "unlockParam": 99,
-    "UseAnim": 1,
+    "Open": 1,
+    "unlockParam": 20,
+    "UseAnim": 0,
     "button": "yuedao",
-    "icon": "wp-yuedao.png",
+    "icon": "dushi-ditiezhan-yuedao-new.png",
     "sceneSn": 0,
     "transferPoint": [],
     "tipsStr": 1014019,
@@ -348,23 +386,24 @@
     "line": 3,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "名称来自于著名的赏月景点月之岬。有很多人气的餐饮店铺坐落在此。"
+    "stationDesc": "名称来自于著名的赏月景点月之岬。有很多人气的餐饮店铺坐落在此。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 20,
-    "city": "海滨公园",
+    "city": "台场海滨公园",
     "lockShow": 1,
     "type": 3,
     "params": [
-      "TL_taichang_motianlun1",
-      "TL_taichang_motianlun2"
+      "L��j'!jx?��bjyn�T��֢r\u0016�����&����"
     ],
     "unlockType": 1,
     "Open": 1,
     "unlockParam": 30,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "haibingongyuan",
-    "icon": "wp-haibingongyuan.png",
+    "icon": "dushi-ditiezhan-taichanghaibingongyuan-new.png",
     "sceneSn": 200,
     "transferPoint": [],
     "tipsStr": 1014020,
@@ -372,7 +411,9 @@
     "line": 8,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "临海的观光景点。作为新交通系统沿线的站点也很有名。"
+    "stationDesc": "临海的观光景点。作为新交通系统沿线的站点也很有名。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 21,
@@ -383,9 +424,9 @@
     "unlockType": 1,
     "Open": 0,
     "unlockParam": 99,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "sanpuhaian",
-    "icon": "wp-sanpuhaian.png",
+    "icon": "dushi-ditiezhan-sanpuhaian-new.png",
     "sceneSn": 0,
     "transferPoint": [],
     "tipsStr": 1014021,
@@ -393,7 +434,9 @@
     "line": 9,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "都内出发到海水浴场一日游的不二之选。夏日观光客可达数百万人。"
+    "stationDesc": "都内出发到海水浴场一日游的不二之选。夏日观光客可达数百万人。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 22,
@@ -404,9 +447,9 @@
     "unlockType": 1,
     "Open": 0,
     "unlockParam": 99,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "zhonghuajie",
-    "icon": "wp-zhonghuajie.png",
+    "icon": "dushi-ditiezhan-yuantingzhonghuajie-new.png",
     "sceneSn": 0,
     "transferPoint": [],
     "tipsStr": 1014022,
@@ -414,7 +457,9 @@
     "line": 10,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "日本最大的中华街。是一条充满中华料理点的美食街。"
+    "stationDesc": "日本最大的中华街。是一条充满中华料理点的美食街。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 23,
@@ -422,14 +467,14 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "TL_yuansu_zhuzhizi"
+      "L�����8b�"
     ],
     "unlockType": 1,
     "Open": 1,
     "unlockParam": 20,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "yuansu",
-    "icon": "wp-yuansu.png",
+    "icon": "dushi-ditiezhan-yuansu-new.png",
     "sceneSn": 157,
     "transferPoint": [],
     "tipsStr": 1014023,
@@ -437,7 +482,9 @@
     "line": 12,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "不但是时尚的中心，而且也是非常有名的饮食流行发源地。"
+    "stationDesc": "不但是时尚的中心，而且也是非常有名的饮食流行发源地。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 24,
@@ -445,14 +492,14 @@
     "lockShow": 1,
     "type": 3,
     "params": [
-      "TL_diwa_lamiandian"
+      "L�݋\u0006����jwbj"
     ],
     "unlockType": 1,
     "Open": 1,
     "unlockParam": 20,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "diwa",
-    "icon": "wp-diwa.png",
+    "icon": "dushi-ditiezhan-diwa-new.png",
     "sceneSn": 158,
     "transferPoint": [],
     "tipsStr": 1014024,
@@ -460,7 +507,9 @@
     "line": 11,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "恬静且十分便利的人气住宅街。车站周围分散着许多家有名的拉面店。"
+    "stationDesc": "恬静且十分便利的人气住宅街。车站周围分散着许多家有名的拉面店。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 25,
@@ -471,19 +520,21 @@
     "unlockType": 2,
     "Open": 1,
     "unlockParam": 11091,
-    "UseAnim": 1,
+    "UseAnim": 0,
     "button": "shigu",
-    "icon": "wp-shigu.png",
+    "icon": "dushi-ditiezhan-shigu-new.png",
     "sceneSn": 250,
     "transferPoint": [
-      250000
+      0
     ],
     "tipsStr": 1014025,
     "unlockTips": 1014325,
     "line": 11,
     "stationNpc": [],
     "boardNpc": [],
-    "stationDesc": "江户城外渠令人印象深刻的街道。可以在都会正中心体验钓鱼。"
+    "stationDesc": "江户城外渠令人印象深刻的街道。可以在都会正中心体验钓鱼。",
+    "iconSchedulePos": [],
+    "iconScheduleRot": []
   },
   {
     "sn": 26,
@@ -493,26 +544,28 @@
     "params": [],
     "unlockType": 2,
     "Open": 1,
-    "unlockParam": 10075,
+    "unlockParam": 10030,
     "UseAnim": 0,
     "button": "xiabeize",
-    "icon": "wp-xiabeize.png",
+    "icon": "dushi-ditiezhan-xiabeize-new.png",
     "sceneSn": 273,
     "transferPoint": [],
     "tipsStr": 1014026,
     "unlockTips": 1014326,
     "line": 2,
     "stationNpc": [
-      273002,
-      273003
+      0
     ],
     "boardNpc": [
-      273004,
-      271001,
-      272002,
-      999995001
+      0
     ],
-    "stationDesc": "很适合散步的街道。有『戏剧之城』的称号，是知名的『亚文化天堂』。\n历史悠久的己刮学园也坐落在此。"
+    "stationDesc": "很适合散步的街道。有『戏剧之城』的称号，是知名的『亚文化天堂』。\n历史悠久的己刮学园也坐落在此。",
+    "iconSchedulePos": [
+      0
+    ],
+    "iconScheduleRot": [
+      0
+    ]
   },
   {
     "sn": 27,
@@ -525,19 +578,25 @@
     "unlockParam": 10080,
     "UseAnim": 1,
     "button": "zasigu",
-    "icon": "wp-zasigu.png",
+    "icon": "dushi-ditiezhan-zasigu-new.png",
     "sceneSn": 281,
     "transferPoint": [],
     "tipsStr": 1014027,
     "unlockTips": 1014327,
     "line": 12,
     "stationNpc": [
-      280003
+      0
     ],
     "boardNpc": [
-      280005
+      0
     ],
-    "stationDesc": "寂静怀旧的东京街道。\n可远离日常的繁忙与都市的喧嚣。"
+    "stationDesc": "寂静怀旧的东京街道。\n可远离日常的繁忙与都市的喧嚣。",
+    "iconSchedulePos": [
+      0
+    ],
+    "iconScheduleRot": [
+      0
+    ]
   },
   {
     "sn": 28,
@@ -550,7 +609,7 @@
     "unlockParam": 99,
     "UseAnim": 1,
     "button": "jixiangsi",
-    "icon": "wp-jixiangsi.png",
+    "icon": "dushi-ditiezhan-jixiangsi-new.png",
     "sceneSn": 300,
     "transferPoint": [],
     "tipsStr": 1014028,
@@ -558,8 +617,14 @@
     "line": 2,
     "stationNpc": [],
     "boardNpc": [
-      300001
+      0
     ],
-    "stationDesc": "这是个街道多姿多彩、并列着形形色色店家的街区。不论男女老少都喜爱这里。"
+    "stationDesc": "这是个街道多姿多彩、并列着形形色色店家的街区。不论男女老少都喜爱这里。",
+    "iconSchedulePos": [
+      0
+    ],
+    "iconScheduleRot": [
+      0
+    ]
   }
 ]

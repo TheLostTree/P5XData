@@ -1,0 +1,182 @@
+[
+  {
+    "sn": 1,
+    "instArr": 1,
+    "instArrBefore": -1,
+    "chessboardSn": 30001,
+    "name": 1,
+    "SceneSn": 30001,
+    "tutorialsChainSn": 1500,
+    "tutorialsChainPermanentSn": 1500,
+    "stepMax": 20,
+    "chessMissionSn": [
+      0
+    ],
+    "chesstipsSn": 1,
+    "chessViewerSn": 1,
+    "enterShowTL": "",
+    "enterStory": 120002
+  },
+  {
+    "sn": 2,
+    "instArr": 2,
+    "instArrBefore": 1,
+    "chessboardSn": 30002,
+    "name": 2,
+    "SceneSn": 30001,
+    "tutorialsChainSn": 1510,
+    "tutorialsChainPermanentSn": 1515,
+    "stepMax": 30,
+    "chessMissionSn": [
+      0
+    ],
+    "chesstipsSn": 1,
+    "chessViewerSn": 1,
+    "enterShowTL": "",
+    "enterStory": 0
+  },
+  {
+    "sn": 3,
+    "instArr": 3,
+    "instArrBefore": 2,
+    "chessboardSn": 30003,
+    "name": 3,
+    "SceneSn": 30001,
+    "tutorialsChainSn": 1525,
+    "tutorialsChainPermanentSn": 1530,
+    "stepMax": 30,
+    "chessMissionSn": [
+      0
+    ],
+    "chesstipsSn": 1,
+    "chessViewerSn": 1,
+    "enterShowTL": "",
+    "enterStory": 0
+  },
+  {
+    "sn": 4,
+    "instArr": 4,
+    "instArrBefore": 3,
+    "chessboardSn": 30004,
+    "name": 4,
+    "SceneSn": 30002,
+    "tutorialsChainSn": 0,
+    "tutorialsChainPermanentSn": 1530,
+    "stepMax": 50,
+    "chessMissionSn": [
+      0
+    ],
+    "chesstipsSn": 1,
+    "chessViewerSn": 1,
+    "enterShowTL": "",
+    "enterStory": 0
+  },
+  {
+    "sn": 5,
+    "instArr": 5,
+    "instArrBefore": 4,
+    "chessboardSn": 30005,
+    "name": 5,
+    "SceneSn": 30001,
+    "tutorialsChainSn": 1540,
+    "tutorialsChainPermanentSn": 1545,
+    "stepMax": 20,
+    "chessMissionSn": [
+      0
+    ],
+    "chesstipsSn": 1,
+    "chessViewerSn": 1,
+    "enterShowTL": "",
+    "enterStory": 0
+  },
+  {
+    "sn": 6,
+    "instArr": 6,
+    "instArrBefore": 5,
+    "chessboardSn": 30006,
+    "name": 6,
+    "SceneSn": 30001,
+    "tutorialsChainSn": 1560,
+    "tutorialsChainPermanentSn": 1565,
+    "stepMax": 20,
+    "chessMissionSn": [
+      0
+    ],
+    "chesstipsSn": 1,
+    "chessViewerSn": 1,
+    "enterShowTL": "",
+    "enterStory": 0
+  },
+  {
+    "sn": 7,
+    "instArr": 7,
+    "instArrBefore": 6,
+    "chessboardSn": 30007,
+    "name": 7,
+    "SceneSn": 30001,
+    "tutorialsChainSn": 1580,
+    "tutorialsChainPermanentSn": 1585,
+    "stepMax": 20,
+    "chessMissionSn": [
+      0
+    ],
+    "chesstipsSn": 1,
+    "chessViewerSn": 1,
+    "enterShowTL": "",
+    "enterStory": 0
+  },
+  {
+    "sn": 8,
+    "instArr": 8,
+    "instArrBefore": 7,
+    "chessboardSn": 30008,
+    "name": 8,
+    "SceneSn": 30001,
+    "tutorialsChainSn": 1600,
+    "tutorialsChainPermanentSn": 1601,
+    "stepMax": 30,
+    "chessMissionSn": [
+      0
+    ],
+    "chesstipsSn": 1,
+    "chessViewerSn": 1,
+    "enterShowTL": "",
+    "enterStory": 0
+  },
+  {
+    "sn": 9,
+    "instArr": 9,
+    "instArrBefore": 8,
+    "chessboardSn": 30009,
+    "name": 9,
+    "SceneSn": 30002,
+    "tutorialsChainSn": 1615,
+    "tutorialsChainPermanentSn": 1620,
+    "stepMax": 60,
+    "chessMissionSn": [
+      0
+    ],
+    "chesstipsSn": 1,
+    "chessViewerSn": 1,
+    "enterShowTL": "",
+    "enterStory": 0
+  },
+  {
+    "sn": 10,
+    "instArr": 10,
+    "instArrBefore": 9,
+    "chessboardSn": 30010,
+    "name": 10,
+    "SceneSn": 30002,
+    "tutorialsChainSn": 0,
+    "tutorialsChainPermanentSn": 1601,
+    "stepMax": 40,
+    "chessMissionSn": [
+      0
+    ],
+    "chesstipsSn": 1,
+    "chessViewerSn": 1,
+    "enterShowTL": "",
+    "enterStory": 0
+  }
+]

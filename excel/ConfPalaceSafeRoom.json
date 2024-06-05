@@ -1,501 +1,1366 @@
 [
   {
-    "sn": 5500001,
-    "roomName": "安全小屋",
-    "sceneSn": 5700,
-    "initUnlock": 1,
-    "unlockFunc": [
-      [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
-      ]
-    ]
-  },
-  {
-    "sn": 5500002,
-    "roomName": "安全小屋",
-    "sceneSn": 5701,
-    "initUnlock": 0,
-    "unlockFunc": [
-      [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
-      ]
-    ]
-  },
-  {
     "sn": 5502202,
-    "roomName": "安全小屋",
+    "roomName": "区域1安全屋",
+    "showType": 1,
     "sceneSn": 5701,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 18,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 5502209,
-    "roomName": "安全小屋",
+    "roomName": "区域1安全屋",
+    "showType": 1,
     "sceneSn": 5701,
+    "linkNpcSn": 5502225,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 18,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
-    "sn": 5502210,
-    "roomName": "安全小屋",
+    "sn": 5504003,
+    "roomName": "区域2安全屋",
+    "showType": 1,
     "sceneSn": 5701,
+    "linkNpcSn": 5504005,
     "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
-    "sn": 5502211,
-    "roomName": "安全小屋",
+    "sn": 5504004,
+    "roomName": "区域2安全屋",
+    "showType": 1,
     "sceneSn": 5701,
+    "linkNpcSn": 5504006,
     "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5505009,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5701,
+    "linkNpcSn": 5505013,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
       [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5505010,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5701,
+    "linkNpcSn": 5505014,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
       [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5505011,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5701,
+    "linkNpcSn": 5505015,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5505012,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5701,
+    "linkNpcSn": 5505016,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5506003,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5701,
+    "linkNpcSn": 5506008,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5506004,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5701,
+    "linkNpcSn": 5506009,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5506005,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5701,
+    "linkNpcSn": 5506010,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5506006,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5701,
+    "linkNpcSn": 5506007,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5506018,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5701,
+    "linkNpcSn": 5506019,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5510009,
+    "roomName": "区域1安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5510012,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5510010,
+    "roomName": "区域1安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5510014,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5510011,
+    "roomName": "区域1安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5510015,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5511003,
+    "roomName": "区域2安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5511006,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5511004,
+    "roomName": "区域2安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5511007,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5511005,
+    "roomName": "区域2安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5511008,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5512003,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5512005,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5512004,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5512006,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5512017,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5512018,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5513003,
+    "roomName": "区域4安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5513007,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5513004,
+    "roomName": "区域4安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5513008,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5513005,
+    "roomName": "区域4安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5513009,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5513006,
+    "roomName": "区域4安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5513010,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5514003,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5514007,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5514004,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5514008,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5514005,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5514009,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 5514006,
+    "roomName": "区域3安全屋",
+    "showType": 1,
+    "sceneSn": 5702,
+    "linkNpcSn": 5514010,
+    "initUnlock": 0,
+    "roomTimeline": "",
+    "teleportType": 18,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8301005,
     "roomName": "东侧展厅",
+    "showType": 1,
     "sceneSn": 8305,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8301006,
     "roomName": "中央展厅东门",
+    "showType": 1,
     "sceneSn": 8305,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8304001,
     "roomName": "打击训练场",
+    "showType": 1,
     "sceneSn": 8305,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8306001,
     "roomName": "中央展厅西门",
+    "showType": 1,
     "sceneSn": 8305,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8306014,
     "roomName": "西侧展厅",
+    "showType": 1,
     "sceneSn": 8305,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
-      ]
-    ]
-  },
-  {
-    "sn": 8307990,
-    "roomName": "安全小屋",
-    "sceneSn": 8305,
-    "initUnlock": 0,
-    "unlockFunc": [
-      [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
-      ]
-    ]
-  },
-  {
-    "sn": 8307991,
-    "roomName": "安全小屋",
-    "sceneSn": 8305,
-    "initUnlock": 0,
-    "unlockFunc": [
-      [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
-      ]
-    ]
-  },
-  {
-    "sn": 8307992,
-    "roomName": "安全小屋",
-    "sceneSn": 8305,
-    "initUnlock": 0,
-    "unlockFunc": [
-      [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8311001,
-    "roomName": "安全小屋",
-    "sceneSn": 8343,
+    "roomName": "门口",
+    "showType": 1,
+    "sceneSn": 8318,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8311002,
+    "roomName": "南侧办公区",
+    "showType": 1,
+    "sceneSn": 8318,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
       [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8312001,
+    "roomName": "北侧走廊",
+    "showType": 1,
+    "sceneSn": 8318,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
       [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8313001,
+    "roomName": "西侧走廊",
+    "showType": 1,
+    "sceneSn": 8318,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8313002,
+    "roomName": "西侧投球训练区",
+    "showType": 1,
+    "sceneSn": 8318,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8331101,
     "roomName": "俱乐部入口",
+    "showType": 1,
     "sceneSn": 8343,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8331102,
     "roomName": "俱乐部后台",
+    "showType": 1,
     "sceneSn": 8343,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8331103,
     "roomName": "俱乐部西侧",
+    "showType": 1,
     "sceneSn": 8343,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8331104,
     "roomName": "俱乐部东侧",
+    "showType": 1,
     "sceneSn": 8343,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8336101,
     "roomName": "贵宾区东侧",
+    "showType": 1,
     "sceneSn": 8343,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8336102,
     "roomName": "贵宾区西侧",
+    "showType": 1,
     "sceneSn": 8343,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8336103,
     "roomName": "大厅南侧",
+    "showType": 1,
     "sceneSn": 8343,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8336104,
     "roomName": "俱乐部南侧",
+    "showType": 1,
     "sceneSn": 8343,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8342101,
     "roomName": "上层贵宾区",
+    "showType": 1,
     "sceneSn": 8343,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
-      [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
-      [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   },
   {
     "sn": 8355001,
     "roomName": "中心球场",
+    "showType": 1,
     "sceneSn": 8305,
+    "linkNpcSn": 0,
     "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
     "unlockFunc": [
       [
-        "yishijie-anquanwu-zhenrongtiaozheng-new.png",
-        "调整阵容"
-      ],
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8410011,
+    "roomName": "区轮",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
       [
-        "yishijie-anquanwu-mianjupeiyang-new.png",
-        "面具培养"
-      ],
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8410012,
+    "roomName": "东侧耳室",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
       [
-        "yishijie-anquanwu-guaidaopeiyang-new.png",
-        "怪盗培养"
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8410013,
+    "roomName": "别院",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8410014,
+    "roomName": "西北区域",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8410015,
+    "roomName": "东南区域",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8410016,
+    "roomName": "西南区域",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8410017,
+    "roomName": "东北区域",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8410046,
+    "roomName": "东北区域",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8420010,
+    "roomName": "西北庭院",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8420011,
+    "roomName": "西侧庭院",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8420029,
+    "roomName": "南侧庭院",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8420030,
+    "roomName": "北侧庭院",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8420045,
+    "roomName": "南门入口",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8420046,
+    "roomName": "休憩所",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8420047,
+    "roomName": "粮仓",
+    "showType": 1,
+    "sceneSn": 8432,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8440006,
+    "roomName": "贮水居室",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8440023,
+    "roomName": "正殿后",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8440050,
+    "roomName": "西侧居室",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8440051,
+    "roomName": "西侧回廊",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8440052,
+    "roomName": "回廊前",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8440053,
+    "roomName": "休沐茶室",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8440054,
+    "roomName": "机关岔路前",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8440055,
+    "roomName": "机关岔路后",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8450002,
+    "roomName": "入口",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8450005,
+    "roomName": "东侧",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8450006,
+    "roomName": "中心",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8450007,
+    "roomName": "北侧",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8450008,
+    "roomName": "西侧",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8450009,
+    "roomName": "南侧",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8450010,
+    "roomName": "西南",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8460001,
+    "roomName": "西北",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8460002,
+    "roomName": "长廊",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8460003,
+    "roomName": "西侧",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8460004,
+    "roomName": "西南",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8460005,
+    "roomName": "西南长廊",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8460006,
+    "roomName": "回廊北侧",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8460007,
+    "roomName": "东南",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8460008,
+    "roomName": "东侧",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 8460009,
+    "roomName": "东北",
+    "showType": 1,
+    "sceneSn": 8431,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 41081022,
+    "roomName": "古堡·休息室",
+    "showType": 2,
+    "sceneSn": 41002,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
+      ]
+    ]
+  },
+  {
+    "sn": 41112004,
+    "roomName": "古堡·休息室",
+    "showType": 2,
+    "sceneSn": 41002,
+    "linkNpcSn": 0,
+    "initUnlock": 0,
+    "roomTimeline": "TL_man_leaveSafeHouse.prefab",
+    "teleportType": 10,
+    "unlockFunc": [
+      [
+        "�+!�8���깩���zz�\u000bbj��zx>��)�\u000by�+!�8���깩��jx��jx>��)�\u0006��+!�8���깩��.j'Z���ɩ��w��x"
       ]
     ]
   }

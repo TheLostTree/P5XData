@@ -2,216 +2,484 @@
   {
     "sn": 1,
     "rankLevel": 1,
-    "name": "D",
-    "pic": "tansuodu-icon-gongdianmibao-bangqiu.png",
+    "name": "1等星",
+    "pic": "Texture-xinzhihai-duanwei-01.png",
+    "smallPic": "icon-xinzhihaiduanwei-01.png",
+    "rankModel": "ter_heartoceon_ball_01.prefab",
     "challenges": [
-      101,
-      102,
-      103,
-      104
+      0
     ],
     "upgradeEvents": [
-      1102
+      0
     ],
-    "upgradeDesc": "累计通关2关",
-    "reward": 210732,
-    "awardShow": [
-      [
-        4,
-        2000,
-        2000
-      ],
-      [
-        1,
-        600,
-        600
-      ],
-      [
-        302407,
-        4,
-        5
-      ]
+    "relegationEvents": [
+      0
     ],
+    "upgradeDesc": "累计获得<color=#FFF000> 21 </color>颗星",
+    "rankShow": 0,
+    "firstReward": 0,
     "taskGroup": 1,
-    "starGroup": 1,
-    "isDemotion": 0,
-    "maxStar": 33
+    "rankGroup": 1,
+    "isDemotion": 0
   },
   {
     "sn": 2,
     "rankLevel": 2,
-    "name": "C",
-    "pic": "tansuodu-icon-anquanwu.png",
+    "name": "2等星",
+    "pic": "Texture-xinzhihai-duanwei-02.png",
+    "smallPic": "icon-xinzhihaiduanwei-02.png",
+    "rankModel": "ter_heartoceon_ball_02.prefab",
     "challenges": [
-      201,
-      202,
-      203,
-      204
+      0
     ],
     "upgradeEvents": [
-      1103
+      0
     ],
-    "upgradeDesc": "累计通关3关",
-    "reward": 210733,
-    "awardShow": [
-      [
-        4,
-        2000,
-        2000
-      ],
-      [
-        1,
-        800,
-        800
-      ],
-      [
-        302407,
-        5,
-        6
-      ]
+    "relegationEvents": [
+      0
     ],
+    "upgradeDesc": "累计获得<color=#FFF000> 27 </color>颗星",
+    "rankShow": 0,
+    "firstReward": 208202,
     "taskGroup": 2,
-    "starGroup": 2,
-    "isDemotion": 0,
-    "maxStar": 36
+    "rankGroup": 2,
+    "isDemotion": 0
   },
   {
     "sn": 3,
     "rankLevel": 3,
-    "name": "B",
-    "pic": "tansuodu-icon-hexinbaoxiang.png",
+    "name": "3等星",
+    "pic": "Texture-xinzhihai-duanwei-03.png",
+    "smallPic": "icon-xinzhihaiduanwei-03.png",
+    "rankModel": "ter_heartoceon_ball_03.prefab",
     "challenges": [
-      301,
-      302,
-      303,
-      304
+      0
     ],
     "upgradeEvents": [
-      1104
+      0
     ],
-    "upgradeDesc": "累计通关4关",
-    "reward": 210734,
-    "awardShow": [
-      [
-        4,
-        2000,
-        2000
-      ],
-      [
-        1,
-        1100,
-        1100
-      ],
-      [
-        302408,
-        1,
-        2
-      ],
-      [
-        302407,
-        4,
-        5
-      ]
+    "relegationEvents": [
+      0
     ],
+    "upgradeDesc": "总积分达到<color=#FFF000> 99999 </color>",
+    "rankShow": 0,
+    "firstReward": 208203,
     "taskGroup": 3,
-    "starGroup": 3,
-    "isDemotion": 0,
-    "maxStar": 39
+    "rankGroup": 3,
+    "isDemotion": 0
   },
   {
     "sn": 4,
     "rankLevel": 4,
-    "name": "A",
-    "pic": "tansuodu-icon-gaojibaoxiang.png",
+    "name": "4等星",
+    "pic": "Texture-xinzhihai-duanwei-04.png",
+    "smallPic": "icon-xinzhihaiduanwei-04.png",
+    "rankModel": "ter_heartoceon_ball_04.prefab",
     "challenges": [
-      401,
-      402,
-      403,
-      404
+      0
     ],
     "upgradeEvents": [
-      1201
+      0
     ],
-    "upgradeDesc": "累计获得10颗星",
-    "reward": 210735,
-    "awardShow": [
-      [
-        4,
-        2000,
-        2000
-      ],
-      [
-        1,
-        1400,
-        1400
-      ],
-      [
-        302409,
-        0,
-        1
-      ],
-      [
-        302408,
-        1,
-        2
-      ],
-      [
-        302407,
-        2,
-        3
-      ]
+    "relegationEvents": [
+      0
     ],
+    "upgradeDesc": "总积分达到<color=#FFF000> 100000 </color>",
+    "rankShow": 0,
+    "firstReward": 208204,
     "taskGroup": 4,
-    "starGroup": 4,
-    "isDemotion": 0,
-    "maxStar": 39
+    "rankGroup": 4,
+    "isDemotion": 0
   },
   {
     "sn": 5,
     "rankLevel": 5,
-    "name": "S",
-    "pic": "tansuodu-icon-zhongjibaoxiang.png",
+    "name": "5等星",
+    "pic": "Texture-xinzhihai-duanwei-05.png",
+    "smallPic": "icon-xinzhihaiduanwei-05.png",
+    "rankModel": "ter_heartoceon_ball_05.prefab",
     "challenges": [
-      501,
-      502,
-      503,
-      504
+      0
     ],
     "upgradeEvents": [
-      1202
+      0
     ],
-    "upgradeDesc": "累计获得20颗星",
-    "reward": 210736,
-    "awardShow": [
-      [
-        4,
-        2000,
-        2000
-      ],
-      [
-        1,
-        1700,
-        1700
-      ],
-      [
-        302409,
-        0,
-        1
-      ],
-      [
-        302408,
-        2,
-        3
-      ],
-      [
-        302407,
-        2,
-        3
-      ]
+    "relegationEvents": [
+      0
     ],
+    "upgradeDesc": "排名<color=#FFF000>前50%</color>",
+    "rankShow": 1,
+    "firstReward": 208205,
     "taskGroup": 5,
-    "starGroup": 5,
-    "isDemotion": 1,
-    "maxStar": 39
+    "rankGroup": 5,
+    "isDemotion": 0
+  },
+  {
+    "sn": 6,
+    "rankLevel": 6,
+    "name": "6等星",
+    "pic": "Texture-xinzhihai-duanwei-06.png",
+    "smallPic": "icon-xinzhihaiduanwei-06.png",
+    "rankModel": "ter_heartoceon_ball_06.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "排名<color=#FFF000>前30%</color>",
+    "rankShow": 1,
+    "firstReward": 208206,
+    "taskGroup": 6,
+    "rankGroup": 6,
+    "isDemotion": 1
+  },
+  {
+    "sn": 7,
+    "rankLevel": 7,
+    "name": "7等星",
+    "pic": "Texture-xinzhihai-duanwei-07.png",
+    "smallPic": "icon-xinzhihaiduanwei-07.png",
+    "rankModel": "ter_heartoceon_ball_07.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "排名<color=#FFF000>前10%</color>",
+    "rankShow": 1,
+    "firstReward": 208207,
+    "taskGroup": 7,
+    "rankGroup": 7,
+    "isDemotion": 1
+  },
+  {
+    "sn": 8,
+    "rankLevel": 1,
+    "name": "1等星",
+    "pic": "Texture-xinzhihai-duanwei-01.png",
+    "smallPic": "icon-xinzhihaiduanwei-01.png",
+    "rankModel": "ter_heartoceon_ball_01.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "累计获得<color=#FFF000> 21 </color>颗星",
+    "rankShow": 0,
+    "firstReward": 0,
+    "taskGroup": 1,
+    "rankGroup": 1,
+    "isDemotion": 0
+  },
+  {
+    "sn": 9,
+    "rankLevel": 2,
+    "name": "2等星",
+    "pic": "Texture-xinzhihai-duanwei-02.png",
+    "smallPic": "icon-xinzhihaiduanwei-02.png",
+    "rankModel": "ter_heartoceon_ball_02.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "累计获得<color=#FFF000> 27 </color>颗星",
+    "rankShow": 0,
+    "firstReward": 208202,
+    "taskGroup": 2,
+    "rankGroup": 2,
+    "isDemotion": 0
+  },
+  {
+    "sn": 10,
+    "rankLevel": 3,
+    "name": "3等星",
+    "pic": "Texture-xinzhihai-duanwei-03.png",
+    "smallPic": "icon-xinzhihaiduanwei-03.png",
+    "rankModel": "ter_heartoceon_ball_03.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "总积分达到<color=#FFF000> 99999 </color>",
+    "rankShow": 0,
+    "firstReward": 208203,
+    "taskGroup": 3,
+    "rankGroup": 3,
+    "isDemotion": 0
+  },
+  {
+    "sn": 11,
+    "rankLevel": 4,
+    "name": "4等星",
+    "pic": "Texture-xinzhihai-duanwei-04.png",
+    "smallPic": "icon-xinzhihaiduanwei-04.png",
+    "rankModel": "ter_heartoceon_ball_04.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "总积分达到<color=#FFF000> 100000 </color>",
+    "rankShow": 0,
+    "firstReward": 208204,
+    "taskGroup": 4,
+    "rankGroup": 4,
+    "isDemotion": 0
+  },
+  {
+    "sn": 12,
+    "rankLevel": 5,
+    "name": "5等星",
+    "pic": "Texture-xinzhihai-duanwei-05.png",
+    "smallPic": "icon-xinzhihaiduanwei-05.png",
+    "rankModel": "ter_heartoceon_ball_05.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "排名<color=#FFF000>前50%</color>",
+    "rankShow": 1,
+    "firstReward": 208205,
+    "taskGroup": 5,
+    "rankGroup": 5,
+    "isDemotion": 0
+  },
+  {
+    "sn": 13,
+    "rankLevel": 6,
+    "name": "6等星",
+    "pic": "Texture-xinzhihai-duanwei-06.png",
+    "smallPic": "icon-xinzhihaiduanwei-06.png",
+    "rankModel": "ter_heartoceon_ball_06.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "排名<color=#FFF000>前30%</color>",
+    "rankShow": 1,
+    "firstReward": 208206,
+    "taskGroup": 6,
+    "rankGroup": 6,
+    "isDemotion": 1
+  },
+  {
+    "sn": 14,
+    "rankLevel": 7,
+    "name": "7等星",
+    "pic": "Texture-xinzhihai-duanwei-07.png",
+    "smallPic": "icon-xinzhihaiduanwei-07.png",
+    "rankModel": "ter_heartoceon_ball_07.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "排名<color=#FFF000>前10%</color>",
+    "rankShow": 1,
+    "firstReward": 208207,
+    "taskGroup": 7,
+    "rankGroup": 7,
+    "isDemotion": 1
+  },
+  {
+    "sn": 15,
+    "rankLevel": 1,
+    "name": "1等星",
+    "pic": "Texture-xinzhihai-duanwei-01.png",
+    "smallPic": "icon-xinzhihaiduanwei-01.png",
+    "rankModel": "ter_heartoceon_ball_01.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "累计获得<color=#FFF000> 21 </color>颗星",
+    "rankShow": 0,
+    "firstReward": 0,
+    "taskGroup": 1,
+    "rankGroup": 1,
+    "isDemotion": 0
+  },
+  {
+    "sn": 16,
+    "rankLevel": 2,
+    "name": "2等星",
+    "pic": "Texture-xinzhihai-duanwei-02.png",
+    "smallPic": "icon-xinzhihaiduanwei-02.png",
+    "rankModel": "ter_heartoceon_ball_02.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "累计获得<color=#FFF000> 27 </color>颗星",
+    "rankShow": 0,
+    "firstReward": 208202,
+    "taskGroup": 2,
+    "rankGroup": 2,
+    "isDemotion": 0
+  },
+  {
+    "sn": 17,
+    "rankLevel": 3,
+    "name": "3等星",
+    "pic": "Texture-xinzhihai-duanwei-03.png",
+    "smallPic": "icon-xinzhihaiduanwei-03.png",
+    "rankModel": "ter_heartoceon_ball_03.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "总积分达到<color=#FFF000> 1000000</color>",
+    "rankShow": 0,
+    "firstReward": 208203,
+    "taskGroup": 3,
+    "rankGroup": 3,
+    "isDemotion": 0
+  },
+  {
+    "sn": 18,
+    "rankLevel": 4,
+    "name": "4等星",
+    "pic": "Texture-xinzhihai-duanwei-04.png",
+    "smallPic": "icon-xinzhihaiduanwei-04.png",
+    "rankModel": "ter_heartoceon_ball_04.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "总积分达到<color=#FFF000> 100000 </color>",
+    "rankShow": 0,
+    "firstReward": 208204,
+    "taskGroup": 4,
+    "rankGroup": 4,
+    "isDemotion": 0
+  },
+  {
+    "sn": 19,
+    "rankLevel": 5,
+    "name": "5等星",
+    "pic": "Texture-xinzhihai-duanwei-05.png",
+    "smallPic": "icon-xinzhihaiduanwei-05.png",
+    "rankModel": "ter_heartoceon_ball_05.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "排名<color=#FFF000>前50%</color>",
+    "rankShow": 1,
+    "firstReward": 208205,
+    "taskGroup": 5,
+    "rankGroup": 5,
+    "isDemotion": 0
+  },
+  {
+    "sn": 20,
+    "rankLevel": 6,
+    "name": "6等星",
+    "pic": "Texture-xinzhihai-duanwei-06.png",
+    "smallPic": "icon-xinzhihaiduanwei-06.png",
+    "rankModel": "ter_heartoceon_ball_06.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "排名<color=#FFF000>前30%</color>",
+    "rankShow": 1,
+    "firstReward": 208206,
+    "taskGroup": 6,
+    "rankGroup": 6,
+    "isDemotion": 1
+  },
+  {
+    "sn": 21,
+    "rankLevel": 7,
+    "name": "7等星",
+    "pic": "Texture-xinzhihai-duanwei-07.png",
+    "smallPic": "icon-xinzhihaiduanwei-07.png",
+    "rankModel": "ter_heartoceon_ball_07.prefab",
+    "challenges": [
+      0
+    ],
+    "upgradeEvents": [
+      0
+    ],
+    "relegationEvents": [
+      0
+    ],
+    "upgradeDesc": "排名<color=#FFF000>前10%</color>",
+    "rankShow": 1,
+    "firstReward": 208207,
+    "taskGroup": 7,
+    "rankGroup": 7,
+    "isDemotion": 1
   }
 ]

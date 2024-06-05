@@ -3,404 +3,1379 @@
     "sn": 101,
     "frontChallenge": 0,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡1",
-    "buffName": "冰",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      6,
-      7
+    "challengeName": "北部掘进区",
+    "settledPic": "tianerong-jiesuan-beibujujinqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-beibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-beibu02-new-i18n.png",
+    "affixSn": 1001,
+    "buffSn": 1,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
     ],
-    "battleSn": 1,
+    "buffTrigger": 31000001,
+    "doorAreaSn": 31000011,
+    "areaSn": 31000002,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000200,
+    "battleTrigger": 31000205,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000004,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100101,
+    "doorTrigger00": 31000100,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
     "sn": 102,
     "frontChallenge": 101,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡2",
-    "buffName": "火",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      4,
-      5
+    "challengeName": "东部建设区",
+    "settledPic": "tianerong-jiesuan-dongbujianshequ-i18n.png",
+    "challengePic": "tianerong-xinzhihai-dongbu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-dongbu02-new-i18n.png",
+    "affixSn": 1001,
+    "buffSn": 1,
+    "monsterPos": [
+      [
+        0
+      ]
     ],
-    "battleSn": 2,
+    "buffTrigger": 31000002,
+    "doorAreaSn": 31000012,
+    "areaSn": 31000003,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000300,
+    "battleTrigger": 31000305,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000005,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100102,
+    "doorTrigger00": 31000101,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
     "sn": 103,
     "frontChallenge": 102,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡3",
-    "buffName": "雷",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      2,
-      6,
-      8
+    "challengeName": "西部施工区",
+    "settledPic": "tianerong-jiesuan-xibushigonqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-xibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-xibu02-new-i18n.png",
+    "affixSn": 1001,
+    "buffSn": 1,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ]
     ],
-    "battleSn": 3,
+    "buffTrigger": 31000003,
+    "doorAreaSn": 31000013,
+    "areaSn": 31000004,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000400,
+    "battleTrigger": 31000405,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000006,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100103,
+    "doorTrigger00": 31000102,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
     "sn": 104,
     "frontChallenge": 103,
     "type": 2,
-    "difficultNum": 2,
-    "challengeName": "关卡4",
-    "buffName": "风",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      2,
-      9
+    "challengeName": "核心控制区",
+    "settledPic": "tianerong-jiesuan-hexinkongzhiqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-hexin01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-hexin02-new-i18n.png",
+    "affixSn": 1001,
+    "buffSn": 1,
+    "monsterPos": [
+      [
+        0
+      ]
     ],
-    "battleSn": 4,
+    "buffTrigger": 31000001,
+    "doorAreaSn": 0,
+    "areaSn": 0,
+    "lightSn": [],
+    "doorTrigger01": [],
+    "doorTrigger02": 0,
+    "battleTrigger": 0,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000007,
+    "battleTimeLine": 100200,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 31005,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�}t�M:"
+    ],
+    "triggerStory": 0,
+    "doorTrigger00": 0,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
     "sn": 201,
     "frontChallenge": 0,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡1",
-    "buffName": "冰",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      4
+    "challengeName": "北部掘进区",
+    "settledPic": "tianerong-jiesuan-beibujujinqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-beibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-beibu02-new-i18n.png",
+    "affixSn": 1001,
+    "buffSn": 1,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
     ],
-    "battleSn": 1,
+    "buffTrigger": 31000001,
+    "doorAreaSn": 31000011,
+    "areaSn": 31000002,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000200,
+    "battleTrigger": 31000205,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000004,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100101,
+    "doorTrigger00": 31000100,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
     "sn": 202,
     "frontChallenge": 201,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡2",
-    "buffName": "火",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      4,
-      5,
-      7
+    "challengeName": "东部建设区",
+    "settledPic": "tianerong-jiesuan-dongbujianshequ-i18n.png",
+    "challengePic": "tianerong-xinzhihai-dongbu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-dongbu02-new-i18n.png",
+    "affixSn": 1001,
+    "buffSn": 1,
+    "monsterPos": [
+      [
+        0
+      ]
     ],
-    "battleSn": 2,
+    "buffTrigger": 31000002,
+    "doorAreaSn": 31000012,
+    "areaSn": 31000003,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000300,
+    "battleTrigger": 31000305,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000005,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100102,
+    "doorTrigger00": 31000101,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
     "sn": 203,
     "frontChallenge": 202,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡3",
-    "buffName": "雷",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      6,
-      7
+    "challengeName": "西部施工区",
+    "settledPic": "tianerong-jiesuan-xibushigonqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-xibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-xibu02-new-i18n.png",
+    "affixSn": 1001,
+    "buffSn": 1,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ]
     ],
-    "battleSn": 3,
+    "buffTrigger": 31000003,
+    "doorAreaSn": 31000013,
+    "areaSn": 31000004,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000400,
+    "battleTrigger": 31000405,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000006,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100103,
+    "doorTrigger00": 31000102,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
     "sn": 204,
     "frontChallenge": 203,
     "type": 2,
-    "difficultNum": 3,
-    "challengeName": "关卡4",
-    "buffName": "风",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      4,
-      5
+    "challengeName": "核心控制区",
+    "settledPic": "tianerong-jiesuan-hexinkongzhiqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-hexin01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-hexin02-new-i18n.png",
+    "affixSn": 1001,
+    "buffSn": 1,
+    "monsterPos": [
+      [
+        0
+      ]
     ],
-    "battleSn": 4,
+    "buffTrigger": 31000001,
+    "doorAreaSn": 0,
+    "areaSn": 0,
+    "lightSn": [],
+    "doorTrigger01": [],
+    "doorTrigger02": 0,
+    "battleTrigger": 0,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000007,
+    "battleTimeLine": 100200,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 31005,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�}t�M:"
+    ],
+    "triggerStory": 0,
+    "doorTrigger00": 0,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 301,
+    "sn": 211,
     "frontChallenge": 0,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡1",
-    "buffName": "冰",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      2,
-      6,
-      8
+    "challengeName": "北部掘进区",
+    "settledPic": "tianerong-jiesuan-beibujujinqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-beibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-beibu02-new-i18n.png",
+    "affixSn": 1002,
+    "buffSn": 2,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
     ],
-    "battleSn": 1,
+    "buffTrigger": 31000001,
+    "doorAreaSn": 31000011,
+    "areaSn": 31000002,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000200,
+    "battleTrigger": 31000205,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000004,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100101,
+    "doorTrigger00": 31000100,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 302,
-    "frontChallenge": 301,
+    "sn": 212,
+    "frontChallenge": 211,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡2",
-    "buffName": "火",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      2,
-      9
+    "challengeName": "东部建设区",
+    "settledPic": "tianerong-jiesuan-dongbujianshequ-i18n.png",
+    "challengePic": "tianerong-xinzhihai-dongbu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-dongbu02-new-i18n.png",
+    "affixSn": 1002,
+    "buffSn": 2,
+    "monsterPos": [
+      [
+        0
+      ]
     ],
-    "battleSn": 2,
+    "buffTrigger": 31000002,
+    "doorAreaSn": 31000012,
+    "areaSn": 31000003,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000300,
+    "battleTrigger": 31000305,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000005,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100102,
+    "doorTrigger00": 31000101,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 303,
-    "frontChallenge": 302,
+    "sn": 213,
+    "frontChallenge": 212,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡3",
-    "buffName": "雷",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      4
+    "challengeName": "西部施工区",
+    "settledPic": "tianerong-jiesuan-xibushigonqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-xibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-xibu02-new-i18n.png",
+    "affixSn": 1002,
+    "buffSn": 2,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ]
     ],
-    "battleSn": 3,
+    "buffTrigger": 31000003,
+    "doorAreaSn": 31000013,
+    "areaSn": 31000004,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000400,
+    "battleTrigger": 31000405,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000006,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100103,
+    "doorTrigger00": 31000102,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 304,
-    "frontChallenge": 303,
+    "sn": 214,
+    "frontChallenge": 213,
     "type": 2,
-    "difficultNum": 5,
-    "challengeName": "关卡4",
-    "buffName": "风",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      4,
-      5,
-      7
+    "challengeName": "核心控制区",
+    "settledPic": "tianerong-jiesuan-hexinkongzhiqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-hexin01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-hexin02-new-i18n.png",
+    "affixSn": 1002,
+    "buffSn": 2,
+    "monsterPos": [
+      [
+        0
+      ]
     ],
-    "battleSn": 4,
+    "buffTrigger": 31000001,
+    "doorAreaSn": 0,
+    "areaSn": 0,
+    "lightSn": [],
+    "doorTrigger01": [],
+    "doorTrigger02": 0,
+    "battleTrigger": 0,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000007,
+    "battleTimeLine": 100201,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 31005,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�}t�M:"
+    ],
+    "triggerStory": 0,
+    "doorTrigger00": 0,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 401,
+    "sn": 221,
     "frontChallenge": 0,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡1",
-    "buffName": "冰",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      6,
-      7
+    "challengeName": "北部掘进区",
+    "settledPic": "tianerong-jiesuan-beibujujinqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-beibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-beibu02-new-i18n.png",
+    "affixSn": 1002,
+    "buffSn": 2,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
     ],
-    "battleSn": 1,
+    "buffTrigger": 31000001,
+    "doorAreaSn": 31000011,
+    "areaSn": 31000002,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000200,
+    "battleTrigger": 31000205,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000004,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100101,
+    "doorTrigger00": 31000100,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 402,
-    "frontChallenge": 401,
+    "sn": 222,
+    "frontChallenge": 221,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡2",
-    "buffName": "火",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      4,
-      5
+    "challengeName": "东部建设区",
+    "settledPic": "tianerong-jiesuan-dongbujianshequ-i18n.png",
+    "challengePic": "tianerong-xinzhihai-dongbu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-dongbu02-new-i18n.png",
+    "affixSn": 1002,
+    "buffSn": 2,
+    "monsterPos": [
+      [
+        0
+      ]
     ],
-    "battleSn": 2,
+    "buffTrigger": 31000002,
+    "doorAreaSn": 31000012,
+    "areaSn": 31000003,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000300,
+    "battleTrigger": 31000305,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000005,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100102,
+    "doorTrigger00": 31000101,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 403,
-    "frontChallenge": 402,
+    "sn": 223,
+    "frontChallenge": 222,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡3",
-    "buffName": "雷",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      2,
-      6,
-      8
+    "challengeName": "西部施工区",
+    "settledPic": "tianerong-jiesuan-xibushigonqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-xibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-xibu02-new-i18n.png",
+    "affixSn": 1002,
+    "buffSn": 2,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ]
     ],
-    "battleSn": 3,
+    "buffTrigger": 31000003,
+    "doorAreaSn": 31000013,
+    "areaSn": 31000004,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000400,
+    "battleTrigger": 31000405,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000006,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100103,
+    "doorTrigger00": 31000102,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 404,
-    "frontChallenge": 403,
+    "sn": 224,
+    "frontChallenge": 223,
     "type": 2,
-    "difficultNum": 7,
-    "challengeName": "关卡4",
-    "buffName": "风",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      2,
-      9
+    "challengeName": "核心控制区",
+    "settledPic": "tianerong-jiesuan-hexinkongzhiqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-hexin01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-hexin02-new-i18n.png",
+    "affixSn": 1002,
+    "buffSn": 2,
+    "monsterPos": [
+      [
+        0
+      ]
     ],
-    "battleSn": 4,
+    "buffTrigger": 31000001,
+    "doorAreaSn": 0,
+    "areaSn": 0,
+    "lightSn": [],
+    "doorTrigger01": [],
+    "doorTrigger02": 0,
+    "battleTrigger": 0,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000007,
+    "battleTimeLine": 100201,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 31005,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�}t�M:"
+    ],
+    "triggerStory": 0,
+    "doorTrigger00": 0,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 501,
+    "sn": 311,
     "frontChallenge": 0,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡1",
-    "buffName": "冰",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      4
+    "challengeName": "北部掘进区",
+    "settledPic": "tianerong-jiesuan-beibujujinqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-beibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-beibu02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
     ],
-    "battleSn": 1,
+    "buffTrigger": 31000001,
+    "doorAreaSn": 31000011,
+    "areaSn": 31000002,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000200,
+    "battleTrigger": 31000205,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000004,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100101,
+    "doorTrigger00": 31000100,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 502,
-    "frontChallenge": 501,
+    "sn": 312,
+    "frontChallenge": 311,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡2",
-    "buffName": "火",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      4,
-      5,
-      7
+    "challengeName": "东部建设区",
+    "settledPic": "tianerong-jiesuan-dongbujianshequ-i18n.png",
+    "challengePic": "tianerong-xinzhihai-dongbu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-dongbu02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ]
     ],
-    "battleSn": 2,
+    "buffTrigger": 31000002,
+    "doorAreaSn": 31000012,
+    "areaSn": 31000003,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000300,
+    "battleTrigger": 31000305,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000005,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100102,
+    "doorTrigger00": 31000101,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 503,
-    "frontChallenge": 502,
+    "sn": 313,
+    "frontChallenge": 312,
     "type": 1,
-    "difficultNum": 0,
-    "challengeName": "关卡3",
-    "buffName": "雷",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      4,
-      5
+    "challengeName": "西部施工区",
+    "settledPic": "tianerong-jiesuan-xibushigonqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-xibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-xibu02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ]
     ],
-    "battleSn": 3,
+    "buffTrigger": 31000003,
+    "doorAreaSn": 31000013,
+    "areaSn": 31000004,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000400,
+    "battleTrigger": 31000405,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000006,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100103,
+    "doorTrigger00": 31000102,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   },
   {
-    "sn": 504,
-    "frontChallenge": 503,
+    "sn": 314,
+    "frontChallenge": 313,
     "type": 2,
-    "difficultNum": 9,
-    "challengeName": "关卡4",
-    "buffName": "风",
-    "buffDesc": "天气描述天气描述天气描述天气描述天气描述天气描述",
-    "buffSn": [],
-    "sceneSn": 18001,
-    "recomRes": [
-      2,
-      6,
-      8
+    "challengeName": "核心控制区",
+    "settledPic": "tianerong-jiesuan-hexinkongzhiqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-hexin01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-hexin02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ]
     ],
-    "battleSn": 4,
+    "buffTrigger": 31000001,
+    "doorAreaSn": 0,
+    "areaSn": 0,
+    "lightSn": [],
+    "doorTrigger01": [],
+    "doorTrigger02": 0,
+    "battleTrigger": 0,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000007,
+    "battleTimeLine": 100202,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 31005,
+    "battleSn": [
+      0
+    ],
     "guide": [
-      "COMBAT_1",
-      "COMBAT_2"
-    ]
+      "�N�Ӎuӽ4�}t�M:"
+    ],
+    "triggerStory": 0,
+    "doorTrigger00": 0,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
+  },
+  {
+    "sn": 321,
+    "frontChallenge": 0,
+    "type": 1,
+    "challengeName": "北部掘进区",
+    "settledPic": "tianerong-jiesuan-beibujujinqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-beibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-beibu02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "buffTrigger": 31000001,
+    "doorAreaSn": 31000011,
+    "areaSn": 31000002,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000200,
+    "battleTrigger": 31000205,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000004,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
+    "guide": [
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100101,
+    "doorTrigger00": 31000100,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
+  },
+  {
+    "sn": 322,
+    "frontChallenge": 321,
+    "type": 1,
+    "challengeName": "东部建设区",
+    "settledPic": "tianerong-jiesuan-dongbujianshequ-i18n.png",
+    "challengePic": "tianerong-xinzhihai-dongbu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-dongbu02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ]
+    ],
+    "buffTrigger": 31000002,
+    "doorAreaSn": 31000012,
+    "areaSn": 31000003,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000300,
+    "battleTrigger": 31000305,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000005,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
+    "guide": [
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100102,
+    "doorTrigger00": 31000101,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
+  },
+  {
+    "sn": 323,
+    "frontChallenge": 322,
+    "type": 1,
+    "challengeName": "西部施工区",
+    "settledPic": "tianerong-jiesuan-xibushigonqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-xibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-xibu02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "buffTrigger": 31000003,
+    "doorAreaSn": 31000013,
+    "areaSn": 31000004,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000400,
+    "battleTrigger": 31000405,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000006,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
+    "guide": [
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100103,
+    "doorTrigger00": 31000102,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
+  },
+  {
+    "sn": 324,
+    "frontChallenge": 323,
+    "type": 2,
+    "challengeName": "核心控制区",
+    "settledPic": "tianerong-jiesuan-hexinkongzhiqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-hexin01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-hexin02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ]
+    ],
+    "buffTrigger": 31000001,
+    "doorAreaSn": 0,
+    "areaSn": 0,
+    "lightSn": [],
+    "doorTrigger01": [],
+    "doorTrigger02": 0,
+    "battleTrigger": 0,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000007,
+    "battleTimeLine": 100202,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 31005,
+    "battleSn": [
+      0
+    ],
+    "guide": [
+      "�N�Ӎuӽ4�}t�M:"
+    ],
+    "triggerStory": 0,
+    "doorTrigger00": 0,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
+  },
+  {
+    "sn": 331,
+    "frontChallenge": 0,
+    "type": 1,
+    "challengeName": "北部掘进区",
+    "settledPic": "tianerong-jiesuan-beibujujinqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-beibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-beibu02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "buffTrigger": 31000001,
+    "doorAreaSn": 31000011,
+    "areaSn": 31000002,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000200,
+    "battleTrigger": 31000205,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000004,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
+    "guide": [
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100101,
+    "doorTrigger00": 31000100,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
+  },
+  {
+    "sn": 332,
+    "frontChallenge": 331,
+    "type": 1,
+    "challengeName": "东部建设区",
+    "settledPic": "tianerong-jiesuan-dongbujianshequ-i18n.png",
+    "challengePic": "tianerong-xinzhihai-dongbu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-dongbu02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ]
+    ],
+    "buffTrigger": 31000002,
+    "doorAreaSn": 31000012,
+    "areaSn": 31000003,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000300,
+    "battleTrigger": 31000305,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000005,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
+    "guide": [
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100102,
+    "doorTrigger00": 31000101,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
+  },
+  {
+    "sn": 333,
+    "frontChallenge": 332,
+    "type": 1,
+    "challengeName": "西部施工区",
+    "settledPic": "tianerong-jiesuan-xibushigonqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-xibu01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-xibu02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    "buffTrigger": 31000003,
+    "doorAreaSn": 31000013,
+    "areaSn": 31000004,
+    "lightSn": [
+      0
+    ],
+    "doorTrigger01": [
+      0
+    ],
+    "doorTrigger02": 31000400,
+    "battleTrigger": 31000405,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000006,
+    "battleTimeLine": 0,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 0,
+    "battleSn": [
+      0
+    ],
+    "guide": [
+      "�N�Ӎuӽ4�mt�M9"
+    ],
+    "triggerStory": 100103,
+    "doorTrigger00": 31000102,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
+  },
+  {
+    "sn": 334,
+    "frontChallenge": 333,
+    "type": 2,
+    "challengeName": "核心控制区",
+    "settledPic": "tianerong-jiesuan-hexinkongzhiqu-i18n.png",
+    "challengePic": "tianerong-xinzhihai-hexin01-new-i18n.png",
+    "challengeBackPic": "tianerong-xinzhihai-hexin02-new-i18n.png",
+    "affixSn": 1003,
+    "buffSn": 3,
+    "monsterPos": [
+      [
+        0
+      ]
+    ],
+    "buffTrigger": 31000001,
+    "doorAreaSn": 0,
+    "areaSn": 0,
+    "lightSn": [],
+    "doorTrigger01": [],
+    "doorTrigger02": 0,
+    "battleTrigger": 0,
+    "liftTrigger": 31000004,
+    "liftdelayTime": 5,
+    "teleportPointSn": 31000007,
+    "battleTimeLine": 100202,
+    "enterStory": 100100,
+    "sceneSn": 31000,
+    "bossScene": 31005,
+    "battleSn": [
+      0
+    ],
+    "guide": [
+      "�N�Ӎuӽ4�}t�M:"
+    ],
+    "triggerStory": 0,
+    "doorTrigger00": 0,
+    "recomRes": [],
+    "buffTeleport": 0,
+    "buffName": "",
+    "buffDesc": "",
+    "buffGroup": [],
+    "buffTitle": []
   }
 ]

@@ -1,37 +1,49 @@
 [
   {
     "sn": 1,
-    "levelupDigit": 20,
-    "breachMoney": 1500,
-    "breachPlayerLevel": 20
+    "levelupDigit": 10,
+    "breachMoney": 1000,
+    "breachPlayerLevel": 1
   },
   {
     "sn": 2,
-    "levelupDigit": 40,
-    "breachMoney": 3000,
-    "breachPlayerLevel": 40
+    "levelupDigit": 20,
+    "breachMoney": 5000,
+    "breachPlayerLevel": 20
   },
   {
     "sn": 3,
-    "levelupDigit": 60,
-    "breachMoney": 10000,
-    "breachPlayerLevel": 50
+    "levelupDigit": 30,
+    "breachMoney": 8000,
+    "breachPlayerLevel": 30
   },
   {
     "sn": 4,
-    "levelupDigit": 70,
-    "breachMoney": 15000,
-    "breachPlayerLevel": 60
+    "levelupDigit": 40,
+    "breachMoney": 12000,
+    "breachPlayerLevel": 40
   },
   {
     "sn": 5,
-    "levelupDigit": 80,
-    "breachMoney": 30000,
-    "breachPlayerLevel": 70
+    "levelupDigit": 50,
+    "breachMoney": 23000,
+    "breachPlayerLevel": 50
   },
   {
     "sn": 6,
-    "levelupDigit": 90,
+    "levelupDigit": 60,
+    "breachMoney": 45000,
+    "breachPlayerLevel": 60
+  },
+  {
+    "sn": 7,
+    "levelupDigit": 70,
+    "breachMoney": 90000,
+    "breachPlayerLevel": 70
+  },
+  {
+    "sn": 8,
+    "levelupDigit": 80,
     "breachMoney": 0,
     "breachPlayerLevel": 0
   }

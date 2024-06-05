@@ -1,28 +1,15 @@
 [
   {
     "sn": 1001,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
+    "period": 1,
     "eventTime": 1,
     "describe": "登录游戏",
     "guide": 0,
-    "awardShow": [
-      [
-        100150,
-        500
-      ],
-      [
-        4,
-        600
-      ],
-      [
-        3,
-        5
-      ]
-    ],
-    "award": 201005,
+    "award": 0,
+    "awardExp": 0,
     "sequence": 1,
-    "period": 1,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -30,28 +17,15 @@
   },
   {
     "sn": 1002,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "进行1次占卜",
-    "guide": 1103,
-    "awardShow": [
-      [
-        100150,
-        800
-      ],
-      [
-        4,
-        1200
-      ],
-      [
-        3,
-        5
-      ]
-    ],
-    "award": 201006,
-    "sequence": 2,
     "period": 1,
+    "eventTime": 4,
+    "describe": "开启4个宝箱",
+    "guide": 10093,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 2,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -59,28 +33,15 @@
   },
   {
     "sn": 1003,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "开启1个宝箱",
-    "guide": 110,
-    "awardShow": [
-      [
-        100150,
-        800
-      ],
-      [
-        4,
-        1200
-      ],
-      [
-        3,
-        5
-      ]
-    ],
-    "award": 201006,
-    "sequence": 3,
     "period": 1,
+    "eventTime": 2,
+    "describe": "完成2次「厄抑之境」",
+    "guide": 21001,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 3,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -88,28 +49,15 @@
   },
   {
     "sn": 1004,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "完成1件生活日程",
-    "guide": 330,
-    "awardShow": [
-      [
-        100150,
-        800
-      ],
-      [
-        4,
-        1200
-      ],
-      [
-        3,
-        5
-      ]
-    ],
-    "award": 201006,
-    "sequence": 4,
     "period": 1,
+    "eventTime": 80,
+    "describe": "消耗80点体力",
+    "guide": 21001,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 3,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -117,28 +65,15 @@
   },
   {
     "sn": 1005,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "通关1次财赂求索",
-    "guide": 123,
-    "awardShow": [
-      [
-        100150,
-        800
-      ],
-      [
-        4,
-        1200
-      ],
-      [
-        3,
-        5
-      ]
-    ],
-    "award": 201006,
-    "sequence": 5,
     "period": 1,
+    "eventTime": 120,
+    "describe": "消耗120点体力",
+    "guide": 21001,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 3,
+    "unlockFunc": 0,
+    "unlockLevel": 16,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -146,28 +81,15 @@
   },
   {
     "sn": 1006,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "通关1次军械探秘",
-    "guide": 130,
-    "awardShow": [
-      [
-        100150,
-        800
-      ],
-      [
-        4,
-        1200
-      ],
-      [
-        3,
-        5
-      ]
-    ],
-    "award": 201006,
-    "sequence": 6,
     "period": 1,
+    "eventTime": 1,
+    "describe": "完成1次「旖旎香调」挑战",
+    "guide": 21006,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 3,
+    "unlockFunc": 0,
+    "unlockLevel": 14,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -175,28 +97,15 @@
   },
   {
     "sn": 1007,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "通关1次人格试教",
-    "guide": 131,
-    "awardShow": [
-      [
-        100150,
-        800
-      ],
-      [
-        4,
-        1200
-      ],
-      [
-        3,
-        5
-      ]
-    ],
-    "award": 201006,
-    "sequence": 7,
     "period": 1,
+    "eventTime": 1,
+    "describe": "完成1次「装配冶艺」挑战",
+    "guide": 21007,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 3,
+    "unlockFunc": 0,
+    "unlockLevel": 16,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -204,28 +113,175 @@
   },
   {
     "sn": 1008,
-    "unlockLevel": 10,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "通关1次启示求索",
-    "guide": 132,
-    "awardShow": [
-      [
-        100150,
-        800
-      ],
-      [
-        4,
-        1200
-      ],
-      [
-        3,
-        5
-      ]
-    ],
-    "award": 201006,
-    "sequence": 8,
     "period": 1,
+    "eventTime": 1,
+    "describe": "完成1次「灵之参悟」挑战",
+    "guide": 21010,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 3,
+    "unlockFunc": 0,
+    "unlockLevel": 16,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1009,
+    "period": 1,
+    "eventTime": 1,
+    "describe": "完成1次「启示套装」挑战",
+    "guide": 20052,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 3,
+    "unlockFunc": 0,
+    "unlockLevel": 35,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1010,
+    "period": 1,
+    "eventTime": 1,
+    "describe": "完成1次「人格面具」挑战",
+    "guide": 20051,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 3,
+    "unlockFunc": 0,
+    "unlockLevel": 21,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1011,
+    "period": 1,
+    "eventTime": 1,
+    "describe": "完成1次「往日回溯」挑战",
+    "guide": 21800,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 3,
+    "unlockFunc": 0,
+    "unlockLevel": 25,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1012,
+    "period": 1,
+    "eventTime": 3,
+    "describe": "消耗3点行动力",
+    "guide": 330,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 4,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1013,
+    "period": 1,
+    "eventTime": 1,
+    "describe": "进行1次打工",
+    "guide": 330,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 4,
+    "unlockFunc": 0,
+    "unlockLevel": 18,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1015,
+    "period": 1,
+    "eventTime": 1,
+    "describe": "进行1次邀约",
+    "guide": 330,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 4,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1016,
+    "period": 1,
+    "eventTime": 1,
+    "describe": "进行1次人格面具合成",
+    "guide": 510,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 5,
+    "unlockFunc": 0,
+    "unlockLevel": 21,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1017,
+    "period": 1,
+    "eventTime": 1,
+    "describe": "进行1次人格面具育成",
+    "guide": 510,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 5,
+    "unlockFunc": 0,
+    "unlockLevel": 21,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1018,
+    "period": 1,
+    "eventTime": 1000,
+    "describe": "消耗1000日元",
+    "guide": 0,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 5,
+    "unlockFunc": 0,
+    "unlockLevel": 20,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 1019,
+    "period": 1,
+    "eventTime": 5000,
+    "describe": "消耗5000魂石",
+    "guide": 0,
+    "award": 0,
+    "awardExp": 0,
+    "sequence": 5,
+    "unlockFunc": 0,
+    "unlockLevel": 20,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -233,24 +289,15 @@
   },
   {
     "sn": 2001,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 50,
-    "describe": "累计进行50次占卜",
-    "guide": 1103,
-    "awardShow": [
-      [
-        20,
-        150
-      ],
-      [
-        100150,
-        1500
-      ]
-    ],
-    "award": 201030,
-    "sequence": 1,
     "period": 2,
+    "eventTime": 1250,
+    "describe": "累计消耗1250点体力",
+    "guide": 20050,
+    "award": 201021,
+    "awardExp": 1000,
+    "sequence": 1,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -258,24 +305,15 @@
   },
   {
     "sn": 2002,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 20,
-    "describe": "累计开启20个宝箱",
-    "guide": 110,
-    "awardShow": [
-      [
-        20,
-        120
-      ],
-      [
-        100150,
-        1000
-      ]
-    ],
-    "award": 201030,
-    "sequence": 2,
     "period": 2,
+    "eventTime": 25,
+    "describe": "累计消耗25点行动力",
+    "guide": 330,
+    "award": 201022,
+    "awardExp": 1000,
+    "sequence": 2,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -283,49 +321,15 @@
   },
   {
     "sn": 2003,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 500,
-    "describe": "累计消耗800点体力",
-    "guide": 110,
-    "awardShow": [
-      [
-        20,
-        150
-      ],
-      [
-        100150,
-        1500
-      ]
-    ],
-    "award": 201030,
+    "period": 2,
+    "eventTime": 12,
+    "describe": "累计完成12次「厄抑之境」",
+    "guide": 20050,
+    "award": 201023,
+    "awardExp": 1000,
     "sequence": 3,
-    "period": 2,
-    "startTime": "",
-    "finishTime": "",
-    "ActivitySN": 0,
-    "TaskSN": 0
-  },
-  {
-    "sn": 2004,
-    "unlockLevel": 1,
     "unlockFunc": 0,
-    "eventTime": 20,
-    "describe": "累计消耗20点行动力",
-    "guide": 330,
-    "awardShow": [
-      [
-        20,
-        150
-      ],
-      [
-        100150,
-        1500
-      ]
-    ],
-    "award": 201030,
-    "sequence": 4,
-    "period": 2,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -333,24 +337,15 @@
   },
   {
     "sn": 2005,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 10,
-    "describe": "累计赠送伙伴10个礼物",
-    "guide": 330,
-    "awardShow": [
-      [
-        20,
-        120
-      ],
-      [
-        100150,
-        1000
-      ]
-    ],
-    "award": 201029,
-    "sequence": 5,
     "period": 2,
+    "eventTime": 20000,
+    "describe": "累计消耗20000日元",
+    "guide": 0,
+    "award": 201025,
+    "awardExp": 1000,
+    "sequence": 5,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -358,24 +353,15 @@
   },
   {
     "sn": 2006,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 2000,
-    "describe": "累计消耗2000晶核",
-    "guide": 0,
-    "awardShow": [
-      [
-        20,
-        120
-      ],
-      [
-        100150,
-        1000
-      ]
-    ],
-    "award": 201029,
-    "sequence": 6,
     "period": 2,
+    "eventTime": 100000,
+    "describe": "累计消耗100000魂石",
+    "guide": 0,
+    "award": 201026,
+    "awardExp": 1000,
+    "sequence": 6,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -383,24 +369,31 @@
   },
   {
     "sn": 2007,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 100000,
-    "describe": "累计消耗10万日元",
-    "guide": 0,
-    "awardShow": [
-      [
-        20,
-        120
-      ],
-      [
-        100150,
-        1000
-      ]
-    ],
-    "award": 201029,
-    "sequence": 7,
     "period": 2,
+    "eventTime": 1,
+    "describe": "完成1次「往日回溯」",
+    "guide": 21800,
+    "award": 201027,
+    "awardExp": 1000,
+    "sequence": 7,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 0,
+    "TaskSN": 0
+  },
+  {
+    "sn": 2009,
+    "period": 2,
+    "eventTime": 1,
+    "describe": "完成1次「阏凶梦之扉」",
+    "guide": 904,
+    "award": 201028,
+    "awardExp": 1000,
+    "sequence": 9,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -408,24 +401,15 @@
   },
   {
     "sn": 3001,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 10,
-    "describe": "拥有10个不同怪盗",
-    "guide": 0,
-    "awardShow": [
-      [
-        20,
-        200
-      ],
-      [
-        100150,
-        2000
-      ]
-    ],
-    "award": 201055,
-    "sequence": 1,
     "period": 3,
+    "eventTime": 50,
+    "describe": "累计进行50次「角色签约」&「武器补给」",
+    "guide": 1103,
+    "award": 201051,
+    "awardExp": 1500,
+    "sequence": 1,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -433,24 +417,15 @@
   },
   {
     "sn": 3002,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 30,
-    "describe": "将主角等级提升至30级",
-    "guide": 0,
-    "awardShow": [
-      [
-        20,
-        200
-      ],
-      [
-        100150,
-        2000
-      ]
-    ],
-    "award": 201055,
-    "sequence": 2,
     "period": 3,
+    "eventTime": 1,
+    "describe": "在「心之海试炼」中通过「西部施工区」",
+    "guide": 10108,
+    "award": 201052,
+    "awardExp": 1500,
+    "sequence": 2,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -458,24 +433,15 @@
   },
   {
     "sn": 3003,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "将任意怪盗提升至30级",
-    "guide": 0,
-    "awardShow": [
-      [
-        20,
-        200
-      ],
-      [
-        100150,
-        2000
-      ]
-    ],
-    "award": 201055,
-    "sequence": 3,
     "period": 3,
+    "eventTime": 1,
+    "describe": "在「心轨择行」中完成1次挑战",
+    "guide": 25099,
+    "award": 201052,
+    "awardExp": 1500,
+    "sequence": 3,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
     "ActivitySN": 0,
@@ -483,127 +449,82 @@
   },
   {
     "sn": 3004,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "将任意怪盗提升至意识Ⅱ",
-    "guide": 0,
-    "awardShow": [
-      [
-        20,
-        200
-      ],
-      [
-        100150,
-        2000
-      ]
-    ],
-    "award": 201055,
-    "sequence": 4,
     "period": 3,
+    "eventTime": 1,
+    "describe": "在「福引摇摇屋」中获取所有大奖",
+    "guide": 35108,
+    "award": 201052,
+    "awardExp": 2000,
+    "sequence": 4,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
-    "ActivitySN": 0,
+    "ActivitySN": 2400001,
+    "TaskSN": 0
+  },
+  {
+    "sn": 3005,
+    "period": 3,
+    "eventTime": 1,
+    "describe": "在「命运交错之时」中通关「收下欲望」",
+    "guide": 35109,
+    "award": 201052,
+    "awardExp": 2000,
+    "sequence": 5,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
+    "startTime": "",
+    "finishTime": "",
+    "ActivitySN": 1100001,
     "TaskSN": 0
   },
   {
     "sn": 3006,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "将任意武器强化至30级",
-    "guide": 0,
-    "awardShow": [
-      [
-        20,
-        200
-      ],
-      [
-        100150,
-        2000
-      ]
-    ],
-    "award": 201055,
-    "sequence": 6,
     "period": 3,
+    "eventTime": 3000,
+    "describe": "在「怪盗交易所」中消耗3000个怪盗徽记",
+    "guide": 35110,
+    "award": 201052,
+    "awardExp": 2000,
+    "sequence": 6,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
-    "ActivitySN": 0,
+    "ActivitySN": 1100001,
     "TaskSN": 0
   },
   {
     "sn": 3007,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "将任意武器改造至Ⅱ阶",
-    "guide": 0,
-    "awardShow": [
-      [
-        20,
-        200
-      ],
-      [
-        100150,
-        2000
-      ]
-    ],
-    "award": 201055,
-    "sequence": 7,
     "period": 3,
+    "eventTime": 12,
+    "describe": "完成12次「在卢布朗度过」日程",
+    "guide": 343,
+    "award": 201052,
+    "awardExp": 2000,
+    "sequence": 7,
+    "unlockFunc": 0,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
-    "ActivitySN": 0,
+    "ActivitySN": 1100002,
     "TaskSN": 0
   },
   {
     "sn": 3008,
-    "unlockLevel": 1,
-    "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "将任意面具强化至60级",
-    "guide": 0,
-    "awardShow": [
-      [
-        20,
-        200
-      ],
-      [
-        100150,
-        2000
-      ]
-    ],
-    "award": 201055,
+    "period": 3,
+    "eventTime": 500,
+    "describe": "在「统统创飞」中累计获得500代币",
+    "guide": 35111,
+    "award": 201052,
+    "awardExp": 2000,
     "sequence": 8,
-    "period": 3,
-    "startTime": "",
-    "finishTime": "",
-    "ActivitySN": 0,
-    "TaskSN": 0
-  },
-  {
-    "sn": 3009,
-    "unlockLevel": 1,
     "unlockFunc": 0,
-    "eventTime": 1,
-    "describe": "将任意面具进化至意识Ⅱ",
-    "guide": 0,
-    "awardShow": [
-      [
-        20,
-        200
-      ],
-      [
-        100150,
-        2000
-      ]
-    ],
-    "award": 201055,
-    "sequence": 9,
-    "period": 3,
+    "unlockLevel": 1,
     "startTime": "",
     "finishTime": "",
-    "ActivitySN": 0,
+    "ActivitySN": 2100001,
     "TaskSN": 0
   }
 ]

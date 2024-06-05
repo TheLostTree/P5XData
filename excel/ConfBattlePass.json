@@ -1,66 +1,176 @@
 [
   {
-    "sn": 1,
+    "sn": 1000,
+    "Activity": 200001,
+    "PayCharge": -1,
+    "PayCharge0": -1,
     "type": 0,
-    "name": "百日醒",
-    "icon": "",
-    "txt": "",
-    "awardShow": [
+    "name": "普通版",
+    "paymentAward": -1,
+    "paymentAward0": -1,
+    "levelparam": [],
+    "awardparam": [],
+    "awardparam1": [],
+    "expCurrency": 100150,
+    "extraAwardShow": [
       [
         0
       ]
     ],
-    "ShopGoods": [],
-    "Thief": 0
+    "awardPicShow": [],
+    "weaponShow": [],
+    "Text1": "",
+    "Text2": "",
+    "superAward": 0
   },
   {
-    "sn": 101,
+    "sn": 1001,
+    "Activity": 200001,
+    "PayCharge": 200001,
+    "PayCharge0": -1,
     "type": 1,
-    "name": "千机复",
-    "icon": "",
-    "txt": "怪盗「晴川雪时」限时兑换",
-    "awardShow": [
+    "name": "典藏版",
+    "paymentAward": 201087,
+    "paymentAward0": -1,
+    "levelparam": [],
+    "awardparam": [],
+    "awardparam1": [],
+    "expCurrency": 100150,
+    "extraAwardShow": [
       [
-        3,
-        980
-      ],
-      [
-        20,
-        98
-      ],
-      [
-        200103,
-        1
+        0
       ]
     ],
-    "ShopGoods": [
-      310001
+    "awardPicShow": [
+      "m�m��ڲ��j\u0007���i�\u0006ڶ�^=�",
+      "���{�ޙ�m�m��ڲ��j\u0007�����\u0006ڶ�^=�",
+      "���{���"
     ],
-    "Thief": 1191
+    "weaponShow": [
+      0
+    ],
+    "Text1": "",
+    "Text2": "",
+    "superAward": 0
   },
   {
-    "sn": 102,
+    "sn": 1002,
+    "Activity": 200001,
+    "PayCharge": 200002,
+    "PayCharge0": 200003,
     "type": 2,
-    "name": "万物生",
-    "icon": "",
-    "txt": "怪盗「晴川雪时」限时兑换",
-    "awardShow": [
+    "name": "珍藏版",
+    "paymentAward": 201089,
+    "paymentAward0": 201088,
+    "levelparam": [],
+    "awardparam": [],
+    "awardparam1": [],
+    "expCurrency": 100150,
+    "extraAwardShow": [
       [
-        3,
-        1000
-      ],
-      [
-        20,
-        100
-      ],
-      [
-        200104,
-        1
+        0
       ]
     ],
-    "ShopGoods": [
-      310001
+    "awardPicShow": [],
+    "weaponShow": [],
+    "Text1": "激活「典藏版」升级奖励权限",
+    "Text2": "立即提升「10级」雏鸟计划等级",
+    "superAward": 0
+  },
+  {
+    "sn": 2000,
+    "Activity": 200002,
+    "PayCharge": -1,
+    "PayCharge0": -1,
+    "type": 0,
+    "name": "普通版",
+    "paymentAward": -1,
+    "paymentAward0": -1,
+    "levelparam": [
+      0
     ],
-    "Thief": 1191
+    "awardparam": [
+      0
+    ],
+    "awardparam1": [
+      0
+    ],
+    "expCurrency": 100151,
+    "extraAwardShow": [
+      [
+        0
+      ]
+    ],
+    "awardPicShow": [],
+    "weaponShow": [],
+    "Text1": "",
+    "Text2": "",
+    "superAward": 0
+  },
+  {
+    "sn": 2001,
+    "Activity": 200002,
+    "PayCharge": 200001,
+    "PayCharge0": -1,
+    "type": 1,
+    "name": "典藏版",
+    "paymentAward": 201087,
+    "paymentAward0": -1,
+    "levelparam": [
+      0
+    ],
+    "awardparam": [
+      0
+    ],
+    "awardparam1": [
+      0
+    ],
+    "expCurrency": 100151,
+    "extraAwardShow": [
+      [
+        0
+      ]
+    ],
+    "awardPicShow": [
+      "m�m��ڲ��j\u0007���i�\u0006ڶ�^=�",
+      "���{�ޙ�m�m��ڲ��j\u0007�����\u0006ڶ�^=�",
+      "���{���"
+    ],
+    "weaponShow": [
+      0
+    ],
+    "Text1": "",
+    "Text2": "",
+    "superAward": 0
+  },
+  {
+    "sn": 2002,
+    "Activity": 200002,
+    "PayCharge": 200002,
+    "PayCharge0": 200003,
+    "type": 2,
+    "name": "珍藏版",
+    "paymentAward": 201089,
+    "paymentAward0": 201088,
+    "levelparam": [
+      0
+    ],
+    "awardparam": [
+      0
+    ],
+    "awardparam1": [
+      0
+    ],
+    "expCurrency": 100151,
+    "extraAwardShow": [
+      [
+        0
+      ]
+    ],
+    "awardPicShow": [],
+    "weaponShow": [],
+    "Text1": "激活「典藏版」升级奖励权限",
+    "Text2": "立即提升「10级」雏鸟计划等级",
+    "superAward": 0
   }
 ]

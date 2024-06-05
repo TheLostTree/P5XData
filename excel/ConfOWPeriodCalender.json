@@ -3,7 +3,7 @@
     "sn": 1,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      1
+      0
     ],
     "nextSn": 2
   },
@@ -11,23 +11,23 @@
     "sn": 2,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      31
+      0
     ],
     "nextSn": 3
   },
   {
     "sn": 3,
-    "dayType": 3,
+    "dayType": 1,
     "dayTemplateFirstSn": [
-      41
+      0
     ],
     "nextSn": 4
   },
   {
     "sn": 4,
-    "dayType": 2,
+    "dayType": 1,
     "dayTemplateFirstSn": [
-      51
+      0
     ],
     "nextSn": 5
   },
@@ -35,7 +35,7 @@
     "sn": 5,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      61
+      0
     ],
     "nextSn": 6
   },
@@ -43,7 +43,7 @@
     "sn": 6,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      71
+      0
     ],
     "nextSn": 7
   },
@@ -51,7 +51,7 @@
     "sn": 7,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      81
+      0
     ],
     "nextSn": 8
   },
@@ -59,7 +59,7 @@
     "sn": 8,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      91
+      0
     ],
     "nextSn": 9
   },
@@ -67,23 +67,23 @@
     "sn": 9,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      101
+      0
     ],
     "nextSn": 10
   },
   {
     "sn": 10,
-    "dayType": 3,
+    "dayType": 1,
     "dayTemplateFirstSn": [
-      1001
+      0
     ],
     "nextSn": 11
   },
   {
     "sn": 11,
-    "dayType": 2,
+    "dayType": 1,
     "dayTemplateFirstSn": [
-      1001
+      0
     ],
     "nextSn": 12
   },
@@ -91,7 +91,7 @@
     "sn": 12,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      101
+      0
     ],
     "nextSn": 13
   },
@@ -99,7 +99,7 @@
     "sn": 13,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      101
+      0
     ],
     "nextSn": 14
   },
@@ -107,7 +107,7 @@
     "sn": 14,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      101
+      0
     ],
     "nextSn": 15
   },
@@ -115,8 +115,24 @@
     "sn": 15,
     "dayType": 1,
     "dayTemplateFirstSn": [
-      101
+      0
     ],
-    "nextSn": 9
+    "nextSn": 16
+  },
+  {
+    "sn": 16,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      0
+    ],
+    "nextSn": 17
+  },
+  {
+    "sn": 17,
+    "dayType": 1,
+    "dayTemplateFirstSn": [
+      0
+    ],
+    "nextSn": 11
   }
 ]

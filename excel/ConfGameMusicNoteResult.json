@@ -1,0 +1,50 @@
+[
+  {
+    "sn": 1,
+    "score": 200,
+    "feverScore": 2,
+    "noteTimeEasy": [
+      0
+    ],
+    "noteTime": [
+      0
+    ],
+    "effect": "Music_game_prefect.prefab"
+  },
+  {
+    "sn": 2,
+    "score": 100,
+    "feverScore": 1,
+    "noteTimeEasy": [
+      0
+    ],
+    "noteTime": [
+      0
+    ],
+    "effect": "Music_game_great.prefab"
+  },
+  {
+    "sn": 3,
+    "score": 50,
+    "feverScore": 0,
+    "noteTimeEasy": [
+      0
+    ],
+    "noteTime": [
+      0
+    ],
+    "effect": "Music_game_good.prefab"
+  },
+  {
+    "sn": 4,
+    "score": 0,
+    "feverScore": 0,
+    "noteTimeEasy": [
+      0
+    ],
+    "noteTime": [
+      0
+    ],
+    "effect": "Music_game_miss.prefab"
+  }
+]

@@ -1,47 +1,110 @@
 [
   {
     "sn": 1,
-    "exp": 500,
-    "money": 250,
+    "exp": [
+      0
+    ],
+    "money": [
+      0
+    ],
+    "moneyTrain": [
+      0
+    ],
     "decomposeAward": 1,
-    "color": "#CCCCCC",
-    "gachaFramePic": "persona-kapai-tong-new.png",
-    "levelColor": "common-kapaidengji-tongdi.png"
+    "color": "pinzhi-persona-bai.png",
+    "gachaFramePic": "pinzhi-kamian-yin2.png",
+    "rankColor": "pinzhi-rank-yin.png",
+    "levelColor": "pinzhi-kapaidengji-yindi.png",
+    "entryGrade": "wanfaheji-mask-quality1.png"
   },
   {
     "sn": 2,
-    "exp": 1000,
-    "money": 500,
+    "exp": [
+      0
+    ],
+    "money": [
+      0
+    ],
+    "moneyTrain": [
+      0
+    ],
     "decomposeAward": 1,
-    "color": "#B3B3B3",
-    "gachaFramePic": "persona-kapai-tong-new.png",
-    "levelColor": "common-kapaidengji-tongdi.png"
+    "color": "pinzhi-persona-bai.png",
+    "gachaFramePic": "pinzhi-kamian-yin2.png",
+    "rankColor": "pinzhi-rank-yin.png",
+    "levelColor": "pinzhi-kapaidengji-yindi.png",
+    "entryGrade": "wanfaheji-mask-quality1.png"
   },
   {
     "sn": 3,
-    "exp": 1500,
-    "money": 750,
+    "exp": [
+      0
+    ],
+    "money": [
+      0
+    ],
+    "moneyTrain": [
+      0
+    ],
     "decomposeAward": 1,
-    "color": "#007eff",
-    "gachaFramePic": "persona-kapai-yin-new.png",
-    "levelColor": "common-kapaidengji-yindi.png"
+    "color": "pinzhi-persona-lan.png",
+    "gachaFramePic": "pinzhi-kamian-yin2.png",
+    "rankColor": "pinzhi-rank-yin.png",
+    "levelColor": "pinzhi-kapaidengji-yindi.png",
+    "entryGrade": "wanfaheji-mask-quality1.png"
   },
   {
     "sn": 4,
-    "exp": 2000,
-    "money": 1000,
+    "exp": [
+      0
+    ],
+    "money": [
+      0
+    ],
+    "moneyTrain": [
+      0
+    ],
     "decomposeAward": 1,
-    "color": "#DB2FF7",
-    "gachaFramePic": "persona-kapai-jin-new.png",
-    "levelColor": "common-kapaidengji-jindi.png"
+    "color": "pinzhi-persona-zi.png",
+    "gachaFramePic": "pinzhi-kamian-yin.png",
+    "rankColor": "pinzhi-rank-yin.png",
+    "levelColor": "pinzhi-kapaidengji-yindi.png",
+    "entryGrade": "wanfaheji-mask-quality2.png"
   },
   {
     "sn": 5,
-    "exp": 2500,
-    "money": 1250,
+    "exp": [
+      0
+    ],
+    "money": [
+      0
+    ],
+    "moneyTrain": [
+      0
+    ],
     "decomposeAward": 1,
-    "color": "#FFD12F",
-    "gachaFramePic": "persona-kapai-zuan-new.png",
-    "levelColor": "common-kapaidengji-cai.png"
+    "color": "pinzhi-persona-jin.png",
+    "gachaFramePic": "pinzhi-kamian-jin.png",
+    "rankColor": "pinzhi-rank-jin.png",
+    "levelColor": "pinzhi-kapaidengji-jindi.png",
+    "entryGrade": "wanfaheji-mask-quality3.png"
+  },
+  {
+    "sn": 6,
+    "exp": [
+      0
+    ],
+    "money": [
+      0
+    ],
+    "moneyTrain": [
+      0
+    ],
+    "decomposeAward": 1,
+    "color": "pinzhi-persona-cai.png",
+    "gachaFramePic": "pinzhi-kamian-cai.png",
+    "rankColor": "pinzhi-rank-cai.png",
+    "levelColor": "pinzhi-kapaidengji-cai.png",
+    "entryGrade": "wanfaheji-mask-quality4.png"
   }
 ]

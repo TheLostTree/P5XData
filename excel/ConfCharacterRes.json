@@ -1,1142 +1,2254 @@
 [
   {
     "sn": "wonder",
-    "characterColor": "#ff0000",
-    "camModelSize": 0,
+    "characterColor": "#EF0000",
+    "camCloseType": 0,
     "featureImg": 81,
     "skillIcon": "guaidao-mianjuicon-wonder.png",
     "generalAttackImg": "wonder-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      0,
-      16,
-      0,
-      16,
-      0,
-      16
+      0
     ],
     "generalAttackScale": [
-      0.6,
-      0.6,
-      0.5
+      0
     ],
     "gunShift": "0.356,-0.1,0.2;0.356,-0.2,0.2",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "0,0;-20,35;-5,68;-72,0",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_wonder_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_wonder_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_wonder1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_wonder1.prefab",
     "battleEndTL": [
-      "TL_joker_victory.prefab",
-      "TL_joker_victory_impressionspace.prefab"
+      "L��w^���r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 1,
+    "battleEndTLposition": "-2,0,-3.29;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-84.78,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootNode": "joker",
+    "startShootAnim": 800,
     "shootCD": 100,
     "endShootAnim": 500,
-    "showtimeTimeline": "TL_wonder_HighLight.prefab",
-    "showtimeScene": "HighLight_wonder",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L��w^���\u0012�\u001bi���m2��z�Ǌ\bK�\bm���i���\n'u��n���x�������秦��i���\n'u��n���x������ky��L��w^���}�Ǌ\bK�\bm���i���\n'u��\u001e(!.(!���}�"
+    ],
+    "showtimeTimelineSimplified": [
+      "L��w^���\u0012�\u001b�)��'�y�ky��L��w^���\u0012�\u001b�)��'�y�ky��L��w^���}�Ǌ\bK�\bm�\n�z�je���v��}��/�(�׫�����\u0012�\u001b�)��'�y�ky��L��w^���}�Ǌ\bK�\bm�Ȧ�X���i���m2��z�Ǌ\bK�\bm�Ȧ�X���i���"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��(�׫\u001e(!.(!��(�׫\u001e(!.(!��bz�b\u001e(!.(!��bz�b\u001e(!.(!��bz�b\u001e(!.(!��(�׫"
+    ],
+    "showtimeImage": "HL-beijing-wonder.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#�����z��iǩ���m2�P�ӆ'��\n'u��ɩ�x?j�^j�ky��"
+    ],
+    "maskdisAppear": [
+      "L��#�����z��iǩ���m2�P�ӆ'��\n'u��ɩ�x?v+\u001a������}�"
+    ],
+    "defaultIKOffset": "0,-0.095,-0.08;0,-0.191,-0.024;0,0.014,0",
+    "specialModelSn": "ysc_common_suofangtuixiangS3|ysc_common_suofangtuixiangS2|ysc_common_suofangtuixiangS1|bqg_yilei_faqiuji_table_01|bqg_yilei_faqiuji_table_02",
+    "specialModelIKOffset": "0.004,-0.088,-0.154;0.005,-0.142,-0.083;0.012,0.018,-0.131|0.004,-0.088,-0.154;0.005,-0.142,-0.083;0.012,0.018,-0.131|0.004,-0.088,-0.154;0.005,-0.142,-0.083;0.012,0.018,-0.131|0,-0.103,-0.08;0,-0.07,-0.023;0,-0.015,-0.074|0,-0.103,-0.08;0,-0.07,-0.023;0,-0.015,-0.074",
+    "swordBackTl": "TL_wonder_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_wonder_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_wonder_new_critical_tl",
+    "swordAttackSimplified": "TL_wonder_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_joker_gun_fire.prefab"
   },
   {
     "sn": "wonder_uniform",
-    "characterColor": "",
-    "camModelSize": 0,
+    "characterColor": "AAAAAA==",
+    "camCloseType": 0,
     "featureImg": 0,
     "skillIcon": "",
     "generalAttackImg": "",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "generalAttackScale": [
-      0,
-      0,
       0
     ],
     "gunShift": "",
     "gunScale": "",
     "oneMoreImgShift": "",
     "oneMoreImgScale": "",
-    "castResCrt": "",
     "personaTL": "",
     "footfireoff": 0,
     "oneMoreTL": "",
     "alloutatkTL": "",
     "alloutatkTL1080p": "",
     "battleEndTL": [],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "",
+    "battleEndTLrotation": "",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [],
     "idleAnims": [
-      "monaodai_story",
-      "motoufa_story"
+      "�֧w�޲��j�b�x?��+��Z���z�u��'!z춊�"
+    ],
+    "idleAnims2": [
+      "�֧w�޲��j�b�x?�_춊�֧w�޲��jxn��^��5��h�+-jw��-�j-����M��+"
     ],
     "bulletImg": "",
+    "shootNode": "",
+    "startShootAnim": 0,
     "shootCD": 0,
     "endShootAnim": 0,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
+    "showtimeTimeline": [],
+    "showtimeTimelineSimplified": [],
+    "showtimeScene": [],
     "showtimeImage": "",
     "showtimeVideo": "",
     "showtimeVideoPause": 0,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "",
+    "swordTlReplaceByCounter": "",
+    "swordCritTl": "",
+    "swordAttackSimplified": "",
+    "gunTlReplaceByCounter": ""
   },
   {
     "sn": "wonder_autumn",
-    "characterColor": "",
-    "camModelSize": 0,
+    "characterColor": "AAAAAA==",
+    "camCloseType": 0,
     "featureImg": 0,
     "skillIcon": "",
     "generalAttackImg": "",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "generalAttackScale": [
-      0,
-      0,
       0
     ],
     "gunShift": "",
     "gunScale": "",
     "oneMoreImgShift": "",
     "oneMoreImgScale": "",
-    "castResCrt": "",
     "personaTL": "",
     "footfireoff": 0,
     "oneMoreTL": "",
     "alloutatkTL": "",
     "alloutatkTL1080p": "",
     "battleEndTL": [],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "",
+    "battleEndTLrotation": "",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [],
     "idleAnims": [
-      "monaodai_story",
-      "motoufa_story"
+      "�֧w�޲��j�b�x?��+��Z���z�u��'!z춊�"
     ],
+    "idleAnims2": [],
     "bulletImg": "",
+    "shootNode": "",
+    "startShootAnim": 0,
     "shootCD": 0,
     "endShootAnim": 0,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
+    "showtimeTimeline": [],
+    "showtimeTimelineSimplified": [],
+    "showtimeScene": [],
     "showtimeImage": "",
     "showtimeVideo": "",
     "showtimeVideoPause": 0,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "",
+    "swordTlReplaceByCounter": "",
+    "swordCritTl": "",
+    "swordAttackSimplified": "",
+    "gunTlReplaceByCounter": ""
   },
   {
     "sn": "joker",
-    "characterColor": "#ff0000",
-    "camModelSize": 0,
+    "characterColor": "#EF0000",
+    "camCloseType": 0,
     "featureImg": 6,
     "skillIcon": "guaidao-mianjuicon-joker.png",
     "generalAttackImg": "joker-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 0.25,
     "generalAttackShift": [
-      -0.4,
-      0.14,
-      -0.4,
-      0.14,
-      -0.4,
-      0.14
+      0
     ],
     "generalAttackScale": [
-      0.6,
-      0.6,
-      0.5
+      0
     ],
     "gunShift": "0.356,-0.1,0.2;0.356,-0.2,0.2",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "0,0;-30,34;-19,92;-102,-5",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_joker_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_joker_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_joker1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_joker1.prefab",
     "battleEndTL": [
-      "TL_joker_victory1.prefab",
-      "TL_joker_victory_impressionspace.prefab"
+      "L��G�������֚�}��/�����'-����jkz�\"�{)iǩ���"
     ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-1.22,0,-3.01;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,0,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootNode": "joker",
+    "startShootAnim": 800,
     "shootCD": 100,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L�ɢG��\u0018��X����{\nky��"
+    ],
+    "showtimeTimelineSimplified": [
+      "L�ɢG��\u0018��X����{\u000f�je���v��}�"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��bz�b"
+    ],
+    "showtimeImage": "HL-beijing-joker.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#������\u001e���q�ky��L��#������\u001e����8�����櫦��i"
+    ],
+    "maskdisAppear": [
+      "L��#������\u001e���q�ky��L��#������\u001e����8���b��iy����"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_Joker_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_joker_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_joker_new_critical_tl",
+    "swordAttackSimplified": "TL_joker_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_joker_gun_fire.prefab"
   },
   {
     "sn": "joker_uniform",
-    "characterColor": "",
-    "camModelSize": 0,
+    "characterColor": "AAAAAA==",
+    "camCloseType": 0,
     "featureImg": 0,
     "skillIcon": "",
     "generalAttackImg": "",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "generalAttackScale": [
-      0,
-      0,
       0
     ],
     "gunShift": "",
     "gunScale": "",
     "oneMoreImgShift": "",
     "oneMoreImgScale": "",
-    "castResCrt": "",
     "personaTL": "",
     "footfireoff": 0,
     "oneMoreTL": "",
     "alloutatkTL": "",
     "alloutatkTL1080p": "",
     "battleEndTL": [],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "",
+    "battleEndTLrotation": "",
     "idleInterval": [],
     "idleBattleAnims": [],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "",
+    "shootNode": "",
+    "startShootAnim": 0,
     "shootCD": 0,
     "endShootAnim": 0,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
+    "showtimeTimeline": [],
+    "showtimeTimelineSimplified": [],
+    "showtimeScene": [],
     "showtimeImage": "",
     "showtimeVideo": "",
     "showtimeVideoPause": 0,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "",
+    "swordTlReplaceByCounter": "",
+    "swordCritTl": "",
+    "swordAttackSimplified": "",
+    "gunTlReplaceByCounter": ""
   },
   {
     "sn": "joker_uniform_bag",
-    "characterColor": "",
-    "camModelSize": 0,
+    "characterColor": "AAAAAA==",
+    "camCloseType": 0,
     "featureImg": 0,
     "skillIcon": "",
     "generalAttackImg": "",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "generalAttackScale": [
-      0,
-      0,
       0
     ],
     "gunShift": "",
     "gunScale": "",
     "oneMoreImgShift": "",
     "oneMoreImgScale": "",
-    "castResCrt": "",
     "personaTL": "",
     "footfireoff": 0,
     "oneMoreTL": "",
     "alloutatkTL": "",
     "alloutatkTL1080p": "",
     "battleEndTL": [],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "",
+    "battleEndTLrotation": "",
     "idleInterval": [],
     "idleBattleAnims": [],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "",
+    "shootNode": "",
+    "startShootAnim": 0,
     "shootCD": 0,
     "endShootAnim": 0,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
+    "showtimeTimeline": [],
+    "showtimeTimelineSimplified": [],
+    "showtimeScene": [],
     "showtimeImage": "",
     "showtimeVideo": "",
     "showtimeVideoPause": 0,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "",
+    "swordTlReplaceByCounter": "",
+    "swordCritTl": "",
+    "swordAttackSimplified": "",
+    "gunTlReplaceByCounter": ""
   },
   {
     "sn": "joker_uniform_glasses",
-    "characterColor": "",
-    "camModelSize": 0,
+    "characterColor": "AAAAAA==",
+    "camCloseType": 0,
     "featureImg": 0,
     "skillIcon": "",
     "generalAttackImg": "",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "generalAttackScale": [
-      0,
-      0,
       0
     ],
     "gunShift": "",
     "gunScale": "",
     "oneMoreImgShift": "",
     "oneMoreImgScale": "",
-    "castResCrt": "",
     "personaTL": "",
     "footfireoff": 0,
     "oneMoreTL": "",
     "alloutatkTL": "",
     "alloutatkTL1080p": "",
     "battleEndTL": [],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "",
+    "battleEndTLrotation": "",
     "idleInterval": [],
     "idleBattleAnims": [],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "",
+    "shootNode": "",
+    "startShootAnim": 0,
     "shootCD": 0,
     "endShootAnim": 0,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
+    "showtimeTimeline": [],
+    "showtimeTimelineSimplified": [],
+    "showtimeScene": [],
     "showtimeImage": "",
     "showtimeVideo": "",
     "showtimeVideoPause": 0,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "",
+    "swordTlReplaceByCounter": "",
+    "swordCritTl": "",
+    "swordAttackSimplified": "",
+    "gunTlReplaceByCounter": ""
   },
   {
     "sn": "mona",
     "characterColor": "#00E9BA",
-    "camModelSize": 1,
+    "camCloseType": 1,
     "featureImg": 7,
     "skillIcon": "guaidao-mianjuicon-moerjiana.png",
     "generalAttackImg": "mona-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 0.25,
     "generalAttackShift": [
-      -0.14,
-      -0.53,
-      -1.05,
-      -0.03,
-      0.44,
-      -0.33
+      0
     ],
     "generalAttackScale": [
-      0.6,
-      0.6,
-      0.5
+      0
     ],
-    "gunShift": "0.128,0.595,0.666;0.128,0.7,0.666",
+    "gunShift": "0.013,0.3,0;0.013,0.3,0",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "-32,36;-49,68;-24,85;-119,-8",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_mona_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_mona_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_mona1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_mona1.prefab",
     "battleEndTL": [
-      "TL_mona_victory.prefab",
-      "TL_mona_victory_impressionspace.prefab"
+      "L��v��'-������m2�����������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-1.62,0,-2.93;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-110.52,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan5.png",
+    "shootNode": "mona",
+    "startShootAnim": 800,
     "shootCD": 100,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L��v�\u001e(!.(!���}�"
+    ],
+    "showtimeTimelineSimplified": [
+      "L��v�\u001e(!.(!��\"��b~'����i"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!����"
+    ],
+    "showtimeImage": "HL-beijing-mona.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_mona_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_mona_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_mona_new_critical_tl",
+    "swordAttackSimplified": "TL_mona_attack_tl666",
+    "gunTlReplaceByCounter": "TL_mona_gun_fire.prefab"
   },
   {
     "sn": "skull",
-    "characterColor": "#EBD900",
-    "camModelSize": 0,
+    "characterColor": "#FFDE00",
+    "camCloseType": 0,
     "featureImg": 8,
     "skillIcon": "guaidao-mianjuicon-banbenlongsi.png",
     "generalAttackImg": "skull-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 0.25,
     "generalAttackShift": [
-      -0.14,
-      -0.53,
-      -1.05,
-      -0.03,
-      0.44,
-      -0.33
+      0
     ],
     "generalAttackScale": [
-      0.6,
-      0.6,
-      0.5
+      0
     ],
     "gunShift": "-0.3,0.26,0.5;-0.3,0.36,0.5",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "47,0;9,35;4,68;-79,-5",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_skull_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_skull_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_skull1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_skull1.prefab",
     "battleEndTL": [
-      "TL_skull_victory.prefab",
-      "TL_skull_victory_impressionspace.prefab"
+      "L���e�����򦷟i����.�_��h�/⚚޲Ȩ��Zq�ky��"
     ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-1.63,0,-3.14;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-56.24,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan2.png",
-    "shootCD": 100,
+    "shootNode": "skull",
+    "startShootAnim": 1000,
+    "shootCD": 250,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
+    "showtimeTimeline": [
+      "L���e�x������ky��"
+    ],
+    "showtimeTimelineSimplified": [
+      "L���e�x�������je���v��}�"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��$�Y"
+    ],
     "showtimeImage": "HL-beijing-skull.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#�����K����jx������ky��"
+    ],
+    "maskdisAppear": [
+      "L��#�����K����jx������ky��"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_skull_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_skull_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_skull_new_critical_tl",
+    "swordAttackSimplified": "TL_skull_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_skulll_gun_fire.prefab"
   },
   {
     "sn": "skull_test",
-    "characterColor": "#EBD900",
-    "camModelSize": 0,
+    "characterColor": "#FFDE00",
+    "camCloseType": 0,
     "featureImg": 8,
     "skillIcon": "guaidao-mianjuicon-banbenlongsi.png",
     "generalAttackImg": "skull-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "generalAttackScale": [
-      0,
-      0,
       0
     ],
     "gunShift": "",
     "gunScale": "",
     "oneMoreImgShift": "75,17;37,28;6,74;-81,15",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_skull_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_skull_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_skull1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_skull1.prefab",
     "battleEndTL": [
-      "TL_skull_victory.prefab",
-      "TL_skull_victory_impressionspace.prefab"
+      "L��w^���r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 1,
+    "battleEndTLposition": "-1.63,0,-3.14;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-56.24,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan2.png",
+    "shootNode": "",
+    "startShootAnim": 800,
     "shootCD": 100,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
+    "showtimeTimeline": [],
+    "showtimeTimelineSimplified": [],
+    "showtimeScene": [],
     "showtimeImage": "HL-beijing-skull.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_skull_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_skull_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_skull_new_critical_tl",
+    "swordAttackSimplified": "TL_skull_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_skulll_gun_fire.prefab"
   },
   {
     "sn": "tembin",
-    "characterColor": "#6E60F0",
-    "camModelSize": 0,
+    "characterColor": "#7C5BFF",
+    "camCloseType": 0,
     "featureImg": 9,
     "skillIcon": "guaidao-mianjuicon-tengchuanxueshi.png",
     "generalAttackImg": "tembin-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      -0.15,
-      -0.58,
-      -0.98,
-      -0.81,
-      -0.03,
-      -0.59
+      0
     ],
     "generalAttackScale": [
-      0.68,
-      0.68,
-      0.62
+      0
     ],
-    "gunShift": "-0.328,-0.101,-0.056;-0.328,0,-0.056",
+    "gunShift": "-0.328,-0.028,0.168;-0.328,0,-0.056",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "16,0;-20,28;-36,68;-97,-40",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_tembin_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_tembin_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_tembin1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_tembin1.prefab",
     "battleEndTL": [
-      "TL_tembin_victory.prefab",
-      "TL_tembin_victory_impressionspace.prefab"
+      "L��w^���r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 1,
+    "battleEndTLposition": "-0.79,0,-3.2;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-14.08,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootNode": "tembin",
+    "startShootAnim": 800,
     "shootCD": 100,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "M雊Ǌ\be�\bm���i"
+    ],
+    "showtimeTimelineSimplified": [
+      "M雊Ǌ\be�\bm�Ȧ�X���i���"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��.�\u0018"
+    ],
+    "showtimeImage": "HL-beijing-yuki.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#�����雊�iǩ���m2�P�ӆ'��צn)�ɩ�x?j�^j�ky��"
+    ],
+    "maskdisAppear": [
+      "L��#�����雊�iǩ���m2�P�ӆ'��צn)�ɩ�x?v+\u001a������}�"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_tembin_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_tembin_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_tembin_new_critical_tl",
+    "swordAttackSimplified": "TL_tembin_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_yuki_gun_fire.prefab"
   },
   {
     "sn": "panther",
-    "characterColor": "#FF96CB",
-    "camModelSize": 0,
+    "characterColor": "#F60ABC",
+    "camCloseType": 0,
     "featureImg": 77,
     "skillIcon": "guaidao-mianjuicon-gaojuanxing.png",
     "generalAttackImg": "panther-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      -0.14,
-      -0.53,
-      -1.05,
-      -0.03,
-      0.44,
-      -0.33
+      0
     ],
     "generalAttackScale": [
-      0.6,
-      0.6,
-      0.5
+      0
     ],
     "gunShift": "0.128,-0.336,0.544;0.128,-0.436,0.544",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "0,14;-4,43;-5,104;-72,18",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_panther_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_panther_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_panther1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
     "battleEndTL": [
-      "TL_panther_victory.prefab",
-      "TL_panther_victory_impressionspace.prefab"
+      "L��w^���r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 1,
+    "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan4.png",
-    "shootCD": 0,
+    "shootNode": "panther",
+    "startShootAnim": 800,
+    "shootCD": 100,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L��j{az�Ǌ\bK�\bm���i"
+    ],
+    "showtimeTimelineSimplified": [
+      "L��j{az�Ǌ\bK�\bm�Ȧ�X���i���"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��Z��^"
+    ],
+    "showtimeImage": "HL-beijing-panther.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [
-      "zhandou-new-huodi.png",
-      "zhandou-new-huo.png"
+      "�\u0016�v����>��\u001d����\u0016�v����>��)�"
     ],
     "buffSn": 1191112,
     "buffSkill": [
-      "119113"
+      "�_u�"
     ],
     "buffSkillNum": [
-      "2"
-    ]
+      ""
+    ],
+    "maskAppear": [
+      "L��#����������&���ky��L��#����n��j{az�扩����櫦��i"
+    ],
+    "maskdisAppear": [
+      "L��#����������&���ky��L��#����n��j{az�扩��b��iy����"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_panther_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_panther_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_panther_new_critical_tl",
+    "swordAttackSimplified": "TL_panther_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_panther_gun_fire.prefab"
   },
   {
     "sn": "fox",
     "characterColor": "#008CE5",
-    "camModelSize": 0,
+    "camCloseType": 0,
     "featureImg": 74,
     "skillIcon": "guaidao-mianjuicon-xiduochuanyoujie.png",
     "generalAttackImg": "fox-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 0.29,
     "generalAttackShift": [
-      0.48,
-      -0.27,
-      0.48,
-      -1.07,
-      1.03,
-      -1.05
+      0
     ],
     "generalAttackScale": [
-      0.5,
-      0.74,
-      0.61
+      0
     ],
     "gunShift": "0.125,1.15,0.5;0.125,1.25,0.5",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "71,33;11,21;-11,22;-47,-44",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_fox_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_fox_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_fox1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_fox1.prefab",
     "battleEndTL": [
-      "TL_fox_victory.prefab",
-      "TL_fox_victory_impressionspace.prefab"
+      "L��w^���r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 1,
+    "battleEndTLposition": "-1.36,0,-2.64;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-110,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan7.png",
+    "shootNode": "fox",
+    "startShootAnim": 800,
     "shootCD": 50,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L�ߣ\u001fǊ\bK�\bm���i"
+    ],
+    "showtimeTimelineSimplified": [
+      "L�ߣ\u001fǊ\bK�\bm�Ȧ�X���i���"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!���"
+    ],
+    "showtimeImage": "HL-beijing-fox.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_fox_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_fox_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_fox_new_critical_tl",
+    "swordAttackSimplified": "TL_fox_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_joker_gun_fire.prefab"
   },
   {
     "sn": "noir",
     "characterColor": "#E00EF8",
-    "camModelSize": 0,
+    "camCloseType": 0,
     "featureImg": 75,
     "skillIcon": "guaidao-mianjuicon-aochuncun.png",
     "generalAttackImg": "noir-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      -0.09,
-      -0.53,
-      -0.6,
-      0.07,
-      0.32,
-      -0.03
+      0
     ],
     "generalAttackScale": [
-      0.6,
-      0.6,
-      0.5
+      0
     ],
     "gunShift": "0.011,-0.326,0.281;0.039,0.1,0.72",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "29,20;33,61;54,70;-74,39",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_noir_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_noir_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_noir1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_noir1.prefab",
     "battleEndTL": [
-      "TL_noir_victory.prefab",
-      "TL_noir_victory_impressionspace.prefab"
+      "L��*��'-���/�芿��h�/⚚޲Ȩ��Zq�ky��"
     ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-0.92,0,-3.2;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-101.85,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01",
-      "fight_standby_rest02"
+      "~(!��-jw[��޲�5~(!��-jw[��޲�6"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan3.png",
+    "shootNode": "joker",
+    "startShootAnim": 800,
     "shootCD": 100,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L��*�\u001e(!�(!���}�"
+    ],
+    "showtimeTimelineSimplified": [
+      "L��*�\u001e(!�(!��\"��b~'����i"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��.�\u0018"
+    ],
+    "showtimeImage": "HL-beijing-noir.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'��z\"����8�����櫦��i"
+    ],
+    "maskdisAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'��z\"����8���b��iy����"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_noir_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_noir_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_noir_new_critical_tl",
+    "swordAttackSimplified": "TL_noir_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_noir_gun_fire.prefab"
   },
   {
     "sn": "crow",
-    "characterColor": "#FF820C",
-    "camModelSize": 0,
+    "characterColor": "#FECF3E",
+    "camCloseType": 0,
     "featureImg": 76,
     "skillIcon": "guaidao-mianjuicon-mingzhiwulang.png",
     "generalAttackImg": "crow-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      0.31,
-      -1.01,
-      -0.47,
-      -0.54,
-      0.34,
-      -0.19
+      0
     ],
     "generalAttackScale": [
-      0.6,
-      0.6,
-      0.5
+      0
     ],
     "gunShift": "0.045,0,0.192;0.045,0,1,0.192",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "61,12;11,21;8,23;-38,-25",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_crow_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_crow_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_crow1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_crow1.prefab",
     "battleEndTL": [
-      "TL_crow_victory.prefab",
-      "TL_crow_victory_impressionspace.prefab"
+      "L�ܮ�?�'-������m2�r�0�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-0.74,0,-3.43;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-98.75,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootNode": "joker",
+    "startShootAnim": 800,
     "shootCD": 100,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L�ܮ�?\u001e(!.(!���}�"
+    ],
+    "showtimeTimelineSimplified": [
+      "L�ܮ�?\u001e(!.(!��\"��b~'����i"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��.�\u0018"
+    ],
+    "showtimeImage": "HL-beijing-crow.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#����������&���ky��L��#����r�0�&��)���iy����"
+    ],
+    "maskdisAppear": [
+      "L��#����������&���ky��L��#����r�0�&��)��جj�^j�ky��"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_crow_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_crow_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_crow_new_critical_tl",
+    "swordAttackSimplified": "TL_crow_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_crow_gun_fire.prefab"
   },
   {
     "sn": "queen",
-    "characterColor": "#8E8E8E",
-    "camModelSize": 0,
+    "characterColor": "#1626FF",
+    "camCloseType": 0,
     "featureImg": 73,
     "skillIcon": "guaidao-mianjuicon-xindaozhen.png",
     "generalAttackImg": "queen-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      -0.14,
-      -0.44,
-      -1.24,
-      -0.83,
-      -0.03,
-      -0.58
+      0
     ],
     "generalAttackScale": [
-      0.5,
-      0.65,
-      0.5
+      0
     ],
     "gunShift": "-0.345,-0.345,0.258;-0.345,-0.245,0.258",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "-18,28;-41,57;-37,60;-78,-42",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_queen_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_queen_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_queen1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_queen1.prefab",
     "battleEndTL": [
-      "TL_queen_victory.prefab",
-      "TL_queen_victory_impressionspace.prefab"
+      "L��������򦷟i�����z��h�/⚚޲Ȩ��Zq�ky��"
     ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-5.13,0,0.29;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-2.25,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01",
-      "fight_standby_rest02"
+      "~(!��-jw[��޲�5~(!��-jw[��޲�6"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootNode": "queen",
+    "startShootAnim": 800,
     "shootCD": 100,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L����x������ky��"
+    ],
+    "showtimeTimelineSimplified": [
+      "L����x�������je���v��}�"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!���y�"
+    ],
+    "showtimeImage": "HL-beijing-queen.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#����������&���ky��L��#�����瞟���8�����櫦��i"
+    ],
+    "maskdisAppear": [
+      "L��#����������&���ky��L��#�����瞟���8���b��iy����"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_queen_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_queen_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_queen_new_critical_tl",
+    "swordAttackSimplified": "TL_queen_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_queen_gun_fire.prefab"
   },
   {
     "sn": "comte",
-    "characterColor": "#6E60F0",
-    "camModelSize": 0,
+    "characterColor": "#1626FF",
+    "camCloseType": 0,
     "featureImg": 79,
     "skillIcon": "guaidao-mianjuicon-baniaochengsi.png",
     "generalAttackImg": "comte-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      0.13,
-      -0.94,
-      -1.05,
-      0.26,
-      0.11,
-      -0.25
+      0
     ],
     "generalAttackScale": [
-      0.45,
-      0.55,
-      0.5
+      0
     ],
     "gunShift": "0,-0.332,0.168;-0.135,0.01,0.004",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "-8.5,36;-29,62;0,70;-99,-6.2",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_comte_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_comte_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_comte1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_comte1.prefab",
     "battleEndTL": [
-      "TL_comte_victory.prefab",
-      "TL_comte_victory_impressionspace.prefab"
+      "L��w^���r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 1,
+    "battleEndTLposition": "-0.65,0,-3.5;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-21.68,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan5.png",
+    "shootNode": "comte",
+    "startShootAnim": 800,
     "shootCD": 500,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L�ܢk^�\u0018��X���ky��"
+    ],
+    "showtimeTimelineSimplified": [
+      "L�ܢk^�\u0018��X����je���v��}�"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��.�\u0018"
+    ],
+    "showtimeImage": "HL-beijing-seiji.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'��Ǣ�/�jx�\u000fڦ�����}�"
+    ],
+    "maskdisAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'��צn)��裋�b��iy����"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_comte_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_comte_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_comte_new_critical_tl",
+    "swordAttackSimplified": "TL_comte_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_comte_gun_fire.prefab"
   },
   {
     "sn": "leo",
-    "characterColor": "#008CE5",
-    "camModelSize": 0,
+    "characterColor": "#38E3FF",
+    "camCloseType": 0,
     "featureImg": 80,
     "skillIcon": "guaidao-mianjuicon-shenshanlingyang.png",
-    "generalAttackImg": "fox-generalAttack.png",
+    "generalAttackImg": "leo-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      0.48,
-      -0.27,
-      0.48,
-      -1.07,
-      1.03,
-      -1.05
+      0
     ],
     "generalAttackScale": [
-      0.5,
-      0.74,
-      0.61
+      0
     ],
     "gunShift": "-0.345,-0.345,0.258;-0.345,-0.245,0.258",
     "gunScale": "1,0.7",
-    "oneMoreImgShift": "71,33;11,21;-11,22;-47,-44",
+    "oneMoreImgShift": "16,0;-20,28;-36,68;-97,-40",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
-    "personaTL": "TL_fox_persona.prefab",
+    "personaTL": "TL_leo_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_leo_huanshou.prefab",
-    "alloutatkTL": "TL_AllOutAttack_part2_fox1.prefab",
-    "alloutatkTL1080p": "TL_AllOutAttack_part2_fox1.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_leo1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_leo1.prefab",
     "battleEndTL": [
-      "TL_leo_victory.prefab",
-      "TL_leo_victory_impressionspace.prefab"
+      "L��w^���r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 1,
+    "battleEndTLposition": "-0.84,0,-3.73;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-3.37,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5~(!��-jw[��޲�6~(!��-jw[��޲�7"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootNode": "joker",
+    "startShootAnim": 800,
     "shootCD": 500,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L��z�Ǌ\be�\bm���i"
+    ],
+    "showtimeTimelineSimplified": [
+      "L��z�Ǌ\be�\bm�Ȧ�X���i���"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��nj|bjx"
+    ],
+    "showtimeImage": "HL-beijing-leo.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'��W��h��;�j�^j�ky��"
+    ],
+    "maskdisAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'��W��h��;�v+\u001a������}�"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_leo_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_leo_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_leo_new_critical_tl",
+    "swordAttackSimplified": "TL_leo_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_leo_gun_fire.prefab"
   },
   {
     "sn": "cattle",
-    "characterColor": "#00E9BA",
-    "camModelSize": 1,
+    "characterColor": "#EF0000",
+    "camCloseType": 1,
     "featureImg": 82,
     "skillIcon": "guaidao-mianjuicon-lufeier.png",
     "generalAttackImg": "cattle-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      -0.14,
-      -0.53,
-      -1.05,
-      -0.03,
-      0.44,
-      -0.33
+      0
     ],
     "generalAttackScale": [
-      0.6,
-      0.6,
-      0.5
+      0
     ],
-    "gunShift": "0,0,0;0,0,0",
+    "gunShift": "0,0.3,0;0,0.3,0",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "17,52;14,61;34,95;-65,33",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
-    "personaTL": "TL_cattle_persona",
+    "personaTL": "TL_cattle_persona.prefab",
     "footfireoff": 1,
     "oneMoreTL": "TL_cattle_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_cattle1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_cattle1.prefab",
     "battleEndTL": [
-      "TL_cattle_victory.prefab",
-      "TL_cattle_victory_impressionspace.prefab"
+      "L��j�e{��r�+ʚ�}��/�\u001a��^�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-2,0,-3.29;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-84.78,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01"
+      "~(!��-jw[��޲�5"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan8.png",
+    "shootNode": "cattle",
+    "startShootAnim": 800,
     "shootCD": 200,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L��j�e{��\u0012�\u001bi���"
+    ],
+    "showtimeTimelineSimplified": [
+      "L��j�e{��\u0012�\u001b�)��'�y�ky��"
+    ],
+    "showtimeScene": [
+      "\u001e(!�(!��\u001czw"
+    ],
+    "showtimeImage": "HL-beijing-cattle.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_cattle_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_cattle_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_cattle_new_critical_tl",
+    "swordAttackSimplified": "TL_cattle_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_cattle_gun_fire.prefab"
   },
   {
     "sn": "frost",
     "characterColor": "#3765E4",
-    "camModelSize": 0,
+    "camCloseType": 0,
     "featureImg": 84,
     "skillIcon": "guaidao-mianjuicon-qinyin.png",
     "generalAttackImg": "frost-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 0.2,
     "generalAttackShift": [
-      1.19,
-      -0.73,
-      0,
-      -0.35,
-      1.27,
-      -0.74
+      0
     ],
     "generalAttackScale": [
-      0.45,
-      0.6,
-      0.55
+      0
     ],
     "gunShift": "-0.345,-0.345,0.258;-0.345,-0.245,0.258",
     "gunScale": "1,0.7",
     "oneMoreImgShift": "63,-8;0,7;-20,38;-65,-49",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_frost_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_frost_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_frost2.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_frost2.prefab",
     "battleEndTL": [
-      "TL_frost_victory.prefab",
-      "TL_frost_victory_impressionspace.prefab"
+      "L��w^���r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 1,
+    "battleEndTLposition": "-1,0,-3.36;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,0,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01",
-      "fight_standby_rest02"
+      "~(!��-jw[��޲�5~(!��-jw[��޲�6"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-zidan7.png",
+    "shootNode": "frost",
+    "startShootAnim": 800,
     "shootCD": 650,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L�߮�-�x������ky��"
+    ],
+    "showtimeTimelineSimplified": [
+      "L�߮�-�x�������je���v��}�"
+    ],
+    "showtimeScene": [
+      "\u001e(!�(!����"
+    ],
+    "showtimeImage": "HL-beijing-mont.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [
-      "zhandou-buff-mont.png"
+      "�\u0016�v��n���j'���"
     ],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'������jx�\u000fڦ�����}�"
+    ],
+    "maskdisAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'������jx�\u000f݊Ʃ�櫦��i"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_frost_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_frost_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_frost_new_critical_tl",
+    "swordAttackSimplified": "TL_frost_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_frost_gun_fire.prefab"
   },
   {
     "sn": "closer",
-    "characterColor": "#E00EF8",
-    "camModelSize": 0,
+    "characterColor": "#FFCB1F",
+    "camCloseType": 0,
     "featureImg": 83,
     "skillIcon": "guaidao-mianjuicon-xinjingsuyu.png",
     "generalAttackImg": "closer-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
     "generalAttackShift": [
-      -0.95,
-      -0.64,
-      -1.9,
-      0.07,
-      -0.76,
-      -0.27
+      0
     ],
     "generalAttackScale": [
-      0.6,
-      0.6,
-      0.5
+      0
     ],
     "gunShift": "0.011,-0.326,0.281;0.039,0.1,0.72",
     "gunScale": "1,0.7",
-    "oneMoreImgShift": "12,29;-32,66;-15,50;-80,-23.7",
+    "oneMoreImgShift": "12,29;-64,84;-8,108;-80,16",
     "oneMoreImgScale": "0.45,0.45",
-    "castResCrt": "",
     "personaTL": "TL_closer_persona.prefab",
     "footfireoff": 0,
     "oneMoreTL": "TL_closer_huanshou.prefab",
     "alloutatkTL": "TL_AllOutAttack_part2_closer1.prefab",
     "alloutatkTL1080p": "TL_AllOutAttack_part2_closer_1080p.prefab",
     "battleEndTL": [
-      "TL_closer_victory.prefab",
-      "TL_closer_victory_impressionspace.prefab"
+      "L��w^���r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
     ],
+    "battleEndTLgeneral": 1,
+    "battleEndTLposition": "-1,0,-3.36;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,0,0;0,-60,0;0,-72,0",
     "idleInterval": [
-      20,
-      40
+      0
     ],
     "idleBattleAnims": [
-      "fight_standby_rest01",
-      "fight_standby_rest02"
+      "~(!��-jw[��޲�5~(!��-jw[��޲�6"
     ],
     "idleAnims": [],
+    "idleAnims2": [],
     "bulletImg": "zhandou-qiangxie-suyu-zidan.png",
+    "shootNode": "closer",
+    "startShootAnim": 800,
     "shootCD": 100,
     "endShootAnim": 500,
-    "showtimeTimeline": "",
-    "showtimeScene": "",
-    "showtimeImage": "HL-beijing-skull.png",
+    "showtimeTimeline": [
+      "L�ܖ�\u001e���\u0012�\u001bi���"
+    ],
+    "showtimeTimelineSimplified": [
+      "L�ܖ�\u001e���\u0012�\u001b�)��'�y�ky��"
+    ],
+    "showtimeScene": [
+      "\u001e(!�(!��%�ǫ"
+    ],
+    "showtimeImage": "HL-beijing-closer.png",
     "showtimeVideo": "ShowTime_Skull_start.usm",
     "showtimeVideoPause": 3,
     "buffImage": [],
     "buffSn": 0,
     "buffSkill": [],
-    "buffSkillNum": []
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'���h���ɩ�x?j�^j�ky��"
+    ],
+    "maskdisAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'���h���ɩ�x?v+\u001a������}�"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_closer_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_closer_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_closer_new_critical_tl",
+    "swordAttackSimplified": "TL_closer_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_closer_gun_fire.prefab"
+  },
+  {
+    "sn": "soy",
+    "characterColor": "#64ECFF",
+    "camCloseType": 0,
+    "featureImg": 85,
+    "skillIcon": "guaidao-mianjuicon-soy.png",
+    "generalAttackImg": "soy-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
+    "generalAttackShift": [
+      0
+    ],
+    "generalAttackScale": [
+      0
+    ],
+    "gunShift": "0.125,1.15,0.5;0.125,1.25,0.5",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "71,33;68,48;37,9;-30,4",
+    "oneMoreImgScale": "0.45,0.45",
+    "personaTL": "TL_soy_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_soy_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_soy1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_fox1.prefab",
+    "battleEndTL": [
+      "L��/��h�*ky��L��/��h�/⚚޲Ȩ��Zq�ky��"
+    ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-1.36,0,-2.64;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-110,0;0,-60,0;0,-72,0",
+    "idleInterval": [
+      0
+    ],
+    "idleBattleAnims": [
+      "~(!��-jw[��޲�5"
+    ],
+    "idleAnims": [],
+    "idleAnims2": [],
+    "bulletImg": "zhandou-qiangxie-soy-zidan.png",
+    "shootNode": "soy",
+    "startShootAnim": 800,
+    "shootCD": 700,
+    "endShootAnim": 500,
+    "showtimeTimeline": [
+      "L��/Ǌ\bK�\bm���i"
+    ],
+    "showtimeTimelineSimplified": [
+      "L��/Ǌ\bK�\bm�Ȧ�X���i���"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��.�\u0018"
+    ],
+    "showtimeImage": "HL-beijing-soy.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#��������&���ky��L��#�������ɩ�x?j�^j�ky��"
+    ],
+    "maskdisAppear": [
+      "L��#��������&���ky��L��#�������ɩ�x?v+\u001a������}�"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_soy_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_soy_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_soy_new_critical_tl.prefab",
+    "swordAttackSimplified": "TL_soy_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_soy_gun_fire.prefab"
+  },
+  {
+    "sn": "kii",
+    "characterColor": "#F4730A",
+    "camCloseType": 0,
+    "featureImg": 86,
+    "skillIcon": "guaidao-mianjuicon-kii.png",
+    "generalAttackImg": "kii-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
+    "generalAttackShift": [
+      0
+    ],
+    "generalAttackScale": [
+      0
+    ],
+    "gunShift": "0,-0.332,0.168;-0.135,0.01,0.004",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "-8.5,36;-29,62;0,70;-99,-6.2",
+    "oneMoreImgScale": "0.45,0.45",
+    "personaTL": "TL_kii_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_kii_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_kii1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_comte1.prefab",
+    "battleEndTL": [
+      "L��/��h�*ky��L��/��h�/⚚޲Ȩ��Zq�ky��"
+    ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-0.65,0,-3.5;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-21.68,0;0,-60,0;0,-72,0",
+    "idleInterval": [
+      0
+    ],
+    "idleBattleAnims": [
+      "~(!��-jw[��޲�5"
+    ],
+    "idleAnims": [],
+    "idleAnims2": [],
+    "bulletImg": "zhandou-qiangxie-kii-zidan.png",
+    "shootNode": "kii",
+    "startShootAnim": 800,
+    "shootCD": 500,
+    "endShootAnim": 500,
+    "showtimeTimeline": [
+      "L��/Ǌ\bK�\bm���i"
+    ],
+    "showtimeTimelineSimplified": [
+      "L��/Ǌ\bK�\bm�Ȧ�X���i���"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��nj|bjx"
+    ],
+    "showtimeImage": "HL-beijing-kii.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'��H��&��)���iy����"
+    ],
+    "maskdisAppear": [
+      "L��#����rZ",
+      "z��iǩ���m2�P�ӆ'��H��&��)��جj�^j�ky��"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_Kii_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_kii_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_kii_new_critical_tl",
+    "swordAttackSimplified": "TL_kii_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_kii_gun_fire_counter.prefab"
+  },
+  {
+    "sn": "kotomo",
+    "characterColor": "#FF41B6",
+    "camCloseType": 0,
+    "featureImg": 89,
+    "skillIcon": "guaidao-mianjuicon-kotomo.png",
+    "generalAttackImg": "kotomo-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
+    "generalAttackShift": [
+      0
+    ],
+    "generalAttackScale": [
+      0
+    ],
+    "gunShift": "0.06,-0.276,0.045;0.128,-0.436,0.544",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "0,14;-4,43;-33,72;-72,-19",
+    "oneMoreImgScale": "0.45,0.45",
+    "personaTL": "TL_kotomo_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_kotomo_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_kotomo1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
+    "battleEndTL": [
+      "L���&���r�+ʚ�}��/�(����������)���",
+      "��쥧\u001e���i"
+    ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
+    "idleInterval": [
+      0
+    ],
+    "idleBattleAnims": [
+      "~(!��-jw[��޲�5"
+    ],
+    "idleAnims": [],
+    "idleAnims2": [],
+    "bulletImg": "zhandou-qiangxie-suyu-zidan.png",
+    "shootNode": "kotomo",
+    "startShootAnim": 800,
+    "shootCD": 300,
+    "endShootAnim": 500,
+    "showtimeTimeline": [
+      "L���&���\u0012�\u001bi���"
+    ],
+    "showtimeTimelineSimplified": [
+      "L���&���\u0012�\u001b�)��'�y�ky��"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��.�\u0018"
+    ],
+    "showtimeImage": "HL-beijing-moko.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#�����雊�iǩ���m2�P�ӆ'��J-�j?ɩ�x?j�^j�ky��"
+    ],
+    "maskdisAppear": [
+      "L��#�����雊�iǩ���m2�P�ӆ'��J-�j?ɩ�x?v+\u001a������}�"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_kotomo_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_kotomo_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_kotomo_new_critical_tl",
+    "swordAttackSimplified": "TL_kotomo_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_kotomo_gun_fire.prefab"
+  },
+  {
+    "sn": "tirara",
+    "characterColor": "#EF0000",
+    "camCloseType": 0,
+    "featureImg": 88,
+    "skillIcon": "guaidao-mianjuicon-rin.png",
+    "generalAttackImg": "tirara-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 1,
+    "generalAttackShift": [
+      0
+    ],
+    "generalAttackScale": [
+      0
+    ],
+    "gunShift": "-0.247,0.546,0.296;0.128,-0.436,0.544",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "0,14;-34,60;-34,83;-72,-44",
+    "oneMoreImgScale": "0.45,0.45",
+    "personaTL": "TL_tirara_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_tirara_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_tirara1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
+    "battleEndTL": [
+      "L�튶�k��r�+ʚ�}��/�b����������)���",
+      "��쥧\u001e���i"
+    ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
+    "idleInterval": [
+      0
+    ],
+    "idleBattleAnims": [
+      "~(!��-jw[��޲�5"
+    ],
+    "idleAnims": [],
+    "idleAnims2": [],
+    "bulletImg": "zhandou-qiangxie-zidan4.png",
+    "shootNode": "tirara",
+    "startShootAnim": 800,
+    "shootCD": 200,
+    "endShootAnim": 500,
+    "showtimeTimeline": [
+      "L�튶�k��\u0019b�\u001bi���"
+    ],
+    "showtimeTimelineSimplified": [
+      "L�튶�k��\u0019b�\u001b�)��'�y�ky��"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��nj|bjx"
+    ],
+    "showtimeImage": "HL-beijing-rin.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#����������&���ky��L��#�����*ڭ��jx�\u000fڦ�����}�"
+    ],
+    "maskdisAppear": [
+      "L��#����������&���ky��L��#�����*ڭ��jx�\u000f݊Ʃ�櫦��i"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_tirara_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_tirara_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_tirara_new_critical_tl",
+    "swordAttackSimplified": "TL_tirara_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_tirara_gun_fire.prefab"
+  },
+  {
+    "sn": "bui",
+    "characterColor": "#E1FF32",
+    "camCloseType": 0,
+    "featureImg": 90,
+    "skillIcon": "guaidao-mianjuicon-yui.png",
+    "generalAttackImg": "yui-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 0.2,
+    "generalAttackShift": [
+      0
+    ],
+    "generalAttackScale": [
+      0
+    ],
+    "gunShift": "-0.68,-0.28,0.17;-0.68,-0.28,0.17",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "0,14;-4,43;-33,72;-72,-19",
+    "oneMoreImgScale": "0.45,0.45",
+    "personaTL": "TL_bui_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_Bui_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_Bui2.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
+    "battleEndTL": [
+      "L���/��h�*ky��L��w^���r�+�������*'���z��}�"
+    ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
+    "idleInterval": [
+      0
+    ],
+    "idleBattleAnims": [
+      "~(!��-jw[��޲�5"
+    ],
+    "idleAnims": [],
+    "idleAnims2": [],
+    "bulletImg": "zhandou-qiangxie-YUI-zidan.png",
+    "shootNode": "bui",
+    "startShootAnim": 800,
+    "shootCD": 500,
+    "endShootAnim": 500,
+    "showtimeTimeline": [
+      "L���/Ǌ\bK�\bm���i"
+    ],
+    "showtimeTimelineSimplified": [
+      "L���/Ǌ\bK�\bm�Ȧ�X���i���"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��\u001e�"
+    ],
+    "showtimeImage": "HL-beijing-yui.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [
+      "L��#������\u001e���q�ky��L��#����n�ɩ�x?v+\u001a������}�"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_Bui_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_bui_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_bui_new_critical_tl.prefab",
+    "swordAttackSimplified": "TL_bui_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_bui_gun_fire.prefab"
+  },
+  {
+    "sn": "sumitosi",
+    "characterColor": "#FF0036",
+    "camCloseType": 0,
+    "featureImg": 91,
+    "skillIcon": "guaidao-mianjuicon-sepia.png",
+    "generalAttackImg": "sepia-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 0.29,
+    "generalAttackShift": [
+      0
+    ],
+    "generalAttackScale": [
+      0
+    ],
+    "gunShift": "-0.68,-0.28,0.17;-0.68,-0.28,0.17",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "-3,0;-22,35;-41,77;-89,-31",
+    "oneMoreImgScale": "0.45,0.45",
+    "personaTL": "TL_lancer_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_lancer_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_lancer1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
+    "battleEndTL": [
+      "L��jw\u001e���r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
+    ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
+    "idleInterval": [
+      0
+    ],
+    "idleBattleAnims": [
+      "~(!��-jw[��޲�5"
+    ],
+    "idleAnims": [],
+    "idleAnims2": [],
+    "bulletImg": "zhandou-qiangxie-zidan6.png",
+    "shootNode": "mona",
+    "startShootAnim": 800,
+    "shootCD": 500,
+    "endShootAnim": 500,
+    "showtimeTimeline": [
+      "L��h��ȿ�(!�(!���}�"
+    ],
+    "showtimeTimelineSimplified": [
+      "L��h��ȿ�(!�(!��\"��b~'����i"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��.�\u0018"
+    ],
+    "showtimeImage": "HL-beijing-sepia.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [
+      "L��#�����颶�\"���z��}��/�\b�8by��h��ȿɩ�x?v+\u001a������}�"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_lancer_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_lancer_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_lancer_new_critical_tl.prefab",
+    "swordAttackSimplified": "TL_lancer_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_lancer_gun_fire.prefab"
+  },
+  {
+    "sn": "why",
+    "characterColor": "#FF41B6",
+    "camCloseType": 0,
+    "featureImg": 92,
+    "skillIcon": "guaidao-mianjuicon-riddle.png",
+    "generalAttackImg": "why-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 0.2,
+    "generalAttackShift": [
+      0
+    ],
+    "generalAttackScale": [
+      0
+    ],
+    "gunShift": "-0.68,-0.28,0.17;-0.68,-0.28,0.17",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "6,0;-25,35;-13,68;-79,-15",
+    "oneMoreImgScale": "0.45,0.45",
+    "personaTL": "TL_why_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_why_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_why1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
+    "battleEndTL": [
+      "L���/��h�*ky��L��w^���r�+�������*'���z��}�"
+    ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
+    "idleInterval": [
+      0
+    ],
+    "idleBattleAnims": [
+      "~(!��-jw[��޲�5"
+    ],
+    "idleAnims": [],
+    "idleAnims2": [],
+    "bulletImg": "zhandou-qiangxie-zidan-riddle.png",
+    "shootNode": "riddle",
+    "startShootAnim": 800,
+    "shootCD": 500,
+    "endShootAnim": 500,
+    "showtimeTimeline": [
+      "L���/Ǌ\be�\bm���i"
+    ],
+    "showtimeTimelineSimplified": [
+      "L���/Ǌ\be�\bm�Ȧ�X���i���"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��nj|bjx"
+    ],
+    "showtimeImage": "HL-beijing-riddle.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [
+      "L��#��������&���ky��L��#�����\u001c�ɩ�x?v+\u001a������}�"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_why_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_why_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_why_new_critical_tl.prefab",
+    "swordAttackSimplified": "TL_why_new_attack_tl",
+    "gunTlReplaceByCounter": "TL_why_gun_fire.prefab"
+  },
+  {
+    "sn": "okyann",
+    "characterColor": "AAAAAA==",
+    "camCloseType": 0,
+    "featureImg": 0,
+    "skillIcon": "",
+    "generalAttackImg": "icon-append-okyann.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 0.25,
+    "generalAttackShift": [],
+    "generalAttackScale": [],
+    "gunShift": "",
+    "gunScale": "",
+    "oneMoreImgShift": "",
+    "oneMoreImgScale": "",
+    "personaTL": "",
+    "footfireoff": 0,
+    "oneMoreTL": "",
+    "alloutatkTL": "TL_AllOutAttack_part2_okyann1.prefab",
+    "alloutatkTL1080p": "",
+    "battleEndTL": [],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "",
+    "battleEndTLrotation": "",
+    "idleInterval": [],
+    "idleBattleAnims": [],
+    "idleAnims": [],
+    "idleAnims2": [],
+    "bulletImg": "",
+    "shootNode": "",
+    "startShootAnim": 0,
+    "shootCD": 0,
+    "endShootAnim": 0,
+    "showtimeTimeline": [],
+    "showtimeTimelineSimplified": [],
+    "showtimeScene": [],
+    "showtimeImage": "",
+    "showtimeVideo": "",
+    "showtimeVideoPause": 0,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "",
+    "swordTlReplaceByCounter": "",
+    "swordCritTl": "",
+    "swordAttackSimplified": "",
+    "gunTlReplaceByCounter": ""
+  },
+  {
+    "sn": "umi",
+    "characterColor": "AAAAAA==",
+    "camCloseType": 0,
+    "featureImg": 0,
+    "skillIcon": "",
+    "generalAttackImg": "",
+    "pursueAttackShift": [],
+    "pursueAttackScale": 0,
+    "generalAttackShift": [],
+    "generalAttackScale": [],
+    "gunShift": "",
+    "gunScale": "",
+    "oneMoreImgShift": "",
+    "oneMoreImgScale": "",
+    "personaTL": "",
+    "footfireoff": 0,
+    "oneMoreTL": "",
+    "alloutatkTL": "TL_AllOutAttack_part2_umi1.prefab",
+    "alloutatkTL1080p": "",
+    "battleEndTL": [],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "",
+    "battleEndTLrotation": "",
+    "idleInterval": [],
+    "idleBattleAnims": [],
+    "idleAnims": [],
+    "idleAnims2": [],
+    "bulletImg": "",
+    "shootNode": "",
+    "startShootAnim": 0,
+    "shootCD": 0,
+    "endShootAnim": 0,
+    "showtimeTimeline": [],
+    "showtimeTimelineSimplified": [],
+    "showtimeScene": [],
+    "showtimeImage": "",
+    "showtimeVideo": "",
+    "showtimeVideoPause": 0,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": [],
+    "maskAppear": [],
+    "maskdisAppear": [],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "",
+    "swordTlReplaceByCounter": "",
+    "swordCritTl": "",
+    "swordAttackSimplified": "",
+    "gunTlReplaceByCounter": ""
+  },
+  {
+    "sn": "marian",
+    "characterColor": "#FFFE52",
+    "camCloseType": 0,
+    "featureImg": 95,
+    "skillIcon": "guaidao-mianjuicon-gongxiameibo.png",
+    "generalAttackImg": "marian-generalAttack.png",
+    "pursueAttackShift": [
+      0
+    ],
+    "pursueAttackScale": 0.2,
+    "generalAttackShift": [
+      0
+    ],
+    "generalAttackScale": [
+      0
+    ],
+    "gunShift": "0.47,-0.42,0.3;-0.68,-0.28,0.17",
+    "gunScale": "1,0.7",
+    "oneMoreImgShift": "87,0;60.2,2.03;27,20;-53.4,-8.2",
+    "oneMoreImgScale": "0.45,0.45",
+    "personaTL": "TL_Marian_persona.prefab",
+    "footfireoff": 0,
+    "oneMoreTL": "TL_Marian_huanshou.prefab",
+    "alloutatkTL": "TL_AllOutAttack_part2_marian1.prefab",
+    "alloutatkTL1080p": "TL_AllOutAttack_part2_panther1.prefab",
+    "battleEndTL": [
+      "L��j�����r�+ʚ�}��/�(�׫�������)���",
+      "��쥧\u001e���i"
+    ],
+    "battleEndTLgeneral": 0,
+    "battleEndTLposition": "-0.95,0,-3.28;2.09,0,-5.41;2.24,0,-2.36",
+    "battleEndTLrotation": "0,-84,0;0,-60,0;0,-72,0",
+    "idleInterval": [
+      0
+    ],
+    "idleBattleAnims": [
+      "~(!��-jw[��޲�5"
+    ],
+    "idleAnims": [],
+    "idleAnims2": [],
+    "bulletImg": "zhandou-qiangxie-zidan7.png",
+    "shootNode": "frost",
+    "startShootAnim": 800,
+    "shootCD": 200,
+    "endShootAnim": 500,
+    "showtimeTimeline": [
+      "L��j�����\u0012�\u001bi���"
+    ],
+    "showtimeTimelineSimplified": [
+      "L��j�����\u0012�\u001b�)��'�y�ky��"
+    ],
+    "showtimeScene": [
+      "\u001e(!.(!��\u001a�&�"
+    ],
+    "showtimeImage": "HL-beijing-marian.png",
+    "showtimeVideo": "ShowTime_Skull_start.usm",
+    "showtimeVideoPause": 3,
+    "buffImage": [],
+    "buffSn": 0,
+    "buffSkill": [],
+    "buffSkillNum": [],
+    "maskAppear": [
+      "L��#�������j�'��h��;����m2�P�ӆ'��f����ɩ�x?j�^j�ky��"
+    ],
+    "maskdisAppear": [
+      "L��#�������j�'��h��;����m2�P�ӆ'��f����ɩ�x?v+\u001a������}�"
+    ],
+    "defaultIKOffset": "",
+    "specialModelSn": "",
+    "specialModelIKOffset": "",
+    "swordBackTl": "TL_Marian_new_attack_back_tl.prefab",
+    "swordTlReplaceByCounter": "TL_Marian_new_attack_counter_tl.prefab",
+    "swordCritTl": "TL_Marian_new_critical_tl.prefab",
+    "swordAttackSimplified": "TL_Marian_new_attack_tl.prefab",
+    "gunTlReplaceByCounter": "TL_Marian_gun_fire.prefab"
   }
 ]

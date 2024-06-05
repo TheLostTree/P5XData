@@ -4,12 +4,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 111,
-    "key": 0,
+    "pcSteps": 116,
+    "gamePadSteps": 0,
+    "key": 111,
     "trigger": [
-      16
+      0
     ],
     "triggerValue": [
-      "301"
+      "��5�"
     ],
     "skip": 1
   },
@@ -18,16 +20,30 @@
     "switch": 1,
     "priority": 0,
     "steps": 121,
-    "key": 0,
+    "pcSteps": 121,
+    "gamePadSteps": 0,
+    "key": 121,
     "trigger": [
-      3,
-      9,
-      10
+      0
     ],
     "triggerValue": [
-      "11",
-      "268001",
-      "UI_NpcInteractiveView"
+      "�M7�B?6�\b�׫i�b��b{\r��M5"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 13,
+    "switch": 1,
+    "priority": 0,
+    "steps": 131,
+    "pcSteps": -1,
+    "gamePadSteps": 0,
+    "key": 131,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�}5P�Ӣ�\"�Ȩ�B"
     ],
     "skip": 1
   },
@@ -36,14 +52,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 141,
-    "key": 0,
+    "pcSteps": 141,
+    "gamePadSteps": 0,
+    "key": 141,
     "trigger": [
-      4,
-      18
+      0
     ],
     "triggerValue": [
-      "10061",
-      "1"
+      "�M:�B?&�\u0001�T"
     ],
     "skip": 1
   },
@@ -52,12 +68,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 151,
-    "key": 0,
+    "pcSteps": 151,
+    "gamePadSteps": 0,
+    "key": 151,
     "trigger": [
-      16
+      0
     ],
     "triggerValue": [
-      "201"
+      "�M��4ӎ�"
     ],
     "skip": 1
   },
@@ -66,12 +84,62 @@
     "switch": 1,
     "priority": 0,
     "steps": 161,
-    "key": 0,
+    "pcSteps": 161,
+    "gamePadSteps": 0,
+    "key": 161,
     "trigger": [
-      4
+      0
     ],
     "triggerValue": [
-      "11110"
+      "�N9�B?N�L��\"�u\b"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 18,
+    "switch": 1,
+    "priority": 0,
+    "steps": 181,
+    "pcSteps": 181,
+    "gamePadSteps": 0,
+    "key": 181,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�}"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 19,
+    "switch": 1,
+    "priority": 0,
+    "steps": 191,
+    "pcSteps": 191,
+    "gamePadSteps": 0,
+    "key": 191,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M5�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 20,
+    "switch": 1,
+    "priority": 0,
+    "steps": 201,
+    "pcSteps": 201,
+    "gamePadSteps": 0,
+    "key": 201,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M5�u\b�\u000bmi�\u0000�\\"
     ],
     "skip": 1
   },
@@ -80,12 +148,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 211,
-    "key": 0,
+    "pcSteps": 211,
+    "gamePadSteps": 0,
+    "key": 211,
     "trigger": [
-      16
+      0
     ],
     "triggerValue": [
-      "101"
+      "�M4�U\b�;��\u0016�yө"
     ],
     "skip": 1
   },
@@ -94,28 +164,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 221,
-    "key": 0,
+    "pcSteps": 221,
+    "gamePadSteps": 0,
+    "key": 221,
     "trigger": [
-      6,
-      19
+      0
     ],
     "triggerValue": [
-      "20001",
-      "4"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 31,
-    "switch": 1,
-    "priority": 0,
-    "steps": 311,
-    "key": 0,
-    "trigger": [
-      16
-    ],
-    "triggerValue": [
-      "102"
+      "�M4�"
     ],
     "skip": 1
   },
@@ -124,16 +180,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 321,
-    "key": 0,
+    "pcSteps": 321,
+    "gamePadSteps": 0,
+    "key": 321,
     "trigger": [
-      3,
-      6,
-      10
+      0
     ],
     "triggerValue": [
-      "31",
-      "20003",
-      "UI_AttackOneMoreSkill"
+      "�M4�B?\u0002�ZrC�x�+y)\"�"
     ],
     "skip": 1
   },
@@ -142,14 +196,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 411,
-    "key": 0,
+    "pcSteps": 411,
+    "gamePadSteps": 0,
+    "key": 411,
     "trigger": [
-      6,
-      19
+      0
     ],
     "triggerValue": [
-      "20004",
-      "2"
+      "�M4�"
     ],
     "skip": 1
   },
@@ -158,14 +212,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 421,
-    "key": 0,
+    "pcSteps": 421,
+    "gamePadSteps": 0,
+    "key": 421,
     "trigger": [
-      6,
-      19
+      0
     ],
     "triggerValue": [
-      "20004",
-      "5"
+      "�M4�"
     ],
     "skip": 1
   },
@@ -174,14 +228,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 431,
-    "key": 0,
+    "pcSteps": 431,
+    "gamePadSteps": 0,
+    "key": 431,
     "trigger": [
-      6,
-      19
+      0
     ],
     "triggerValue": [
-      "20004",
-      "8"
+      "�M4�"
     ],
     "skip": 1
   },
@@ -190,14 +244,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 441,
-    "key": 0,
+    "pcSteps": 441,
+    "gamePadSteps": 0,
+    "key": 441,
     "trigger": [
-      6,
-      10
+      0
     ],
     "triggerValue": [
-      "20004",
-      "UI_AttackOneMoreSkill"
+      "�M4�B?\u0002�ZrC�x�+y)\"�"
     ],
     "skip": 1
   },
@@ -206,16 +260,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 451,
-    "key": 0,
+    "pcSteps": 451,
+    "gamePadSteps": 0,
+    "key": 451,
     "trigger": [
-      16,
-      6,
-      10
+      0
     ],
     "triggerValue": [
-      "103",
-      "20004",
-      "UI_AttackOneMoreSkill"
+      "�M4�]\u0014#�-��$\u0002Yr"
     ],
     "skip": 1
   },
@@ -224,32 +276,30 @@
     "switch": 1,
     "priority": 0,
     "steps": 461,
-    "key": 0,
+    "pcSteps": 461,
+    "gamePadSteps": 0,
+    "key": 461,
     "trigger": [
-      4,
-      10
+      0
     ],
     "triggerValue": [
-      "10090",
-      "UI_OpenWorldMap"
+      "�M=�B?:��Z��tƩ"
     ],
-    "skip": 0
+    "skip": 1
   },
   {
     "sn": 48,
-    "switch": 0,
+    "switch": 1,
     "priority": 0,
     "steps": 481,
-    "key": 0,
+    "pcSteps": 481,
+    "gamePadSteps": 0,
+    "key": 481,
     "trigger": [
-      6,
-      19,
-      16
+      0
     ],
     "triggerValue": [
-      "20301",
-      "10",
-      "109"
+      "�B?N��\u0005�\u001et�m"
     ],
     "skip": 1
   },
@@ -258,12 +308,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 491,
-    "key": 0,
+    "pcSteps": 491,
+    "gamePadSteps": 0,
+    "key": 491,
     "trigger": [
-      16
+      0
     ],
     "triggerValue": [
-      "204"
+      "�M�"
     ],
     "skip": 1
   },
@@ -272,14 +324,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 501,
+    "pcSteps": 501,
+    "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      6,
-      19
+      0
     ],
     "triggerValue": [
-      "20100",
-      "5"
+      "�Mt�]��B?N��\u0005�\u001et�m"
     ],
     "skip": 1
   },
@@ -288,16 +340,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 511,
+    "pcSteps": 511,
+    "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      6,
-      19,
-      10
+      0
     ],
     "triggerValue": [
-      "20100",
-      "5",
-      "UI_AttackOneMoreSkill"
+      "�Mtӝ\u0014#�-��$:w�����)e"
     ],
     "skip": 1
   },
@@ -306,12 +356,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 541,
+    "pcSteps": 541,
+    "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      16
+      0
     ],
     "triggerValue": [
-      "110"
+      "�]t�t׍�"
     ],
     "skip": 1
   },
@@ -320,12 +372,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 601,
+    "pcSteps": 601,
+    "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      16
+      0
     ],
     "triggerValue": [
-      "105"
+      "�M��]"
     ],
     "skip": 1
   },
@@ -334,14 +388,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 611,
+    "pcSteps": 611,
+    "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      6,
-      19
+      0
     ],
     "triggerValue": [
-      "20300",
-      "2"
+      "�M��m"
     ],
     "skip": 1
   },
@@ -350,14 +404,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 621,
+    "pcSteps": 621,
+    "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      6,
-      19
+      0
     ],
     "triggerValue": [
-      "20300",
-      "3"
+      "�M��}"
     ],
     "skip": 1
   },
@@ -366,28 +420,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 631,
+    "pcSteps": 631,
+    "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      6,
-      19
+      0
     ],
     "triggerValue": [
-      "20300",
-      "4"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 64,
-    "switch": 1,
-    "priority": 0,
-    "steps": 641,
-    "key": 0,
-    "trigger": [
-      12
-    ],
-    "triggerValue": [
-      "3710726"
+      "�M�Ӎ"
     ],
     "skip": 1
   },
@@ -396,12 +436,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 651,
+    "pcSteps": 651,
+    "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      6
+      0
     ],
     "triggerValue": [
-      "20101"
+      "�N��E\b�;��\u0016�yө"
     ],
     "skip": 1
   },
@@ -410,14 +452,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 661,
+    "pcSteps": 661,
+    "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      6,
-      10
+      0
     ],
     "triggerValue": [
-      "20101",
-      "UI_AttackOneMoreSkill"
+      "�N�׮T#�-��$:w�����)e"
     ],
     "skip": 1
   },
@@ -426,12 +468,110 @@
     "switch": 1,
     "priority": 0,
     "steps": 671,
+    "pcSteps": 671,
+    "gamePadSteps": 0,
     "key": 0,
     "trigger": [
-      16
+      0
     ],
     "triggerValue": [
-      "108"
+      "߽uӮT#�-��$:w�����)e"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 69,
+    "switch": 1,
+    "priority": 0,
+    "steps": 691,
+    "pcSteps": 691,
+    "gamePadSteps": 0,
+    "key": 0,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�N��"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 70,
+    "switch": 1,
+    "priority": 0,
+    "steps": 701,
+    "pcSteps": 701,
+    "gamePadSteps": 0,
+    "key": 0,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "��5�m"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 71,
+    "switch": 0,
+    "priority": 0,
+    "steps": 711,
+    "pcSteps": 711,
+    "gamePadSteps": 0,
+    "key": 0,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "d>��Mu"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 72,
+    "switch": 0,
+    "priority": 0,
+    "steps": 721,
+    "pcSteps": 721,
+    "gamePadSteps": 0,
+    "key": 0,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�U\b�\u000bmi�\u0013�'$"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 73,
+    "switch": 0,
+    "priority": 0,
+    "steps": 731,
+    "pcSteps": 731,
+    "gamePadSteps": 0,
+    "key": 0,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "d>��Mw"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 74,
+    "switch": 1,
+    "priority": 0,
+    "steps": 741,
+    "pcSteps": 741,
+    "gamePadSteps": 0,
+    "key": 0,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�O6�"
     ],
     "skip": 1
   },
@@ -440,28 +580,14 @@
     "switch": 0,
     "priority": 0,
     "steps": 1111,
-    "key": 0,
+    "pcSteps": 1111,
+    "gamePadSteps": 0,
+    "key": 1111,
     "trigger": [
-      2,
-      10
+      0
     ],
     "triggerValue": [
-      "10250",
-      "UI_Divination"
-    ],
-    "skip": 0
-  },
-  {
-    "sn": 112,
-    "switch": 1,
-    "priority": 0,
-    "steps": 1121,
-    "key": 0,
-    "trigger": [
-      4
-    ],
-    "triggerValue": [
-      "10085"
+      "�M��B?\u000e+❫b�"
     ],
     "skip": 1
   },
@@ -470,12 +596,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 1131,
-    "key": 0,
+    "pcSteps": 1131,
+    "gamePadSteps": 0,
+    "key": 1131,
     "trigger": [
-      16
+      0
     ],
     "triggerValue": [
-      "321"
+      "�M��B?\n���ǈ��1��V'�"
     ],
     "skip": 1
   },
@@ -484,16 +612,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 1141,
-    "key": 0,
+    "pcSteps": 1141,
+    "gamePadSteps": 0,
+    "key": 1141,
     "trigger": [
-      4,
-      20,
-      10
+      0
     ],
     "triggerValue": [
-      "10297",
-      "609",
-      "UI_MainUI"
+      "�N��=P��j)�"
     ],
     "skip": 1
   },
@@ -502,14 +628,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 1151,
-    "key": 0,
+    "pcSteps": 1151,
+    "gamePadSteps": 0,
+    "key": 1151,
     "trigger": [
-      4,
-      16
+      0
     ],
     "triggerValue": [
-      "10301",
-      "205"
+      "�M�����]4P�ɺj@r�\b"
     ],
     "skip": 1
   },
@@ -518,62 +644,110 @@
     "switch": 1,
     "priority": 0,
     "steps": 1161,
-    "key": 0,
+    "pcSteps": 1161,
+    "gamePadSteps": 0,
+    "key": 1161,
     "trigger": [
-      4
+      0
     ],
     "triggerValue": [
-      "10340"
+      "�M�"
     ],
     "skip": 1
   },
   {
     "sn": 117,
-    "switch": 0,
+    "switch": 1,
     "priority": 0,
     "steps": 1171,
-    "key": 0,
+    "pcSteps": 1171,
+    "gamePadSteps": 0,
+    "key": 1171,
     "trigger": [
-      4,
-      10
+      0
     ],
     "triggerValue": [
-      "10456",
-      "UI_Divination"
+      "�N9�B?\u000e+❫b�"
     ],
     "skip": 1
   },
   {
     "sn": 118,
-    "switch": 0,
+    "switch": 1,
     "priority": 0,
     "steps": 1181,
-    "key": 0,
+    "pcSteps": 1181,
+    "gamePadSteps": 0,
+    "key": 1181,
     "trigger": [
-      4,
-      10
+      0
     ],
     "triggerValue": [
-      "10260",
-      "UI_MainMenu_Right"
+      "�MT#�\u001a�s\u001e��ъ\bm"
     ],
     "skip": 1
   },
   {
     "sn": 119,
-    "switch": 0,
+    "switch": 1,
     "priority": 0,
     "steps": 1191,
-    "key": 0,
+    "pcSteps": 1191,
+    "gamePadSteps": 0,
+    "key": 1193,
     "trigger": [
-      3,
-      4,
-      10
+      0
     ],
     "triggerValue": [
-      "163",
-      "10460",
-      "UI_MainMenu_Right"
+      "׭"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 120,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1201,
+    "pcSteps": 1201,
+    "gamePadSteps": 0,
+    "key": 1201,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�N��]xP��j�exǞ�)�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 121,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1211,
+    "pcSteps": 1211,
+    "gamePadSteps": 0,
+    "key": 1211,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M{ߍ;"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 122,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1221,
+    "pcSteps": 1221,
+    "gamePadSteps": 0,
+    "key": 1221,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�N���7P��j)�z{�F(!"
     ],
     "skip": 1
   },
@@ -582,32 +756,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 1411,
-    "key": 0,
+    "pcSteps": 1411,
+    "gamePadSteps": 0,
+    "key": 1413,
     "trigger": [
-      4,
-      20,
-      10
+      0
     ],
     "triggerValue": [
-      "10468",
-      "605",
-      "UI_MainUI"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 142,
-    "switch": 1,
-    "priority": 0,
-    "steps": 1421,
-    "key": 0,
-    "trigger": [
-      16,
-      10
-    ],
-    "triggerValue": [
-      "322",
-      "UI_NewOpenWorldEvent"
+      "�N:�9"
     ],
     "skip": 1
   },
@@ -616,74 +772,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 1431,
-    "key": 0,
+    "pcSteps": 1431,
+    "gamePadSteps": 0,
+    "key": 1431,
     "trigger": [
-      4,
-      10
+      0
     ],
     "triggerValue": [
-      "10464",
-      "UI_NewOpenWorldEvent"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 144,
-    "switch": 1,
-    "priority": 0,
-    "steps": 1441,
-    "key": 0,
-    "trigger": [
-      4,
-      10
-    ],
-    "triggerValue": [
-      "10470",
-      "UI_NewOpenWorldEvent"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 145,
-    "switch": 0,
-    "priority": 0,
-    "steps": 1451,
-    "key": 0,
-    "trigger": [
-      2
-    ],
-    "triggerValue": [
-      "10630"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 146,
-    "switch": 0,
-    "priority": 0,
-    "steps": 1461,
-    "key": 0,
-    "trigger": [
-      4,
-      10
-    ],
-    "triggerValue": [
-      "10696",
-      "UI_PersonaMainView"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 147,
-    "switch": 0,
-    "priority": 0,
-    "steps": 1471,
-    "key": 0,
-    "trigger": [
-      16
-    ],
-    "triggerValue": [
-      "556"
+      "�N;�B?5�\u000e��֢�]\u0012��"
     ],
     "skip": 1
   },
@@ -692,16 +788,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 1481,
-    "key": 0,
+    "pcSteps": 1481,
+    "gamePadSteps": 0,
+    "key": 1481,
     "trigger": [
-      4,
-      10,
-      16
+      0
     ],
     "triggerValue": [
-      "10476",
-      "UI_Cook",
-      "323"
+      "�N;�B?\n�$"
     ],
     "skip": 1
   },
@@ -710,60 +804,30 @@
     "switch": 1,
     "priority": 0,
     "steps": 1501,
-    "key": 0,
+    "pcSteps": 1501,
+    "gamePadSteps": 0,
+    "key": 1501,
     "trigger": [
-      4,
-      16,
-      22
+      0
     ],
     "triggerValue": [
-      "10479",
-      "324",
-      "1"
+      "�N;�B?>V��Ƣ�X��"
     ],
-    "skip": 0
+    "skip": 1
   },
   {
     "sn": 153,
     "switch": 1,
     "priority": 0,
     "steps": 1531,
-    "key": 0,
+    "pcSteps": 1531,
+    "gamePadSteps": 0,
+    "key": 1531,
     "trigger": [
-      4,
-      16
+      0
     ],
     "triggerValue": [
-      "10354",
-      "203"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 155,
-    "switch": 1,
-    "priority": 0,
-    "steps": 1551,
-    "key": 0,
-    "trigger": [
-      16
-    ],
-    "triggerValue": [
-      "552"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 156,
-    "switch": 1,
-    "priority": 0,
-    "steps": 1561,
-    "key": 0,
-    "trigger": [
-      16
-    ],
-    "triggerValue": [
-      "553"
+      "�M"
     ],
     "skip": 1
   },
@@ -772,44 +836,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 1571,
-    "key": 0,
+    "pcSteps": 1571,
+    "gamePadSteps": 0,
+    "key": 1571,
     "trigger": [
-      4,
-      20,
-      10
+      0
     ],
     "triggerValue": [
-      "10261",
-      "903",
-      "UI_PalaceUI"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 158,
-    "switch": 1,
-    "priority": 0,
-    "steps": 1581,
-    "key": 0,
-    "trigger": [
-      16
-    ],
-    "triggerValue": [
-      "501"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 159,
-    "switch": 1,
-    "priority": 0,
-    "steps": 1591,
-    "key": 0,
-    "trigger": [
-      16
-    ],
-    "triggerValue": [
-      "502"
+      "�M���7"
     ],
     "skip": 1
   },
@@ -818,30 +852,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 1601,
-    "key": 0,
+    "pcSteps": 1601,
+    "gamePadSteps": 0,
+    "key": 1604,
     "trigger": [
-      4,
-      20,
-      10
+      0
     ],
     "triggerValue": [
-      "10120",
-      "905",
-      "UI_MainUI"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 161,
-    "switch": 1,
-    "priority": 0,
-    "steps": 1611,
-    "key": 0,
-    "trigger": [
-      16
-    ],
-    "triggerValue": [
-      "310"
+      "�Mu��9"
     ],
     "skip": 1
   },
@@ -850,30 +868,14 @@
     "switch": 1,
     "priority": 0,
     "steps": 1621,
-    "key": 0,
+    "pcSteps": 1621,
+    "gamePadSteps": 0,
+    "key": 1623,
     "trigger": [
-      4,
-      10,
-      20
+      0
     ],
     "triggerValue": [
-      "10460",
-      "UI_MainUI",
-      "6"
-    ],
-    "skip": 1
-  },
-  {
-    "sn": 163,
-    "switch": 1,
-    "priority": 0,
-    "steps": 1631,
-    "key": 0,
-    "trigger": [
-      16
-    ],
-    "triggerValue": [
-      "503"
+      "�N9�"
     ],
     "skip": 1
   },
@@ -882,28 +884,558 @@
     "switch": 1,
     "priority": 0,
     "steps": 1641,
-    "key": 0,
+    "pcSteps": 1641,
+    "gamePadSteps": 0,
+    "key": 1645,
     "trigger": [
-      4,
-      10
+      0
     ],
     "triggerValue": [
-      "10696",
-      "UI_PersonaMainView"
+      "�N��B?=��v�j)Չ�"
     ],
-    "skip": 0
+    "skip": 1
   },
   {
-    "sn": 165,
-    "switch": 0,
+    "sn": 166,
+    "switch": 1,
     "priority": 0,
-    "steps": 1651,
-    "key": 0,
+    "steps": 1661,
+    "pcSteps": 1661,
+    "gamePadSteps": 0,
+    "key": 1661,
     "trigger": [
-      16
+      0
     ],
     "triggerValue": [
-      "557"
+      "�Mv�B?1��Hԓ����"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 167,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1671,
+    "pcSteps": 1671,
+    "gamePadSteps": 0,
+    "key": 1672,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P��jV�yj+��\"��yX�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 168,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1681,
+    "pcSteps": 1681,
+    "gamePadSteps": 0,
+    "key": 1681,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�MT#�^���N���I����yX�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 169,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1691,
+    "pcSteps": 1691,
+    "gamePadSteps": 0,
+    "key": 1691,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M:�B?=�Zq�\b�]"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 170,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1701,
+    "pcSteps": 1701,
+    "gamePadSteps": 0,
+    "key": 1704,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P��j�b�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 171,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1711,
+    "pcSteps": 1711,
+    "gamePadSteps": 0,
+    "key": 1711,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M��]|P��j)�z{�F(!"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 172,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1721,
+    "pcSteps": 1721,
+    "gamePadSteps": 0,
+    "key": 1721,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�^:�B?U�oz�뉩D��ڝǕ��"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 173,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1731,
+    "pcSteps": 1731,
+    "gamePadSteps": 0,
+    "key": 1731,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      ""
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 174,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1741,
+    "pcSteps": 1741,
+    "gamePadSteps": 0,
+    "key": 1741,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P�Ī�\t��V'�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 175,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1751,
+    "pcSteps": 1751,
+    "gamePadSteps": 0,
+    "key": 1752,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "׾�#�ڕ��V'�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 176,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1761,
+    "pcSteps": 1761,
+    "gamePadSteps": 0,
+    "key": 1761,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 177,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1771,
+    "pcSteps": 1771,
+    "gamePadSteps": 0,
+    "key": 1773,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "׾"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 178,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1781,
+    "pcSteps": 1781,
+    "gamePadSteps": 0,
+    "key": 1781,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M7"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 179,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1791,
+    "pcSteps": 1791,
+    "gamePadSteps": 0,
+    "key": 1791,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P�Ԟ*'1��"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 180,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1801,
+    "pcSteps": 1801,
+    "gamePadSteps": 0,
+    "key": 1801,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P��i�Z��"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 181,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1811,
+    "pcSteps": 1811,
+    "gamePadSteps": 0,
+    "key": 1811,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P�ӣ#\u001a�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 182,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1821,
+    "pcSteps": 1821,
+    "gamePadSteps": 0,
+    "key": 1821,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�}\u0014#�Z��^1筊x"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 183,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1831,
+    "pcSteps": 1831,
+    "gamePadSteps": 0,
+    "key": 1831,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P���j)Չ�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 184,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1841,
+    "pcSteps": 1841,
+    "gamePadSteps": 0,
+    "key": 1841,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M=�_7P���j)Չ�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 185,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1851,
+    "pcSteps": 1851,
+    "gamePadSteps": 0,
+    "key": 1851,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M�#�h�祊׌�؟1��V'�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 186,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1861,
+    "pcSteps": 1861,
+    "gamePadSteps": 0,
+    "key": 1861,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�N\u0014#�h�祊׍�׌j�b{"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 187,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1871,
+    "pcSteps": 1871,
+    "gamePadSteps": 0,
+    "key": 1871,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�6�}"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 188,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1881,
+    "pcSteps": 1881,
+    "gamePadSteps": 0,
+    "key": 1881,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�]"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 189,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1891,
+    "pcSteps": 1891,
+    "gamePadSteps": 0,
+    "key": 1891,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�Mt�B?\u0001�b�+r"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 190,
+    "switch": 0,
+    "priority": 0,
+    "steps": 1901,
+    "pcSteps": 1901,
+    "gamePadSteps": 0,
+    "key": 1901,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M�P�Ӣ�\"�Ȩ�B"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 192,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1921,
+    "pcSteps": 1921,
+    "gamePadSteps": 0,
+    "key": 1921,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�E\b�\u0016��W�y�b�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 193,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1931,
+    "pcSteps": 1931,
+    "gamePadSteps": 0,
+    "key": 1931,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 194,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1941,
+    "pcSteps": 1941,
+    "gamePadSteps": 0,
+    "key": 1941,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "׮�#�ڕ�\u001eZ��tȥy�\u001eV'�"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 195,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1951,
+    "pcSteps": 1951,
+    "gamePadSteps": 0,
+    "key": 1951,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 196,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1961,
+    "pcSteps": 1961,
+    "gamePadSteps": 0,
+    "key": 1961,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "߭"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 198,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1981,
+    "pcSteps": 1981,
+    "gamePadSteps": 0,
+    "key": 1981,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�]<�B?\n\u0016����x�Z�*%��-��"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 199,
+    "switch": 1,
+    "priority": 0,
+    "steps": 1991,
+    "pcSteps": 1991,
+    "gamePadSteps": 0,
+    "key": 1993,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�]<"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 200,
+    "switch": 1,
+    "priority": 0,
+    "steps": 2001,
+    "pcSteps": 2001,
+    "gamePadSteps": 0,
+    "key": 2001,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 999,
+    "switch": 1,
+    "priority": 0,
+    "steps": 9991,
+    "pcSteps": 9991,
+    "gamePadSteps": 0,
+    "key": 9991,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P�ӆ'�\n�)�\u0007-����X�"
     ],
     "skip": 1
   }

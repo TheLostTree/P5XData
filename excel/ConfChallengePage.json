@@ -1,52 +1,38 @@
 [
   {
-    "sn": 1,
-    "pageName": "厄抑之境",
+    "sn": 101,
+    "pageName": "wanfaheji-yeqian01-1-i18n.png",
+    "pageType": 1,
+    "funcOpen": 302,
     "type": 1,
-    "pageDesc": "怪盗养成材料",
+    "pageDesc": "基础培养材料",
     "list": [
-      101,
-      102,
-      103
-    ],
-    "sort": 2
-  },
-  {
-    "sn": 2,
-    "pageName": "诡影征讨",
-    "type": 2,
-    "pageDesc": "经验材料/魂石",
-    "list": [
-      207,
-      208,
-      209,
-      210
+      0
     ],
     "sort": 1
   },
   {
-    "sn": 3,
-    "pageName": "阴影狩猎",
-    "type": 3,
-    "pageDesc": "稀有人格面具",
+    "sn": 102,
+    "pageName": "wanfaheji-yeqian02-1-i18n.png",
+    "pageType": 2,
+    "funcOpen": 302,
+    "type": 1,
+    "pageDesc": "怪盗潜能材料",
     "list": [
-      201,
-      202,
-      203,
-      204,
-      205,
-      206
+      0
     ],
-    "sort": 3
+    "sort": 2
   },
   {
-    "sn": 4,
-    "pageName": "天鹅绒试炼",
-    "type": 4,
-    "pageDesc": "丰厚晶核奖励",
+    "sn": 103,
+    "pageName": "wanfaheji-yeqian03-1-i18n.png",
+    "pageType": 3,
+    "funcOpen": 302,
+    "type": 1,
+    "pageDesc": "武器突破材料",
     "list": [
-      301
+      0
     ],
-    "sort": 4
+    "sort": 3
   }
 ]

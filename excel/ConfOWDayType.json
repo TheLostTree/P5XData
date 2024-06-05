@@ -3,6 +3,7 @@
     "sn": 1,
     "name": "上学日",
     "color": "#000000",
+    "color2": "#000000",
     "image": "zhujiemian-kaifangshijie-baitian.png",
     "image2": "zhujiemian-kaifangshijie-baitian.png",
     "image3": "zhujiemian-kaifangshijie-baitian.png"
@@ -10,7 +11,8 @@
   {
     "sn": 2,
     "name": "休息日",
-    "color": "#ff1b30",
+    "color": "#000000",
+    "color2": "#ff1b30",
     "image": "zhujiemian-kaifangshijie-huanghun.png",
     "image2": "zhujiemian-kaifangshijie-huanghun.png",
     "image3": "zhujiemian-kaifangshijie-huanghun.png"
@@ -18,7 +20,8 @@
   {
     "sn": 3,
     "name": "休息日",
-    "color": "#57d7ff",
+    "color": "#000000",
+    "color2": "#57d7ff",
     "image": "zhujiemian-kaifangshijie-huanghun.png",
     "image2": "zhujiemian-kaifangshijie-huanghun.png",
     "image3": "zhujiemian-kaifangshijie-huanghun.png"

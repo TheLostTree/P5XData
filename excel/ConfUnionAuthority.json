@@ -1,7 +1,7 @@
 [
   {
     "sn": 1,
-    "des": "会长",
+    "des": "代理人",
     "level": 3,
     "joinApprove": 1,
     "adjustPosition": 1,
@@ -11,11 +11,12 @@
     "transferChairman": 1,
     "exit": 0,
     "moveOut": 1,
-    "resignation": 0
+    "resignation": 0,
+    "editBadge": 1
   },
   {
     "sn": 2,
-    "des": "副会长",
+    "des": "副手",
     "level": 2,
     "joinApprove": 1,
     "adjustPosition": 0,
@@ -23,9 +24,10 @@
     "joinSetting": 0,
     "changeName": 0,
     "transferChairman": 0,
-    "exit": 0,
+    "exit": 1,
     "moveOut": 1,
-    "resignation": 1
+    "resignation": 1,
+    "editBadge": 1
   },
   {
     "sn": 3,
@@ -39,6 +41,7 @@
     "transferChairman": 0,
     "exit": 1,
     "moveOut": 0,
-    "resignation": 0
+    "resignation": 0,
+    "editBadge": 0
   }
 ]

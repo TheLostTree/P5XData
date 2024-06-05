@@ -1,255 +1,1912 @@
 [
   {
     "sn": 10101,
-    "groupSn": 1,
-    "frontBattle": 0,
-    "difficultLevel": 1,
-    "instSn": 40606,
-    "battleName": "战斗1",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
+    "instSn": 50101,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16101002,
     "maxStars": 3,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
     "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
+      "����"
     ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-genbu.png",
+    "monsterShow": []
   },
   {
     "sn": 10102,
-    "groupSn": 1,
-    "frontBattle": 10101,
-    "difficultLevel": 1,
-    "instSn": 40607,
-    "battleName": "战斗2",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
+    "instSn": 50102,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16101003,
     "maxStars": 3,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
     "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
+      "����"
     ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-archangel.png",
+    "monsterShow": []
   },
   {
     "sn": 10103,
-    "groupSn": 1,
-    "frontBattle": 10102,
-    "difficultLevel": 1,
-    "instSn": 40601,
-    "battleName": "战斗3",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
+    "instSn": 50103,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16101004,
     "maxStars": 3,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
     "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
+      "�m��"
     ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-zouchouten.png",
+    "monsterShow": [
+      0
+    ]
   },
   {
     "sn": 10201,
-    "groupSn": 2,
-    "frontBattle": 0,
-    "difficultLevel": 1,
-    "instSn": 40602,
-    "battleName": "战斗1",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
+    "instSn": 50104,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16101005,
     "maxStars": 3,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
     "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
+      "����"
     ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-berith.png",
+    "monsterShow": []
   },
   {
     "sn": 10202,
-    "groupSn": 2,
-    "frontBattle": 10201,
-    "difficultLevel": 1,
-    "instSn": 40603,
-    "battleName": "战斗2",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
+    "instSn": 50105,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16101006,
     "maxStars": 3,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
     "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
+      "����"
     ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-nekoshogun.png",
+    "monsterShow": []
   },
   {
     "sn": 10203,
-    "groupSn": 2,
-    "frontBattle": 10202,
-    "difficultLevel": 1,
-    "instSn": 40604,
-    "battleName": "战斗3",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
+    "instSn": 50106,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16101007,
     "maxStars": 3,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
     "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
+      "�m��"
     ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-yatagarasu.png",
+    "monsterShow": [
+      0
+    ]
   },
   {
     "sn": 10301,
-    "groupSn": 3,
-    "frontBattle": 0,
-    "difficultLevel": 1,
-    "instSn": 40605,
-    "battleName": "战斗1",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
+    "instSn": 50107,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16101008,
     "maxStars": 3,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
     "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
+      "����"
     ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-sisa.png",
+    "monsterShow": []
   },
   {
     "sn": 10302,
-    "groupSn": 3,
-    "frontBattle": 10301,
-    "difficultLevel": 1,
-    "instSn": 40606,
-    "battleName": "战斗2",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
+    "instSn": 50108,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16101009,
     "maxStars": 3,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
     "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
+      "����"
     ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-unicorn.png",
+    "monsterShow": []
   },
   {
     "sn": 10303,
-    "groupSn": 3,
-    "frontBattle": 10302,
-    "difficultLevel": 1,
-    "instSn": 40607,
-    "battleName": "战斗3",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
+    "instSn": 50109,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16101010,
     "maxStars": 3,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
     "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
+      "�m��"
     ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-jikokuten.png",
+    "monsterShow": [
+      0
+    ]
   },
   {
     "sn": 10401,
-    "groupSn": 4,
-    "frontBattle": 0,
-    "difficultLevel": 1,
-    "instSn": 40701,
-    "battleName": "BOSS战1",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
-    "maxStars": 3,
+    "instSn": 50110,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 5,
+    "battleName": "终焉试炼上",
+    "battleScore": 0,
+    "scoreRatio": 1,
+    "npcSn": 0,
+    "maxStars": 0,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
-    "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
-    ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-cerberus.png",
+    "monsterShow": [
+      0
+    ]
   },
   {
     "sn": 10402,
-    "groupSn": 4,
-    "frontBattle": 0,
-    "difficultLevel": 2,
-    "instSn": 40702,
-    "battleName": "BOSS战2",
-    "difficultDes": "难度描述难度描述",
-    "npcSn": 16101001,
+    "instSn": 50111,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 5,
+    "battleName": "终焉试炼下",
+    "battleScore": 0,
+    "scoreRatio": 3,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-melchizedek.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 11101,
+    "instSn": 50101,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16102002,
     "maxStars": 3,
     "starEvents": [
-      1001,
-      1002,
-      1003
+      [
+        0
+      ]
     ],
     "starDesc": [
-      "10回合内取得胜利",
-      "20回合内取得胜利",
-      "30回合内取得胜利"
+      "����"
     ],
-    "monsterHead": "",
-    "monsterGroup": []
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-genbu.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 11102,
+    "instSn": 50102,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16102003,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-archangel.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 11103,
+    "instSn": 50103,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16102004,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�m��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-zouchouten.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 11201,
+    "instSn": 50104,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16102005,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-berith.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 11202,
+    "instSn": 50105,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16102006,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-nekoshogun.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 11203,
+    "instSn": 50106,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16102007,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�m��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-yatagarasu.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 11301,
+    "instSn": 50107,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16102008,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-sisa.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 11302,
+    "instSn": 50108,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16102009,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-unicorn.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 11303,
+    "instSn": 50109,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16102010,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�m��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-jikokuten.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 11401,
+    "instSn": 50110,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 5,
+    "battleName": "终焉试炼上",
+    "battleScore": 0,
+    "scoreRatio": 1,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-cerberus.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 11402,
+    "instSn": 50111,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 5,
+    "battleName": "终焉试炼下",
+    "battleScore": 0,
+    "scoreRatio": 1,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-melchizedek.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 21101,
+    "instSn": 50201,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16103010,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-sisa.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 21102,
+    "instSn": 50202,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16103011,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-unicorn.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 21103,
+    "instSn": 50203,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16103012,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�m��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-daisoujou.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 21201,
+    "instSn": 50204,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16103013,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-apsaras.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 21202,
+    "instSn": 50205,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16103014,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-leanan_sidhe.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 21203,
+    "instSn": 50206,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16103015,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�m��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-byako.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 21301,
+    "instSn": 50207,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16103016,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-erigor.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 21302,
+    "instSn": 50208,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16103017,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-fuuki.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 21303,
+    "instSn": 50209,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16103018,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�m��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-lachesis.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 21401,
+    "instSn": 50210,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 7,
+    "battleName": "终焉试炼上",
+    "battleScore": 0,
+    "scoreRatio": 1.5,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-zaougongen.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 21402,
+    "instSn": 50211,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 9,
+    "battleName": "终焉试炼下",
+    "battleScore": 0,
+    "scoreRatio": 1,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-oberon.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 22101,
+    "instSn": 50201,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16103010,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-sisa.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 22102,
+    "instSn": 50202,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16103011,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-unicorn.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 22103,
+    "instSn": 50203,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16103012,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�m��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-daisoujou.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 22201,
+    "instSn": 50204,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16103013,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-apsaras.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 22202,
+    "instSn": 50205,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16103014,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-leanan_sidhe.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 22203,
+    "instSn": 50206,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16103015,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�m��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-byako.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 22301,
+    "instSn": 50207,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16103016,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-erigor.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 22302,
+    "instSn": 50208,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16103017,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-fuuki.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 22303,
+    "instSn": 50209,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 4000,
+    "scoreRatio": 0,
+    "npcSn": 16103018,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�m��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-lachesis.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 22401,
+    "instSn": 50210,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 7,
+    "battleName": "终焉试炼上",
+    "battleScore": 0,
+    "scoreRatio": 1.5,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-zaougongen.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 22402,
+    "instSn": 50211,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 9,
+    "battleName": "终焉试炼下",
+    "battleScore": 0,
+    "scoreRatio": 1,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-oberon.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 31101,
+    "instSn": 50301,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104010,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-genbu.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 31102,
+    "instSn": 50302,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104011,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-archangel.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 31103,
+    "instSn": 50303,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104012,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-zouchouten.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 31201,
+    "instSn": 50304,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104013,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-jackfrost.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 31202,
+    "instSn": 50305,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104014,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-leanan_sidhe.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 31203,
+    "instSn": 50306,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104015,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-whiterider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 31301,
+    "instSn": 50307,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104016,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-blackrider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 31302,
+    "instSn": 50308,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104017,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-redrider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 31303,
+    "instSn": 50309,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104018,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-palerider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 31401,
+    "instSn": 50310,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 5,
+    "battleName": "终焉试炼上",
+    "battleScore": 0,
+    "scoreRatio": 1,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-baphomet.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 31402,
+    "instSn": 50311,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 7,
+    "battleName": "终焉试炼下",
+    "battleScore": 0,
+    "scoreRatio": 1.5,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-zaougongen.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 32101,
+    "instSn": 50301,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104010,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-genbu.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 32102,
+    "instSn": 50302,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104011,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-archangel.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 32103,
+    "instSn": 50303,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104012,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-zouchouten.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 32201,
+    "instSn": 50304,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104013,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-jackfrost.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 32202,
+    "instSn": 50305,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104014,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-leanan_sidhe.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 32203,
+    "instSn": 50306,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104015,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-whiterider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 32301,
+    "instSn": 50307,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104016,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-blackrider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 32302,
+    "instSn": 50308,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104017,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-redrider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 32303,
+    "instSn": 50309,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104018,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-palerider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 32401,
+    "instSn": 50310,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 5,
+    "battleName": "终焉试炼上",
+    "battleScore": 0,
+    "scoreRatio": 1,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-baphomet.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 32402,
+    "instSn": 50311,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 7,
+    "battleName": "终焉试炼下",
+    "battleScore": 0,
+    "scoreRatio": 1.5,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-zaougongen.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 33101,
+    "instSn": 50301,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104010,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-genbu.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 33102,
+    "instSn": 50302,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104011,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-archangel.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 33103,
+    "instSn": 50303,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104012,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-zouchouten.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 33201,
+    "instSn": 50304,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104013,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-jackfrost.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 33202,
+    "instSn": 50305,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104014,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "�}��"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-leanan_sidhe.png",
+    "monsterShow": []
+  },
+  {
+    "sn": 33203,
+    "instSn": 50306,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104015,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-whiterider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 33301,
+    "instSn": 50307,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼一",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104016,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-blackrider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 33302,
+    "instSn": 50308,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼二",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104017,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-redrider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 33303,
+    "instSn": 50309,
+    "scoreGuaiWu": [],
+    "actionNum": 0,
+    "battleName": "试炼三",
+    "battleScore": 2000,
+    "scoreRatio": 0,
+    "npcSn": 16104018,
+    "maxStars": 3,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [
+      "����"
+    ],
+    "starScore": [
+      0
+    ],
+    "monsterHead": "B-guaiwutouxiang-palerider.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 33401,
+    "instSn": 50310,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 5,
+    "battleName": "终焉试炼上",
+    "battleScore": 0,
+    "scoreRatio": 1,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-baphomet.png",
+    "monsterShow": [
+      0
+    ]
+  },
+  {
+    "sn": 33402,
+    "instSn": 50311,
+    "scoreGuaiWu": [
+      0
+    ],
+    "actionNum": 7,
+    "battleName": "终焉试炼下",
+    "battleScore": 0,
+    "scoreRatio": 1.5,
+    "npcSn": 0,
+    "maxStars": 0,
+    "starEvents": [
+      [
+        0
+      ]
+    ],
+    "starDesc": [],
+    "starScore": [],
+    "monsterHead": "B-guaiwutouxiang-zaougongen.png",
+    "monsterShow": [
+      0
+    ]
   }
 ]

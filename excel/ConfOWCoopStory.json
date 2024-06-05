@@ -1,714 +1,6691 @@
 [
   {
-    "sn": 112,
-    "coopSn": 1,
-    "type": 1,
-    "unlockType": 0,
-    "unlockParam": "",
+    "sn": 101,
     "name": "看电影？",
     "desc": "梅洛普似乎正在因为和电影有关的事情而烦恼……",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151451,
-    "award": [
-      224011
-    ]
-  },
-  {
-    "sn": 113,
     "coopSn": 1,
     "type": 1,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "流行的饮料",
-    "desc": "梅洛普试图分析街上的行人们都拿着同一种饮料的原因",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151456,
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020125",
+    "mapCloseDialog": "COOP49113",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151481,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 114,
+    "sn": 102,
+    "name": "想要在校园闲逛",
+    "desc": "梅洛普想要在校园里逛逛",
     "coopSn": 1,
     "type": 1,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "艺术展",
-    "desc": "梅洛普对街上张贴的艺术展海报很感兴趣",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151461,
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 26,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020126",
+    "mapCloseDialog": "COOP49142",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151489,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 115,
-    "coopSn": 1,
-    "type": 1,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "探究神话传说",
+    "sn": 104,
+    "name": "旧书店",
     "desc": "梅洛普对神话传说很感兴趣，邀请她一起去旧书店逛逛吧",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151466,
-    "award": [
-      224011
-    ]
-  },
-  {
-    "sn": 116,
     "coopSn": 1,
     "type": 1,
     "unlockType": 0,
     "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 6,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020127",
+    "mapCloseDialog": "COOP49128",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151485,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 105,
     "name": "摩天轮",
     "desc": "梅洛普很好奇摩天轮究竟是什么装置",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151471,
-    "award": [
-      224011
-    ]
-  },
-  {
-    "sn": 117,
     "coopSn": 1,
     "type": 1,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "星空之美",
-    "desc": "梅洛普对能随时观察星星的天文馆很有兴趣",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151476,
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 20,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020128",
+    "mapCloseDialog": "COOP49208",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151483,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 121,
+    "sn": 106,
+    "name": "星空之美",
+    "desc": "梅洛普对能随时观察星星的天文馆很有兴趣",
     "coopSn": 1,
-    "type": 2,
+    "type": 1,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "梅洛普解锁0-1",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151102,
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 11,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020129",
+    "mapCloseDialog": "COOP49128",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151487,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 107,
+    "name": "看电影？",
+    "desc": "梅洛普似乎正在因为和电影有关的事情而烦恼……",
+    "coopSn": 1,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 101,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020125",
+    "mapCloseDialog": "COOP49113",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151482,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 108,
+    "name": "想要在校园闲逛",
+    "desc": "梅洛普想要在校园里逛逛",
+    "coopSn": 1,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 102,
+    "unlockMap": 26,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020126",
+    "mapCloseDialog": "COOP49142",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151490,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 110,
+    "name": "旧书店",
+    "desc": "梅洛普对神话传说很感兴趣，邀请她一起去旧书店逛逛吧",
+    "coopSn": 1,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 104,
+    "unlockMap": 6,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020127",
+    "mapCloseDialog": "COOP49128",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151486,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 111,
+    "name": "摩天轮",
+    "desc": "梅洛普很好奇摩天轮究竟是什么装置",
+    "coopSn": 1,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 105,
+    "unlockMap": 20,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020128",
+    "mapCloseDialog": "COOP49208",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151484,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 112,
+    "name": "星空之美",
+    "desc": "梅洛普对能随时观察星星的天文馆很有兴趣",
+    "coopSn": 1,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 106,
+    "unlockMap": 11,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020129",
+    "mapCloseDialog": "COOP49128",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151488,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 122,
+    "name": "梅洛普2",
+    "desc": "似乎有进一步了解梅洛普的好机会……",
     "coopSn": 1,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "梅洛普1-2",
-    "desc": "似乎有进一步了解梅洛普的好机会……",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
     "startDialog": "",
-    "tipsMessage": 1000049,
+    "tipsMessage": 1019102,
+    "branchDialog": [],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
     "storyPoint": 1151401,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30102,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 123,
+    "name": "梅洛普3",
+    "desc": "完成了梅洛普的「订单」，去看看她会说什么吧",
     "coopSn": 1,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "梅洛普2-3",
-    "desc": "完成了梅洛普的「订单」，去看看她会说什么吧",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
     "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151402,
+    "tipsMessage": 1019103,
+    "branchDialog": [],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151406,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30103,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 124,
+    "name": "梅洛普4",
+    "desc": "完成了梅洛普的「特别计划」，去找她聊聊吧",
     "coopSn": 1,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
     "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "tipsMessage": 1019103,
+    "branchDialog": [],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151411,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30104,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 125,
+    "name": "梅洛普5",
+    "desc": "完成了梅洛普的「特别计划」，去找她聊聊吧",
     "coopSn": 1,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
     "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "tipsMessage": 1019103,
+    "branchDialog": [],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151415,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30105,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 126,
+    "name": "梅洛普6",
+    "desc": "完成了梅洛普的「特别计划」，去找她聊聊吧",
     "coopSn": 1,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
     "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "tipsMessage": 1019103,
+    "branchDialog": [],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151421,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30106,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 127,
+    "name": "梅洛普7",
+    "desc": "完成了梅洛普的「特别计划」，去找她聊聊吧",
     "coopSn": 1,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
     "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "tipsMessage": 1019103,
+    "branchDialog": [],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151431,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30107,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 128,
+    "name": "梅洛普8",
+    "desc": "完成了梅洛普的「特别计划」，去找她聊聊吧",
     "coopSn": 1,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
     "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "tipsMessage": 1019103,
+    "branchDialog": [],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151441,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30108,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 129,
+    "name": "梅洛普9",
+    "desc": "完成了梅洛普的「特别计划」，去找她聊聊吧",
     "coopSn": 1,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
     "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "tipsMessage": 1019103,
+    "branchDialog": [],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151451,
     "award": [
-      224011
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30109,
+    "episodeOrder": 0,
+    "serverCheckCoop": 1
   },
   {
-    "sn": 211,
-    "coopSn": 2,
-    "type": 1,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "去公园吧！",
-    "desc": "素羽想要和你一起去井之头公园度过悠闲的时光",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1150751,
-    "award": [
-      224021
-    ]
-  },
-  {
-    "sn": 212,
-    "coopSn": 2,
-    "type": 1,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "一起去找参考书",
-    "desc": "素羽希望能和你一起去找一些教辅书来挽救成绩",
-    "startDialog": "COOP59020",
-    "tipsMessage": 1000049,
-    "storyPoint": 1150752,
-    "award": [
-      224021
-    ]
-  },
-  {
-    "sn": 213,
-    "coopSn": 2,
-    "type": 1,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "去吃拉面吧！",
-    "desc": "和素羽一起去吃传说中的拉面吧",
-    "startDialog": "COOP59050",
-    "tipsMessage": 1000049,
-    "storyPoint": 1150753,
-    "award": [
-      224021
-    ]
-  },
-  {
-    "sn": 214,
-    "coopSn": 2,
-    "type": 1,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "热闹的原宿",
-    "desc": "和素羽一起去步行街购物吧",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1150754,
-    "award": [
-      224021
-    ]
-  },
-  {
-    "sn": 215,
-    "coopSn": 2,
-    "type": 1,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "去看星星吗",
-    "desc": "静静地享受星空下的时光吧",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1150756,
-    "award": [
-      224021
-    ]
-  },
-  {
-    "sn": 221,
-    "coopSn": 2,
+    "sn": 130,
+    "name": "梅洛普10",
+    "desc": "完成了梅洛普的「特别计划」，去找她聊聊吧",
+    "coopSn": 1,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
     "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151002,
+    "tipsMessage": 1019103,
+    "branchDialog": [],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151461,
     "award": [
-      224021
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30110,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 131,
+    "name": "想要深入了解",
+    "desc": "梅洛普似乎想要提出一个不寻常的建议",
+    "coopSn": 1,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 0,
+    "unlockMap": 27,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49500",
+    "tipsMessage": 1019104,
+    "branchDialog": [
+      "\b���t�#�?�y�"
+    ],
+    "mapTipStr": "1020123",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151491,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 132,
+    "name": "想要深入了解",
+    "desc": "梅洛普似乎想要提出一个不寻常的建议",
+    "coopSn": 1,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 131,
+    "unlockMap": 27,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49500",
+    "tipsMessage": 1019104,
+    "branchDialog": [
+      "\b���t�#�?�y�"
+    ],
+    "mapTipStr": "1020123",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151492,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 133,
+    "name": "旧书店",
+    "desc": "梅洛普对神话传说很感兴趣，邀请她一起去旧书店逛逛吧",
+    "coopSn": 1,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 104,
+    "unlockMap": 6,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020127",
+    "mapCloseDialog": "COOP49128",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151494,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 134,
+    "name": "摩天轮",
+    "desc": "梅洛普很好奇摩天轮究竟是什么装置",
+    "coopSn": 1,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 105,
+    "unlockMap": 20,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020128",
+    "mapCloseDialog": "COOP49208",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151493,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 135,
+    "name": "星空之美",
+    "desc": "梅洛普对能随时观察星星的天文馆很有兴趣",
+    "coopSn": 1,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 106,
+    "unlockMap": 11,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP49300",
+    "tipsMessage": 1019101,
+    "branchDialog": [
+      "\b�����#�?�w�"
+    ],
+    "mapTipStr": "1020129",
+    "mapCloseDialog": "COOP49128",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151495,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 201,
+    "name": "去公园吧！",
+    "desc": "素羽想要和你一起去井之头公园锻炼",
+    "coopSn": 2,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 9,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020106",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150763,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 202,
+    "name": "校园运动！",
+    "desc": "素羽想找你一起去体育馆运动一下",
+    "coopSn": 2,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 26,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020122",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150764,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 203,
+    "name": "吃也是修行！",
+    "desc": "素羽想找你一起去吃点好吃的犒劳自己",
+    "coopSn": 2,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 19,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020115",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150765,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 204,
+    "name": "游戏锻炼！",
+    "desc": "素羽希望和你一起去游戏机厅找些新的锻炼方法",
+    "coopSn": 2,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150766,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 207,
+    "name": "去公园吧！",
+    "desc": "素羽想要和你一起去井之头公园锻炼",
+    "coopSn": 2,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 201,
+    "unlockMap": 9,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020106",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150767,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 208,
+    "name": "校园运动！",
+    "desc": "素羽想找你一起去体育馆运动一下",
+    "coopSn": 2,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 202,
+    "unlockMap": 26,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020122",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150768,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 209,
+    "name": "吃也是修行！",
+    "desc": "素羽想找你一起去吃点好吃的犒劳自己",
+    "coopSn": 2,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 203,
+    "unlockMap": 19,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020115",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150769,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 210,
+    "name": "游戏锻炼！",
+    "desc": "素羽希望和你一起去游戏机厅找些新的锻炼方法",
+    "coopSn": 2,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 204,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150770,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 222,
+    "name": "素羽2",
+    "desc": "和素羽一起锻炼吧",
     "coopSn": 2,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151102,
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP50200",
+    "tipsMessage": 1019112,
+    "branchDialog": [
+      "\b��M��#�?�6�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150701,
     "award": [
-      224021
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30202,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 223,
+    "name": "素羽3",
+    "desc": "和素羽一起锻炼吧",
     "coopSn": 2,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1151102,
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP50400",
+    "tipsMessage": 1019112,
+    "branchDialog": [
+      "\b��N4�#�?�8�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150706,
     "award": [
-      224021
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30203,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 224,
+    "name": "素羽4",
+    "desc": "和素羽一起锻炼吧",
     "coopSn": 2,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP50600",
+    "tipsMessage": 1019112,
+    "branchDialog": [
+      "\b��N��#�?�:�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150711,
     "award": [
-      224021
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30204,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 225,
+    "name": "素羽5",
+    "desc": "和素羽一起锻炼吧",
     "coopSn": 2,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP50800",
+    "tipsMessage": 1019112,
+    "branchDialog": [
+      "\b��O4�#�?�<�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150716,
     "award": [
-      224021
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30205,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 226,
+    "name": "素羽6",
+    "desc": "和素羽一起锻炼吧",
     "coopSn": 2,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP51000",
+    "tipsMessage": 1019112,
+    "branchDialog": [
+      "\b��]4�#�?�t�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150721,
     "award": [
-      224021
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30206,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 227,
+    "name": "素羽7",
+    "desc": "和素羽一起锻炼吧",
     "coopSn": 2,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP51200",
+    "tipsMessage": 1019112,
+    "branchDialog": [
+      "\b��]��#�?�v�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150726,
     "award": [
-      224021
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30207,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
     "sn": 228,
+    "name": "素羽8",
+    "desc": "和素羽一起锻炼吧",
     "coopSn": 2,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP51400",
+    "tipsMessage": 1019112,
+    "branchDialog": [
+      "\b��^4�#�?�x�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150731,
     "award": [
-      224021
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 1
   },
   {
     "sn": 229,
+    "name": "素羽9",
+    "desc": "和素羽一起锻炼吧",
     "coopSn": 2,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP51600",
+    "tipsMessage": 1019112,
+    "branchDialog": [
+      "\b��^��#�?�z�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150736,
     "award": [
-      224021
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 311,
-    "coopSn": 3,
+    "sn": 230,
+    "name": "素羽10",
+    "desc": "和素羽一起锻炼吧",
+    "coopSn": 2,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP51800",
+    "tipsMessage": 1019112,
+    "branchDialog": [
+      "\b��_4�#�?�|�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150741,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 251,
+    "name": "二人的观影时光",
+    "desc": "和素羽一起在家里看电影吧",
+    "coopSn": 2,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 1,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58160",
+    "tipsMessage": 1019113,
+    "branchDialog": [
+      "\b���z�#�?�5�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150780,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 252,
+    "name": "二人的观影时光",
+    "desc": "和素羽一起在家里看电影吧",
+    "coopSn": 2,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 251,
+    "unlockMap": 0,
+    "isHomeDate": 1,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58160",
+    "tipsMessage": 1019113,
+    "branchDialog": [
+      "\b���z�#�?�5�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150782,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 253,
+    "name": "去公园吧！",
+    "desc": "素羽想要和你一起去井之头公园锻炼",
+    "coopSn": 2,
     "type": 1,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 201,
+    "unlockMap": 9,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020106",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150783,
     "award": [
-      224021
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 321,
-    "coopSn": 3,
-    "type": 2,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
-    "award": []
-  },
-  {
-    "sn": 322,
-    "coopSn": 3,
-    "type": 2,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
-    "award": []
-  },
-  {
-    "sn": 323,
-    "coopSn": 3,
-    "type": 2,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
-    "award": []
-  },
-  {
-    "sn": 324,
-    "coopSn": 3,
-    "type": 2,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
-    "award": []
-  },
-  {
-    "sn": 325,
-    "coopSn": 3,
-    "type": 2,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
-    "award": []
-  },
-  {
-    "sn": 326,
-    "coopSn": 3,
-    "type": 2,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
-    "award": []
-  },
-  {
-    "sn": 327,
-    "coopSn": 3,
-    "type": 2,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
-    "award": []
-  },
-  {
-    "sn": 328,
-    "coopSn": 3,
-    "type": 2,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
-    "award": []
-  },
-  {
-    "sn": 329,
-    "coopSn": 3,
-    "type": 2,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1012101,
-    "award": []
-  },
-  {
-    "sn": 411,
-    "coopSn": 4,
+    "sn": 254,
+    "name": "吃也是修行！",
+    "desc": "素羽想找你一起去吃点好吃的犒劳自己",
+    "coopSn": 2,
     "type": 1,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
-    "award": []
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 203,
+    "unlockMap": 19,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020115",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150784,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 412,
-    "coopSn": 4,
+    "sn": 255,
+    "name": "游戏锻炼！",
+    "desc": "素羽希望和你一起去游戏机厅找些新的锻炼方法",
+    "coopSn": 2,
     "type": 1,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
-    "award": []
-  },
-  {
-    "sn": 421,
-    "coopSn": 4,
-    "type": 2,
-    "unlockType": 0,
-    "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 204,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP58001",
+    "tipsMessage": 1019111,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP58005",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150785,
     "award": [
-      1
-    ]
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 422,
-    "coopSn": 4,
+    "sn": 501,
+    "name": "便利店名产",
+    "desc": "和加纳骏一起去涩谷便利店吧",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151701,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 502,
+    "name": "解决午饭的方法",
+    "desc": "加纳骏想要去学校的小卖部看看",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 26,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020122",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151702,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 503,
+    "name": "时尚大街",
+    "desc": "和加纳骏一起去原宿的步行街逛一逛吧",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 23,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020119",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151703,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 504,
+    "name": "老字号店铺",
+    "desc": "浅草寺隐藏着什么老字号的美食呢？",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 15,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020111",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151704,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 505,
+    "name": "食物也是艺术",
+    "desc": "加纳骏想去美术馆研究一下美术与艺术的关系",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 12,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020108",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151705,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 506,
+    "name": "便利店名产-短",
+    "desc": "和加纳骏一起去涩谷便利店吧",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 501,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151706,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 507,
+    "name": "解决午饭的方法-短",
+    "desc": "加纳骏想要去学校的小卖部看看",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 502,
+    "unlockMap": 26,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020122",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151707,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 508,
+    "name": "时尚大街-短",
+    "desc": "和加纳骏一起去原宿的步行街逛一逛吧",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 503,
+    "unlockMap": 23,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020119",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151708,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 509,
+    "name": "老字号店铺-短",
+    "desc": "浅草寺隐藏着什么老字号的美食呢？",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 504,
+    "unlockMap": 15,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020111",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151709,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 510,
+    "name": "食物也是艺术-短",
+    "desc": "加纳骏想去美术馆研究一下美术与艺术的关系",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 505,
+    "unlockMap": 12,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020108",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151710,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 522,
+    "name": "加纳骏2",
+    "desc": "和加纳骏的关系就要加深了……",
+    "coopSn": 5,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
-    "award": []
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP100200",
+    "tipsMessage": 1019152,
+    "branchDialog": [
+      "\b��M6Ӏ�8�t�m:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151751,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30602,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 423,
-    "coopSn": 4,
+    "sn": 523,
+    "name": "加纳骏3",
+    "desc": "和加纳骏的关系就要加深了……",
+    "coopSn": 5,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
-    "award": []
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP100300",
+    "tipsMessage": 1019152,
+    "branchDialog": [
+      "\b��M7�p�8�t�}9"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151752,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30603,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 424,
-    "coopSn": 4,
+    "sn": 524,
+    "name": "加纳骏4",
+    "desc": "和加纳骏的关系就要加深了……",
+    "coopSn": 5,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
-    "award": []
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP100400",
+    "tipsMessage": 1019152,
+    "branchDialog": [
+      "\b��M8�p�8�tӍ:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151753,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30604,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 425,
-    "coopSn": 4,
+    "sn": 525,
+    "name": "加纳骏5",
+    "desc": "和加纳骏的关系就要加深了……",
+    "coopSn": 5,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
-    "award": []
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP100500",
+    "tipsMessage": 1019152,
+    "branchDialog": [
+      "\b��M9�p�8�tӝ:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151754,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30605,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 426,
-    "coopSn": 4,
+    "sn": 526,
+    "name": "加纳骏6",
+    "desc": "和加纳骏的关系就要加深了……",
+    "coopSn": 5,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
-    "award": []
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP100600",
+    "tipsMessage": 1019152,
+    "branchDialog": [
+      "\b��M:�p�8�tӭ:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151755,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30606,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 427,
-    "coopSn": 4,
+    "sn": 527,
+    "name": "加纳骏7",
+    "desc": "和加纳骏的关系就要加深了……",
+    "coopSn": 5,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
-    "award": []
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP100700",
+    "tipsMessage": 1019152,
+    "branchDialog": [
+      "\b��M;Ӡ�8�tӽ;"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151756,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30607,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 428,
-    "coopSn": 4,
+    "sn": 528,
+    "name": "加纳骏8",
+    "desc": "和加纳骏的关系就要加深了……",
+    "coopSn": 5,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
-    "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
-    "award": []
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP100800",
+    "tipsMessage": 1019152,
+    "branchDialog": [
+      "\b��M<Ӏ�8�t��="
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151758,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30608,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   },
   {
-    "sn": 429,
-    "coopSn": 4,
+    "sn": 529,
+    "name": "加纳骏9",
+    "desc": "和加纳骏的关系就要加深了……",
+    "coopSn": 5,
     "type": 2,
     "unlockType": 0,
     "unlockParam": "",
-    "name": "",
-    "desc": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP100900",
+    "tipsMessage": 1019152,
+    "branchDialog": [
+      "\b��M=Ӑ�8�t��:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151760,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30609,
+    "episodeOrder": 0,
+    "serverCheckCoop": 1
+  },
+  {
+    "sn": 530,
+    "name": "加纳骏10",
+    "desc": "和加纳骏的关系就要加深了……",
+    "coopSn": 5,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP101000",
+    "tipsMessage": 1019154,
+    "branchDialog": [
+      "\b��MtӀ�8�t�M9"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151762,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30610,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 531,
+    "name": "便利店名产-短",
+    "desc": "和加纳骏一起去涩谷便利店吧",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 501,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151711,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 532,
+    "name": "老字号店铺-短",
+    "desc": "浅草寺隐藏着什么老字号的美食呢？",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 504,
+    "unlockMap": 15,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020111",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151712,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 533,
+    "name": "食物也是艺术-短",
+    "desc": "加纳骏想去美术馆研究一下美术与艺术的关系",
+    "coopSn": 5,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 505,
+    "unlockMap": 12,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP108900",
+    "tipsMessage": 1019151,
+    "branchDialog": [
+      "\b��O=�p�8�t��9"
+    ],
+    "mapTipStr": "1020108",
+    "mapCloseDialog": "COOP108303",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151713,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 534,
+    "name": "意外的甜品",
+    "desc": "加纳骏想试试做甜品……",
+    "coopSn": 5,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP109700",
+    "tipsMessage": 1019153,
+    "branchDialog": [
+      "\b��O{Ӏ�8�t��;"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151714,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 535,
+    "name": "意外的甜品",
+    "desc": "加纳骏想试试做甜品……",
+    "coopSn": 5,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 534,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP109700",
+    "tipsMessage": 1019153,
+    "branchDialog": [
+      "\b��O{Ӏ�8�t��;"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151715,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 601,
+    "name": "热闹之地的调查",
+    "desc": "虽然很不擅长应对人多的地方，但黑谷清依然想要尝试一下去涩谷调查……",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 602,
+    "name": "极高之地的调查",
+    "desc": "从高处俯瞰吧！去发现未知的威胁！——黑谷清",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 15,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020111",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 603,
+    "name": "黑暗之地的调查",
+    "desc": "黑谷清视新宿为「魔域」，陪同他一去去揭露真相吧。",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 5,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020103",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 604,
+    "name": "玩乐之地的调查",
+    "desc": "虽然不知道是否有必要，但这次黑谷清想要去游乐场进行调查。",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 14,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020110",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 605,
+    "name": "食欲之地的调查",
+    "desc": "热议的拉面店！这下一定得去做一番情报收集才行！",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 24,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020120",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 606,
+    "name": "热闹之地的调查",
+    "desc": "虽然很不擅长应对人多的地方，但黑谷清依然想要尝试一下去涩谷调查……",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 601,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 607,
+    "name": "极高之地的调查",
+    "desc": "从高处俯瞰吧！去发现未知的威胁！——黑谷清",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 602,
+    "unlockMap": 15,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020111",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 608,
+    "name": "黑暗之地的调查",
+    "desc": "黑谷清视新宿为「魔域」，陪同他一去去揭露真相吧。",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 603,
+    "unlockMap": 5,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020103",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 609,
+    "name": "玩乐之地的调查",
+    "desc": "虽然不知道是否有必要，但这次黑谷清想要去游乐场进行调查。",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 604,
+    "unlockMap": 14,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020110",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 610,
+    "name": "食欲之地的调查",
+    "desc": "热议的拉面店！这下一定得去做一番情报收集才行！",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 605,
+    "unlockMap": 24,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020120",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 611,
+    "name": "热闹之地的调查",
+    "desc": "虽然很不擅长应对人多的地方，但黑谷清依然想要尝试一下去涩谷调查……",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 601,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 612,
+    "name": "极高之地的调查",
+    "desc": "从高处俯瞰吧！去发现未知的威胁！——黑谷清",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 602,
+    "unlockMap": 15,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020111",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 613,
+    "name": "玩乐之地的调查",
+    "desc": "虽然不知道是否有必要，但这次黑谷清想要去游乐场进行调查。",
+    "coopSn": 6,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 604,
+    "unlockMap": 14,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP68500",
+    "tipsMessage": 1019121,
+    "branchDialog": [
+      "\b���t�#�?�9�"
+    ],
+    "mapTipStr": "1020110",
+    "mapCloseDialog": "COOP68017",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 622,
+    "name": "黑谷清2",
+    "desc": "和黑谷清的关系就要加深了……",
+    "coopSn": 6,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP60200",
+    "tipsMessage": 1019122,
+    "branchDialog": [
+      "\b��M��#�?�6�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30802,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 623,
+    "name": "黑谷清3",
+    "desc": "和黑谷清的关系就要加深了……",
+    "coopSn": 6,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP60400",
+    "tipsMessage": 1019122,
+    "branchDialog": [
+      "\b��N4�#�?�8�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30803,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 624,
+    "name": "黑谷清4",
+    "desc": "和黑谷清的关系就要加深了……",
+    "coopSn": 6,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP60600",
+    "tipsMessage": 1019122,
+    "branchDialog": [
+      "\b��N��#�?�:�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30804,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 625,
+    "name": "黑谷清5",
+    "desc": "和黑谷清的关系就要加深了……",
+    "coopSn": 6,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP60800",
+    "tipsMessage": 1019122,
+    "branchDialog": [
+      "\b��O4�#�?�<�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30805,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 626,
+    "name": "黑谷清6",
+    "desc": "和黑谷清的关系就要加深了……",
+    "coopSn": 6,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP61000",
+    "tipsMessage": 1019122,
+    "branchDialog": [
+      "\b��]4�#�?�t�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30806,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 627,
+    "name": "黑谷清7",
+    "desc": "和黑谷清的关系就要加深了……",
+    "coopSn": 6,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP61200",
+    "tipsMessage": 1019122,
+    "branchDialog": [
+      "\b��]��#�?�v�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30807,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 628,
+    "name": "黑谷清8（占位）",
+    "desc": "和黑谷清的关系就要加深了……",
+    "coopSn": 6,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP60800",
+    "tipsMessage": 1019122,
+    "branchDialog": [
+      "\b��O4�#�?�<�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30808,
+    "episodeOrder": 0,
+    "serverCheckCoop": 1
+  },
+  {
+    "sn": 629,
+    "name": "黑谷清9（占位）",
+    "desc": "和黑谷清的关系就要加深了……",
+    "coopSn": 6,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP60800",
+    "tipsMessage": 1019122,
+    "branchDialog": [
+      "\b��O4�#�?�<�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30809,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 630,
+    "name": "黑谷清10（占位）",
+    "desc": "和黑谷清的关系就要加深了……",
+    "coopSn": 6,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP60800",
+    "tipsMessage": 1019122,
+    "branchDialog": [
+      "\b��O4�#�?�<�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 999999,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30810,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 701,
+    "name": "教会探险",
+    "desc": "瑶铃想要去神田的教会进行探险！",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 16,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020112",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151851,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 702,
+    "name": "文字烧的味道",
+    "desc": "和瑶铃去月岛品尝传说中的美味文字烧吧。",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 19,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020115",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151852,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 703,
+    "name": "最暖和的地方",
+    "desc": "据说天空树上的景色很不错，瑶铃很感兴趣。",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 15,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020111",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151853,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 704,
+    "name": "杂司谷，突击！",
+    "desc": "杂司谷也是很知名的景点呢，瑶铃如是说。",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 27,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020123",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151854,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 705,
+    "name": "零食与校园生活",
+    "desc": "瑶铃似乎对己刮学园（和学校里的零食）很感兴趣……",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 26,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020122",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151855,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 706,
+    "name": "教会探险",
+    "desc": "瑶铃想要去神田的教会进行探险！",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 701,
+    "unlockMap": 16,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020112",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151861,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 707,
+    "name": "文字烧的味道",
+    "desc": "和瑶铃去月岛品尝传说中的美味文字烧吧。",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 702,
+    "unlockMap": 19,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020115",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151862,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 708,
+    "name": "最暖和的地方",
+    "desc": "据说天空树上的景色很不错，瑶铃很感兴趣。",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 703,
+    "unlockMap": 15,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020111",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151863,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 709,
+    "name": "杂司谷，突击！",
+    "desc": "杂司谷也是很知名的景点呢，瑶铃如是说。",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 704,
+    "unlockMap": 27,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020123",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151864,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 710,
+    "name": "零食与校园生活",
+    "desc": "瑶铃似乎对己刮学园（和学校里的零食）很感兴趣……",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 705,
+    "unlockMap": 26,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020122",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151865,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 722,
+    "name": "李瑶铃2",
+    "desc": "和瑶铃的关系似乎可以更进一步了……",
+    "coopSn": 7,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP90100",
+    "tipsMessage": 1019162,
+    "branchDialog": [
+      "\b��Mt�#�?�5�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151801,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30302,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 723,
+    "name": "李瑶铃3",
+    "desc": "和瑶铃的关系似乎可以更进一步了……",
+    "coopSn": 7,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP90200",
+    "tipsMessage": 1019162,
+    "branchDialog": [
+      "\b��M��#�?�6�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151802,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30303,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 724,
+    "name": "李瑶铃4",
+    "desc": "和瑶铃的关系似乎可以更进一步了……",
+    "coopSn": 7,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP90300",
+    "tipsMessage": 1019162,
+    "branchDialog": [
+      "\b��M��#�?�7�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151803,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30304,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 725,
+    "name": "李瑶铃5",
+    "desc": "和瑶铃的关系似乎可以更进一步了……",
+    "coopSn": 7,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP90400",
+    "tipsMessage": 1019162,
+    "branchDialog": [
+      "\b��N4�#�?�8�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151804,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30305,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 726,
+    "name": "李瑶铃6",
+    "desc": "和瑶铃的关系似乎可以更进一步了……",
+    "coopSn": 7,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP90570",
+    "tipsMessage": 1019162,
+    "branchDialog": [
+      "\b��N{�#�?�9�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151805,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30306,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 727,
+    "name": "李瑶铃7",
+    "desc": "和瑶铃的关系似乎可以更进一步了……",
+    "coopSn": 7,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP90690",
+    "tipsMessage": 1019162,
+    "branchDialog": [
+      "\b��N��#�?�:�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151808,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30307,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 728,
+    "name": "李瑶铃8",
+    "desc": "和瑶铃的关系似乎可以更进一步了……",
+    "coopSn": 7,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP90790",
+    "tipsMessage": 1019162,
+    "branchDialog": [
+      "\b��N��#�?�;�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151811,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 1
+  },
+  {
+    "sn": 729,
+    "name": "李瑶铃9",
+    "desc": "和瑶铃的关系似乎可以更进一步了……",
+    "coopSn": 7,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP90800",
+    "tipsMessage": 1019162,
+    "branchDialog": [
+      "\b��O4�#�?�<�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151813,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 730,
+    "name": "李瑶铃10",
+    "desc": "和瑶铃的关系似乎可以更进一步了……",
+    "coopSn": 7,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP90900",
+    "tipsMessage": 1019162,
+    "branchDialog": [
+      "\b��Ot�#�?�=�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151815,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 740,
+    "name": "花茶之约",
+    "desc": "瑶铃精心准备了花茶和点心，想来家中拜访",
+    "coopSn": 7,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP98000",
+    "tipsMessage": 1019163,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151870,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 741,
+    "name": "花茶之约",
+    "desc": "瑶铃精心准备了花茶和点心，想来家中拜访",
+    "coopSn": 7,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 740,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP98000",
+    "tipsMessage": 1019163,
+    "branchDialog": [
+      "\b���4�#�?�4�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151871,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 750,
+    "name": "教会探险",
+    "desc": "瑶铃想要去神田的教会进行探险！",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 701,
+    "unlockMap": 16,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020112",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151866,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 751,
+    "name": "最暖和的地方",
+    "desc": "据说天空树上的景色很不错，瑶铃很感兴趣。",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 703,
+    "unlockMap": 15,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020111",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151867,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 752,
+    "name": "杂司谷，突击！",
+    "desc": "杂司谷也是很知名的景点呢，瑶铃如是说。",
+    "coopSn": 7,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 704,
+    "unlockMap": 27,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP92010",
+    "tipsMessage": 1019161,
+    "branchDialog": [
+      "\b���}�#�?�}�"
+    ],
+    "mapTipStr": "1020123",
+    "mapCloseDialog": "COOP99998",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151868,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 801,
+    "name": "逛逛地下商场",
+    "desc": "朋子希望能和你一起逛一逛涩谷的地下商场",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150951,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 802,
+    "name": "在新宿游玩",
+    "desc": "朋子想要邀请你去新宿",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 5,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020103",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150952,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 803,
+    "name": "在游乐场放松心情",
+    "desc": "朋子请你去游乐场玩",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 14,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020110",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150953,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 804,
+    "name": "在海滨公园散步",
+    "desc": "朋子似乎想要去海滨公园散心",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 20,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020116",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150954,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 805,
+    "name": "都市中的静谧",
+    "desc": "朋子想要其一去井之头公园",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 9,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020106",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150955,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 806,
+    "name": "逛逛地下商场",
+    "desc": "朋子希望能和你一起逛一逛地下商场",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 801,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150957,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 807,
+    "name": "在新宿游玩",
+    "desc": "朋子想要邀请你去新宿",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 802,
+    "unlockMap": 5,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020103",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150958,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 808,
+    "name": "在游乐场放松心情",
+    "desc": "朋子请你去游乐场玩",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 803,
+    "unlockMap": 14,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020110",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150959,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 809,
+    "name": "在海滨公园散步",
+    "desc": "朋子似乎想要去海滨公园散心",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 804,
+    "unlockMap": 20,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020116",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150960,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 810,
+    "name": "都市中的静谧",
+    "desc": "朋子想要其一去井之头公园",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 805,
+    "unlockMap": 9,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020106",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150961,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 822,
+    "name": "朋子加深2",
+    "desc": "和朋子一起在牛丼店打工，关系就要加深了……",
+    "coopSn": 8,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP83100",
+    "tipsMessage": 1019132,
+    "branchDialog": [
+      "\b��}t�#�?���"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150901,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30402,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 823,
+    "name": "朋子加深3",
+    "desc": "和朋子一起在便利店打工，关系就要加深了……",
+    "coopSn": 8,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP83200",
+    "tipsMessage": 1019132,
+    "branchDialog": [
+      "\b��}��#�?���"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150903,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [
+      0
+    ],
+    "episodeSn": 30403,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 824,
+    "name": "朋子加深4",
+    "desc": "和朋子一起在药妆店打工，关系就要加深了……",
+    "coopSn": 8,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP83300",
+    "tipsMessage": 1019132,
+    "branchDialog": [
+      "\b��}��#�?���"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150905,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30404,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 825,
+    "name": "朋子加深5",
+    "desc": "和朋子一起在首饰店打工，关系就要加深了……",
+    "coopSn": 8,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP80800",
+    "tipsMessage": 1019132,
+    "branchDialog": [
+      "\b��O4�#�?�<�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150906,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30405,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 826,
+    "name": "朋子加深6",
+    "desc": "和朋子一起在花店打工，关系就要加深了……",
+    "coopSn": 8,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP81000",
+    "tipsMessage": 1019132,
+    "branchDialog": [
+      "\b��]4�#�?�t�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150907,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30406,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 827,
+    "name": "朋子加深7",
+    "desc": "朋子似乎有重要的事情想要聊……",
+    "coopSn": 8,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP81200",
+    "tipsMessage": 1019132,
+    "branchDialog": [
+      "\b��]��#�?�v�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150908,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [
+      0
+    ],
+    "episodeSn": 30407,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 828,
+    "name": "朋子加深8",
+    "desc": "朋子似乎有重要的事情想要聊……",
+    "coopSn": 8,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP81400",
+    "tipsMessage": 1019132,
+    "branchDialog": [
+      "\b��^4�#�?�x�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150910,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 1
+  },
+  {
+    "sn": 829,
+    "name": "朋子加深9",
+    "desc": "朋子似乎有重要的事情想要聊……",
+    "coopSn": 8,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP81600",
+    "tipsMessage": 1019132,
+    "branchDialog": [
+      "\b��^��#�?�z�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150912,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 830,
+    "name": "朋子加深10",
+    "desc": "朋子似乎有重要的事情想要聊……",
+    "coopSn": 8,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP81700",
+    "tipsMessage": 1019132,
+    "branchDialog": [
+      "\b��^��#�?�{�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150914,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 840,
+    "name": "两个人的学习会",
+    "desc": "朋子想要找个安静的地方学习",
+    "coopSn": 8,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 1,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88230",
+    "tipsMessage": 1019133,
+    "branchDialog": [
+      "\b��ͷ�#�?�6�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150970,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 841,
+    "name": "两个人的学习会",
+    "desc": "朋子想要找个安静的地方学习",
+    "coopSn": 8,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 840,
+    "unlockMap": 0,
+    "isHomeDate": 1,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88230",
+    "tipsMessage": 1019133,
+    "branchDialog": [
+      "\b��ͷ�#�?�6�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150971,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 842,
+    "name": "在游乐场放松心情",
+    "desc": "朋子请你去游乐场玩",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 803,
+    "unlockMap": 14,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020110",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150972,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 843,
+    "name": "在海滨公园散步",
+    "desc": "朋子似乎想要去海滨公园散心",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 804,
+    "unlockMap": 20,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020116",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150973,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 844,
+    "name": "都市中的静谧",
+    "desc": "朋子想要其一去井之头公园",
+    "coopSn": 8,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 805,
+    "unlockMap": 9,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP88300",
+    "tipsMessage": 1019131,
+    "branchDialog": [
+      "\b���|�#�?�}�"
+    ],
+    "mapTipStr": "1020106",
+    "mapCloseDialog": "COOP89990",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1150974,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 901,
+    "name": "年轻人的星空",
+    "desc": "富山佳代希望你能陪她去天文馆看看……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 11,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020107",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151651,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 902,
+    "name": "热门的电影",
+    "desc": "富山希望你能陪她一起去看看最新的热门电影……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151652,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 903,
+    "name": "放学的路",
+    "desc": "富山希望你能陪她去井之头公园逛逛……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 26,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020122",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151654,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 904,
+    "name": "年轻人的时尚",
+    "desc": "富山希望你能陪她去原宿看看最近的潮流……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 23,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020119",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151655,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 905,
+    "name": "台场的海风",
+    "desc": "富山希望你能陪她去看看学校旁边……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 20,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020116",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151656,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 907,
+    "name": "年轻人的星空",
+    "desc": "富山佳代希望你能陪她去天文馆看看……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 901,
+    "unlockMap": 11,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020107",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151657,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 908,
+    "name": "热门的电影",
+    "desc": "富山希望你能陪她一起去看看最新的热门电影……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 902,
+    "unlockMap": 2,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020102",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151658,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 909,
+    "name": "放学的路",
+    "desc": "富山希望你能陪她去井之头公园逛逛……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 903,
+    "unlockMap": 26,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020122",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151659,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 910,
+    "name": "年轻人的时尚",
+    "desc": "富山希望你能陪她去原宿看看最近的潮流……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 904,
+    "unlockMap": 23,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020119",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151660,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 911,
+    "name": "台场的海风",
+    "desc": "富山希望你能陪她去看看学校旁边……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 905,
+    "unlockMap": 20,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020116",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151661,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 922,
+    "name": "听听富山的烦恼吧2",
+    "desc": "似乎能更加了解富山了……",
+    "coopSn": 9,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP110201",
+    "tipsMessage": 1019142,
+    "branchDialog": [
+      "\b��]6Ӑ�8�u�m:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151601,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30502,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 923,
+    "name": "听听富山的烦恼吧3",
+    "desc": "似乎能更加了解富山了……",
+    "coopSn": 9,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP110401",
+    "tipsMessage": 1019142,
+    "branchDialog": [
+      "\b��]8Ӑ�8�uӍ:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151602,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30503,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 924,
+    "name": "听听富山的烦恼吧4",
+    "desc": "似乎能更加了解富山了……",
+    "coopSn": 9,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP110601",
+    "tipsMessage": 1019142,
+    "branchDialog": [
+      "\b��]:Ӑ�8�uӭ:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151603,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30504,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 925,
+    "name": "听听富山的烦恼吧5",
+    "desc": "似乎能更加了解富山了……",
+    "coopSn": 9,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP110801",
+    "tipsMessage": 1019142,
+    "branchDialog": [
+      "\b��]<Ӑ�8�u��:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151604,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30505,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 926,
+    "name": "听听富山的烦恼吧6",
+    "desc": "似乎能更加了解富山了……",
+    "coopSn": 9,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP111001",
+    "tipsMessage": 1019142,
+    "branchDialog": [
+      "\b��]tӐ�8�u�M:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151605,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30506,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 927,
+    "name": "听听富山的烦恼吧7",
+    "desc": "似乎能更加了解富山了……",
+    "coopSn": 9,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP111201",
+    "tipsMessage": 1019142,
+    "branchDialog": [
+      "\b��]vӐ�8�u�m:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151606,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30507,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 928,
+    "name": "听听富山的烦恼吧8",
+    "desc": "似乎能更加了解富山了……",
+    "coopSn": 9,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP111401",
+    "tipsMessage": 1019142,
+    "branchDialog": [
+      "\b��]xӐ�8�u׍:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151607,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30508,
+    "episodeOrder": 0,
+    "serverCheckCoop": 1
+  },
+  {
+    "sn": 929,
+    "name": "听听富山的烦恼吧9",
+    "desc": "似乎能更加了解富山了……",
+    "coopSn": 9,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP111601",
+    "tipsMessage": 1019142,
+    "branchDialog": [
+      "\b��]zӐ�8�u׭;"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151608,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30509,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 930,
+    "name": "听听富山的烦恼吧10",
+    "desc": "似乎能更加了解富山了……",
+    "coopSn": 9,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP111801",
+    "tipsMessage": 1019142,
+    "branchDialog": [
+      "\b��]|Ӑ�8�u��:"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151609,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30510,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 931,
+    "name": "特殊的家政服务",
+    "desc": "富山似乎不太放心独自生活的你……",
+    "coopSn": 9,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 1,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118500",
+    "tipsMessage": 1019143,
+    "branchDialog": [
+      "\b��_9Ӑ�8�u�;"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151662,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 932,
+    "name": "特殊的家政服务",
+    "desc": "富山似乎不太放心独自生活的你……",
+    "coopSn": 9,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 931,
+    "unlockMap": 0,
+    "isHomeDate": 1,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118500",
+    "tipsMessage": 1019143,
+    "branchDialog": [
+      "\b��_9Ӑ�8�u�;"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1151663,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 933,
+    "name": "年轻人的星空",
+    "desc": "富山佳代希望你能陪她去天文馆看看……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 901,
+    "unlockMap": 11,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020107",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151666,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 934,
+    "name": "年轻人的时尚",
+    "desc": "富山希望你能陪她去原宿看看最近的潮流……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 904,
+    "unlockMap": 23,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020119",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151664,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 935,
+    "name": "台场的海风",
+    "desc": "富山希望你能陪她去看看学校旁边……",
+    "coopSn": 9,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 905,
+    "unlockMap": 20,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP118310",
+    "tipsMessage": 1019141,
+    "branchDialog": [
+      "\b��_7�p�8�u�}y"
+    ],
+    "mapTipStr": "1020116",
+    "mapCloseDialog": "COOP118314",
+    "mapTipLockDialog": "COOP00001",
+    "storyPoint": 1151665,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1101,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "田地",
+    "unlockYUIMapDesc": "和YUI一起耕种的农田……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150851,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1102,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "近处的街道",
+    "unlockYUIMapDesc": "和YUI一起去过的农田附近的街道……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150852,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1103,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "远处的街道",
+    "unlockYUIMapDesc": "更远的地方的街道，可以和YUI一起去看看……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150853,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1104,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "雪原",
+    "unlockYUIMapDesc": "一座终年覆雪的美丽雪山，似乎可以去看看风景……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150854,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1105,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [],
+    "unlockCoopStory": 1127,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "管理者的田地",
+    "unlockYUIMapDesc": "似乎别处也还有农田，可以和YUI一起去看看……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150855,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1106,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 1101,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "田地",
+    "unlockYUIMapDesc": "和YUI一起耕种的农田……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150856,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1107,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 1102,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "近处的街道",
+    "unlockYUIMapDesc": "和YUI一起去过的农田附近的街道……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150857,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1108,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 1103,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "远处的街道",
+    "unlockYUIMapDesc": "更远的地方的街道，可以和YUI一起去看看……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150858,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1109,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 1104,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "雪原",
+    "unlockYUIMapDesc": "一座终年覆雪的美丽雪山，似乎可以去看看风景……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150859,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1110,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 1105,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "管理者的田地",
+    "unlockYUIMapDesc": "似乎别处也还有农田，可以和YUI一起去看看……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150860,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1120,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP78110",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150873,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1122,
+    "name": "和YUI一起玩",
+    "desc": "今天YUI也会在线上吗……",
+    "coopSn": 11,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP70200",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b��M��#�?�6�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150801,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30702,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1123,
+    "name": "和YUI一起玩",
+    "desc": "今天YUI也会在线上吗……",
+    "coopSn": 11,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP70400",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b��N4�#�?�8�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150803,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30703,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1124,
+    "name": "和YUI一起玩",
+    "desc": "今天YUI也会在线上吗……",
+    "coopSn": 11,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP70600",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b��N��#�?�:�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150804,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30704,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1125,
+    "name": "和YUI的约定",
+    "desc": "今天YUI也会在线上吗……",
+    "coopSn": 11,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP70800",
+    "tipsMessage": 1019172,
+    "branchDialog": [
+      "�P�8���N"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150805,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30705,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1126,
+    "name": "和YUI一起玩",
+    "desc": "今天YUI也会在线上吗……",
+    "coopSn": 11,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP71000",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b��]4�#�?�t�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150808,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30706,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1127,
+    "name": "和YUI一起玩",
+    "desc": "今天YUI也会在线上吗……",
+    "coopSn": 11,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP71200",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b��]��#�?�v�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150809,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30707,
+    "episodeOrder": 0,
+    "serverCheckCoop": 1
+  },
+  {
+    "sn": 1128,
+    "name": "和YUI一起玩",
+    "desc": "今天YUI也会在线上吗……",
+    "coopSn": 11,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP71400",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b��^4�#�?�x�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150810,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30708,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1129,
+    "name": "和YUI的约定",
+    "desc": "今天YUI也会在线上吗……",
+    "coopSn": 11,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
     "startDialog": "",
-    "tipsMessage": 1000049,
-    "storyPoint": 1141101,
-    "award": []
+    "tipsMessage": 1019173,
+    "branchDialog": [
+      "�P�8���N"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150811,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30709,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1130,
+    "name": "和YUI一起玩",
+    "desc": "今天YUI也会在线上吗……",
+    "coopSn": 11,
+    "type": 2,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP71800",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b��_4�#�?�|�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150814,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 30710,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1131,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 1101,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "田地",
+    "unlockYUIMapDesc": "和YUI一起耕种的农田……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150870,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1132,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 1103,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "远处的街道",
+    "unlockYUIMapDesc": "更远的地方的街道，可以和YUI一起去看看……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150871,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1133,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 1,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 1104,
+    "unlockMap": 0,
+    "isHomeDate": 0,
+    "unlockYUIMapName": "雪原",
+    "unlockYUIMapDesc": "一座终年覆雪的美丽雪山，似乎可以去看看风景……",
+    "startDialog": "COOP79975",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "\b���{�#�?�}�"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150872,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1134,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 1,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 0,
+    "unlockMap": 0,
+    "isHomeDate": 1,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP73000",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "�P�8����"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150874,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
+  },
+  {
+    "sn": 1135,
+    "name": "和YUI一起玩",
+    "desc": "会在游戏里碰到YUI吗……",
+    "coopSn": 11,
+    "type": 3,
+    "unlockType": 0,
+    "unlockParam": "",
+    "limitCount": 0,
+    "relation": [
+      0
+    ],
+    "unlockCoopStory": 1134,
+    "unlockMap": 0,
+    "isHomeDate": 1,
+    "unlockYUIMapName": "",
+    "unlockYUIMapDesc": "",
+    "startDialog": "COOP73000",
+    "tipsMessage": 1019171,
+    "branchDialog": [
+      "�P�8����"
+    ],
+    "mapTipStr": "",
+    "mapCloseDialog": "",
+    "mapTipLockDialog": "",
+    "storyPoint": 1150875,
+    "award": [
+      [
+        0
+      ]
+    ],
+    "firstReward": 0,
+    "virtualReward": [],
+    "episodeSn": 0,
+    "episodeOrder": 0,
+    "serverCheckCoop": 0
   }
 ]

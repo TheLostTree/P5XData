@@ -1,452 +1,1662 @@
 [
   {
     "sn": 1,
-    "condition": 1,
-    "oldType": 1,
+    "oldType": -1,
     "newType": 1,
+    "condition": 3,
     "goToBattle": 0,
-    "animation": 2,
+    "battleMeeting": 0,
+    "animation": 25,
     "loadingTipType": 0
   },
   {
     "sn": 2,
-    "condition": 2,
-    "oldType": 1,
-    "newType": 1,
+    "oldType": -1,
+    "newType": 2,
+    "condition": 3,
     "goToBattle": 0,
-    "animation": 3,
+    "battleMeeting": 0,
+    "animation": 26,
     "loadingTipType": 0
   },
   {
     "sn": 3,
+    "oldType": -1,
+    "newType": 3,
     "condition": 3,
-    "oldType": 1,
-    "newType": 1,
     "goToBattle": 0,
-    "animation": 3,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 4,
-    "condition": 3,
-    "oldType": 1,
-    "newType": 4,
-    "goToBattle": 0,
-    "animation": 18,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 5,
-    "condition": 3,
-    "oldType": 1,
-    "newType": 2,
-    "goToBattle": 0,
-    "animation": 18,
+    "battleMeeting": 0,
+    "animation": 26,
     "loadingTipType": 0
   },
   {
     "sn": 6,
+    "oldType": -1,
+    "newType": 6,
     "condition": 3,
-    "oldType": 4,
-    "newType": 2,
     "goToBattle": 0,
-    "animation": 2,
+    "battleMeeting": 0,
+    "animation": 26,
     "loadingTipType": 0
   },
   {
     "sn": 7,
+    "oldType": -1,
+    "newType": 7,
     "condition": 3,
-    "oldType": 4,
-    "newType": 1,
     "goToBattle": 0,
-    "animation": 2,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 8,
-    "condition": 3,
-    "oldType": 2,
-    "newType": 1,
-    "goToBattle": 0,
-    "animation": 4,
+    "battleMeeting": 0,
+    "animation": 25,
     "loadingTipType": 0
   },
   {
     "sn": 9,
-    "condition": 2,
-    "oldType": 2,
-    "newType": 3,
-    "goToBattle": 1,
-    "animation": 7,
+    "oldType": -1,
+    "newType": 9,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
     "loadingTipType": 0
   },
   {
     "sn": 10,
+    "oldType": -1,
+    "newType": 10,
     "condition": 3,
-    "oldType": 2,
-    "newType": 3,
-    "goToBattle": 1,
-    "animation": 8,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
     "loadingTipType": 0
   },
   {
     "sn": 11,
-    "condition": 2,
-    "oldType": 3,
-    "newType": 2,
-    "goToBattle": 1,
-    "animation": 7,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 12,
-    "condition": 3,
-    "oldType": 3,
-    "newType": 2,
-    "goToBattle": 1,
-    "animation": 8,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 13,
-    "condition": 2,
-    "oldType": 2,
-    "newType": 3,
-    "goToBattle": 2,
-    "animation": 9,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 14,
-    "condition": 3,
-    "oldType": 2,
-    "newType": 3,
-    "goToBattle": 2,
-    "animation": 9,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 15,
-    "condition": 2,
-    "oldType": 4,
-    "newType": 4,
-    "goToBattle": 0,
-    "animation": 1,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 16,
-    "condition": 3,
-    "oldType": 2,
-    "newType": 4,
-    "goToBattle": 0,
-    "animation": 2,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 17,
-    "condition": 3,
-    "oldType": 6,
-    "newType": 1,
-    "goToBattle": 0,
-    "animation": 3,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 18,
-    "condition": 3,
-    "oldType": 2,
-    "newType": 6,
-    "goToBattle": 0,
-    "animation": 2,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 19,
-    "condition": 3,
-    "oldType": 6,
-    "newType": 3,
-    "goToBattle": 2,
-    "animation": 9,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 20,
-    "condition": 3,
-    "oldType": 4,
-    "newType": 3,
-    "goToBattle": 0,
-    "animation": 9,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 21,
-    "condition": 3,
-    "oldType": 5,
-    "newType": 6,
-    "goToBattle": 0,
-    "animation": 2,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 22,
-    "condition": 3,
-    "oldType": 6,
-    "newType": 3,
-    "goToBattle": 2,
-    "animation": 9,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 23,
-    "condition": 3,
-    "oldType": 1,
-    "newType": 7,
-    "goToBattle": 0,
-    "animation": 2,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 24,
-    "condition": 3,
-    "oldType": 7,
-    "newType": 1,
-    "goToBattle": 0,
-    "animation": 2,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 25,
-    "condition": 3,
-    "oldType": 2,
-    "newType": 2,
-    "goToBattle": 0,
-    "animation": 10,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 26,
-    "condition": 3,
-    "oldType": 6,
-    "newType": 4,
-    "goToBattle": 0,
-    "animation": 10,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 27,
-    "condition": 3,
-    "oldType": 6,
-    "newType": 2,
-    "goToBattle": 0,
-    "animation": 1,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 28,
-    "condition": 3,
-    "oldType": 2,
-    "newType": 8,
-    "goToBattle": 0,
-    "animation": 10,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 29,
-    "condition": 2,
-    "oldType": 8,
-    "newType": 8,
-    "goToBattle": 0,
-    "animation": 12,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 30,
-    "condition": 3,
-    "oldType": 8,
-    "newType": 3,
-    "goToBattle": 1,
-    "animation": 8,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 31,
-    "condition": 3,
-    "oldType": 3,
-    "newType": 8,
-    "goToBattle": 1,
-    "animation": 8,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 32,
-    "condition": 1,
-    "oldType": 2,
-    "newType": 2,
-    "goToBattle": 0,
-    "animation": 1,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 33,
-    "condition": 3,
-    "oldType": 8,
-    "newType": 8,
-    "goToBattle": 0,
-    "animation": 1,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 34,
-    "condition": 1,
-    "oldType": 9,
-    "newType": 9,
-    "goToBattle": 0,
-    "animation": 2,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 35,
-    "condition": 3,
-    "oldType": 10,
-    "newType": 2,
-    "goToBattle": 0,
-    "animation": 18,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 36,
-    "condition": 3,
-    "oldType": 7,
+    "oldType": -1,
     "newType": 11,
+    "condition": 3,
     "goToBattle": 0,
+    "battleMeeting": 0,
     "animation": 15,
     "loadingTipType": 0
   },
   {
-    "sn": 37,
-    "condition": 3,
-    "oldType": 11,
-    "newType": 7,
-    "goToBattle": 0,
-    "animation": 16,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 38,
-    "condition": 3,
-    "oldType": 1,
-    "newType": 9,
-    "goToBattle": 0,
-    "animation": 18,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 39,
-    "condition": 3,
-    "oldType": 10,
-    "newType": 3,
-    "goToBattle": 1,
-    "animation": 7,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 40,
-    "condition": 3,
-    "oldType": 1,
-    "newType": 6,
-    "goToBattle": 0,
-    "animation": 3,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 41,
-    "condition": 3,
-    "oldType": 7,
-    "newType": 6,
-    "goToBattle": 0,
-    "animation": 3,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 42,
-    "condition": 3,
-    "oldType": 7,
-    "newType": 2,
-    "goToBattle": 0,
-    "animation": 18,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 43,
-    "condition": 3,
-    "oldType": 71,
-    "newType": 7,
-    "goToBattle": 0,
-    "animation": 19,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 44,
-    "condition": 3,
-    "oldType": 7,
-    "newType": 71,
-    "goToBattle": 0,
-    "animation": 19,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 45,
-    "condition": 3,
-    "oldType": 1,
-    "newType": 12,
-    "goToBattle": 0,
-    "animation": 20,
-    "loadingTipType": 0
-  },
-  {
-    "sn": 46,
-    "condition": 3,
-    "oldType": 1,
+    "sn": 13,
+    "oldType": -1,
     "newType": 13,
+    "condition": 3,
     "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 14,
+    "oldType": -1,
+    "newType": 14,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 17,
+    "oldType": -1,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 19,
+    "oldType": -1,
+    "newType": 19,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 20,
+    "oldType": -1,
+    "newType": 20,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 71,
+    "oldType": -1,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 72,
+    "oldType": -1,
+    "newType": 72,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 100,
+    "oldType": -1,
+    "newType": 100,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 201,
+    "oldType": 1,
+    "newType": 1,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 204,
+    "oldType": 7,
+    "newType": 7,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 206,
+    "oldType": 9,
+    "newType": 9,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 207,
+    "oldType": 6,
+    "newType": 6,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 208,
+    "oldType": 6,
+    "newType": 6,
+    "condition": 2,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 210,
+    "oldType": 1,
+    "newType": 1,
+    "condition": 2,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 211,
+    "oldType": 1,
+    "newType": 6,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 212,
+    "oldType": 1,
+    "newType": 6,
+    "condition": 2,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 301,
+    "oldType": 1,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 3,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 302,
+    "oldType": 1,
+    "newType": 6,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 3,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 303,
+    "oldType": 7,
+    "newType": 6,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 3,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 304,
+    "oldType": 71,
+    "newType": 6,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 3,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 305,
+    "oldType": 72,
+    "newType": 6,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 3,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 306,
+    "oldType": 6,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 3,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 307,
+    "oldType": 6,
+    "newType": 7,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 3,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 308,
+    "oldType": 6,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 3,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 309,
+    "oldType": 6,
+    "newType": 72,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 3,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 401,
+    "oldType": 2,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
     "animation": 4,
     "loadingTipType": 0
   },
   {
-    "sn": 47,
-    "condition": 3,
+    "sn": 403,
     "oldType": 13,
-    "newType": 2,
+    "newType": 1,
+    "condition": 3,
     "goToBattle": 0,
-    "animation": 18,
+    "battleMeeting": 0,
+    "animation": 4,
     "loadingTipType": 0
   },
   {
-    "sn": 48,
+    "sn": 404,
+    "oldType": 2,
+    "newType": 7,
     "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 406,
     "oldType": 13,
-    "newType": 3,
+    "newType": 7,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 407,
+    "oldType": 7,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 409,
+    "oldType": 7,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 410,
+    "oldType": 1,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 412,
+    "oldType": 1,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 413,
+    "oldType": 2,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 415,
+    "oldType": 13,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 416,
+    "oldType": 71,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 418,
+    "oldType": 71,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 419,
+    "oldType": 2,
+    "newType": 72,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 421,
+    "oldType": 13,
+    "newType": 72,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 422,
+    "oldType": 72,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 424,
+    "oldType": 72,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 4,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 701,
+    "oldType": 3,
+    "newType": 2,
+    "condition": 2,
     "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 7,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 702,
+    "oldType": 2,
+    "newType": 3,
+    "condition": 2,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 7,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 801,
+    "oldType": 3,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
     "animation": 8,
     "loadingTipType": 0
   },
   {
-    "sn": 49,
+    "sn": 802,
+    "oldType": 1,
+    "newType": 3,
     "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 803,
+    "oldType": 3,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 804,
+    "oldType": 2,
+    "newType": 3,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 805,
+    "oldType": 3,
+    "newType": 7,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 806,
+    "oldType": 7,
+    "newType": 3,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 807,
+    "oldType": 3,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 808,
+    "oldType": 71,
+    "newType": 3,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 809,
+    "oldType": 3,
+    "newType": 72,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 810,
+    "oldType": 72,
+    "newType": 3,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 813,
     "oldType": 13,
     "newType": 3,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 814,
+    "oldType": 3,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 1,
+    "battleMeeting": 0,
+    "animation": 8,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 901,
+    "oldType": 2,
+    "newType": 3,
+    "condition": 2,
     "goToBattle": 2,
+    "battleMeeting": 0,
     "animation": 9,
     "loadingTipType": 0
   },
   {
-    "sn": 50,
+    "sn": 902,
+    "oldType": 2,
+    "newType": 3,
     "condition": 3,
+    "goToBattle": 2,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 903,
+    "oldType": 2,
+    "newType": 3,
+    "condition": 2,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 904,
+    "oldType": 2,
+    "newType": 3,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 905,
+    "oldType": 6,
+    "newType": 3,
+    "condition": 3,
+    "goToBattle": 2,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 907,
+    "oldType": 13,
+    "newType": 3,
+    "condition": 3,
+    "goToBattle": 2,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 908,
+    "oldType": 17,
+    "newType": 3,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 22,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 909,
+    "oldType": 19,
+    "newType": 3,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 23,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 911,
+    "oldType": 1,
+    "newType": 14,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 912,
+    "oldType": 2,
+    "newType": 14,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 913,
+    "oldType": 7,
+    "newType": 14,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 914,
+    "oldType": 71,
+    "newType": 14,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 915,
+    "oldType": 72,
+    "newType": 14,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 917,
+    "oldType": 13,
+    "newType": 14,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1000,
+    "oldType": 2,
+    "newType": 2,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1001,
+    "oldType": 2,
+    "newType": 2,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1002,
+    "oldType": 1,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1003,
+    "oldType": 2,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1004,
+    "oldType": 7,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1005,
+    "oldType": 71,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1006,
+    "oldType": 72,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1008,
+    "oldType": 13,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1009,
+    "oldType": 1,
+    "newType": 20,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1010,
+    "oldType": 2,
+    "newType": 20,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1011,
+    "oldType": 7,
+    "newType": 20,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1012,
+    "oldType": 71,
+    "newType": 20,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1013,
+    "oldType": 72,
+    "newType": 20,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1015,
+    "oldType": 13,
+    "newType": 20,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1016,
+    "oldType": 20,
+    "newType": 20,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1017,
+    "oldType": 2,
+    "newType": 10,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1018,
     "oldType": 3,
+    "newType": 10,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1019,
+    "oldType": 13,
+    "newType": 10,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1020,
+    "oldType": 14,
+    "newType": 10,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1021,
+    "oldType": 20,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1022,
+    "oldType": 20,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1023,
+    "oldType": 20,
+    "newType": 7,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1024,
+    "oldType": 20,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1025,
+    "oldType": 20,
+    "newType": 72,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1026,
+    "oldType": 20,
     "newType": 13,
-    "goToBattle": 1,
-    "animation": 8,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1027,
+    "oldType": 10,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1028,
+    "oldType": 10,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1029,
+    "oldType": 10,
+    "newType": 7,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1030,
+    "oldType": 10,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1031,
+    "oldType": 10,
+    "newType": 72,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1032,
+    "oldType": 10,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1033,
+    "oldType": 10,
+    "newType": 10,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1034,
+    "oldType": 17,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1035,
+    "oldType": 17,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1036,
+    "oldType": 17,
+    "newType": 7,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1037,
+    "oldType": 17,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1038,
+    "oldType": 17,
+    "newType": 72,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1039,
+    "oldType": 17,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1040,
+    "oldType": 17,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1041,
+    "oldType": 1,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1042,
+    "oldType": 2,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1043,
+    "oldType": 7,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1044,
+    "oldType": 71,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1045,
+    "oldType": 72,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1046,
+    "oldType": 13,
+    "newType": 17,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 10,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1047,
+    "oldType": 10,
+    "newType": 201,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 9,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1501,
+    "oldType": 1,
+    "newType": 11,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 15,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1506,
+    "oldType": 6,
+    "newType": 11,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 15,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1507,
+    "oldType": 7,
+    "newType": 11,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 15,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1601,
+    "oldType": 11,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 16,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1607,
+    "oldType": 11,
+    "newType": 7,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 16,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1613,
+    "oldType": 11,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 16,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1801,
+    "oldType": 13,
+    "newType": 13,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1802,
+    "oldType": 13,
+    "newType": 13,
+    "condition": 2,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1803,
+    "oldType": 13,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1805,
+    "oldType": 13,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1807,
+    "oldType": 2,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1809,
+    "oldType": 10,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1810,
+    "oldType": 1,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1811,
+    "oldType": 7,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1812,
+    "oldType": 71,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1813,
+    "oldType": 72,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1818,
+    "oldType": 1,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1819,
+    "oldType": 7,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1820,
+    "oldType": 71,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1821,
+    "oldType": 72,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1822,
+    "oldType": 2,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1823,
+    "oldType": 13,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1824,
+    "oldType": 13,
+    "newType": 13,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1825,
+    "oldType": 13,
+    "newType": 13,
+    "condition": 2,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1826,
+    "oldType": 13,
+    "newType": 13,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 18,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1901,
+    "oldType": 71,
+    "newType": 72,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 19,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1902,
+    "oldType": 72,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 19,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2401,
+    "oldType": 18,
+    "newType": 19,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 24,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2403,
+    "oldType": 19,
+    "newType": 19,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 24,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2404,
+    "oldType": 19,
+    "newType": 19,
+    "condition": 2,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 24,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2405,
+    "oldType": 19,
+    "newType": 19,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 24,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2501,
+    "oldType": 1,
+    "newType": 7,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2502,
+    "oldType": 7,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2503,
+    "oldType": 7,
+    "newType": 7,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2504,
+    "oldType": 6,
+    "newType": 6,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2505,
+    "oldType": 1,
+    "newType": 72,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2506,
+    "oldType": 72,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2507,
+    "oldType": 1,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2508,
+    "oldType": 71,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 25,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2601,
+    "oldType": 2,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2602,
+    "oldType": 2,
+    "newType": 2,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 1,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2701,
+    "oldType": 71,
+    "newType": 73,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 1,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2702,
+    "oldType": 73,
+    "newType": 71,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 1,
     "loadingTipType": 0
   }
 ]

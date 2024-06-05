@@ -6,8 +6,7 @@
     "bubbleTime": 3,
     "delayTime": 3,
     "contentGroup": [
-      10001,
-      10002
+      0
     ]
   },
   {
@@ -17,7 +16,7 @@
     "bubbleTime": 1.4,
     "delayTime": 3,
     "contentGroup": [
-      18801
+      0
     ]
   },
   {
@@ -27,7 +26,7 @@
     "bubbleTime": 3,
     "delayTime": 3,
     "contentGroup": [
-      100101
+      0
     ]
   },
   {
@@ -37,27 +36,67 @@
     "bubbleTime": 3,
     "delayTime": 3,
     "contentGroup": [
-      100102
+      0
     ]
   },
   {
-    "sn": 50109037,
-    "bubbleInterval": 0.5,
+    "sn": 50897,
+    "bubbleInterval": 6,
     "contentGroupInterval": 0,
-    "bubbleTime": 6,
+    "bubbleTime": 3,
     "delayTime": 3,
     "contentGroup": [
-      200000
+      0
     ]
   },
   {
-    "sn": 50109038,
-    "bubbleInterval": 0.5,
+    "sn": 50898,
+    "bubbleInterval": 6,
     "contentGroupInterval": 0,
-    "bubbleTime": 6,
+    "bubbleTime": 3,
     "delayTime": 3,
     "contentGroup": [
-      200001
+      0
+    ]
+  },
+  {
+    "sn": 50899,
+    "bubbleInterval": 6,
+    "contentGroupInterval": 0,
+    "bubbleTime": 3,
+    "delayTime": 3,
+    "contentGroup": [
+      0
+    ]
+  },
+  {
+    "sn": 2102996,
+    "bubbleInterval": 6,
+    "contentGroupInterval": 0,
+    "bubbleTime": 3,
+    "delayTime": 3,
+    "contentGroup": [
+      0
+    ]
+  },
+  {
+    "sn": 2710003,
+    "bubbleInterval": 5,
+    "contentGroupInterval": 0,
+    "bubbleTime": 6,
+    "delayTime": 0,
+    "contentGroup": [
+      0
+    ]
+  },
+  {
+    "sn": 2710004,
+    "bubbleInterval": 5,
+    "contentGroupInterval": 0,
+    "bubbleTime": 6,
+    "delayTime": 0,
+    "contentGroup": [
+      0
     ]
   }
 ]

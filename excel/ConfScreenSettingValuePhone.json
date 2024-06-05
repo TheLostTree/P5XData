@@ -2,47 +2,67 @@
   {
     "sn": "Resolution",
     "Level": [
-      6,
-      7,
-      8
+      0
+    ]
+  },
+  {
+    "sn": "FrameRateios",
+    "Level": [
+      0
     ]
   },
   {
     "sn": "FrameRate",
     "Level": [
-      30,
-      60
+      0
+    ]
+  },
+  {
+    "sn": "FrameRatePixelWork",
+    "Level": [
+      0
+    ]
+  },
+  {
+    "sn": "FrameRate120",
+    "Level": [
+      0
     ]
   },
   {
     "sn": "AntiAliasing",
-    "Level": []
+    "Level": [
+      0
+    ]
   },
   {
     "sn": "GraphicQuality",
     "Level": [
-      1,
-      2
+      0
     ]
   },
   {
     "sn": "EffectsQuality",
     "Level": [
-      1,
-      2,
-      3
+      0
     ]
   },
   {
     "sn": "LOD",
     "Level": [
-      1,
-      2,
-      3
+      0
     ]
   },
   {
     "sn": "DepthOfField",
+    "Level": []
+  },
+  {
+    "sn": "VolumeLight",
+    "Level": []
+  },
+  {
+    "sn": "HDR",
     "Level": []
   },
   {
@@ -52,34 +72,25 @@
   {
     "sn": "RenderScale",
     "Level": [
-      0.75,
-      1,
-      1.5,
-      2
+      0
     ]
   },
   {
     "sn": "ShaderQuality",
     "Level": [
-      0,
-      1,
-      2
+      0
     ]
   },
   {
     "sn": "ShadowQuality",
     "Level": [
-      0,
-      1,
-      2
+      0
     ]
   },
   {
     "sn": "PostProcessQuality",
     "Level": [
-      0,
-      1,
-      2
+      0
     ]
   }
 ]

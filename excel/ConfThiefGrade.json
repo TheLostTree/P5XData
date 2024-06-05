@@ -3,66 +3,84 @@
     "sn": 3,
     "gradeColor": "guaidao01-kuang-jin01.png",
     "gradeIcon": "guaidao01-kuang-jin02.png",
-    "thiefgradeFrame": "Guaidao-new-pinzhi-2.png",
+    "thiefgradeFrame": "",
+    "qualityPic": "",
     "initialChange": 1,
     "activateClipCount": 1,
     "shadowColor": "",
     "levelColor": "",
-    "cardLevelColor": "common-kapaidengji-yindi.png"
+    "cardLevelColor": "pinzhi-kapaidengji-yindi.png",
+    "arrayColor": "#a8a8a8",
+    "arrayColorBg": "pinzhi-zhenrong-zi.png"
   },
   {
     "sn": 4,
+    "gradeColor": "guaidao01-kuang-jin01.png",
+    "gradeIcon": "guaidao01-kuang-jin02.png",
+    "thiefgradeFrame": "",
+    "qualityPic": "",
+    "initialChange": 1,
+    "activateClipCount": 1,
+    "shadowColor": "",
+    "levelColor": "",
+    "cardLevelColor": "pinzhi-kapaidengji-yindi.png",
+    "arrayColor": "#50b50d",
+    "arrayColorBg": "pinzhi-zhenrong-zi.png"
+  },
+  {
+    "sn": 5,
     "gradeColor": "guaidao01-kuang-yin01.png",
     "gradeIcon": "guaidao01-kuang-yin02.png",
-    "thiefgradeFrame": "Guaidao-new-pinzhi-2.png",
+    "thiefgradeFrame": "",
+    "qualityPic": "pinzhi-guaidao-jin.png",
     "initialChange": 1,
     "activateClipCount": 1,
     "shadowColor": "#273CA3",
     "levelColor": "#00AEFF",
-    "cardLevelColor": "common-kapaidengji-jindi.png"
-  },
-  {
-    "sn": 5,
-    "gradeColor": "guaidao01-kuang-jin01.png",
-    "gradeIcon": "guaidao01-kuang-jin02.png",
-    "thiefgradeFrame": "Guaidao-new-pinzhi-1.png",
-    "initialChange": 1,
-    "activateClipCount": 1,
-    "shadowColor": "#99731A",
-    "levelColor": "#FFD900",
-    "cardLevelColor": "common-kapaidengji-cai.png"
+    "cardLevelColor": "pinzhi-kapaidengji-jindi.png",
+    "arrayColor": "#c900e4",
+    "arrayColorBg": "pinzhi-zhenrong-jin.png"
   },
   {
     "sn": 6,
     "gradeColor": "guaidao01-kuang-jin01.png",
     "gradeIcon": "guaidao01-kuang-jin02.png",
-    "thiefgradeFrame": "Guaidao-new-pinzhi-1.png",
+    "thiefgradeFrame": "",
+    "qualityPic": "pinzhi-guaidao-cai.png",
     "initialChange": 1,
     "activateClipCount": 1,
-    "shadowColor": "",
-    "levelColor": "",
-    "cardLevelColor": ""
+    "shadowColor": "#99731A",
+    "levelColor": "#FFD900",
+    "cardLevelColor": "pinzhi-kapaidengji-cai.png",
+    "arrayColor": "#e9cb2f",
+    "arrayColorBg": "pinzhi-zhenrong-cai.png"
   },
   {
     "sn": 7,
     "gradeColor": "guaidao01-kuang-jin01.png",
     "gradeIcon": "guaidao01-kuang-jin02.png",
-    "thiefgradeFrame": "Guaidao-new-pinzhi-1.png",
+    "thiefgradeFrame": "",
+    "qualityPic": "",
     "initialChange": 1,
     "activateClipCount": 1,
     "shadowColor": "",
     "levelColor": "",
-    "cardLevelColor": ""
+    "cardLevelColor": "pinzhi-kapaidengji-cai.png",
+    "arrayColor": "",
+    "arrayColorBg": "pinzhi-zhenrong-cai.png"
   },
   {
     "sn": 8,
     "gradeColor": "guaidao01-kuang-jin01.png",
     "gradeIcon": "guaidao01-kuang-jin02.png",
-    "thiefgradeFrame": "Guaidao-new-pinzhi-1.png",
+    "thiefgradeFrame": "",
+    "qualityPic": "",
     "initialChange": 1,
     "activateClipCount": 1,
     "shadowColor": "",
     "levelColor": "",
-    "cardLevelColor": ""
+    "cardLevelColor": "pinzhi-kapaidengji-cai.png",
+    "arrayColor": "",
+    "arrayColorBg": "pinzhi-zhenrong-cai.png"
   }
 ]

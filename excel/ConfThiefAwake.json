@@ -2,37 +2,50 @@
   {
     "sn": 1,
     "title": "guaidao-luoma1.png",
-    "levelLimit": 20,
-    "money": 800
+    "selfLevel": 10,
+    "levelLimit": 1,
+    "money": 1000
   },
   {
     "sn": 2,
     "title": "guaidao-luoma2.png",
-    "levelLimit": 40,
-    "money": 3000
+    "selfLevel": 20,
+    "levelLimit": 20,
+    "money": 5000
   },
   {
     "sn": 3,
     "title": "guaidao-luoma3.png",
-    "levelLimit": 50,
-    "money": 6000
+    "selfLevel": 30,
+    "levelLimit": 30,
+    "money": 8000
   },
   {
     "sn": 4,
     "title": "guaidao-luoma4.png",
-    "levelLimit": 60,
-    "money": 18000
+    "selfLevel": 40,
+    "levelLimit": 40,
+    "money": 12000
   },
   {
     "sn": 5,
     "title": "guaidao-luoma5.png",
-    "levelLimit": 70,
-    "money": 28000
+    "selfLevel": 50,
+    "levelLimit": 50,
+    "money": 23000
   },
   {
     "sn": 6,
-    "title": "common-new-luoma-6.png",
-    "levelLimit": 80,
-    "money": 50000
+    "title": "guaidao-luoma5.png",
+    "selfLevel": 60,
+    "levelLimit": 60,
+    "money": 45000
+  },
+  {
+    "sn": 7,
+    "title": "guaidao-luoma5.png",
+    "selfLevel": 70,
+    "levelLimit": 70,
+    "money": 90000
   }
 ]

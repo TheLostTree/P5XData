@@ -1,0 +1,52 @@
+[
+  {
+    "sn": 1,
+    "name": "奖池一",
+    "unlock": -1,
+    "item": 58,
+    "once": 1,
+    "Continuous": 5,
+    "numPic": "maqimu-lunpan-nmb1.png",
+    "bigAward": 101
+  },
+  {
+    "sn": 2,
+    "name": "奖池二",
+    "unlock": 101,
+    "item": 58,
+    "once": 1,
+    "Continuous": 5,
+    "numPic": "maqimu-lunpan-nmb2.png",
+    "bigAward": 201
+  },
+  {
+    "sn": 3,
+    "name": "奖池三",
+    "unlock": 201,
+    "item": 58,
+    "once": 1,
+    "Continuous": 5,
+    "numPic": "maqimu-lunpan-nmb3.png",
+    "bigAward": 301
+  },
+  {
+    "sn": 4,
+    "name": "奖池四",
+    "unlock": 301,
+    "item": 58,
+    "once": 1,
+    "Continuous": 5,
+    "numPic": "maqimu-lunpan-nmb4.png",
+    "bigAward": 401
+  },
+  {
+    "sn": 5,
+    "name": "奖池五",
+    "unlock": 401,
+    "item": 58,
+    "once": 1,
+    "Continuous": 5,
+    "numPic": "maqimu-lunpan-nmb5.png",
+    "bigAward": 501
+  }
+]

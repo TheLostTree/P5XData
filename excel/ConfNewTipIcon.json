@@ -1,189 +1,9 @@
 [
   {
-    "sn": 1,
-    "showType": 1,
-    "showParams": [
-      "1"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "502"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 19,
-    "thirdOperableDef": 10000,
-    "fourthOperableDef": 0
-  },
-  {
-    "sn": 2,
-    "showType": 1,
-    "showParams": [
-      "6"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "503"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 19,
-    "thirdOperableDef": 20000,
-    "fourthOperableDef": 0
-  },
-  {
-    "sn": 3,
-    "showType": 1,
-    "showParams": [
-      "9"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "504"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 19,
-    "thirdOperableDef": 40000,
-    "fourthOperableDef": 0
-  },
-  {
-    "sn": 4,
-    "showType": 1,
-    "showParams": [
-      "5"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "505"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 19,
-    "thirdOperableDef": 30000,
-    "fourthOperableDef": 0
-  },
-  {
-    "sn": 5,
-    "showType": 1,
-    "showParams": [
-      "10"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "506"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 19,
-    "thirdOperableDef": 9000,
-    "fourthOperableDef": 0
-  },
-  {
-    "sn": 6,
-    "showType": 1,
-    "showParams": [
-      "12"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "553"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 9,
-    "thirdOperableDef": 50000,
-    "fourthOperableDef": 60000
-  },
-  {
-    "sn": 7,
-    "showType": 1,
-    "showParams": [
-      "13"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "554"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 9,
-    "thirdOperableDef": 50000,
-    "fourthOperableDef": 70000
-  },
-  {
-    "sn": 8,
-    "showType": 1,
-    "showParams": [
-      "14"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "555"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 9,
-    "thirdOperableDef": 50000,
-    "fourthOperableDef": 80000
-  },
-  {
-    "sn": 9,
-    "showType": 1,
-    "showParams": [
-      "15"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "556"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 9,
-    "thirdOperableDef": 40000,
-    "fourthOperableDef": 0
-  },
-  {
-    "sn": 10,
-    "showType": 1,
-    "showParams": [
-      "16"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "557"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 9,
-    "thirdOperableDef": 60000,
-    "fourthOperableDef": 0
-  },
-  {
-    "sn": 11,
-    "showType": 1,
-    "showParams": [
-      "31"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "311"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 15,
-    "thirdOperableDef": 1001,
-    "fourthOperableDef": 0
-  },
-  {
-    "sn": 12,
-    "showType": 1,
-    "showParams": [
-      "33"
-    ],
-    "hideType": 1,
-    "hideParams": [
-      "312"
-    ],
-    "operableDef": 18,
-    "secondOperableDef": 15,
-    "thirdOperableDef": 1002,
-    "fourthOperableDef": 0
-  },
-  {
     "sn": 13,
     "showType": 1,
     "showParams": [
-      "407"
+      "�N"
     ],
     "hideType": 0,
     "hideParams": [],
@@ -196,11 +16,11 @@
     "sn": 14,
     "showType": 1,
     "showParams": [
-      "610"
+      "�]"
     ],
     "hideType": 0,
     "hideParams": [],
-    "operableDef": 25,
+    "operableDef": 24,
     "secondOperableDef": 201,
     "thirdOperableDef": 0,
     "fourthOperableDef": 0
@@ -209,11 +29,11 @@
     "sn": 15,
     "showType": 1,
     "showParams": [
-      "200"
+      "�M"
     ],
     "hideType": 1,
     "hideParams": [
-      "701"
+      "�M"
     ],
     "operableDef": 24,
     "secondOperableDef": 16,
@@ -224,7 +44,7 @@
     "sn": 16,
     "showType": 1,
     "showParams": [
-      "201"
+      "�M"
     ],
     "hideType": 0,
     "hideParams": [],
@@ -237,12 +57,51 @@
     "sn": 17,
     "showType": 1,
     "showParams": [
-      "202"
+      "�M"
     ],
     "hideType": 0,
     "hideParams": [],
     "operableDef": 24,
     "secondOperableDef": 18,
+    "thirdOperableDef": 0,
+    "fourthOperableDef": 0
+  },
+  {
+    "sn": 18,
+    "showType": 1,
+    "showParams": [
+      "�]"
+    ],
+    "hideType": 0,
+    "hideParams": [],
+    "operableDef": 18,
+    "secondOperableDef": 23,
+    "thirdOperableDef": 0,
+    "fourthOperableDef": 0
+  },
+  {
+    "sn": 19,
+    "showType": 1,
+    "showParams": [
+      "�]"
+    ],
+    "hideType": 0,
+    "hideParams": [],
+    "operableDef": 24,
+    "secondOperableDef": 203,
+    "thirdOperableDef": 0,
+    "fourthOperableDef": 0
+  },
+  {
+    "sn": 20,
+    "showType": 1,
+    "showParams": [
+      "�M"
+    ],
+    "hideType": 0,
+    "hideParams": [],
+    "operableDef": 24,
+    "secondOperableDef": 202,
     "thirdOperableDef": 0,
     "fourthOperableDef": 0
   }

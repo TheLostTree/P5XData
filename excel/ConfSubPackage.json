@@ -1,52 +1,57 @@
 [
   {
-    "sn": "suyujuexing",
-    "displayName": "都市资源",
-    "packageDesc": "都市资源包，缺失会限制部分玩法。",
+    "sn": "10090to10220",
+    "displayName": "必要资源·一",
+    "packageDesc": "如果有缺失，主线任务进度将受到限制。",
     "packageIcon": "fenbaoxiazai-icon-ditu-new.png",
     "packageType": 1,
     "packageSort": 1,
     "packagePath": "",
-    "packageQuest": 10295
+    "packageQuest": 10090,
+    "isOpt": 0
   },
   {
-    "sn": "richeng",
-    "displayName": "都市日程",
-    "packageDesc": "包含所有都市日常玩法，必须下载。",
+    "sn": "10260to10445",
+    "displayName": "必要资源·二",
+    "packageDesc": "如果有缺失，主线任务进度将受到限制。",
     "packageIcon": "fenbaoxiazai-icon-ditu-new.png",
     "packageType": 1,
     "packageSort": 2,
     "packagePath": "",
-    "packageQuest": 10441
+    "packageQuest": 10210,
+    "isOpt": 0
   },
   {
-    "sn": "yinxiangkongjian",
-    "displayName": "印象空间",
-    "packageDesc": "包含印象空间所有内容，必须下载。",
+    "sn": "Others",
+    "displayName": "必要资源·三",
+    "packageDesc": "如果有缺失，主线任务进度将受到限制。",
     "packageIcon": "fenbaoxiazai-icon-tongyong-new.png",
     "packageType": 1,
     "packageSort": 3,
     "packagePath": "",
-    "packageQuest": 10680
+    "packageQuest": 10445,
+    "isOpt": 0
   },
   {
-    "sn": "erlie",
-    "displayName": "宫殿资源",
-    "packageDesc": "包含首个宫殿所有内容，必须下载。",
-    "packageIcon": "fenbaoxiazai-icon-tongyong-new.png",
+    "sn": "optlocalcn",
+    "displayName": "中文语音资源",
+    "packageDesc": "切换中文语言配音必备资源。",
+    "packageIcon": "fenbaoxiazai-icon-ditu-new.png",
     "packageType": 1,
     "packageSort": 4,
     "packagePath": "",
-    "packageQuest": 10710
+    "packageQuest": 0,
+    "isOpt": 1
   },
   {
-    "sn": "Others",
-    "displayName": "其他内容",
-    "packageDesc": "包含本次测试中的其他资源。",
-    "packageIcon": "fenbaoxiazai-icon-tongyong-new.png",
+    "sn": "optlocaljp",
+    "displayName": "日文语音资源",
+    "packageDesc": "切换日文语言配音必备资源。",
+    "packageIcon": "fenbaoxiazai-icon-ditu-new.png",
     "packageType": 1,
     "packageSort": 5,
     "packagePath": "",
-    "packageQuest": 10880
+    "packageQuest": 0,
+    "isOpt": 1
   }
 ]

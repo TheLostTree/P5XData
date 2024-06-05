@@ -1,1270 +1,854 @@
 [
   {
-    "sn": 15101,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40501,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 1
-  },
-  {
-    "sn": 15102,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40502,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 20
-  },
-  {
-    "sn": 15103,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40503,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 40
-  },
-  {
-    "sn": 15104,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40504,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 50
-  },
-  {
-    "sn": 15105,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40505,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 60
-  },
-  {
-    "sn": 15106,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40506,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 70
-  },
-  {
-    "sn": 15107,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40507,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 80
-  },
-  {
-    "sn": 15201,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40501,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 1
-  },
-  {
-    "sn": 15202,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40502,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 20
-  },
-  {
-    "sn": 15203,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40503,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 40
-  },
-  {
-    "sn": 15204,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40504,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 50
-  },
-  {
-    "sn": 15205,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40505,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 60
-  },
-  {
-    "sn": 15206,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40506,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 70
-  },
-  {
-    "sn": 15207,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40507,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 80
-  },
-  {
-    "sn": 15301,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40501,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 1
-  },
-  {
-    "sn": 15302,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40502,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 20
-  },
-  {
-    "sn": 15303,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40503,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 40
-  },
-  {
-    "sn": 15304,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40504,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 50
-  },
-  {
-    "sn": 15305,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40505,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 60
-  },
-  {
-    "sn": 15306,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40506,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 70
-  },
-  {
-    "sn": 15307,
-    "storySN": 90001,
-    "areaSn": 15101001,
-    "instSn": 40507,
-    "npcSn": 15101001,
-    "superStorySn": [
-      "90001",
-      "90001"
-    ],
-    "superNpcSn": [
-      15101001,
-      15101001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 80
-  },
-  {
-    "sn": 16101,
+    "sn": 11101,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "bicorn",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40601,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 1
+    "instSn": 40211,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16102,
+    "sn": 11102,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "bicorn",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40602,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 20
+    "instSn": 40211,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16103,
+    "sn": 11103,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "bicorn",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40603,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 40
+    "instSn": 40211,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16104,
+    "sn": 11104,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "bicorn",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40604,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 50
+    "instSn": 40211,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16105,
+    "sn": 11105,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "bicorn",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40605,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 60
+    "instSn": 40211,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16106,
+    "sn": 11106,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "bicorn",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40606,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 70
+    "instSn": 40211,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16107,
+    "sn": 11107,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "bicorn",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40607,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 80
+    "instSn": 40211,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16201,
+    "sn": 11108,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "bicorn",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40601,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 1
+    "instSn": 40211,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16202,
+    "sn": 12101,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "mandrake",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 40111,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 12102,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "mandrake",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 40111,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 12103,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "mandrake",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 40111,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 12104,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "mandrake",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 40111,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 12105,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "mandrake",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 40111,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 12106,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "mandrake",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 40111,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 12107,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "mandrake",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 40111,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 12108,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "mandrake",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 40111,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 13101,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "anzu",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 40011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 13102,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "anzu",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 40011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 13103,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "anzu",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 40011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 13104,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "anzu",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 40011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 13105,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "anzu",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 40011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 13106,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "anzu",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 40011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 13107,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "anzu",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 40011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 13108,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "anzu",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 40011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 14101,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "sisa",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 40311,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 14102,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "sisa",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 40311,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 14103,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "sisa",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 40311,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 14104,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "sisa",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 40311,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 14105,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "sisa",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 40311,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 14106,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "sisa",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 40311,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 14107,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "sisa",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 40311,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 14108,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "sisa",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 40311,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 15001,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "aramitama",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 43011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 15002,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "aramitama",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 43011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 15003,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "aramitama",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 43011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 15004,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "aramitama",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 43011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 15005,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "aramitama",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 43011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 15006,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "aramitama",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 43011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 15007,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "aramitama",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 43011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 15008,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "aramitama",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 43011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 16001,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "ramia",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 41011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 16002,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "ramia",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 41011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 16003,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "ramia",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 41011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 16004,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "ramia",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 41011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 16005,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "ramia",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 41011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 16006,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "ramia",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 41011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 16007,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "ramia",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 41011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 16008,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "ramia",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 41011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 17001,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "oni",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40602,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 20
+    "instSn": 42011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16203,
+    "sn": 17002,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "oni",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40603,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 40
+    "instSn": 42011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16204,
+    "sn": 17003,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "oni",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40604,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 50
+    "instSn": 42011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16205,
+    "sn": 17004,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "oni",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40605,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 60
+    "instSn": 42011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16206,
+    "sn": 17005,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "oni",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40606,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 70
+    "instSn": 42011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16207,
+    "sn": 17006,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "oni",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40607,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 80
+    "instSn": 42011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16301,
+    "sn": 17007,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "oni",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40601,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 1
+    "instSn": 42011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
-    "sn": 16302,
+    "sn": 17008,
     "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "oni",
+    "timeLineScene": 25201,
     "areaSn": 15201001,
-    "instSn": 40602,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 20
-  },
-  {
-    "sn": 16303,
-    "storySN": 90002,
-    "areaSn": 15201001,
-    "instSn": 40603,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 40
-  },
-  {
-    "sn": 16304,
-    "storySN": 90002,
-    "areaSn": 15201001,
-    "instSn": 40604,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 50
-  },
-  {
-    "sn": 16305,
-    "storySN": 90002,
-    "areaSn": 15201001,
-    "instSn": 40605,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 60
-  },
-  {
-    "sn": 16306,
-    "storySN": 90002,
-    "areaSn": 15201001,
-    "instSn": 40606,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 70
-  },
-  {
-    "sn": 16307,
-    "storySN": 90002,
-    "areaSn": 15201001,
-    "instSn": 40607,
-    "npcSn": 15201001,
-    "superStorySn": [
-      "90002",
-      "90002"
-    ],
-    "superNpcSn": [
-      15201001,
-      15201001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 80
-  },
-  {
-    "sn": 17101,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40701,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 1
-  },
-  {
-    "sn": 17102,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40702,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 20
-  },
-  {
-    "sn": 17103,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40703,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 40
-  },
-  {
-    "sn": 17104,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40704,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 50
-  },
-  {
-    "sn": 17105,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40705,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 60
-  },
-  {
-    "sn": 17106,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40706,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 70
-  },
-  {
-    "sn": 17107,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40707,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 80
-  },
-  {
-    "sn": 17201,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40701,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 1
-  },
-  {
-    "sn": 17202,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40702,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 20
-  },
-  {
-    "sn": 17203,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40703,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 40
-  },
-  {
-    "sn": 17204,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40704,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 50
-  },
-  {
-    "sn": 17205,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40705,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 60
-  },
-  {
-    "sn": 17206,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40706,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 70
-  },
-  {
-    "sn": 17207,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40707,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 80
-  },
-  {
-    "sn": 17301,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40701,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 1
-  },
-  {
-    "sn": 17302,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40702,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 20
-  },
-  {
-    "sn": 17303,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40703,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 40
-  },
-  {
-    "sn": 17304,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40704,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 50
-  },
-  {
-    "sn": 17305,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40705,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 60
-  },
-  {
-    "sn": 17306,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40706,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 70
-  },
-  {
-    "sn": 17307,
-    "storySN": 90004,
-    "areaSn": 15401001,
-    "instSn": 40707,
-    "npcSn": 15401001,
-    "superStorySn": [
-      "90004",
-      "90004"
-    ],
-    "superNpcSn": [
-      15401001,
-      15401001
-    ],
-    "superAwardTxt": [
-      "凶魔奖励",
-      "金魔奖励"
-    ],
-    "summonDemonSn": 80
+    "instSn": 42011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
   },
   {
     "sn": 18101,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40811,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1272,10 +856,14 @@
   },
   {
     "sn": 18102,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40812,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1283,10 +871,14 @@
   },
   {
     "sn": 18103,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40813,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1294,10 +886,14 @@
   },
   {
     "sn": 18104,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40814,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1305,10 +901,14 @@
   },
   {
     "sn": 18105,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40815,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1316,21 +916,14 @@
   },
   {
     "sn": 18106,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40816,
-    "npcSn": 15301001,
-    "superStorySn": [],
-    "superNpcSn": [],
-    "superAwardTxt": [],
-    "summonDemonSn": 0
-  },
-  {
-    "sn": 18107,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40817,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1338,10 +931,14 @@
   },
   {
     "sn": 18201,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40821,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "ippondatara",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44111,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1349,10 +946,14 @@
   },
   {
     "sn": 18202,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40822,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "ippondatara",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44111,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1360,10 +961,14 @@
   },
   {
     "sn": 18203,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40823,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "ippondatara",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44111,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1371,10 +976,14 @@
   },
   {
     "sn": 18204,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40824,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "ippondatara",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44111,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1382,10 +991,14 @@
   },
   {
     "sn": 18205,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40825,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "ippondatara",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44111,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1393,21 +1006,14 @@
   },
   {
     "sn": 18206,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40826,
-    "npcSn": 15301001,
-    "superStorySn": [],
-    "superNpcSn": [],
-    "superAwardTxt": [],
-    "summonDemonSn": 0
-  },
-  {
-    "sn": 18207,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40827,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "ippondatara",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44111,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1415,10 +1021,14 @@
   },
   {
     "sn": 18301,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40831,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "suiki",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44511,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1426,10 +1036,14 @@
   },
   {
     "sn": 18302,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40832,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "suiki",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44511,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1437,10 +1051,14 @@
   },
   {
     "sn": 18303,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40833,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "suiki",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44511,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1448,10 +1066,14 @@
   },
   {
     "sn": 18304,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40834,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "suiki",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44511,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1459,10 +1081,14 @@
   },
   {
     "sn": 18305,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40835,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "suiki",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44511,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1470,21 +1096,14 @@
   },
   {
     "sn": 18306,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40836,
-    "npcSn": 15301001,
-    "superStorySn": [],
-    "superNpcSn": [],
-    "superAwardTxt": [],
-    "summonDemonSn": 0
-  },
-  {
-    "sn": 18307,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40837,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "suiki",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44511,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1492,10 +1111,14 @@
   },
   {
     "sn": 18401,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40811,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "jackfrost",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44011,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1503,10 +1126,14 @@
   },
   {
     "sn": 18402,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40812,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "jackfrost",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44011,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1514,10 +1141,14 @@
   },
   {
     "sn": 18403,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40813,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "jackfrost",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44011,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1525,10 +1156,14 @@
   },
   {
     "sn": 18404,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40814,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "jackfrost",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44011,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1536,10 +1171,14 @@
   },
   {
     "sn": 18405,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40815,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "jackfrost",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44011,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1547,21 +1186,14 @@
   },
   {
     "sn": 18406,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40816,
-    "npcSn": 15301001,
-    "superStorySn": [],
-    "superNpcSn": [],
-    "superAwardTxt": [],
-    "summonDemonSn": 0
-  },
-  {
-    "sn": 18407,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40817,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "jackfrost",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44011,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1569,10 +1201,14 @@
   },
   {
     "sn": 18501,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40821,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "mokoi",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44311,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1580,10 +1216,14 @@
   },
   {
     "sn": 18502,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40822,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "mokoi",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44311,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1591,10 +1231,14 @@
   },
   {
     "sn": 18503,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40823,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "mokoi",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44311,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1602,10 +1246,14 @@
   },
   {
     "sn": 18504,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40824,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "mokoi",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44311,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1613,10 +1261,14 @@
   },
   {
     "sn": 18505,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40825,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "mokoi",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44311,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1624,21 +1276,14 @@
   },
   {
     "sn": 18506,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40826,
-    "npcSn": 15301001,
-    "superStorySn": [],
-    "superNpcSn": [],
-    "superAwardTxt": [],
-    "summonDemonSn": 0
-  },
-  {
-    "sn": 18507,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40827,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "mokoi",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44311,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1646,10 +1291,14 @@
   },
   {
     "sn": 18601,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40831,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1657,10 +1306,14 @@
   },
   {
     "sn": 18602,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40832,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1668,10 +1321,14 @@
   },
   {
     "sn": 18603,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40833,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1679,10 +1336,14 @@
   },
   {
     "sn": 18604,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40834,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1690,10 +1351,14 @@
   },
   {
     "sn": 18605,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40835,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1701,21 +1366,14 @@
   },
   {
     "sn": 18606,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40836,
-    "npcSn": 15301001,
-    "superStorySn": [],
-    "superNpcSn": [],
-    "superAwardTxt": [],
-    "summonDemonSn": 0
-  },
-  {
-    "sn": 18607,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40837,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1723,10 +1381,14 @@
   },
   {
     "sn": 18701,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40811,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1734,10 +1396,14 @@
   },
   {
     "sn": 18702,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40812,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1745,10 +1411,14 @@
   },
   {
     "sn": 18703,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40813,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1756,10 +1426,14 @@
   },
   {
     "sn": 18704,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40814,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1767,10 +1441,14 @@
   },
   {
     "sn": 18705,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40815,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1778,21 +1456,14 @@
   },
   {
     "sn": 18706,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40816,
-    "npcSn": 15301001,
-    "superStorySn": [],
-    "superNpcSn": [],
-    "superAwardTxt": [],
-    "summonDemonSn": 0
-  },
-  {
-    "sn": 18707,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40817,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1800,10 +1471,14 @@
   },
   {
     "sn": 18801,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40821,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1811,10 +1486,14 @@
   },
   {
     "sn": 18802,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40822,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1822,10 +1501,14 @@
   },
   {
     "sn": 18803,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40823,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1833,10 +1516,14 @@
   },
   {
     "sn": 18804,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40824,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1844,10 +1531,14 @@
   },
   {
     "sn": 18805,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40825,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1855,21 +1546,14 @@
   },
   {
     "sn": 18806,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40826,
-    "npcSn": 15301001,
-    "superStorySn": [],
-    "superNpcSn": [],
-    "superAwardTxt": [],
-    "summonDemonSn": 0
-  },
-  {
-    "sn": 18807,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40827,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1877,10 +1561,14 @@
   },
   {
     "sn": 18901,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40831,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "nekomata",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44211,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1888,10 +1576,14 @@
   },
   {
     "sn": 18902,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40832,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "nekomata",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44211,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1899,10 +1591,14 @@
   },
   {
     "sn": 18903,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40833,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "nekomata",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44211,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1910,10 +1606,14 @@
   },
   {
     "sn": 18904,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40834,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "nekomata",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44211,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1921,10 +1621,14 @@
   },
   {
     "sn": 18905,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40835,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "nekomata",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44211,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1932,21 +1636,14 @@
   },
   {
     "sn": 18906,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40836,
-    "npcSn": 15301001,
-    "superStorySn": [],
-    "superNpcSn": [],
-    "superAwardTxt": [],
-    "summonDemonSn": 0
-  },
-  {
-    "sn": 18907,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40837,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "nekomata",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44211,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1954,10 +1651,14 @@
   },
   {
     "sn": 19001,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40831,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1965,10 +1666,14 @@
   },
   {
     "sn": 19002,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40832,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1976,10 +1681,14 @@
   },
   {
     "sn": 19003,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40833,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1987,10 +1696,14 @@
   },
   {
     "sn": 19004,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40834,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -1998,10 +1711,14 @@
   },
   {
     "sn": 19005,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40835,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -2009,21 +1726,14 @@
   },
   {
     "sn": 19006,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40836,
-    "npcSn": 15301001,
-    "superStorySn": [],
-    "superNpcSn": [],
-    "superAwardTxt": [],
-    "summonDemonSn": 0
-  },
-  {
-    "sn": 19007,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40837,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -2031,10 +1741,14 @@
   },
   {
     "sn": 19101,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40831,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -2042,10 +1756,14 @@
   },
   {
     "sn": 19102,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40832,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -2053,10 +1771,14 @@
   },
   {
     "sn": 19103,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40833,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -2064,10 +1786,14 @@
   },
   {
     "sn": 19104,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40834,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -2075,10 +1801,14 @@
   },
   {
     "sn": 19105,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40835,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
@@ -2086,21 +1816,599 @@
   },
   {
     "sn": 19106,
-    "storySN": 90003,
-    "areaSn": 15301001,
-    "instSn": 40836,
-    "npcSn": 15301001,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "archangel",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 44711,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],
     "summonDemonSn": 0
   },
   {
-    "sn": 19107,
+    "sn": 30001,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "obariyon",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 48011,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30011,
+    "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "succubus",
+    "timeLineScene": 25201,
+    "areaSn": 15201001,
+    "instSn": 48012,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30021,
     "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "angel",
+    "timeLineScene": 25301,
     "areaSn": 15301001,
-    "instSn": 40837,
-    "npcSn": 15301001,
+    "instSn": 48021,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30031,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "matador",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 48022,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30041,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "kinki",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 48031,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30051,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "anzu",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 48032,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30061,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "houou",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 48033,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30071,
+    "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "klotho",
+    "timeLineScene": 25201,
+    "areaSn": 15201001,
+    "instSn": 48034,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30081,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "fuuki",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 48035,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30091,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "blackooze",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 48036,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30101,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "zouchouten",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 48041,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30111,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "aramitama",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 48042,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30121,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "jatayu",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 48043,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30131,
+    "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "mothman",
+    "timeLineScene": 25201,
+    "areaSn": 15201001,
+    "instSn": 48044,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30141,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "kiun",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 48045,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30151,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "tooto",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 48046,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30161,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "mithras",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 48047,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30171,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "dakini",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 48051,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30181,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "bugs",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 48052,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30191,
+    "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "pazuzu",
+    "timeLineScene": 25201,
+    "areaSn": 15201001,
+    "instSn": 48053,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30201,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "kubhanda",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 48054,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30211,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "hekatoncheir",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 48055,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30221,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "kusinadahime",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 48056,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30231,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "girimekara",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 48057,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30241,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "surtr",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 48061,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30251,
+    "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "blackrider",
+    "timeLineScene": 25201,
+    "areaSn": 15201001,
+    "instSn": 48062,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30261,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "cerberus",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 48063,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30271,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "nagaraja",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 48064,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30281,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "barong",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 48065,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30291,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "quetzalcoatl",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 48071,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30301,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "nebiros",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 48072,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30311,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "oberon",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 48073,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30321,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "dionysos",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 48074,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30331,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang04",
+    "model": "rantan",
+    "timeLineScene": 25401,
+    "areaSn": 15401001,
+    "instSn": 48013,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30341,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "bicorn",
+    "timeLineScene": 25501,
+    "areaSn": 15802001,
+    "instSn": 48014,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30351,
+    "storySN": 90003,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang03",
+    "model": "kahaku",
+    "timeLineScene": 25301,
+    "areaSn": 15301001,
+    "instSn": 48015,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30361,
+    "storySN": 90002,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang02",
+    "model": "suzaku",
+    "timeLineScene": 25201,
+    "areaSn": 15201001,
+    "instSn": 48023,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30371,
+    "storySN": 90001,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang01",
+    "model": "kodama",
+    "timeLineScene": 25101,
+    "areaSn": 15101001,
+    "instSn": 48024,
+    "npcSn": 0,
+    "superNpcType": [],
+    "superStorySn": [],
+    "superNpcSn": [],
+    "superAwardTxt": [],
+    "summonDemonSn": 0
+  },
+  {
+    "sn": 30381,
+    "storySN": 90004,
+    "TimeLinePlayerSN": "TL_Eyzj_cailiaoben_ruchang05",
+    "model": "orobas",
+    "timeLineScene": 25601,
+    "areaSn": 15804001,
+    "instSn": 48025,
+    "npcSn": 0,
+    "superNpcType": [],
     "superStorySn": [],
     "superNpcSn": [],
     "superAwardTxt": [],

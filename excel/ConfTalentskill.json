@@ -1,590 +1,452 @@
 [
   {
     "sn": 101,
+    "maxLevel": 20,
     "type": 1,
     "tree": 1,
     "whetherultra": 0,
-    "param": "261:10",
+    "param": [
+      [
+        0
+      ]
+    ],
     "formerskill": 0,
-    "itemCost": 12,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
     "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
+      [
+        0
+      ]
     ],
     "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
+      0
+    ],
+    "name": "生命值提升",
+    "icon": "tianfu-tisheng-shengming.png",
+    "des": "提升%s%s。"
+  },
+  {
+    "sn": 102,
+    "maxLevel": 20,
+    "type": 1,
+    "tree": 1,
+    "whetherultra": 0,
+    "param": [
+      [
+        0
+      ]
+    ],
+    "formerskill": 101,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
+    "upgradeCost": [
+      [
+        0
+      ]
+    ],
+    "needpoint": [
+      0
     ],
     "name": "攻击力提升",
     "icon": "tianfu-tisheng-gongjili-02.png",
     "des": "提升%s%s。"
   },
   {
-    "sn": 102,
-    "type": 1,
-    "tree": 1,
-    "whetherultra": 0,
-    "param": "263:0.01",
-    "formerskill": 101,
-    "itemCost": 12,
-    "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "百分比攻击",
-    "icon": "tianfu-tisheng-gongjili-01.png",
-    "des": "提升%s%s。"
-  },
-  {
     "sn": 103,
+    "maxLevel": 20,
     "type": 1,
     "tree": 1,
     "whetherultra": 0,
-    "param": "451:0.005,461:0.005,471:0.005,481:0.005",
+    "param": [
+      [
+        0
+      ]
+    ],
     "formerskill": 102,
-    "itemCost": 12,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
     "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
+      [
+        0
+      ]
     ],
     "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
+      0
     ],
-    "name": "元素伤害",
-    "icon": "tianfu-zengqiang-yuansushanghai.png",
-    "des": "提升%s%s,%s%s,%s%s,%s%s。"
-  },
-  {
-    "sn": 104,
-    "type": 1,
-    "tree": 1,
-    "whetherultra": 0,
-    "param": "281:0.005",
-    "formerskill": 0,
-    "itemCost": 12,
-    "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "暴击率",
-    "icon": "tianfu-tisheng-mianshanglv.png",
-    "des": "提升%s%s。"
-  },
-  {
-    "sn": 105,
-    "type": 1,
-    "tree": 1,
-    "whetherultra": 0,
-    "param": "291:0.01",
-    "formerskill": 104,
-    "itemCost": 12,
-    "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "暴击伤害",
-    "icon": "tianfu-tisheng-zaochengshanghai.png",
-    "des": "提升%s%s。"
-  },
-  {
-    "sn": 106,
-    "type": 1,
-    "tree": 1,
-    "whetherultra": 0,
-    "param": "491:0.005,501:0.005,511:0.005,521:0.005",
-    "formerskill": 105,
-    "itemCost": 12,
-    "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "精神伤害",
-    "icon": "tianfu-zengqiang-jingshenshanghai.png",
-    "des": "提升%s%s,%s%s,%s%s,%s%s。"
-  },
-  {
-    "sn": 107,
-    "type": 1,
-    "tree": 1,
-    "whetherultra": 1,
-    "param": "411:0.01",
-    "formerskill": 0,
-    "itemCost": 12,
-    "upgradeCost": [
-      120,
-      160,
-      200,
-      240,
-      280,
-      320
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "伤害提升",
-    "icon": "tianfu-datubiao-beishuiyizhan.png",
+    "name": "防御力提升",
+    "icon": "tianfu-datubiao-yuansudashi.png",
     "des": "提升%s%s。"
   },
   {
     "sn": 201,
+    "maxLevel": 10,
     "type": 1,
     "tree": 2,
     "whetherultra": 0,
-    "param": "241:30",
+    "param": [
+      [
+        0
+      ]
+    ],
     "formerskill": 0,
-    "itemCost": 12,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
     "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
+      [
+        0
+      ]
     ],
     "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
+      0
     ],
-    "name": "生命值",
-    "icon": "tianfu-tisheng-shengming.png",
+    "name": "攻击力提升",
+    "icon": "tianfu-tisheng-gongjili-02.png",
     "des": "提升%s%s。"
   },
   {
     "sn": 202,
+    "maxLevel": 10,
     "type": 1,
     "tree": 2,
     "whetherultra": 0,
-    "param": "243:0.01",
+    "param": [
+      [
+        0
+      ]
+    ],
     "formerskill": 201,
-    "itemCost": 12,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
     "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
+      [
+        0
+      ]
     ],
     "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
+      0
     ],
-    "name": "百分比生命值",
-    "icon": "tianfu-tisheng-baifenbishengming.png",
+    "name": "暴击率提升",
+    "icon": "tianfu-zengqiang-xiaoguodikang.png",
     "des": "提升%s%s。"
   },
   {
     "sn": 203,
+    "maxLevel": 10,
     "type": 1,
     "tree": 2,
     "whetherultra": 0,
-    "param": "671:0.005",
+    "param": [
+      [
+        0
+      ]
+    ],
     "formerskill": 202,
-    "itemCost": 12,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
     "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
+      [
+        0
+      ]
     ],
     "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
+      0
     ],
-    "name": "治疗提升",
-    "icon": "tianfu-tisheng-zhiliao.png",
-    "des": "提升%s%s。"
-  },
-  {
-    "sn": 204,
-    "type": 1,
-    "tree": 2,
-    "whetherultra": 0,
-    "param": "271:10",
-    "formerskill": 0,
-    "itemCost": 12,
-    "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "防御提升",
-    "icon": "tianfu-tisheng-fangyutili-02.png",
-    "des": "提升%s%s。"
-  },
-  {
-    "sn": 205,
-    "type": 1,
-    "tree": 2,
-    "whetherultra": 0,
-    "param": "273:0.02",
-    "formerskill": 204,
-    "itemCost": 12,
-    "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "百分比防御",
-    "icon": "tianfu-tisheng-fangyutili-01.png",
-    "des": "提升%s%s。"
-  },
-  {
-    "sn": 206,
-    "type": 1,
-    "tree": 2,
-    "whetherultra": 0,
-    "param": "691:0.005",
-    "formerskill": 205,
-    "itemCost": 12,
-    "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "护盾提升",
-    "icon": "tianfu-tisheng-naixing.png",
-    "des": "提升%s%s。"
-  },
-  {
-    "sn": 207,
-    "type": 1,
-    "tree": 2,
-    "whetherultra": 1,
-    "param": "851:0.005",
-    "formerskill": 0,
-    "itemCost": 12,
-    "upgradeCost": [
-      120,
-      160,
-      200,
-      240,
-      280,
-      320
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "免伤提升",
-    "icon": "tianfu-datubiao-yongqizhisheng.png",
+    "name": "暴击伤害提升",
+    "icon": "tianfu-tisheng-zaochengshanghai.png",
     "des": "提升%s%s。"
   },
   {
     "sn": 301,
-    "type": 2,
+    "maxLevel": 10,
+    "type": 1,
     "tree": 3,
     "whetherultra": 0,
-    "param": "4005",
+    "param": [
+      [
+        0
+      ]
+    ],
     "formerskill": 0,
-    "itemCost": 12,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
     "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
+      [
+        0
+      ]
     ],
     "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
+      0
     ],
-    "name": "元素异常率",
-    "icon": "tianfu-zengqiang-yuansuyichang.png",
+    "name": "生命值提升",
+    "icon": "tianfu-tisheng-shengming.png",
     "des": "提升%s%s。"
   },
   {
     "sn": 302,
-    "type": 2,
+    "maxLevel": 10,
+    "type": 1,
     "tree": 3,
     "whetherultra": 0,
-    "param": "4006",
+    "param": [
+      [
+        0
+      ]
+    ],
     "formerskill": 301,
-    "itemCost": 12,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
     "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
+      [
+        0
+      ]
     ],
     "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
+      0
     ],
-    "name": "精神异常率",
-    "icon": "tianfu-zengqiang-jingshenyichang.png",
+    "name": "治疗效果提升",
+    "icon": "tianfu-tisheng-zhiliao.png",
     "des": "提升%s%s。"
   },
   {
     "sn": 303,
+    "maxLevel": 10,
     "type": 1,
     "tree": 3,
     "whetherultra": 0,
-    "param": "301:0.01",
+    "param": [
+      [
+        0
+      ]
+    ],
     "formerskill": 302,
-    "itemCost": 12,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
     "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
+      [
+        0
+      ]
     ],
     "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
+      0
     ],
-    "name": "效果命中增强",
-    "icon": "tianfu-tisheng-xiaoguomingzhong.png",
+    "name": "效果命中提升",
+    "icon": "tianfu-zengqiang-chuantounaixing.png",
     "des": "提升%s%s。"
   },
   {
-    "sn": 304,
-    "type": 2,
-    "tree": 3,
-    "whetherultra": 0,
-    "param": "4007",
-    "formerskill": 0,
-    "itemCost": 12,
-    "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "元素异常抗性",
-    "icon": "tianfu-zengqiang-yuansuyichangkangxing.png",
-    "des": "提升%s%s。"
-  },
-  {
-    "sn": 305,
-    "type": 2,
-    "tree": 3,
-    "whetherultra": 0,
-    "param": "4008",
-    "formerskill": 304,
-    "itemCost": 12,
-    "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
-    ],
-    "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
-    ],
-    "name": "精神异常抗性",
-    "icon": "tianfu-zengqiang-jingshenyichangkangxing.png",
-    "des": "提升%s%s。"
-  },
-  {
-    "sn": 306,
+    "sn": 401,
+    "maxLevel": 10,
     "type": 1,
-    "tree": 3,
+    "tree": 4,
     "whetherultra": 0,
-    "param": "311:0.01",
-    "formerskill": 305,
-    "itemCost": 12,
+    "param": [
+      [
+        0
+      ]
+    ],
+    "formerskill": 0,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
     "upgradeCost": [
-      70,
-      100,
-      130,
-      160,
-      190,
-      220
+      [
+        0
+      ]
     ],
     "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
+      0
     ],
-    "name": "效果抵抗",
-    "icon": "tianfu-zengqiang-xiaoguodikang.png",
-    "des": "减少%s%s。"
+    "name": "防御力提升",
+    "icon": "tianfu-tisheng-fangyutili-01.png",
+    "des": "提升%s%s。"
   },
   {
-    "sn": 307,
-    "type": 2,
-    "tree": 3,
-    "whetherultra": 1,
-    "param": "4009",
-    "formerskill": 0,
-    "itemCost": 12,
+    "sn": 402,
+    "maxLevel": 10,
+    "type": 1,
+    "tree": 4,
+    "whetherultra": 0,
+    "param": [
+      [
+        0
+      ]
+    ],
+    "formerskill": 401,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
     "upgradeCost": [
-      120,
-      160,
-      200,
-      240,
-      280,
-      320
+      [
+        0
+      ]
     ],
     "needpoint": [
-      0,
-      800,
-      1600,
-      4000,
-      7200,
-      12000
+      0
     ],
-    "name": "技能消耗减少",
+    "name": "护盾效果提升",
+    "icon": "tianfu-tisheng-mianshanglv.png",
+    "des": "提升%s%s。"
+  },
+  {
+    "sn": 403,
+    "maxLevel": 10,
+    "type": 1,
+    "tree": 4,
+    "whetherultra": 0,
+    "param": [
+      [
+        0
+      ]
+    ],
+    "formerskill": 402,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
+    "upgradeCost": [
+      [
+        0
+      ]
+    ],
+    "needpoint": [
+      0
+    ],
+    "name": "效果抵抗提升",
+    "icon": "tianfu-tisheng-naixing.png",
+    "des": "提升%s%s。"
+  },
+  {
+    "sn": 501,
+    "maxLevel": 5,
+    "type": 3,
+    "tree": 7,
+    "whetherultra": 1,
+    "param": [
+      [
+        0
+      ]
+    ],
+    "formerskill": 0,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
+    "upgradeCost": [
+      [
+        0
+      ]
+    ],
+    "needpoint": [
+      0
+    ],
+    "name": "人格提升",
     "icon": "tianfu-datubiao-yuansudashi.png",
-    "des": ""
+    "des": "人格面具特色主动技能等级额外提升%s级。"
+  },
+  {
+    "sn": 601,
+    "maxLevel": 5,
+    "type": 4,
+    "tree": 6,
+    "whetherultra": 1,
+    "param": [
+      [
+        0
+      ]
+    ],
+    "formerskill": 0,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
+    "upgradeCost": [
+      [
+        0
+      ]
+    ],
+    "needpoint": [
+      0
+    ],
+    "name": "技能领悟",
+    "icon": "tianfu-zengqiang-zhujueshanghai.png",
+    "des": "人格面具所有习得主动技能等级额外提升%s级。"
+  },
+  {
+    "sn": 701,
+    "maxLevel": 5,
+    "type": 5,
+    "tree": 5,
+    "whetherultra": 1,
+    "param": [
+      [
+        0
+      ]
+    ],
+    "formerskill": 0,
+    "itemCost": [
+      0
+    ],
+    "needlevel": [
+      0
+    ],
+    "upgradeCost": [
+      [
+        0
+      ]
+    ],
+    "needpoint": [
+      0
+    ],
+    "name": "战斗技巧",
+    "icon": "tianfu-tisheng-jinzhan.png",
+    "des": "ONEMORE、HIGHLIGHT、近战攻击、枪械效果提升。"
   }
 ]

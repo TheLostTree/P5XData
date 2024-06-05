@@ -1,233 +1,262 @@
 [
   {
     "sn": 101,
-    "title": "作战指令",
+    "title": "防御",
     "level": 0,
     "type": 2,
+    "pic": "shouji-daolantishi-wuqi-new.png",
     "sequence": 201,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 10101,
     "trigger": [
-      6
+      0
     ],
     "triggerValue": [
-      "20001"
-    ]
+      "�M;"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 102,
     "title": "弱点与ONE MORE",
     "level": 0,
     "type": 2,
+    "pic": "shouji-daolantishi-wuqi-new.png",
     "sequence": 204,
-    "popShow": 1,
+    "popShow": 2,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 10201,
     "trigger": [
-      6
+      0
     ],
     "triggerValue": [
-      "20003"
-    ]
+      "�M:"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 103,
     "title": "HIGHLIGHT",
     "level": 0,
     "type": 2,
+    "pic": "shouji-daolantishi-wuqi-new.png",
     "sequence": 205,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 10301,
     "trigger": [
-      3,
-      6,
-      19,
-      10
+      0
     ],
     "triggerValue": [
-      "44",
-      "20004",
-      "9",
-      "UI_AttackOneMoreSkill"
-    ]
+      "�M;"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 104,
-    "title": "队列信息",
+    "title": "行动队列",
     "level": 0,
     "type": 2,
+    "pic": "shouji-daolantishi-wuqi-new.png",
     "sequence": 202,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 10401,
     "trigger": [
-      6
+      0
     ],
     "triggerValue": [
-      "20100"
-    ]
+      "�M�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 105,
     "title": "由枪发动的攻击",
     "level": 0,
     "type": 2,
+    "pic": "shouji-daolantishi-wuqi-new.png",
     "sequence": 208,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 10501,
     "trigger": [
-      6
+      0
     ],
     "triggerValue": [
-      "20300"
-    ]
+      "��=�]"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 106,
     "title": "属性相克的说明",
     "level": 0,
     "type": 2,
+    "pic": "shouji-daolantishi-wuqi-new.png",
     "sequence": 203,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 10601,
     "trigger": [
-      6,
-      19
+      0
     ],
     "triggerValue": [
-      "20100",
-      "3"
-    ]
+      "�M�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 107,
     "title": "倒地值",
     "level": 0,
     "type": 2,
+    "pic": "shouji-daolantishi-wuqi-new.png",
     "sequence": 207,
     "popShow": 1,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 10701,
     "trigger": [
-      6
+      0
     ],
     "triggerValue": [
-      "20108"
-    ]
+      "\u0012���Mu�M"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 108,
     "title": "总攻击",
     "level": 0,
     "type": 2,
+    "pic": "shouji-daolantishi-wuqi-new.png",
     "sequence": 206,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 10801,
     "trigger": [
-      12
+      0
     ],
     "triggerValue": [
-      "3710740"
-    ]
+      "�M��B?1��1���\u0018��"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 109,
-    "title": "诡计",
+    "title": "支援技能",
     "level": 0,
     "type": 2,
+    "pic": "shouji-daolantishi-wuqi-new.png",
     "sequence": 209,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 10901,
     "trigger": [
-      12
+      0
     ],
     "triggerValue": [
-      "3910697"
-    ]
+      "��t��"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 110,
     "title": "不羁能力",
     "level": 0,
     "type": 2,
+    "pic": "shouji-daolantishi-wuqi-new.png",
     "sequence": 210,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 11001,
     "trigger": [
-      6
+      0
     ],
     "triggerValue": [
-      "80000"
-    ]
+      "��=�]"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 201,
     "title": "阴影",
     "level": 0,
     "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
     "sequence": 301,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 1,
     "icon": "",
     "steps": 20101,
     "trigger": [
-      12
+      0
     ],
     "triggerValue": [
-      "3800460"
-    ]
+      "�M��B?1��1���\u0018��"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 202,
     "title": "隐匿藏身与偷袭",
     "level": 0,
     "type": 3,
+    "pic": "shouji-daolantishi-yinni-new.png",
     "sequence": 302,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 1,
     "icon": "",
     "steps": 20201,
     "trigger": [
-      4
+      0
     ],
     "triggerValue": [
-      "10340"
-    ]
+      "��5�]"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 203,
-    "title": "安全小屋",
+    "title": "安全屋",
     "level": 0,
     "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
     "sequence": 303,
     "popShow": 1,
     "waitOver": 1,
@@ -235,183 +264,999 @@
     "icon": "",
     "steps": 20301,
     "trigger": [
-      10,
-      18
+      0
     ],
     "triggerValue": [
-      "UI_PWSaferoom",
-      "1"
-    ]
+      "�]�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 204,
     "title": "观察模式",
     "level": 0,
     "type": 3,
+    "pic": "shouji-daolantishi-yan-new.png",
     "sequence": 305,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 20401,
     "trigger": [
-      2
+      0
     ],
     "triggerValue": [
-      "10355"
-    ]
+      "�M�ӏ"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 205,
     "title": "勾绳动作",
     "level": 0,
     "type": 3,
+    "pic": "shouji-daolantishi-gousheng-new.png",
     "sequence": 304,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 20501,
     "trigger": [
-      4,
-      9
+      0
     ],
     "triggerValue": [
-      "10301",
-      "8300100"
-    ]
+      "�M�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 206,
-    "title": "迷失阴影",
+    "title": "诡谲之徒",
     "level": 0,
-    "type": 4,
-    "sequence": 403,
-    "popShow": 1,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 332,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 20601,
     "trigger": [
-      12
+      0
     ],
     "triggerValue": [
-      "3910630"
-    ]
+      "�M5"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 207,
-    "title": "里程卡",
+    "title": "乘车券",
     "level": 0,
-    "type": 3,
-    "sequence": 307,
-    "popShow": 1,
+    "type": 4,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 420,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 20701,
     "trigger": [
-      4
+      0
     ],
     "triggerValue": [
-      "11130"
-    ]
+      "�]v"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 208,
-    "title": "特殊阴影",
+    "title": "精算机",
     "level": 0,
     "type": 4,
-    "sequence": 402,
-    "popShow": 1,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 421,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 20801,
     "trigger": [
-      12
+      0
     ],
     "triggerValue": [
-      "3798863"
-    ]
+      "�]w"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 209,
     "title": "搜索物品",
     "level": 0,
     "type": 3,
+    "pic": "shouji-daolantishi-yan-new.png",
     "sequence": 306,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 20901,
     "trigger": [
-      9
+      0
     ],
     "triggerValue": [
-      "8301005"
-    ]
+      "��5�m\u001a"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 210,
     "title": "宝魔",
     "level": 0,
-    "type": 4,
-    "sequence": 404,
-    "popShow": 1,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 333,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 21001,
     "trigger": [
-      12
+      0
     ],
     "triggerValue": [
-      "3798864"
-    ]
+      "߿|�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 211,
     "title": "散落的收集物",
     "level": 0,
-    "type": 4,
-    "sequence": 405,
-    "popShow": 1,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 334,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 21101,
     "trigger": [
-      12
+      0
     ],
     "triggerValue": [
-      "3798865"
-    ]
+      "߿|�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 212,
     "title": "厄抑之境",
     "level": 0,
     "type": 4,
+    "pic": "shouji-eyizhijing.png",
     "sequence": 401,
-    "popShow": 1,
+    "popShow": 0,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 21201,
     "trigger": [
-      12
+      0
     ],
     "triggerValue": [
-      "3798866"
-    ]
+      "�M"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 217,
+    "title": "宝箱",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 335,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 21701,
+    "trigger": [],
+    "triggerValue": [],
+    "systemeventSn": 59,
+    "num": 1
+  },
+  {
+    "sn": 218,
+    "title": "收集物",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 336,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 21801,
+    "trigger": [],
+    "triggerValue": [],
+    "systemeventSn": 357,
+    "num": 1
+  },
+  {
+    "sn": 219,
+    "title": "堕落的狂徒",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 331,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 21901,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M4�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 220,
+    "title": "往日认知之间",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-yishijie01.png",
+    "sequence": 405,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 22001,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�]<"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 221,
+    "title": "往日回溯",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-yishijie01.png",
+    "sequence": 406,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 22101,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P��y�\u0002��ezx\u001e\u0012{kjw\u001eV'�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 222,
+    "title": "风涡",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 337,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 22201,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "��t�]"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 223,
+    "title": "新区域",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 338,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 22301,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "��t�^"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 224,
+    "title": "摄像机",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 371,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 22401,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�}�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 225,
+    "title": "摄像机模组",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 372,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 22501,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�m�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 226,
+    "title": "缩放摄像机",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 373,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 22601,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�t�n"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 227,
+    "title": "具现化摄像机",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 374,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 22701,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�}�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 228,
+    "title": "时间轴摄像机",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 375,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 22801,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�}�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 229,
+    "title": "火盆",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 376,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 22901,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�ʹ�N"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 230,
+    "title": "具现化火盆",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 377,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 23001,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�ʹ�N"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 231,
+    "title": "蜘蛛开关",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 378,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 23101,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�ʹ�N"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 232,
+    "title": "铁链宝箱",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 339,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 23201,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "\u0019\u000eyӏu"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 233,
+    "title": "锈损的铁桶",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 340,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 23301,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M4"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 234,
+    "title": "胆小鬼",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 341,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 23401,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�8�m"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 235,
+    "title": "可破碎墙",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 342,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 23501,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "\u0019\u000eyӏv"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 236,
+    "title": "飞跃气流",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 343,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 23601,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M4"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 237,
+    "title": "逃逸阴影",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 344,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 23701,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M4"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 238,
+    "title": "上锁的铁链门",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 345,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 23801,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "\u0019\u000ey�M5"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 239,
+    "title": "贮水居室",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 346,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 23901,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�4�n"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 241,
+    "title": "带符咒的门",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 348,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 24101,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�4Ӿ"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 242,
+    "title": "自动开合门",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 349,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 24201,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M4�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 243,
+    "title": "地刺陷阱",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 350,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 24301,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�4Ӿ"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 244,
+    "title": "可被破坏的门",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 351,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 24401,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�4�^"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 245,
+    "title": "弩箭墙",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 352,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 24501,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�tӟ"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 246,
+    "title": "具现化墙壁",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 353,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 24601,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�tӭ"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 247,
+    "title": "电动轨道开关",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 354,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 24701,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�tӟ"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 248,
+    "title": "升降木台",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 355,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 24801,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�tӭ"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 249,
+    "title": "电子控制台",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 356,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 24901,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "���"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 250,
+    "title": "电子干扰器",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 357,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 25001,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "���"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 251,
+    "title": "加锁宝箱",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 337,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 25101,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "��5��"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 252,
+    "title": "印象空间新路线",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 358,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 25201,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�t�]"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 253,
+    "title": "不同的雾门",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 359,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 25301,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M5"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 254,
+    "title": "雾门",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 360,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 25401,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�n8"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 255,
+    "title": "贪财鬼",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 361,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 25501,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M5"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 301,
     "title": "行动目标",
     "level": 0,
     "type": 7,
+    "pic": "shouji-caidan01.png",
     "sequence": 701,
     "popShow": 1,
     "waitOver": 1,
@@ -419,484 +1264,957 @@
     "icon": "",
     "steps": 30101,
     "trigger": [
-      2,
-      10,
-      18
+      0
     ],
     "triggerValue": [
-      "10025",
-      "UI_TopMissionUI",
-      "1"
-    ]
+      "�M7�B?N�L��\"�u\b�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 302,
-    "title": "角色占卜",
+    "title": "契约",
     "level": 0,
     "type": 7,
-    "sequence": 703,
+    "pic": "shouji-zhanbu01.png",
+    "sequence": 702,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 30201,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�_\u0014#��)ڶ*'"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 303,
+    "title": "视角设置",
+    "level": 0,
+    "type": 999,
+    "pic": "",
+    "sequence": 701,
     "popShow": 1,
     "waitOver": 1,
     "isPause": 1,
     "icon": "",
-    "steps": 30201,
+    "steps": 0,
     "trigger": [
-      3,
-      10
+      0
     ],
     "triggerValue": [
-      "118",
-      "UI_Divination"
-    ]
+      "�M7�B?N�L��\"�u\b"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 310,
     "title": "协同者",
     "level": 0,
     "type": 5,
-    "sequence": 502,
-    "popShow": 1,
+    "pic": "shouji-huoban01.png",
+    "sequence": 501,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 31001,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_CoopMainView"
-    ]
-  },
-  {
-    "sn": 311,
-    "title": "协同者-偏好",
-    "level": 0,
-    "type": 5,
-    "sequence": 503,
-    "popShow": 1,
-    "waitOver": 1,
-    "isPause": 0,
-    "icon": "",
-    "steps": 31101,
-    "trigger": [
-      10
+      "׭"
     ],
-    "triggerValue": [
-      "UI_CoopFavorView"
-    ]
-  },
-  {
-    "sn": 312,
-    "title": "协同者-档案",
-    "level": 0,
-    "type": 5,
-    "sequence": 504,
-    "popShow": 1,
-    "waitOver": 1,
-    "isPause": 0,
-    "icon": "",
-    "steps": 31201,
-    "trigger": [
-      10
-    ],
-    "triggerValue": [
-      "UI_CoopInfoView"
-    ]
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 321,
     "title": "工作台",
     "level": 0,
     "type": 5,
-    "sequence": 505,
-    "popShow": 1,
+    "pic": "shouji-gongzuotai01.png",
+    "sequence": 504,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 32101,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_ComposeItemsMainView"
-    ]
+      "�M�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 322,
     "title": "都市日程",
     "level": 0,
     "type": 5,
-    "sequence": 501,
-    "popShow": 1,
+    "pic": "shouji-dushi01.png",
+    "sequence": 502,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 32201,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_NewOpenWorldEvent"
-    ]
+      "�N:�^5"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 323,
     "title": "烹饪",
     "level": 0,
     "type": 5,
-    "sequence": 506,
-    "popShow": 1,
+    "pic": "shouji-pengren01.png",
+    "sequence": 505,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 32301,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_Cook"
-    ]
+      "�N;�^<"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 324,
     "title": "种植",
     "level": 0,
     "type": 5,
-    "sequence": 507,
-    "popShow": 1,
+    "pic": "shouji-zhongzhi01.png",
+    "sequence": 506,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 32401,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_PlantMainView"
-    ]
+      "�N<�^t"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 325,
     "title": "武器补给",
     "level": 0,
     "type": 7,
-    "sequence": 704,
+    "pic": "shouji-zhanbu01.png",
+    "sequence": 703,
     "popShow": 1,
     "waitOver": 1,
-    "isPause": 1,
+    "isPause": 0,
     "icon": "",
     "steps": 32501,
     "trigger": [
-      3,
-      10
+      0
     ],
     "triggerValue": [
-      "119",
-      "UI_Divination"
-    ]
+      "�_T#��)ڶ*'Y橢p��'\u001e"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 326,
+    "title": "衣柜",
+    "level": 0,
+    "type": 5,
+    "pic": "shouji-yigui01.png",
+    "sequence": 503,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 32601,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "׽"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 327,
+    "title": "武见诊所",
+    "level": 0,
+    "type": 5,
+    "pic": "shouji-shangcheng01.png",
+    "sequence": 530,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 32701,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P�ָ���(h"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 398,
     "title": "钓鱼",
     "level": 0,
     "type": 5,
-    "sequence": 508,
+    "pic": "shouji-diaoyu.png",
+    "sequence": 520,
     "popShow": 1,
     "waitOver": 1,
-    "isPause": 0,
+    "isPause": 1,
     "icon": "",
     "steps": 39801,
     "trigger": [
-      11
+      0
     ],
     "triggerValue": [
-      "250"
-    ]
+      "P�Ŋ�b�\u0000����"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 399,
     "title": "棒球",
     "level": 0,
     "type": 5,
-    "sequence": 509,
+    "pic": "shouji-bangqiu.png",
+    "sequence": 521,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 39901,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P��jg�jǛjYU��"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 400,
+    "title": "足球部",
+    "level": 0,
+    "type": 5,
+    "pic": "shouji-shetuan.png",
+    "sequence": 510,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 40001,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "ۮ"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 401,
+    "title": "轻音部",
+    "level": 0,
+    "type": 5,
+    "pic": "shouji-shetuan.png",
+    "sequence": 511,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 40101,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P����f\u0019��1��V'�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 450,
+    "title": "扭蛋机",
+    "level": 0,
+    "type": 5,
+    "pic": "shouji-niudan.png",
+    "sequence": 515,
     "popShow": 1,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
-    "steps": 39901,
+    "steps": 45001,
     "trigger": [
-      11
+      0
     ],
     "triggerValue": [
-      "13"
-    ]
+      "ߝ"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 451,
+    "title": "展示柜",
+    "level": 0,
+    "type": 5,
+    "pic": "shouji-zhanshigui.png",
+    "sequence": 516,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 45101,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�N"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 471,
+    "title": "卢布朗咖啡店",
+    "level": 0,
+    "type": 5,
+    "pic": "shouji-dushi01.png",
+    "sequence": 531,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 47101,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P��rد�܂���"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 501,
     "title": "怪盗",
     "level": 0,
     "type": 6,
-    "sequence": 501,
-    "popShow": 1,
+    "pic": "shouji-guaidao01.png",
+    "sequence": 601,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 50101,
     "trigger": [
-      10,
-      18
+      0
     ],
     "triggerValue": [
-      "UI_StrangeThiefMainInfo",
-      "1"
-    ]
+      "�M��^}P��j)�z{�F(!"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 502,
-    "title": "怪盗-成长",
+    "title": "怪盗·成长",
     "level": 0,
     "type": 6,
-    "sequence": 502,
-    "popShow": 1,
+    "pic": "shouji-guaidao01.png",
+    "sequence": 603,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 50201,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_StrangeThiefTrainView"
-    ]
+      "�M��^}P��j)�z{�F(!"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 503,
-    "title": "怪盗-武器",
+    "title": "怪盗·武器",
     "level": 0,
     "type": 6,
-    "sequence": 503,
-    "popShow": 1,
+    "pic": "shouji-wuqi01.png",
+    "sequence": 604,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 50301,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_WeaponMainView"
-    ]
+      "�N:�^�P��j)�z{�F(!"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 504,
-    "title": "怪盗-启示",
+    "title": "怪盗·启示",
     "level": 0,
     "type": 6,
-    "sequence": 504,
-    "popShow": 1,
+    "pic": "shouji-qishi01.png",
+    "sequence": 605,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 50401,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_EquipCardView"
-    ]
+      "�^9�^�P��j)�z{�F(!"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 505,
-    "title": "怪盗-技能",
+    "title": "怪盗·技能",
     "level": 0,
     "type": 6,
-    "sequence": 505,
-    "popShow": 1,
+    "pic": "shouji-guaidao01.png",
+    "sequence": 606,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 50501,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_StrangeThiefSkill"
-    ]
+      "�M��^}P��j)�z{�F(!"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 506,
-    "title": "怪盗-灵感",
+    "title": "怪盗·灵感",
     "level": 0,
     "type": 6,
-    "sequence": 506,
-    "popShow": 1,
+    "pic": "shouji-linggan01.png",
+    "sequence": 607,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 50601,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_TalentView"
-    ]
+      "׾�#�\u001a�u\b"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 507,
+    "title": "怪盗·面具",
+    "level": 0,
+    "type": 6,
+    "pic": "shouji-mianju01.png",
+    "sequence": 602,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 50701,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�N��B?J�ڞ\u0007��'�1��\"w�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 551,
     "title": "人格面具",
     "level": 0,
     "type": 6,
-    "sequence": 551,
+    "pic": "shouji-mianju01.png",
+    "sequence": 651,
     "popShow": 1,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 55101,
-    "trigger": [],
-    "triggerValue": []
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M��^z"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 552,
-    "title": "人格面具训练",
+    "title": "人格面具·训练",
     "level": 0,
     "type": 6,
-    "sequence": 552,
-    "popShow": 1,
+    "pic": "shouji-mianju01.png",
+    "sequence": 652,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 55201,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_CarryingPersonaView"
-    ]
-  },
-  {
-    "sn": 553,
-    "title": "人格面具强化",
-    "level": 0,
-    "type": 6,
-    "sequence": 553,
-    "popShow": 1,
-    "waitOver": 1,
-    "isPause": 0,
-    "icon": "",
-    "steps": 55301,
-    "trigger": [
-      10
+      "�M��^z"
     ],
-    "triggerValue": [
-      "UI_IntensifyPersonaView"
-    ]
-  },
-  {
-    "sn": 554,
-    "title": "人格面具意识",
-    "level": 0,
-    "type": 6,
-    "sequence": 554,
-    "popShow": 1,
-    "waitOver": 1,
-    "isPause": 0,
-    "icon": "",
-    "steps": 55401,
-    "trigger": [
-      10
-    ],
-    "triggerValue": [
-      "UI_PersonaEvolutionView"
-    ]
-  },
-  {
-    "sn": 555,
-    "title": "人格面具技能",
-    "level": 0,
-    "type": 6,
-    "sequence": 555,
-    "popShow": 1,
-    "waitOver": 1,
-    "isPause": 0,
-    "icon": "",
-    "steps": 55501,
-    "trigger": [
-      10
-    ],
-    "triggerValue": [
-      "UI_PersonaSkillView"
-    ]
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 556,
-    "title": "人格面具全书",
+    "title": "人格面具·全书",
     "level": 0,
     "type": 6,
-    "sequence": 556,
-    "popShow": 1,
+    "pic": "shouji-mianju01.png",
+    "sequence": 656,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 55601,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_PersonaEncyViewNew"
-    ]
+      "׾�#�\u001a�u\b"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 557,
-    "title": "人格面具合成",
+    "title": "人格面具·合体",
     "level": 0,
     "type": 6,
-    "sequence": 557,
-    "popShow": 1,
+    "pic": "shouji-mianju01.png",
+    "sequence": 657,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 55701,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_CompositePersonaView"
-    ]
+      "��=�]"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 558,
+    "title": "人格面具·育成",
+    "level": 0,
+    "type": 6,
+    "pic": "shouji-mianju01.png",
+    "sequence": 658,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 55801,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P��z�(����\b��X�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 601,
     "title": "天鹅绒试炼",
     "level": 0,
     "type": 4,
-    "sequence": 409,
-    "popShow": 1,
+    "pic": "shouji-tianerong.png",
+    "sequence": 402,
+    "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 60101,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_VelvetTrialMainView"
-    ]
+      "�]|"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 602,
+    "title": "心之海试炼",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-tianerong.png",
+    "sequence": 403,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 60201,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�^:"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 603,
+    "title": "心轨择行·玩法",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-xinjizexing.png",
+    "sequence": 410,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 60301,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P�Ѣ\u000b��+^2�b|Ƣ�X�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 604,
+    "title": "心轨择行·流程",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-xinjizexing.png",
+    "sequence": 411,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 60401,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P�Ѣ\u000b��+^6�^1�U��"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 605,
+    "title": "阏凶梦之扉",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-xiongmeng.png",
+    "sequence": 404,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 60501,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�}"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 606,
+    "title": "命运交错之时",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-yishijie01.png",
+    "sequence": 430,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 60601,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�]\u0014#��\\\u0007-����X�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 607,
+    "title": "心轨择行·御守",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-xinjizexing.png",
+    "sequence": 413,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 60407,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P�Ѣ\u000b��+^\u0006��\n\u001a(�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 608,
+    "title": "心轨择行·遗失物",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-xinjizexing.png",
+    "sequence": 412,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 60408,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P�Ѣ\u000b��+^\"צ\n\u001a(�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 609,
+    "title": "心轨择行·补充",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-xinjizexing.png",
+    "sequence": 414,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 60409,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�N�#�h�祊גq��I�^v�^�]4�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   },
   {
     "sn": 701,
-    "title": "阵容",
+    "title": "阵容·角色",
     "level": 0,
     "type": 7,
-    "sequence": 705,
+    "pic": "shouji-zhenrong01.png",
+    "sequence": 704,
     "popShow": 1,
     "waitOver": 1,
     "isPause": 0,
     "icon": "",
     "steps": 70101,
     "trigger": [
-      10
+      0
     ],
     "triggerValue": [
-      "UI_PalaceCheckpointPick"
-    ]
+      "P��jV�x(^rJh�{O��"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 702,
+    "title": "阵容·面具",
+    "level": 0,
+    "type": 7,
+    "pic": "shouji-zhenrong01.png",
+    "sequence": 705,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 70201,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "P�Ҷ����ޮ�'hƢ�&�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 801,
+    "title": "顺序拉环机关",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 801,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 80101,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M4�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 802,
+    "title": "隐藏房间大门",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 802,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 80103,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M4�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 803,
+    "title": "拉环机关",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 803,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 80105,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M4�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 804,
+    "title": "宝箱守卫",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 804,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 80107,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�M5�"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 999,
+    "title": "手柄轮盘",
+    "level": 0,
+    "type": 8,
+    "pic": "",
+    "sequence": 999,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 99901,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [
+      "�]4�E\b�Ƣ�ǧ��b�\u001b"
+    ],
+    "systemeventSn": 0,
+    "num": 0
   }
 ]

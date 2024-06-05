@@ -1,632 +1,1402 @@
 [
   {
     "sn": 10101,
-    "next": 10102,
-    "text": "<color=#ff3b37>指令区</color>显示当前可执行的各种操作指令。",
-    "image": "tutorials-10101.png"
-  },
-  {
-    "sn": 10102,
     "next": -1,
-    "text": "<color=#ff3b37>功能区</color>显示当前回合数和一些特殊操作按键。",
-    "image": "tutorials-10103.png"
+    "title": "防御",
+    "text": "「<color=#ff3b37>防御</color>」可以大幅减少角色受到的下一次伤害；\n至角色下次行动前，能够额外获得1点倒地值；\n并能给角色恢复一定精力值。",
+    "image": "tutorials-10101.png"
   },
   {
     "sn": 10201,
     "next": 10202,
-    "text": "技能拥有各自的属性，敌人则有<color=#ff3b37>弱点</color>的属性，\n用其弱点的属性攻击，可以造成「<color=#ff3b37>WEAK</color>」。\n「WEAK」：造成更大的伤害，并使敌人<color=#ff3b37>倒地</color>。",
-    "image": "tutorials-10201.png"
+    "title": "弱点与ONE MORE",
+    "text": "技能拥有对应的属性，敌人则有<color=#ff3b37>弱点</color>属性，\n用其弱点的属性攻击，可以造成「<color=#ff3b37>WEAK</color>」。\n「WEAK」：造成更大的伤害，并使敌人<color=#ff3b37>倒地</color>。",
+    "image": "tutorials-10201-i18n.png"
   },
   {
     "sn": 10202,
     "next": 10203,
-    "text": "使敌人倒地后，能接着再次攻击，\n这种情况被称为「<color=#ff3b37>ONE MORE</color>」\n「ONE MORE」释放具有时间限制，超时会<color=#ff3b37>自动释放</color>。",
+    "title": "弱点与ONE MORE",
+    "text": "使敌人倒地后，接着再次攻击，被称为「<color=#ff3b37>ONE MORE</color>」\n「ONE MORE」释放具有时间限制，超时会<color=#ff3b37>自动释放</color>。",
     "image": "tutorials-10202.png"
   },
   {
     "sn": 10203,
     "next": -1,
+    "title": "弱点与ONE MORE",
     "text": "「ONE MORE」会优先攻击<color=#ff3b37>未被击倒</color>的单位；\n再次使敌人倒地，可以释放更强力的「ONE MORE」。\n连续使敌人倒地，就可以单方面发动攻势。",
     "image": "tutorials-10203.png"
   },
   {
     "sn": 10301,
     "next": 10302,
-    "text": "使在场的所有敌人倒地，\n即可选择一名己方角色发动「<color=#ff3b37>HIGHLIGHT</color>」",
+    "title": "HIGHLIGHT",
+    "text": "每个怪盗都有一个独特的超强技能，\n称之为「<color=#ff3b37>HIGHLIGHT</color>」技能。\n「HIGHLIGHT」技能无法触发暴击效果。",
     "image": "tutorials-10301.png"
   },
   {
     "sn": 10302,
-    "next": -1,
-    "text": "「HIGHLIGHT」可对<color=#ff3b37>一名敌人</color>造成特定属性的超特大伤害。",
+    "next": 10303,
+    "title": "HIGHLIGHT",
+    "text": "怪盗行动、受到攻击、造成WEAK时，\n会获得<color=#ff3b37>HIGHLIGHT能量</color>。\n能量攒满后，可在任意怪盗行动时释放。",
     "image": "tutorials-10302.png"
+  },
+  {
+    "sn": 10303,
+    "next": -1,
+    "title": "HIGHLIGHT",
+    "text": "怪盗「HIGHLIGHT」使用后，有<color=#ff3b37>4回合</color>冷却时间，\n冷却后「<color=#ff3b37>重置</color>」该怪盗的HIGHLIGHT「<color=#ff3b37>使用机会</color>」。",
+    "image": "tutorials-10303.png"
   },
   {
     "sn": 10401,
     "next": 10402,
+    "title": "行动队列",
     "text": "<color=#ff3b37>行动条</color>可以查看敌我角色的行动顺序。",
-    "image": "tutorials-10402.png"
+    "image": "tutorials-10401-i18n.png"
   },
   {
     "sn": 10402,
     "next": -1,
+    "title": "行动队列",
     "text": "长按<color=#ff3b37>战斗单位</color>或者战斗单位的<color=#ff3b37>头像</color>，\n可以查看该单位的详细信息。",
-    "image": "tutorials-10403.png"
+    "image": "tutorials-10402-i18n.png"
   },
   {
     "sn": 10501,
     "next": 10502,
+    "title": "由枪发动的攻击",
     "text": "由枪发动的攻击视为<color=#ff3b37>射击属性</color>，\n<color=#ff3b37>飞行</color>的阴影通常都惧怕枪械的威力，\n在射完固定弹药之前，可以切换攻击对象。",
-    "image": "tutorials-10501.png"
+    "image": "tutorials-10501-i18n.png"
   },
   {
     "sn": 10502,
     "next": -1,
+    "title": "由枪发动的攻击",
     "text": "<color=#ff3b37>战斗结束后</color>怪盗们会填装弹夹中的子弹，\n积极地利用枪械进行攻击吧！",
     "image": ""
   },
   {
     "sn": 10601,
     "next": 10602,
+    "title": "属性相克的说明",
     "text": "敌人与人格面具造成的伤害均附带属性，\n从左到右依次为：\n<color=#ff3b37>物</color>、<color=#ff3b37>射</color>、<color=#ff3b37>火</color>、<color=#ff3b37>冰</color>、<color=#ff3b37>电</color>、<color=#ff3b37>风</color>、<color=#ff3b37>念</color>、<color=#ff3b37>核</color>、<color=#ff3b37>祝</color>、<color=#ff3b37>咒</color>",
-    "image": "tutorials-10601.png"
+    "image": "tutorials-10601-i18n.png"
   },
   {
     "sn": 10602,
     "next": 10603,
-    "text": "敌人和人格面具有各自的属性相克，\n详情界面可查看自身与敌人的克制情况。\n属性存在5种克制效果：<color=#ff3b37>弱</color>、<color=#ff3b37>耐</color>、<color=#ff3b37>无</color>、<color=#ff3b37>反</color>、<color=#ff3b37>吸</color>。\n未受攻击的敌人不显示属性克制关系。",
-    "image": "tutorials-10602.png"
+    "title": "属性相克的说明",
+    "text": "敌人和人格面具有各自的属性相克，\n详情界面可查看自身与敌人的克制情况。\n属性存在5种克制效果：<color=#ff3b37>弱</color>、<color=#ff3b37>耐</color>、<color=#ff3b37>无</color>、<color=#ff3b37>反</color>、<color=#ff3b37>吸</color>。",
+    "image": "tutorials-10602-i18n.png"
   },
   {
     "sn": 10603,
     "next": 10604,
-    "text": "「<color=#ff3b37>弱点</color>」：受到的伤害提升，同时削减护盾值；\n「<color=#ff3b37>耐性</color>」：受到的伤害减少；\n「<color=#ff3b37>无效</color>」：不会受到伤害；",
-    "image": ""
-  },
-  {
-    "sn": 10604,
-    "next": -1,
-    "text": "「<color=#ff3b37>反弹</color>」：受到的伤害反弹给施法者；\n「<color=#ff3b37>吸收</color>」：受到攻击时吸收伤害，并恢复自身生命。",
+    "title": "属性相克的说明",
+    "text": "「<color=#ff3b37>弱点</color>」：受到的伤害提升，同时削减护盾值；\n「<color=#ff3b37>耐性</color>」：受到的伤害减少；「<color=#ff3b37>无效</color>」：不受到伤害；\n「<color=#ff3b37>反弹</color>」：受到的伤害反弹给施法者；\n「<color=#ff3b37>吸收</color>」：受到攻击时吸收伤害，并恢复自身生命。",
     "image": ""
   },
   {
     "sn": 10701,
-    "next": 10702,
-    "text": "强力的怪物会具有「<color=#ff3b37>倒地值</color>」。\n造成倒地伤害时将首先削减其倒地值。",
-    "image": "tutorials-10701.png"
-  },
-  {
-    "sn": 10702,
     "next": -1,
-    "text": "倒地值被清除时，才会被<color=#ff3b37>击倒</color>。\n倒地值越高，其抵抗倒地伤害的能力越强。",
-    "image": ""
+    "title": "倒地值",
+    "text": "强力的怪物会具有「<color=#ff3b37>倒地值</color>」。\n造成倒地伤害时将首先削减其倒地值。\n倒地值被清除时，才会被<color=#ff3b37>击倒</color>。",
+    "image": "tutorials-10701-i18n.png"
   },
   {
     "sn": 10801,
     "next": 10802,
+    "title": "总攻击",
     "text": "使在场的所有敌人倒地，\n可以发动我方全员释放「<color=#ff3b37>总攻击</color>」。",
-    "image": "tutorials-10801.png"
+    "image": "tutorials-10801-i18n.png"
   },
   {
     "sn": 10802,
-    "next": 10803,
-    "text": "「<color=#ff3b37>总攻击</color>」是对所有敌人造成大量伤害的必杀攻击。\n主角无法行动或只有主角可以行动时无法发动。",
-    "image": "tutorials-10802.png"
-  },
-  {
-    "sn": 10803,
     "next": -1,
-    "text": "「总攻击」与「HIGHLIGHT」触发条件相同。\n「总攻击」对<color=#ff3b37>所有敌人</color>造成大量伤害；\n「HIGHLIGHT」对<color=#ff3b37>一名敌人</color>造成超特大伤害；\n请根据当前战斗形势，选择释放。",
-    "image": "tutorials-10803.png"
+    "title": "总攻击",
+    "text": "「<color=#ff3b37>总攻击</color>」是对所有敌人造成大量伤害的必杀攻击。\n总攻击的伤害与参战怪盗等级相关，主角无法行动或只有主角可以行动时无法发动。",
+    "image": "tutorials-10802.png"
   },
   {
     "sn": 10901,
     "next": 10902,
-    "text": "发动「<color=#ff3b37>诡计</color>」可以使用支援怪盗的强大能力。",
-    "image": "tutorials-10901.png"
+    "title": "支援技能",
+    "text": "「<color=#ff3b37>支援技能</color>」是解明怪盗的强大能力。\n解明怪盗在战斗中准备<color=#ff3b37>一定回合</color>即获得发动机会。",
+    "image": "tutorials-10901-i18n.png"
   },
   {
     "sn": 10902,
     "next": -1,
-    "text": "发动「诡计」需要消耗「<color=#ff3b37>诡计值</color>」。\n每名怪盗行动后，会都获得一点诡计值。\n不同支援怪盗的诡计值获取方法各具特色。",
-    "image": "tutorials-10902.png"
+    "title": "支援技能",
+    "text": "解明怪盗发动「<color=#ff3b37>支援技能</color>」后需要准备若干回合。\n不同解明怪盗提供的援助能力各具特色。",
+    "image": "tutorials-10902-i18n.png"
   },
   {
     "sn": 11001,
     "next": -1,
+    "title": "不羁能力",
     "text": "WONDER拥有特别的资质，能持有多个人格面具。\n战斗中可以通过<color=#ff3b37>更换人格面具</color>，\n切换<color=#ff3b37>人格面具技能</color>以及<color=#ff3b37>属性适应性</color>。",
-    "image": "tutorials-11001.png"
+    "image": "tutorials-11001-i18n.png"
   },
   {
     "sn": 20101,
     "next": 20102,
+    "title": "阴影",
     "text": "在异世界中会遭遇<color=#ff3b37>阴影</color>。",
-    "image": "tutorials-20101.png"
+    "image": "tutorials-20101-i18n.png"
   },
   {
     "sn": 20102,
     "next": -1,
+    "title": "阴影",
     "text": "使用<color=#ff3b37>攻击</color>指令攻击阴影，可以进入战斗。",
-    "image": "tutorials-20102.png"
-  },
-  {
-    "sn": 20103,
-    "next": -1,
-    "text": "敌人未发现时发动攻击，会视为<color=#ff3b37>先制攻击</color>，\n在战斗中，我方可以优先发起一轮攻击。",
-    "image": ""
+    "image": "tutorials-20102-i18n.png"
   },
   {
     "sn": 20201,
     "next": 20202,
+    "title": "隐匿藏身与偷袭",
     "text": "当场景中障碍物出现图示标识时，\n说明此处是一个<color=#ff3b37>隐匿点</color>。",
-    "image": "tutorials-20201.png"
+    "image": "tutorials-20201-i18n.png"
   },
   {
     "sn": 20202,
     "next": 20203,
+    "title": "隐匿藏身与偷袭",
     "text": "点击隐匿，可使自身进入<color=#ff3b37>隐匿藏身</color>状态。\n该状态下<color=#ff3b37>不会被敌人发现</color>。\n注意：处于被敌人追击状态下，无法进行隐匿藏身。",
-    "image": "tutorials-20202.png"
+    "image": "tutorials-20202-i18n.png"
   },
   {
     "sn": 20203,
     "next": 20204,
+    "title": "隐匿藏身与偷袭",
     "text": "隐匿时，若附近存在其他隐匿点，\n可以通过操作<color=#ff3b37>瞬间移动</color>至新隐匿点。",
-    "image": "tutorials-20203.png"
+    "image": "tutorials-20203-i18n.png"
   },
   {
     "sn": 20204,
     "next": 20205,
+    "title": "隐匿藏身与偷袭",
     "text": "点击退出可以<color=#ff3b37>取消</color>隐匿藏身状态。",
-    "image": "tutorials-20204.png"
+    "image": "tutorials-20204-i18n.png"
   },
   {
     "sn": 20205,
     "next": 20206,
+    "title": "隐匿藏身与偷袭",
     "text": "敌人靠近自身所在的隐匿点时，\n图标会变为可点击态，此时可对敌人发起<color=#ff3b37>偷袭</color>。",
-    "image": "tutorials-20205.png"
+    "image": "tutorials-20205-i18n.png"
   },
   {
     "sn": 20206,
     "next": -1,
+    "title": "隐匿藏身与偷袭",
     "text": "偷袭进入战斗，会视为<color=#ff3b37>先制攻击</color>，\n在战斗中，我方可以优先发起一轮攻击。",
     "image": ""
   },
   {
     "sn": 20301,
     "next": 20302,
-    "text": "与发现的安全小屋交互，即可将其解锁。\n可通过异界导航<color=#ff3b37>快速前往</color>已经开放的安全小屋。",
-    "image": "tutorials-20301.png"
+    "title": "安全屋",
+    "text": "与发现的安全屋交互，即可将其解锁。\n可通过异界导航<color=#ff3b37>快速前往</color>已经开放的安全屋。",
+    "image": "tutorials-20301-i18n.png"
   },
   {
     "sn": 20302,
     "next": 20303,
-    "text": "<color=#ff3b37>安全小屋</color>是怪盗团的休憩之所，\n进入安全小屋可以让所有同伴<color=#ff3b37>恢复状态</color>。\n同时异世界中的阴影也会<color=#ff3b37>重新凝聚</color>。",
-    "image": "tutorials-20302.png"
+    "title": "安全屋",
+    "text": "<color=#ff3b37>安全屋</color>是怪盗团的休憩之所，\n进入安全屋可以让所有同伴<color=#ff3b37>恢复状态</color>。",
+    "image": "tutorials-20302-i18n.png"
   },
   {
     "sn": 20303,
     "next": -1,
-    "text": "在安全小屋中可以<color=#ff3b37>培养怪盗</color>、<color=#ff3b37>培养面具</color>，\n同时也可以<color=#ff3b37>更换阵容</color>。",
-    "image": "tutorials-20303.png"
+    "title": "安全屋",
+    "text": "在安全屋中可以<color=#ff3b37>培养怪盗</color>、<color=#ff3b37>培养面具</color>，\n同时也可以<color=#ff3b37>更换阵容</color>。",
+    "image": "tutorials-20303-i18n.png"
   },
   {
     "sn": 20401,
     "next": -1,
+    "title": "观察模式",
     "text": "开启<color=#ff3b37>观察模式</color>能发现肉眼无法察觉的事物，\n找到各种各样的<color=#ff3b37>提示</color>。\n找不到行动目标时，请灵活运用观察模式吧。",
-    "image": "tutorials-20401.png"
+    "image": "tutorials-20401-i18n.png"
   },
   {
     "sn": 20501,
     "next": -1,
+    "title": "勾绳",
     "text": "靠近勾绳触发区域有<color=#ff3b37>勾绳</color>按钮显示，\n点击后，能够使用勾绳快速移动至目标区域。",
-    "image": "tutorials-20501.png"
+    "image": "tutorials-20501-i18n.png"
   },
   {
     "sn": 20601,
     "next": -1,
-    "text": "印象空间中存在缠绕金光的「<color=#ff3b37>迷失阴影</color>」。\n击败它们，会掉落<color=#ff3b37>更高级里程卡</color>。\n他们消散后，此处可能会凝聚更强大的阴影。",
+    "title": "诡谲之徒",
+    "text": "印象空间中存在「<color=#ff3b37>诡谲之徒</color>」。\n击败它们，会掉落丰厚的<color=#ff3b37>高级乘车券</color>。",
     "image": "tutorials-20601.png"
   },
   {
     "sn": 20701,
     "next": 20702,
-    "text": "想要去往某处的欲望，由于被大众所抛弃和遗忘，\n以<color=#ff3b37>里程卡</color>的形式散落在印象空间各处。\n累计收集里程越多，对印象空间的了解越多。\n就能<color=#ff3b37>通过雾门</color>前往印象空间更深处。",
-    "image": "tutorials-20702.png"
+    "title": "乘车券",
+    "text": "想要去往某处的欲望，由于被大众所抛弃和遗忘，\n以<color=#ff3b37>乘车券</color>的形式散落在印象空间各处。\n累计收集乘车券越多，对印象空间的了解越多。\n就能<color=#ff3b37>通过雾门</color>前往印象空间更深处。",
+    "image": "tutorials-20701.png"
   },
   {
     "sn": 20702,
     "next": -1,
-    "text": "欲望越强烈，品质越高，蕴含里程数也越大。\n蓝色=10里程；紫色=50里程；金色=200里程。\n击败<color=#ff3b37>堕落的狂徒</color>，能够直接获得1000里程。",
+    "title": "乘车券",
+    "text": "乘车券品质包括：蓝色、紫色、金色。\n欲望越强烈，品质越高，拾取获得乘车券数量也越多。\n击败<color=#ff3b37>诡谲之徒</color>，能够获得大量乘车券。",
     "image": ""
   },
   {
     "sn": 20801,
-    "next": 20802,
-    "text": "异世界中存在着不同欲望凝结的「<color=#ff3b37>特殊阴影</color>」，\n击败它们，可以获得不同的养成材料。\n战斗中换手后伤害大幅度提升，巧妙利用ONE MORE、\n总攻击终结战斗吧！",
-    "image": "tutorials-20801.png"
-  },
-  {
-    "sn": 20802,
     "next": -1,
-    "text": "打败「<color=#ff3b37>麻木的食书癖</color>」可得传记残页、断章、全书。\n打败「<color=#ff3b37>暴力的武斗派</color>」可得万用零件中、大。\n打败「<color=#ff3b37>混沌暗影</color>」可得人格面具精碎、精魄。\n打败「<color=#ff3b37>守财奴</color>」可以获得大量魂石奖励。",
-    "image": ""
+    "title": "精算机",
+    "text": "在<color=#ff3b37>精算机</color>处提交乘车券，可以累积经验，提升等级。\n达到等级可以获得奖励，并开启新的印象空间区域。\n印象空间不同路线，提升等级所需「<color=#ff3b37>乘车券</color>」不同。",
+    "image": "tutorials-20801-i18n.png"
   },
   {
     "sn": 20901,
-    "next": 20902,
+    "next": -1,
+    "title": "搜索物品",
     "text": "在宫殿内使用<color=#ff3b37>观察模式</color>。\n能找到藏有道具的<color=#ff3b37>搜索物品</color>。",
     "image": "tutorials-20901.png"
   },
   {
-    "sn": 20902,
-    "next": -1,
-    "text": "不仅能够攻击敌人，\n<color=#ff3b37>攻击</color>各种场景物件，可能会有意外的收获。",
-    "image": "tutorials-20902.png"
+    "sn": 21001,
+    "next": 21002,
+    "title": "宝魔",
+    "text": "印象空间中存在着钻石形态的「<color=#ff3b37>宝魔</color>」。\n限定回合内战胜它们，将获得不同等级的稀有材料，可作为对应RANK的人格面具突破材料使用。",
+    "image": "tutorials-21001.png"
   },
   {
-    "sn": 21001,
+    "sn": 21002,
     "next": -1,
-    "text": "印象空间中存在着钻石形态的「<color=#ff3b37>宝魔</color>」。\n限定回合内战胜它们，即可获得超额奖励。\n不慎被逃跑的话，\n下次探索时在附近能再次发现它们。",
-    "image": "tutorials-21001.png"
+    "title": "宝魔",
+    "text": "战斗中，如遇到宝魔逃跑的话，\n下次探索时在附近能<color=#ff3b37>再次发现</color>它们。",
+    "image": "tutorials-21002.png"
   },
   {
     "sn": 21101,
     "next": -1,
+    "title": "散落的收集物",
     "text": "印象空间中散落着此类「<color=#ff3b37>收集物</color>」，\n收集该物品可获得一定量的魂石。",
     "image": "tutorials-21101.png"
   },
   {
     "sn": 21201,
     "next": -1,
+    "title": "厄抑之境",
     "text": "阴影在印象空间中聚集，\n形成了称之为「<color=#ff3b37>厄抑之境</color>」的特殊空间。\n怪盗团需要不时造访，来修正扭曲的欲望，\n同时也能获得成长必备的「<color=#ff3b37>材料</color>」。",
     "image": "tutorials-21201.png"
   },
   {
-    "sn": 30101,
-    "next": 30102,
-    "text": "屏幕<color=#ff3b37>右上方</color>显示今后的行动、有关提示或目的地。\n找不到行动目标时，可以参考这个资讯。",
-    "image": "tutorials-30101.png"
-  },
-  {
-    "sn": 30102,
-    "next": 30103,
-    "text": "点击<color=#ff3b37>追踪标记</color>可以开启追踪状态。",
-    "image": "tutorials-30102.png"
-  },
-  {
-    "sn": 30103,
+    "sn": 21701,
     "next": -1,
-    "text": "当开启追踪状态时，\n行动目标会通过<color=#ff3b37>距离标记</color>在场景中标示出来。",
-    "image": "tutorials-30103.png"
+    "title": "宝箱",
+    "text": "印象空间及宫殿中分布着不同外形的「<color=#ff0000>宝箱</color>」，\n探索过程中开启，可能会获得异常珍贵的奖励。",
+    "image": "tutorials-21701.png"
+  },
+  {
+    "sn": 21801,
+    "next": -1,
+    "title": "收集物",
+    "text": "不仅能够攻击敌人，\n<color=#ff3b37>攻击</color>各种场景物件，可能会有意外的收获。",
+    "image": "tutorials-21801-i18n.png"
+  },
+  {
+    "sn": 21901,
+    "next": -1,
+    "title": "堕落的狂徒",
+    "text": "「<color=#ff3b37>堕落的狂徒</color>」是印象空间中的强大阴影。\n它们与身后的那道红色阻挡墙具有紧密联系，\n击败它们是<color=#ff3b37>前往下一区域</color>的关键。",
+    "image": "tutorials-21901.png"
+  },
+  {
+    "sn": 22001,
+    "next": 22002,
+    "title": "往日认知之间",
+    "text": "连接印象空间和「认知·宫殿」的中转站，\n称之为「<color=#ff0000>往日认知之间</color>」。\n通过此处可以对认知·宫殿继续进行<color=#ff0000>探索</color>。",
+    "image": "tutorials-22001.png"
+  },
+  {
+    "sn": 22002,
+    "next": -1,
+    "title": "往日认知之间",
+    "text": "在印象空间入口，\n可以快速前往「<color=#ff0000>往日认知之间</color>」。\n认知·宫殿<color=#ff0000>继承</color>坍塌前的宫殿<color=#ff0000>探索度</color>。",
+    "image": "tutorials-22002-i18n.png"
+  },
+  {
+    "sn": 22101,
+    "next": -1,
+    "title": "往日回溯",
+    "text": "认知之间中存在着给宫殿主改心的回溯记忆，\n称之为「<color=#ff0000>往日回溯</color>」。\n通过挑战，可以获得面具提升的<color=#ff0000>稀有素材</color>。\n每周可领奖2次，每周一05:00刷新。",
+    "image": ""
+  },
+  {
+    "sn": 22201,
+    "next": -1,
+    "title": "风涡",
+    "text": "印象空间中的某些区域聚集了一些「<color=#ff0000>特殊风涡</color>」，\n驾驶车穿过它，可以获得<color=#ff0000>超级加速</color>效果。",
+    "image": "tutorials-22201.png"
+  },
+  {
+    "sn": 22301,
+    "next": -1,
+    "title": "新区域",
+    "text": "印象空间由不同的「<color=#ff0000>区域</color>」串联而成，\n从上一区域前往下一区域，\n即可解锁新的区域层的传送。",
+    "image": "tutorials-22301-i18n.png"
+  },
+  {
+    "sn": 22401,
+    "next": -1,
+    "title": "摄像机",
+    "text": "场景中散落着一些「<color=#ff0000>摄像机</color>」，\n不同类型的摄像机，需要找到对应的「<color=#ff0000>模组</color>」将其激活，\n才能够正常使用。",
+    "image": "tutorials-22401.png"
+  },
+  {
+    "sn": 22501,
+    "next": 22502,
+    "title": "摄像机模组",
+    "text": "「<color=#ff0000>摄像机模组</color>」触碰后可以拾取，\n不同的摄像机模组可以激活场景中对应的摄像机。",
+    "image": "tutorials-22501.png"
+  },
+  {
+    "sn": 22502,
+    "next": -1,
+    "title": "摄像机模组",
+    "text": "击败<color=#ff0000>摄像机附近</color>的某些怪物，\n通常会掉落激活摄像机的对应「<color=#ff0000>模组</color>」。",
+    "image": ""
+  },
+  {
+    "sn": 22601,
+    "next": 22602,
+    "title": "缩放摄像机",
+    "text": "拥有「<color=#ff0000>缩放模组</color>」后，靠近缩放摄像机，\n交互即可将其激活。\n「<color=#ff0000>缩放摄像机</color>」可以影响场景上的某些特殊物体，\n使其大小发生改变。",
+    "image": "tutorials-22601.png"
+  },
+  {
+    "sn": 22602,
+    "next": -1,
+    "title": "缩放摄像机",
+    "text": "摄像机<color=#ff0000>准心</color>瞄准可交互物体时，会显示高亮描边；\n操作界面右侧的「<color=#ff0000>滑块</color>」「<color=#ff0000>+</color>」「<color=#ff0000>-</color>」，\n可以实际<color=#ff0000>改变物体的大小</color>；\n左上角的返回键可以退出摄像机视角。",
+    "image": "tutorials-22602.png"
+  },
+  {
+    "sn": 22701,
+    "next": 22702,
+    "title": "具现化摄像机",
+    "text": "拥有「<color=#ff0000>具现化模组</color>」后，\n靠近「<color=#ff0000>具现化摄像机</color>」，交互即可将其激活。",
+    "image": "tutorials-22701.png"
+  },
+  {
+    "sn": 22702,
+    "next": -1,
+    "title": "具现化摄像机",
+    "text": "具现化相机可将场景中的具现化交互物变成<color=#ff0000>半透状态</color>，\n或将其变为<color=#ff0000>普通状态</color>。",
+    "image": "tutorials-22702.png"
+  },
+  {
+    "sn": 22801,
+    "next": 22802,
+    "title": "时间轴摄像机",
+    "text": "获得「<color=#ff0000>时间轴模组</color>」后，\n靠近「<color=#ff0000>时间轴摄像机</color>」，交互即可将其激活。",
+    "image": "tutorials-22801.png"
+  },
+  {
+    "sn": 22802,
+    "next": -1,
+    "title": "时间轴摄像机",
+    "text": "时间轴摄像机可以影响某些倒塌或损毁的障碍物，\n使其回到<color=#ff0000>任意时间点</color>的状态。",
+    "image": "tutorials-22802.png"
+  },
+  {
+    "sn": 22901,
+    "next": -1,
+    "title": "火盆",
+    "text": "获得「<color=#ff0000>火石</color>」后即可自由点亮和熄灭「<color=#ff0000>火盆</color>」，\n当火盆亮起，场景中的一些<color=#ff0000>机关会发生变化</color>。",
+    "image": "tutorials-22901.png"
+  },
+  {
+    "sn": 23001,
+    "next": -1,
+    "title": "具现化火盆",
+    "text": "当火盆进入<color=#ff0000>具现化状态</color>后，\n将不会再受到其他火盆的影响。",
+    "image": "tutorials-23001.png"
+  },
+  {
+    "sn": 23101,
+    "next": 23102,
+    "title": "蜘蛛开关",
+    "text": "影视城中存在一些「<color=#ff0000>特殊的大门</color>」，\n将影视城分割为独立的小块区域。",
+    "image": "tutorials-23101.png"
+  },
+  {
+    "sn": 23102,
+    "next": -1,
+    "title": "蜘蛛开关",
+    "text": "与附近的「<color=#ff0000>蜘蛛开关</color>」交互，\n可以将关闭大门打开。",
+    "image": "tutorials-23102.png"
+  },
+  {
+    "sn": 23201,
+    "next": -1,
+    "title": "铁链宝箱",
+    "text": "印象空间的角落深处，\n分布着一些无法直接打开的宝箱，\n击败「<color=#ff0000>宝箱旁边的阴影</color>」才能打开。",
+    "image": "tutorials-23201.png"
+  },
+  {
+    "sn": 23301,
+    "next": -1,
+    "title": "锈损的铁桶",
+    "text": "印象空间中散落着一些「<color=#ff0000>锈损的铁桶</color>」，\n里面藏着不少未知的宝物，\n尝试用「<color=#ff0000>撞击</color>」的方式去收集其中的宝物吧。",
+    "image": "tutorials-23301.png"
+  },
+  {
+    "sn": 23401,
+    "next": -1,
+    "title": "胆小鬼",
+    "text": "印象空间中存在着一些特殊阴影，\n胆小的它们藏在油漆桶里，\n尝试用「<color=#ff0000>撞击</color>」的方式赶走它们，\n并夺取「<color=#ff0000>桶内的宝物</color>」吧。",
+    "image": "tutorials-23401.png"
+  },
+  {
+    "sn": 23501,
+    "next": -1,
+    "title": "可破碎墙",
+    "text": "印象空间中存在着一些「<color=#ff0000>可破碎的墙体</color>」，\n撞击后会发现藏着丰富宝藏的「<color=#ff0000>隐藏区域</color>」。",
+    "image": "tutorials-23501.png"
+  },
+  {
+    "sn": 23601,
+    "next": -1,
+    "title": "飞跃气流",
+    "text": "印象空间中会出现一些塌陷的道路，\n利用场景内的「<color=#ff0000>飞跃气流</color>」，飞跃无法通过的沟壑吧。",
+    "image": "tutorials-23601.png"
+  },
+  {
+    "sn": 23701,
+    "next": 23702,
+    "title": "逃逸阴影",
+    "text": "「<color=#ff0000>逃逸阴影</color>」藏匿在印象空间中，\n它们看到未知的元素便会开始「<color=#ff0000>逃逸</color>」，\n追逐它们，把它们逼至绝境吧。",
+    "image": "tutorials-23701.png"
+  },
+  {
+    "sn": 23702,
+    "next": 23703,
+    "title": "逃逸阴影",
+    "text": "「<color=#ff0000>逃逸阴影</color>」逃跑时会在地面上留下「<color=#ff0000>痕迹</color>」，\n善用「<color=#ff0000>痕迹</color>」追逐它们。",
+    "image": "tutorials-23702.png"
+  },
+  {
+    "sn": 23703,
+    "next": -1,
+    "title": "逃逸阴影",
+    "text": "将「<color=#ff0000>逃逸阴影</color>」追逐到终点后，\n可以攻击它以获得「<color=#ff0000>奖励</color>」。",
+    "image": "tutorials-23703.png"
+  },
+  {
+    "sn": 23801,
+    "next": -1,
+    "title": "上锁的铁链门",
+    "text": "印象空间中存在着一些「<color=#ff0000>锁住</color>」的铁链门，\n绕到门的「<color=#ff0000>后面</color>」破坏门吧。",
+    "image": "tutorials-23801.png"
+  },
+  {
+    "sn": 23901,
+    "next": 23902,
+    "title": "喷水雕像",
+    "text": "贮水房间的特殊机关，\n可通过「<color=#ff0000>按钮开关</color>」控制其向「<color=#ff0000>贮水池</color>」注水或停水。",
+    "image": "tutorials-23901.png"
+  },
+  {
+    "sn": 23902,
+    "next": 23903,
+    "title": "喷水雕像",
+    "text": "「<color=#ff0000>喷水雕像</color>」开启注水后，\n「<color=#ff0000>水面</color>」会逐渐上升，直到涨至水池边缘。",
+    "image": "tutorials-23902.png"
+  },
+  {
+    "sn": 23903,
+    "next": 24001,
+    "title": "喷水雕像",
+    "text": "「<color=#ff0000>喷水雕像</color>」停止注水后，\n「<color=#ff0000>水面</color>」会逐渐下降，直到显露出水池底部。",
+    "image": "tutorials-23903.png"
+  },
+  {
+    "sn": 24001,
+    "next": -1,
+    "title": "浮桥",
+    "text": "可被「<color=#ff0000>具现化相机</color>」与「<color=#ff0000>体积相机</color>」控制。",
+    "image": "tutorials-24001.png"
+  },
+  {
+    "sn": 24101,
+    "next": 24102,
+    "title": "符咒门",
+    "text": "天守阁室内存在着一些「<color=#ff0000>符咒门</color>」\n开启后会发现天守阁室内的「<color=#ff0000>隐藏区域</color>」。",
+    "image": "tutorials-24101.png"
+  },
+  {
+    "sn": 24102,
+    "next": 24103,
+    "title": "水之咒门",
+    "text": "「<color=#ff0000>水之咒门</color>」开启方式：「<color=#ff0000>击败特殊敌人</color>」、\n「<color=#ff0000>开启特殊宝箱</color>」、「<color=#ff0000>关闭按钮开关</color>」\n可通过「<color=#ff0000>观察模式</color>」观察到相应提示。",
+    "image": "tutorials-24102.png"
+  },
+  {
+    "sn": 24103,
+    "next": 24104,
+    "title": "火之咒门",
+    "text": "「<color=#ff0000>火之咒门</color>」开启方式：获得「<color=#ff0000>火之咒令</color>」后可开启。",
+    "image": ""
+  },
+  {
+    "sn": 24104,
+    "next": 24105,
+    "title": "木之咒门",
+    "text": "「<color=#ff0000>木之咒门</color>」开启方式：获得「<color=#ff0000>木之咒令</color>」后可开启。",
+    "image": ""
+  },
+  {
+    "sn": 24105,
+    "next": -1,
+    "title": "金之咒门",
+    "text": "「<color=#ff0000>金之咒门</color>」开启方式：获得「<color=#ff0000>金之咒令</color>」后可开启。",
+    "image": ""
+  },
+  {
+    "sn": 24201,
+    "next": 24202,
+    "title": "自动开合门",
+    "text": "靠近后大门「<color=#ff0000>自动关闭</color>」，\n受「<color=#ff0000>时间轴相机</color>」、「<color=#ff0000>按钮开关</color>」控制。",
+    "image": "tutorials-24201.png"
+  },
+  {
+    "sn": 24202,
+    "next": -1,
+    "title": "自动开合门",
+    "text": "可通过「<color=#ff0000>时间轴相机</color>」回溯大门的「<color=#ff0000>开合状态</color>」。",
+    "image": "tutorials-24202.png"
+  },
+  {
+    "sn": 24301,
+    "next": 24302,
+    "title": "地刺陷阱",
+    "text": "陷阱激活时，尖刺从陷阱底部钻出。",
+    "image": "tutorials-24301.png"
+  },
+  {
+    "sn": 24302,
+    "next": -1,
+    "title": "地刺陷阱",
+    "text": "可通过激活对应区域的「<color=#ff0000>压板</color>」，关闭地刺陷阱。",
+    "image": "tutorials-24302.png"
+  },
+  {
+    "sn": 24401,
+    "next": 24402,
+    "title": "可被破坏的门",
+    "text": "天守阁内中存在着一些「<color=#ff0000>可破碎的木门</color>」。",
+    "image": "tutorials-24401.png"
+  },
+  {
+    "sn": 24402,
+    "next": -1,
+    "title": "可被破坏的门",
+    "text": "破坏后会发现藏着丰富宝藏的「<color=#ff0000>隐藏区域</color>」。",
+    "image": "tutorials-24402.png"
+  },
+  {
+    "sn": 24501,
+    "next": 24502,
+    "title": "弩箭墙",
+    "text": "激活状态下周期性的发射「<color=#ff0000>弩箭</color>」。",
+    "image": "tutorials-24501.png"
+  },
+  {
+    "sn": 24502,
+    "next": -1,
+    "title": "弩箭墙",
+    "text": "「<color=#ff0000>挪开</color>」压板上的重物后可使弩箭墙关闭。",
+    "image": "tutorials-24502.png"
+  },
+  {
+    "sn": 24601,
+    "next": -1,
+    "title": "具现化墙壁",
+    "text": "可被「<color=#ff0000>具现化相机</color>」控制。",
+    "image": "tutorials-24601.png"
+  },
+  {
+    "sn": 24701,
+    "next": 24702,
+    "title": "电动轨道开关",
+    "text": "控制轨道上「<color=#ff0000>相机</color>」移动的开关。",
+    "image": "tutorials-24701.png"
+  },
+  {
+    "sn": 24702,
+    "next": -1,
+    "title": "电动轨道开关",
+    "text": "在轨道上「<color=#ff0000>没有阻碍</color>」时，才能移动相机。",
+    "image": "tutorials-24702.png"
+  },
+  {
+    "sn": 24801,
+    "next": 24802,
+    "title": "升降木台",
+    "text": "「<color=#ff0000>木台升起</color>」时形成阻挡。",
+    "image": "tutorials-24801.png"
+  },
+  {
+    "sn": 24802,
+    "next": -1,
+    "title": "升降木台",
+    "text": "可通过关闭附近的「<color=#ff0000>按钮开关</color>」，\n使木台下沉至地板内。",
+    "image": "tutorials-24802.png"
+  },
+  {
+    "sn": 24901,
+    "next": -1,
+    "title": "电子控制台",
+    "text": "使用屏幕改变「<color=#ff0000>平台</color>」的旋转状态。",
+    "image": "tutorials-24901.png"
+  },
+  {
+    "sn": 25001,
+    "next": 25002,
+    "title": "电子干扰器",
+    "text": "天守阁内中存在着一些「<color=#ff0000>干扰设备</color>」。",
+    "image": "tutorials-25001.png"
+  },
+  {
+    "sn": 25002,
+    "next": -1,
+    "title": "电子干扰器",
+    "text": "可干扰区域内的「<color=#ff0000>相机</color>」，使其无法正常使用。\n可通过「<color=#ff0000>观察模式</color>」观察到相应提示。",
+    "image": "tutorials-25002.png"
+  },
+  {
+    "sn": 25101,
+    "next": 25102,
+    "title": "加锁宝箱",
+    "text": "在宫殿中偶尔会遇到「<color=#ff0000>被锁住的宝箱</color>」，\n需要使用特定道具才能破解。",
+    "image": "tutorials-25101.png"
+  },
+  {
+    "sn": 25102,
+    "next": -1,
+    "title": "宝箱",
+    "text": "使用工作台能制作各种帮助探索的道具，\n感到有困难的时候就去「<color=#ff0000>工作台</color>」看看吧。",
+    "image": "tutorials-25102-i18n.png"
+  },
+  {
+    "sn": 25201,
+    "next": 25202,
+    "title": "印象空间新路线",
+    "text": "宫殿崩塌之后，印象空间便会解锁新的路线，可以前往更深的地方进行探索。",
+    "image": "tutorials-25201.png"
+  },
+  {
+    "sn": 25202,
+    "next": 25203,
+    "title": "印象空间新路线",
+    "text": "新路线会使用一套新的「<color=#ff0000>精算机系统</color>」和「<color=#ff0000>乘车券</color>」。",
+    "image": "tutorials-25202.png"
+  },
+  {
+    "sn": 25203,
+    "next": -1,
+    "title": "印象空间新路线",
+    "text": "新路线也会有「<color=#ff0000>新挑战</color>」，「<color=#ff0000>新阴影</color>」，以及「<color=#ff0000>新奖励</color>」，请尽情探索吧！",
+    "image": "tutorials-25203.png"
+  },
+  {
+    "sn": 25301,
+    "next": 25302,
+    "title": "不同的雾门",
+    "text": "印象空间中“未解锁”的雾门，同时存在两种类型：「<color=#ff0000>红影雾门</color>」和「<color=#FFB400>柔金雾门</color>」，两种雾门的颜色不同。",
+    "image": ""
+  },
+  {
+    "sn": 25302,
+    "next": 25303,
+    "title": "不同的雾门",
+    "text": "「<color=#ff0000>红影雾门</color>」散发着致命的颜色，预示着前面存在堕落的狂徒，可以通往更深处，是更重要的探索区域。",
+    "image": "tutorials-25301.png"
+  },
+  {
+    "sn": 25303,
+    "next": -1,
+    "title": "不同的雾门",
+    "text": "「<color=#ffb400>柔金雾门</color>」的颜色柔和许多，预示着前面区域的怪物气息更弱，是非必要的探索区域。",
+    "image": "tutorials-25302.png"
+  },
+  {
+    "sn": 25401,
+    "next": -1,
+    "title": "雾门",
+    "text": "印象空间中分布着着阻挡前行的雾门，将精算机等级提升到雾门解锁所需的对应等级，雾门会变成白色。\n此时，「<color=#ff0000>靠近交互</color>」即可驱散阻挡，解锁更远的区域。",
+    "image": "tutorials-25401.png"
+  },
+  {
+    "sn": 25501,
+    "next": 25502,
+    "title": "贪财鬼",
+    "text": "贪财鬼是一种对宝物特别迷恋的阴影，\n当接近它们时，它们会举着宝箱快速逃跑。\n赶在它们消失之前「<color=#ff0000>靠近攻击</color>」夺回宝箱，即可获得奖励。",
+    "image": "tutorials-25501.png"
+  },
+  {
+    "sn": 25502,
+    "next": -1,
+    "title": "贪财鬼",
+    "text": "若它们在消失之前，未被攻击中，\n少量时间后，它们会在原来的地方「<color=#ff0000>重新出现</color>」。\n再次靠近，可以再次开启挑战。",
+    "image": "tutorials-25502.png"
+  },
+  {
+    "sn": 30101,
+    "next": -1,
+    "title": "行动目标",
+    "text": "点击<color=#ff3b37>任务目标</color>可以开启<color=#ff3b37>任务追踪</color>。\n行动目标会通过<color=#ff3b37>距离标记</color>在场景中标示出来。",
+    "image": "tutorials-30103-i18n.png"
   },
   {
     "sn": 30201,
     "next": -1,
-    "text": "「<color=#ff3b37>幻影戏法</color>」为角色占卜活动，\n在此占卜可以获得「<color=#ff3b37>怪盗</color>」以及「人格面具」。\n<color=#ff3b37>每十次占卜，必出四星或以上物品。</color>",
+    "title": "契约",
+    "text": "签约可以获得「<color=#ff3b37>怪盗</color>」及「低阶二星人格面具」。\n<color=#ff3b37>每签约十次，必出四星或以上怪盗角色。</color>\n「<color=#ff3b37>心之怪盗团</color>」为新手推荐签约，\n五十次签约内必定获取一个或以上<color=#ff3b37>五星角色</color>。",
     "image": ""
   },
   {
     "sn": 31001,
     "next": 31002,
+    "title": "协同者",
     "text": "<color=#ff3b37>协同者</color>是主角都市生活中的助力者，\n完成特定的助力事件后，与主角结成协同关系。",
-    "image": "tutorials-31001.png"
+    "image": "tutorials-31001-i18n.png"
   },
   {
     "sn": 31002,
-    "next": 31003,
+    "next": -1,
+    "title": "协同者",
     "text": "通过与协同者<color=#ff3b37>约会</color>能提升亲密度。\n约会时<color=#ff3b37>赠送礼物</color>是快速提高亲密度的窍门。\n路菲尔作为向导，无需进行约会。",
-    "image": "tutorials-31002.png"
-  },
-  {
-    "sn": 31003,
-    "next": -1,
-    "text": "与其他协同者亲密度达到一定条件后，\n进行关系加深约会，可以提升亲密等级，\n获得对应的<color=#ff3b37>赠礼</color>以及<color=#ff3b37>协同能力</color>。",
-    "image": "tutorials-31003.png"
-  },
-  {
-    "sn": 31101,
-    "next": -1,
-    "text": "查看协同者偏好，可以得知个人喜好。\n约会时赠送<color=#ff3b37>喜好礼物</color>，会获得额外的好感度。\n首次赠送，更会大幅提高好感度。",
-    "image": "tutorials-31101.png"
-  },
-  {
-    "sn": 31201,
-    "next": -1,
-    "text": "随着约会次数及亲密等级的提升，\n会逐渐了解其<color=#ff3b37>个人信息</color>、<color=#ff3b37>人物故事</color>；\n也会有更多的<color=#ff3b37>语音</color>内容解锁。",
-    "image": "tutorials-31201.png"
+    "image": ""
   },
   {
     "sn": 32101,
     "next": -1,
+    "title": "工作台",
     "text": "消耗对应的材料，\n可以使用<color=#ff3b37>工作台</color>制作探索道具。\n物品首次制作时，还能够获得<color=#ff3b37>灵巧</color>。",
     "image": "tutorials-32101.png"
   },
   {
     "sn": 32201,
     "next": 32202,
+    "title": "都市日程",
     "text": "繁华的东京街都，\n热血的高中少年将度过充实的每一天。\n努力<color=#ff3b37>学习</color>，勤奋<color=#ff3b37>打工</color>，或与好友一起参加<color=#ff3b37>娱乐</color>活动。",
-    "image": "tutorials-32201.png"
+    "image": "tutorials-32201-i18n.png"
   },
   {
     "sn": 32202,
     "next": 32203,
+    "title": "都市日程",
     "text": "每天<color=#ff3b37>放学后</color>、<color=#ff3b37>傍晚</color>、<color=#ff3b37>夜晚</color>，\n都会有一段时间可以自由支配，\n请选择向往的都市生活事件去完成吧。\n切记：<color=#ff3b37>完成事件都会消耗时间</color>。",
-    "image": "tutorials-32202.png"
+    "image": "tutorials-32202-i18n.png"
   },
   {
     "sn": 32203,
     "next": -1,
+    "title": "都市日程",
     "text": "每进行1件都市事件，需要消耗1点行动力。\n<color=#ff3b37>每自然日05:00</color>，\n会自动恢复5点行动力。",
-    "image": "tutorials-32203.png"
+    "image": "tutorials-32203-i18n.png"
   },
   {
     "sn": 32301,
     "next": 32302,
+    "title": "烹饪",
     "text": "通过烹饪台，可以使用食材制作菜品。\n异世界中探索时，食用菜品可以获得<color=#ff3b37>增益效果</color>。\n制作时有概率获得效果更强的<color=#ff3b37>美味菜品</color>。",
     "image": "tutorials-32301.png"
   },
   {
     "sn": 32302,
     "next": -1,
+    "title": "烹饪",
     "text": "部分食材可以在四轩茶屋的<color=#ff3b37>超市</color>购买；\n也可以通过<color=#ff3b37>种植</color>获得。\n菜谱熟练后，还有概率获得对应的<color=#ff3b37>灵感菜谱</color>。",
-    "image": "tutorials-32302.png"
+    "image": ""
   },
   {
     "sn": 32401,
     "next": 32402,
-    "text": "小花园，可以种植<color=#ff3b37>花卉</color>及<color=#ff3b37>食材</color>。\n花卉可以在制作台制作礼物；\n食材可以用来烹饪。\n种子首次收获时，还会获得<color=#ff3b37>体贴</color>。",
+    "title": "种植",
+    "text": "小花园，可以种植<color=#ff3b37>花卉</color>及<color=#ff3b37>食材</color>。\n花卉可以在工作台制作礼物；食材能用来烹饪。\n种子首次收获时，还会获得<color=#ff3b37>体贴</color>。",
     "image": "tutorials-32401.png"
   },
   {
     "sn": 32402,
     "next": -1,
+    "title": "种植",
     "text": "种子<color=#ff3b37>种植</color>后，到达时间即可<color=#ff3b37>收获</color>；\n可以通过<color=#ff3b37>施肥</color>，缩短等待时长。\n<color=#ff3b37>执行都市事件，能感受到时间的快速流逝。</color>",
-    "image": "tutorials-32402.png"
+    "image": ""
   },
   {
     "sn": 32501,
     "next": -1,
+    "title": "武器补给",
     "text": "武器补给前，需要进行<color=#ff3b37>限定自选</color>。\n获得五星武器时，只会出现限定的三把武器。\n有50%概率获得限定UP武器。\n<color=#ff3b37>每十次补给，必得四星或以上武器。</color>",
     "image": ""
   },
   {
-    "sn": 39801,
+    "sn": 32601,
     "next": -1,
-    "text": "<color=#ff3b37>挑战模式</color>：选择不同鱼塘进行钓鱼。\n<color=#ff3b37>水产出售</color>：累积钓鱼积分。\n<color=#ff3b37>钓鱼商店</color>：消耗积分能够兑换稀有水产、饵料。",
+    "title": "衣柜",
+    "text": "在不同场景下会切换对应的生活服装。\n休息及都市漫步时穿<color=#ff3b37>日常服</color>；\n回家休息时替换<color=#ff3b37>家居服</color>。\n可以根据不同场景，分别设定服装。",
+    "image": "tutorials-32601-i18n.png"
+  },
+  {
+    "sn": 32701,
+    "next": -1,
+    "title": "武见诊所",
+    "text": "时不时关门的私家诊所，\n传闻这里可以买到，医生自定调配的「<color=#ff3b37>药</color>」，\n在异世界中使用，可以<color=#ff3b37>恢复自身身体状态</color>。",
+    "image": "tutorials-32701-i18n.png"
+  },
+  {
+    "sn": 39801,
+    "next": 39802,
+    "title": "钓鱼",
+    "text": "操控<color=#ff3b37>左侧摇杆</color><size=56><keySn>302</keySn><keySn>303</keySn></size>，移动红色指向条。\n来选择鱼钩的投掷方向吧。",
     "image": "tutorials-39801.png"
   },
   {
-    "sn": 39901,
+    "sn": 39802,
+    "next": 39803,
+    "title": "钓鱼",
+    "text": "浮标抛出位置会实时产生变化。\n瞄准鱼的面前，按下<color=#ff3b37>抛竿按钮</color><size=56><keySn>301</keySn></size>吧。",
+    "image": "tutorials-39802.png"
+  },
+  {
+    "sn": 39803,
+    "next": 39804,
+    "title": "钓鱼",
+    "text": "将鱼钩抛入水中后，接下来就是等待鱼上钩了。\n抛竿的位置可以通过先<color=#ff3b37>收杆</color>的方式重新设置。",
+    "image": ""
+  },
+  {
+    "sn": 39804,
+    "next": 39805,
+    "title": "钓鱼",
+    "text": "鱼一旦咬饵就算上钩了。\n在它逃走前按下<color=#ff3b37>收杆按钮</color>吧！",
+    "image": "tutorials-39804-i18n.png"
+  },
+  {
+    "sn": 39805,
+    "next": 39806,
+    "title": "钓鱼",
+    "text": "使用<color=#ff3b37>左侧摇杆</color>移动浮标，\n浮标在红色范围内连续按下<color=#ff3b37>收杆按钮</color><size=56><keySn>301</keySn></size>将鱼拉近，\n若在红色范围外<color=#ff3b37>收杆</color>，鱼将越离越远。",
+    "image": "tutorials-39805.png"
+  },
+  {
+    "sn": 39806,
     "next": -1,
-    "text": "<color=#ff3b37>训练模式</color>：选择难度持续进行练习。\n<color=#ff3b37>挑战模式</color>：限定5个球，争取获得更高的棒球积分。\n<color=#ff3b37>积分兑换</color>：获取稀有礼物及个性装饰。",
+    "title": "钓鱼",
+    "text": "鱼竿设有耐力值。\n浮标接触到计量表的两端时，耐力值会减少，\n耐力值一旦归零，鱼就会逃走。",
+    "image": "tutorials-39806.png"
+  },
+  {
+    "sn": 39901,
+    "next": 39902,
+    "title": "棒球",
+    "text": "使用「左摇杆」或「鼠标」上下移动来调整球棒角度。\n以画面中央显示的「<color=#ff3b37>来球预测位置</color>」为基准，\n来调整球棒的角度吧。",
     "image": "tutorials-39901.png"
+  },
+  {
+    "sn": 39902,
+    "next": -1,
+    "title": "棒球",
+    "text": "在投过来的球将与「来球预测位置」重叠时，\n快速按下<size=56><keySn>202</keySn></size>挥出球棒。\n只要击中场内「目标点」就算是<color=#ff3b37>全垒打</color>。",
+    "image": "tutorials-39902.png"
+  },
+  {
+    "sn": 40001,
+    "next": 40002,
+    "title": "足球部",
+    "text": "每个守门员都会有自己的<color=#ff3b37>防守薄弱面</color>，\n只要洞察力等级达到即可<color=#ff3b37>识破其弱点</color>。",
+    "image": "tutorials-40001-i18n.png"
+  },
+  {
+    "sn": 40002,
+    "next": 40003,
+    "title": "足球部",
+    "text": "瞄准弱点后即可以长按<color=#ff3b37>踢球键</color>，\n尽量在<color=#ff3b37>红色区域</color>释放，此时精准度最佳！",
+    "image": "tutorials-40002-i18n.png"
+  },
+  {
+    "sn": 40003,
+    "next": -1,
+    "title": "足球部",
+    "text": "瞄准弱点后在红色区域踢球即触发<color=#ff3b37>WEAK</color>,\nWEAK触发后，将<color=#ff3b37>100%进球</color>！",
+    "image": "tutorials-40003.png"
+  },
+  {
+    "sn": 40101,
+    "next": 40102,
+    "title": "轻音部",
+    "text": "不断出现的音符，掉落至<color=#ff3b37>判定线</color>时，\n点击音轨上的音符<size=56><keySn>26</keySn></size><size=56><keySn>27</keySn></size><size=56><keySn>28</keySn></size><size=56><keySn>29</keySn></size><size=56><keySn>30</keySn></size><size=56><keySn>31</keySn></size>，\n即可得分。",
+    "image": "tutorials-40101.png"
+  },
+  {
+    "sn": 40102,
+    "next": 40103,
+    "title": "轻音部",
+    "text": "<color=#ff3b37>黄色音符</color>只需要点击一次，\n<color=#ff3b37>绿色音符</color>则需要维持长按直至连线部分结束。",
+    "image": "tutorials-40102.png"
+  },
+  {
+    "sn": 40103,
+    "next": -1,
+    "title": "轻音部",
+    "text": "每个音符根据精确程度，由好到差分为PERFECT、GREAT、GOOD、MISS四种判定。\n持续精准演奏，累计<color=#ff3b37>COMBO</color>，能使单音符得分增多，MISS会使COMBO中断。",
+    "image": "tutorials-40103.png"
+  },
+  {
+    "sn": 45001,
+    "next": -1,
+    "title": "扭蛋机",
+    "text": "在街边排列的扭蛋贩卖机中，\n只要投入硬币，就会<color=#ff3b37>掉落扭蛋模型</color>。\n不同地区会有不同的<color=#ff3b37>限定</color>款式哦！",
+    "image": "tutorials-45001.png"
+  },
+  {
+    "sn": 45101,
+    "next": -1,
+    "title": "展示柜",
+    "text": "卧室床边的这个容量很大的透明柜，\n拥有多个隔间，非常适合<color=#ff3b37>摆放扭蛋模型</color>。\n还可以<color=#ff3b37>设置壁纸</color>来进行装饰。",
+    "image": "tutorials-45101.png"
+  },
+  {
+    "sn": 47101,
+    "next": 47102,
+    "title": "卢布朗咖啡屋",
+    "text": "拜访「卢布朗咖啡屋」，可以加深和不同世界的人格面具使用者之间的交流。",
+    "image": "tutorials-47101-i18n.png"
+  },
+  {
+    "sn": 47102,
+    "next": -1,
+    "title": "卢布朗咖啡屋",
+    "text": "另外，根据来店次数，还会发生「特别的活动」…？\n务必前去看看吧。",
+    "image": ""
   },
   {
     "sn": 50101,
     "next": 50102,
+    "title": "怪盗",
     "text": "<color=#ff3b37>怪盗</color>是战斗中的作战单位。\n在异世界与都市均可获得培养怪盗的各种资源。",
-    "image": "tutorials-50101.png"
+    "image": "tutorials-50101-i18n.png"
   },
   {
     "sn": 50102,
     "next": 50103,
-    "text": "具有<color=#ff3b37>LEADER</color>标识的怪盗拥有特别的资质，\n可以持有<color=#ff3b37>最多3个</color>不同的人格面具。",
-    "image": "tutorials-50102.png"
+    "title": "怪盗",
+    "text": "可以通过<color=#ff3b37>成长</color>直接提升怪盗属性。\n还能装备<color=#ff3b37>武器</color>、<color=#ff3b37>启示</color>，提升<color=#ff3b37>技能</color>进行增强。\n点击右侧的培养按钮，进入相应的培养界面。",
+    "image": ""
   },
   {
     "sn": 50103,
     "next": -1,
-    "text": "可以通过<color=#ff3b37>成长</color>直接提升怪盗属性。\n还能装备<color=#ff3b37>武器</color>、提升<color=#ff3b37>技能</color>进行增强。\n点击图示的培养按钮，进入相应的培养界面。",
-    "image": "tutorials-50103.png"
+    "title": "怪盗职业定位",
+    "text": "<color=#ff3b37>反抗</color>:能有效针对单个敌人；<color=#ff3b37>支配</color>:有效针对多个敌人；\n<color=#ff3b37>救援</color>:为团队提供回复能力；<color=#ff3b37>防卫</color>:提升团队生存能力；\n<color=#ff3b37>优越</color>:为同伴施加增益效果；<color=#ff3b37>屈从</color>:对敌施加减益效果；\n<color=#ff3b37>解明</color>:不直接参与战斗，通过支援技能为队伍提供支援。",
+    "image": ""
   },
   {
     "sn": 50201,
     "next": 50202,
-    "text": "<color=#ff3b37>升级</color>可以直接提升角色的战斗属性。\n角色等级上限受主角等级影响。",
-    "image": "tutorials-50201.png"
+    "title": "怪盗-成长",
+    "text": "<color=#ff3b37>升级</color>可以直接提升角色的战斗属性。\n等级提升至特定等级后，需要进行<color=#ff3b37>潜能</color>提升，\n解锁并提升潜能技能等级；大幅提升角色战斗属性。\n潜能提升受主角当前等级限制。",
+    "image": "tutorials-50201-i18n.png"
   },
   {
     "sn": 50202,
-    "next": 50203,
-    "text": "<color=#ff3b37>潜能</color>提升，可以解锁并提升潜能技能等级；\n同时也会直接提升角色的战斗属性。",
-    "image": "tutorials-50202.png"
-  },
-  {
-    "sn": 50203,
     "next": -1,
-    "text": "<color=#ff3b37>意识</color>表示人格面具的进化程度，最高升至Ⅵ级。\n提升面具意识等级，会增强意识技能最终效果，\n同时大幅度提升战斗属性。",
-    "image": "tutorials-50203.png"
+    "title": "怪盗-成长",
+    "text": "<color=#ff3b37>意识</color>表示人格面具的进化程度。\n提升面具意识等级，会增强意识技能最终效果，\n同时大幅度提升战斗属性。",
+    "image": "tutorials-50202-i18n.png"
   },
   {
     "sn": 50301,
     "next": 50302,
-    "text": "角色可以使用的<color=#ff3b37>武器</color>类型不同。\n同类型武器，品质越高，基础属性越高，\n附带的武器效果也越强。",
-    "image": "tutorials-50301.png"
+    "title": "怪盗-武器",
+    "text": "角色可以使用的武器类型不同。\n同类型武器，<color=#ff3b37>品质</color>越高，基础属性越高，\n附带的<color=#ff3b37>武器效果</color>也越强。",
+    "image": "tutorials-50301-i18n.png"
   },
   {
     "sn": 50302,
     "next": 50303,
-    "text": "<color=#ff3b37>强化</color>可以提升武器的基础属性。\n强化等级上限受武器当前突破等级限制。",
-    "image": "tutorials-50302.png"
+    "title": "怪盗-武器",
+    "text": "<color=#ff3b37>强化</color>可以提升武器的基础属性。\n等级提升至特定等级后，<color=#ff3b37>突破</color>可大幅度提升战斗属性。\n替换武器时，自动<color=#ff3b37>继承武器等级</color>。",
+    "image": "tutorials-50302-i18n.png"
   },
   {
     "sn": 50303,
-    "next": 50304,
-    "text": "<color=#ff3b37>突破</color>可以大幅提升武器的属性。\n武器突破受角色当前等级限制。",
-    "image": "tutorials-50303.png"
-  },
-  {
-    "sn": 50304,
     "next": -1,
-    "text": "<color=#ff3b37>改造</color>可以提升武器的附加效果。\n改造需要消耗同品质的武器。\n武器可前往生存游戏专卖店购买。",
-    "image": "tutorials-50304.png"
+    "title": "怪盗-武器",
+    "text": "<color=#ff3b37>改造</color>可以提升武器的附加效果。\n改造需要消耗相同或同品的武器。\n武器通过<color=#ff3b37>补给</color>以及<color=#ff3b37>生存游戏专卖店</color>购买获得。",
+    "image": "tutorials-50303-i18n.png"
   },
   {
     "sn": 50401,
     "next": 50402,
-    "text": "角色可以通过装备<color=#ff3b37>启示卡</color>来获得增强。\n启示卡有4个星位，分别为日、月、星、辰。\n装备相同启示卡，可以激活套装效果。",
-    "image": "tutorials-50401.png"
+    "title": "怪盗-启示",
+    "text": "角色可以通过装备<color=#ff3b37>启示卡</color>来获得增强。\n启示卡有5个星位，分别为宙、日、月、星、辰。\n通过搭配不同启示卡，可以激活对应套装效果。",
+    "image": "tutorials-50401-i18n.png"
   },
   {
     "sn": 50402,
+    "next": 50403,
+    "title": "怪盗-启示",
+    "text": "<color=#ff3b37>强化</color>启示卡，可以提升启示基础属性效果，\n并激活新的附加属性。启示强化受主角等级限制。",
+    "image": "tutorials-50402-i18n.png"
+  },
+  {
+    "sn": 50403,
     "next": -1,
-    "text": "<color=#ff3b37>强化</color>启示卡，可以提升启示基础属性效果，\n并激活新的附加属性。\n启示强化受角色等级限制。",
-    "image": "tutorials-50402.png"
+    "title": "怪盗-启示",
+    "text": "厄抑之境中，可以获得日、月、星、辰星位的启示。\n参与「<color=#ff3b37>阏凶梦之扉</color>」，可以获得<color=#ff3b37>特殊星位·宙</color>的启示。",
+    "image": ""
   },
   {
     "sn": 50501,
     "next": 50502,
-    "text": "角色技能通过<color=#ff3b37>人格面具</color>生效并释放。\n包括人格面具技能、潜能技能、意识技能\n以及额外的ONE MORE、HIGHLIGHT技能效果。",
-    "image": "tutorials-50501.png"
+    "title": "怪盗-技能",
+    "text": "角色技能通过<color=#ff3b37>人格面具</color>生效并释放。\n包括：人格面具技能、潜能技能、意识技能；\n<color=#ff3b37>ONE MORE</color>、<color=#ff3b37>HIGHLIGHT</color>战斗时通过特殊机制触发。",
+    "image": "tutorials-50501-i18n.png"
   },
   {
     "sn": 50502,
     "next": 50503,
-    "text": "角色人格面具独有的<color=#ff3b37>人格面具技能</color>，\n可以通过升级解锁及提升技能效果。",
-    "image": "tutorials-50502.png"
-  },
-  {
-    "sn": 50503,
-    "next": -1,
-    "text": "<color=#ff3b37>意识技能</color>通过提升意识等级，增强最终效果。\n<color=#ff3b37>潜能技能</color>通过提升潜能，激活并提升。\n<color=#ff3b37>ONE MORE</color>、<color=#ff3b37>HIGHLIGHT</color>战斗中通过特殊机制触发。",
-    "image": "tutorials-50503.png"
+    "title": "怪盗-技能",
+    "text": "角色人格面具独有的<color=#ff3b37>人格面具技能</color>，\n可以通过升级解锁及提升技能效果。\n<color=#ff3b37>意识技能</color>通过提升意识等级，增强最终效果。\n<color=#ff3b37>潜能技能</color>通过提升潜能，激活并提升。",
+    "image": ""
   },
   {
     "sn": 50601,
     "next": 50602,
-    "text": "人格面具录入面具全书后，可以领取<color=#ff3b37>突破点</color>。\n使用突破点，可以解锁并提升<color=#ff3b37>灵感技能等级</color>。",
-    "image": "tutorials-50601.png"
+    "title": "怪盗-灵感",
+    "text": "人格面具录入面具全书后，可以领取<color=#ff3b37>灵感点</color>。\n使用灵感点，可以解锁并提升<color=#ff3b37>灵感技能等级</color>。",
+    "image": "tutorials-50601-i18n.png"
   },
   {
     "sn": 50602,
     "next": -1,
-    "text": "可以消耗魂石进行<color=#ff3b37>灵感重置</color>。\n重置后返还所有已消耗的突破点。",
+    "title": "怪盗-灵感",
+    "text": "可以消耗魂石进行<color=#ff3b37>灵感重置</color>。\n重置后返还所有已消耗的灵感点。",
     "image": ""
+  },
+  {
+    "sn": 50701,
+    "next": 50702,
+    "title": "怪盗·使用人格面具",
+    "text": "具有<color=#ff3b37>LEADER</color>标识的怪盗拥有特别的资质，\n可以同时装备<color=#ff3b37>最多3个</color>不同的人格面具。",
+    "image": "tutorials-50701-i18n.png"
+  },
+  {
+    "sn": 50702,
+    "next": -1,
+    "title": "怪盗·使用人格面具",
+    "text": "装备的人格面具属性会同时<color=#ff3b37>附加到主角属性</color>。\n战斗中可以通过<color=#ff3b37>更换人格面具</color>改变自身能力值。",
+    "image": "tutorials-50702-i18n.png"
   },
   {
     "sn": 55101,
-    "next": 55102,
-    "text": "具有<color=#ff3b37>LEADER</color>标识的怪盗拥有特别的资质，\n可以持有<color=#ff3b37>最多3个</color>不同的人格面具，\n战斗中可以通过<color=#ff3b37>更换人格面具</color>改变自身能力值。",
-    "image": "tutorials-55101.png"
-  },
-  {
-    "sn": 55102,
     "next": -1,
-    "text": "<color=#ff3b37>训练人格面具</color>：通过强化、意识、技能提升效果。\n<color=#ff3b37>人格面具档案</color>：查看所有面具的详情及获取途径。\n<color=#ff3b37>人格面具合体</color>：消耗面具印记激活特定人格面具。",
-    "image": ""
+    "title": "人格面具",
+    "text": "「<color=#ff3b37>训练</color>」：通过强化、育成训练面具，并装配技能。\n「<color=#ff3b37>合体</color>」：通过合体公式，产生新的人格面具。\n「<color=#ff3b37>阅览</color>」：查看所有面具的详细信息。",
+    "image": "tutorials-55101-i18n.png"
   },
   {
     "sn": 55201,
-    "next": 55202,
-    "text": "<color=#ff3b37>Persona列表</color>会展示当前持有的所有人格面具。",
-    "image": "tutorials-55201.png"
-  },
-  {
-    "sn": 55202,
     "next": -1,
-    "text": "点击对应的培养按钮，\n<color=#ff3b37>强化</color>面具等级、提升<color=#ff3b37>意识</color>、<color=#ff3b37>技能</color>效果。",
-    "image": "tutorials-55202.png"
-  },
-  {
-    "sn": 55301,
-    "next": -1,
-    "text": "人格面具<color=#ff3b37>强化</color>可以提升基础属性。\n强化至特定等级后还能<color=#ff3b37>解锁技能</color>。",
-    "image": "tutorials-55301.png"
-  },
-  {
-    "sn": 55302,
-    "next": -1,
-    "text": "强化道具包括人格面具·精末、精碎、精魂，\n可以通过击败<color=#ff3b37>混沌暗影</color>获取。\n多余的面具印记，也可以作为强化材料消耗。",
-    "image": ""
-  },
-  {
-    "sn": 55401,
-    "next": 55402,
-    "text": "<color=#ff3b37>意识</color>等级表示人格面具的进化程度，可提升至Ⅵ级。\n提升面具的意识等级，会增强意识技能最终效果，\n同时大幅度提升战斗属性。",
-    "image": "tutorials-55401.png"
-  },
-  {
-    "sn": 55402,
-    "next": -1,
-    "text": "提升面具的意识等级,需要消耗对应的<color=#ff3b37>面具印记</color>。\n获取到已激活人格面具时，会自动转换为印记。",
-    "image": ""
-  },
-  {
-    "sn": 55501,
-    "next": 55502,
-    "text": "<color=#ff3b37>人格面具技能</color>包括：\n基础技能、意识技能、特殊技能、\n以及额外的ONE MORE、HIGHLIGHT技能效果。",
-    "image": "tutorials-55501.png"
-  },
-  {
-    "sn": 55502,
-    "next": 55503,
-    "text": "<color=#ff3b37>人格面具技能</color>为独有的主动技能，\n可通过升级解锁及提升技能效果。\n<color=#ff3b37>意识技能</color>通过提升意识等级，增强最终效果。",
-    "image": "tutorials-55502.png"
-  },
-  {
-    "sn": 55503,
-    "next": -1,
-    "text": "不同人格面具有特殊的<color=#ff3b37>被动技能</color>效果。\n<color=#ff3b37>ONE MORE</color>、<color=#ff3b37>HIGHLIGHT</color>战斗中通过特殊机制触发。",
-    "image": "tutorials-55503.png"
+    "title": "人格面具·训练",
+    "text": "<color=#ff3b37>Persona列表</color>展示当前持有的所有人格面具。\n「<color=#ff3b37>强化</color>」提升面具属性，解锁技能，提升意识等级；\n「<color=#ff3b37>育成</color>」使人格面具学会新的技能；\n「<color=#ff3b37>详情</color>」调整人格面具装配的技能。",
+    "image": "tutorials-55201-i18n.png"
   },
   {
     "sn": 55601,
-    "next": 55602,
-    "text": "<color=#ff3b37>面具全书</color>可以查看所有人格面具的详细信息。\n包括背景故事、面具定位、属性偏向、技能详情。\n同时支持快捷跳转获取途径、快速合成面具。",
-    "image": "tutorials-55601.png"
-  },
-  {
-    "sn": 55602,
     "next": -1,
-    "text": "人格面具获取后，即录入人格面具全书。\n人格面具收录后，可以领取<color=#ff3b37>突破点</color>。",
-    "image": "tutorials-55602.png"
+    "title": "人格面具·全书",
+    "text": "<color=#ff3b37>面具全书</color>可以查看所有人格面具的详细信息。\n包括获取途径、面具故事、面具定位、属性成长。\n人格面具获取后收录，可以领取<color=#ff3b37>灵感点</color>。",
+    "image": "tutorials-55601-i18n.png"
   },
   {
     "sn": 55701,
     "next": 55702,
+    "title": "人格面具·合体",
     "text": "已有的人格面具再次获得，会自动转化为<color=#ff3b37>面具印记</color>。\n消耗面具印记进行合体，可以激活特定的人格面具。",
-    "image": "tutorials-55701.png"
+    "image": "tutorials-55701-i18n.png"
   },
   {
     "sn": 55702,
     "next": -1,
-    "text": "随着<color=#ff3b37>梅洛普</color>的协同等级提升，\n执行人格面具合体时，有机会触发额外的效果。",
-    "image": "tutorials-55702.png"
+    "title": "人格面具·合体",
+    "text": "人格面具合体遵循特定的<color=#ff3b37>合体法则</color>。\n首次合体产生新面具时，可以根据素材人格面具不同，\n使合体后的人格面具<color=#ff3b37>继承不同的技能</color>。",
+    "image": ""
+  },
+  {
+    "sn": 55801,
+    "next": -1,
+    "title": "人格面具·育成",
+    "text": "「<color=#ff3b37>育成</color>」能使目标人格面具获得其他面具的技能，\n需要消耗<color=#ff3b37>人格面具印记</color>，\n并从<color=#ff3b37>印记技能</color>中随机获得1个。",
+    "image": "tutorials-55801-i18n.png"
   },
   {
     "sn": 60101,
     "next": 60102,
+    "title": "天鹅绒试炼",
     "text": "「<color=#ff3b37>天鹅绒试炼</color>」\n是对怪盗团战斗能力进行的针对性检验。\n试炼分为多个难度，根据等级开放。",
-    "image": "tutorials-60101.png"
+    "image": "tutorials-60101-i18n.png"
   },
   {
     "sn": 60102,
     "next": -1,
+    "title": "天鹅绒试炼",
     "text": "每场试炼都可以通过<color=#ff3b37>针对性技巧</color>打出更高的积分。\n积分达到对应<color=#ff3b37>梯度</color>，可以领取相应试炼<color=#ff3b37>奖励</color>。",
     "image": "tutorials-60102.png"
   },
   {
+    "sn": 60201,
+    "next": 60202,
+    "title": "心之海试炼",
+    "text": "「<color=#ff3b37>心之海试炼</color>」是不同怪盗团战斗能力的横向比较。\n试炼周期性开放，设有多个<color=#ff3b37>段位</color>：1等星、2等星...\n周期结束时，根据段位积分及排名情况，进行结算。",
+    "image": "tutorials-60201-i18n.png"
+  },
+  {
+    "sn": 60202,
+    "next": -1,
+    "title": "心之海试炼",
+    "text": "每期参与玩法，即可获得挑战<color=#ff3b37>任务奖励</color>；\n周期结算时，根据本期积分排名发放<color=#ff3b37>排名奖励</color>；\n下期开启时，根据上期结算段位发放<color=#ff3b37>段位奖励</color>；\n获取的欲望星尘，可以在<color=#ff3b37>天鹅绒商店</color>中兑换奖励。",
+    "image": ""
+  },
+  {
+    "sn": 60301,
+    "next": 60302,
+    "title": "控制中心",
+    "text": "心轨择行中：\n通过操作心之列车的<color=#ff3b37>前进方向</color>和<color=#ff3b37>停靠站台</color>，\n解决前进过程遭遇的<color=#ff3b37>随机事件</color>和<color=#ff3b37>艰难战斗</color>，\n最终成功抵达终点，即可完成对应的<color=#ff3b37>调度线路</color>。",
+    "image": ""
+  },
+  {
+    "sn": 60302,
+    "next": 60303,
+    "title": "调度指标",
+    "text": "完成<color=#ff3b37>列车调度</color>，可获得<color=#ff3b37>绩点</color>，提升<color=#ff3b37>调度指标</color>。\n调度指标达成后，可领取对应的调度<color=#ff3b37>等级奖励</color>。",
+    "image": ""
+  },
+  {
+    "sn": 60303,
+    "next": 60304,
+    "title": "车辆改造",
+    "text": "在调度过程中，可以收集到列车<color=#ff3b37>改造券</color>，\n使用改造券进行列车改造，即可提升<color=#ff3b37>调度技能</color>。",
+    "image": ""
+  },
+  {
+    "sn": 60304,
+    "next": 60305,
+    "title": "失物招领",
+    "text": "列车调度过程中能收集到不同的旅客<color=#ff3b37>遗失物</color>和<color=#ff3b37>御守</color>，\n通过在失物招领处进行<color=#ff3b37>登记</color>即可领取报酬。",
+    "image": ""
+  },
+  {
+    "sn": 60305,
+    "next": -1,
+    "title": "特殊作业",
+    "text": "<color=#ff3b37>特殊作业</color>要求完成<color=#ff3b37>调度目标</color>。\n在完成对应目标后，即可获得<color=#ff3b37>奖励</color>和<color=#ff3b37>徽章</color>。",
+    "image": ""
+  },
+  {
+    "sn": 60401,
+    "next": 60402,
+    "title": "列车调度",
+    "text": "调度列车时，需要规划完整的<color=#ff3b37>行进路线</color>；\n通过选择想要停靠的站台来获得最佳的<color=#ff3b37>调度收益</color>，\n才能完成全部线路的调度任务。",
+    "image": "tutorials-60401.png"
+  },
+  {
+    "sn": 60402,
+    "next": 60403,
+    "title": "安全的站台",
+    "text": "<color=#ff3b37>心轨启程</color>：调度起始，可以选择一个随机<color=#ff3b37>遗失物</color>。\n<color=#ff3b37>命运橱窗</color>：使用<color=#ff3b37>铁道硬币</color>交易，购买<color=#ff3b37>遗失物</color>和<color=#ff3b37>御守</color>。\n<color=#ff3b37>命运交易所</color>：最后的交易场所，可以<color=#ff3b37>强化</color>御守，\n为最终的挑战，做好充足的准备。",
+    "image": "tutorials-60402.png"
+  },
+  {
+    "sn": 60403,
+    "next": 60404,
+    "title": "安全的站台",
+    "text": "调度中会遇到各色人等，面对多样的<color=#ff3b37>人生抉择</color>。\n做出选择便能获得无法预料的<color=#ff3b37>收获</color>。\n<color=#ff3b37>妄想残影</color>：只会遇到正面倾向的事件。\n<color=#ff3b37>诡秘残影</color>：会遇到随机倾向的事件。",
+    "image": "tutorials-60403.png"
+  },
+  {
+    "sn": 60404,
+    "next": 60405,
+    "title": "危险的站台",
+    "text": "<color=#ff3b37>纷扰者</color>：普通阴影，战胜可获得「选择御守机会」，\n还有<color=#ff3b37>较小概率</color>获得一次「遗失物选择机会」。\n<color=#ff3b37>砺艰者</color>：较强的阴影，选择时大概率出现<color=#ff3b37>紫色御守</color>，\n有<color=#ff3b37>更大概率</color>获得「遗失物选择机会」。",
+    "image": "tutorials-60404.png"
+  },
+  {
+    "sn": 60405,
+    "next": 60406,
+    "title": "危险的站台",
+    "text": "<color=#ff3b37>厄命者</color>：很强的阴影，战胜对方后必定获得\n选择<color=#ff3b37>橙色御守</color>和遗失物的机会。\n<color=#ff3b37>食梦者</color>：最终的阴影首领，也是列车调度的<color=#ff3b37>终点站</color>，\n战胜对方，即可完成本次地铁调度。",
+    "image": "tutorials-60405.png"
+  },
+  {
+    "sn": 60406,
+    "next": 60411,
+    "title": "宝箱",
+    "text": "在某些站台中，能遇到随机数量的「<color=#ff3b37>宝箱</color>」。\n选择一个宝箱开启可以获得<color=#ff3b37>对应的奖励</color>。",
+    "image": "tutorials-60406.png"
+  },
+  {
+    "sn": 60407,
+    "next": -1,
+    "title": "御守",
+    "text": "危险站台<color=#ff3b37>击败敌人</color>后，可以获得「<color=#ff3b37>御守选择机会</color>」。\n同套装御守，集齐对应数量后，激活额外<color=#ff3b37>套装效果</color>。\n重复获得同一御守时，可以提升该御守的<color=#ff3b37>等阶</color>。",
+    "image": "tutorials-60407-i18n.png"
+  },
+  {
+    "sn": 60408,
+    "next": -1,
+    "title": "遗失物",
+    "text": "调度起始，可以选择一个随机<color=#ff3b37>遗失物</color>。\n击败<color=#ff3b37>危险的敌人</color>后，可以获得「<color=#ff3b37>遗失物选择机会</color>」，\n完成<color=#ff3b37>特殊事件</color>的选择后，也有概率获取到遗失物。\n遗失物可以触发不同的<color=#ff3b37>特殊效果</color>。",
+    "image": "tutorials-60408-i18n.png"
+  },
+  {
+    "sn": 60409,
+    "next": 60410,
+    "title": "铁道硬币",
+    "text": "战胜敌人后，可以获得一定数量的「<color=#ff3b37>铁道硬币</color>」。\n击破任意站台上的<color=#ff3b37>可破坏物</color>后，也可以获得。\n铁道硬币可以用来跟商人<color=#ff3b37>换取或强化</color>遗失物和御守，\n参与<color=#ff3b37>特殊事件</color>选择，也会消耗。",
+    "image": "tutorials-60409-i18n.png"
+  },
+  {
+    "sn": 60410,
+    "next": -1,
+    "title": "勾玉",
+    "text": "挑战胜利后，如果队伍中有成员<color=#ff3b37>无法战斗</color>，\n可以消耗「<color=#ff3b37>勾玉</color>」让该成员重新加入战斗。",
+    "image": "tutorials-60410.png"
+  },
+  {
+    "sn": 60411,
+    "next": -1,
+    "title": "调度结束",
+    "text": "成功完成，或者中途失败，均会触发列车<color=#ff3b37>调度结算</color>。\n调度过程中，选择「<color=#ff3b37>暂时离开</color>」，会保存当前进度；\n也可以选择「<color=#ff3b37>结束挑战</color>」，直接结束当前调度任务。",
+    "image": "tutorials-60411-i18n.png"
+  },
+  {
+    "sn": 60501,
+    "next": 60502,
+    "title": "阏凶梦之扉",
+    "text": "「<color=#ff3b37>阏凶梦之扉</color>」是乐园成员可以共同进行的挑战玩法。\n每周四5:00会随机刷新多个首领供怪盗团进行挑战。\n挑战时，怪盗、面具与装备的启示都会被<color=#ff3b37>锁定</color>。\n<color=#ff3b37>重置挑战</color>能解除锁定，调整阵容。",
+    "image": "tutorials-60501-i18n.png"
+  },
+  {
+    "sn": 60502,
+    "next": -1,
+    "title": "阏凶梦之扉",
+    "text": "与难度越高的首领战斗，可以获得越高讨伐积分。\n个人<color=#ff3b37>讨伐积分</color>每达到一定阶段可领取<color=#ff3b37>积分奖励</color>。\n成员进行挑战，会增加乐园活跃度，\n每周根据乐园<color=#ff3b37>活跃度</color>发放<color=#ff3b37>排名奖励</color>。",
+    "image": "tutorials-60502.png"
+  },
+  {
+    "sn": 60601,
+    "next": -1,
+    "title": "命运交错之时",
+    "text": "「<color=#ff3b37>女神异闻录5</color>」联动剧情「<color=#ff3b37>城堡篇</color>」开启！\n命运交错之时，背负使命之人，将共同踏上这连接过去与未来的旅途…",
+    "image": "tutorials-60601-i18n.png"
+  },
+  {
     "sn": 70101,
     "next": 70102,
-    "text": "通过阵容可以选择当前出战的<color=#ff3b37>怪盗</color>；\n设置WONDER出战的<color=#ff3b37>人格面具</color>；\n并调整我方角色的<color=#ff3b37>行动顺序</color>。",
-    "image": "tutorials-70101.png"
+    "title": "阵容·设置",
+    "text": "通过阵容：\n可以选择当前出战的<color=#ff3b37>怪盗</color>；\n设置WONDER出战的<color=#ff3b37>人格面具</color>。",
+    "image": "tutorials-70101-i18n.png"
   },
   {
     "sn": 70102,
     "next": 70103,
-    "text": "战斗中根据WONDER与怪盗出战人格面具的属性，\n可以激活不同的<color=#ff3b37>欲望奏鸣</color>。",
-    "image": "tutorials-70102.png"
+    "title": "阵容·奏鸣",
+    "text": "根据WONDER与怪盗出战面具属性，激活<color=#ff3b37>欲望奏鸣</color>：\n存在两个相同属性时，激活该属性的<color=#ff3b37>二重奏</color>；\n存在三个及以上相同属性时，激活该属性的<color=#ff3b37>多重奏</color>；\n存在四种不同属性时，激活<color=#ff3b37>面具协奏</color>。",
+    "image": ""
   },
   {
     "sn": 70103,
-    "next": 70104,
-    "text": "存在两个相同属性时，激活该属性的<color=#ff3b37>二重奏</color>；\n存在三个及以上相同属性时，激活该属性的<color=#ff3b37>多重奏</color>；\n存在四种不同属性时，激活<color=#ff3b37>面具协奏</color>。",
-    "image": "tutorials-70103.png"
+    "next": -1,
+    "title": "阵容·预设",
+    "text": "可以提前预设多套阵容，\n方便面对不同玩法时快速切换。\n异世界中探索时会使用设定的<color=#ff3b37>默认阵容</color>。",
+    "image": ""
   },
   {
-    "sn": 70104,
+    "sn": 70201,
     "next": -1,
-    "text": "可以提前预设多套阵容，\n方便面对不同玩法时快速切换。\n异世界中探索时会使用设定的<color=#ff3b37>默认阵容</color>。",
-    "image": "tutorials-70104.png"
+    "title": "阵容·面具",
+    "text": "上阵人格面具的属性会<color=#ff3b37>全部附加</color>至主角。\n战斗中通过<color=#ff3b37>更换人格面具</color>，可以改变主角<color=#ff3b37>属性适应性</color>、<color=#ff3b37>面具技能</color>、<color=#ff3b37>ONE MORE</color>以及<color=#ff3b37>HIGHLIGHT</color>效果；\n同时也会影响阵容<color=#ff3b37>欲望奏鸣</color>效果。",
+    "image": ""
+  },
+  {
+    "sn": 80101,
+    "next": 80102,
+    "title": "顺序拉环机关",
+    "text": "城堡篇特有的机关\n需要按照「<color=#ff0000>特定顺序依次拉动机关</color>」，\n「<color=#ff0000>观察模式下</color>」可以看到些许<color=#ff3b37>顺序提示</color>。",
+    "image": ""
+  },
+  {
+    "sn": 80102,
+    "next": -1,
+    "title": "顺序拉环机关",
+    "text": "<color=#ff3b37>触发顺序错误时</color>，可能会惊醒守卫！",
+    "image": ""
+  },
+  {
+    "sn": 80103,
+    "next": 80104,
+    "title": "隐藏房间大门",
+    "text": "城堡篇特有的机关\n通过隐藏房间钥匙可以打开门上的锁链",
+    "image": ""
+  },
+  {
+    "sn": 80104,
+    "next": -1,
+    "title": "隐藏房间内部",
+    "text": "城堡篇额外的探索区域\n区域内藏有大量奖励，可能会出现看守宝藏的守卫！",
+    "image": ""
+  },
+  {
+    "sn": 80105,
+    "next": 80106,
+    "title": "拉环机关机关",
+    "text": "城堡篇特有的机关\n「<color=#ff0000>拉动机关</color>」，可以开启对应的<color=#ff3b37>栅栏</color>。",
+    "image": ""
+  },
+  {
+    "sn": 80106,
+    "next": -1,
+    "title": "拉环机关",
+    "text": "「<color=#ff0000>观察模式下</color>」可以看到当前<color=#ff3b37>可以使用的拉环</color>。",
+    "image": ""
+  },
+  {
+    "sn": 80107,
+    "next": -1,
+    "title": "宝箱守卫",
+    "text": "城堡中隐藏着少量「<color=#ff0000>强大的守卫</color>」，击败后可以获得其看守的「<color=#ff0000>宝物</color>」。",
+    "image": ""
+  },
+  {
+    "sn": 99901,
+    "next": 99902,
+    "title": "手柄轮盘",
+    "text": "<color=#ff3b37>长按</color> <size=56><keySn>20000</keySn></size> 打开手柄「<color=#ff3b37>轮盘</color>」。",
+    "image": "tutorials-99901-i18n.png"
+  },
+  {
+    "sn": 99902,
+    "next": -1,
+    "title": "手柄轮盘",
+    "text": "通过滚动 <size=56><keySn>2002</keySn></size> 切换选择对应「<color=#ff3b37>功能</color>」。",
+    "image": "tutorials-99902-i18n.png"
   }
 ]

@@ -5,18 +5,14 @@
     "groupId": 2102001,
     "modelId": 1,
     "position": [
-      216.33,
-      99.56,
-      368.17
+      0
     ],
     "rotationY": 0,
     "indoor": 0,
     "talkPoint": [
-      0,
-      1.8,
       0
     ],
-    "talkType": "UI_HeadNpcTalk"
+    "talkType": "UI_HeadNpcTalk_1"
   },
   {
     "sn": 12,
@@ -24,18 +20,14 @@
     "groupId": 2102001,
     "modelId": 1,
     "position": [
-      197.5,
-      99.56,
-      341.36
+      0
     ],
     "rotationY": 0,
     "indoor": 0,
     "talkPoint": [
-      0,
-      1.8,
       0
     ],
-    "talkType": "UI_HeadNpcTalk"
+    "talkType": "UI_HeadNpcTalk_1"
   },
   {
     "sn": 13,
@@ -43,18 +35,14 @@
     "groupId": 2102001,
     "modelId": 1,
     "position": [
-      205.8,
-      99.56,
-      340.52
+      0
     ],
     "rotationY": 0,
     "indoor": 0,
     "talkPoint": [
-      0,
-      1.8,
       0
     ],
-    "talkType": "UI_HeadNpcTalk"
+    "talkType": "UI_HeadNpcTalk_1"
   },
   {
     "sn": 14,
@@ -62,18 +50,14 @@
     "groupId": 2102001,
     "modelId": 1,
     "position": [
-      280.45,
-      99.57,
-      237.44
+      0
     ],
     "rotationY": 0,
     "indoor": 0,
     "talkPoint": [
-      0,
-      1.8,
       0
     ],
-    "talkType": "UI_HeadNpcTalk"
+    "talkType": "UI_HeadNpcTalk_1"
   },
   {
     "sn": 15,
@@ -81,18 +65,14 @@
     "groupId": 10001,
     "modelId": 1,
     "position": [
-      140.25,
-      7.79,
-      95.39
+      0
     ],
     "rotationY": 5.503101,
     "indoor": 0,
     "talkPoint": [
-      0,
-      1.7,
       0
     ],
-    "talkType": "UI_HeadNpcTalk"
+    "talkType": "UI_HeadNpcTalk_1"
   },
   {
     "sn": 16,
@@ -100,18 +80,14 @@
     "groupId": 10001,
     "modelId": 1,
     "position": [
-      151.35,
-      7.74,
-      79.95
+      0
     ],
     "rotationY": 0,
     "indoor": 0,
     "talkPoint": [
-      0,
-      1.8,
       0
     ],
-    "talkType": "UI_HeadNpcTalk"
+    "talkType": "UI_HeadNpcTalk_1"
   },
   {
     "sn": 17,
@@ -119,17 +95,343 @@
     "groupId": 10001,
     "modelId": 1,
     "position": [
-      107.04,
-      7.02,
-      77.27
+      0
     ],
     "rotationY": 0,
     "indoor": 0,
     "talkPoint": [
-      0,
-      1.8,
       0
     ],
-    "talkType": "UI_HeadNpcTalk"
+    "talkType": "UI_HeadNpcTalk_1"
+  },
+  {
+    "sn": 18,
+    "scene": 281,
+    "groupId": 281001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_1"
+  },
+  {
+    "sn": 19,
+    "scene": 2102,
+    "groupId": 2102001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_1"
+  },
+  {
+    "sn": 101,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 102,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 103,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 104,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 105,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 106,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 107,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 108,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 109,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 110,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 111,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 112,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 113,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 114,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 115,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 116,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 117,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 118,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 119,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
+  },
+  {
+    "sn": 120,
+    "scene": 2103,
+    "groupId": 2103001,
+    "modelId": 1,
+    "position": [
+      0
+    ],
+    "rotationY": 0,
+    "indoor": 0,
+    "talkPoint": [
+      0
+    ],
+    "talkType": "UI_HeadNpcTalk_3"
   }
 ]

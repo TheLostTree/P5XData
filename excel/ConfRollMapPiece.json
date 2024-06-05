@@ -1,485 +1,9 @@
 [
   {
-    "sn": 14000,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_rukou_N",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_rukou_N.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14001,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_danxiang_N",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_danxiang_N.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14002,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_danxiang_W",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_danxiang_W.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14003,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_danxiang_S",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_danxiang_S.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14004,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_danxiang_E",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_danxiang_E.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14005,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_zhixian_NS",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_zhixian_NS.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14006,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_zhixian_WE",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_zhixian_WE.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14007,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_zhixian_NWE",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_zhixian_NWE.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14008,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_xiexian_NS",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_xiexian_NS.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14009,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_xiexian_WE",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_xiexian_WE.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14010,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_Lxing_NE",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_Lxing_NE.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14011,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_Lxing_NW",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_Lxing_NW.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14012,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_Lxing_SE",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_Lxing_SE.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14013,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_Lxing_WS",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_Lxing_WS.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14014,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_Txing_NSE",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_Txing_NSE.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14015,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_Txing_NWE",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_Txing_NWE.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14016,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_Txing_NWS",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_Txing_NWS.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14017,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_Txing_WSE",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_Txing_WSE.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14018,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_fangjian_N",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_fangjian_N.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14019,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_fangjian_W",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_fangjian_W.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14020,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_fangjian_S",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_fangjian_S.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14021,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_fangjian_E",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_fangjian_E.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14022,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_fangjian_SS",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_fangjian_SS.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14023,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_yuanzi_NS_1",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_yuanzi_NS_1.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14024,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_yuanzi_NS_2",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_yuanzi_NS_2.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14025,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_yuanzi_NS_3",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_yuanzi_NS_3.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14026,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_yuanzi_NS_4",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_yuanzi_NS_4.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14027,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_yuanzi_WE_1",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_yuanzi_WE_1.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14028,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_xiexian_NS2",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_xiexian_NS2.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14029,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_xiexian_WE2",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_xiexian_WE2.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14030,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_shizi_NWSE_1",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_shizi_NWSE_1.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14031,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_danxiang_W_2",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_danxiang_W.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14032,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckr_ty_fangjian_E_2",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckr_ty_fangjian_E.png",
-    "uiSize": []
-  },
-  {
-    "sn": 14033,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "sckp_ty_zhixian_WSE",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "sckp_ty_zhixian_WSE.png",
-    "uiSize": []
-  },
-  {
     "sn": 20000,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_shangxing_N",
+    "assetName": "yxkj02_shangxing",
     "aStarDataSn": 0,
     "connectivity": "0100",
     "heights": "0,0,0,0",
@@ -488,83 +12,14 @@
     "areaTeam": [],
     "blockMap": "xiaoditu-yxkj-shangxing_N.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
     "sn": 20001,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_shangxing_S",
-    "aStarDataSn": 0,
-    "connectivity": "0001",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-shangxing_S.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20002,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_shangxing_W",
-    "aStarDataSn": 0,
-    "connectivity": "0010",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-shangxing_W.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20003,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_shangxing_E",
-    "aStarDataSn": 0,
-    "connectivity": "1000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-shangxing_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20004,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_danxiang_N",
-    "aStarDataSn": 0,
-    "connectivity": "0100",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_N.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20005,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_danxiang_S",
+    "assetName": "yxkj02_danxiang",
     "aStarDataSn": 0,
     "connectivity": "0001",
     "heights": "0,0,0,0",
@@ -573,49 +28,14 @@
     "areaTeam": [],
     "blockMap": "xiaoditu-yxkj-zhixian_S.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20006,
+    "sn": 20002,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_danxiang_W",
-    "aStarDataSn": 0,
-    "connectivity": "0010",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20007,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_danxiang_E",
-    "aStarDataSn": 0,
-    "connectivity": "1000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20008,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_shizi_NSWE",
+    "assetName": "yxkj02_shizi",
     "aStarDataSn": 0,
     "connectivity": "1111",
     "heights": "0,0,0,0",
@@ -624,100 +44,14 @@
     "areaTeam": [],
     "blockMap": "xiaoditu-yxkj-shizi.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20009,
+    "sn": 20003,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_Tzi01_ESW",
-    "aStarDataSn": 0,
-    "connectivity": "1011",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-Tzi_ESW.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20010,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_Tzi01_NES",
-    "aStarDataSn": 0,
-    "connectivity": "1101",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-Tzi_NES.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20011,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_Tzi01_SWN",
-    "aStarDataSn": 0,
-    "connectivity": "0111",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-Tzi_SWN.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20012,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_Tzi01_WNE",
-    "aStarDataSn": 0,
-    "connectivity": "1110",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-Tzi_ENW.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20013,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_huxian01_NE",
-    "aStarDataSn": 0,
-    "connectivity": "1100",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu_yxkj02_huxian02_NE.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20014,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_huxian01_SE",
+    "assetName": "yxkj02_huxian01",
     "aStarDataSn": 0,
     "connectivity": "1001",
     "heights": "0,0,0,0",
@@ -726,97 +60,11 @@
     "areaTeam": [],
     "blockMap": "xiaoditu_yxkj02_huxian02_ES.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20015,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_huxian01_SW",
-    "aStarDataSn": 0,
-    "connectivity": "0011",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu_yxkj02_huxian02_WS.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20016,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_huxian01_WN",
-    "aStarDataSn": 0,
-    "connectivity": "0110",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu_yxkj02_huxian02_NW.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20017,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_zhilu_NS",
-    "aStarDataSn": 0,
-    "connectivity": "0101",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_NS.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20018,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_zhilu_WE",
-    "aStarDataSn": 0,
-    "connectivity": "1010",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_WE.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20019,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_renwurukou_N",
-    "aStarDataSn": 0,
-    "connectivity": "0100",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_N.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20020,
+    "sn": 20004,
     "type": 2,
     "specialType": 3,
     "assetName": "yxkj02_renwurukou_S",
@@ -828,49 +76,14 @@
     "areaTeam": [],
     "blockMap": "xiaoditu-yxkj-zhixian_S.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20021,
+    "sn": 20005,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_renwurukou_W",
-    "aStarDataSn": 0,
-    "connectivity": "0010",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20022,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_renwurukou_E",
-    "aStarDataSn": 0,
-    "connectivity": "1000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20023,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_zhilukuan_NS",
+    "assetName": "yxkj02_zhilukuan",
     "aStarDataSn": 0,
     "connectivity": "0101",
     "heights": "0,0,0,0",
@@ -879,253 +92,46 @@
     "areaTeam": [],
     "blockMap": "xiaoditu_yxkj02_zhilukuan_NS.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20024,
+    "sn": 20006,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_zhilukuan_WE",
+    "assetName": "yxkj02_kuanzhilu01",
     "aStarDataSn": 0,
-    "connectivity": "1010",
+    "connectivity": "0101",
     "heights": "0,0,0,0",
     "bornPoint": [],
     "birthTeam": [],
     "areaTeam": [],
-    "blockMap": "xiaoditu_yxkj02_zhilukuan_EW.png",
+    "blockMap": "xiaoditu-yxkj-kuanzhilu.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20025,
+    "sn": 20007,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj00_renwurukou_daguai",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-kong.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20027,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_xiaxing_N",
-    "aStarDataSn": 0,
-    "connectivity": "0100",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-xiaxing_N.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20028,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_xiaxing_S",
+    "assetName": "yxkj02_renwurukou_yellow",
     "aStarDataSn": 0,
     "connectivity": "0001",
     "heights": "0,0,0,0",
     "bornPoint": [],
     "birthTeam": [],
     "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-xiaxing_S.png",
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20029,
+    "sn": 20008,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_xiaxing_W",
-    "aStarDataSn": 0,
-    "connectivity": "0010",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-xiaxing_W.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20030,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_xiaxing_E",
-    "aStarDataSn": 0,
-    "connectivity": "1000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-xiaxing_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20031,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_xiuxiqu",
-    "aStarDataSn": 0,
-    "connectivity": "0010",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-xiaxing_W.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20032,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_ludejintou",
-    "aStarDataSn": 0,
-    "connectivity": "1000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-xiaxing_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20033,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj00_rukou",
-    "aStarDataSn": 0,
-    "connectivity": "1000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-xiaxing_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20034,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_Tzi02_ESW",
-    "aStarDataSn": 0,
-    "connectivity": "1011",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-fangjianrukou_chang_E.png",
-    "uiSize": [
-      640,
-      320
-    ]
-  },
-  {
-    "sn": 20035,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_Tzi02_NES",
-    "aStarDataSn": 0,
-    "connectivity": "1101",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-fangjianrukou_chang_N.png",
-    "uiSize": [
-      640,
-      320
-    ]
-  },
-  {
-    "sn": 20036,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_Tzi02_SWN",
-    "aStarDataSn": 0,
-    "connectivity": "0111",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-fangjianrukou_chang_S.png",
-    "uiSize": [
-      640,
-      320
-    ]
-  },
-  {
-    "sn": 20037,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_Tzi02_WNE",
-    "aStarDataSn": 0,
-    "connectivity": "1110",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-fangjianrukou_chang_W.png",
-    "uiSize": [
-      640,
-      320
-    ]
-  },
-  {
-    "sn": 20038,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_huxian02_NE",
-    "aStarDataSn": 0,
-    "connectivity": "1100",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-fangjian_NE.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20039,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_huxian02_SE",
+    "assetName": "yxkj02_fangjian",
     "aStarDataSn": 0,
     "connectivity": "1001",
     "heights": "0,0,0,0",
@@ -1134,63 +140,11 @@
     "areaTeam": [],
     "blockMap": "xiaoditu-yxkj-fangjian_SE.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20040,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_huxian02_SW",
-    "aStarDataSn": 0,
-    "connectivity": "0011",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-fangjian_SW.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20041,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_huxian02_WN",
-    "aStarDataSn": 0,
-    "connectivity": "0110",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-fangjian_WN.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20042,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_renwurukou_N_purple",
-    "aStarDataSn": 0,
-    "connectivity": "0100",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_N.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20043,
+    "sn": 20009,
     "type": 2,
     "specialType": 3,
     "assetName": "yxkj02_renwurukou_S_purple",
@@ -1202,63 +156,27 @@
     "areaTeam": [],
     "blockMap": "xiaoditu-yxkj-zhixian_S.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20044,
+    "sn": 20010,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_renwurukou_W_purple",
+    "assetName": "yxkj02_Tzi01",
     "aStarDataSn": 0,
-    "connectivity": "0010",
+    "connectivity": "1101",
     "heights": "0,0,0,0",
     "bornPoint": [],
     "birthTeam": [],
     "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "blockMap": "xiaoditu-yxkj-Tzi_ESW.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20045,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_renwurukou_E_purple",
-    "aStarDataSn": 0,
-    "connectivity": "1000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20046,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_renwurukou_N_blue",
-    "aStarDataSn": 0,
-    "connectivity": "0100",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_N.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20047,
+    "sn": 20011,
     "type": 2,
     "specialType": 3,
     "assetName": "yxkj02_renwurukou_S_blue",
@@ -1270,49 +188,14 @@
     "areaTeam": [],
     "blockMap": "xiaoditu-yxkj-zhixian_S.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20048,
+    "sn": 20012,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_renwurukou_W_blue",
-    "aStarDataSn": 0,
-    "connectivity": "0010",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20049,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_renwurukou_E_blue",
-    "aStarDataSn": 0,
-    "connectivity": "1000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20050,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_huxian_jingxiang",
+    "assetName": "yxkj02_huxian01_jingxiang",
     "aStarDataSn": 0,
     "connectivity": "1100",
     "heights": "0,0,0,0",
@@ -1321,15 +204,14 @@
     "areaTeam": [],
     "blockMap": "xiaoditu_yxkj02_huxian02_WS.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20051,
+    "sn": 20013,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_Tzi_jingxiang",
+    "assetName": "yxkj02_Tzi01_jingxiang",
     "aStarDataSn": 0,
     "connectivity": "1110",
     "heights": "0,0,0,0",
@@ -1338,12 +220,11 @@
     "areaTeam": [],
     "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_ESW.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20052,
+    "sn": 20014,
     "type": 2,
     "specialType": 3,
     "assetName": "yxkj02_fangjianrukou_duan_01",
@@ -1355,49 +236,14 @@
     "areaTeam": [],
     "blockMap": "xiaoditu_yxkj02_fangjianrukou_duan_N.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20053,
+    "sn": 20015,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_shizi_jingxiang02",
-    "aStarDataSn": 0,
-    "connectivity": "1111",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-shizi_jingxiang.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20054,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_fangjianrukou_duan_02",
-    "aStarDataSn": 0,
-    "connectivity": "1000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu_yxkj02_fangjianrukou_duan_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20055,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_huxian01_Duzhu_E",
+    "assetName": "yxkj02_huxian01",
     "aStarDataSn": 0,
     "connectivity": "0001",
     "heights": "0,0,0,0",
@@ -1406,15 +252,14 @@
     "areaTeam": [],
     "blockMap": "xiaoditu_yxkj02_huxian02_Duzhu_E.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20056,
+    "sn": 20016,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_huxian01_Duzhu_S",
+    "assetName": "yxkj02_huxian01",
     "aStarDataSn": 0,
     "connectivity": "1000",
     "heights": "0,0,0,0",
@@ -1423,151 +268,142 @@
     "areaTeam": [],
     "blockMap": "xiaoditu_yxkj02_huxian02_Duzhu_S.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20057,
+    "sn": 20017,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_shizi_Duzhu_N",
-    "aStarDataSn": 0,
-    "connectivity": "1011",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-shizi_jingxiang_Duzhu_N.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20058,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_shizi_Duzhu_S",
-    "aStarDataSn": 0,
-    "connectivity": "1110",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-shizi_jingxiang_Duzhu_S.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20059,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_shizi_Duzhu_W",
-    "aStarDataSn": 0,
-    "connectivity": "1101",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-shizi_jingxiang_Duzhu_W.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20060,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_shizi_Duzhu_E",
-    "aStarDataSn": 0,
-    "connectivity": "0111",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-shizi_jingxiang_Duzhu_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20061,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_Tzi01_Duzhu_E",
-    "aStarDataSn": 0,
-    "connectivity": "1100",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-Tzi_Duzhu_E.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20062,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_Tzi01_Duzhu_N",
-    "aStarDataSn": 0,
-    "connectivity": "1010",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-Tzi_Duzhu_N.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20063,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_Tzi01_Duzhu_W",
-    "aStarDataSn": 0,
-    "connectivity": "0110",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-Tzi_Duzhu_W.png",
-    "uiSize": [
-      320,
-      320
-    ]
-  },
-  {
-    "sn": 20064,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "yxkj02_zhilukuan_anquanxiaowu",
+    "assetName": "yxkj02_zhilu",
     "aStarDataSn": 0,
     "connectivity": "0101",
     "heights": "0,0,0,0",
     "bornPoint": [],
     "birthTeam": [],
     "areaTeam": [],
-    "blockMap": "xiaoditu_yxkj02_zhilukuan_NS.png",
+    "blockMap": "xiaoditu-yxkj-zhixian_NS.png",
     "uiSize": [
-      320,
-      320
+      0
     ]
   },
   {
-    "sn": 20065,
+    "sn": 20018,
     "type": 2,
     "specialType": 3,
-    "assetName": "yxkj02_Tzi_jingxiang",
+    "assetName": "yxkj02_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1011",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20019,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20020,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20021,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "0111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20022,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "1100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20023,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "1010",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20024,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "0110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20025,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_Tzi01_jingxiang",
     "aStarDataSn": 0,
     "connectivity": "1110",
     "heights": "0,0,0,0",
@@ -1576,8 +412,2055 @@
     "areaTeam": [],
     "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_Duzhu_S.png",
     "uiSize": [
-      320,
-      320
+      0
+    ]
+  },
+  {
+    "sn": 20026,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_zhiluping",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_NS.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20027,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_anquanxiaowu",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-anquanxiaowu.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20028,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_xiaxing",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-xiaxing_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20029,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_zhengfang",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhengfang.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20030,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_zhengfang_jintou",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhengfang-jintou.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20031,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_zhengfang",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhengfang-duzhu-N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20032,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_shangxing",
+    "aStarDataSn": 0,
+    "connectivity": "0100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shangxing_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20033,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_kuanzhilu02",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu02.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20034,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_kuanzhilu03",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu03.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20035,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_boss",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-boss.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20036,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_wangrirenzhizhijian_rukou",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20037,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_Tzi01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20038,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_kuanzhilu04",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu04.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20039,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_kuanzhilu05",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu05.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20040,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_kuanzhilu06",
+    "aStarDataSn": 0,
+    "connectivity": "1101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu06.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20041,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_kuanzhilu07",
+    "aStarDataSn": 0,
+    "connectivity": "1111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu07.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20042,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_zhantai",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhantai.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 20073,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj02_renwurukou",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21000,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_shangxing",
+    "aStarDataSn": 0,
+    "connectivity": "0100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shangxing_N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21001,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_xiaxing",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-xiaxing_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21002,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_danxiang",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21003,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21004,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_huxian01",
+    "aStarDataSn": 0,
+    "connectivity": "1001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_huxian02_ES.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21005,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_huxian01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_huxian02_WS.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21006,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_shizi_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_jingxiang.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21007,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_renwurukou_yellow",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21008,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_fangjian",
+    "aStarDataSn": 0,
+    "connectivity": "1001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-fangjian_SE.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21009,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_fangjianrukou_duan",
+    "aStarDataSn": 0,
+    "connectivity": "0100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_fangjianrukou_duan_N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21010,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_renwurukou",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21011,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_renwurukou_purple",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21012,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_renwurukou_blue",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21013,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_renwurukou_red",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21014,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "1101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_ESW.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21015,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_Tzi01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_ESW.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21016,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_huxian01",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_huxian02_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21017,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_huxian01",
+    "aStarDataSn": 0,
+    "connectivity": "1000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_huxian02_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21018,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_zhilu",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_NS.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21019,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_zhiluping",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_NS.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21020,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1011",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21021,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21022,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21023,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "0111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21024,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "1100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21025,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "1010",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21026,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "0110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21027,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_Tzi01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21028,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_anquanxiaowu",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-anquanxiaowu.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21029,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_zhilukuan",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_zhilukuan_NS.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21031,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_zhengfang",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhengfang.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21032,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_zhengfang",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhengfang-duzhu-N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21033,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_zhengfang_jintou",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhengfang-jintou.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21034,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_boss",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-boss.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21035,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_kuanzhilu01",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21036,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_kuanzhilu02",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu02.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21037,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_kuanzhilu03",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu03.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21038,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_shizi_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_jingxiang_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21039,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_shangxing",
+    "aStarDataSn": 0,
+    "connectivity": "0100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shangxing_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21040,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_wangrirenzhizhijian_rukou",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21041,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_Tzi01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21042,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_kuanzhilu04",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu04.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21043,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_kuanzhilu05",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu05.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21044,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_kuanzhilu06",
+    "aStarDataSn": 0,
+    "connectivity": "1101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu06.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21045,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_kuanzhilu07",
+    "aStarDataSn": 0,
+    "connectivity": "1111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu07.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21046,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_zhantai",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhantai.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21047,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_feiche01",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-feiche01.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21048,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_feiche02",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-feiche02.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21049,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_feiche03",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-feiche03.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21050,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_Tzi01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "0011",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21051,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_huxian01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "0010",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_huxian_jingxiang_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 21052,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj01_huxian01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_huxian_jingxiang_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22001,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shangxing",
+    "aStarDataSn": 0,
+    "connectivity": "0100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shangxing_N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22002,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_xiaxing",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-xiaxing_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22003,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_danxiang",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22004,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22005,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_huxian01",
+    "aStarDataSn": 0,
+    "connectivity": "1001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_huxian02_ES.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22006,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_huxian01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_huxian02_WS.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22007,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shizi_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_jingxiang.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22008,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_renwurukou_yellow",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22009,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_fangjian",
+    "aStarDataSn": 0,
+    "connectivity": "1001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-fangjian_SE.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22010,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_fangjianrukou_duan_01",
+    "aStarDataSn": 0,
+    "connectivity": "0100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_fangjianrukou_duan_N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22011,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_renwurukou",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22012,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_renwurukou_purple",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22013,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_renwurukou_blue",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22014,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_renwurukou_red",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22015,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "1101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_ESW.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22016,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tzi01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_ESW.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22017,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_huxian01",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_huxian02_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22018,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_huxian01",
+    "aStarDataSn": 0,
+    "connectivity": "1000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_huxian02_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22019,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_zhilu",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_NS.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22020,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_zhiluping",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_NS.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22021,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1011",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22022,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22023,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "1101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22024,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shizi",
+    "aStarDataSn": 0,
+    "connectivity": "0111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22025,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shiziping",
+    "aStarDataSn": 0,
+    "connectivity": "1111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22026,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shiziping",
+    "aStarDataSn": 0,
+    "connectivity": "1011",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22027,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shiziping",
+    "aStarDataSn": 0,
+    "connectivity": "1001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_NW.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22028,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shiziping",
+    "aStarDataSn": 0,
+    "connectivity": "1000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_NWS.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22029,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "1100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22030,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "1010",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22031,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tzi01",
+    "aStarDataSn": 0,
+    "connectivity": "0110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22032,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tzi01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22033,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_anquanxiaowu",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-anquanxiaowu.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22034,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_zhilukuan",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu_yxkj02_zhilukuan_NS.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22035,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_zhengfang",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhengfang.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22036,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_zhengfang",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhengfang-duzhu-N.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22037,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_zhengfang_jintou",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhengfang-jintou.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22038,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_boss",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-boss.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22039,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_kuanzhilu01",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22040,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_kuanzhilu02",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu02.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22041,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_kuanzhilu03",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu03.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22042,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shizi_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shizi_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22043,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_shangxing",
+    "aStarDataSn": 0,
+    "connectivity": "0100",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-shangxing_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22044,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_wangrirenzhizhijian_rukou",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22045,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tzi01_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "1110",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22046,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_kuanzhilu04",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu04.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22047,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_kuanzhilu05",
+    "aStarDataSn": 0,
+    "connectivity": "0101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu05.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22048,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_kuanzhilu06",
+    "aStarDataSn": 0,
+    "connectivity": "1101",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu06.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22049,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_kuanzhilu07",
+    "aStarDataSn": 0,
+    "connectivity": "1111",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-kuanzhilu07.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22050,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_zhantai",
+    "aStarDataSn": 0,
+    "connectivity": "0001",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhantai.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22051,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tziping",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_ESW.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22052,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tziping",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22053,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tziping",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22054,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tziping",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi01_Duzhu_W.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22055,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tziping_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_ESW.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22056,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tziping_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_Duzhu_E.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22057,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tziping_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_Duzhu_S.png",
+    "uiSize": [
+      0
+    ]
+  },
+  {
+    "sn": 22058,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "yxkj03_Tziping_jingxiang",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-Tzi_jingxiang_Duzhu_W.png",
+    "uiSize": [
+      0
     ]
   },
   {
@@ -1777,48 +2660,6 @@
     "uiSize": []
   },
   {
-    "sn": 30015,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "bqg_benlei1FB1",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
-    "uiSize": []
-  },
-  {
-    "sn": 30016,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "bqg_benlei1FC1",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
-    "uiSize": []
-  },
-  {
-    "sn": 30017,
-    "type": 2,
-    "specialType": 3,
-    "assetName": "bqg_benlei1FE1",
-    "aStarDataSn": 0,
-    "connectivity": "0000",
-    "heights": "0,0,0,0",
-    "bornPoint": [],
-    "birthTeam": [],
-    "areaTeam": [],
-    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
-    "uiSize": []
-  },
-  {
     "sn": 30018,
     "type": 2,
     "specialType": 3,
@@ -1851,6 +2692,20 @@
     "type": 2,
     "specialType": 3,
     "assetName": "bqg_benlei1FA11b",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_E.png",
+    "uiSize": []
+  },
+  {
+    "sn": 30021,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_benlei1F_safehouseA10_pinjie",
     "aStarDataSn": 0,
     "connectivity": "0000",
     "heights": "0,0,0,0",
@@ -1973,6 +2828,20 @@
     "uiSize": []
   },
   {
+    "sn": 30113,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_yilei_G9b",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
     "sn": 30120,
     "type": 2,
     "specialType": 3,
@@ -2046,7 +2915,7 @@
     "sn": 30125,
     "type": 2,
     "specialType": 3,
-    "assetName": "bqg_yilei_H4",
+    "assetName": "bqg_yilei_H4_01",
     "aStarDataSn": 0,
     "connectivity": "0000",
     "heights": "0,0,0,0",
@@ -2102,7 +2971,63 @@
     "sn": 30129,
     "type": 2,
     "specialType": 3,
-    "assetName": "bqg_yilei_I3",
+    "assetName": "bqg_yilei_I3_01",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 30130,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_yilei_D2",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 30131,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_yilei_A2",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 30132,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_yilei_H4_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 30133,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_yilei_H4_03",
     "aStarDataSn": 0,
     "connectivity": "0000",
     "heights": "0,0,0,0",
@@ -2362,6 +3287,1784 @@
     "birthTeam": [],
     "areaTeam": [],
     "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 30319,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_sanlei_Y6a_01",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 30320,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_sanlei_Y6a_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 30321,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_sanlei_Y6a_03",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 30322,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_sanlei_Y6b_01",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 30323,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "bqg_sanlei_Y6b_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40001,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A1",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40002,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A2",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40003,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A3",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40004,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A4",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40005,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A5",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40006,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A6",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40007,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A7",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40008,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A8",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40009,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A9",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40010,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_R1",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40011,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_R2",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40012,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_R3",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40013,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_R4",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40014,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_R5",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40015,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_rukou",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40016,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_R1_01",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40017,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_R1_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "xiaoditu-yxkj-zhixian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40018,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A1_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40019,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A3_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40020,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A7_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40021,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A8_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40022,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A9_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40023,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A9_03",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40024,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_sanzhiwan_A7_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40101,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR9_E",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_danxiang_N.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40102,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR9_N",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_danxiang_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40103,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR9_S",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_danxiang_S.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40104,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR9_W",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_danxiang_E.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40105,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR10_W",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_danxiang_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40106,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR4_NE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_Lxing_NE.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40107,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR4_NW",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_Lxing_NW.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40108,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR4_SE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_Lxing_SE.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40109,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR4_WS",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_Lxing_WS.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40110,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR1_N",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_rukou_N.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40111,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR3_NWSE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_shizi_NWSE_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40112,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR7_NSE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_Txing_NSE.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40113,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR7_NWE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_Txing_NWE.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40114,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR7_NWS",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_Txing_NWS.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40115,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR7_WSE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_Txing_WSE.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40116,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR8_NS",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_xiexian_NS.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40117,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR6_NS",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_xiexian_NS2.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40118,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR8_WE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_xiexian_WE.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40119,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR6_WE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_xiexian_WE2.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40120,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR2_NS",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_zhixian_NS.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40121,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR2_NWE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_zhixian_NWE.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40122,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR2_WE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_zhixian_WE.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40123,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR2_WSE",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckp_ty_zhixian_WSE.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40124,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B6_E",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_fangjian_E.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40125,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B7_E",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_fangjian_E_2.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40126,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B6_N",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_fangjian_N.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40127,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B6_S",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_fangjian_S.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40128,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B6_SS",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_fangjian_SS.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40129,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B6_W",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_fangjian_W.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40130,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B2",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40131,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B4",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_2.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40132,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B5",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_3.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40133,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B1",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_4.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40134,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B3",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_WE_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40135,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B1_2",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40136,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B1_2_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_3.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40137,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B1_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_4.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40138,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B3_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_WE_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40139,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_B6_W_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40140,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A1",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40141,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A2",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40142,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A3",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40143,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A4",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40144,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A5",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40145,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A6",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40146,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A7",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40147,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B1",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40148,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B2",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40149,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B3",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40150,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B4",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40151,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B5",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40152,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR1_zhulin",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40153,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B6",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40154,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B7",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40155,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B8",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40156,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A9",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40157,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_C3",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40158,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A10",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40159,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A11",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40160,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B9",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40161,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A1_03",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40162,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A3_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40163,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A9_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40164,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A0",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40165,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A2_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40166,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_zhongkongshi",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40167,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A1",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40168,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A2",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40169,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A3",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40170,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A3_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40171,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A5",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40172,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A6",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40173,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A7",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40174,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A7_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40175,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A9",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40176,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A9_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40177,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A11",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40178,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B1",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40179,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B2",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40180,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B3",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40181,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B4",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40182,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B5",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40183,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B6",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40184,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B7",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40185,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B8",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40186,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A2_Hole",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40187,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B3_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40188,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B3_03",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40189,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B3_04",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40190,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B3_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40191,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B3_03",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40192,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_B3_04",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40193,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_B9",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40194,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_A7_02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40195,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_boss_tongdao",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40196,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_erzhiwan_BR2_WE01",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40197,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg1F_A7b",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
+    "uiSize": []
+  },
+  {
+    "sn": 40198,
+    "type": 2,
+    "specialType": 3,
+    "assetName": "ysc_tsg2F_boss_tongdao02",
+    "aStarDataSn": 0,
+    "connectivity": "0000",
+    "heights": "0,0,0,0",
+    "bornPoint": [],
+    "birthTeam": [],
+    "areaTeam": [],
+    "blockMap": "sckr_ty_yuanzi_NS_1.png",
     "uiSize": []
   }
 ]

@@ -3,46 +3,46 @@
     "sn": 1011,
     "name": "坂本龙司",
     "CampaignStart": [
-      1060002
+      0
     ],
     "Transport": [
-      1060012
+      0
     ],
     "Destination": [
-      1060003
+      0
     ],
     "PossibleWay": [
-      1060011
+      0
     ],
     "LockedDoor": [
-      1060007
+      0
     ],
     "WrongWay": [
-      1060013
+      0
     ],
     "MissionComplete": [
-      1060008
+      0
     ],
     "NearChest": [
-      1060009
+      0
     ],
     "BadState": [
-      1060001
+      0
     ],
     "OpeningChest": [
-      1060014
+      0
     ],
     "OpenedChest": [
-      1060010
+      0
     ],
     "HideEnemy": [
-      1060006
+      0
     ],
     "FindSafeHouse": [
-      1060004
+      0
     ],
     "EnterSafeHouse": [
-      1060005
+      0
     ],
     "LeavePalace": [],
     "CampaignEnd": [],
@@ -54,53 +54,80 @@
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0035",
-    "thiefGachaSoundTwo": "Sys_V0034"
+    "thiefGachaSoundOne": "VO_Sys_Skull_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Skull_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
     "sn": 1021,
     "name": "摩尔加纳",
     "CampaignStart": [
-      1061002
+      0
     ],
     "Transport": [
-      1061012
+      0
     ],
     "Destination": [
-      1061003
+      0
     ],
     "PossibleWay": [
-      1061011
+      0
     ],
     "LockedDoor": [
-      1061007
+      0
     ],
     "WrongWay": [
-      1061013
+      0
     ],
     "MissionComplete": [
-      1061008
+      0
     ],
     "NearChest": [
-      1061009
+      0
     ],
     "BadState": [
-      1061001
+      0
     ],
     "OpeningChest": [
-      1061014
+      0
     ],
     "OpenedChest": [
-      1061010
+      0
     ],
     "HideEnemy": [
-      1061006
+      0
     ],
     "FindSafeHouse": [
-      1061004
+      0
     ],
     "EnterSafeHouse": [
-      1061005
+      0
     ],
     "LeavePalace": [],
     "CampaignEnd": [],
@@ -112,53 +139,80 @@
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0024",
-    "thiefGachaSoundTwo": "Sys_V0025"
+    "thiefGachaSoundOne": "VO_Sys_Mona_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Mona_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
     "sn": 1031,
     "name": "新井素羽",
     "CampaignStart": [
-      1057002
+      0
     ],
     "Transport": [
-      1057012
+      0
     ],
     "Destination": [
-      1057003
+      0
     ],
     "PossibleWay": [
-      1057011
+      0
     ],
     "LockedDoor": [
-      1057007
+      0
     ],
     "WrongWay": [
-      1057013
+      0
     ],
     "MissionComplete": [
-      1057008
+      0
     ],
     "NearChest": [
-      1057009
+      0
     ],
     "BadState": [
-      1057001
+      0
     ],
     "OpeningChest": [
-      1057014
+      0
     ],
     "OpenedChest": [
-      1057010
+      0
     ],
     "HideEnemy": [
-      1057006
+      0
     ],
     "FindSafeHouse": [
-      1057004
+      0
     ],
     "EnterSafeHouse": [
-      1057005
+      0
     ],
     "LeavePalace": [],
     "CampaignEnd": [],
@@ -170,111 +224,167 @@
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0037",
-    "thiefGachaSoundTwo": "Sys_V0037"
+    "thiefGachaSoundOne": "sys13_002_1",
+    "thiefGachaSoundTwo": "sys13_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
     "sn": 1041,
     "name": "路菲尔",
     "CampaignStart": [
-      1056002
+      0
     ],
     "Transport": [
-      1056012
+      0
     ],
     "Destination": [
-      1056003
+      0
     ],
     "PossibleWay": [
-      1056011
+      0
     ],
     "LockedDoor": [
-      1056007
+      0
     ],
     "WrongWay": [
-      1056013
+      0
     ],
     "MissionComplete": [
-      1056008
+      0
     ],
     "NearChest": [
-      1056009
+      0
     ],
     "BadState": [
-      1056001
+      0
     ],
     "OpeningChest": [
-      1056014
+      0
     ],
     "OpenedChest": [
-      1056010
+      0
     ],
     "HideEnemy": [
-      1056006
+      0
     ],
     "FindSafeHouse": [
-      1056004
+      0
     ],
     "EnterSafeHouse": [
-      1056005
+      0
     ],
     "LeavePalace": [],
     "CampaignEnd": [],
     "Remind": [],
     "RemindSafeHouse": [],
-    "NearTreasure": [],
+    "NearTreasure": [
+      0
+    ],
     "ManyEnemy": [],
     "FewEnemy": [],
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0040",
-    "thiefGachaSoundTwo": "Sys_V0040"
+    "thiefGachaSoundOne": "sys12_002_1",
+    "thiefGachaSoundTwo": "sys12_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
-    "sn": 1131,
-    "name": "藤川雪实",
+    "sn": 1061,
+    "name": "加纳骏",
     "CampaignStart": [
-      1067002
+      0
     ],
     "Transport": [
-      1067012
+      0
     ],
     "Destination": [
-      1067003
+      0
     ],
     "PossibleWay": [
-      1067011
+      0
     ],
     "LockedDoor": [
-      1067007
+      0
     ],
     "WrongWay": [
-      1067013
+      0
     ],
     "MissionComplete": [
-      1067008
+      0
     ],
     "NearChest": [
-      1067009
+      0
     ],
     "BadState": [
-      1067001
+      0
     ],
     "OpeningChest": [
-      1067014
+      0
     ],
     "OpenedChest": [
-      1067010
+      0
     ],
     "HideEnemy": [
-      1067006
+      0
     ],
     "FindSafeHouse": [
-      1067004
+      0
     ],
     "EnterSafeHouse": [
-      1067005
+      0
     ],
     "LeavePalace": [],
     "CampaignEnd": [],
@@ -286,53 +396,80 @@
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0039",
-    "thiefGachaSoundTwo": "Sys_V0039"
+    "thiefGachaSoundOne": "sys14_002_1",
+    "thiefGachaSoundTwo": "sys14_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
-    "sn": 1141,
-    "name": "白鸟诚司",
+    "sn": 1071,
+    "name": "神山岭央",
     "CampaignStart": [
-      1066002
+      0
     ],
     "Transport": [
-      1066012
+      0
     ],
     "Destination": [
-      1066003
+      0
     ],
     "PossibleWay": [
-      1066011
+      0
     ],
     "LockedDoor": [
-      1066007
+      0
     ],
     "WrongWay": [
-      1066013
+      0
     ],
     "MissionComplete": [
-      1066008
+      0
     ],
     "NearChest": [
-      1066009
+      0
     ],
     "BadState": [
-      1066001
+      0
     ],
     "OpeningChest": [
-      1066014
+      0
     ],
     "OpenedChest": [
-      1066010
+      0
     ],
     "HideEnemy": [
-      1066006
+      0
     ],
     "FindSafeHouse": [
-      1066004
+      0
     ],
     "EnterSafeHouse": [
-      1066005
+      0
     ],
     "LeavePalace": [],
     "CampaignEnd": [],
@@ -344,205 +481,1019 @@
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0041",
-    "thiefGachaSoundTwo": "Sys_V0041"
+    "thiefGachaSoundOne": "sys23_002_1",
+    "thiefGachaSoundTwo": "sys23_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
-    "sn": 1151,
-    "name": "明智吾郎",
+    "sn": 1081,
+    "name": "富山佳代",
     "CampaignStart": [
-      1070002
+      0
     ],
     "Transport": [
-      1070012
+      0
     ],
     "Destination": [
-      1070003
+      0
     ],
     "PossibleWay": [
-      1070011
+      0
     ],
     "LockedDoor": [
-      1070007
+      0
     ],
     "WrongWay": [
-      1070013
+      0
     ],
     "MissionComplete": [
-      1070008
+      0
     ],
     "NearChest": [
-      1070009
+      0
     ],
     "BadState": [
-      1070001
-    ],
-    "OpeningChest": [
-      1070014
-    ],
-    "OpenedChest": [
-      1070010
-    ],
-    "HideEnemy": [
-      1070006
-    ],
-    "FindSafeHouse": [
-      1070004
-    ],
-    "EnterSafeHouse": [
-      1070005
-    ],
-    "LeavePalace": [],
-    "CampaignEnd": [],
-    "Remind": [],
-    "RemindSafeHouse": [],
-    "NearTreasure": [],
-    "ManyEnemy": [],
-    "FewEnemy": [],
-    "LockedChest": [],
-    "Trap": [],
-    "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0019",
-    "thiefGachaSoundTwo": "Sys_V0020"
-  },
-  {
-    "sn": 1161,
-    "name": "喜多川佑介",
-    "CampaignStart": [
-      1063002
-    ],
-    "Transport": [
-      1063012
-    ],
-    "Destination": [
-      1063003
-    ],
-    "PossibleWay": [
-      1063011
-    ],
-    "LockedDoor": [
-      1063007
-    ],
-    "WrongWay": [
-      1063013
-    ],
-    "MissionComplete": [
-      1063008
-    ],
-    "NearChest": [
-      1063009
-    ],
-    "BadState": [
-      1063001
-    ],
-    "OpeningChest": [
-      1063014
-    ],
-    "OpenedChest": [
-      1063010
-    ],
-    "HideEnemy": [
-      1063006
-    ],
-    "FindSafeHouse": [
-      1063004
-    ],
-    "EnterSafeHouse": [
-      1063005
-    ],
-    "LeavePalace": [],
-    "CampaignEnd": [],
-    "Remind": [],
-    "RemindSafeHouse": [],
-    "NearTreasure": [],
-    "ManyEnemy": [],
-    "FewEnemy": [],
-    "LockedChest": [],
-    "Trap": [],
-    "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0022",
-    "thiefGachaSoundTwo": "Sys_V0023"
-  },
-  {
-    "sn": 1171,
-    "name": "佐仓双叶",
-    "CampaignStart": [],
-    "Transport": [],
-    "Destination": [],
-    "PossibleWay": [],
-    "LockedDoor": [],
-    "WrongWay": [],
-    "MissionComplete": [],
-    "NearChest": [
-      1065006
-    ],
-    "BadState": [
-      1065001
+      0
     ],
     "OpeningChest": [],
     "OpenedChest": [],
     "HideEnemy": [],
     "FindSafeHouse": [
-      1065002
+      0
     ],
     "EnterSafeHouse": [],
     "LeavePalace": [],
     "CampaignEnd": [],
     "Remind": [],
     "RemindSafeHouse": [],
+    "NearTreasure": [
+      0
+    ],
+    "ManyEnemy": [
+      0
+    ],
+    "FewEnemy": [
+      0
+    ],
+    "LockedChest": [],
+    "Trap": [
+      0
+    ],
+    "Mechanism": [
+      0
+    ],
+    "thiefGachaSoundOne": "sys34_002_1",
+    "thiefGachaSoundTwo": "sys34_002_3",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1091,
+    "name": "李瑶铃",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
     "NearTreasure": [],
     "ManyEnemy": [],
     "FewEnemy": [],
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0027",
-    "thiefGachaSoundTwo": "Sys_V0026"
+    "thiefGachaSoundOne": "sys31_002_1",
+    "thiefGachaSoundTwo": "sys31_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1101,
+    "name": "野毛朋子",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [],
+    "ManyEnemy": [],
+    "FewEnemy": [],
+    "LockedChest": [],
+    "Trap": [],
+    "Mechanism": [],
+    "thiefGachaSoundOne": "sys33_002_1",
+    "thiefGachaSoundTwo": "sys33_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1111,
+    "name": "YUI",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [],
+    "ManyEnemy": [],
+    "FewEnemy": [],
+    "LockedChest": [],
+    "Trap": [],
+    "Mechanism": [],
+    "thiefGachaSoundOne": "sys36_002_2",
+    "thiefGachaSoundTwo": "sys36_002_3",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1121,
+    "name": "黑谷清",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [],
+    "ManyEnemy": [],
+    "FewEnemy": [],
+    "LockedChest": [],
+    "Trap": [],
+    "Mechanism": [],
+    "thiefGachaSoundOne": "sys32_002_1",
+    "thiefGachaSoundTwo": "sys32_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1131,
+    "name": "藤川雪实",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [],
+    "ManyEnemy": [],
+    "FewEnemy": [],
+    "LockedChest": [],
+    "Trap": [],
+    "Mechanism": [],
+    "thiefGachaSoundOne": "sys21_002_1",
+    "thiefGachaSoundTwo": "sys21_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1141,
+    "name": "白鸟诚司",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [],
+    "ManyEnemy": [],
+    "FewEnemy": [],
+    "LockedChest": [],
+    "Trap": [],
+    "Mechanism": [],
+    "thiefGachaSoundOne": "sys22_002_1",
+    "thiefGachaSoundTwo": "sys22_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1151,
+    "name": "明智吾郎",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [],
+    "ManyEnemy": [],
+    "FewEnemy": [],
+    "LockedChest": [],
+    "Trap": [],
+    "Mechanism": [],
+    "thiefGachaSoundOne": "VO_Sys_Crow_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Crow_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1161,
+    "name": "喜多川佑介",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [],
+    "ManyEnemy": [],
+    "FewEnemy": [],
+    "LockedChest": [],
+    "Trap": [],
+    "Mechanism": [],
+    "thiefGachaSoundOne": "VO_Sys_Fox_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Fox_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1171,
+    "name": "佐仓双叶",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [],
+    "OpenedChest": [],
+    "HideEnemy": [],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [
+      0
+    ],
+    "ManyEnemy": [
+      0
+    ],
+    "FewEnemy": [
+      0
+    ],
+    "LockedChest": [],
+    "Trap": [
+      0
+    ],
+    "Mechanism": [
+      0
+    ],
+    "thiefGachaSoundOne": "VO_Sys_Navi_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Navi_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1181,
+    "name": "须见俊也",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [],
+    "ManyEnemy": [],
+    "FewEnemy": [],
+    "LockedChest": [],
+    "Trap": [],
+    "Mechanism": [],
+    "thiefGachaSoundOne": "VO_Sys_Sumitosi_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Sumitosi_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
     "sn": 1191,
     "name": "高卷杏",
     "CampaignStart": [
-      1059002
+      0
     ],
     "Transport": [
-      1059012
+      0
     ],
     "Destination": [
-      1059003
+      0
     ],
     "PossibleWay": [
-      1059011
+      0
     ],
     "LockedDoor": [
-      1059007
+      0
     ],
     "WrongWay": [
-      1059013
+      0
     ],
     "MissionComplete": [
-      1059008
+      0
     ],
     "NearChest": [
-      1059009
+      0
     ],
     "BadState": [
-      1059001
+      0
     ],
     "OpeningChest": [
-      1059014
+      0
     ],
     "OpenedChest": [
-      1059010
+      0
     ],
     "HideEnemy": [
-      1059006
+      0
     ],
     "FindSafeHouse": [
-      1059004
+      0
     ],
     "EnterSafeHouse": [
-      1059005
+      0
     ],
     "LeavePalace": [],
     "CampaignEnd": [],
@@ -554,53 +1505,80 @@
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0030",
-    "thiefGachaSoundTwo": "Sys_V0031"
+    "thiefGachaSoundOne": "VO_Sys_Panther_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Panther_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
     "sn": 1201,
     "name": "新岛真",
     "CampaignStart": [
-      1062002
+      0
     ],
     "Transport": [
-      1062012
+      0
     ],
     "Destination": [
-      1062003
+      0
     ],
     "PossibleWay": [
-      1062011
+      0
     ],
     "LockedDoor": [
-      1062007
+      0
     ],
     "WrongWay": [
-      1062013
+      0
     ],
     "MissionComplete": [
-      1062008
+      0
     ],
     "NearChest": [
-      1062009
+      0
     ],
     "BadState": [
-      1062001
+      0
     ],
     "OpeningChest": [
-      1062014
+      0
     ],
     "OpenedChest": [
-      1062010
+      0
     ],
     "HideEnemy": [
-      1062006
+      0
     ],
     "FindSafeHouse": [
-      1062004
+      0
     ],
     "EnterSafeHouse": [
-      1062005
+      0
     ],
     "LeavePalace": [],
     "CampaignEnd": [],
@@ -612,53 +1590,80 @@
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0033",
-    "thiefGachaSoundTwo": "Sys_V0032"
+    "thiefGachaSoundOne": "VO_Sys_Queen_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Queen_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
     "sn": 1211,
     "name": "琴音·蒙塔涅",
     "CampaignStart": [
-      1068002
+      0
     ],
     "Transport": [
-      1068012
+      0
     ],
     "Destination": [
-      1068003
+      0
     ],
     "PossibleWay": [
-      1068011
+      0
     ],
     "LockedDoor": [
-      1068007
+      0
     ],
     "WrongWay": [
-      1068013
+      0
     ],
     "MissionComplete": [
-      1068008
+      0
     ],
     "NearChest": [
-      1068009
+      0
     ],
     "BadState": [
-      1068001
+      0
     ],
     "OpeningChest": [
-      1068014
+      0
     ],
     "OpenedChest": [
-      1068010
+      0
     ],
     "HideEnemy": [
-      1068006
+      0
     ],
     "FindSafeHouse": [
-      1068004
+      0
     ],
     "EnterSafeHouse": [
-      1068005
+      0
     ],
     "LeavePalace": [],
     "CampaignEnd": [],
@@ -670,53 +1675,165 @@
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0028",
-    "thiefGachaSoundTwo": "Sys_V0029"
+    "thiefGachaSoundOne": "sys24_002_1",
+    "thiefGachaSoundTwo": "sys24_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1231,
+    "name": "宫下美波",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [],
+    "ManyEnemy": [],
+    "FewEnemy": [],
+    "LockedChest": [],
+    "Trap": [],
+    "Mechanism": [],
+    "thiefGachaSoundOne": "VO_Sys_Marian_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Marian_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
     "sn": 1251,
     "name": "奥村春",
     "CampaignStart": [
-      1058002
+      0
     ],
     "Transport": [
-      1058012
+      0
     ],
     "Destination": [
-      1058003
+      0
     ],
     "PossibleWay": [
-      1058011
+      0
     ],
     "LockedDoor": [
-      1058007
+      0
     ],
     "WrongWay": [
-      1058013
+      0
     ],
     "MissionComplete": [
-      1058008
+      0
     ],
     "NearChest": [
-      1058009
+      0
     ],
     "BadState": [
-      1058001
+      0
     ],
     "OpeningChest": [
-      1058014
+      0
     ],
     "OpenedChest": [
-      1058010
+      0
     ],
     "HideEnemy": [
-      1058006
+      0
     ],
     "FindSafeHouse": [
-      1058004
+      0
     ],
     "EnterSafeHouse": [
-      1058005
+      0
     ],
     "LeavePalace": [],
     "CampaignEnd": [],
@@ -728,8 +1845,35 @@
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0028",
-    "thiefGachaSoundTwo": "Sys_V0029"
+    "thiefGachaSoundOne": "VO_Sys_Noir_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Noir_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   },
   {
     "sn": 1261,
@@ -758,7 +1902,188 @@
     "LockedChest": [],
     "Trap": [],
     "Mechanism": [],
-    "thiefGachaSoundOne": "Sys_V0021",
-    "thiefGachaSoundTwo": "Sys_V0021"
+    "thiefGachaSoundOne": "VO_Sys_Joker_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Joker_Gacha_Thief_02",
+    "RogueTypeSound1": [],
+    "RogueTypeSound2": [],
+    "RogueTypeSound3": [],
+    "RogueTypeSound4": [],
+    "RogueTypeSound5": [],
+    "RogueTypeSound6": [],
+    "RogueTypeSound7": [],
+    "RogueTypeSound8": [],
+    "RogueTypeSound9": []
+  },
+  {
+    "sn": 1271,
+    "name": "佐原海夕",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [],
+    "OpenedChest": [],
+    "HideEnemy": [],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [
+      0
+    ],
+    "ManyEnemy": [
+      0
+    ],
+    "FewEnemy": [
+      0
+    ],
+    "LockedChest": [],
+    "Trap": [
+      0
+    ],
+    "Mechanism": [
+      0
+    ],
+    "thiefGachaSoundOne": "sys41_002_1",
+    "thiefGachaSoundTwo": "sys41_002_2",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
+  },
+  {
+    "sn": 1281,
+    "name": "西森阳菜",
+    "CampaignStart": [
+      0
+    ],
+    "Transport": [
+      0
+    ],
+    "Destination": [
+      0
+    ],
+    "PossibleWay": [
+      0
+    ],
+    "LockedDoor": [
+      0
+    ],
+    "WrongWay": [
+      0
+    ],
+    "MissionComplete": [
+      0
+    ],
+    "NearChest": [
+      0
+    ],
+    "BadState": [
+      0
+    ],
+    "OpeningChest": [
+      0
+    ],
+    "OpenedChest": [
+      0
+    ],
+    "HideEnemy": [
+      0
+    ],
+    "FindSafeHouse": [
+      0
+    ],
+    "EnterSafeHouse": [
+      0
+    ],
+    "LeavePalace": [],
+    "CampaignEnd": [],
+    "Remind": [],
+    "RemindSafeHouse": [],
+    "NearTreasure": [],
+    "ManyEnemy": [],
+    "FewEnemy": [],
+    "LockedChest": [],
+    "Trap": [],
+    "Mechanism": [],
+    "thiefGachaSoundOne": "VO_Sys_Why_Gacha_Thief_01",
+    "thiefGachaSoundTwo": "VO_Sys_Why_Gacha_Thief_02",
+    "RogueTypeSound1": [
+      0
+    ],
+    "RogueTypeSound2": [
+      0
+    ],
+    "RogueTypeSound3": [
+      0
+    ],
+    "RogueTypeSound4": [
+      0
+    ],
+    "RogueTypeSound5": [
+      0
+    ],
+    "RogueTypeSound6": [
+      0
+    ],
+    "RogueTypeSound7": [
+      0
+    ],
+    "RogueTypeSound8": [
+      0
+    ],
+    "RogueTypeSound9": [
+      0
+    ]
   }
 ]

@@ -1,31 +1,319 @@
 [
   {
     "sn": 1,
+    "PhotoCharacterModel": "closer_uniform",
+    "modelName": "新井素羽",
+    "modelPic": "Tongyong-touxiang-changfu-closer.png",
     "thiefSn": [
-      1031
+      0
     ],
     "questSn": 0,
     "coopLevel": [],
-    "modelPic": "Tongyong-touxiang-changfu-12.png",
-    "modelName": "新井素羽",
-    "PhotoCharacterModel": "closer_uniform"
+    "sort": 1,
+    "isDisplay": 1
   },
   {
     "sn": 2,
-    "thiefSn": [],
+    "PhotoCharacterModel": "soy_uniform",
+    "modelName": "加纳骏",
+    "modelPic": "Tongyong-touxiang-changfu-soy.png",
+    "thiefSn": [
+      0
+    ],
     "questSn": 0,
     "coopLevel": [],
-    "modelPic": "Tongyong-touxiang-changfu-13.png",
-    "modelName": "梅洛普",
-    "PhotoCharacterModel": "ZhuShou"
+    "sort": 2,
+    "isDisplay": 1
   },
   {
     "sn": 3,
+    "PhotoCharacterModel": "wind_uniform",
+    "modelName": "多祢村理子",
+    "modelPic": "Tongyong-touxiang-changfu-wind.png",
+    "thiefSn": [
+      0
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 3,
+    "isDisplay": 0
+  },
+  {
+    "sn": 4,
+    "PhotoCharacterModel": "polter_uniform",
+    "modelName": "平井亚兰",
+    "modelPic": "Tongyong-touxiang-npc-yalan.png",
     "thiefSn": [],
     "questSn": 0,
     "coopLevel": [],
-    "modelPic": "Tongyong-touxiang-changfu-14.png",
-    "modelName": "多祢村理子",
-    "PhotoCharacterModel": "wind_uniform"
+    "sort": 4,
+    "isDisplay": 0
+  },
+  {
+    "sn": 5,
+    "PhotoCharacterModel": "enco_uniform",
+    "modelName": "池波翔哲",
+    "modelPic": "Tongyong-touxiang-changfu-wind.png",
+    "thiefSn": [],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 5,
+    "isDisplay": 0
+  },
+  {
+    "sn": 6,
+    "PhotoCharacterModel": "kii_uniform",
+    "modelName": "黑谷清",
+    "modelPic": "Tongyong-touxiang-changfu-kii.png",
+    "thiefSn": [
+      0
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 6,
+    "isDisplay": 1
+  },
+  {
+    "sn": 7,
+    "PhotoCharacterModel": "bui_uniform",
+    "modelName": "YUI",
+    "modelPic": "Tongyong-touxiang-changfu-bui.png",
+    "thiefSn": [
+      0
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 7,
+    "isDisplay": 0
+  },
+  {
+    "sn": 8,
+    "PhotoCharacterModel": "kotomo_uniform",
+    "modelName": "野毛朋子",
+    "modelPic": "Tongyong-touxiang-changfu-kotomo.png",
+    "thiefSn": [
+      0
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 8,
+    "isDisplay": 1
+  },
+  {
+    "sn": 9,
+    "PhotoCharacterModel": "tirara_uniform",
+    "modelName": "李瑶铃",
+    "modelPic": "Tongyong-touxiang-changfu-rin.png",
+    "thiefSn": [
+      0
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 9,
+    "isDisplay": 1
+  },
+  {
+    "sn": 10,
+    "PhotoCharacterModel": "okyann_uniform",
+    "modelName": "富山佳代",
+    "modelPic": "Tongyong-touxiang-changfu-okyann.png",
+    "thiefSn": [
+      0
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 10,
+    "isDisplay": 1
+  },
+  {
+    "sn": 11,
+    "PhotoCharacterModel": "frost_normal",
+    "modelName": "琴音·蒙塔涅",
+    "modelPic": "Tongyong-touxiang-changfu-mont.png",
+    "thiefSn": [
+      0
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 11,
+    "isDisplay": 1
+  },
+  {
+    "sn": 12,
+    "PhotoCharacterModel": "leo_uniform",
+    "modelName": "神山岭央",
+    "modelPic": "Tongyong-touxiang-changfu-leo.png",
+    "thiefSn": [
+      0
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 12,
+    "isDisplay": 1
+  },
+  {
+    "sn": 13,
+    "PhotoCharacterModel": "ZhuShou",
+    "modelName": "梅洛普",
+    "modelPic": "Tongyong-touxiang-changfu-meiluopu.png",
+    "thiefSn": [],
+    "questSn": 10020,
+    "coopLevel": [],
+    "sort": 13,
+    "isDisplay": 1
+  },
+  {
+    "sn": 14,
+    "PhotoCharacterModel": "Maqimu",
+    "modelName": "玛奇姆",
+    "modelPic": "Tongyong-touxiang-npc-maqimu.png",
+    "thiefSn": [],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 14,
+    "isDisplay": 0
+  },
+  {
+    "sn": 15,
+    "PhotoCharacterModel": "CoffeeGirl",
+    "modelName": "影山惠那",
+    "modelPic": "Tongyong-touxiang-npc-huina.png",
+    "thiefSn": [],
+    "questSn": 66010,
+    "coopLevel": [],
+    "sort": 15,
+    "isDisplay": 0
+  },
+  {
+    "sn": 16,
+    "PhotoCharacterModel": "ShiZiWangJie",
+    "modelName": "狮子王介",
+    "modelPic": "Tongyong-touxiang-npc-jie.png",
+    "thiefSn": [],
+    "questSn": 40155,
+    "coopLevel": [],
+    "sort": 16,
+    "isDisplay": 0
+  },
+  {
+    "sn": 17,
+    "PhotoCharacterModel": "SportsGirl",
+    "modelName": "小松奈美惠",
+    "modelPic": "Tongyong-touxiang-npc-xiaosong.png",
+    "thiefSn": [],
+    "questSn": 40040,
+    "coopLevel": [],
+    "sort": 17,
+    "isDisplay": 1
+  },
+  {
+    "sn": 18,
+    "PhotoCharacterModel": "ShaoNiao",
+    "modelName": "烧鸟炭藏",
+    "modelPic": "Tongyong-touxiang-npc-shaoniao.png",
+    "thiefSn": [],
+    "questSn": 40199,
+    "coopLevel": [],
+    "sort": 18,
+    "isDisplay": 1
+  },
+  {
+    "sn": 19,
+    "PhotoCharacterModel": "DaGongRen",
+    "modelName": "佐藤裕太",
+    "modelPic": "Tongyong-touxiang-npc-yutai.png",
+    "thiefSn": [],
+    "questSn": 40289,
+    "coopLevel": [],
+    "sort": 19,
+    "isDisplay": 1
+  },
+  {
+    "sn": 20,
+    "PhotoCharacterModel": "world_mascot",
+    "modelName": "阿七",
+    "modelPic": "Tongyong-touxiang-npc-aqi.png",
+    "thiefSn": [],
+    "questSn": 40133,
+    "coopLevel": [],
+    "sort": 20,
+    "isDisplay": 0
+  },
+  {
+    "sn": 21,
+    "PhotoCharacterModel": "jumao",
+    "modelName": "茶太",
+    "modelPic": "Tongyong-touxiang-npc-chatai.png",
+    "thiefSn": [],
+    "questSn": 64034,
+    "coopLevel": [],
+    "sort": 21,
+    "isDisplay": 1
+  },
+  {
+    "sn": 22,
+    "PhotoCharacterModel": "MuJuan",
+    "modelName": "小出日和",
+    "modelPic": "Tongyong-touxiang-npc-xiaochurihe.png",
+    "thiefSn": [],
+    "questSn": 40006,
+    "coopLevel": [],
+    "sort": 22,
+    "isDisplay": 0
+  },
+  {
+    "sn": 23,
+    "PhotoCharacterModel": "JiePai",
+    "modelName": "清水陆人",
+    "modelPic": "Tongyong-touxiang-npc-luren.png",
+    "thiefSn": [],
+    "questSn": 65011,
+    "coopLevel": [],
+    "sort": 23,
+    "isDisplay": 1
+  },
+  {
+    "sn": 24,
+    "PhotoCharacterModel": "OldLady",
+    "modelName": "土佐林文代",
+    "modelPic": "Tongyong-touxiang-npc-shizuo.png",
+    "thiefSn": [],
+    "questSn": 61001,
+    "coopLevel": [],
+    "sort": 24,
+    "isDisplay": 1
+  },
+  {
+    "sn": 25,
+    "PhotoCharacterModel": "JianShen",
+    "modelName": "安德森",
+    "modelPic": "Tongyong-touxiang-npc-andesen.png",
+    "thiefSn": [],
+    "questSn": 63011,
+    "coopLevel": [],
+    "sort": 25,
+    "isDisplay": 1
+  },
+  {
+    "sn": 26,
+    "PhotoCharacterModel": "GuitarGirl",
+    "modelName": "坂井绫香",
+    "modelPic": "Tongyong-touxiang-npc-lingxiang.png",
+    "thiefSn": [],
+    "questSn": 80001,
+    "coopLevel": [],
+    "sort": 26,
+    "isDisplay": 0
+  },
+  {
+    "sn": 27,
+    "PhotoCharacterModel": "HeYan",
+    "modelName": "津田和彦",
+    "modelPic": "Tongyong-touxiang-npc-heyan.png",
+    "thiefSn": [],
+    "questSn": 40173,
+    "coopLevel": [],
+    "sort": 27,
+    "isDisplay": 0
   }
 ]
