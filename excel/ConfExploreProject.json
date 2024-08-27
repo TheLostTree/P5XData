@@ -8,7 +8,8 @@
     "pic": "tansuodu-icon-anquanwu.png",
     "lockPic": "tansuodu-icon-anquanwu.png",
     "maxExp": 0,
-    "num": 1
+    "num": 1,
+    "exploreGroup": 1
   },
   {
     "sn": 1004,
@@ -19,7 +20,8 @@
     "pic": "tansuodu-icon-zhongjibaoxiang.png",
     "lockPic": "tansuodu-icon-zhongjibaoxiang.png",
     "maxExp": 0,
-    "num": 3
+    "num": 3,
+    "exploreGroup": 1
   },
   {
     "sn": 1005,
@@ -30,7 +32,8 @@
     "pic": "tansuodu-icon-chujibaoxiang.png",
     "lockPic": "tansuodu-icon-chujibaoxiang.png",
     "maxExp": 0,
-    "num": 2
+    "num": 2,
+    "exploreGroup": 1
   },
   {
     "sn": 1006,
@@ -41,7 +44,8 @@
     "pic": "tansuodu-icon-jinguai-1.png",
     "lockPic": "tansuodu-icon-jinguai-1.png",
     "maxExp": 0,
-    "num": 6
+    "num": 6,
+    "exploreGroup": 1
   },
   {
     "sn": 1009,
@@ -52,7 +56,8 @@
     "pic": "tansuodu-icon-gaojibaoxiang.png",
     "lockPic": "tansuodu-icon-gaojibaoxiang.png",
     "maxExp": 0,
-    "num": 4
+    "num": 4,
+    "exploreGroup": 1
   },
   {
     "sn": 1010,
@@ -63,7 +68,8 @@
     "pic": "tansuodu-icon-hexinbaoxiang.png",
     "lockPic": "tansuodu-icon-hexinbaoxiang.png",
     "maxExp": 0,
-    "num": 5
+    "num": 5,
+    "exploreGroup": 1
   },
   {
     "sn": 1011,
@@ -74,7 +80,8 @@
     "pic": "tansuodu-icon-renzhisuipian.png",
     "lockPic": "tansuodu-icon-renzhisuipian.png",
     "maxExp": 0,
-    "num": 7
+    "num": 7,
+    "exploreGroup": 1
   },
   {
     "sn": 2002,
@@ -85,7 +92,8 @@
     "pic": "tansuodu-icon-anquanwu.png",
     "lockPic": "tansuodu-icon-anquanwu.png",
     "maxExp": 0,
-    "num": 1
+    "num": 1,
+    "exploreGroup": 2
   },
   {
     "sn": 2004,
@@ -96,7 +104,8 @@
     "pic": "tansuodu-icon-zhongjibaoxiang.png",
     "lockPic": "tansuodu-icon-zhongjibaoxiang.png",
     "maxExp": 0,
-    "num": 3
+    "num": 3,
+    "exploreGroup": 2
   },
   {
     "sn": 2005,
@@ -107,7 +116,8 @@
     "pic": "tansuodu-icon-chujibaoxiang.png",
     "lockPic": "tansuodu-icon-chujibaoxiang.png",
     "maxExp": 0,
-    "num": 2
+    "num": 2,
+    "exploreGroup": 2
   },
   {
     "sn": 2006,
@@ -118,7 +128,8 @@
     "pic": "tansuodu-icon-jinguai-2.png",
     "lockPic": "tansuodu-icon-jinguai-2.png",
     "maxExp": 0,
-    "num": 6
+    "num": 6,
+    "exploreGroup": 2
   },
   {
     "sn": 2009,
@@ -129,7 +140,8 @@
     "pic": "tansuodu-icon-gaojibaoxiang.png",
     "lockPic": "tansuodu-icon-gaojibaoxiang.png",
     "maxExp": 0,
-    "num": 4
+    "num": 4,
+    "exploreGroup": 2
   },
   {
     "sn": 2010,
@@ -140,7 +152,8 @@
     "pic": "tansuodu-icon-hexinbaoxiang.png",
     "lockPic": "tansuodu-icon-hexinbaoxiang.png",
     "maxExp": 0,
-    "num": 5
+    "num": 5,
+    "exploreGroup": 2
   },
   {
     "sn": 2011,
@@ -151,6 +164,175 @@
     "pic": "tansuodu-icon-renzhisuipian.png",
     "lockPic": "tansuodu-icon-renzhisuipian.png",
     "maxExp": 0,
-    "num": 7
+    "num": 7,
+    "exploreGroup": 2
+  },
+  {
+    "sn": 3002,
+    "palaceLogicSn": 3,
+    "type": 2,
+    "name": "安全小屋",
+    "picName": "tansuodu-icon-name-anquanwu-i18n.png",
+    "pic": "tansuodu-icon-anquanwu.png",
+    "lockPic": "tansuodu-icon-anquanwu.png",
+    "maxExp": 0,
+    "num": 1,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 3004,
+    "palaceLogicSn": 3,
+    "type": 4,
+    "name": "中级宝箱",
+    "picName": "tansuodu-icon-name-zhongjibaoxiang-i18n.png",
+    "pic": "tansuodu-icon-zhongjibaoxiang.png",
+    "lockPic": "tansuodu-icon-zhongjibaoxiang.png",
+    "maxExp": 0,
+    "num": 3,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 3005,
+    "palaceLogicSn": 3,
+    "type": 5,
+    "name": "初级宝箱",
+    "picName": "tansuodu-icon-name-chujibaoxiang-i18n.png",
+    "pic": "tansuodu-icon-chujibaoxiang.png",
+    "lockPic": "tansuodu-icon-chujibaoxiang.png",
+    "maxExp": 0,
+    "num": 2,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 3006,
+    "palaceLogicSn": 3,
+    "type": 6,
+    "name": "击杀金怪",
+    "picName": "tansuodu-icon-name-jibaiqiangdi-i18n.png",
+    "pic": "tansuodu-icon-jinguai02.png",
+    "lockPic": "tansuodu-icon-jinguai02.png",
+    "maxExp": 0,
+    "num": 6,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 3009,
+    "palaceLogicSn": 3,
+    "type": 9,
+    "name": "高级宝箱",
+    "picName": "tansuodu-icon-name-gaojibaoxiang-i18n.png",
+    "pic": "tansuodu-icon-gaojibaoxiang.png",
+    "lockPic": "tansuodu-icon-gaojibaoxiang.png",
+    "maxExp": 0,
+    "num": 4,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 3010,
+    "palaceLogicSn": 3,
+    "type": 10,
+    "name": "核心宝箱",
+    "picName": "tansuodu-icon-name-hexinbaoxiang-i18n.png",
+    "pic": "tansuodu-icon-hexinbaoxiang.png",
+    "lockPic": "tansuodu-icon-hexinbaoxiang.png",
+    "maxExp": 0,
+    "num": 5,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 3011,
+    "palaceLogicSn": 3,
+    "type": 11,
+    "name": "视听碎片",
+    "picName": "tansuodu-icon-name-renzhisuipian-i18n.png",
+    "pic": "tansuodu-icon-renzhisuipian.png",
+    "lockPic": "tansuodu-icon-renzhisuipian.png",
+    "maxExp": 0,
+    "num": 7,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 3102,
+    "palaceLogicSn": 3,
+    "type": 2,
+    "name": "安全小屋",
+    "picName": "tansuodu-icon-name-anquanwu-i18n.png",
+    "pic": "tansuodu-icon-anquanwu.png",
+    "lockPic": "tansuodu-icon-anquanwu.png",
+    "maxExp": 0,
+    "num": 1,
+    "exploreGroup": 4
+  },
+  {
+    "sn": 3104,
+    "palaceLogicSn": 3,
+    "type": 4,
+    "name": "中级宝箱",
+    "picName": "tansuodu-icon-name-zhongjibaoxiang-i18n.png",
+    "pic": "tansuodu-icon-zhongjibaoxiang.png",
+    "lockPic": "tansuodu-icon-zhongjibaoxiang.png",
+    "maxExp": 0,
+    "num": 3,
+    "exploreGroup": 4
+  },
+  {
+    "sn": 3105,
+    "palaceLogicSn": 3,
+    "type": 5,
+    "name": "初级宝箱",
+    "picName": "tansuodu-icon-name-chujibaoxiang-i18n.png",
+    "pic": "tansuodu-icon-chujibaoxiang.png",
+    "lockPic": "tansuodu-icon-chujibaoxiang.png",
+    "maxExp": 0,
+    "num": 2,
+    "exploreGroup": 4
+  },
+  {
+    "sn": 3106,
+    "palaceLogicSn": 3,
+    "type": 6,
+    "name": "击杀金怪",
+    "picName": "tansuodu-icon-name-jibaiqiangdi-i18n.png",
+    "pic": "tansuodu-icon-jinguai02.png",
+    "lockPic": "tansuodu-icon-jinguai02.png",
+    "maxExp": 0,
+    "num": 6,
+    "exploreGroup": 4
+  },
+  {
+    "sn": 3109,
+    "palaceLogicSn": 3,
+    "type": 9,
+    "name": "高级宝箱",
+    "picName": "tansuodu-icon-name-gaojibaoxiang-i18n.png",
+    "pic": "tansuodu-icon-gaojibaoxiang.png",
+    "lockPic": "tansuodu-icon-gaojibaoxiang.png",
+    "maxExp": 0,
+    "num": 4,
+    "exploreGroup": 4
+  },
+  {
+    "sn": 3110,
+    "palaceLogicSn": 3,
+    "type": 10,
+    "name": "核心宝箱",
+    "picName": "tansuodu-icon-name-hexinbaoxiang-i18n.png",
+    "pic": "tansuodu-icon-hexinbaoxiang.png",
+    "lockPic": "tansuodu-icon-hexinbaoxiang.png",
+    "maxExp": 0,
+    "num": 5,
+    "exploreGroup": 4
+  },
+  {
+    "sn": 3111,
+    "palaceLogicSn": 3,
+    "type": 11,
+    "name": "视听碎片",
+    "picName": "tansuodu-icon-name-renzhisuipian-i18n.png",
+    "pic": "tansuodu-icon-renzhisuipian.png",
+    "lockPic": "tansuodu-icon-renzhisuipian.png",
+    "maxExp": 0,
+    "num": 7,
+    "exploreGroup": 4
   }
 ]

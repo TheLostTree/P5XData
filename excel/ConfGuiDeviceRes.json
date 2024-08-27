@@ -6,8 +6,8 @@
   },
   {
     "sn": "UI_JumpActUI",
-    "pc_prefab": "PC-UI-gongdian-ACT-01.prefab",
-    "mobile_prefab": "UI-gongdian-ACT-01.prefab"
+    "pc_prefab": "PC-UI-gongdian-ACT-new.prefab",
+    "mobile_prefab": "UI-gongdian-ACT-new.prefab"
   },
   {
     "sn": "UI_GameBaseballView",
@@ -16,6 +16,11 @@
   },
   {
     "sn": "UI_ChatPreviewView",
+    "pc_prefab": "PC-UI-zhujiemian-liaotian.prefab",
+    "mobile_prefab": "UI-zhujiemian-liaotian.prefab"
+  },
+  {
+    "sn": "UI_BattleChatPreviewView",
     "pc_prefab": "PC-UI-zhujiemian-liaotian.prefab",
     "mobile_prefab": "UI-zhujiemian-liaotian.prefab"
   },
@@ -43,16 +48,6 @@
     "sn": "UI_TBPersonaSkillUI",
     "pc_prefab": "PC-UI-zhandou-mianjujineng.prefab",
     "mobile_prefab": "UI-zhandou-mianjujineng.prefab"
-  },
-  {
-    "sn": "UI_StoryToolbar",
-    "pc_prefab": "PC-UI-juqing-kuaijie.prefab",
-    "mobile_prefab": "UI-juqing-kuaijie.prefab"
-  },
-  {
-    "sn": "UI_ScheduleToolbar",
-    "pc_prefab": "PC-UI-juqing-kuaijie.prefab",
-    "mobile_prefab": "UI-juqing-kuaijie.prefab"
   },
   {
     "sn": "UI_GamepadMenuView",
@@ -83,5 +78,10 @@
     "sn": "UI_UnionChatPreviewView",
     "pc_prefab": "PC-UI-zhujiemian-liaotian.prefab",
     "mobile_prefab": "UI-zhujiemian-liaotian.prefab"
+  },
+  {
+    "sn": "UI_FishingControll",
+    "pc_prefab": "PC-UI-diaoyu-caozuo-new-ver1.prefab",
+    "mobile_prefab": "UI-diaoyu-caozuo-new-ver1.prefab"
   }
 ]

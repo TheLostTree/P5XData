@@ -10,7 +10,8 @@
       "wonder_uniform",
       "wonder_uniform",
       "cattle_car1",
-      "joker"
+      "joker",
+      "wonder_uniform_swimsuit2"
     ],
     "modelUI": "wonder",
     "qualityPic": "pinzhi-guaidao-cai.png",
@@ -21,7 +22,7 @@
       0
     ],
     "typeSN": 999,
-    "modelFashionAble": "1,2,3|1,2,3,10,11,12,13|1,2,3,7,10,11,12,13|1,2,3|1,2,3",
+    "modelFashionAble": "1,2,3|1,2,3,10,11,12,13|1,2,3,7,10,11,12,13|1,2,3|1,2,3|1,2,3",
     "leaderName": "",
     "dialogPic": [
       "duihua-joker-guaidao.png",
@@ -136,7 +137,20 @@
       2
     ],
     "gachaResultName": "guaidao-mingzi-chouka-wonder.png",
-    "gachaResultNameFourStars": "guaidao-mingzi-chouka-wonder.png"
+    "gachaResultNameFourStars": "guaidao-mingzi-chouka-wonder.png",
+    "fiveStarPic": "wuqi-shilian-999-2.png",
+    "fourStarPic": "wuqi-shilian-999-3.png",
+    "threeStarPic": "wuqi-shilian-999-1.png",
+    "thiefPic": "fox-generalAttack-wonderH.png",
+    "thiefPos": [
+      361,
+      342
+    ],
+    "collectionThiefPos": [
+      -49,
+      -40
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-11.png"
   },
   {
     "sn": 102,
@@ -267,6 +281,13 @@
       2
     ],
     "gachaResultName": "guaidao-mingzi-chouka-wonder.png",
-    "gachaResultNameFourStars": "guaidao-mingzi-chouka-wonder.png"
+    "gachaResultNameFourStars": "guaidao-mingzi-chouka-wonder.png",
+    "fiveStarPic": "",
+    "fourStarPic": "",
+    "threeStarPic": "",
+    "thiefPic": "",
+    "thiefPos": [],
+    "collectionThiefPos": [],
+    "weaponSelectPic": ""
   }
 ]

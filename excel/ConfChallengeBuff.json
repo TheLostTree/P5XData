@@ -31,9 +31,59 @@
   },
   {
     "sn": 4,
-    "buffName": "照明设施",
-    "buffDesc": "伤害提升5%，高级元素(念核祝咒)伤害额外提升10%",
+    "buffName": "岩层磁暴",
+    "buffDesc": "触发追加效果造成伤害时，为目标添加1层<link=\"dc|171\"><u>『磁能干扰』</u></link>；使用人格面具技能治疗队友时，为随机一个敌方单位添加1层<link=\"dc|171\"><u>『磁能干扰』</u></link>。",
     "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 5,
+    "buffName": "阴阳之力",
+    "buffDesc": "优越怪盗的群体增益技能会额外为所有友方怪盗添加<link=\"dc|175\"><u>『阳之力』</u></link>；屈从怪盗的群体减益技能会额外为所有友方怪盗添加<link=\"dc|176\"><u>『阴之力』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-baopoyaoji01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 6,
+    "buffName": "元素侵袭",
+    "buffDesc": "所有怪盗行动完一轮后，对敌方全体施加一种元素异常，并使其受到的伤害提升10%。",
+    "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 7,
+    "buffName": "神秘祭火",
+    "buffDesc": "解明怪盗对在场怪盗的『属性提升』效果提升至30%。",
+    "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 8,
+    "buffName": "心灵信标",
+    "buffDesc": "任意怪盗释放HIGHLIGHT技能时，使所有同伴获得1层<link=\"dc|189\"><u>『增幅印记』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 9,
+    "buffName": "血祭圣仪",
+    "buffDesc": "友方怪盗消耗自身生命释放技能时，为自己添加4层<link=\"dc|191\"><u>『血之赐福』</u></link>，回合结束时移除1层<link=\"dc|191\"><u>『血之赐福』</u></link>；任意怪盗释放HIGHLIGHT技能时，为所有同伴添加2层<link=\"dc|191\"><u>『血之赐福』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-celiangyi01.png",
     "buffSoleplate": "tianerong-buffbg-cheng.png",
     "buffColor": "#C77A18",
     "buffGroup": 0,

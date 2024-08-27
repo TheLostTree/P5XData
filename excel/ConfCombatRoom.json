@@ -47,7 +47,7 @@
     "funcOpenSn": 301,
     "isShow": 1,
     "npcFunc": [
-      196
+      21900
     ]
   },
   {
@@ -70,6 +70,28 @@
     "isShow": 1,
     "npcFunc": [
       26001
+    ]
+  },
+  {
+    "sn": 8,
+    "unlockPic": "",
+    "lockPic": "",
+    "name": "心之海试炼",
+    "funcOpenSn": 310,
+    "isShow": 1,
+    "npcFunc": [
+      21901
+    ]
+  },
+  {
+    "sn": 9,
+    "unlockPic": "",
+    "lockPic": "zuozhanjidi-xinzhizexing-lock.png",
+    "name": "怪盗秘闻",
+    "funcOpenSn": 342,
+    "isShow": 1,
+    "npcFunc": [
+      60003
     ]
   }
 ]

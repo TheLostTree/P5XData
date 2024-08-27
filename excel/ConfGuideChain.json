@@ -586,9 +586,11 @@
     "gamePadSteps": 0,
     "key": 0,
     "trigger": [
+      6,
       12
     ],
     "triggerValue": [
+      "20607",
       "3901423"
     ],
     "skip": 1
@@ -980,11 +982,9 @@
     "gamePadSteps": 0,
     "key": 1604,
     "trigger": [
-      4,
       20
     ],
     "triggerValue": [
-      "10111",
       "905"
     ],
     "skip": 1
@@ -1468,10 +1468,12 @@
     "gamePadSteps": 0,
     "key": 1921,
     "trigger": [
+      3,
       5,
       10
     ],
     "triggerValue": [
+      "177",
       "10",
       "UI_BattleMeeting"
     ],
@@ -1579,7 +1581,7 @@
   },
   {
     "sn": 200,
-    "switch": 1,
+    "switch": 0,
     "priority": 0,
     "steps": 2001,
     "pcSteps": 2001,
@@ -1590,6 +1592,140 @@
     ],
     "triggerValue": [
       "402"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 201,
+    "switch": 0,
+    "priority": 0,
+    "steps": 2011,
+    "pcSteps": 2011,
+    "gamePadSteps": 0,
+    "key": 2011,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_ActivityBossBattle"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 202,
+    "switch": 1,
+    "priority": 0,
+    "steps": 2021,
+    "pcSteps": 2021,
+    "gamePadSteps": 0,
+    "key": 2021,
+    "trigger": [
+      20
+    ],
+    "triggerValue": [
+      "341"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 203,
+    "switch": 1,
+    "priority": 0,
+    "steps": 2031,
+    "pcSteps": 2031,
+    "gamePadSteps": 0,
+    "key": 2031,
+    "trigger": [
+      2,
+      10
+    ],
+    "triggerValue": [
+      "120868",
+      "UI_EnergyTransferObjectiveOperationView"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 204,
+    "switch": 1,
+    "priority": 0,
+    "steps": 2041,
+    "pcSteps": 2041,
+    "gamePadSteps": 0,
+    "key": 2041,
+    "trigger": [
+      2,
+      10
+    ],
+    "triggerValue": [
+      "120880",
+      "UI_EnergyTransferObjectiveOperationView"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 205,
+    "switch": 1,
+    "priority": 0,
+    "steps": 2051,
+    "pcSteps": 2051,
+    "gamePadSteps": 0,
+    "key": 2051,
+    "trigger": [
+      16
+    ],
+    "triggerValue": [
+      "273"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 206,
+    "switch": 1,
+    "priority": 0,
+    "steps": 2061,
+    "pcSteps": 2061,
+    "gamePadSteps": 0,
+    "key": 2062,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_ShootGameSelectLevelMainView"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 207,
+    "switch": 1,
+    "priority": 0,
+    "steps": 2071,
+    "pcSteps": 2071,
+    "gamePadSteps": 0,
+    "key": 2071,
+    "trigger": [
+      3,
+      10
+    ],
+    "triggerValue": [
+      "206",
+      "UI_ShootGameSelectLevelMainView"
+    ],
+    "skip": 1
+  },
+  {
+    "sn": 208,
+    "switch": 1,
+    "priority": 0,
+    "steps": 2081,
+    "pcSteps": 2081,
+    "gamePadSteps": 0,
+    "key": 2081,
+    "trigger": [
+      20
+    ],
+    "triggerValue": [
+      "342"
     ],
     "skip": 1
   },

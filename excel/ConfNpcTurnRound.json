@@ -416,6 +416,22 @@
     ]
   },
   {
+    "sn": 113,
+    "modelSn": "kii_uniform_shoes",
+    "trunRoundAct": [
+      "kii_uniform@zuozhuanxiang45",
+      "kii_uniform@zuozhuanxiang135",
+      "kii_uniform@youzhuanxiang45",
+      "kii_uniform@youzhuanxiang135"
+    ],
+    "trunRoundTime": [
+      "1.333",
+      "1.677",
+      "1.333",
+      "1.667"
+    ]
+  },
+  {
     "sn": 114,
     "modelSn": "marian_uniform",
     "trunRoundAct": [
@@ -429,6 +445,166 @@
       "3.267",
       "2.267",
       "3.033"
+    ]
+  },
+  {
+    "sn": 115,
+    "modelSn": "fox_uniform",
+    "trunRoundAct": [
+      "fox_uniform@zuozhuanxiang45",
+      "fox_uniform@zuozhuanxiang135",
+      "fox_uniform@youzhuanxiang45",
+      "fox_uniform@youzhuanxiang135"
+    ],
+    "trunRoundTime": [
+      "1.333",
+      "2.000",
+      "1.333",
+      "2.000"
+    ]
+  },
+  {
+    "sn": 116,
+    "modelSn": "why_uniform",
+    "trunRoundAct": [
+      "why_normal@zuozhuanxiang45",
+      "why_normal@zuozhuanxiang135",
+      "why_normal@youzhuanxiang45",
+      "why_normal@youzhuanxiang135"
+    ],
+    "trunRoundTime": [
+      "1.067",
+      "1.567",
+      "1.067",
+      "1.567"
+    ]
+  },
+  {
+    "sn": 117,
+    "modelSn": "queen_uniform",
+    "trunRoundAct": [
+      "queen_uniform@zuozhuanxiang45",
+      "queen_uniform@zuozhuanxiang135",
+      "queen_uniform@youzhuanxiang45",
+      "queen_uniform@youzhuanxiang135"
+    ],
+    "trunRoundTime": [
+      "1.667",
+      "2.667",
+      "1.667",
+      "2.667"
+    ]
+  },
+  {
+    "sn": 118,
+    "modelSn": "dorothy_uniform",
+    "trunRoundAct": [
+      "dorothy_normal@zuozhuanxiang45",
+      "dorothy_normal@zuozhuanxiang135",
+      "dorothy_normal@youzhuanxiang45",
+      "dorothy_normal@youzhuanxiang135"
+    ],
+    "trunRoundTime": [
+      "1.167",
+      "1.667",
+      "1.167",
+      "1.6"
+    ]
+  },
+  {
+    "sn": 119,
+    "modelSn": "closer_uniform_swimsuit",
+    "trunRoundAct": [
+      "closer_uniform@zuozhuanxiang45",
+      "closer_uniform@zuozhuanxiang135",
+      "closer_uniform@youzhuanxiang45",
+      "closer_uniform@youzhuanxiang135"
+    ],
+    "trunRoundTime": [
+      "1.333",
+      "1.667",
+      "1.333",
+      "1.667"
+    ]
+  },
+  {
+    "sn": 120,
+    "modelSn": "wind_uniform_swimsuit",
+    "trunRoundAct": [
+      "wind_uniform_swimsuit@zuozhuanxiang45_story",
+      "wind_uniform_swimsuit@zouzhuanxiang135_story",
+      "wind_uniform_swimsuit@youzhuanxiang45_story",
+      "wind_uniform_swimsuit@youzhuanxiang135_story"
+    ],
+    "trunRoundTime": [
+      "1.333",
+      "2.467",
+      "1.333",
+      "2.500"
+    ]
+  },
+  {
+    "sn": 121,
+    "modelSn": "n_zhushou_swimsuit",
+    "trunRoundAct": [
+      "n_zhushou_swimsuit@zuozhuanxiang45",
+      "n_zhushou_swimsuit@zuozhuanxiang135",
+      "n_zhushou_swimsuit@youzhuanxiang45",
+      "n_zhushou_swimsuit@youzhuanxiang135"
+    ],
+    "trunRoundTime": [
+      "1.333",
+      "1.667",
+      "1.333",
+      "1.667"
+    ]
+  },
+  {
+    "sn": 122,
+    "modelSn": "soy_uniform_swimsuit",
+    "trunRoundAct": [
+      "soy_uniform@zuozhuanxiang45",
+      "soy_uniform@zuozhuanxiang135",
+      "soy_uniform@youzhuanxiang45",
+      "soy_uniform@youzhuanxiang135"
+    ],
+    "trunRoundTime": [
+      "1.433",
+      "1.500",
+      "1.455",
+      "1.867"
+    ]
+  },
+  {
+    "sn": 201,
+    "modelSn": "npc_sb_caozuoyuan",
+    "trunRoundAct": [
+      "npc_sb_caozuoyuan@zuozhuanxiang45",
+      "npc_sb_caozuoyuan@zuozhuanxiang135",
+      "npc_sb_caozuoyuan@youzhuanxiang45",
+      "npc_sb_caozuoyuan@youzhuanxiang135"
+    ],
+    "trunRoundTime": [
+      "1.033",
+      "1.6",
+      "1.067",
+      "1.567"
+    ]
+  },
+  {
+    "sn": 202,
+    "modelSn": "npc_sb_weixiugong",
+    "trunRoundAct": [
+      "npc_sb_weixiugong@zuozhuanxiang45",
+      "npc_sb_weixiugong@zuozhuanxiang135",
+      "npc_sb_weixiugong@youzhuanxiang45",
+      "npc_sb_weixiugong@youzhuanxiang135"
+    ],
+    "trunRoundTime": [
+      "1.033",
+      "1.6",
+      "1.067",
+      "1.433"
     ]
   }
 ]

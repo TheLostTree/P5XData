@@ -1,0 +1,38 @@
+[
+  {
+    "sn": 1,
+    "specialEnergyUI": "UI-zhandou-chess-buff.prefab",
+    "functionName": "部署值：",
+    "specialEnergyMode": 1,
+    "progressDetails": "1、友方怪盗回合结束时，获得3点<color=#FF0000>「部署值」</color>。\n2、<color=#FF0000>「部署值」</color>达到20点时，自动消耗20点<color=#FF0000>「部署值」</color>派遣1台<color=#FF0000>「自爆机器人」</color>和1架<color=#FF0000>「战斗无人机」</color>（可根据携带情况增加数量）对敌方发动攻击。\n3、每个<color=#FF0000>「战术芯片」</color>都有特定的额外效果。",
+    "isBeyondUpperLimit": 1,
+    "UpperLimit": 20,
+    "EnergyInitial": 0,
+    "isClick": 1,
+    "progressName": "<color=#FF0000>「战术芯片」</color>"
+  },
+  {
+    "sn": 2,
+    "specialEnergyUI": "UI-zhandou-roguebuff.prefab",
+    "functionName": "属性烙印：",
+    "specialEnergyMode": 1,
+    "progressDetails": "1、怪盗使用技能造成伤害后，会使自身获得1个对应的<color=#FF0000>「属性烙印」</color>。\n2、我方总<color=#FF0000>「属性烙印」</color>数量达到7时，会清除全部<color=#FF0000>「属性烙印」</color>并触发<color=#FF0000>「蚀刻星陨」</color>：对随机敌人共造成7段万能属性伤害，同一敌人受到多段伤害会衰减。",
+    "isBeyondUpperLimit": 1,
+    "UpperLimit": 7,
+    "EnergyInitial": 0,
+    "isClick": 1,
+    "progressName": "<color=#FF0000>「蚀刻星陨」</color>"
+  },
+  {
+    "sn": 3,
+    "specialEnergyUI": "",
+    "functionName": "能量值",
+    "specialEnergyMode": 1,
+    "progressDetails": "",
+    "isBeyondUpperLimit": 1,
+    "UpperLimit": 100,
+    "EnergyInitial": 0,
+    "isClick": 0,
+    "progressName": ""
+  }
+]

@@ -4,8 +4,8 @@
     "name": "坂本龙司",
     "lastName": "战车",
     "isOpen": 1,
-    "thiefSort": 7,
-    "lockSort": 21,
+    "thiefSort": 2003,
+    "lockSort": 4003,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1011,
@@ -50,6 +50,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -322,15 +323,28 @@
       109,
       107
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-1-2.png",
+    "fourStarPic": "wuqi-shilian-1-3.png",
+    "threeStarPic": "wuqi-shilian-1-1.png",
+    "thiefPic": "fox-generalAttack-longsiH.png",
+    "thiefPos": [
+      531,
+      327
+    ],
+    "collectionThiefPos": [
+      -9,
+      -38
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-4.png"
   },
   {
     "sn": 1021,
     "name": "摩尔加纳",
     "lastName": "魔术师",
     "isOpen": 1,
-    "thiefSort": 6,
-    "lockSort": 20,
+    "thiefSort": 2002,
+    "lockSort": 4002,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1021,
@@ -375,6 +389,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -645,15 +660,28 @@
       1,
       102
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-2-2.png",
+    "fourStarPic": "wuqi-shilian-2-3.png",
+    "threeStarPic": "wuqi-shilian-2-1.png",
+    "thiefPic": "fox-generalAttack-monaH.png",
+    "thiefPos": [
+      157,
+      287
+    ],
+    "collectionThiefPos": [
+      -62,
+      -12
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-2.png"
   },
   {
     "sn": 1031,
     "name": "新井素羽",
     "lastName": "力量",
     "isOpen": 1,
-    "thiefSort": 15,
-    "lockSort": 2,
+    "thiefSort": 3102,
+    "lockSort": 1102,
     "thiefType": 1,
     "gradeInitial": 5,
     "personaInitial": 1031,
@@ -698,6 +726,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -713,7 +742,7 @@
       118.6,
       -20.47
     ],
-    "Story": "就读于己刮学园的高中二年级少女，主角的同班同学。\n体育全能，性格直爽开朗，体贴他人，在校内广受男女学生欢迎。\n但本人一直被年幼时某段不愉快的回忆所困扰。\n因为某个事件觉醒了人格面具操控能力。\n代号是「CLOSER」。\n初始人格面具是「阿尔维达」。",
+    "Story": "就读于己刮学园的高中二年级少女。主角的同班同学。\n性格直爽开朗，体贴他人，体育全能，在校内广受男女学生欢迎。\n但本人一直被年幼时某段心灵创伤所困扰。\n因为某个事件觉醒了人格面具操控能力。\n代号是「CLOSER」。\n初始人格面具是「阿尔维达」。",
     "showSound": "sys13_001_1",
     "weaponenter_sound": "sys13_003_1",
     "thiefchange_sound": "sys13_003_1",
@@ -963,7 +992,7 @@
       291
     ],
     "belongGacha": 2,
-    "gachaQuestLimit": 10441,
+    "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 50,
     "commendSn": [
@@ -971,15 +1000,369 @@
       111,
       113
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-3-2.png",
+    "fourStarPic": "wuqi-shilian-3-3.png",
+    "threeStarPic": "wuqi-shilian-3-1.png",
+    "thiefPic": "fox-generalAttack-suyuH.png",
+    "thiefPos": [
+      258,
+      222
+    ],
+    "collectionThiefPos": [
+      -41,
+      -37
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-14.png"
+  },
+  {
+    "sn": 1032,
+    "name": "新井素羽·夏日",
+    "lastName": "力量",
+    "isOpen": 1,
+    "thiefSort": 900,
+    "lockSort": 1500,
+    "thiefType": 1,
+    "gradeInitial": 6,
+    "personaInitial": 1032,
+    "clipItem": 301032,
+    "typeSN": 3,
+    "model": "closer_thief_swimsuit",
+    "modelUI": "closer_thief_swimsuit",
+    "weaponInitial": 210311,
+    "cognitionType": 2,
+    "qualityPic": "pinzhi-guaidao-jin.png",
+    "namePic": "Tongyong-mingzi-26-i18n.png",
+    "namesortPic": "",
+    "nameForParty": "zhenrong-mingzi-6.png",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-closerS-new.png",
+    "zhenrongPersona": "zhenrong-lihui-closerS-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      7,
+      -15,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      74,
+      458,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-closerS.png",
+    "jinjieThiefpos": [
+      -26,
+      -226,
+      0
+    ],
+    "jinjieThiefScale": 0.68,
+    "thiefEnterTL": "TL_UI_Thief_closer_swim",
+    "equipEnterTL": "TL_UI_WeaponEnter_closer",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter_noir",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter_noir",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickIsAlpha": 0,
+    "trickShowUIDelay": 0,
+    "trickTL": "",
+    "supportInTLtype": 0,
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "trickScene": "",
+    "trickTimeline": "",
+    "trickTimelineAuto": "",
+    "trickTLSimplified": "",
+    "trickTimelineSimplified": "",
+    "cvName": "本渡枫",
+    "chcvName": "朱雀橙",
+    "cvNamepos": [
+      -37.5,
+      118.6,
+      -20.47
+    ],
+    "Story": "就读于己刮学园的高中二年级少女。主角的同班同学。\n性格直爽开朗，体贴他人，体育全能，在校内广受男女学生欢迎。\n克服过去的创伤，她穿着泳衣奔跑在夏日的海边。\n她炙热又快乐的青春，才刚刚开始。\n代号是「CLOSER」。\n初始人格面具是「阿尔维达」。",
+    "showSound": "VO_Sys_Thief_1SCloser_01",
+    "weaponenter_sound": "VO_Sys_Weapon_1SCloser_01",
+    "thiefchange_sound": "VO_Sys_Weapon_1SCloser_01",
+    "thiefbattle_sound": "VO_Btl_1SCloser_BattleStart_01",
+    "cardenter_sound": "VO_Sys_Revelation_1SCloser_01",
+    "levelup_sound": "VO_Sys_LevelUp_1SCloser_01",
+    "levelupWeapon_sound": "VO_Sys_WeaponUp_1SCloser_01",
+    "breach_sound": "VO_Sys_EnergyUp_1SCloser_01",
+    "weaponchange_sound": "VO_Sys_WeaponChange_1SCloser_01",
+    "growth_sound": "VO_Sys_GrowUp_1SCloser_01",
+    "thiefback_sound": "VO_Btl_1SCloser_BattleStart_01",
+    "gacha_sound": [],
+    "chat": "1251",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -1.67,
+      0.02,
+      2.29
+    ],
+    "qishiRotation": [
+      0,
+      0,
+      0
+    ],
+    "collisionThief": [
+      0,
+      0,
+      0.23
+    ],
+    "collisionThiefB": [
+      -0.15,
+      0,
+      -0.12
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-001.png",
+    "readyPic": "guaidao-kapai-closerS-new.png",
+    "readyShadowPic": "kamian-2-2.png",
+    "gachaPic": "guaidao-kapai-closerS-new.png",
+    "gachaBigPic": "lihui-guaidao-closerS.png",
+    "thiefBigPicPos": [
+      91,
+      -124,
+      0
+    ],
+    "thiefBigPicScale": 0.84,
+    "thiefGrowthPicPos": [
+      91,
+      -124,
+      0
+    ],
+    "thiefGrowthPicScale": 0.84,
+    "gachaResultBg": "lihui-guaidao-closerS-shilian.png",
+    "gachaResultPic": "lihui-guaidao-closerS-2.png",
+    "gachaResultPicOffset": [
+      0.04,
+      0.09
+    ],
+    "gachaResultPicTiling": [
+      1,
+      1
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaResultPicAdapter": [
+      1,
+      1.13
+    ],
+    "gachaResultMask": "guaidao-mianjuicon-xinjingsuyu2.png",
+    "gachaResultName": "guaidao-mingzi-chouka-closer.png",
+    "gachaResultNameFourStars": "guaidao-mingzi-chouka-closer2.png",
+    "gachaResultFiveStarsEffect": "gacha_result10_closerS.prefab",
+    "gachaNamePic": "Tongyong-mingzi-26-i18n.png",
+    "gachaCode": "guaidao-daihao-xinjingsuyu.png",
+    "gachaCodePos": [
+      0,
+      -18.6,
+      8.43
+    ],
+    "gachaMask": "guaidao-mianjuicon-xinjingsuyu2.png",
+    "fiveStarLinesOne": "",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-peiyang-daihao-closer.png",
+    "thiefCodePos": [
+      -16.6,
+      -12.1,
+      -1.13
+    ],
+    "thiefNamePos": [
+      -209,
+      194,
+      0
+    ],
+    "littlePic": "item-501031.png",
+    "gradePic": "noir-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-31.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
+    ],
+    "awakeItemCount": [
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
+    ],
+    "awakeProperty": [
+      [
+        "241:113.14",
+        "261:30.57",
+        "271:15.62",
+        "243:0.0415"
+      ],
+      [
+        "241:226.28",
+        "261:61.14",
+        "271:31.24",
+        "243:0.083"
+      ],
+      [
+        "241:339.42",
+        "261:91.71",
+        "271:46.86",
+        "243:0.1245"
+      ],
+      [
+        "241:452.56",
+        "261:122.28",
+        "271:62.48",
+        "243:0.166"
+      ],
+      [
+        "241:565.7",
+        "261:152.85",
+        "271:78.1",
+        "243:0.2075"
+      ],
+      [
+        "241:678.84",
+        "261:183.42",
+        "271:93.72",
+        "243:0.249"
+      ],
+      [
+        "241:791.98",
+        "261:213.99",
+        "271:109.34",
+        "243:0.2905"
+      ]
+    ],
+    "awakeSkill": [
+      103232,
+      103231
+    ],
+    "awakeAward": [
+      238031,
+      238001,
+      239031,
+      238001,
+      0,
+      238001,
+      0
+    ],
+    "levelAward": [
+      [
+        20,
+        238032
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239032
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
+      ]
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      103201
+    ],
+    "gunSkill": 103261,
+    "gunBullets": 7,
+    "gunAccuracy": 0.96,
+    "gunCritical": 0.0595,
+    "resetPosition": 1,
+    "cardCommend": [
+      [
+        2011,
+        10
+      ],
+      [
+        2003,
+        6
+      ]
+    ],
+    "cardCommendMainAttr": [
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        281,
+        291
+      ],
+      [
+        243
+      ]
+    ],
+    "cardCommendSecondAttr": [
+      411,
+      243,
+      281,
+      291
+    ],
+    "belongGacha": 2,
+    "gachaQuestLimit": 0,
+    "saferoomShowType": 3,
+    "collectionExp": 200,
+    "commendSn": [
+      126
+    ],
+    "testThiefIcon": "renzhimoni-yeqian-closers.png",
+    "fiveStarPic": "wuqi-shilian-3-2-2.png",
+    "fourStarPic": "wuqi-shilian-3-3-2.png",
+    "threeStarPic": "wuqi-shilian-3-1-2.png",
+    "thiefPic": "fox-generalAttack-closerSH.png",
+    "thiefPos": [
+      425,
+      198
+    ],
+    "collectionThiefPos": [
+      -17,
+      -44
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-31.png"
   },
   {
     "sn": 1041,
     "name": "路菲尔",
     "lastName": "希望",
     "isOpen": 1,
-    "thiefSort": 14,
-    "lockSort": 1,
+    "thiefSort": 3101,
+    "lockSort": 1101,
     "thiefType": 1,
     "gradeInitial": 5,
     "personaInitial": 1041,
@@ -1024,6 +1407,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -1039,7 +1423,7 @@
       128.2,
       -20.47
     ],
-    "Story": "以猫头鹰的形象出现在主角面前的谜之生物。\n会说人类的语言，能够变身成送信车的模样。\n拥有丰富的异世界知识，遇事冷静，稳重自持，是非常靠得住的好伙伴。\n代号是「CATTLE」。\n初始人格面具是「罗布罗伊」。",
+    "Story": "以猫头鹰的形象出现在主角面前的谜之生物。\n会说人类的语言，机缘巧合下开始与主人公的同居生活。\n拥有丰富的异世界知识，遇事冷静，但偶尔也会使用过时的语言让周围的人感到困惑。\n平时藏身于主人公的背包中，是能给出准确建议的好伙伴。\n代号是「CATTLE」。\n初始人格面具是「罗布罗伊」。",
     "showSound": "sys12_001_1",
     "weaponenter_sound": "sys12_003_1",
     "thiefchange_sound": "sys12_003_1",
@@ -1288,22 +1672,35 @@
       243
     ],
     "belongGacha": 2,
-    "gachaQuestLimit": 10075,
+    "gachaQuestLimit": 0,
     "saferoomShowType": 2,
     "collectionExp": 50,
     "commendSn": [
       105,
       110
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-4-2.png",
+    "fourStarPic": "wuqi-shilian-4-3.png",
+    "threeStarPic": "wuqi-shilian-4-1.png",
+    "thiefPic": "fox-generalAttack-cattleH.png",
+    "thiefPos": [
+      288,
+      423
+    ],
+    "collectionThiefPos": [
+      -38,
+      12
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-15.png"
   },
   {
     "sn": 1051,
     "name": "多祢村理子",
     "lastName": "",
-    "isOpen": 0,
-    "thiefSort": 17,
-    "lockSort": 4,
+    "isOpen": 1,
+    "thiefSort": 3104,
+    "lockSort": 1104,
     "thiefType": 2,
     "gradeInitial": 5,
     "personaInitial": 1051,
@@ -1318,14 +1715,14 @@
     "namesortPic": "",
     "nameForParty": "",
     "weaponIcon": "guaidao02-zhuangbei02.png",
-    "zhenrongThief": "zhenrong-lihui-joker-new.png",
-    "zhenrongPersona": "zhenrong-lihui-joker-p-new.png",
+    "zhenrongThief": "zhenrong-lihui-wind-new.png",
+    "zhenrongPersona": "zhenrong-lihui-wind-p-new.png",
     "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
     "zhenrongThiefpos": [],
     "zhenrongThiefScale": 1,
     "zhenrongPersonapos": [],
     "zhenrongPersonaScale": 1,
-    "zhenronglistThief": "touxiang-guaidaofu-joker.png",
+    "zhenronglistThief": "touxiang-guaidaofu-wind.png",
     "jinjieThiefpos": [
       -54,
       -293,
@@ -1339,29 +1736,30 @@
     "cardEnterTL": "TL_UI_CardEnter",
     "trickIsAlpha": 1,
     "trickShowUIDelay": 0,
-    "trickTL": "TL_skill_blank_hit.prefab",
+    "trickTL": "TL_wind_HighlightIn.prefab",
+    "supportInTLtype": 1,
     "trickstart": "Okyann_skill_1.usm",
     "trickstand": "Okyann_skill_2.usm",
     "trickend": "Okyann_skill_3.usm",
-    "trickScene": "Highlight_scene",
-    "trickTimeline": "TL_okyann_skill_01_01.prefab",
-    "trickTimelineAuto": "TL_okyann_skill_01_01_auto.prefab",
-    "trickTLSimplified": "TL_skill_blank_hit.prefab",
-    "trickTimelineSimplified": "TL_okyann_skill_01_01_auto.prefab",
+    "trickScene": "HighLight_scene_wind",
+    "trickTimeline": "TL_wind_skill_01.prefab",
+    "trickTimelineAuto": "TL_Wind_support_auto.prefab",
+    "trickTLSimplified": "TL_wind_HighlightIn.prefab",
+    "trickTimelineSimplified": "TL_Wind_support_simplified.prefab",
     "cvName": "种崎敦美",
     "chcvName": "秦紫翼",
     "cvNamepos": [],
-    "Story": "",
+    "Story": "私立己刮学园高中的三年级学生，担任风纪委员长一职。\n日本梅类原料加工行业头部大企业的社长千金，举止端庄、学业优异的好学生，在校内备受尊敬。\n擅长判断局势，遇到危险时也能以准确的分析引导同伴。\n代号是「WIND」。\n初始人格面具是「千代女」。",
     "showSound": "sys15_001_1",
     "weaponenter_sound": "sys15_003_1",
     "thiefchange_sound": "sys15_003_1",
     "thiefbattle_sound": "sys15_014_1",
     "cardenter_sound": "sys15_004_1",
     "levelup_sound": "sys15_012_1",
-    "levelupWeapon_sound": "",
+    "levelupWeapon_sound": "VO_Sys_WeaponChange_Wind_01",
     "breach_sound": "sys15_013_1",
     "weaponchange_sound": "sys15_011_1",
-    "growth_sound": "sys15_012_1",
+    "growth_sound": "VO_Sys_GrowUp_Wind_01",
     "thiefback_sound": "sys15_014_1",
     "gacha_sound": [],
     "chat": "1051",
@@ -1392,35 +1790,38 @@
       -1.25
     ],
     "bigPic": "kapai-002.png",
-    "readyPic": "guaidao-kapai-joker-new.png",
+    "readyPic": "guaidao-kapai-wind-new.png",
     "readyShadowPic": "kamian-3-2.png",
-    "gachaPic": "guaidao-kapai-joker-new.png",
-    "gachaBigPic": "lihui-guaidao-joker.png",
+    "gachaPic": "guaidao-kapai-wind-new.png",
+    "gachaBigPic": "lihui-guaidao-wind.png",
     "thiefBigPicPos": [
-      -254,
-      -472,
+      -155,
+      -352,
       0
     ],
-    "thiefBigPicScale": 0.8,
+    "thiefBigPicScale": 0.76,
     "thiefGrowthPicPos": [
-      -254,
-      -472,
+      -155,
+      -352,
       0
     ],
-    "thiefGrowthPicScale": 0.8,
-    "gachaResultBg": "lihui-guaidao-joker-shilian.png",
-    "gachaResultPic": "lihui-guaidao-joker.png",
+    "thiefGrowthPicScale": 0.76,
+    "gachaResultBg": "lihui-guaidao-wind-shilian.png",
+    "gachaResultPic": "lihui-guaidao-wind.png",
     "gachaResultPicOffset": [
-      0.487,
-      0.424
+      0.55,
+      0.53
     ],
     "gachaResultPicTiling": [
-      0.421,
-      0.704
+      1,
+      1
     ],
     "gachaResultPicRotation": 0,
-    "gachaResultPicAdapter": [],
-    "gachaResultMask": "guaidao-mianjuicon-joker2.png",
+    "gachaResultPicAdapter": [
+      1,
+      1.54
+    ],
+    "gachaResultMask": "guaidao-mianjuicon-wind2.png",
     "gachaResultName": "guaidao-mingzi-chouka-wind.png",
     "gachaResultNameFourStars": "guaidao-mingzi-chouka-wind2.png",
     "gachaResultFiveStarsEffect": "",
@@ -1431,15 +1832,15 @@
       -26.3,
       3.44
     ],
-    "gachaMask": "guaidao-mianjuicon-joker.png",
+    "gachaMask": "guaidao-mianjuicon-wind2.png",
     "fiveStarLinesOne": "",
     "fiveStarLinesTwo": "",
     "thiefCode": "guaidao-peiyang-daihao-wind.png",
     "thiefCodePos": [],
     "thiefNamePos": [],
-    "littlePic": "item-501261.png",
+    "littlePic": "item-501051.png",
     "gradePic": "mona-generalAttack.png",
-    "icon": "Tongyong-touxiang-A-6.png",
+    "icon": "Tongyong-touxiang-A-29.png",
     "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
     "awakeItem": [
       "302201",
@@ -1461,51 +1862,51 @@
     ],
     "awakeProperty": [
       [
-        "241:77.14",
-        "261:21.43",
-        "271:14.29",
-        "263:0.0312"
+        "241:74.57",
+        "261:22.29",
+        "271:13",
+        "341:2.0234"
       ],
       [
-        "241:154.28",
-        "261:42.86",
-        "271:28.58",
-        "263:0.0624"
+        "241:149.14",
+        "261:44.58",
+        "271:26",
+        "341:4.0468"
       ],
       [
-        "241:231.42",
-        "261:64.29",
-        "271:42.87",
-        "263:0.0936"
+        "241:223.71",
+        "261:66.87",
+        "271:39",
+        "341:6.0702"
       ],
       [
-        "241:308.56",
-        "261:85.72",
-        "271:57.16",
-        "263:0.1248"
+        "241:298.28",
+        "261:89.16",
+        "271:52",
+        "341:8.0936"
       ],
       [
-        "241:385.7",
-        "261:107.15",
-        "271:71.45",
-        "263:0.156"
+        "241:372.85",
+        "261:111.45",
+        "271:65",
+        "341:10.117"
       ],
       [
-        "241:462.84",
-        "261:128.58",
-        "271:85.74",
-        "263:0.1872"
+        "241:447.42",
+        "261:133.74",
+        "271:78",
+        "341:12.1404"
       ],
       [
-        "241:539.98",
-        "261:150.01",
-        "271:100.03",
-        "263:0.2184"
+        "241:521.99",
+        "261:156.03",
+        "271:91",
+        "341:14.1638"
       ]
     ],
     "awakeSkill": [
-      127131,
-      127132
+      105131,
+      105132
     ],
     "awakeAward": [
       238051,
@@ -1555,7 +1956,8 @@
     "resetPosition": 0,
     "cardCommend": [
       [
-        0
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
@@ -1569,32 +1971,50 @@
         -1
       ],
       [
-        -1
+        263
       ],
       [
-        -1
+        263
       ],
       [
-        -1
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      -1
+      263,
+      243,
+      273
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 3,
-    "collectionExp": 0,
-    "commendSn": [],
-    "testThiefInfo": ""
+    "collectionExp": 50,
+    "commendSn": [
+      124,
+      125
+    ],
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-5-2.png",
+    "fourStarPic": "wuqi-shilian-5-3.png",
+    "threeStarPic": "wuqi-shilian-5-1.png",
+    "thiefPic": "fox-generalAttack-windH.png",
+    "thiefPos": [
+      602,
+      125
+    ],
+    "collectionThiefPos": [
+      14,
+      -72
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-29.png"
   },
   {
     "sn": 1061,
     "name": "加纳骏",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 16,
-    "lockSort": 3,
+    "thiefSort": 3103,
+    "lockSort": 1103,
     "thiefType": 1,
     "gradeInitial": 5,
     "personaInitial": 1061,
@@ -1639,6 +2059,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -1654,7 +2075,7 @@
       128.2,
       -20.47
     ],
-    "Story": "就读于己刮学园的高中二年级少年。\n不善言辞，也不擅与人交际，几乎没有年龄相仿的朋友。\n性格勤奋，重情重义。目标是当上厨师，为此初中毕业后曾在老牌拉面店修习厨艺。\n因为某个事件觉醒了人格面具操控能力。\n代号是「SOY」。\n初始人格面具是「芒德兰」。",
+    "Story": "就读于己刮学园的高中二年级少年。\n不善言辞，也不擅与人交际，年龄相仿的朋友很少。\n实则是重情重义之人，十分仰慕于年少时曾照顾过他的老牌拉面店师傅。\n以成为料理人为目标修行，却遭遇不得不放弃的境况。\n因为某个事件觉醒了人格面具操控能力。\n代号是「SOY」。\n初始人格面具是「芒德兰」。",
     "showSound": "sys14_001_1",
     "weaponenter_sound": "sys14_003_1",
     "thiefchange_sound": "sys14_003_1",
@@ -1901,21 +2322,34 @@
       273
     ],
     "belongGacha": 2,
-    "gachaQuestLimit": 11895,
+    "gachaQuestLimit": 0,
     "saferoomShowType": 3,
     "collectionExp": 50,
     "commendSn": [
       2
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-6-2.png",
+    "fourStarPic": "wuqi-shilian-6-3.png",
+    "threeStarPic": "wuqi-shilian-6-1.png",
+    "thiefPic": "fox-generalAttack-soyH.png",
+    "thiefPos": [
+      774,
+      274
+    ],
+    "collectionThiefPos": [
+      40,
+      -38
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-18.png"
   },
   {
     "sn": 1071,
     "name": "神山岭央",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 27,
-    "lockSort": 14,
+    "thiefSort": 4009,
+    "lockSort": 2009,
     "thiefType": 1,
     "gradeInitial": 5,
     "personaInitial": 1071,
@@ -1960,6 +2394,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -1975,7 +2410,7 @@
       118.6,
       -20.47
     ],
-    "Story": "准备去动作演员培训学校进修的少年。\n幼时沉迷于特摄剧，憧憬着其中的英雄，立志成为特摄演员。\n乐观积极，在父母规定的期限内努力为了梦想而奔走。\n代号是「LEON」。\n初始人格面具Ⅱ是「厄律忒亚」。",
+    "Story": "梦想成为特摄演员的19岁青年。\n幼时沉迷于特摄剧『羽人』系列，开始立志走上特摄演员之路。\n现在寄居在富山佳代的家里。\n代号是「LEON」。\n初始人格面具Ⅱ是「厄律忒亚」。",
     "showSound": "sys23_001_1",
     "weaponenter_sound": "sys23_003_1",
     "thiefchange_sound": "sys23_003_1",
@@ -2230,15 +2665,28 @@
       109,
       108
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-7-2.png",
+    "fourStarPic": "wuqi-shilian-7-3.png",
+    "threeStarPic": "wuqi-shilian-7-1.png",
+    "thiefPic": "fox-generalAttack-leoH.png",
+    "thiefPos": [
+      468,
+      179
+    ],
+    "collectionThiefPos": [
+      -17,
+      -49
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-16.png"
   },
   {
     "sn": 1081,
     "name": "富山佳代",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 19,
-    "lockSort": 6,
+    "thiefSort": 4002,
+    "lockSort": 2002,
     "thiefType": 2,
     "gradeInitial": 5,
     "personaInitial": 1081,
@@ -2283,6 +2731,7 @@
     "trickIsAlpha": 1,
     "trickShowUIDelay": 0,
     "trickTL": "TL_okyann_HighlightIn.prefab",
+    "supportInTLtype": 1,
     "trickstart": "Okyann_skill_1.usm",
     "trickstand": "Okyann_skill_2.usm",
     "trickend": "Okyann_skill_3.usm",
@@ -2298,7 +2747,7 @@
       118.6,
       -20.47
     ],
-    "Story": "44岁的全职主妇，主人公的邻居，也认识主人公的父母。\n年轻时任职设计师小有名气，有了孩子后，选择回归家庭。如今虽然家庭和睦生活无忧，但心里似乎有些空虚。\n性格开朗，打扮优雅时尚。但偶尔也会暴露出年轻辣妹时代的口癖。\n代号是「OKYANN」。\n初始人格面具Ⅱ是「克丽奥多拉」。",
+    "Story": "44岁的全职主妇。主人公的邻居，以前两个家庭也有来往。\n年轻时任职造型师，结婚后就此隐退回归家庭。\n如今虽然家庭和睦生活无忧，但心里似乎有些空虚。\n偶尔会暴露出年轻辣妹时代的口头禅。\n代号是「OKYANN」。\n初始人格面具Ⅱ是「克丽奥多拉」。",
     "showSound": "sys34_001_1",
     "weaponenter_sound": "sys34_003_1",
     "thiefchange_sound": "sys34_003_1",
@@ -2547,15 +2996,28 @@
       3,
       105
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-8-2.png",
+    "fourStarPic": "wuqi-shilian-8-3.png",
+    "threeStarPic": "wuqi-shilian-8-1.png",
+    "thiefPic": "fox-generalAttack-okyannH.png",
+    "thiefPos": [
+      564,
+      408
+    ],
+    "collectionThiefPos": [
+      0,
+      -16
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-20.png"
   },
   {
     "sn": 1091,
     "name": "李瑶铃",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 1,
-    "lockSort": 15,
+    "thiefSort": 1001,
+    "lockSort": 3001,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1091,
@@ -2600,6 +3062,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -2615,7 +3078,7 @@
       128.2,
       -20.47
     ],
-    "Story": "大学一年级的少女，出生于中国四川，作为留学生来到日本。\n性格开朗大方，是一个言行跳脱的乐天派，有时也会露出孩子气的一面。\n因为迟迟找不到人生目标而陷入焦躁不安，正在各种新鲜体验中积极寻找答案。\n代号是「RIN」。\n初始人格面具Ⅱ是「孟婆」。",
+    "Story": "大学一年级的少女，出生于中国四川，以留学生的身份来到日本。\n性格天真烂漫、无论对谁都笑颜以待的乐天派，有时也会露出孩子气的一面。\n想通过留学获得些什么，但迟迟还没有找到目标。\n代号是「RIN」。\n初始人格面具Ⅱ是「孟婆」。",
     "showSound": "sys31_001_1",
     "weaponenter_sound": "sys31_003_1",
     "thiefchange_sound": "sys31_003_1",
@@ -2875,15 +3338,28 @@
       4,
       101
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "renzhimoni-yeqian-rin.png",
+    "fiveStarPic": "wuqi-shilian-9-2.png",
+    "fourStarPic": "wuqi-shilian-9-3.png",
+    "threeStarPic": "wuqi-shilian-9-1.png",
+    "thiefPic": "fox-generalAttack-rinH.png",
+    "thiefPos": [
+      312,
+      159
+    ],
+    "collectionThiefPos": [
+      -52,
+      -52
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-21.png"
   },
   {
     "sn": 1101,
     "name": "野毛朋子",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 18,
-    "lockSort": 5,
+    "thiefSort": 4001,
+    "lockSort": 2001,
     "thiefType": 1,
     "gradeInitial": 5,
     "personaInitial": 1101,
@@ -2928,6 +3404,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -2943,7 +3420,7 @@
       118.6,
       -20.47
     ],
-    "Story": "就读于己刮学园的高中二年级少女。\n性格冷静沉稳，观察力出众，习惯主动照顾身边的人。\n作为棒球捕手，幼时曾跟素羽一起获得过各种冠军，对自己场上的实力充满自信。\n代号是「MOKO」。\n初始人格面具Ⅱ是「普罗西姆纳」。",
+    "Story": "就读于己刮学园的高中二年级少女。\n性格温和沉稳，观察力出众，擅长照顾周围的人。\n自小便热衷于棒球，担任着捕手的职位。曾经与素羽组成投捕组合，一起夺得各种比赛的冠军。\n代号是「MOKO」。\n初始人格面具Ⅱ是「普罗西姆纳」。",
     "showSound": "sys33_001_1",
     "weaponenter_sound": "sys33_003_1",
     "thiefchange_sound": "sys33_003_1",
@@ -3199,15 +3676,366 @@
       5,
       115
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-10-2.png",
+    "fourStarPic": "wuqi-shilian-10-3.png",
+    "threeStarPic": "wuqi-shilian-10-1.png",
+    "thiefPic": "fox-generalAttack-komotoH.png",
+    "thiefPos": [
+      305,
+      170
+    ],
+    "collectionThiefPos": [
+      -52,
+      -52
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-19.png"
+  },
+  {
+    "sn": 1102,
+    "name": "野毛朋子·泳装",
+    "lastName": "",
+    "isOpen": 0,
+    "thiefSort": 4001,
+    "lockSort": 2001,
+    "thiefType": 1,
+    "gradeInitial": 6,
+    "personaInitial": 1102,
+    "clipItem": 301102,
+    "typeSN": 10,
+    "model": "kotomo",
+    "modelUI": "kotomo",
+    "weaponInitial": 211011,
+    "cognitionType": 1,
+    "qualityPic": "pinzhi-guaidao-jin.png",
+    "namePic": "Tongyong-mingzi-36-i18n.png",
+    "namesortPic": "",
+    "nameForParty": "",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-kotomo-new.png",
+    "zhenrongPersona": "zhenrong-lihui-kotomo-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [
+      7,
+      -15,
+      0
+    ],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [
+      74,
+      458,
+      0
+    ],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-kotomo.png",
+    "jinjieThiefpos": [
+      162,
+      -94,
+      0
+    ],
+    "jinjieThiefScale": 0.76,
+    "thiefEnterTL": "TL_UI_Thief_kotomo",
+    "equipEnterTL": "TL_UI_WeaponEnter_joker",
+    "equipStrenEnterTL": "TL_UI_EquipStrenEnter",
+    "equipReformEnterTL": "TL_UI_EquipReformEnter",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickIsAlpha": 0,
+    "trickShowUIDelay": 0,
+    "trickTL": "",
+    "supportInTLtype": 0,
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "trickScene": "",
+    "trickTimeline": "",
+    "trickTimelineAuto": "",
+    "trickTLSimplified": "",
+    "trickTimelineSimplified": "",
+    "cvName": "明坂聪美",
+    "chcvName": "秦文静",
+    "cvNamepos": [
+      -37.5,
+      118.6,
+      -20.47
+    ],
+    "Story": "就读于己刮学园的高中二年级少女。\n性格温和沉稳，观察力出众，擅长照顾周围的人。\n虽然离开了棒球，但她现在挑战着各种打工活动，每一天都很耀眼活跃。\n夏天的她，是重振海之家的泳装看板娘，人称「路过的临时打工人・朋子」！\n代号是「MOKO」。\n初始人格面具Ⅱ是「普罗西姆纳」。",
+    "showSound": "sys33_001_1",
+    "weaponenter_sound": "sys33_003_1",
+    "thiefchange_sound": "sys33_003_1",
+    "thiefbattle_sound": "sys33_014_1",
+    "cardenter_sound": "sys33_004_1",
+    "levelup_sound": "sys33_012_1",
+    "levelupWeapon_sound": "VO_Sys_WeaponUp_Moko_01",
+    "breach_sound": "sys33_013_1",
+    "weaponchange_sound": "sys33_011_1",
+    "growth_sound": "VO_Sys_GrowUp_Moko_01",
+    "thiefback_sound": "sys33_014_1",
+    "gacha_sound": [],
+    "chat": "1101",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -1.705,
+      0,
+      2.29
+    ],
+    "qishiRotation": [
+      0,
+      0,
+      0
+    ],
+    "collisionThief": [
+      0,
+      0,
+      0
+    ],
+    "collisionThiefB": [
+      0,
+      0,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "kapai-002.png",
+    "readyPic": "guaidao-kapai-kotomo-new.png",
+    "readyShadowPic": "kamian-3-2.png",
+    "gachaPic": "guaidao-kapai-kotomo-new.png",
+    "gachaBigPic": "lihui-guaidao-kotomo.png",
+    "thiefBigPicPos": [
+      162,
+      -94,
+      0
+    ],
+    "thiefBigPicScale": 0.76,
+    "thiefGrowthPicPos": [
+      162,
+      -94,
+      0
+    ],
+    "thiefGrowthPicScale": 0.76,
+    "gachaResultBg": "lihui-guaidao-kotomo-shilian.png",
+    "gachaResultPic": "lihui-guaidao-kotomo.png",
+    "gachaResultPicOffset": [
+      0.043,
+      0.211
+    ],
+    "gachaResultPicTiling": [
+      0.4,
+      0.675
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaResultPicAdapter": [],
+    "gachaResultMask": "guaidao-mianjuicon-kotomo2.png",
+    "gachaResultName": "guaidao-mingzi-chouka-kotomo.png",
+    "gachaResultNameFourStars": "guaidao-mingzi-chouka-kotomo2.png",
+    "gachaResultFiveStarsEffect": "",
+    "gachaNamePic": "Tongyong-mingzi-36-i18n.png",
+    "gachaCode": "guaidao-daihao-yemaopengzi.png",
+    "gachaCodePos": [
+      6.4,
+      -26.3,
+      3.44
+    ],
+    "gachaMask": "guaidao-mianjuicon-kotomo2.png",
+    "fiveStarLinesOne": "演出时刻！",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-peiyang-daihao-kotomo.png",
+    "thiefCodePos": [
+      290,
+      -86.8,
+      -40.1
+    ],
+    "thiefNamePos": [
+      -209,
+      194,
+      0
+    ],
+    "littlePic": "item-501101.png",
+    "gradePic": "mona-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-19.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
+    ],
+    "awakeItemCount": [
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
+    ],
+    "awakeProperty": [
+      [
+        "241:76.5",
+        "261:21.43",
+        "271:13.86",
+        "263:0.0312"
+      ],
+      [
+        "241:153",
+        "261:42.86",
+        "271:27.72",
+        "263:0.0624"
+      ],
+      [
+        "241:229.5",
+        "261:64.29",
+        "271:41.58",
+        "263:0.0936"
+      ],
+      [
+        "241:306",
+        "261:85.72",
+        "271:55.44",
+        "263:0.1248"
+      ],
+      [
+        "241:382.5",
+        "261:107.15",
+        "271:69.3",
+        "263:0.156"
+      ],
+      [
+        "241:459",
+        "261:128.58",
+        "271:83.16",
+        "263:0.1872"
+      ],
+      [
+        "241:535.5",
+        "261:150.01",
+        "271:97.02",
+        "263:0.2184"
+      ]
+    ],
+    "awakeSkill": [
+      110131,
+      110132
+    ],
+    "awakeAward": [
+      238101,
+      238001,
+      239101,
+      238001,
+      0,
+      238001,
+      0
+    ],
+    "levelAward": [
+      [
+        20,
+        238102
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239102
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
+      ]
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      110101
+    ],
+    "gunSkill": 110161,
+    "gunBullets": 7,
+    "gunAccuracy": 0.92,
+    "gunCritical": 0.0621,
+    "resetPosition": 0,
+    "cardCommend": [
+      [
+        2015,
+        22
+      ],
+      [
+        2013,
+        2
+      ]
+    ],
+    "cardCommendMainAttr": [
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        671
+      ],
+      [
+        263
+      ],
+      [
+        361
+      ]
+    ],
+    "cardCommendSecondAttr": [
+      671,
+      361,
+      263,
+      243
+    ],
+    "belongGacha": 2,
+    "gachaQuestLimit": 0,
+    "saferoomShowType": 3,
+    "collectionExp": 0,
+    "commendSn": [
+      5,
+      115
+    ],
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-10-2.png",
+    "fourStarPic": "wuqi-shilian-10-3.png",
+    "threeStarPic": "wuqi-shilian-10-1.png",
+    "thiefPic": "fox-generalAttack-komotoH.png",
+    "thiefPos": [
+      305,
+      170
+    ],
+    "collectionThiefPos": [
+      -52,
+      -52
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-19.png"
   },
   {
     "sn": 1111,
     "name": "YUI",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 3,
-    "lockSort": 17,
+    "thiefSort": 1003,
+    "lockSort": 3003,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1111,
@@ -3252,6 +4080,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -3267,7 +4096,7 @@
       128.2,
       -20.47
     ],
-    "Story": "主人公在虚拟世界中认识的一位谜之少女。\n沉迷于购置大量的土地，在主人公的建议下，两人决定在土地上种植庄稼。\n性格天真烂漫，偶尔也会暴露出迷糊的一面。\n代号是「BUI」。\n初始人格面具II是「艾普苏黛丝」。",
+    "Story": "主人公在虚拟世界中认识的一位谜之少女。\n购置了大量的虚拟土地却置之不理，在主人公的提议下，两人开始种植庄稼。\n性格开朗豪爽，有着名媛般独特的说话方式，但「中之人」究竟是怎样的人物却依旧是个谜。\n代号是「BUI」。\n初始人格面具II是「艾普苏黛丝」。",
     "showSound": "sys36_001_1",
     "weaponenter_sound": "sys36_003_1",
     "thiefchange_sound": "sys36_003_1",
@@ -3524,15 +4353,28 @@
       113,
       114
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-11-2.png",
+    "fourStarPic": "wuqi-shilian-11-3.png",
+    "threeStarPic": "wuqi-shilian-11-1.png",
+    "thiefPic": "fox-generalAttack-buiH.png",
+    "thiefPos": [
+      472,
+      204
+    ],
+    "collectionThiefPos": [
+      -8,
+      -48
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-22.png"
   },
   {
     "sn": 1121,
     "name": "黑谷清",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 20,
-    "lockSort": 7,
+    "thiefSort": 4003,
+    "lockSort": 2003,
     "thiefType": 1,
     "gradeInitial": 5,
     "personaInitial": 1121,
@@ -3577,6 +4419,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -3592,7 +4435,7 @@
       128.2,
       -20.47
     ],
-    "Story": "就读于己刮学园的高中一年级少年。\n拥有敏锐的通灵能力，自认是「天选之人」。\n小时体弱多病，对于现实生活中的灵异现象有着浓厚的兴趣，想象力异常丰富。\n代号是「KEY」。\n初始人格面具Ⅱ是「绪刻」。",
+    "Story": "就读于己刮学园的高中一年级少年，是主人公的学弟。\n他自称「天选之人」，夸口自己能使用特殊的「力量」，但「代价」是交友受限，每日面对「孤独」。\n小时候体弱多病，经常独自度过，因此读了很多书，直至今日都对空想世界兴趣异常浓厚。\n他看穿主人公和自己同样是「被选中的人」，并将其作为值得尊敬的前辈来亲近。\n代号是「KEY」。\n初始人格面具Ⅱ是「绪刻」。",
     "showSound": "sys32_001_1",
     "weaponenter_sound": "sys32_003_1",
     "thiefchange_sound": "sys32_003_1",
@@ -3847,15 +4690,28 @@
       105,
       106
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-12-2.png",
+    "fourStarPic": "wuqi-shilian-12-3.png",
+    "threeStarPic": "wuqi-shilian-12-1.png",
+    "thiefPic": "fox-generalAttack-kiiH.png",
+    "thiefPos": [
+      312,
+      200
+    ],
+    "collectionThiefPos": [
+      -52,
+      -52
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-17.png"
   },
   {
     "sn": 1131,
     "name": "藤川雪实",
     "lastName": "裁决",
     "isOpen": 1,
-    "thiefSort": 25,
-    "lockSort": 12,
+    "thiefSort": 4007,
+    "lockSort": 2007,
     "thiefType": 1,
     "gradeInitial": 5,
     "personaInitial": 1131,
@@ -3900,6 +4756,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -3915,7 +4772,7 @@
       118.6,
       -20.47
     ],
-    "Story": "高中二年级的少女。\n父亲早逝，从小在母亲的冷酷高压手段下成长。\n无法认同母亲的想法，却又想要回应母亲的期待，这种矛盾和痛苦让她成为了一个表面冷酷、内心柔软的人。\n代号是「YUKI」。\n初始人格面具Ⅱ是「斯堤克斯」。",
+    "Story": "高中二年级的少女，父亲早逝，从小在母亲的冷酷高压手段下成长。\n无法认同母亲的想法，却又想要回应母亲的期待。\n她的梦想不是继承母亲的事业，而是成为一名律师。\n代号是「YUKI」。\n初始人格面具Ⅱ是「斯堤克斯」。",
     "showSound": "sys21_001_1",
     "weaponenter_sound": "sys21_003_1",
     "thiefchange_sound": "sys21_003_1",
@@ -4166,17 +5023,31 @@
     "saferoomShowType": 1,
     "collectionExp": 50,
     "commendSn": [
-      6
+      6,
+      117
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-13-2.png",
+    "fourStarPic": "wuqi-shilian-13-3.png",
+    "threeStarPic": "wuqi-shilian-13-1.png",
+    "thiefPic": "fox-generalAttack-xueshiH.png",
+    "thiefPos": [
+      405,
+      172
+    ],
+    "collectionThiefPos": [
+      -24,
+      -63
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-8.png"
   },
   {
     "sn": 1141,
     "name": "白鸟诚司",
     "lastName": "自由",
     "isOpen": 1,
-    "thiefSort": 26,
-    "lockSort": 13,
+    "thiefSort": 4008,
+    "lockSort": 2008,
     "thiefType": 1,
     "gradeInitial": 5,
     "personaInitial": 1141,
@@ -4221,6 +5092,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -4236,7 +5108,7 @@
       118.6,
       -20.47
     ],
-    "Story": "高中二年级的少年，击剑部的王牌成员，家境优越，外表看起来彬彬有礼。\n尽管实力已经达到大会优胜连霸的程度，却因为过于认真的性格而遭到同社团伙伴的冷落……\n代号是「FLEURET」。\n初始人格面具Ⅱ是「琉科忒亚」。",
+    "Story": "高中二年级的少年。和主人公在不同的学校上学。\n作为击剑部的王牌成员，实力已经达到大会优胜连霸的程度，但因为过于认真地投入到社团活动中，和社团伙伴的关系并不太好。\n他是小说家「墨利屋」的粉丝，喜欢阅读他的作品。\n代号是「FLEURET」。\n初始人格面具Ⅱ是「琉科忒亚」。",
     "showSound": "sys22_001_1",
     "weaponenter_sound": "sys22_003_1",
     "thiefchange_sound": "sys22_003_1",
@@ -4493,15 +5365,28 @@
       103,
       104
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-14-2.png",
+    "fourStarPic": "wuqi-shilian-14-3.png",
+    "threeStarPic": "wuqi-shilian-14-1.png",
+    "thiefPic": "fox-generalAttack-bainiaoH.png",
+    "thiefPos": [
+      120,
+      88
+    ],
+    "collectionThiefPos": [
+      -51,
+      -35
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-12.png"
   },
   {
     "sn": 1151,
     "name": "明智吾郎",
     "lastName": "正义",
     "isOpen": 0,
-    "thiefSort": 13,
-    "lockSort": 27,
+    "thiefSort": 2009,
+    "lockSort": 4009,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1151,
@@ -4546,6 +5431,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -4806,15 +5692,28 @@
     "saferoomShowType": 1,
     "collectionExp": 0,
     "commendSn": [],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-15-2.png",
+    "fourStarPic": "wuqi-shilian-15-3.png",
+    "threeStarPic": "wuqi-shilian-15-1.png",
+    "thiefPic": "fox-generalAttack-mingzhiH.png",
+    "thiefPos": [
+      559,
+      207
+    ],
+    "collectionThiefPos": [
+      26,
+      -55
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-7.png"
   },
   {
     "sn": 1161,
     "name": "喜多川祐介",
     "lastName": "皇帝",
-    "isOpen": 0,
-    "thiefSort": 9,
-    "lockSort": 23,
+    "isOpen": 1,
+    "thiefSort": 2005,
+    "lockSort": 4005,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1161,
@@ -4859,6 +5758,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -4881,10 +5781,10 @@
     "thiefbattle_sound": "VO_Btl_Fox_BattleStart_01",
     "cardenter_sound": "VO_Sys_Revelation_Fox_01",
     "levelup_sound": "VO_Sys_LevelUp_Fox_01",
-    "levelupWeapon_sound": "",
+    "levelupWeapon_sound": "VO_Sys_WeaponUp_Fox_01",
     "breach_sound": "VO_Sys_EnergyUp_Fox",
     "weaponchange_sound": "VO_Sys_WeaponChange_Fox",
-    "growth_sound": "VO_Sys_LevelUp_Fox_01",
+    "growth_sound": "VO_Sys_GrowUp_Fox_01",
     "thiefback_sound": "VO_Btl_Fox_BattleStart_01",
     "gacha_sound": [],
     "chat": "1161",
@@ -5035,8 +5935,8 @@
       ]
     ],
     "awakeSkill": [
-      116132,
-      116131
+      116131,
+      116132
     ],
     "awakeAward": [
       238161,
@@ -5123,17 +6023,34 @@
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
-    "collectionExp": 0,
-    "commendSn": [],
-    "testThiefInfo": ""
+    "collectionExp": 200,
+    "commendSn": [
+      117,
+      119,
+      118
+    ],
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-16-2.png",
+    "fourStarPic": "wuqi-shilian-16-3.png",
+    "threeStarPic": "wuqi-shilian-16-1.png",
+    "thiefPic": "fox-generalAttack-youjieH.png",
+    "thiefPos": [
+      507,
+      86
+    ],
+    "collectionThiefPos": [
+      28,
+      -34
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-1.png"
   },
   {
     "sn": 1171,
     "name": "佐仓双叶",
     "lastName": "隐者",
     "isOpen": 0,
-    "thiefSort": 11,
-    "lockSort": 25,
+    "thiefSort": 2007,
+    "lockSort": 4007,
     "thiefType": 2,
     "gradeInitial": 6,
     "personaInitial": 1171,
@@ -5178,6 +6095,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "TL_Navi_Disturbance.prefab",
+    "supportInTLtype": 1,
     "trickstart": "Navi_skill_1.usm",
     "trickstand": "Navi_skill_2.usm",
     "trickend": "Navi_skill_3.usm",
@@ -5405,7 +6323,12 @@
     "resetPosition": 0,
     "cardCommend": [
       [
-        0
+        2015,
+        5
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
@@ -5419,32 +6342,47 @@
         -1
       ],
       [
-        -1
+        263
       ],
       [
-        -1
+        263
       ],
       [
-        -1
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      -1
+      263,
+      243,
+      273
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
     "collectionExp": 0,
     "commendSn": [],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-17-2.png",
+    "fourStarPic": "wuqi-shilian-17-3.png",
+    "threeStarPic": "wuqi-shilian-17-1.png",
+    "thiefPic": "fox-generalAttack-shuangyeH.png",
+    "thiefPos": [
+      378,
+      92
+    ],
+    "collectionThiefPos": [
+      -33,
+      -67
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-10.png"
   },
   {
     "sn": 1181,
     "name": "须见俊也",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 21,
-    "lockSort": 8,
+    "thiefSort": 4004,
+    "lockSort": 2004,
     "thiefType": 1,
     "gradeInitial": 5,
     "personaInitial": 1181,
@@ -5481,6 +6419,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -5492,7 +6431,7 @@
     "cvName": "榎木淳弥",
     "chcvName": "孙晔",
     "cvNamepos": [],
-    "Story": "经常出没于钓鱼场，被人们称作「钓鱼仙人」的青年，也是一名人气小说家。\n曾有不用鱼钩就钓起鱼王的辉煌战绩。\n由于无意识的博爱主义，对待所有事物都极为友善，却对自己的事漠不关心。\n代号是「SEPIA」。\n初始人格面具II是「戈尔究拉」。",
+    "Story": "一直出没于钓鱼场的青年，身份不明。\n即使不垂钓线，鱼也会靠近，因其不可思议的体质而拥有「钓鱼仙人」之名。\n虽然充满了谜团，但钓场的常客们对他极为信赖。\n相反，也有传闻说他在逃避着「什么」。\n代号是「SEPIA」。\n初始人格面具II是「戈尔究拉」。",
     "showSound": "VO_Sys_Thief_Sumitosi_01",
     "weaponenter_sound": "VO_Sys_Weapon_Sumitosi_01",
     "thiefchange_sound": "VO_Sys_Weapon_Sumitosi_01",
@@ -5744,15 +6683,28 @@
       103,
       112
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-18-2.png",
+    "fourStarPic": "wuqi-shilian-18-3.png",
+    "threeStarPic": "wuqi-shilian-18-1.png",
+    "thiefPic": "fox-generalAttack-sepiaH.png",
+    "thiefPos": [
+      258,
+      134
+    ],
+    "collectionThiefPos": [
+      -53,
+      -60
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-24.png"
   },
   {
     "sn": 1191,
     "name": "高卷杏",
     "lastName": "恋爱",
     "isOpen": 1,
-    "thiefSort": 8,
-    "lockSort": 22,
+    "thiefSort": 2004,
+    "lockSort": 4004,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1191,
@@ -5797,6 +6749,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -6069,15 +7022,28 @@
       105,
       106
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-19-2.png",
+    "fourStarPic": "wuqi-shilian-19-3.png",
+    "threeStarPic": "wuqi-shilian-19-1.png",
+    "thiefPic": "fox-generalAttack-xingH.png",
+    "thiefPos": [
+      335,
+      293
+    ],
+    "collectionThiefPos": [
+      -38,
+      -29
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-5.png"
   },
   {
     "sn": 1201,
     "name": "新岛真",
     "lastName": "女教皇",
-    "isOpen": 0,
-    "thiefSort": 10,
-    "lockSort": 24,
+    "isOpen": 1,
+    "thiefSort": 2006,
+    "lockSort": 4006,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1201,
@@ -6122,6 +7088,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -6144,10 +7111,10 @@
     "thiefbattle_sound": "VO_Btl_Queen_BattleStart_01",
     "cardenter_sound": "VO_Sys_Revelation_Queen_01",
     "levelup_sound": "VO_Sys_LevelUp_Queen_01",
-    "levelupWeapon_sound": "",
+    "levelupWeapon_sound": "VO_Sys_WeaponUp_Queen_01",
     "breach_sound": "VO_Sys_EnergyUp_Queen",
     "weaponchange_sound": "VO_Sys_WeaponChange_Queen",
-    "growth_sound": "VO_Sys_LevelUp_Queen_01",
+    "growth_sound": "VO_Sys_GrowUp_Queen_01",
     "thiefback_sound": "VO_Btl_Queen_BattleStart_01",
     "gacha_sound": [],
     "chat": "1201",
@@ -6255,51 +7222,51 @@
     ],
     "awakeProperty": [
       [
-        "241:90.86",
-        "261:31.14",
-        "271:20.76",
-        "411:0.0332"
+        "241:89.14",
+        "261:33.14",
+        "271:19.43",
+        "263:0.0415"
       ],
       [
-        "241:181.72",
-        "261:62.28",
-        "271:41.52",
-        "411:0.0664"
+        "241:178.28",
+        "261:66.28",
+        "271:38.86",
+        "263:0.083"
       ],
       [
-        "241:272.58",
-        "261:93.42",
-        "271:62.28",
-        "411:0.0996"
+        "241:267.42",
+        "261:99.42",
+        "271:58.29",
+        "263:0.1245"
       ],
       [
-        "241:363.44",
-        "261:124.56",
-        "271:83.04",
-        "411:0.1328"
+        "241:356.56",
+        "261:132.56",
+        "271:77.72",
+        "263:0.166"
       ],
       [
-        "241:454.3",
-        "261:155.7",
-        "271:103.8",
-        "411:0.166"
+        "241:445.7",
+        "261:165.7",
+        "271:97.15",
+        "263:0.2075"
       ],
       [
-        "241:545.16",
-        "261:186.84",
-        "271:124.56",
-        "411:0.1992"
+        "241:534.84",
+        "261:198.84",
+        "271:116.58",
+        "263:0.249"
       ],
       [
-        "241:636.02",
-        "261:217.98",
-        "271:145.32",
-        "411:0.2324"
+        "241:623.98",
+        "261:231.98",
+        "271:136.01",
+        "263:0.2905"
       ]
     ],
     "awakeSkill": [
-      120132,
-      120131
+      120131,
+      120132
     ],
     "awakeAward": [
       238201,
@@ -6377,7 +7344,7 @@
         291
       ],
       [
-        273
+        263
       ]
     ],
     "cardCommendSecondAttr": [
@@ -6389,17 +7356,33 @@
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
-    "collectionExp": 0,
-    "commendSn": [],
-    "testThiefInfo": ""
+    "collectionExp": 200,
+    "commendSn": [
+      120,
+      121
+    ],
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-20-2.png",
+    "fourStarPic": "wuqi-shilian-20-3.png",
+    "threeStarPic": "wuqi-shilian-20-1.png",
+    "thiefPic": "fox-generalAttack-zhenH.png",
+    "thiefPos": [
+      347,
+      114
+    ],
+    "collectionThiefPos": [
+      -48,
+      -48
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-9.png"
   },
   {
     "sn": 1211,
     "name": "琴音·蒙塔涅",
     "lastName": "荣耀",
     "isOpen": 1,
-    "thiefSort": 22,
-    "lockSort": 9,
+    "thiefSort": 4005,
+    "lockSort": 2005,
     "thiefType": 1,
     "gradeInitial": 5,
     "personaInitial": 1211,
@@ -6444,6 +7427,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -6459,7 +7443,7 @@
       114.6,
       -20.47
     ],
-    "Story": "有一半法国血统的美少女，曾是世界级天才选手。\n从小苦练花样滑冰、身为完美主义者的她因为赛场上的意外而一蹶不振，过去的创伤依然藏在她的内心深处。\n代号是「MONT」。\n初始人格面具Ⅱ是「忒耳普西科瑞」。",
+    "Story": "拥有日本和法国血统的高中二年级少女。\n从小就作为花样滑冰选手大显身手，但由于受伤和无情的评论而陷入低谷，无法重返赛场。\n代号是「MONT」。\n初始人格面具Ⅱ是「忒耳普西科瑞」。",
     "showSound": "sys24_001_1",
     "weaponenter_sound": "sys24_003_1",
     "thiefchange_sound": "sys24_003_1",
@@ -6716,15 +7700,28 @@
       110,
       108
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-21-2.png",
+    "fourStarPic": "wuqi-shilian-21-3.png",
+    "threeStarPic": "wuqi-shilian-21-1.png",
+    "thiefPic": "fox-generalAttack-qinyinH.png",
+    "thiefPos": [
+      528,
+      107
+    ],
+    "collectionThiefPos": [
+      19,
+      -54
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-13.png"
   },
   {
     "sn": 1231,
     "name": "宫下美波",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 4,
-    "lockSort": 18,
+    "thiefSort": 1004,
+    "lockSort": 3004,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1231,
@@ -6761,6 +7758,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -6772,7 +7770,7 @@
     "cvName": "佐藤聪美",
     "chcvName": "多多",
     "cvNamepos": [],
-    "Story": "高中一年级的少女，放学后与父亲一起经营着一家居酒屋。\n温柔，热心，富有责任感，忙于工作的邻居也会放心地把孩子交给她照顾。\n自小便憧憬成为像母亲一样帮助他人的护士，却因为家庭变故而将梦想埋藏于心。\n代号是「MARIAN」。\n初始人格面具Ⅱ是「塔利亚」。",
+    "Story": "高中一年级的少女，和在杂司谷开居酒屋的父亲两人生活。\n善良热心负责，经常照顾邻居的孩子们。\n自小便憧憬成为像已故母亲一样的护士，但因为体弱的父亲的缘故，她把梦想埋藏于心。\n代号是「MARIAN」。\n初始人格面具Ⅱ是「塔利亚」。",
     "showSound": "VO_Sys_Thief_Marian_01",
     "weaponenter_sound": "VO_Sys_Weapon_Marian_01",
     "thiefchange_sound": "VO_Sys_Weapon_Marian_01",
@@ -7020,15 +8018,28 @@
     "commendSn": [
       116
     ],
-    "testThiefInfo": "·有同伴生命值低于50%时，使自身获得圣母之泪使最大生命值提升。\n·消耗圣母之泪治疗同伴，并使被治疗的同伴最大生命值提升。\n·治疗的过程中可以提供大量祝福效果。（测试用文字，非正式版本）"
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-23-2.png",
+    "fourStarPic": "wuqi-shilian-23-3.png",
+    "threeStarPic": "wuqi-shilian-23-1.png",
+    "thiefPic": "fox-generalAttack-marianH.png",
+    "thiefPos": [
+      599,
+      345
+    ],
+    "collectionThiefPos": [
+      23,
+      -50
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-26.png"
   },
   {
     "sn": 1251,
     "name": "奥村春",
     "lastName": "女帝",
     "isOpen": 0,
-    "thiefSort": 12,
-    "lockSort": 26,
+    "thiefSort": 2008,
+    "lockSort": 4008,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1251,
@@ -7073,6 +8084,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -7302,7 +8314,12 @@
     "resetPosition": 1,
     "cardCommend": [
       [
-        0
+        2004,
+        22
+      ],
+      [
+        2004,
+        16
       ]
     ],
     "cardCommendMainAttr": [
@@ -7316,32 +8333,48 @@
         -1
       ],
       [
-        -1
+        411
       ],
       [
-        -1
+        301
       ],
       [
-        -1
+        263
       ]
     ],
     "cardCommendSecondAttr": [
-      -1
+      411,
+      301,
+      263,
+      281
     ],
     "belongGacha": 2,
     "gachaQuestLimit": 0,
     "saferoomShowType": 1,
     "collectionExp": 0,
     "commendSn": [],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-25-2.png",
+    "fourStarPic": "wuqi-shilian-25-3.png",
+    "threeStarPic": "wuqi-shilian-25-1.png",
+    "thiefPic": "fox-generalAttack-chunH.png",
+    "thiefPos": [
+      397,
+      436
+    ],
+    "collectionThiefPos": [
+      -23,
+      21
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-3.png"
   },
   {
     "sn": 1261,
     "name": "雨宫莲",
     "lastName": "诡骗师",
     "isOpen": 1,
-    "thiefSort": 5,
-    "lockSort": 19,
+    "thiefSort": 2001,
+    "lockSort": 4001,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1261,
@@ -7386,6 +8419,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -7659,15 +8693,28 @@
       102,
       115
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "renzhimoni-yeqian-joker.png",
+    "fiveStarPic": "wuqi-shilian-26-2.png",
+    "fourStarPic": "wuqi-shilian-26-3.png",
+    "threeStarPic": "wuqi-shilian-26-1.png",
+    "thiefPic": "fox-generalAttack-jokerH.png",
+    "thiefPos": [
+      335,
+      257
+    ],
+    "collectionThiefPos": [
+      -49,
+      -40
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-6.png"
   },
   {
     "sn": 1271,
     "name": "佐原海夕",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 24,
-    "lockSort": 11,
+    "thiefSort": 4006,
+    "lockSort": 2006,
     "thiefType": 2,
     "gradeInitial": 5,
     "personaInitial": 1271,
@@ -7704,6 +8751,7 @@
     "trickIsAlpha": 1,
     "trickShowUIDelay": 0,
     "trickTL": "TL_umi_HighlightIn.prefab",
+    "supportInTLtype": 1,
     "trickstart": "Navi_skill_1.usm",
     "trickstand": "Navi_skill_2.usm",
     "trickend": "Navi_skill_3.usm",
@@ -7715,7 +8763,7 @@
     "cvName": "市之濑加那",
     "chcvName": "刘一蕾",
     "cvNamepos": [],
-    "Story": "高中一年级的少女，出生于富有家庭的大小姐。\n外表看起来温顺有礼，实则非常有自己的主见。\n因在未来规划一事上违背了父母的殷切期望，于是离家出走，决心靠双手养活自己。\n代号是「PUPPET」。\n初始人格面具Ⅱ是「涅墨耳忒斯」。",
+    "Story": "脱离富裕的家庭，成为一名木偶剧表演者的16岁少女。\n为了反抗父母强迫她选择不想要的生活方式，而离家出走，决心靠自己的力量生活下去。\n乍一看温顺有礼，但也有充满活力的一面。\n代号是「PUPPET」。\n初始人格面具Ⅱ是「涅墨耳忒斯」。",
     "showSound": "sys41_001_1",
     "weaponenter_sound": "sys41_003_1",
     "thiefchange_sound": "sys41_003_1",
@@ -7924,6 +8972,10 @@
       [
         2007,
         12
+      ],
+      [
+        2015,
+        5
       ]
     ],
     "cardCommendMainAttr": [
@@ -7959,15 +9011,28 @@
       7,
       109
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-27-2.png",
+    "fourStarPic": "wuqi-shilian-27-3.png",
+    "threeStarPic": "wuqi-shilian-27-1.png",
+    "thiefPic": "fox-generalAttack-puppetH.png",
+    "thiefPos": [
+      346,
+      37
+    ],
+    "collectionThiefPos": [
+      -32,
+      -75
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-25.png"
   },
   {
     "sn": 1281,
     "name": "西森阳菜",
     "lastName": "",
     "isOpen": 1,
-    "thiefSort": 2,
-    "lockSort": 16,
+    "thiefSort": 1002,
+    "lockSort": 3002,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1281,
@@ -8004,6 +9069,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -8015,7 +9081,7 @@
     "cvName": "小仓唯",
     "chcvName": "葛子瑞",
     "cvNamepos": [],
-    "Story": "年仅10岁就被海外大学破格录取的天才少女。\n自小展露在数学上的天赋，会以自己的实力解决超出年龄的复杂谜题。\n开朗、纯真，精力旺盛，对事物抱有强烈的好奇心。\n代号是「RIDDLE」。\n初始人格面具Ⅱ是「戴埃拉」。",
+    "Story": "年仅10岁就被海外大学破格录取的天才少女。\n自小展露出数学上的天赋，可以靠自己的实力解决超出小学生知识面的复杂问题。\n开朗、纯真，想要解开任何感兴趣的谜题，是个充满好奇心的孩子。\n代号是「RIDDLE」。\n初始人格面具Ⅱ是「戴埃拉」。",
     "showSound": "VO_Sys_Thief_Why_01",
     "weaponenter_sound": "VO_Sys_Weapon_Why_01",
     "thiefchange_sound": "VO_Sys_Weapon_Why_01",
@@ -8265,22 +9331,35 @@
       8,
       103
     ],
-    "testThiefInfo": ""
+    "testThiefIcon": "renzhimoni-yeqian-riddle.png",
+    "fiveStarPic": "wuqi-shilian-28-2.png",
+    "fourStarPic": "wuqi-shilian-28-3.png",
+    "threeStarPic": "wuqi-shilian-28-1.png",
+    "thiefPic": "fox-generalAttack-RiddleH.png",
+    "thiefPos": [
+      286,
+      176
+    ],
+    "collectionThiefPos": [
+      -48,
+      -48
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-23.png"
   },
   {
     "sn": 1291,
     "name": "七濑基良",
     "lastName": "",
     "isOpen": 0,
-    "thiefSort": 23,
-    "lockSort": 10,
+    "thiefSort": 1007,
+    "lockSort": 3007,
     "thiefType": 1,
     "gradeInitial": 6,
     "personaInitial": 1291,
     "clipItem": 301291,
     "typeSN": 29,
-    "model": "joker",
-    "modelUI": "joker",
+    "model": "doctor",
+    "modelUI": "doctor",
     "weaponInitial": 212901,
     "cognitionType": 1,
     "qualityPic": "pinzhi-guaidao-cai.png",
@@ -8310,6 +9389,7 @@
     "trickIsAlpha": 0,
     "trickShowUIDelay": 0,
     "trickTL": "",
+    "supportInTLtype": 0,
     "trickstart": "",
     "trickstand": "",
     "trickend": "",
@@ -8527,6 +9607,1258 @@
     "resetPosition": 1,
     "cardCommend": [
       [
+        2004,
+        3
+      ],
+      [
+        2004,
+        16
+      ]
+    ],
+    "cardCommendMainAttr": [
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        411
+      ],
+      [
+        301
+      ],
+      [
+        263
+      ]
+    ],
+    "cardCommendSecondAttr": [
+      411,
+      301,
+      263,
+      281
+    ],
+    "belongGacha": 2,
+    "gachaQuestLimit": 0,
+    "saferoomShowType": 3,
+    "collectionExp": 0,
+    "commendSn": [],
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-26-2.png",
+    "fourStarPic": "wuqi-shilian-26-3.png",
+    "threeStarPic": "wuqi-shilian-26-1.png",
+    "thiefPic": "fox-generalAttack-jokerH.png",
+    "thiefPos": [
+      335,
+      257
+    ],
+    "collectionThiefPos": [
+      -9,
+      -38
+    ],
+    "weaponSelectPic": ""
+  },
+  {
+    "sn": 1301,
+    "name": "长尾千津子",
+    "lastName": "",
+    "isOpen": 1,
+    "thiefSort": 4010,
+    "lockSort": 2010,
+    "thiefType": 1,
+    "gradeInitial": 5,
+    "personaInitial": 1301,
+    "clipItem": 301301,
+    "typeSN": 30,
+    "model": "dorothy",
+    "modelUI": "dorothy",
+    "weaponInitial": 213001,
+    "cognitionType": 1,
+    "qualityPic": "",
+    "namePic": "",
+    "namesortPic": "",
+    "nameForParty": "",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-vino-new.png",
+    "zhenrongPersona": "zhenrong-lihui-vino-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-vino.png",
+    "jinjieThiefpos": [],
+    "jinjieThiefScale": 0,
+    "thiefEnterTL": "TL_UI_Thief_vino",
+    "equipEnterTL": "",
+    "equipStrenEnterTL": "",
+    "equipReformEnterTL": "",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickIsAlpha": 0,
+    "trickShowUIDelay": 0,
+    "trickTL": "",
+    "supportInTLtype": 0,
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "trickScene": "",
+    "trickTimeline": "",
+    "trickTimelineAuto": "",
+    "trickTLSimplified": "",
+    "trickTimelineSimplified": "",
+    "cvName": "胜生真沙子",
+    "chcvName": "武向彤",
+    "cvNamepos": [],
+    "Story": "75岁高龄的酒豪女性。\n性格豪爽，仗义，但由于与相依为命的孙女难以沟通而烦恼着。\n虽然擅长吹奏萨克斯，但同样热爱音乐的丈夫去世后，已经很久没有练习了。\n代号是「VINO」。\n初始人格面具Ⅱ是「安珀罗丝」。",
+    "showSound": "VO_Sys_Thief_Vino_01",
+    "weaponenter_sound": "VO_Sys_Weapon_Vino_01",
+    "thiefchange_sound": "VO_Sys_Weapon_Vino_01",
+    "thiefbattle_sound": "VO_Btl_Vino_BattleStart_01",
+    "cardenter_sound": "VO_Sys_Revelation_Vino_01",
+    "levelup_sound": "VO_Sys_LevelUp_Vino_01",
+    "levelupWeapon_sound": "VO_Sys_WeaponUp_Vino_01",
+    "breach_sound": "VO_Sys_EnergyUp_Vino_01",
+    "weaponchange_sound": "VO_Sys_WeaponChange_Vino_01",
+    "growth_sound": "VO_Sys_GrowUp_Vino_01",
+    "thiefback_sound": "VO_Btl_Vino_BattleStart_01",
+    "gacha_sound": [],
+    "chat": "1301",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -1.79,
+      0,
+      1.89
+    ],
+    "qishiRotation": [
+      0,
+      0,
+      0
+    ],
+    "collisionThief": [
+      0,
+      0,
+      0
+    ],
+    "collisionThiefB": [
+      0,
+      0,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "",
+    "readyPic": "guaidao-kapai-vino-new.png",
+    "readyShadowPic": "",
+    "gachaPic": "guaidao-kapai-vino-new.png",
+    "gachaBigPic": "lihui-guaidao-vino.png",
+    "thiefBigPicPos": [
+      -42,
+      -594,
+      0
+    ],
+    "thiefBigPicScale": 0.79,
+    "thiefGrowthPicPos": [
+      -42,
+      -594,
+      0
+    ],
+    "thiefGrowthPicScale": 0.79,
+    "gachaResultBg": "lihui-guaidao-vino-shilian.png",
+    "gachaResultPic": "lihui-guaidao-vino.png",
+    "gachaResultPicOffset": [
+      0.428,
+      0.678
+    ],
+    "gachaResultPicTiling": [
+      1,
+      1
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaResultPicAdapter": [
+      1,
+      1.58
+    ],
+    "gachaResultMask": "guaidao-mianjuicon-changweiqianjinzi2.png",
+    "gachaResultName": "guaidao-mingzi-chouka-vino.png",
+    "gachaResultNameFourStars": "guaidao-mingzi-chouka-vino2.png",
+    "gachaResultFiveStarsEffect": "",
+    "gachaNamePic": "",
+    "gachaCode": "guaidao-daihao-dorothy.png",
+    "gachaCodePos": [
+      6.4,
+      -26.3,
+      3.44
+    ],
+    "gachaMask": "guaidao-mianjuicon-changweiqianjinzi2.png",
+    "fiveStarLinesOne": "",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-peiyang-daihao-dorothy.png",
+    "thiefCodePos": [],
+    "thiefNamePos": [],
+    "littlePic": "item-501301.png",
+    "gradePic": "mona-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-27.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
+    ],
+    "awakeItemCount": [
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
+    ],
+    "awakeProperty": [
+      [
+        "241:70.71",
+        "261:22.5",
+        "271:14.43",
+        "301:0.0374"
+      ],
+      [
+        "241:141.42",
+        "261:45",
+        "271:28.86",
+        "301:0.0748"
+      ],
+      [
+        "241:212.13",
+        "261:67.5",
+        "271:43.29",
+        "301:0.1122"
+      ],
+      [
+        "241:282.84",
+        "261:90",
+        "271:57.72",
+        "301:0.1496"
+      ],
+      [
+        "241:353.55",
+        "261:112.5",
+        "271:72.15",
+        "301:0.187"
+      ],
+      [
+        "241:424.26",
+        "261:135",
+        "271:86.58",
+        "301:0.2244"
+      ],
+      [
+        "241:494.97",
+        "261:157.5",
+        "271:101.01",
+        "301:0.2618"
+      ]
+    ],
+    "awakeSkill": [
+      130131,
+      130132
+    ],
+    "awakeAward": [
+      238291,
+      238001,
+      239291,
+      238001,
+      0,
+      238001,
+      0
+    ],
+    "levelAward": [
+      [
+        20,
+        238301
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239301
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
+      ]
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      130101
+    ],
+    "gunSkill": 130161,
+    "gunBullets": 6,
+    "gunAccuracy": 0.88,
+    "gunCritical": 0.0758,
+    "resetPosition": 1,
+    "cardCommend": [
+      [
+        2010,
+        20
+      ],
+      [
+        2010,
+        16
+      ]
+    ],
+    "cardCommendMainAttr": [
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        263
+      ],
+      [
+        301
+      ],
+      [
+        341
+      ]
+    ],
+    "cardCommendSecondAttr": [
+      301,
+      411,
+      263
+    ],
+    "belongGacha": 2,
+    "gachaQuestLimit": 0,
+    "saferoomShowType": 3,
+    "collectionExp": 50,
+    "commendSn": [
+      120
+    ],
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-30-2.png",
+    "fourStarPic": "wuqi-shilian-30-3.png",
+    "threeStarPic": "wuqi-shilian-30-1.png",
+    "thiefPic": "fox-generalAttack-vinoH.png",
+    "thiefPos": [
+      336,
+      218
+    ],
+    "collectionThiefPos": [
+      -45,
+      -50
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-27.png"
+  },
+  {
+    "sn": 1311,
+    "name": "椎名悠美",
+    "lastName": "",
+    "isOpen": 1,
+    "thiefSort": 1005,
+    "lockSort": 3005,
+    "thiefType": 2,
+    "gradeInitial": 6,
+    "personaInitial": 1311,
+    "clipItem": 301311,
+    "typeSN": 31,
+    "model": "phoebe",
+    "modelUI": "phoebe",
+    "weaponInitial": 213101,
+    "cognitionType": 1,
+    "qualityPic": "",
+    "namePic": "",
+    "namesortPic": "",
+    "nameForParty": "",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-phoebe-new.png",
+    "zhenrongPersona": "zhenrong-lihui-phoebe-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-phoebe.png",
+    "jinjieThiefpos": [],
+    "jinjieThiefScale": 0,
+    "thiefEnterTL": "TL_UI_Thief_phoebe",
+    "equipEnterTL": "",
+    "equipStrenEnterTL": "",
+    "equipReformEnterTL": "",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickIsAlpha": 0,
+    "trickShowUIDelay": 0,
+    "trickTL": "phoebe-battle-1",
+    "supportInTLtype": 2,
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "trickScene": "Highlight_frost",
+    "trickTimeline": "TL_Phoebe_support.prefab",
+    "trickTimelineAuto": "TL_Phoebe_support_auto.prefab",
+    "trickTLSimplified": "TL_Phoebe_HighlightIn.prefab",
+    "trickTimelineSimplified": "TL_Phoebe_support_simplified.prefab",
+    "cvName": "原由实",
+    "chcvName": "宋媛媛",
+    "cvNamepos": [],
+    "Story": "在涩谷酒吧担任调酒师的26岁女性。特长是花式调酒。\n学生时代隶属于舞蹈社团，拥有包括肚皮舞在内的各种舞种的经验。她将这一经验运用到了花式调酒中。\n但现在因为某个理由放弃了舞蹈。\n代号是「PHOEBE」。\n初始人格面具Ⅱ是「乌剌尼亚」。",
+    "showSound": "sys47_001_1",
+    "weaponenter_sound": "sys47_003_1",
+    "thiefchange_sound": "sys47_003_1",
+    "thiefbattle_sound": "sys47_014_1",
+    "cardenter_sound": "sys47_004_1",
+    "levelup_sound": "sys47_012_1",
+    "levelupWeapon_sound": "VO_Sys_WeaponChange_Phoebe_01",
+    "breach_sound": "sys47_013_1",
+    "weaponchange_sound": "sys47_011_1",
+    "growth_sound": "VO_Sys_GrowUp_Phoebe_01",
+    "thiefback_sound": "sys47_014_1",
+    "gacha_sound": [],
+    "chat": "1311",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -1.684,
+      0,
+      2.29
+    ],
+    "qishiRotation": [
+      0,
+      0,
+      0
+    ],
+    "collisionThief": [
+      0,
+      0,
+      0
+    ],
+    "collisionThiefB": [
+      0,
+      0,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "",
+    "readyPic": "guaidao-kapai-phoebe-new.png",
+    "readyShadowPic": "",
+    "gachaPic": "guaidao-kapai-phoebe-new.png",
+    "gachaBigPic": "lihui-guaidao-phoebe.png",
+    "thiefBigPicPos": [
+      2,
+      -388,
+      0
+    ],
+    "thiefBigPicScale": 0.76,
+    "thiefGrowthPicPos": [
+      2,
+      -388,
+      0
+    ],
+    "thiefGrowthPicScale": 0.76,
+    "gachaResultBg": "lihui-guaidao-phoebe-shilian.png",
+    "gachaResultPic": "lihui-guaidao-phoebe.png",
+    "gachaResultPicOffset": [
+      0.28,
+      0.55
+    ],
+    "gachaResultPicTiling": [
+      1,
+      1
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaResultPicAdapter": [
+      1,
+      1.85
+    ],
+    "gachaResultMask": "guaidao-mianjuicon-phoebe2.png",
+    "gachaResultName": "guaidao-mingzi-chouka-phoebe.png",
+    "gachaResultNameFourStars": "guaidao-mingzi-chouka-phoebe2.png",
+    "gachaResultFiveStarsEffect": "gacha_result10_phoebe.prefab",
+    "gachaNamePic": "",
+    "gachaCode": "guaidao-daihao-phoebe.png",
+    "gachaCodePos": [
+      6.4,
+      -26.3,
+      3.44
+    ],
+    "gachaMask": "guaidao-mianjuicon-phoebe2.png",
+    "fiveStarLinesOne": "",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-peiyang-daihao-phoebe.png",
+    "thiefCodePos": [],
+    "thiefNamePos": [],
+    "littlePic": "item-501311.png",
+    "gradePic": "mona-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-28.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
+    ],
+    "awakeItemCount": [
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
+    ],
+    "awakeProperty": [
+      [
+        "241:98.57",
+        "261:31.71",
+        "271:17.33",
+        "263:0.0415"
+      ],
+      [
+        "241:197.14",
+        "261:63.42",
+        "271:34.66",
+        "263:0.083"
+      ],
+      [
+        "241:295.71",
+        "261:95.13",
+        "271:51.99",
+        "263:0.1245"
+      ],
+      [
+        "241:394.28",
+        "261:126.84",
+        "271:69.32",
+        "263:0.166"
+      ],
+      [
+        "241:492.85",
+        "261:158.55",
+        "271:86.65",
+        "263:0.2075"
+      ],
+      [
+        "241:591.42",
+        "261:190.26",
+        "271:103.98",
+        "263:0.249"
+      ],
+      [
+        "241:689.99",
+        "261:221.97",
+        "271:121.31",
+        "263:0.2905"
+      ]
+    ],
+    "awakeSkill": [
+      131131,
+      131132
+    ],
+    "awakeAward": [
+      238291,
+      238001,
+      239291,
+      238001,
+      0,
+      238001,
+      0
+    ],
+    "levelAward": [
+      [
+        20,
+        238311
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239311
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
+      ]
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [],
+    "gunSkill": 0,
+    "gunBullets": 0,
+    "gunAccuracy": 0,
+    "gunCritical": 0,
+    "resetPosition": 1,
+    "cardCommend": [
+      [
+        2015,
+        5
+      ],
+      [
+        2004,
+        16
+      ]
+    ],
+    "cardCommendMainAttr": [
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        263
+      ],
+      [
+        263
+      ],
+      [
+        263
+      ]
+    ],
+    "cardCommendSecondAttr": [
+      263,
+      243,
+      273
+    ],
+    "belongGacha": 2,
+    "gachaQuestLimit": 0,
+    "saferoomShowType": 1,
+    "collectionExp": 200,
+    "commendSn": [
+      122
+    ],
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-31-2.png",
+    "fourStarPic": "wuqi-shilian-31-3.png",
+    "threeStarPic": "wuqi-shilian-31-1.png",
+    "thiefPic": "fox-generalAttack-phoebeH.png",
+    "thiefPos": [
+      258,
+      266
+    ],
+    "collectionThiefPos": [
+      -54,
+      -28
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-28.png"
+  },
+  {
+    "sn": 1321,
+    "name": "坂井绫香",
+    "lastName": "",
+    "isOpen": 1,
+    "thiefSort": 1006,
+    "lockSort": 3006,
+    "thiefType": 1,
+    "gradeInitial": 6,
+    "personaInitial": 1321,
+    "clipItem": 301321,
+    "typeSN": 32,
+    "model": "chord",
+    "modelUI": "chord",
+    "weaponInitial": 213201,
+    "cognitionType": 1,
+    "qualityPic": "",
+    "namePic": "",
+    "namesortPic": "",
+    "nameForParty": "",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-chord-new.png",
+    "zhenrongPersona": "zhenrong-lihui-chord-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-chord.png",
+    "jinjieThiefpos": [],
+    "jinjieThiefScale": 0,
+    "thiefEnterTL": "TL_UI_Thief_chord",
+    "equipEnterTL": "",
+    "equipStrenEnterTL": "",
+    "equipReformEnterTL": "",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickIsAlpha": 0,
+    "trickShowUIDelay": 0,
+    "trickTL": "",
+    "supportInTLtype": 0,
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "trickScene": "",
+    "trickTimeline": "",
+    "trickTimelineAuto": "",
+    "trickTLSimplified": "",
+    "trickTimelineSimplified": "",
+    "cvName": "牧野由依",
+    "chcvName": "孙艳琦",
+    "cvNamepos": [],
+    "Story": "大学生兼街头音乐家，在城市的某个角落里抱着吉他。\n高中时期受朋友邀请一起组建乐队，因为内向怕生，担任了不引人注意的节奏吉他手。\n乐队解散后，想从事音乐活动的「欲望」仍未消散，因此手中的吉他始终难以放下。\n代号是「CHORD」。\n初始人格面具Ⅱ是「卡利俄佩」。",
+    "showSound": "VO_Sys_Thief_Chord_01",
+    "weaponenter_sound": "VO_Sys_Weapon_Chord_01",
+    "thiefchange_sound": "VO_Sys_Weapon_Chord_01",
+    "thiefbattle_sound": "VO_Btl_Chord_BattleStart_01",
+    "cardenter_sound": "VO_Sys_Revelation_Chord_01",
+    "levelup_sound": "VO_Sys_LevelUp_Chord_01",
+    "levelupWeapon_sound": "VO_Sys_WeaponUp_Chord_01",
+    "breach_sound": "VO_Sys_EnergyUp_Chord_01",
+    "weaponchange_sound": "VO_Sys_WeaponChange_Chord_01",
+    "growth_sound": "VO_Sys_GrowUp_Chord_01",
+    "thiefback_sound": "VO_Btl_Chord_BattleStart_01",
+    "gacha_sound": [],
+    "chat": "1321",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -1.848,
+      0.023,
+      1.991
+    ],
+    "qishiRotation": [
+      0,
+      0,
+      0
+    ],
+    "collisionThief": [
+      0,
+      0,
+      0
+    ],
+    "collisionThiefB": [
+      0,
+      0,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "",
+    "readyPic": "guaidao-kapai-chord-new.png",
+    "readyShadowPic": "",
+    "gachaPic": "guaidao-kapai-chord-new.png",
+    "gachaBigPic": "lihui-guaidao-chord.png",
+    "thiefBigPicPos": [
+      -93,
+      -434,
+      0
+    ],
+    "thiefBigPicScale": 0.835,
+    "thiefGrowthPicPos": [
+      -93,
+      -434,
+      0
+    ],
+    "thiefGrowthPicScale": 0.835,
+    "gachaResultBg": "lihui-guaidao-chord-shilian.png",
+    "gachaResultPic": "lihui-guaidao-chord.png",
+    "gachaResultPicOffset": [
+      0.375,
+      0.56
+    ],
+    "gachaResultPicTiling": [
+      1,
+      1
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaResultPicAdapter": [
+      1,
+      1.83
+    ],
+    "gachaResultMask": "guaidao-mianjuicon-chord2.png",
+    "gachaResultName": "guaidao-mingzi-chouka-chord.png",
+    "gachaResultNameFourStars": "guaidao-mingzi-chouka-chord2.png",
+    "gachaResultFiveStarsEffect": "gacha_result10_chord.prefab",
+    "gachaNamePic": "",
+    "gachaCode": "guaidao-daihao-chord.png",
+    "gachaCodePos": [
+      6.4,
+      -26.3,
+      3.44
+    ],
+    "gachaMask": "guaidao-mianjuicon-chord2.png",
+    "fiveStarLinesOne": "",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "guaidao-peiyang-daihao-chord.png",
+    "thiefCodePos": [],
+    "thiefNamePos": [],
+    "littlePic": "item-501321.png",
+    "gradePic": "mona-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-30.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
+    ],
+    "awakeItemCount": [
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
+    ],
+    "awakeProperty": [
+      [
+        "241:98.57",
+        "261:30.86",
+        "271:16.76",
+        "263:0.0415"
+      ],
+      [
+        "241:197.14",
+        "261:61.72",
+        "271:33.52",
+        "263:0.083"
+      ],
+      [
+        "241:295.71",
+        "261:92.58",
+        "271:50.28",
+        "263:0.1245"
+      ],
+      [
+        "241:394.28",
+        "261:123.44",
+        "271:67.04",
+        "263:0.166"
+      ],
+      [
+        "241:492.85",
+        "261:154.3",
+        "271:83.8",
+        "263:0.2075"
+      ],
+      [
+        "241:591.42",
+        "261:185.16",
+        "271:100.56",
+        "263:0.249"
+      ],
+      [
+        "241:689.99",
+        "261:216.02",
+        "271:117.32",
+        "263:0.2905"
+      ]
+    ],
+    "awakeSkill": [
+      132131,
+      132132
+    ],
+    "awakeAward": [
+      238291,
+      238001,
+      239291,
+      238001,
+      0,
+      238001,
+      0
+    ],
+    "levelAward": [
+      [
+        20,
+        238321
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239321
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
+      ]
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [
+      132101
+    ],
+    "gunSkill": 132161,
+    "gunBullets": 6,
+    "gunAccuracy": 0.88,
+    "gunCritical": 0.0758,
+    "resetPosition": 1,
+    "cardCommend": [
+      [
+        2008,
+        16
+      ],
+      [
+        2008,
+        15
+      ]
+    ],
+    "cardCommendMainAttr": [
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        -1
+      ],
+      [
+        263
+      ],
+      [
+        263
+      ],
+      [
+        263
+      ]
+    ],
+    "cardCommendSecondAttr": [
+      263,
+      243,
+      273
+    ],
+    "belongGacha": 2,
+    "gachaQuestLimit": 0,
+    "saferoomShowType": 3,
+    "collectionExp": 200,
+    "commendSn": [
+      123
+    ],
+    "testThiefIcon": "renzhimoni-yeqian-chord.png",
+    "fiveStarPic": "wuqi-shilian-32-2.png",
+    "fourStarPic": "wuqi-shilian-32-3.png",
+    "threeStarPic": "wuqi-shilian-32-1.png",
+    "thiefPic": "fox-generalAttack-chord.png",
+    "thiefPos": [
+      426,
+      179
+    ],
+    "collectionThiefPos": [
+      -28,
+      -54
+    ],
+    "weaponSelectPic": "Tongyong-touxiang-A-30.png"
+  },
+  {
+    "sn": 1331,
+    "name": "芦谷真咲",
+    "lastName": "",
+    "isOpen": 0,
+    "thiefSort": 1006,
+    "lockSort": 3006,
+    "thiefType": 1,
+    "gradeInitial": 6,
+    "personaInitial": 1331,
+    "clipItem": 301331,
+    "typeSN": 33,
+    "model": "joker",
+    "modelUI": "joker",
+    "weaponInitial": 213301,
+    "cognitionType": 1,
+    "qualityPic": "",
+    "namePic": "",
+    "namesortPic": "",
+    "nameForParty": "",
+    "weaponIcon": "guaidao02-zhuangbei02.png",
+    "zhenrongThief": "zhenrong-lihui-joker-new.png",
+    "zhenrongPersona": "zhenrong-lihui-joker-p-new.png",
+    "zhenrongBackground": "lihui-guaidao-02-1-bg-new.png",
+    "zhenrongThiefpos": [],
+    "zhenrongThiefScale": 1,
+    "zhenrongPersonapos": [],
+    "zhenrongPersonaScale": 1,
+    "zhenronglistThief": "touxiang-guaidaofu-joker.png",
+    "jinjieThiefpos": [],
+    "jinjieThiefScale": 0,
+    "thiefEnterTL": "TL_UI_Thief_doctor",
+    "equipEnterTL": "",
+    "equipStrenEnterTL": "",
+    "equipReformEnterTL": "",
+    "cardEnterTL": "TL_UI_CardEnter",
+    "trickIsAlpha": 0,
+    "trickShowUIDelay": 0,
+    "trickTL": "",
+    "supportInTLtype": 0,
+    "trickstart": "",
+    "trickstand": "",
+    "trickend": "",
+    "trickScene": "",
+    "trickTimeline": "",
+    "trickTimelineAuto": "",
+    "trickTLSimplified": "",
+    "trickTimelineSimplified": "",
+    "cvName": "",
+    "chcvName": "",
+    "cvNamepos": [],
+    "Story": "",
+    "showSound": "",
+    "weaponenter_sound": "",
+    "thiefchange_sound": "",
+    "thiefbattle_sound": "",
+    "cardenter_sound": "",
+    "levelup_sound": "",
+    "levelupWeapon_sound": "",
+    "breach_sound": "",
+    "weaponchange_sound": "",
+    "growth_sound": "",
+    "thiefback_sound": "",
+    "gacha_sound": [],
+    "chat": "1331",
+    "qishiScale": 1,
+    "qishiPosition": [
+      -1.705,
+      0,
+      2.29
+    ],
+    "qishiRotation": [
+      0,
+      0,
+      0
+    ],
+    "collisionThief": [
+      0,
+      0,
+      0
+    ],
+    "collisionThiefB": [
+      0,
+      0,
+      0
+    ],
+    "rotateThief": [
+      0.5,
+      25.85,
+      -1.25
+    ],
+    "bigPic": "",
+    "readyPic": "guaidao-kapai-joker-new.png",
+    "readyShadowPic": "",
+    "gachaPic": "guaidao-kapai-joker-new.png",
+    "gachaBigPic": "lihui-guaidao-joker.png",
+    "thiefBigPicPos": [
+      -254,
+      -472,
+      0
+    ],
+    "thiefBigPicScale": 0.8,
+    "thiefGrowthPicPos": [
+      -254,
+      -472,
+      0
+    ],
+    "thiefGrowthPicScale": 0.8,
+    "gachaResultBg": "lihui-guaidao-joker-shilian.png",
+    "gachaResultPic": "lihui-guaidao-joker.png",
+    "gachaResultPicOffset": [
+      0.487,
+      0.424
+    ],
+    "gachaResultPicTiling": [
+      0.421,
+      0.704
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaResultPicAdapter": [],
+    "gachaResultMask": "guaidao-mianjuicon-joker2.png",
+    "gachaResultName": "guaidao-mingzi-chouka-joker.png",
+    "gachaResultNameFourStars": "guaidao-mingzi-chouka-joker2.png",
+    "gachaResultFiveStarsEffect": "",
+    "gachaNamePic": "",
+    "gachaCode": "guaidao-daihao-tengchuanxueshi.png",
+    "gachaCodePos": [
+      6.4,
+      -26.3,
+      3.44
+    ],
+    "gachaMask": "guaidao-mianjuicon-joker.png",
+    "fiveStarLinesOne": "",
+    "fiveStarLinesTwo": "",
+    "thiefCode": "",
+    "thiefCodePos": [],
+    "thiefNamePos": [],
+    "littlePic": "item-501261.png",
+    "gradePic": "mona-generalAttack.png",
+    "icon": "Tongyong-touxiang-A-6.png",
+    "maskPic": "guaidao-juexing-ka01.png,guaidao-juexing-ka02.png,guaidao-juexing-ka03.png",
+    "awakeItem": [
+      "302201",
+      "302201",
+      "302202",
+      "302202",
+      "302202",
+      "302203",
+      "302203"
+    ],
+    "awakeItemCount": [
+      "5",
+      "12",
+      "6",
+      "10",
+      "18",
+      "12",
+      "24"
+    ],
+    "awakeProperty": [
+      [
+        "241:103.71",
+        "261:32.29",
+        "271:15.43",
+        "263:0.0415"
+      ],
+      [
+        "241:207.42",
+        "261:64.58",
+        "271:30.86",
+        "263:0.083"
+      ],
+      [
+        "241:311.13",
+        "261:96.87",
+        "271:46.29",
+        "263:0.1245"
+      ],
+      [
+        "241:414.84",
+        "261:129.16",
+        "271:61.72",
+        "263:0.166"
+      ],
+      [
+        "241:518.55",
+        "261:161.45",
+        "271:77.15",
+        "263:0.2075"
+      ],
+      [
+        "241:622.26",
+        "261:193.74",
+        "271:92.58",
+        "263:0.249"
+      ],
+      [
+        "241:725.97",
+        "261:226.03",
+        "271:108.01",
+        "263:0.2905"
+      ]
+    ],
+    "awakeSkill": [
+      129131,
+      129132
+    ],
+    "awakeAward": [
+      238291,
+      238001,
+      239291,
+      238001,
+      0,
+      238001,
+      0
+    ],
+    "levelAward": [
+      [
+        20,
+        238331
+      ],
+      [
+        30,
+        238001
+      ],
+      [
+        40,
+        239331
+      ],
+      [
+        50,
+        238001
+      ],
+      [
+        70,
+        238001
+      ]
+    ],
+    "awakeUnlockLv": [
+      1,
+      4
+    ],
+    "awakeMaxLv": [
+      4,
+      7,
+      10
+    ],
+    "skills": [],
+    "gunSkill": 0,
+    "gunBullets": 0,
+    "gunAccuracy": 0,
+    "gunCritical": 0,
+    "resetPosition": 1,
+    "cardCommend": [
+      [
         0
       ]
     ],
@@ -8558,6 +10890,19 @@
     "saferoomShowType": 3,
     "collectionExp": 0,
     "commendSn": [],
-    "testThiefInfo": ""
+    "testThiefIcon": "",
+    "fiveStarPic": "wuqi-shilian-26-2.png",
+    "fourStarPic": "wuqi-shilian-26-3.png",
+    "threeStarPic": "wuqi-shilian-26-1.png",
+    "thiefPic": "fox-generalAttack-jokerH.png",
+    "thiefPos": [
+      335,
+      257
+    ],
+    "collectionThiefPos": [
+      -9,
+      -38
+    ],
+    "weaponSelectPic": ""
   }
 ]

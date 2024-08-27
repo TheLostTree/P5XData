@@ -294,6 +294,20 @@
     "image": "tutorials-21201.png"
   },
   {
+    "sn": 21401,
+    "next": 21402,
+    "title": "画境迷廊",
+    "text": "『<color=#ff3b37>画境迷廊</color>』特殊空间中有很多秘宝。\n怪盗团需要在副本内解谜收集秘宝，达到S评分。\n其中拾取『<color=#ff3b37>铸金币</color>』增加大量积分，\n注意不要错过",
+    "image": ""
+  },
+  {
+    "sn": 21402,
+    "next": -1,
+    "title": "画境迷廊",
+    "text": "当发现道路无法继续前进时，不妨仔细观察，\n通过交互『<color=#ff3b37>解谜机关</color>』改变地形。",
+    "image": ""
+  },
+  {
     "sn": 21701,
     "next": -1,
     "title": "宝箱",
@@ -754,6 +768,97 @@
     "title": "贪财鬼",
     "text": "若它们在消失之前，未被攻击中，\n少量时间后，它们会在原来的地方「<color=#ff0000>重新出现</color>」。\n再次靠近，可以再次开启挑战。",
     "image": "tutorials-25502.png"
+  },
+  {
+    "sn": 25601,
+    "next": 25602,
+    "title": "风涡涡漩",
+    "text": "印象空间中的某些区域聚集了一些「<color=#ff0000>风涡涡漩</color>」，驾驶车拾取它，可获得「<color=#ff0000>前进欲望</color>」。",
+    "image": ""
+  },
+  {
+    "sn": 25602,
+    "next": 25603,
+    "title": "风涡涡漩",
+    "text": "「<color=#ff0000>前进欲望</color>」使用后，可以大幅增加车的<color=#ff0000>速度</color>，并持续一段时间。",
+    "image": ""
+  },
+  {
+    "sn": 25603,
+    "next": -1,
+    "title": "风涡涡漩",
+    "text": "「<color=#ff0000>风涡涡漩</color>」消失后，会在一段时间后重新<color=#ff0000>聚集</color>，可以被重新拾取。",
+    "image": ""
+  },
+  {
+    "sn": 27001,
+    "next": -1,
+    "title": "能量收集器",
+    "text": "宫殿中出现了很多需要「<color=#ff3b37>能量</color>」才能运转的装置。\n使用「<color=#ff3b37>能量转移装置</color>」能将一处的能量转移到另一处。",
+    "image": "tutorials-27001.png"
+  },
+  {
+    "sn": 27101,
+    "next": 27102,
+    "title": "能量收集器的操作",
+    "text": "移动「<color=#ff3b37>准星</color>」对准可被吸收能量的物体，\n长按「<color=#ff3b37>吸收</color>」按钮来进行转移。",
+    "image": "tutorials-27101.png"
+  },
+  {
+    "sn": 27102,
+    "next": -1,
+    "title": "能量收集器的操作",
+    "text": "同样，移动「<color=#ff3b37>准星</color>」后长按「<color=#ff3b37>释放</color>」按钮，\n向可接收能量的物体进行能量转移。",
+    "image": "tutorials-27102.png"
+  },
+  {
+    "sn": 27201,
+    "next": -1,
+    "title": "能量的容量",
+    "text": "不同的物体，能容纳/需要的「<color=#ff3b37>能量上限</color>」有所不同。\n左列图标代表物体的能量容量是<color=#ff3b37>有限</color>的。右列图标则说明该物体能<color=#ff3b37>持续供应能量</color>或<color=#ff3b37>持续消耗能量</color>。",
+    "image": "tutorials-27201.png"
+  },
+  {
+    "sn": 27301,
+    "next": 27302,
+    "title": "热能与能量传输器",
+    "text": "储水罐中源源不断的「<color=#ff3b37>热能</color>」产生了挡路的高温蒸汽。\n将热能<color=#ff3b37>转移</color>到另一侧的储水罐中，也许能有所帮助。",
+    "image": "tutorials-27301.png"
+  },
+  {
+    "sn": 27302,
+    "next": 27303,
+    "title": "热能与能量传输器",
+    "text": "使用新的「<color=#ff3b37>能量传输装置</color>」，\n可以<color=#ff3b37>持续</color>将能量从一个物体转移至另一个物体。",
+    "image": "tutorials-27302.png"
+  },
+  {
+    "sn": 27303,
+    "next": 27304,
+    "title": "热能与能量传输器",
+    "text": "使用装置一侧的准星，选中可以<color=#ff3b37>被吸收能量</color>的物体；",
+    "image": "tutorials-27303.png"
+  },
+  {
+    "sn": 27304,
+    "next": 27305,
+    "title": "热能与能量传输器",
+    "text": "使用装置另一侧的准星，选中可以<color=#ff3b37>接收能量</color>的物体；",
+    "image": "tutorials-27304.png"
+  },
+  {
+    "sn": 27305,
+    "next": -1,
+    "title": "热能与能量传输器",
+    "text": "只有两侧各选中可<color=#ff3b37>被吸收能量</color>和可<color=#ff3b37>接收能量</color>的物体，\n才能进行能量的<color=#ff3b37>持续传输</color>。将准星移出物体范围，则会中断传输。",
+    "image": "tutorials-27305.png"
+  },
+  {
+    "sn": 27401,
+    "next": -1,
+    "title": "动能的使用",
+    "text": "物体运动的能量也可以进行运用。\n将收集的「<color=#ff3b37>动能</color>」传输给某些装置，就能使其运动。",
+    "image": "tutorials-27401.png"
   },
   {
     "sn": 30101,
@@ -1248,8 +1353,8 @@
   {
     "sn": 60406,
     "next": 60411,
-    "title": "宝箱",
-    "text": "在某些站台中，能遇到随机数量的「<color=#ff3b37>宝箱</color>」。\n选择一个宝箱开启可以获得<color=#ff3b37>对应的奖励</color>。",
+    "title": "奇迹福引",
+    "text": "<color=#ff3b37>奇迹福引</color>：能遇到随机数量的「<color=#ff3b37>宝箱</color>」。\n选择一个宝箱开启可以获得<color=#ff3b37>对应的奖励</color>。",
     "image": "tutorials-60406.png"
   },
   {
@@ -1307,6 +1412,62 @@
     "title": "命运交错之时",
     "text": "「<color=#ff3b37>女神异闻录5</color>」联动剧情「<color=#ff3b37>城堡篇</color>」开启！\n命运交错之时，背负使命之人，将共同踏上这连接过去与未来的旅途…",
     "image": "tutorials-60601-i18n.png"
+  },
+  {
+    "sn": 61001,
+    "next": -1,
+    "title": "宝箱",
+    "text": "<color=#ff3b37>奇迹福引</color>站台，能遇到随机数量的「<color=#ff3b37>宝箱</color>」。\n宝箱分3种类型：「遗失物」、「御守」、「硬币」。\n<color=#ff3b37>选择其中一个开启后，其他宝箱自动消失。</color>",
+    "image": "tutorials-60406.png"
+  },
+  {
+    "sn": 61101,
+    "next": -1,
+    "title": "体力模式",
+    "text": "「首领瞋恚」开放「<color=#ff3b37>体力模式</color>」挑战。\n·模式下可以<color=#ff3b37>消耗体力重复挑战获得奖励</color>。\n·同时提供强大的「词缀」助力首领挑战。",
+    "image": ""
+  },
+  {
+    "sn": 61201,
+    "next": 61202,
+    "title": "委托任务",
+    "text": "<color=#FFD145>玛奇姆</color>正在印象空间中开展新的贸易活动，\n为了应对突发状况，她希望拜托你来进行协助。\n根据「<color=#ff3b37>委托</color>」所需条件<color=#ff3b37>派遣怪盗</color>，完成后领取谢礼，\n如果满足<color=#ff3b37>加分</color>条件，还可以获得额外的报酬哦。",
+    "image": ""
+  },
+  {
+    "sn": 61202,
+    "next": 61203,
+    "title": "委托类型",
+    "text": "「<color=#ff3b37>限定</color>」委托，在满足特定条件后出现。\n「<color=#ff3b37>每周、每日</color>」委托，周期内仅刷新一个。\n「<color=#ff3b37>常规</color>」委托，完成后自动刷新。",
+    "image": ""
+  },
+  {
+    "sn": 61203,
+    "next": 61204,
+    "title": "委托刷新",
+    "text": "可以一次性刷新所有未派遣的「<color=#ff3b37>非限定</color>」委托。\n刷新需要消耗「委托刷新券」。\n<color=#ff3b37>每日首次刷新免费</color>",
+    "image": ""
+  },
+  {
+    "sn": 61204,
+    "next": -1,
+    "title": "委托等级",
+    "text": "完成委托后，会累计委托经验。\n随委托等级提升：\n增加<color=#ff3b37>同时可接</color>委托任务数量；\n增加<color=#ff3b37>同时刷出</color>的「常规」委托数量。",
+    "image": ""
+  },
+  {
+    "sn": 61301,
+    "next": 61302,
+    "title": "怪盗秘闻",
+    "text": "「怪盗秘闻」玩法中，消耗「秘闻钥匙」，可以解锁指定怪盗的秘闻挑战。\n通关秘闻挑战，可以获得首次挑战奖励。",
+    "image": ""
+  },
+  {
+    "sn": 61302,
+    "next": -1,
+    "title": "怪盗秘闻",
+    "text": "每个怪盗秘闻挑战会在其更新后限时解锁，并同步开启限时挑战。\n每次重复通关限时挑战，均可获得挑战奖励。",
+    "image": ""
   },
   {
     "sn": 70101,
@@ -1383,6 +1544,76 @@
     "next": -1,
     "title": "宝箱守卫",
     "text": "城堡中隐藏着少量「<color=#ff0000>强大的守卫</color>」，击败后可以获得其看守的「<color=#ff0000>宝物</color>」。",
+    "image": ""
+  },
+  {
+    "sn": 80108,
+    "next": -1,
+    "title": "摄像机",
+    "text": "场景中散落着一些「<color=#ff0000>摄像机</color>」，\n不同类型的摄像机，需要找到对应的「<color=#ff0000>模组</color>」将其激活，\n才能够正常使用。",
+    "image": "tutorials-22401.png"
+  },
+  {
+    "sn": 80109,
+    "next": 80110,
+    "title": "摄像机模组",
+    "text": "「<color=#ff0000>摄像机模组</color>」触碰后可以拾取，\n不同的摄像机模组可以激活场景中对应的摄像机。",
+    "image": "tutorials-22501.png"
+  },
+  {
+    "sn": 80110,
+    "next": -1,
+    "title": "摄像机模组",
+    "text": "击败<color=#ff0000>摄像机附近</color>的某些怪物，\n通常会掉落激活摄像机的对应「<color=#ff0000>模组</color>」。",
+    "image": ""
+  },
+  {
+    "sn": 80111,
+    "next": 80112,
+    "title": "具现化摄像机",
+    "text": "拥有「<color=#ff0000>具现化模组</color>」后，\n靠近「<color=#ff0000>具现化摄像机</color>」，交互即可将其激活。",
+    "image": "tutorials-22701.png"
+  },
+  {
+    "sn": 80112,
+    "next": -1,
+    "title": "具现化摄像机",
+    "text": "具现化相机可将场景中的具现化交互物变成<color=#ff0000>半透状态</color>，\n或将其变为<color=#ff0000>普通状态</color>。",
+    "image": "tutorials-22702.png"
+  },
+  {
+    "sn": 80113,
+    "next": -1,
+    "title": "监控摄像机",
+    "text": "命运交错之时·银行篇特有的机关\n一旦进入摄像机「<color=#ff0000>监控区域</color>」，警戒度随即「<color=#ff0000>上升</color>」。",
+    "image": ""
+  },
+  {
+    "sn": 80114,
+    "next": -1,
+    "title": "间隔摄像机",
+    "text": "命运交错之时·银行篇特有的机关\n循环开关的特殊摄像机，当其「<color=#ff3b37>开启时</color>」进入监控区域，警戒度将会上升。",
+    "image": ""
+  },
+  {
+    "sn": 80115,
+    "next": 80116,
+    "title": "警戒度升高",
+    "text": "当前区域警戒度的高低，会以「<color=#ff3b37>警戒度槽</color>」的方式显示在地图左侧。",
+    "image": ""
+  },
+  {
+    "sn": 80116,
+    "next": 80117,
+    "title": "警戒度升高",
+    "text": "如果警戒度高于标准值，区域环境将「<color=#ff3b37>产生相应变化</color>」。\n警戒度到达峰值后，探索行动将「<color=#ff3b37>被迫中断</color>」，请多加注意。",
+    "image": ""
+  },
+  {
+    "sn": 80117,
+    "next": -1,
+    "title": "警戒度升高",
+    "text": "击败区域内的普通阴影，警戒度将会「<color=#ff3b37>略微下降</color>」。\n如果击败了强大的阴影，警戒度将会「<color=#ff3b37>大幅下降</color>」。",
     "image": ""
   },
   {

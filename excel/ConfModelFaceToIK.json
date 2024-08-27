@@ -2,8 +2,16 @@
   {
     "sn": "wonder",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 15,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -24,8 +32,16 @@
   {
     "sn": "wonder_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -46,8 +62,16 @@
   {
     "sn": "wonder_bianlidian",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -68,8 +92,16 @@
   {
     "sn": "joker",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 15,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -90,8 +122,16 @@
   {
     "sn": "joker_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -112,8 +152,16 @@
   {
     "sn": "joker_uniform_bag",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -134,8 +182,16 @@
   {
     "sn": "joker_uniform_glasses",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -156,8 +212,16 @@
   {
     "sn": "joker_fashion_01",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -178,8 +242,16 @@
   {
     "sn": "joker_fashion_01_bag",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -200,8 +272,16 @@
   {
     "sn": "joker_fashion_01_glasses",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -222,8 +302,16 @@
   {
     "sn": "joker_UI",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -244,8 +332,16 @@
   {
     "sn": "joker_fashion_fabuhui",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -266,8 +362,16 @@
   {
     "sn": "mona",
     "constrainHeadBonePoint": "Bip01 Spine2",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -288,8 +392,16 @@
   {
     "sn": "mona_cat",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -310,8 +422,16 @@
   {
     "sn": "skull",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -332,8 +452,16 @@
   {
     "sn": "skull_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -354,8 +482,16 @@
   {
     "sn": "panther",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 10,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -376,8 +512,16 @@
   {
     "sn": "panther_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -398,8 +542,16 @@
   {
     "sn": "fox",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -420,8 +572,16 @@
   {
     "sn": "fox_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -442,8 +602,16 @@
   {
     "sn": "queen",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 25,
     "maxHeadWeight": 1,
     "constrainChestBonePoint": "",
@@ -456,8 +624,16 @@
   {
     "sn": "queen_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -478,8 +654,16 @@
   {
     "sn": "noir",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -500,8 +684,16 @@
   {
     "sn": "crow",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 10,
     "maxHeadWeight": 1,
     "constrainChestBonePoint": "",
@@ -514,8 +706,16 @@
   {
     "sn": "crow_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -536,8 +736,16 @@
   {
     "sn": "navi_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -558,8 +766,16 @@
   {
     "sn": "tembin",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -580,8 +796,16 @@
   {
     "sn": "tembin_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -602,8 +826,16 @@
   {
     "sn": "tembin_uniform_fabuhui",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -624,8 +856,16 @@
   {
     "sn": "comte",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -646,8 +886,16 @@
   {
     "sn": "leo",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -668,8 +916,16 @@
   {
     "sn": "pitcher",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -690,8 +946,16 @@
   {
     "sn": "wind_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -712,8 +976,16 @@
   {
     "sn": "ZhuShou",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -734,8 +1006,16 @@
   {
     "sn": "closer_uniform",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -755,9 +1035,9 @@
   },
   {
     "sn": "arsene",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -769,9 +1049,9 @@
   },
   {
     "sn": "kidd",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -783,9 +1063,9 @@
   },
   {
     "sn": "carmen",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -797,9 +1077,9 @@
   },
   {
     "sn": "zorro",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -811,9 +1091,9 @@
   },
   {
     "sn": "pegasus",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -825,9 +1105,9 @@
   },
   {
     "sn": "goemon",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -839,9 +1119,9 @@
   },
   {
     "sn": "milady",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -853,9 +1133,9 @@
   },
   {
     "sn": "yohanna",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -867,9 +1147,9 @@
   },
   {
     "sn": "robinhood",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -882,8 +1162,16 @@
   {
     "sn": "rantan",
     "constrainHeadBonePoint": "b_head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -904,8 +1192,16 @@
   {
     "sn": "erigor",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -926,8 +1222,16 @@
   {
     "sn": "moloch",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -948,8 +1252,16 @@
   {
     "sn": "jackfrost",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -970,8 +1282,16 @@
   {
     "sn": "thor",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -992,8 +1312,16 @@
   {
     "sn": "agation",
     "constrainHeadBonePoint": "b_head_00",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1014,8 +1342,16 @@
   {
     "sn": "bicorn",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1036,8 +1372,16 @@
   {
     "sn": "titania",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1058,8 +1402,16 @@
   {
     "sn": "isis",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1080,8 +1432,16 @@
   {
     "sn": "ramia",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1102,8 +1462,16 @@
   {
     "sn": "oberon",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1124,8 +1492,16 @@
   {
     "sn": "succubus",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1146,8 +1522,16 @@
   {
     "sn": "kamoshida",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1168,8 +1552,16 @@
   {
     "sn": "cuchulainn",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1190,8 +1582,16 @@
   {
     "sn": "dominion",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1212,8 +1612,16 @@
   {
     "sn": "gabriel",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1234,8 +1642,16 @@
   {
     "sn": "jaakufrost",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1256,8 +1672,16 @@
   {
     "sn": "kingfrost",
     "constrainHeadBonePoint": "b head01",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1278,8 +1702,16 @@
   {
     "sn": "michael",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1300,8 +1732,16 @@
   {
     "sn": "mokoi",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1322,8 +1762,16 @@
   {
     "sn": "oni",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1344,8 +1792,16 @@
   {
     "sn": "orthos",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1366,8 +1822,16 @@
   {
     "sn": "parvati",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1388,8 +1852,16 @@
   {
     "sn": "rangda",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1410,8 +1882,16 @@
   {
     "sn": "ririm",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1432,8 +1912,16 @@
   {
     "sn": "sandalphon",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1454,8 +1942,16 @@
   {
     "sn": "sarasvati",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1476,8 +1972,16 @@
   {
     "sn": "alice",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1498,8 +2002,16 @@
   {
     "sn": "unicorn",
     "constrainHeadBonePoint": "Bip02 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1520,8 +2032,16 @@
   {
     "sn": "yoshitune",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1542,8 +2062,16 @@
   {
     "sn": "kurama",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1564,8 +2092,16 @@
   {
     "sn": "jatayu",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1586,8 +2122,16 @@
   {
     "sn": "archangel",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1608,8 +2152,16 @@
   {
     "sn": "suzaku",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1630,8 +2182,16 @@
   {
     "sn": "izanagi",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1652,8 +2212,16 @@
   {
     "sn": "klotho",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1674,8 +2242,16 @@
   {
     "sn": "nekoshogun",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1696,8 +2272,16 @@
   {
     "sn": "anubis",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1718,8 +2302,16 @@
   {
     "sn": "pazuzu",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1740,8 +2332,16 @@
   {
     "sn": "ookuni",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1762,8 +2362,16 @@
   {
     "sn": "byako",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1784,8 +2392,16 @@
   {
     "sn": "horus",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1806,8 +2422,16 @@
   {
     "sn": "lakshmi",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1828,8 +2452,16 @@
   {
     "sn": "koryu",
     "constrainHeadBonePoint": "b head 00",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1850,8 +2482,16 @@
   {
     "sn": "asterios",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1872,8 +2512,16 @@
   {
     "sn": "vishnu",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1894,8 +2542,16 @@
   {
     "sn": "mothman",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1916,8 +2572,16 @@
   {
     "sn": "onmoraki",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -1938,8 +2602,16 @@
   {
     "sn": "makami",
     "constrainHeadBonePoint": "b head01",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "b spine09",
@@ -1960,8 +2632,16 @@
   {
     "sn": "decarabia",
     "constrainHeadBonePoint": "b Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "b spine01",
@@ -1982,8 +2662,16 @@
   {
     "sn": "korpokkur",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.9,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2004,8 +2692,16 @@
   {
     "sn": "ganesha",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2026,8 +2722,16 @@
   {
     "sn": "lachesis",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2048,8 +2752,16 @@
   {
     "sn": "shikiouji",
     "constrainHeadBonePoint": "b_Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "b_Spine_01",
@@ -2070,8 +2782,16 @@
   {
     "sn": "kinki",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2092,8 +2812,16 @@
   {
     "sn": "cerberus",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2114,8 +2842,16 @@
   {
     "sn": "amenouzume",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2136,8 +2872,16 @@
   {
     "sn": "houou",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2158,8 +2902,16 @@
   {
     "sn": "jikokuten",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2180,8 +2932,16 @@
   {
     "sn": "zouchouten",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2202,8 +2962,16 @@
   {
     "sn": "arahabaki",
     "constrainHeadBonePoint": "ct arahabaki_head02",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "ct arahabaki_body",
@@ -2224,8 +2992,16 @@
   {
     "sn": "belphegor",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2246,8 +3022,16 @@
   {
     "sn": "high_pixy",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2268,8 +3052,16 @@
   {
     "sn": "hells_angel",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2290,8 +3082,16 @@
   {
     "sn": "yamatano_orochi",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2312,8 +3112,16 @@
   {
     "sn": "norn",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "rot",
@@ -2334,8 +3142,16 @@
   {
     "sn": "mada",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2356,8 +3172,16 @@
   {
     "sn": "genbu",
     "constrainHeadBonePoint": "b Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.8,
     "constrainChestBonePoint": "b Spine",
@@ -2378,8 +3202,16 @@
   {
     "sn": "slime",
     "constrainHeadBonePoint": "b_head00",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "b_spine03",
@@ -2400,8 +3232,16 @@
   {
     "sn": "apsaras",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2422,8 +3262,16 @@
   {
     "sn": "kodama",
     "constrainHeadBonePoint": "b_Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "b_Spine_04",
@@ -2444,8 +3292,16 @@
   {
     "sn": "kushimitama",
     "constrainHeadBonePoint": "b u mouth01",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "b root01",
@@ -2466,8 +3322,16 @@
   {
     "sn": "nigimitama",
     "constrainHeadBonePoint": "b u mouth01",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "b root01",
@@ -2488,8 +3352,16 @@
   {
     "sn": "rakshasa",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2510,8 +3382,16 @@
   {
     "sn": "zandmann",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2532,8 +3412,16 @@
   {
     "sn": "anzu",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2554,8 +3442,16 @@
   {
     "sn": "blackooze",
     "constrainHeadBonePoint": "b_head00",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "b_spine03",
@@ -2576,8 +3472,16 @@
   {
     "sn": "blackooze_devil",
     "constrainHeadBonePoint": "b_head00",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "b_spine03",
@@ -2598,8 +3502,16 @@
   {
     "sn": "mitra",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2620,8 +3532,16 @@
   {
     "sn": "atropos",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2642,8 +3562,16 @@
   {
     "sn": "kikurihime",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2664,8 +3592,16 @@
   {
     "sn": "koumokuten",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2686,8 +3622,16 @@
   {
     "sn": "yatagarasu",
     "constrainHeadBonePoint": "Bip02 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip02 Spine1",
@@ -2708,8 +3652,16 @@
   {
     "sn": "nebiros",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine 01",
@@ -2730,8 +3682,16 @@
   {
     "sn": "seiryu",
     "constrainHeadBonePoint": "b head_01",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "p_Pelvis",
@@ -2752,8 +3712,16 @@
   {
     "sn": "bishamonten",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2774,8 +3742,16 @@
   {
     "sn": "belial",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2796,8 +3772,16 @@
   {
     "sn": "cybele",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2818,8 +3802,16 @@
   {
     "sn": "futunusi",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2840,8 +3832,16 @@
   {
     "sn": "asura",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2862,8 +3862,16 @@
   {
     "sn": "raphael",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2884,8 +3892,16 @@
   {
     "sn": "zaougongen",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2906,8 +3922,16 @@
   {
     "sn": "sraosha",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2928,8 +3952,16 @@
   {
     "sn": "uriel",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2950,8 +3982,16 @@
   {
     "sn": "madarame",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -2972,8 +4012,16 @@
   {
     "sn": "kaneshiro",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -2994,8 +4042,16 @@
   {
     "sn": "zhendai_01",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3016,8 +4072,16 @@
   {
     "sn": "zhendai_02",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3038,8 +4102,16 @@
   {
     "sn": "zhendai_03",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3060,8 +4132,16 @@
   {
     "sn": "zhendai_04",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3082,8 +4162,16 @@
   {
     "sn": "wujianmiao",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3104,8 +4192,16 @@
   {
     "sn": "wujianmiao_doctor",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3126,8 +4222,16 @@
   {
     "sn": "zongjiu",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3148,8 +4252,16 @@
   {
     "sn": "zongzhilang_01",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3170,8 +4282,16 @@
   {
     "sn": "zongzhilang_02",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3192,8 +4312,16 @@
   {
     "sn": "youhui_01",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.8,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3214,8 +4342,16 @@
   {
     "sn": "youhui_02",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.8,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3236,8 +4372,16 @@
   {
     "sn": "youhui_03",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.8,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3258,8 +4402,16 @@
   {
     "sn": "yinzhizhu",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3280,8 +4432,16 @@
   {
     "sn": "qianzao",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3302,8 +4462,16 @@
   {
     "sn": "yiersan",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3324,8 +4492,16 @@
   {
     "sn": "xindaoya",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3346,8 +4522,16 @@
   {
     "sn": "igor",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3368,8 +4552,16 @@
   {
     "sn": "caroline",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3390,8 +4582,16 @@
   {
     "sn": "justine",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3412,8 +4612,16 @@
   {
     "sn": "std_c9025_000_00_b",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3434,8 +4642,16 @@
   {
     "sn": "world_mascot",
     "constrainHeadBonePoint": "Bip001 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -3456,8 +4672,16 @@
   {
     "sn": "world_idol",
     "constrainHeadBonePoint": "Bip001 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3478,8 +4702,16 @@
   {
     "sn": "sd_yazhitian_King",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 30,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -3500,8 +4732,16 @@
   {
     "sn": "sd_BanMu",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -3522,8 +4762,16 @@
   {
     "sn": "sd_JinCheng",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3543,9 +4791,9 @@
   },
   {
     "sn": "mona_story",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -3557,9 +4805,9 @@
   },
   {
     "sn": "jackfrost_story",
-    "constrainHeadBonePoint": "AAAAAA==",
-    "aimHeadAxis": "AAAAAA==",
-    "upHeadAxis": "AAAAAA==",
+    "constrainHeadBonePoint": "",
+    "aimHeadAxis": [],
+    "upHeadAxis": [],
     "maxHeadAngle": 0,
     "maxHeadWeight": 0,
     "constrainChestBonePoint": "",
@@ -3572,8 +4820,16 @@
   {
     "sn": "n_Kamoshida",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -3594,8 +4850,16 @@
   {
     "sn": "jumao",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3616,8 +4880,16 @@
   {
     "sn": "GuitarGirl",
     "constrainHeadBonePoint": "Bip001 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip001 Spine2",
@@ -3638,8 +4910,16 @@
   {
     "sn": "DaGongRen",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -3660,8 +4940,16 @@
   {
     "sn": "ShaoNiao",
     "constrainHeadBonePoint": "Bip001 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip001 Spine1",
@@ -3682,8 +4970,16 @@
   {
     "sn": "HeYan",
     "constrainHeadBonePoint": "Bip001 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip001 Spine1",
@@ -3704,8 +5000,16 @@
   {
     "sn": "JiePai",
     "constrainHeadBonePoint": "Bip001 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip001 Spine2",
@@ -3726,8 +5030,16 @@
   {
     "sn": "MuJuan",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 1,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3748,8 +5060,16 @@
   {
     "sn": "OldLady",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -3770,8 +5090,16 @@
   {
     "sn": "ShiZiWangJie",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3792,8 +5120,16 @@
   {
     "sn": "JianShen",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3814,8 +5150,16 @@
   {
     "sn": "SportsGirl",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3836,8 +5180,16 @@
   {
     "sn": "CoffeeGirl",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3858,8 +5210,16 @@
   {
     "sn": "MuNei",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine2",
@@ -3880,8 +5240,16 @@
   {
     "sn": "world_police",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",
@@ -3902,8 +5270,16 @@
   {
     "sn": "world_xiuxian04",
     "constrainHeadBonePoint": "Bip01 Head",
-    "aimHeadAxis": "0,1,0",
-    "upHeadAxis": "-1,0,0",
+    "aimHeadAxis": [
+      0,
+      1,
+      0
+    ],
+    "upHeadAxis": [
+      -1,
+      0,
+      0
+    ],
     "maxHeadAngle": 45,
     "maxHeadWeight": 0.6,
     "constrainChestBonePoint": "Bip01 Spine1",

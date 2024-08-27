@@ -1,0 +1,46 @@
+[
+  {
+    "sn": 1,
+    "modelSn": "wonder",
+    "itemSn": 309501,
+    "isShow": 1,
+    "channel": [],
+    "order": 1,
+    "thiefSn": [
+      101
+    ],
+    "label": [],
+    "bgPic": "Skin-zhuti-bg01.png",
+    "color": [],
+    "teamPic": "zhenrong-lihui-wonder-new.png",
+    "thiefPic": "Tongyong-touxiang-A-11.png",
+    "effectClose": [],
+    "light": "Sceneinit_wonder"
+  },
+  {
+    "sn": 2,
+    "modelSn": "wonder_thief_swimsuit",
+    "itemSn": 309502,
+    "isShow": 1,
+    "channel": [],
+    "order": 1000,
+    "thiefSn": [
+      101
+    ],
+    "label": [
+      "总攻击焕新",
+      "HIGHLIGHT焕新"
+    ],
+    "bgPic": "Skin-zhuti-bg02.png",
+    "color": [
+      "#20D49F",
+      "#3297E6"
+    ],
+    "teamPic": "zhenrong-lihui-wonderS-new.png",
+    "thiefPic": "Tongyong-touxiang-A-32.png",
+    "effectClose": [
+      "maskeffect"
+    ],
+    "light": "Sceneinit_wonder_swim"
+  }
+]

@@ -41,7 +41,9 @@
     "scene": 5145,
     "playTL": "TL_Music_01_WakeUpYourHero",
     "quest": 40323,
-    "order": 10
+    "order": 10,
+    "previewMusic": "BGM_WakeUpYourHero_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 102,
@@ -85,7 +87,9 @@
     "scene": 5145,
     "playTL": "TL_Music_01_WakeUpYourHero",
     "quest": 0,
-    "order": 10
+    "order": 10,
+    "previewMusic": "BGM_WakeUpYourHero_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 103,
@@ -132,7 +136,9 @@
     "scene": 5145,
     "playTL": "TL_Music_01_WakeUpYourHero",
     "quest": 0,
-    "order": 10
+    "order": 10,
+    "previewMusic": "BGM_WakeUpYourHero_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 201,
@@ -175,8 +181,10 @@
     ],
     "scene": 272,
     "playTL": "TL_Music_02_LifeWillChange",
-    "quest": 0,
-    "order": 80
+    "quest": 40338,
+    "order": 80,
+    "previewMusic": "BGM_LifeWillChange_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 202,
@@ -219,8 +227,10 @@
     ],
     "scene": 272,
     "playTL": "TL_Music_02_LifeWillChange",
-    "quest": 0,
-    "order": 80
+    "quest": 40338,
+    "order": 80,
+    "previewMusic": "BGM_LifeWillChange_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 203,
@@ -266,8 +276,10 @@
     ],
     "scene": 272,
     "playTL": "TL_Music_02_LifeWillChange",
-    "quest": 0,
-    "order": 80
+    "quest": 40338,
+    "order": 80,
+    "previewMusic": "BGM_LifeWillChange_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 301,
@@ -311,7 +323,9 @@
     "scene": 274,
     "playTL": "TL_Music_03_WillPower",
     "quest": 0,
-    "order": 20
+    "order": 20,
+    "previewMusic": "BGM_WillPower_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 302,
@@ -355,7 +369,9 @@
     "scene": 274,
     "playTL": "TL_Music_03_WillPower",
     "quest": 0,
-    "order": 20
+    "order": 20,
+    "previewMusic": "BGM_WillPower_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 401,
@@ -399,7 +415,9 @@
     "scene": 5145,
     "playTL": "TL_Music_04_TokyoEmergency",
     "quest": 0,
-    "order": 30
+    "order": 30,
+    "previewMusic": "BGM_TokyoEmergency_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 402,
@@ -443,7 +461,9 @@
     "scene": 5145,
     "playTL": "TL_Music_04_TokyoEmergency",
     "quest": 0,
-    "order": 30
+    "order": 30,
+    "previewMusic": "BGM_TokyoEmergency_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 501,
@@ -487,7 +507,9 @@
     "scene": 272,
     "playTL": "TL_Music_05_LastSurprise",
     "quest": 0,
-    "order": 11
+    "order": 11,
+    "previewMusic": "BGM_LastSurprise_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 502,
@@ -531,7 +553,9 @@
     "scene": 272,
     "playTL": "TL_Music_05_LastSurprise",
     "quest": 0,
-    "order": 11
+    "order": 11,
+    "previewMusic": "BGM_LastSurprise_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 601,
@@ -575,7 +599,9 @@
     "scene": 274,
     "playTL": "TL_Music_06_DesireSurrender",
     "quest": 0,
-    "order": 12
+    "order": 12,
+    "previewMusic": "BGM_DesireSurrender_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 602,
@@ -619,7 +645,9 @@
     "scene": 274,
     "playTL": "TL_Music_06_DesireSurrender",
     "quest": 0,
-    "order": 12
+    "order": 12,
+    "previewMusic": "BGM_DesireSurrender_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 701,
@@ -663,7 +691,9 @@
     "scene": 5145,
     "playTL": "TL_Music_07_ShadowLoop",
     "quest": 0,
-    "order": 40
+    "order": 40,
+    "previewMusic": "BGM_ShadowLoop_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 702,
@@ -707,7 +737,9 @@
     "scene": 5145,
     "playTL": "TL_Music_07_ShadowLoop",
     "quest": 0,
-    "order": 40
+    "order": 40,
+    "previewMusic": "BGM_ShadowLoop_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 801,
@@ -751,7 +783,9 @@
     "scene": 272,
     "playTL": "TL_Music_08_LastStrike",
     "quest": 40329,
-    "order": 50
+    "order": 50,
+    "previewMusic": "BGM_LastStrike_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 802,
@@ -795,7 +829,9 @@
     "scene": 272,
     "playTL": "TL_Music_08_LastStrike",
     "quest": 40329,
-    "order": 50
+    "order": 50,
+    "previewMusic": "BGM_LastStrike_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 901,
@@ -839,7 +875,9 @@
     "scene": 274,
     "playTL": "TL_Music_09_BloomingVillain",
     "quest": 0,
-    "order": 60
+    "order": 60,
+    "previewMusic": "BGM_BloomingVillain_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 902,
@@ -883,7 +921,9 @@
     "scene": 274,
     "playTL": "TL_Music_09_BloomingVillain",
     "quest": 0,
-    "order": 60
+    "order": 60,
+    "previewMusic": "BGM_BloomingVillain_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 1001,
@@ -927,7 +967,9 @@
     "scene": 5145,
     "playTL": "TL_Music_10_RiversInTheDesert",
     "quest": 40334,
-    "order": 70
+    "order": 70,
+    "previewMusic": "BGM_RiversInTheDesert_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 1002,
@@ -971,7 +1013,9 @@
     "scene": 5145,
     "playTL": "TL_Music_10_RiversInTheDesert",
     "quest": 40334,
-    "order": 70
+    "order": 70,
+    "previewMusic": "BGM_RiversInTheDesert_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 1101,
@@ -1015,7 +1059,9 @@
     "scene": 272,
     "playTL": "TL_Music_11_FakeIdol",
     "quest": 0,
-    "order": 90
+    "order": 90,
+    "previewMusic": "BGM_FakeIdol_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 1102,
@@ -1059,7 +1105,9 @@
     "scene": 272,
     "playTL": "TL_Music_11_FakeIdol",
     "quest": 0,
-    "order": 90
+    "order": 90,
+    "previewMusic": "BGM_FakeIdol_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 1103,
@@ -1103,7 +1151,9 @@
     "scene": 272,
     "playTL": "TL_Music_11_FakeIdol",
     "quest": 0,
-    "order": 90
+    "order": 90,
+    "previewMusic": "BGM_FakeIdol_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 1201,
@@ -1147,7 +1197,9 @@
     "scene": 274,
     "playTL": "TL_Music_12_FatalDesire",
     "quest": 0,
-    "order": 100
+    "order": 100,
+    "previewMusic": "BGM_FatalDesire_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 1202,
@@ -1191,7 +1243,9 @@
     "scene": 274,
     "playTL": "TL_Music_12_FatalDesire",
     "quest": 0,
-    "order": 100
+    "order": 100,
+    "previewMusic": "BGM_FatalDesire_MG_Loops",
+    "unlockCoop": []
   },
   {
     "sn": 1203,
@@ -1238,6 +1292,1007 @@
     "scene": 274,
     "playTL": "TL_Music_12_FatalDesire",
     "quest": 0,
-    "order": 100
+    "order": 100,
+    "previewMusic": "BGM_FatalDesire_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1301,
+    "songSn": 13,
+    "name": "Life Goes On",
+    "name2": "Life Goes On",
+    "artist": "目黑将司",
+    "length": "1:49",
+    "bpm": 110,
+    "unlockLevel": 2,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 2,
+    "fcNum": 185,
+    "feverScore": 123,
+    "bms": "LifeGoesOn_E.bms",
+    "music": "BGM_LifeGoesOn_MG",
+    "rankScore": [
+      0,
+      18000,
+      40000,
+      54000
+    ],
+    "rankAward": [
+      202802,
+      202803,
+      202804,
+      202805
+    ],
+    "basicAward": [
+      202818,
+      202819,
+      202820,
+      202821
+    ],
+    "achievement": [
+      130101,
+      130102,
+      130103
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_13_LifeGoesOn",
+    "quest": 0,
+    "order": 21,
+    "previewMusic": "BGM_LifeGoesOn_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1302,
+    "songSn": 13,
+    "name": "Life Goes On",
+    "name2": "Life Goes On",
+    "artist": "目黑将司",
+    "length": "1:49",
+    "bpm": 110,
+    "unlockLevel": 2,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 6,
+    "fcNum": 378,
+    "feverScore": 252,
+    "bms": "LifeGoesOn_N.bms",
+    "music": "BGM_LifeGoesOn_MG",
+    "rankScore": [
+      0,
+      44000,
+      98000,
+      134000
+    ],
+    "rankAward": [
+      202806,
+      202807,
+      202808,
+      202809
+    ],
+    "basicAward": [
+      202822,
+      202823,
+      202824,
+      202825
+    ],
+    "achievement": [
+      130201,
+      130202,
+      130203
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_13_LifeGoesOn",
+    "quest": 0,
+    "order": 21,
+    "previewMusic": "BGM_LifeGoesOn_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1401,
+    "songSn": 14,
+    "name": "Ambitions and Visions",
+    "name2": "Ambitions and Visions",
+    "artist": "目黑将司",
+    "length": "1:38",
+    "bpm": 125,
+    "unlockLevel": 2,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 3,
+    "fcNum": 241,
+    "feverScore": 160,
+    "bms": "AmbitionsAndVisions_E.bms",
+    "music": "BGM_AmbitionsAndVisions_MG",
+    "rankScore": [
+      0,
+      25000,
+      57000,
+      77000
+    ],
+    "rankAward": [
+      202802,
+      202803,
+      202804,
+      202805
+    ],
+    "basicAward": [
+      202818,
+      202819,
+      202820,
+      202821
+    ],
+    "achievement": [
+      140101,
+      140102,
+      140103
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_14_AmbitionsAndVisions",
+    "quest": 0,
+    "order": 22,
+    "previewMusic": "BGM_AmbitionsAndVisions_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1402,
+    "songSn": 14,
+    "name": "Ambitions and Visions",
+    "name2": "Ambitions and Visions",
+    "artist": "目黑将司",
+    "length": "1:38",
+    "bpm": 125,
+    "unlockLevel": 2,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 362,
+    "feverScore": 241,
+    "bms": "AmbitionsAndVisions_N.bms",
+    "music": "BGM_AmbitionsAndVisions_MG",
+    "rankScore": [
+      0,
+      42000,
+      93000,
+      127000
+    ],
+    "rankAward": [
+      202806,
+      202807,
+      202808,
+      202809
+    ],
+    "basicAward": [
+      202822,
+      202823,
+      202824,
+      202825
+    ],
+    "achievement": [
+      140201,
+      140202,
+      140203
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_14_AmbitionsAndVisions",
+    "quest": 0,
+    "order": 22,
+    "previewMusic": "BGM_AmbitionsAndVisions_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1403,
+    "songSn": 14,
+    "name": "Ambitions and Visions",
+    "name2": "Ambitions and Visions",
+    "artist": "目黑将司",
+    "length": "1:38",
+    "bpm": 125,
+    "unlockLevel": 0,
+    "unlockStage": [
+      1402,
+      2
+    ],
+    "difficultyLevel": 3,
+    "difficultyNum": 8,
+    "fcNum": 703,
+    "feverScore": 351,
+    "bms": "AmbitionsAndVisions_H.bms",
+    "music": "BGM_AmbitionsAndVisions_MG",
+    "rankScore": [
+      0,
+      54000,
+      109000,
+      164000
+    ],
+    "rankAward": [
+      202810,
+      202811,
+      202812,
+      202813
+    ],
+    "basicAward": [
+      202826,
+      202827,
+      202828,
+      202829
+    ],
+    "achievement": [
+      140301,
+      140302,
+      140303
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_14_AmbitionsAndVisions",
+    "quest": 0,
+    "order": 22,
+    "previewMusic": "BGM_AmbitionsAndVisions_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1501,
+    "songSn": 15,
+    "name": "Break it down",
+    "name2": "Break it down",
+    "artist": "目黑将司",
+    "length": "1:49",
+    "bpm": 92,
+    "unlockLevel": 3,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 1,
+    "fcNum": 104,
+    "feverScore": 69,
+    "bms": "BreakItDown_E.bms",
+    "music": "BGM_BreakItDown_MG",
+    "rankScore": [
+      0,
+      8000,
+      19000,
+      26000
+    ],
+    "rankAward": [
+      202802,
+      202803,
+      202804,
+      202805
+    ],
+    "basicAward": [
+      202818,
+      202819,
+      202820,
+      202821
+    ],
+    "achievement": [
+      150101,
+      150102,
+      150103
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_15_BreakItDown",
+    "quest": 0,
+    "order": 31,
+    "previewMusic": "BGM_BreakItDown_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1502,
+    "songSn": 15,
+    "name": "Break it down",
+    "name2": "Break it down",
+    "artist": "目黑将司",
+    "length": "1:49",
+    "bpm": 92,
+    "unlockLevel": 3,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 339,
+    "feverScore": 226,
+    "bms": "BreakItDown_N.bms",
+    "music": "BGM_BreakItDown_MG",
+    "rankScore": [
+      0,
+      39000,
+      86000,
+      118000
+    ],
+    "rankAward": [
+      202806,
+      202807,
+      202808,
+      202809
+    ],
+    "basicAward": [
+      202822,
+      202823,
+      202824,
+      202825
+    ],
+    "achievement": [
+      150201,
+      150202,
+      150203
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_15_BreakItDown",
+    "quest": 0,
+    "order": 31,
+    "previewMusic": "BGM_BreakItDown_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1601,
+    "songSn": 16,
+    "name": "Wake Up, Get Up, Get Out There",
+    "name2": "Wake Up, Get Up, Get Out There",
+    "artist": "目黑将司",
+    "length": "1:56",
+    "bpm": 127,
+    "unlockLevel": 3,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 2,
+    "fcNum": 164,
+    "feverScore": 109,
+    "bms": "WakeUp_E.bms",
+    "music": "BGM_GetUp_MG",
+    "rankScore": [
+      0,
+      15000,
+      34000,
+      46000
+    ],
+    "rankAward": [
+      202802,
+      202803,
+      202804,
+      202805
+    ],
+    "basicAward": [
+      202818,
+      202819,
+      202820,
+      202821
+    ],
+    "achievement": [
+      160101,
+      160102,
+      160103
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_16_WakeUp",
+    "quest": 0,
+    "order": 32,
+    "previewMusic": "BGM_GetUp_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1602,
+    "songSn": 16,
+    "name": "Wake Up, Get Up, Get Out There",
+    "name2": "Wake Up, Get Up, Get Out There",
+    "artist": "目黑将司",
+    "length": "1:56",
+    "bpm": 127,
+    "unlockLevel": 3,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 318,
+    "feverScore": 212,
+    "bms": "WakeUp_N.bms",
+    "music": "BGM_GetUp_MG",
+    "rankScore": [
+      0,
+      36000,
+      80000,
+      109000
+    ],
+    "rankAward": [
+      202806,
+      202807,
+      202808,
+      202809
+    ],
+    "basicAward": [
+      202822,
+      202823,
+      202824,
+      202825
+    ],
+    "achievement": [
+      160201,
+      160202,
+      160203
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_16_WakeUp",
+    "quest": 0,
+    "order": 32,
+    "previewMusic": "BGM_GetUp_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1603,
+    "songSn": 16,
+    "name": "Wake Up, Get Up, Get Out There",
+    "name2": "Wake Up, Get Up, Get Out There",
+    "artist": "目黑将司",
+    "length": "1:56",
+    "bpm": 127,
+    "unlockLevel": 0,
+    "unlockStage": [
+      1602,
+      2
+    ],
+    "difficultyLevel": 3,
+    "difficultyNum": 9,
+    "fcNum": 765,
+    "feverScore": 382,
+    "bms": "WakeUp_H.bms",
+    "music": "BGM_GetUp_MG",
+    "rankScore": [
+      0,
+      59000,
+      119000,
+      179000
+    ],
+    "rankAward": [
+      202810,
+      202811,
+      202812,
+      202813
+    ],
+    "basicAward": [
+      202826,
+      202827,
+      202828,
+      202829
+    ],
+    "achievement": [
+      160301,
+      160302,
+      160303
+    ],
+    "scene": 274,
+    "playTL": "TL_Music_16_WakeUp",
+    "quest": 0,
+    "order": 32,
+    "previewMusic": "BGM_GetUp_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1701,
+    "songSn": 17,
+    "name": "Dark Net",
+    "name2": "Dark Net",
+    "artist": "目黑将司",
+    "length": "0:49",
+    "bpm": 120,
+    "unlockLevel": 4,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 3,
+    "fcNum": 162,
+    "feverScore": 108,
+    "bms": "DarkNet_E.bms",
+    "music": "BGM_DarkNet_MG",
+    "rankScore": [
+      0,
+      15000,
+      33000,
+      45000
+    ],
+    "rankAward": [
+      202802,
+      202803,
+      202804,
+      202805
+    ],
+    "basicAward": [
+      202818,
+      202819,
+      202820,
+      202821
+    ],
+    "achievement": [
+      170101,
+      170102,
+      170103
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_17_DarkNet",
+    "quest": 0,
+    "order": 41,
+    "previewMusic": "BGM_DarkNet_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1702,
+    "songSn": 17,
+    "name": "Dark Net",
+    "name2": "Dark Net",
+    "artist": "目黑将司",
+    "length": "0:49",
+    "bpm": 120,
+    "unlockLevel": 4,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 219,
+    "feverScore": 146,
+    "bms": "DarkNet_N.bms",
+    "music": "BGM_DarkNet_MG",
+    "rankScore": [
+      0,
+      22000,
+      50000,
+      68000
+    ],
+    "rankAward": [
+      202806,
+      202807,
+      202808,
+      202809
+    ],
+    "basicAward": [
+      202822,
+      202823,
+      202824,
+      202825
+    ],
+    "achievement": [
+      170201,
+      170202,
+      170203
+    ],
+    "scene": 272,
+    "playTL": "TL_Music_17_DarkNet",
+    "quest": 0,
+    "order": 41,
+    "previewMusic": "BGM_DarkNet_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1801,
+    "songSn": 18,
+    "name": "Keeper Of Lust",
+    "name2": "Keeper Of Lust",
+    "artist": "目黑将司",
+    "length": "1:46",
+    "bpm": 112,
+    "unlockLevel": 4,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 2,
+    "fcNum": 123,
+    "feverScore": 82,
+    "bms": "KeepOfLust_E.bms",
+    "music": "BGM_KeeperOfLust_MG",
+    "rankScore": [
+      0,
+      10000,
+      23000,
+      32000
+    ],
+    "rankAward": [
+      202802,
+      202803,
+      202804,
+      202805
+    ],
+    "basicAward": [
+      202818,
+      202819,
+      202820,
+      202821
+    ],
+    "achievement": [
+      180101,
+      180102,
+      180103
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_18_KeepOfLust",
+    "quest": 0,
+    "order": 42,
+    "previewMusic": "BGM_KeeperOfLust_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1802,
+    "songSn": 18,
+    "name": "Keeper Of Lust",
+    "name2": "Keeper Of Lust",
+    "artist": "目黑将司",
+    "length": "1:46",
+    "bpm": 112,
+    "unlockLevel": 4,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 410,
+    "feverScore": 273,
+    "bms": "KeepOfLust_N.bms",
+    "music": "BGM_KeeperOfLust_MG",
+    "rankScore": [
+      0,
+      49000,
+      108000,
+      147000
+    ],
+    "rankAward": [
+      202806,
+      202807,
+      202808,
+      202809
+    ],
+    "basicAward": [
+      202822,
+      202823,
+      202824,
+      202825
+    ],
+    "achievement": [
+      180201,
+      180202,
+      180203
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_18_KeepOfLust",
+    "quest": 0,
+    "order": 42,
+    "previewMusic": "BGM_KeeperOfLust_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1803,
+    "songSn": 18,
+    "name": "Keeper Of Lust",
+    "name2": "Keeper Of Lust",
+    "artist": "目黑将司",
+    "length": "1:46",
+    "bpm": 112,
+    "unlockLevel": 0,
+    "unlockStage": [
+      1802,
+      2
+    ],
+    "difficultyLevel": 3,
+    "difficultyNum": 7,
+    "fcNum": 676,
+    "feverScore": 338,
+    "bms": "KeepOfLust_H.bms",
+    "music": "BGM_KeeperOfLust_MG",
+    "rankScore": [
+      0,
+      52000,
+      105000,
+      157000
+    ],
+    "rankAward": [
+      202810,
+      202811,
+      202812,
+      202813
+    ],
+    "basicAward": [
+      202826,
+      202827,
+      202828,
+      202829
+    ],
+    "achievement": [
+      180301,
+      180302,
+      180303
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_18_KeepOfLust",
+    "quest": 0,
+    "order": 42,
+    "previewMusic": "BGM_KeeperOfLust_MG_Loops",
+    "unlockCoop": []
+  },
+  {
+    "sn": 1901,
+    "songSn": 19,
+    "name": "Seize the Light",
+    "name2": "Seize the Light",
+    "artist": "目黑将司",
+    "length": "1:38",
+    "bpm": 168,
+    "unlockLevel": 1,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 2,
+    "fcNum": 163,
+    "feverScore": 108,
+    "bms": "SeizeTheLight_E.bms",
+    "music": "BGM_SeizeTheLight_MG",
+    "rankScore": [
+      0,
+      15000,
+      34000,
+      46000
+    ],
+    "rankAward": [
+      202802,
+      202803,
+      202804,
+      202805
+    ],
+    "basicAward": [
+      202818,
+      202819,
+      202820,
+      202821
+    ],
+    "achievement": [
+      190101,
+      190102,
+      190103
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_19_SeizetheLight",
+    "quest": 0,
+    "order": 110,
+    "previewMusic": "BGM_SeizeTheLight_MG_Loops",
+    "unlockCoop": [
+      12,
+      9
+    ]
+  },
+  {
+    "sn": 1902,
+    "songSn": 19,
+    "name": "Seize the Light",
+    "name2": "Seize the Light",
+    "artist": "目黑将司",
+    "length": "1:38",
+    "bpm": 168,
+    "unlockLevel": 1,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 3,
+    "fcNum": 192,
+    "feverScore": 128,
+    "bms": "SeizeTheLight_N.bms",
+    "music": "BGM_SeizeTheLight_MG",
+    "rankScore": [
+      0,
+      19000,
+      42000,
+      57000
+    ],
+    "rankAward": [
+      202806,
+      202807,
+      202808,
+      202809
+    ],
+    "basicAward": [
+      202822,
+      202823,
+      202824,
+      202825
+    ],
+    "achievement": [
+      190201,
+      190202,
+      190203
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_19_SeizetheLight",
+    "quest": 0,
+    "order": 110,
+    "previewMusic": "BGM_SeizeTheLight_MG_Loops",
+    "unlockCoop": [
+      12,
+      9
+    ]
+  },
+  {
+    "sn": 1903,
+    "songSn": 19,
+    "name": "Seize the Light",
+    "name2": "Seize the Light",
+    "artist": "目黑将司",
+    "length": "1:38",
+    "bpm": 168,
+    "unlockLevel": 0,
+    "unlockStage": [
+      1902,
+      2
+    ],
+    "difficultyLevel": 3,
+    "difficultyNum": 7,
+    "fcNum": 635,
+    "feverScore": 317,
+    "bms": "SeizeTheLight_H.bms",
+    "music": "BGM_SeizeTheLight_MG",
+    "rankScore": [
+      0,
+      49000,
+      98000,
+      147000
+    ],
+    "rankAward": [
+      202810,
+      202811,
+      202812,
+      202813
+    ],
+    "basicAward": [
+      202826,
+      202827,
+      202828,
+      202829
+    ],
+    "achievement": [
+      190301,
+      190302,
+      190303
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_19_SeizetheLight",
+    "quest": 0,
+    "order": 110,
+    "previewMusic": "BGM_SeizeTheLight_MG_Loops",
+    "unlockCoop": [
+      12,
+      9
+    ]
+  },
+  {
+    "sn": 2001,
+    "songSn": 20,
+    "name": "Wonder Light",
+    "name2": "Wonder Light",
+    "artist": "目黑将司",
+    "length": "2:38",
+    "bpm": 170,
+    "unlockLevel": 1,
+    "unlockStage": [],
+    "difficultyLevel": 1,
+    "difficultyNum": 3,
+    "fcNum": 433,
+    "feverScore": 288,
+    "bms": "WinderLight_E.bms",
+    "music": "BGM_WonderLight_MG",
+    "rankScore": [
+      0,
+      52000,
+      115000,
+      156000
+    ],
+    "rankAward": [
+      202834,
+      202835,
+      202836,
+      202837
+    ],
+    "basicAward": [
+      202818,
+      202819,
+      202820,
+      202821
+    ],
+    "achievement": [
+      200101,
+      200102,
+      200103
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_20_WonderLight",
+    "quest": 0,
+    "order": 111,
+    "previewMusic": "BGM_WonderLight_MG_Loops",
+    "unlockCoop": [
+      12,
+      20
+    ]
+  },
+  {
+    "sn": 2002,
+    "songSn": 20,
+    "name": "Wonder Light",
+    "name2": "Wonder Light",
+    "artist": "目黑将司",
+    "length": "2:38",
+    "bpm": 170,
+    "unlockLevel": 1,
+    "unlockStage": [],
+    "difficultyLevel": 2,
+    "difficultyNum": 5,
+    "fcNum": 614,
+    "feverScore": 409,
+    "bms": "WinderLight_N.bms",
+    "music": "BGM_WonderLight_MG",
+    "rankScore": [
+      0,
+      76000,
+      168000,
+      230000
+    ],
+    "rankAward": [
+      202838,
+      202839,
+      202840,
+      202841
+    ],
+    "basicAward": [
+      202822,
+      202823,
+      202824,
+      202825
+    ],
+    "achievement": [
+      200201,
+      200202,
+      200203
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_20_WonderLight",
+    "quest": 0,
+    "order": 111,
+    "previewMusic": "BGM_WonderLight_MG_Loops",
+    "unlockCoop": [
+      12,
+      20
+    ]
+  },
+  {
+    "sn": 2003,
+    "songSn": 20,
+    "name": "Wonder Light",
+    "name2": "Wonder Light",
+    "artist": "目黑将司",
+    "length": "2:38",
+    "bpm": 170,
+    "unlockLevel": 0,
+    "unlockStage": [
+      2002,
+      2
+    ],
+    "difficultyLevel": 3,
+    "difficultyNum": 10,
+    "fcNum": 1439,
+    "feverScore": 719,
+    "bms": "WinderLight_H.bms",
+    "music": "BGM_WonderLight_MG",
+    "rankScore": [
+      0,
+      115000,
+      231000,
+      346000
+    ],
+    "rankAward": [
+      202842,
+      202843,
+      202844,
+      202845
+    ],
+    "basicAward": [
+      202826,
+      202827,
+      202828,
+      202829
+    ],
+    "achievement": [
+      200301,
+      200302,
+      200303
+    ],
+    "scene": 5145,
+    "playTL": "TL_Music_20_WonderLight",
+    "quest": 0,
+    "order": 111,
+    "previewMusic": "BGM_WonderLight_MG_Loops",
+    "unlockCoop": [
+      12,
+      20
+    ]
   }
 ]

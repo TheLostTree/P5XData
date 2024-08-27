@@ -450,6 +450,34 @@
     "example": "plotUnlocked all"
   },
   {
+    "sn": "chatMsgStr",
+    "type": 1,
+    "group": [
+      "便捷"
+    ],
+    "orderGroup": [
+      1039
+    ],
+    "name": "聊天频道重复发言",
+    "desc": "【参数1】Text表Sn【参数2】重复发送次数，最多100次【参数3】每隔x秒发送一次，最小4秒",
+    "format": "chatMsgStr 2001962 100 4",
+    "example": "chatMsgStr 2001962 100 4"
+  },
+  {
+    "sn": "quickFuncOpen",
+    "type": 0,
+    "group": [
+      "便捷"
+    ],
+    "orderGroup": [
+      1040
+    ],
+    "name": "快速解锁功能开启",
+    "desc": "快速解锁功能开启 FuncOpenQuick的Sn",
+    "format": "quickFuncOpen [sn]",
+    "example": "quickFuncOpen 1"
+  },
+  {
     "sn": "exeGMGroup7",
     "type": 0,
     "group": [
@@ -618,7 +646,7 @@
     "example": "exeGMGroup 19"
   },
   {
-    "sn": "exeGMGroup22",
+    "sn": "exeGMGroup24",
     "type": 0,
     "group": [
       "超便捷"
@@ -626,7 +654,21 @@
     "orderGroup": [
       1014
     ],
-    "name": "【模拟】主角80怪盗80",
+    "name": "【模拟】主角60怪盗70",
+    "desc": "【模拟】主角60怪盗70",
+    "format": "exeGMGroup gmGroupSn",
+    "example": "exeGMGroup 24"
+  },
+  {
+    "sn": "exeGMGroup22",
+    "type": 0,
+    "group": [
+      "超便捷"
+    ],
+    "orderGroup": [
+      1015
+    ],
+    "name": "【模拟】主角79怪盗80",
     "desc": "【模拟】主角80怪盗80",
     "format": "exeGMGroup gmGroupSn",
     "example": "exeGMGroup 22"
@@ -660,7 +702,7 @@
     "example": "finishQuest 1"
   },
   {
-    "sn": "playStory",
+    "sn": "playStoryBySn",
     "type": 1,
     "group": [
       "任务剧情对话"
@@ -668,13 +710,13 @@
     "orderGroup": [
       2003
     ],
-    "name": "剧情：播放剧情",
-    "desc": "播放剧情",
-    "format": "playStory sn",
-    "example": "playStory 100060"
+    "name": "剧情：播放剧情[SN]",
+    "desc": "通过StorySN播放剧情",
+    "format": "playStoryBySn [SN]",
+    "example": "playStoryBySn 1108"
   },
   {
-    "sn": "skipStoryClip",
+    "sn": "playStoryByTL",
     "type": 1,
     "group": [
       "任务剧情对话"
@@ -682,10 +724,38 @@
     "orderGroup": [
       2004
     ],
-    "name": "剧情：跳过当前剧情片段",
-    "desc": "跳过当前剧情片段",
-    "format": "skipStoryClip",
-    "example": "skipStoryClip"
+    "name": "剧情：播放剧情[TL名]",
+    "desc": "通过TL名称播放剧情",
+    "format": "playStoryByTL [TL]",
+    "example": "playStoryByTL TL_zx_Event_01_07_01"
+  },
+  {
+    "sn": "playTimelineForOWStory",
+    "type": 1,
+    "group": [
+      "任务剧情对话"
+    ],
+    "orderGroup": [
+      2006
+    ],
+    "name": "剧情：开放世界剧情",
+    "desc": "播放开放世界剧情",
+    "format": "playTimelineForOWStory [TL]",
+    "example": "playTimelineForOWStory TL_toSleep_mianbei"
+  },
+  {
+    "sn": "playTimelineForOWStoryOnStage",
+    "type": 1,
+    "group": [
+      "任务剧情对话"
+    ],
+    "orderGroup": [
+      2007
+    ],
+    "name": "剧情：场景+开放世界剧情",
+    "desc": "播放开放世界剧情+场景sn",
+    "format": "playTimelineForOWStoryOnStage [StageSn] [TL]",
+    "example": "playTimelineForOWStoryOnStage 3049 TL_toSleep_mianbei"
   },
   {
     "sn": "startDialog",
@@ -694,7 +764,7 @@
       "任务剧情对话"
     ],
     "orderGroup": [
-      2005
+      2008
     ],
     "name": "对话：显示一组对话",
     "desc": "显示一组对话 (仅显示，不触发逻辑)",
@@ -708,7 +778,7 @@
       "任务剧情对话"
     ],
     "orderGroup": [
-      2006
+      2009
     ],
     "name": "对话：显示一条对话",
     "desc": "显示一条对话 (仅显示，不触发逻辑)",
@@ -722,7 +792,7 @@
       "任务剧情对话"
     ],
     "orderGroup": [
-      2007
+      2010
     ],
     "name": "对话：收到一组SNS对话",
     "desc": "收到一组SNS对话",
@@ -736,7 +806,7 @@
       "任务剧情对话"
     ],
     "orderGroup": [
-      2008
+      2011
     ],
     "name": "调试：显示基本信息",
     "desc": "显示当前的场景、任务、剧情信息",
@@ -1718,9 +1788,9 @@
     "orderGroup": [
       5010
     ],
-    "name": "一键【梅洛普约会】",
-    "desc": "一键测试梅洛普Coop约会",
-    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 1,switchSceneByTeleport 2102029,changeOpenWorldEvent 1 30101,",
+    "name": "梅洛普-约会",
+    "desc": "梅洛普-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 1,changeOpenWorldEvent 1 30101,switchSceneByTeleport 2102029",
     "example": "owEventCoop1"
   },
   {
@@ -1732,9 +1802,9 @@
     "orderGroup": [
       5011
     ],
-    "name": "一键【素羽约会】",
-    "desc": "一键测试素羽Coop约会",
-    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 2,switchSceneByTeleport 268010,changeOpenWorldEvent 1 30201,",
+    "name": "新井素羽-约会",
+    "desc": "新井素羽-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 2,changeOpenWorldEvent 1 30201,switchSceneByTeleport 268010",
     "example": "owEventCoop2"
   },
   {
@@ -1744,11 +1814,11 @@
       "都市快捷"
     ],
     "orderGroup": [
-      5012
+      5015
     ],
-    "name": "一键【朋子约会】",
-    "desc": "一键测试朋子Coop约会",
-    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 8,switchSceneByTeleport 271020,changeOpenWorldEvent 1 30501,",
+    "name": "野毛朋子-约会",
+    "desc": "野毛朋子-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 8,changeOpenWorldEvent 1 30501,switchSceneByTeleport 271020",
     "example": "owEventCoop8"
   },
   {
@@ -1760,9 +1830,9 @@
     "orderGroup": [
       5013
     ],
-    "name": "一键【黑谷清约会】",
-    "desc": "一键测试黑谷清Coop约会",
-    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 6,switchSceneByTeleport 275010,changeOpenWorldEvent 1 30401,",
+    "name": "黑谷清-约会",
+    "desc": "黑谷清-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 6,changeOpenWorldEvent 1 30401,switchSceneByTeleport 275010",
     "example": "owEventCoop6"
   },
   {
@@ -1772,11 +1842,11 @@
       "都市快捷"
     ],
     "orderGroup": [
-      5014
+      5012
     ],
-    "name": "一键【加纳骏约会】",
-    "desc": "一键测试加纳骏Coop约会",
-    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 5,stageSwitchCommon 272,changeOpenWorldEvent 1 30701,",
+    "name": "加纳骏-约会",
+    "desc": "加纳骏-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 5,changeOpenWorldEvent 1 30701,switchSceneByTeleport 272010",
     "example": "owEventCoop5"
   },
   {
@@ -1786,11 +1856,11 @@
       "都市快捷"
     ],
     "orderGroup": [
-      5015
+      5014
     ],
-    "name": "一键【李瑶铃约会】",
-    "desc": "一键测试李瑶铃Coop约会",
-    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 7,switchSceneByTeleport 10031,changeOpenWorldEvent 1 30801,",
+    "name": "李瑶铃-约会",
+    "desc": "李瑶铃-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 7,changeOpenWorldEvent 1 30801,switchSceneByTeleport 10031",
     "example": "owEventCoop7"
   },
   {
@@ -1802,9 +1872,9 @@
     "orderGroup": [
       5016
     ],
-    "name": "一键【富山约会】",
-    "desc": "一键测试富山Coop约会",
-    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 9,stageSwitchCommon 281,changeOpenWorldEvent 1 30601,",
+    "name": "富山佳代-约会",
+    "desc": "富山佳代-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 9,changeOpenWorldEvent 1 30601,switchSceneByTeleport 281010",
     "example": "owEventCoop9"
   },
   {
@@ -1816,9 +1886,9 @@
     "orderGroup": [
       5017
     ],
-    "name": "一键【YUI约会】",
-    "desc": "一键测试YUI-Coop约会",
-    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,unlockcoop 11,GoHome,changeOpenWorldEvent 1 30301",
+    "name": "YUI-约会",
+    "desc": "YUI-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 11,changeOpenWorldEvent 1 30301,switchSceneByTeleport 2130002",
     "example": "owEventCoop11"
   },
   {
@@ -1828,7 +1898,7 @@
       "都市快捷"
     ],
     "orderGroup": [
-      5018
+      5005
     ],
     "name": "一键【卢布朗】",
     "desc": "一键测试卢布朗",
@@ -1839,10 +1909,10 @@
     "sn": "coop1_2",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5500
+      5100
     ],
     "name": "梅洛普-第2节",
     "desc": "梅洛普-第2节",
@@ -1850,13 +1920,139 @@
     "example": "coop1_2"
   },
   {
+    "sn": "owEventCoop3",
+    "type": 3,
+    "group": [
+      "都市快捷"
+    ],
+    "orderGroup": [
+      5018
+    ],
+    "name": "多祢村理子-约会",
+    "desc": "多祢村理子-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 3,changeOpenWorldEvent 1 31001,switchSceneByTeleport 2102029",
+    "example": "owEventCoop3"
+  },
+  {
+    "sn": "owEventCoop10",
+    "type": 3,
+    "group": [
+      "都市快捷"
+    ],
+    "orderGroup": [
+      5019
+    ],
+    "name": "须见俊也-约会",
+    "desc": "须见俊也-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 10,changeOpenWorldEvent 1 30901,switchSceneByTeleport 10031",
+    "example": "owEventCoop10"
+  },
+  {
+    "sn": "owEventCoop12",
+    "type": 3,
+    "group": [
+      "都市快捷"
+    ],
+    "orderGroup": [
+      5020
+    ],
+    "name": "坂井绫香-约会",
+    "desc": "坂井绫香-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 12,changeOpenWorldEvent 1 31201,switchSceneByTeleport 2102001",
+    "example": "owEventCoop12"
+  },
+  {
+    "sn": "owEventCoop13",
+    "type": 3,
+    "group": [
+      "都市快捷"
+    ],
+    "orderGroup": [
+      5021
+    ],
+    "name": "椎名悠美-约会",
+    "desc": "椎名悠美-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 13,changeOpenWorldEvent 1 31301,switchSceneByTeleport 34001",
+    "example": "owEventCoop13"
+  },
+  {
+    "sn": "owEventCoop14",
+    "type": 3,
+    "group": [
+      "都市快捷"
+    ],
+    "orderGroup": [
+      5022
+    ],
+    "name": "佐原海夕-约会",
+    "desc": "佐原海夕-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 14,changeOpenWorldEvent 1 31401,switchSceneByTeleport 2102029",
+    "example": "owEventCoop14"
+  },
+  {
+    "sn": "owEventCoop15",
+    "type": 3,
+    "group": [
+      "都市快捷"
+    ],
+    "orderGroup": [
+      5023
+    ],
+    "name": "北里基良-约会",
+    "desc": "北里基良-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 15,changeOpenWorldEvent 1 31501,switchSceneByTeleport 2102029",
+    "example": "owEventCoop15"
+  },
+  {
+    "sn": "owEventCoop16",
+    "type": 3,
+    "group": [
+      "都市快捷"
+    ],
+    "orderGroup": [
+      5024
+    ],
+    "name": "芦谷真咲-约会",
+    "desc": "芦谷真咲-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 16,changeOpenWorldEvent 1 31601,switchSceneByTeleport 2102029",
+    "example": "owEventCoop16"
+  },
+  {
+    "sn": "owEventCoop17",
+    "type": 3,
+    "group": [
+      "都市快捷"
+    ],
+    "orderGroup": [
+      5025
+    ],
+    "name": "琴音·蒙塔涅-约会",
+    "desc": "琴音·蒙塔涅-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 17,changeOpenWorldEvent 1 31701,switchSceneByTeleport 2102029",
+    "example": "owEventCoop17"
+  },
+  {
+    "sn": "owEventCoop18",
+    "type": 3,
+    "group": [
+      "都市快捷"
+    ],
+    "orderGroup": [
+      5026
+    ],
+    "name": "道玄坂琉七-约会",
+    "desc": "道玄坂琉七-约会",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 18,changeOpenWorldEvent 1 31801,switchSceneByTeleport 2102029",
+    "example": "owEventCoop18"
+  },
+  {
     "sn": "coop1_3",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5501
+      5101
     ],
     "name": "梅洛普-第3节",
     "desc": "梅洛普-第3节",
@@ -1867,10 +2063,10 @@
     "sn": "coop1_4",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5502
+      5102
     ],
     "name": "梅洛普-第4节",
     "desc": "梅洛普-第4节",
@@ -1881,10 +2077,10 @@
     "sn": "coop1_5",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5503
+      5103
     ],
     "name": "梅洛普-第5节",
     "desc": "梅洛普-第5节",
@@ -1895,10 +2091,10 @@
     "sn": "coop1_6",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5504
+      5104
     ],
     "name": "梅洛普-第6节",
     "desc": "梅洛普-第6节",
@@ -1909,10 +2105,10 @@
     "sn": "coop1_7",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5505
+      5105
     ],
     "name": "梅洛普-第7节",
     "desc": "梅洛普-第7节",
@@ -1923,10 +2119,10 @@
     "sn": "coop1_8",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5506
+      5106
     ],
     "name": "梅洛普-第8节",
     "desc": "梅洛普-第8节",
@@ -1937,10 +2133,10 @@
     "sn": "coop1_9",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5507
+      5107
     ],
     "name": "梅洛普-第9节",
     "desc": "梅洛普-第9节",
@@ -1951,10 +2147,10 @@
     "sn": "coop1_10",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5508
+      5108
     ],
     "name": "梅洛普-第10节",
     "desc": "梅洛普-第10节",
@@ -1965,10 +2161,10 @@
     "sn": "coop2_2",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5509
+      5109
     ],
     "name": "新井素羽-第2节",
     "desc": "新井素羽-第2节",
@@ -1979,10 +2175,10 @@
     "sn": "coop2_3",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5510
+      5110
     ],
     "name": "新井素羽-第3节",
     "desc": "新井素羽-第3节",
@@ -1993,10 +2189,10 @@
     "sn": "coop2_4",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5511
+      5111
     ],
     "name": "新井素羽-第4节",
     "desc": "新井素羽-第4节",
@@ -2007,10 +2203,10 @@
     "sn": "coop2_5",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5512
+      5112
     ],
     "name": "新井素羽-第5节",
     "desc": "新井素羽-第5节",
@@ -2021,10 +2217,10 @@
     "sn": "coop2_6",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5513
+      5113
     ],
     "name": "新井素羽-第6节",
     "desc": "新井素羽-第6节",
@@ -2035,10 +2231,10 @@
     "sn": "coop2_7",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5514
+      5114
     ],
     "name": "新井素羽-第7节",
     "desc": "新井素羽-第7节",
@@ -2049,10 +2245,10 @@
     "sn": "coop2_8",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5515
+      5115
     ],
     "name": "新井素羽-第8节",
     "desc": "新井素羽-第8节",
@@ -2063,10 +2259,10 @@
     "sn": "coop2_9",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5516
+      5116
     ],
     "name": "新井素羽-第9节",
     "desc": "新井素羽-第9节",
@@ -2077,10 +2273,10 @@
     "sn": "coop2_10",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5517
+      5117
     ],
     "name": "新井素羽-第10节",
     "desc": "新井素羽-第10节",
@@ -2091,10 +2287,10 @@
     "sn": "coop5_2",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5518
+      5118
     ],
     "name": "加纳骏-第2节",
     "desc": "加纳骏-第2节",
@@ -2105,10 +2301,10 @@
     "sn": "coop5_3",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5519
+      5119
     ],
     "name": "加纳骏-第3节",
     "desc": "加纳骏-第3节",
@@ -2119,10 +2315,10 @@
     "sn": "coop5_4",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5520
+      5120
     ],
     "name": "加纳骏-第4节",
     "desc": "加纳骏-第4节",
@@ -2133,10 +2329,10 @@
     "sn": "coop5_5",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5521
+      5121
     ],
     "name": "加纳骏-第5节",
     "desc": "加纳骏-第5节",
@@ -2147,10 +2343,10 @@
     "sn": "coop5_6",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5522
+      5122
     ],
     "name": "加纳骏-第6节",
     "desc": "加纳骏-第6节",
@@ -2161,10 +2357,10 @@
     "sn": "coop5_7",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5523
+      5123
     ],
     "name": "加纳骏-第7节",
     "desc": "加纳骏-第7节",
@@ -2175,10 +2371,10 @@
     "sn": "coop5_8",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5524
+      5124
     ],
     "name": "加纳骏-第8节",
     "desc": "加纳骏-第8节",
@@ -2189,10 +2385,10 @@
     "sn": "coop5_9",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5525
+      5125
     ],
     "name": "加纳骏-第9节",
     "desc": "加纳骏-第9节",
@@ -2203,10 +2399,10 @@
     "sn": "coop5_10",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5526
+      5126
     ],
     "name": "加纳骏-第10节",
     "desc": "加纳骏-第10节",
@@ -2217,10 +2413,10 @@
     "sn": "coop6_2",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5527
+      5127
     ],
     "name": "黑谷清-第2节",
     "desc": "黑谷清-第2节",
@@ -2231,10 +2427,10 @@
     "sn": "coop6_3",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5528
+      5128
     ],
     "name": "黑谷清-第3节",
     "desc": "黑谷清-第3节",
@@ -2245,10 +2441,10 @@
     "sn": "coop6_4",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5529
+      5129
     ],
     "name": "黑谷清-第4节",
     "desc": "黑谷清-第4节",
@@ -2259,10 +2455,10 @@
     "sn": "coop6_5",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5530
+      5130
     ],
     "name": "黑谷清-第5节",
     "desc": "黑谷清-第5节",
@@ -2273,10 +2469,10 @@
     "sn": "coop6_6",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5531
+      5131
     ],
     "name": "黑谷清-第6节",
     "desc": "黑谷清-第6节",
@@ -2287,10 +2483,10 @@
     "sn": "coop6_7",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5532
+      5132
     ],
     "name": "黑谷清-第7节",
     "desc": "黑谷清-第7节",
@@ -2301,10 +2497,10 @@
     "sn": "coop6_8",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5533
+      5133
     ],
     "name": "黑谷清-第8节",
     "desc": "黑谷清-第8节",
@@ -2315,10 +2511,10 @@
     "sn": "coop6_9",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5534
+      5134
     ],
     "name": "黑谷清-第9节",
     "desc": "黑谷清-第9节",
@@ -2329,10 +2525,10 @@
     "sn": "coop6_10",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5535
+      5135
     ],
     "name": "黑谷清-第10节",
     "desc": "黑谷清-第10节",
@@ -2343,10 +2539,10 @@
     "sn": "coop7_2",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5536
+      5136
     ],
     "name": "李瑶铃-第2节",
     "desc": "李瑶铃-第2节",
@@ -2357,10 +2553,10 @@
     "sn": "coop7_3",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5537
+      5137
     ],
     "name": "李瑶铃-第3节",
     "desc": "李瑶铃-第3节",
@@ -2371,10 +2567,10 @@
     "sn": "coop7_4",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5538
+      5138
     ],
     "name": "李瑶铃-第4节",
     "desc": "李瑶铃-第4节",
@@ -2385,10 +2581,10 @@
     "sn": "coop7_5",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5539
+      5139
     ],
     "name": "李瑶铃-第5节",
     "desc": "李瑶铃-第5节",
@@ -2399,10 +2595,10 @@
     "sn": "coop7_6",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5540
+      5140
     ],
     "name": "李瑶铃-第6节",
     "desc": "李瑶铃-第6节",
@@ -2413,10 +2609,10 @@
     "sn": "coop7_7",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5541
+      5141
     ],
     "name": "李瑶铃-第7节",
     "desc": "李瑶铃-第7节",
@@ -2427,10 +2623,10 @@
     "sn": "coop7_8",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5542
+      5142
     ],
     "name": "李瑶铃-第8节",
     "desc": "李瑶铃-第8节",
@@ -2441,10 +2637,10 @@
     "sn": "coop7_9",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5543
+      5143
     ],
     "name": "李瑶铃-第9节",
     "desc": "李瑶铃-第9节",
@@ -2455,10 +2651,10 @@
     "sn": "coop7_10",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5544
+      5144
     ],
     "name": "李瑶铃-第10节",
     "desc": "李瑶铃-第10节",
@@ -2469,10 +2665,10 @@
     "sn": "coop8_2",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5545
+      5145
     ],
     "name": "野毛朋子-第2节",
     "desc": "野毛朋子-第2节",
@@ -2483,10 +2679,10 @@
     "sn": "coop8_3",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5546
+      5146
     ],
     "name": "野毛朋子-第3节",
     "desc": "野毛朋子-第3节",
@@ -2497,10 +2693,10 @@
     "sn": "coop8_4",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5547
+      5147
     ],
     "name": "野毛朋子-第4节",
     "desc": "野毛朋子-第4节",
@@ -2511,10 +2707,10 @@
     "sn": "coop8_5",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5548
+      5148
     ],
     "name": "野毛朋子-第5节",
     "desc": "野毛朋子-第5节",
@@ -2525,10 +2721,10 @@
     "sn": "coop8_6",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5549
+      5149
     ],
     "name": "野毛朋子-第6节",
     "desc": "野毛朋子-第6节",
@@ -2539,10 +2735,10 @@
     "sn": "coop8_7",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5550
+      5150
     ],
     "name": "野毛朋子-第7节",
     "desc": "野毛朋子-第7节",
@@ -2553,10 +2749,10 @@
     "sn": "coop8_8",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5551
+      5151
     ],
     "name": "野毛朋子-第8节",
     "desc": "野毛朋子-第8节",
@@ -2567,10 +2763,10 @@
     "sn": "coop8_9",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5552
+      5152
     ],
     "name": "野毛朋子-第9节",
     "desc": "野毛朋子-第9节",
@@ -2581,10 +2777,10 @@
     "sn": "coop8_10",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5553
+      5153
     ],
     "name": "野毛朋子-第10节",
     "desc": "野毛朋子-第10节",
@@ -2595,10 +2791,10 @@
     "sn": "coop9_2",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5554
+      5154
     ],
     "name": "富山佳代-第2节",
     "desc": "富山佳代-第2节",
@@ -2609,10 +2805,10 @@
     "sn": "coop9_3",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5555
+      5155
     ],
     "name": "富山佳代-第3节",
     "desc": "富山佳代-第3节",
@@ -2623,10 +2819,10 @@
     "sn": "coop9_4",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5556
+      5156
     ],
     "name": "富山佳代-第4节",
     "desc": "富山佳代-第4节",
@@ -2637,10 +2833,10 @@
     "sn": "coop9_5",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5557
+      5157
     ],
     "name": "富山佳代-第5节",
     "desc": "富山佳代-第5节",
@@ -2651,10 +2847,10 @@
     "sn": "coop9_6",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5558
+      5158
     ],
     "name": "富山佳代-第6节",
     "desc": "富山佳代-第6节",
@@ -2665,10 +2861,10 @@
     "sn": "coop9_7",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5559
+      5159
     ],
     "name": "富山佳代-第7节",
     "desc": "富山佳代-第7节",
@@ -2679,10 +2875,10 @@
     "sn": "coop9_8",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5560
+      5160
     ],
     "name": "富山佳代-第8节",
     "desc": "富山佳代-第8节",
@@ -2693,10 +2889,10 @@
     "sn": "coop9_9",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5561
+      5161
     ],
     "name": "富山佳代-第9节",
     "desc": "富山佳代-第9节",
@@ -2707,10 +2903,10 @@
     "sn": "coop9_10",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5562
+      5162
     ],
     "name": "富山佳代-第10节",
     "desc": "富山佳代-第10节",
@@ -2721,10 +2917,10 @@
     "sn": "coop11_2",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5563
+      5163
     ],
     "name": "YUI-第2节",
     "desc": "YUI-第2节",
@@ -2735,10 +2931,10 @@
     "sn": "coop11_3",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5564
+      5164
     ],
     "name": "YUI-第3节",
     "desc": "YUI-第3节",
@@ -2749,10 +2945,10 @@
     "sn": "coop11_4",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5565
+      5165
     ],
     "name": "YUI-第4节",
     "desc": "YUI-第4节",
@@ -2763,10 +2959,10 @@
     "sn": "coop11_5",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5566
+      5166
     ],
     "name": "YUI-第5节",
     "desc": "YUI-第5节",
@@ -2777,10 +2973,10 @@
     "sn": "coop11_6",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5567
+      5167
     ],
     "name": "YUI-第6节",
     "desc": "YUI-第6节",
@@ -2791,10 +2987,10 @@
     "sn": "coop11_7",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5568
+      5168
     ],
     "name": "YUI-第7节",
     "desc": "YUI-第7节",
@@ -2805,10 +3001,10 @@
     "sn": "coop11_8",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5569
+      5169
     ],
     "name": "YUI-第8节",
     "desc": "YUI-第8节",
@@ -2819,10 +3015,10 @@
     "sn": "coop11_9",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5570
+      5170
     ],
     "name": "YUI-第9节",
     "desc": "YUI-第9节",
@@ -2833,10 +3029,10 @@
     "sn": "coop11_10",
     "type": 3,
     "group": [
-      "加深约会"
+      "加深约会1"
     ],
     "orderGroup": [
-      5571
+      5171
     ],
     "name": "YUI-第10节",
     "desc": "YUI-第10节",
@@ -2847,7 +3043,7 @@
     "sn": "coop_1_sp",
     "type": 3,
     "group": [
-      "特殊约会"
+      "特殊邀约"
     ],
     "orderGroup": [
       5601
@@ -2858,10 +3054,1018 @@
     "example": "coop_1_sp"
   },
   {
+    "sn": "coop3_2",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5200
+    ],
+    "name": "多祢村理子-第2节",
+    "desc": "多祢村理子-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 3,coopModIntimacyLv 3 2,addIntimacy  3 400,changeOpenWorldEvent 1 31011,switchSceneByTeleport 2102029",
+    "example": "coop3_2"
+  },
+  {
+    "sn": "coop3_3",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5201
+    ],
+    "name": "多祢村理子-第3节",
+    "desc": "多祢村理子-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 3,coopModIntimacyLv 3 4,addIntimacy  3 400,changeOpenWorldEvent 1 31011,switchSceneByTeleport 2102029",
+    "example": "coop3_3"
+  },
+  {
+    "sn": "coop3_4",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5202
+    ],
+    "name": "多祢村理子-第4节",
+    "desc": "多祢村理子-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 3,coopModIntimacyLv 3 6,addIntimacy  3 400,changeOpenWorldEvent 1 31011,switchSceneByTeleport 2102029",
+    "example": "coop3_4"
+  },
+  {
+    "sn": "coop3_5",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5203
+    ],
+    "name": "多祢村理子-第5节",
+    "desc": "多祢村理子-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 3,coopModIntimacyLv 3 8,addIntimacy  3 400,changeOpenWorldEvent 1 31011,switchSceneByTeleport 2102029",
+    "example": "coop3_5"
+  },
+  {
+    "sn": "coop3_6",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5204
+    ],
+    "name": "多祢村理子-第6节",
+    "desc": "多祢村理子-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 3,coopModIntimacyLv 3 10,addIntimacy  3 400,changeOpenWorldEvent 1 31011,switchSceneByTeleport 2102029",
+    "example": "coop3_6"
+  },
+  {
+    "sn": "coop3_7",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5205
+    ],
+    "name": "多祢村理子-第7节",
+    "desc": "多祢村理子-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 3,coopModIntimacyLv 3 12,addIntimacy  3 400,changeOpenWorldEvent 1 31011,switchSceneByTeleport 2102029",
+    "example": "coop3_7"
+  },
+  {
+    "sn": "coop3_8",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5206
+    ],
+    "name": "多祢村理子-第8节",
+    "desc": "多祢村理子-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 3,coopModIntimacyLv 3 14,addIntimacy  3 400,changeOpenWorldEvent 1 31011,switchSceneByTeleport 2102029",
+    "example": "coop3_8"
+  },
+  {
+    "sn": "coop3_9",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5207
+    ],
+    "name": "多祢村理子-第9节",
+    "desc": "多祢村理子-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 3,coopModIntimacyLv 3 16,addIntimacy  3 400,changeOpenWorldEvent 1 31011,switchSceneByTeleport 2102029",
+    "example": "coop3_9"
+  },
+  {
+    "sn": "coop3_10",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5208
+    ],
+    "name": "多祢村理子-第10节",
+    "desc": "多祢村理子-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 3,coopModIntimacyLv 3 19,addIntimacy  3 400,changeOpenWorldEvent 1 31011,switchSceneByTeleport 2102029",
+    "example": "coop3_10"
+  },
+  {
+    "sn": "coop12_2",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5209
+    ],
+    "name": "坂井绫香-第2节",
+    "desc": "坂井绫香-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 12,coopModIntimacyLv 12 2,addIntimacy  12 400,changeOpenWorldEvent 1 31211,switchSceneByTeleport 2102001",
+    "example": "coop12_2"
+  },
+  {
+    "sn": "coop12_3",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5210
+    ],
+    "name": "坂井绫香-第3节",
+    "desc": "坂井绫香-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 12,coopModIntimacyLv 12 4,addIntimacy  12 400,changeOpenWorldEvent 1 31211,switchSceneByTeleport 2102001",
+    "example": "coop12_3"
+  },
+  {
+    "sn": "coop12_4",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5211
+    ],
+    "name": "坂井绫香-第4节",
+    "desc": "坂井绫香-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 12,coopModIntimacyLv 12 6,addIntimacy  12 400,changeOpenWorldEvent 1 31211,switchSceneByTeleport 2102001",
+    "example": "coop12_4"
+  },
+  {
+    "sn": "coop12_5",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5212
+    ],
+    "name": "坂井绫香-第5节",
+    "desc": "坂井绫香-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 12,coopModIntimacyLv 12 8,addIntimacy  12 400,changeOpenWorldEvent 1 31211,switchSceneByTeleport 2102001",
+    "example": "coop12_5"
+  },
+  {
+    "sn": "coop12_6",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5213
+    ],
+    "name": "坂井绫香-第6节",
+    "desc": "坂井绫香-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 12,coopModIntimacyLv 12 10,addIntimacy  12 400,changeOpenWorldEvent 1 31211,switchSceneByTeleport 2102001",
+    "example": "coop12_6"
+  },
+  {
+    "sn": "coop12_7",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5214
+    ],
+    "name": "坂井绫香-第7节",
+    "desc": "坂井绫香-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 12,coopModIntimacyLv 12 12,addIntimacy  12 400,changeOpenWorldEvent 1 31211,switchSceneByTeleport 2102001",
+    "example": "coop12_7"
+  },
+  {
+    "sn": "coop12_8",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5215
+    ],
+    "name": "坂井绫香-第8节",
+    "desc": "坂井绫香-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 12,coopModIntimacyLv 12 14,addIntimacy  12 400,changeOpenWorldEvent 1 31211,switchSceneByTeleport 2102001",
+    "example": "coop12_8"
+  },
+  {
+    "sn": "coop12_9",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5216
+    ],
+    "name": "坂井绫香-第9节",
+    "desc": "坂井绫香-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 12,coopModIntimacyLv 12 16,addIntimacy  12 400,changeOpenWorldEvent 1 31211,switchSceneByTeleport 2102001",
+    "example": "coop12_9"
+  },
+  {
+    "sn": "coop12_10",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5217
+    ],
+    "name": "坂井绫香-第10节",
+    "desc": "坂井绫香-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 12,coopModIntimacyLv 12 19,addIntimacy  12 400,changeOpenWorldEvent 1 31211,switchSceneByTeleport 2102001",
+    "example": "coop12_10"
+  },
+  {
+    "sn": "coop13_2",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5218
+    ],
+    "name": "椎名悠美-第2节",
+    "desc": "椎名悠美-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 13,coopModIntimacyLv 13 2,addIntimacy  13 400,changeOpenWorldEvent 1 31311,switchSceneByTeleport 34001",
+    "example": "coop13_2"
+  },
+  {
+    "sn": "coop13_3",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5219
+    ],
+    "name": "椎名悠美-第3节",
+    "desc": "椎名悠美-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 13,coopModIntimacyLv 13 4,addIntimacy  13 400,changeOpenWorldEvent 1 31311,switchSceneByTeleport 34001",
+    "example": "coop13_3"
+  },
+  {
+    "sn": "coop13_4",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5220
+    ],
+    "name": "椎名悠美-第4节",
+    "desc": "椎名悠美-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 13,coopModIntimacyLv 13 6,addIntimacy  13 400,changeOpenWorldEvent 1 31311,switchSceneByTeleport 34001",
+    "example": "coop13_4"
+  },
+  {
+    "sn": "coop13_5",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5221
+    ],
+    "name": "椎名悠美-第5节",
+    "desc": "椎名悠美-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 13,coopModIntimacyLv 13 8,addIntimacy  13 400,changeOpenWorldEvent 1 31311,switchSceneByTeleport 34001",
+    "example": "coop13_5"
+  },
+  {
+    "sn": "coop13_6",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5222
+    ],
+    "name": "椎名悠美-第6节",
+    "desc": "椎名悠美-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 13,coopModIntimacyLv 13 10,addIntimacy  13 400,changeOpenWorldEvent 1 31311,switchSceneByTeleport 34001",
+    "example": "coop13_6"
+  },
+  {
+    "sn": "coop13_7",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5223
+    ],
+    "name": "椎名悠美-第7节",
+    "desc": "椎名悠美-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 13,coopModIntimacyLv 13 12,addIntimacy  13 400,changeOpenWorldEvent 1 31311,switchSceneByTeleport 34001",
+    "example": "coop13_7"
+  },
+  {
+    "sn": "coop13_8",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5224
+    ],
+    "name": "椎名悠美-第8节",
+    "desc": "椎名悠美-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 13,coopModIntimacyLv 13 14,addIntimacy  13 400,changeOpenWorldEvent 1 31311,switchSceneByTeleport 34001",
+    "example": "coop13_8"
+  },
+  {
+    "sn": "coop13_9",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5225
+    ],
+    "name": "椎名悠美-第9节",
+    "desc": "椎名悠美-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 13,coopModIntimacyLv 13 16,addIntimacy  13 400,changeOpenWorldEvent 1 31311,switchSceneByTeleport 34001",
+    "example": "coop13_9"
+  },
+  {
+    "sn": "coop13_10",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5226
+    ],
+    "name": "椎名悠美-第10节",
+    "desc": "椎名悠美-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 13,coopModIntimacyLv 13 19,addIntimacy  13 400,changeOpenWorldEvent 1 31311,switchSceneByTeleport 34001",
+    "example": "coop13_10"
+  },
+  {
+    "sn": "coop14_2",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5227
+    ],
+    "name": "佐原海夕-第2节",
+    "desc": "佐原海夕-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 14,coopModIntimacyLv 14 2,addIntimacy  14 400,changeOpenWorldEvent 1 31411,switchSceneByTeleport 2102029",
+    "example": "coop14_2"
+  },
+  {
+    "sn": "coop14_3",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5228
+    ],
+    "name": "佐原海夕-第3节",
+    "desc": "佐原海夕-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 14,coopModIntimacyLv 14 4,addIntimacy  14 400,changeOpenWorldEvent 1 31411,switchSceneByTeleport 2102029",
+    "example": "coop14_3"
+  },
+  {
+    "sn": "coop14_4",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5229
+    ],
+    "name": "佐原海夕-第4节",
+    "desc": "佐原海夕-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 14,coopModIntimacyLv 14 6,addIntimacy  14 400,changeOpenWorldEvent 1 31411,switchSceneByTeleport 2102029",
+    "example": "coop14_4"
+  },
+  {
+    "sn": "coop14_5",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5230
+    ],
+    "name": "佐原海夕-第5节",
+    "desc": "佐原海夕-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 14,coopModIntimacyLv 14 8,addIntimacy  14 400,changeOpenWorldEvent 1 31411,switchSceneByTeleport 2102029",
+    "example": "coop14_5"
+  },
+  {
+    "sn": "coop14_6",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5231
+    ],
+    "name": "佐原海夕-第6节",
+    "desc": "佐原海夕-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 14,coopModIntimacyLv 14 10,addIntimacy  14 400,changeOpenWorldEvent 1 31411,switchSceneByTeleport 2102029",
+    "example": "coop14_6"
+  },
+  {
+    "sn": "coop14_7",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5232
+    ],
+    "name": "佐原海夕-第7节",
+    "desc": "佐原海夕-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 14,coopModIntimacyLv 14 12,addIntimacy  14 400,changeOpenWorldEvent 1 31411,switchSceneByTeleport 2102029",
+    "example": "coop14_7"
+  },
+  {
+    "sn": "coop14_8",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5233
+    ],
+    "name": "佐原海夕-第8节",
+    "desc": "佐原海夕-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 14,coopModIntimacyLv 14 14,addIntimacy  14 400,changeOpenWorldEvent 1 31411,switchSceneByTeleport 2102029",
+    "example": "coop14_8"
+  },
+  {
+    "sn": "coop14_9",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5234
+    ],
+    "name": "佐原海夕-第9节",
+    "desc": "佐原海夕-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 14,coopModIntimacyLv 14 16,addIntimacy  14 400,changeOpenWorldEvent 1 31411,switchSceneByTeleport 2102029",
+    "example": "coop14_9"
+  },
+  {
+    "sn": "coop14_10",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5235
+    ],
+    "name": "佐原海夕-第10节",
+    "desc": "佐原海夕-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 14,coopModIntimacyLv 14 19,addIntimacy  14 400,changeOpenWorldEvent 1 31411,switchSceneByTeleport 2102029",
+    "example": "coop14_10"
+  },
+  {
+    "sn": "coop15_2",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5236
+    ],
+    "name": "北里基良-第2节",
+    "desc": "北里基良-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 15,coopModIntimacyLv 15 2,addIntimacy  15 400,changeOpenWorldEvent 1 31511,switchSceneByTeleport 2102029",
+    "example": "coop15_2"
+  },
+  {
+    "sn": "coop15_3",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5237
+    ],
+    "name": "北里基良-第3节",
+    "desc": "北里基良-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 15,coopModIntimacyLv 15 4,addIntimacy  15 400,changeOpenWorldEvent 1 31511,switchSceneByTeleport 2102029",
+    "example": "coop15_3"
+  },
+  {
+    "sn": "coop15_4",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5238
+    ],
+    "name": "北里基良-第4节",
+    "desc": "北里基良-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 15,coopModIntimacyLv 15 6,addIntimacy  15 400,changeOpenWorldEvent 1 31511,switchSceneByTeleport 2102029",
+    "example": "coop15_4"
+  },
+  {
+    "sn": "coop15_5",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5239
+    ],
+    "name": "北里基良-第5节",
+    "desc": "北里基良-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 15,coopModIntimacyLv 15 8,addIntimacy  15 400,changeOpenWorldEvent 1 31511,switchSceneByTeleport 2102029",
+    "example": "coop15_5"
+  },
+  {
+    "sn": "coop15_6",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5240
+    ],
+    "name": "北里基良-第6节",
+    "desc": "北里基良-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 15,coopModIntimacyLv 15 10,addIntimacy  15 400,changeOpenWorldEvent 1 31511,switchSceneByTeleport 2102029",
+    "example": "coop15_6"
+  },
+  {
+    "sn": "coop15_7",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5241
+    ],
+    "name": "北里基良-第7节",
+    "desc": "北里基良-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 15,coopModIntimacyLv 15 12,addIntimacy  15 400,changeOpenWorldEvent 1 31511,switchSceneByTeleport 2102029",
+    "example": "coop15_7"
+  },
+  {
+    "sn": "coop15_8",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5242
+    ],
+    "name": "北里基良-第8节",
+    "desc": "北里基良-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 15,coopModIntimacyLv 15 14,addIntimacy  15 400,changeOpenWorldEvent 1 31511,switchSceneByTeleport 2102029",
+    "example": "coop15_8"
+  },
+  {
+    "sn": "coop15_9",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5243
+    ],
+    "name": "北里基良-第9节",
+    "desc": "北里基良-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 15,coopModIntimacyLv 15 16,addIntimacy  15 400,changeOpenWorldEvent 1 31511,switchSceneByTeleport 2102029",
+    "example": "coop15_9"
+  },
+  {
+    "sn": "coop15_10",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5244
+    ],
+    "name": "北里基良-第10节",
+    "desc": "北里基良-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 15,coopModIntimacyLv 15 19,addIntimacy  15 400,changeOpenWorldEvent 1 31511,switchSceneByTeleport 2102029",
+    "example": "coop15_10"
+  },
+  {
+    "sn": "coop16_2",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5245
+    ],
+    "name": "芦谷真咲-第2节",
+    "desc": "芦谷真咲-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 16,coopModIntimacyLv 16 2,addIntimacy  16 400,changeOpenWorldEvent 1 31611,switchSceneByTeleport 2102029",
+    "example": "coop16_2"
+  },
+  {
+    "sn": "coop16_3",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5246
+    ],
+    "name": "芦谷真咲-第3节",
+    "desc": "芦谷真咲-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 16,coopModIntimacyLv 16 4,addIntimacy  16 400,changeOpenWorldEvent 1 31611,switchSceneByTeleport 2102029",
+    "example": "coop16_3"
+  },
+  {
+    "sn": "coop16_4",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5247
+    ],
+    "name": "芦谷真咲-第4节",
+    "desc": "芦谷真咲-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 16,coopModIntimacyLv 16 6,addIntimacy  16 400,changeOpenWorldEvent 1 31611,switchSceneByTeleport 2102029",
+    "example": "coop16_4"
+  },
+  {
+    "sn": "coop16_5",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5248
+    ],
+    "name": "芦谷真咲-第5节",
+    "desc": "芦谷真咲-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 16,coopModIntimacyLv 16 8,addIntimacy  16 400,changeOpenWorldEvent 1 31611,switchSceneByTeleport 2102029",
+    "example": "coop16_5"
+  },
+  {
+    "sn": "coop16_6",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5249
+    ],
+    "name": "芦谷真咲-第6节",
+    "desc": "芦谷真咲-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 16,coopModIntimacyLv 16 10,addIntimacy  16 400,changeOpenWorldEvent 1 31611,switchSceneByTeleport 2102029",
+    "example": "coop16_6"
+  },
+  {
+    "sn": "coop16_7",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5250
+    ],
+    "name": "芦谷真咲-第7节",
+    "desc": "芦谷真咲-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 16,coopModIntimacyLv 16 12,addIntimacy  16 400,changeOpenWorldEvent 1 31611,switchSceneByTeleport 2102029",
+    "example": "coop16_7"
+  },
+  {
+    "sn": "coop16_8",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5251
+    ],
+    "name": "芦谷真咲-第8节",
+    "desc": "芦谷真咲-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 16,coopModIntimacyLv 16 16,addIntimacy  16 400,changeOpenWorldEvent 1 31611,switchSceneByTeleport 2102029",
+    "example": "coop16_8"
+  },
+  {
+    "sn": "coop16_9",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5252
+    ],
+    "name": "芦谷真咲-第9节",
+    "desc": "芦谷真咲-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 16,coopModIntimacyLv 16 16,addIntimacy  16 400,changeOpenWorldEvent 1 31611,switchSceneByTeleport 2102029",
+    "example": "coop16_9"
+  },
+  {
+    "sn": "coop16_10",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5253
+    ],
+    "name": "芦谷真咲-第10节",
+    "desc": "芦谷真咲-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 16,coopModIntimacyLv 16 19,addIntimacy  16 400,changeOpenWorldEvent 1 31611,switchSceneByTeleport 2102029",
+    "example": "coop16_10"
+  },
+  {
+    "sn": "coop17_2",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5254
+    ],
+    "name": "琴音·蒙塔涅-第2节",
+    "desc": "琴音·蒙塔涅-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 17,coopModIntimacyLv 17 2,addIntimacy  17 400,changeOpenWorldEvent 1 31711,switchSceneByTeleport 2102029",
+    "example": "coop17_2"
+  },
+  {
+    "sn": "coop17_3",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5255
+    ],
+    "name": "琴音·蒙塔涅-第3节",
+    "desc": "琴音·蒙塔涅-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 17,coopModIntimacyLv 17 4,addIntimacy  17 400,changeOpenWorldEvent 1 31711,switchSceneByTeleport 2102029",
+    "example": "coop17_3"
+  },
+  {
+    "sn": "coop17_4",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5256
+    ],
+    "name": "琴音·蒙塔涅-第4节",
+    "desc": "琴音·蒙塔涅-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 17,coopModIntimacyLv 17 6,addIntimacy  17 400,changeOpenWorldEvent 1 31711,switchSceneByTeleport 2102029",
+    "example": "coop17_4"
+  },
+  {
+    "sn": "coop17_5",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5257
+    ],
+    "name": "琴音·蒙塔涅-第5节",
+    "desc": "琴音·蒙塔涅-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 17,coopModIntimacyLv 17 8,addIntimacy  17 400,changeOpenWorldEvent 1 31711,switchSceneByTeleport 2102029",
+    "example": "coop17_5"
+  },
+  {
+    "sn": "coop17_6",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5258
+    ],
+    "name": "琴音·蒙塔涅-第6节",
+    "desc": "琴音·蒙塔涅-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 17,coopModIntimacyLv 17 10,addIntimacy  17 400,changeOpenWorldEvent 1 31711,switchSceneByTeleport 2102029",
+    "example": "coop17_6"
+  },
+  {
+    "sn": "coop17_7",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5259
+    ],
+    "name": "琴音·蒙塔涅-第7节",
+    "desc": "琴音·蒙塔涅-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 17,coopModIntimacyLv 17 12,addIntimacy  17 400,changeOpenWorldEvent 1 31711,switchSceneByTeleport 2102029",
+    "example": "coop17_7"
+  },
+  {
+    "sn": "coop17_8",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5260
+    ],
+    "name": "琴音·蒙塔涅-第8节",
+    "desc": "琴音·蒙塔涅-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 17,coopModIntimacyLv 17 14,addIntimacy  17 400,changeOpenWorldEvent 1 31711,switchSceneByTeleport 2102029",
+    "example": "coop17_8"
+  },
+  {
+    "sn": "coop17_9",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5261
+    ],
+    "name": "琴音·蒙塔涅-第9节",
+    "desc": "琴音·蒙塔涅-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 17,coopModIntimacyLv 17 16,addIntimacy  17 400,changeOpenWorldEvent 1 31711,switchSceneByTeleport 2102029",
+    "example": "coop17_9"
+  },
+  {
+    "sn": "coop17_10",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5262
+    ],
+    "name": "琴音·蒙塔涅-第10节",
+    "desc": "琴音·蒙塔涅-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 17,coopModIntimacyLv 17 19,addIntimacy  17 400,changeOpenWorldEvent 1 31711,switchSceneByTeleport 2102029",
+    "example": "coop17_10"
+  },
+  {
+    "sn": "coop18_2",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5263
+    ],
+    "name": "道玄坂琉七-第2节",
+    "desc": "道玄坂琉七-第2节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 18,coopModIntimacyLv 18 2,addIntimacy  18 400,changeOpenWorldEvent 1 31811,switchSceneByTeleport 2102029",
+    "example": "coop18_2"
+  },
+  {
+    "sn": "coop18_3",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5264
+    ],
+    "name": "道玄坂琉七-第3节",
+    "desc": "道玄坂琉七-第3节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 18,coopModIntimacyLv 18 4,addIntimacy  18 400,changeOpenWorldEvent 1 31811,switchSceneByTeleport 2102029",
+    "example": "coop18_3"
+  },
+  {
+    "sn": "coop18_4",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5265
+    ],
+    "name": "道玄坂琉七-第4节",
+    "desc": "道玄坂琉七-第4节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 18,coopModIntimacyLv 18 6,addIntimacy  18 400,changeOpenWorldEvent 1 31811,switchSceneByTeleport 2102029",
+    "example": "coop18_4"
+  },
+  {
+    "sn": "coop18_5",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5266
+    ],
+    "name": "道玄坂琉七-第5节",
+    "desc": "道玄坂琉七-第5节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 18,coopModIntimacyLv 18 8,addIntimacy  18 400,changeOpenWorldEvent 1 31811,switchSceneByTeleport 2102029",
+    "example": "coop18_5"
+  },
+  {
+    "sn": "coop18_6",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5267
+    ],
+    "name": "道玄坂琉七-第6节",
+    "desc": "道玄坂琉七-第6节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 18,coopModIntimacyLv 18 10,addIntimacy  18 400,changeOpenWorldEvent 1 31811,switchSceneByTeleport 2102029",
+    "example": "coop18_6"
+  },
+  {
+    "sn": "coop18_7",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5268
+    ],
+    "name": "道玄坂琉七-第7节",
+    "desc": "道玄坂琉七-第7节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 18,coopModIntimacyLv 18 12,addIntimacy  18 400,changeOpenWorldEvent 1 31811,switchSceneByTeleport 2102029",
+    "example": "coop18_7"
+  },
+  {
+    "sn": "coop18_8",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5269
+    ],
+    "name": "道玄坂琉七-第8节",
+    "desc": "道玄坂琉七-第8节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 18,coopModIntimacyLv 18 16,addIntimacy  18 400,changeOpenWorldEvent 1 31811,switchSceneByTeleport 2102029",
+    "example": "coop18_8"
+  },
+  {
+    "sn": "coop18_9",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5270
+    ],
+    "name": "道玄坂琉七-第9节",
+    "desc": "道玄坂琉七-第9节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 18,coopModIntimacyLv 18 16,addIntimacy  18 400,changeOpenWorldEvent 1 31811,switchSceneByTeleport 2102029",
+    "example": "coop18_9"
+  },
+  {
+    "sn": "coop18_10",
+    "type": 3,
+    "group": [
+      "加深约会2"
+    ],
+    "orderGroup": [
+      5271
+    ],
+    "name": "道玄坂琉七-第10节",
+    "desc": "道玄坂琉七-第10节",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,addFiveDAttr 1 4000 2 4000 3 4000 4 4000 5 4000,unlockcoop 18,coopModIntimacyLv 18 19,addIntimacy  18 400,changeOpenWorldEvent 1 31811,switchSceneByTeleport 2102029",
+    "example": "coop18_10"
+  },
+  {
     "sn": "coop_2_sp",
     "type": 3,
     "group": [
-      "特殊约会"
+      "特殊邀约"
     ],
     "orderGroup": [
       5602
@@ -2875,7 +4079,7 @@
     "sn": "coop_5_sp",
     "type": 3,
     "group": [
-      "特殊约会"
+      "特殊邀约"
     ],
     "orderGroup": [
       5603
@@ -2889,7 +4093,7 @@
     "sn": "coop_6_sp",
     "type": 3,
     "group": [
-      "特殊约会"
+      "特殊邀约"
     ],
     "orderGroup": [
       5604
@@ -2903,7 +4107,7 @@
     "sn": "coop_7_sp",
     "type": 3,
     "group": [
-      "特殊约会"
+      "特殊邀约"
     ],
     "orderGroup": [
       5605
@@ -2917,7 +4121,7 @@
     "sn": "coop_8_sp",
     "type": 3,
     "group": [
-      "特殊约会"
+      "特殊邀约"
     ],
     "orderGroup": [
       5606
@@ -2931,7 +4135,7 @@
     "sn": "coop_9_sp",
     "type": 3,
     "group": [
-      "特殊约会"
+      "特殊邀约"
     ],
     "orderGroup": [
       5607
@@ -2945,7 +4149,7 @@
     "sn": "coop_11_sp",
     "type": 3,
     "group": [
-      "特殊约会"
+      "特殊邀约"
     ],
     "orderGroup": [
       5608
@@ -2968,6 +4172,132 @@
     "desc": "获得产出表内的奖励",
     "format": "addAward sn [num]",
     "example": "addAward 2 100"
+  },
+  {
+    "sn": "coop_3_sp",
+    "type": 3,
+    "group": [
+      "特殊邀约"
+    ],
+    "orderGroup": [
+      5609
+    ],
+    "name": "多祢村理子-特殊",
+    "desc": "多祢村理子-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 3,coopModIntimacyLv 3 15,setCoopRelation 3 2,changeOpenWorldEvent 1 31002,switchSceneByTeleport 2102029",
+    "example": "coop_3_sp"
+  },
+  {
+    "sn": "coop_10_sp",
+    "type": 3,
+    "group": [
+      "特殊邀约"
+    ],
+    "orderGroup": [
+      5610
+    ],
+    "name": "须见俊也-特殊",
+    "desc": "须见俊也-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 10,coopModIntimacyLv 10 15,setCoopRelation 10 1,changeOpenWorldEvent 1 30902,switchSceneByTeleport 10031",
+    "example": "coop_10_sp"
+  },
+  {
+    "sn": "coop_12_sp",
+    "type": 3,
+    "group": [
+      "特殊邀约"
+    ],
+    "orderGroup": [
+      5611
+    ],
+    "name": "坂井绫香-特殊",
+    "desc": "坂井绫香-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 12,coopModIntimacyLv 12 15,setCoopRelation 12 2,changeOpenWorldEvent 1 31202,switchSceneByTeleport 2102001",
+    "example": "coop_12_sp"
+  },
+  {
+    "sn": "coop_13_sp",
+    "type": 3,
+    "group": [
+      "特殊邀约"
+    ],
+    "orderGroup": [
+      5612
+    ],
+    "name": "椎名悠美-特殊",
+    "desc": "椎名悠美-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 13,coopModIntimacyLv 13 15,setCoopRelation 13 2,changeOpenWorldEvent 1 31302,switchSceneByTeleport 34001",
+    "example": "coop_13_sp"
+  },
+  {
+    "sn": "coop_14_sp",
+    "type": 3,
+    "group": [
+      "特殊邀约"
+    ],
+    "orderGroup": [
+      5613
+    ],
+    "name": "佐原海夕-特殊",
+    "desc": "佐原海夕-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 14,coopModIntimacyLv 14 15,setCoopRelation 14 2,changeOpenWorldEvent 1 31402,switchSceneByTeleport 2102029",
+    "example": "coop_14_sp"
+  },
+  {
+    "sn": "coop_15_sp",
+    "type": 3,
+    "group": [
+      "特殊邀约"
+    ],
+    "orderGroup": [
+      5614
+    ],
+    "name": "北里基良-特殊",
+    "desc": "北里基良-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 15,coopModIntimacyLv 15 15,setCoopRelation 15 1,changeOpenWorldEvent 1 31502,switchSceneByTeleport 2102029",
+    "example": "coop_15_sp"
+  },
+  {
+    "sn": "coop_16_sp",
+    "type": 3,
+    "group": [
+      "特殊邀约"
+    ],
+    "orderGroup": [
+      5615
+    ],
+    "name": "芦谷真咲-特殊",
+    "desc": "芦谷真咲-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 16,coopModIntimacyLv 16 15,setCoopRelation 16 1,changeOpenWorldEvent 1 31602,switchSceneByTeleport 2102029",
+    "example": "coop_16_sp"
+  },
+  {
+    "sn": "coop_17_sp",
+    "type": 3,
+    "group": [
+      "特殊邀约"
+    ],
+    "orderGroup": [
+      5616
+    ],
+    "name": "琴音·蒙塔涅-特殊",
+    "desc": "琴音·蒙塔涅-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 17,coopModIntimacyLv 17 15,setCoopRelation 17 2,changeOpenWorldEvent 1 31702,switchSceneByTeleport 2102029",
+    "example": "coop_17_sp"
+  },
+  {
+    "sn": "coop_18_sp",
+    "type": 3,
+    "group": [
+      "特殊邀约"
+    ],
+    "orderGroup": [
+      5617
+    ],
+    "name": "道玄坂琉七-特殊",
+    "desc": "道玄坂琉七-特殊",
+    "format": "unlockStoryTime,finishGuides,finishTutorials,funcOpen 605,funcOpen 31,funcOpen 905,addActionEnergy 1,timeAdvance -1 1,timeAdvance,unlockcoop 18,coopModIntimacyLv 18 15,setCoopRelation 18 2,changeOpenWorldEvent 1 31802,switchSceneByTeleport 2102029",
+    "example": "coop_18_sp"
   },
   {
     "sn": "clearContainer",
@@ -3390,7 +4720,7 @@
     "example": "unlockdc"
   },
   {
-    "sn": "ActivityPalaceLock",
+    "sn": "DifficultChallengeRankUp",
     "type": 1,
     "group": [
       "关卡相关"
@@ -3398,10 +4728,38 @@
     "orderGroup": [
       7032
     ],
+    "name": "心之海变更到指定段位",
+    "desc": "心之海变更到指定段位",
+    "format": "setDCRank 段位sn",
+    "example": "setDCRank 1"
+  },
+  {
+    "sn": "ActivityPalaceLock",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7033
+    ],
     "name": "解锁推关玩法关卡",
     "desc": "解锁推关玩法指定关卡（不填sn解锁全部关）",
     "format": "unlockAP",
     "example": "unlockAP"
+  },
+  {
+    "sn": "DailyChallengeLock",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7034
+    ],
+    "name": "解锁画境迷廊关卡",
+    "desc": "解锁画境迷廊指定关卡",
+    "format": "passCS [画境迷廊sn]",
+    "example": "passCS 21011"
   },
   {
     "sn": "switchJumpMode",
@@ -3410,12 +4768,40 @@
       "关卡相关"
     ],
     "orderGroup": [
-      7032
+      7035
     ],
     "name": "切换区域跳跃模式（临时）",
     "desc": "切换区域跳跃模式（临时）",
     "format": "switchJumpMode",
     "example": "switchJumpMode"
+  },
+  {
+    "sn": "testUnloadObj",
+    "type": 1,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7036
+    ],
+    "name": "测试未加载机关",
+    "desc": "测试未加载机关",
+    "format": "testUnloadObj",
+    "example": "testUnloadObj"
+  },
+  {
+    "sn": "resetWeekMonster",
+    "type": 0,
+    "group": [
+      "关卡相关"
+    ],
+    "orderGroup": [
+      7037
+    ],
+    "name": "重置周本挑战次数",
+    "desc": "重置周本挑战次数",
+    "format": "resetWeekMonster",
+    "example": "resetWeekMonster"
   },
   {
     "sn": "curPosition",
@@ -3614,13 +5000,41 @@
     "example": "curEulerAngles"
   },
   {
+    "sn": "ch3Start",
+    "type": 3,
+    "group": [
+      "关卡快捷"
+    ],
+    "orderGroup": [
+      50000
+    ],
+    "name": "愤怒和暴食水坝-都市任务开始",
+    "desc": "愤怒和暴食水坝-都市任务开始",
+    "format": "muteFuncOpenUI true,funcOpen all,TriggerFunc 4050,acceptQuest 120002,stageSwitchCommon 2102",
+    "example": "ch3Start"
+  },
+  {
+    "sn": "ch3PalaceStart",
+    "type": 3,
+    "group": [
+      "关卡快捷"
+    ],
+    "orderGroup": [
+      50001
+    ],
+    "name": "愤怒和暴食水坝-宫殿任务开始",
+    "desc": "愤怒和暴食水坝-宫殿任务开始",
+    "format": "acceptQuest 120037,enterOtherWorld 8501",
+    "example": "ch3PalaceStart"
+  },
+  {
     "sn": "enterOtherWorld1",
     "type": 1,
     "group": [
       "关卡快捷"
     ],
     "orderGroup": [
-      50000
+      50002
     ],
     "name": "色欲棒球馆-宫殿外",
     "desc": "色欲棒球馆-宫殿外",
@@ -3634,7 +5048,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50001
+      50003
     ],
     "name": "色欲棒球馆-本垒1F东",
     "desc": "色欲棒球馆-本垒1F东",
@@ -3648,7 +5062,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50002
+      50004
     ],
     "name": "色欲棒球馆-本垒1F中央大厅",
     "desc": "色欲棒球馆-本垒1F中央大厅",
@@ -3662,7 +5076,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50003
+      50005
     ],
     "name": "色欲棒球馆-本垒1F卸货区",
     "desc": "色欲棒球馆-本垒1F卸货区",
@@ -3676,7 +5090,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50004
+      50006
     ],
     "name": "色欲棒球馆-本垒1F觉醒区",
     "desc": "色欲棒球馆-本垒1F觉醒区",
@@ -3690,7 +5104,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50005
+      50007
     ],
     "name": "色欲棒球馆-本垒1F西",
     "desc": "色欲棒球馆-本垒1F西",
@@ -3704,7 +5118,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50006
+      50008
     ],
     "name": "色欲棒球馆-1垒",
     "desc": "色欲棒球馆-1垒",
@@ -3718,7 +5132,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50007
+      50009
     ],
     "name": "色欲棒球馆-三垒1F01",
     "desc": "色欲棒球馆-三垒1F01",
@@ -3732,7 +5146,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50008
+      50010
     ],
     "name": "色欲棒球馆-三垒1F02",
     "desc": "色欲棒球馆-三垒1F02",
@@ -3746,7 +5160,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50009
+      50011
     ],
     "name": "色欲棒球馆-三垒2F",
     "desc": "色欲棒球馆-三垒2F",
@@ -3760,7 +5174,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50010
+      50012
     ],
     "name": "色欲棒球馆-三垒3F01",
     "desc": "色欲棒球馆-三垒3F01",
@@ -3774,7 +5188,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50011
+      50013
     ],
     "name": "色欲棒球馆-三垒3F02",
     "desc": "色欲棒球馆-三垒3F02",
@@ -3788,7 +5202,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50012
+      50014
     ],
     "name": "色欲棒球馆-天台本→一",
     "desc": "色欲棒球馆-天台本→一",
@@ -3802,7 +5216,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50013
+      50015
     ],
     "name": "色欲棒球馆-天台一→三",
     "desc": "色欲棒球馆-天台一→三",
@@ -3816,7 +5230,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50014
+      50016
     ],
     "name": "色欲棒球馆-天台三→本",
     "desc": "色欲棒球馆-天台三→本",
@@ -3830,7 +5244,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50015
+      50017
     ],
     "name": "色欲棒球馆-中心球场",
     "desc": "色欲棒球馆-中心球场",
@@ -3844,7 +5258,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50016
+      50018
     ],
     "name": "虚伪影视城-门外树林",
     "desc": "虚伪影视城-门外树林",
@@ -3858,7 +5272,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50017
+      50019
     ],
     "name": "虚伪影视城-门后大桥",
     "desc": "虚伪影视城-门后大桥",
@@ -3872,7 +5286,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50018
+      50020
     ],
     "name": "虚伪影视城-摄影棚区域",
     "desc": "虚伪影视城-摄影棚区域",
@@ -3886,7 +5300,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50019
+      50021
     ],
     "name": "虚伪影视城-三之丸",
     "desc": "虚伪影视城-三之丸",
@@ -3900,7 +5314,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50020
+      50022
     ],
     "name": "虚伪影视城-二之丸",
     "desc": "虚伪影视城-二之丸",
@@ -3914,7 +5328,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50021
+      50023
     ],
     "name": "虚伪影视城-天守阁外",
     "desc": "虚伪影视城-天守阁外",
@@ -3928,7 +5342,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50022
+      50024
     ],
     "name": "玩法本-跑酷易",
     "desc": "玩法本-跑酷易",
@@ -3942,7 +5356,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50023
+      50025
     ],
     "name": "玩法本-跑酷中",
     "desc": "玩法本-跑酷中",
@@ -3956,7 +5370,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50024
+      50026
     ],
     "name": "玩法本-跑酷难",
     "desc": "玩法本-跑酷难",
@@ -3970,7 +5384,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50025
+      50027
     ],
     "name": "玩法本-解密易",
     "desc": "玩法本-解密易",
@@ -3984,7 +5398,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50026
+      50028
     ],
     "name": "玩法本-解密中",
     "desc": "玩法本-解密中",
@@ -3998,7 +5412,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50027
+      50029
     ],
     "name": "玩法本-解密难",
     "desc": "玩法本-解密难",
@@ -4012,7 +5426,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50028
+      50030
     ],
     "name": "玩法本-战斗易",
     "desc": "玩法本-战斗易",
@@ -4026,7 +5440,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50029
+      50031
     ],
     "name": "玩法本-战斗中",
     "desc": "玩法本-战斗中",
@@ -4040,7 +5454,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50030
+      50032
     ],
     "name": "玩法本-战斗难",
     "desc": "玩法本-战斗难",
@@ -4054,7 +5468,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50031
+      50033
     ],
     "name": "印象空间-入口",
     "desc": "印象空间-入口",
@@ -4068,7 +5482,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50032
+      50034
     ],
     "name": "思想剥夺-1层",
     "desc": "思想剥夺-1层",
@@ -4082,7 +5496,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50033
+      50035
     ],
     "name": "思想剥夺-2层",
     "desc": "思想剥夺-2层",
@@ -4096,7 +5510,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50034
+      50036
     ],
     "name": "思想剥夺-3层",
     "desc": "思想剥夺-3层",
@@ -4110,7 +5524,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50035
+      50037
     ],
     "name": "思想剥夺-4层",
     "desc": "思想剥夺-4层",
@@ -4124,7 +5538,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50036
+      50038
     ],
     "name": "思想→和谐转换层",
     "desc": "思想→和谐转换层",
@@ -4138,7 +5552,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50037
+      50039
     ],
     "name": "和谐剥夺-1层",
     "desc": "和谐剥夺-1层",
@@ -4152,7 +5566,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50038
+      50040
     ],
     "name": "和谐剥夺-2层",
     "desc": "和谐剥夺-2层",
@@ -4166,7 +5580,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50039
+      50041
     ],
     "name": "和谐剥夺-3层",
     "desc": "和谐剥夺-3层",
@@ -4180,7 +5594,7 @@
       "关卡快捷"
     ],
     "orderGroup": [
-      50040
+      50042
     ],
     "name": "和谐→节制转换层",
     "desc": "和谐→节制转换层",
@@ -4958,6 +6372,20 @@
     "example": "completeAchievement 0 1"
   },
   {
+    "sn": "rogueBattle instSn",
+    "type": 0,
+    "group": [
+      "肉鸽玩法"
+    ],
+    "orderGroup": [
+      12019
+    ],
+    "name": "心轨玩法中进入指定战斗",
+    "desc": "心轨玩法中进入指定战斗",
+    "format": "rogueBattle instSn",
+    "example": "rogueBattle instSn"
+  },
+  {
     "sn": "coopModIntimacyLv",
     "type": 1,
     "group": [
@@ -5323,20 +6751,6 @@
     "example": "gmAllPersonaAddSkill"
   },
   {
-    "sn": "rhythmGameAutoPlay",
-    "type": 1,
-    "group": [
-      "社团"
-    ],
-    "orderGroup": [
-      16001
-    ],
-    "name": "音游全连",
-    "desc": "音游开启自动全连，开启=1，关闭=0",
-    "format": "rhythmGameAutoPlay [status]",
-    "example": "rhythmGameAutoPlay 1"
-  },
-  {
     "sn": "rhythmGameDebugMode",
     "type": 1,
     "group": [
@@ -5349,6 +6763,20 @@
     "desc": "开启debug对话框,开启=1，关闭=0",
     "format": "rhythmGameDebug [status]",
     "example": "rhythmGameDebug 1"
+  },
+  {
+    "sn": "IAmTheRhythmMaster",
+    "type": 1,
+    "group": [
+      "社团"
+    ],
+    "orderGroup": [
+      16001
+    ],
+    "name": "音游全连",
+    "desc": "在音游开始后使用，音游结束后自动关闭。",
+    "format": "IAmTheRhythmMaster",
+    "example": "IAmTheRhythmMaster"
   },
   {
     "sn": "rhythmGameAllOpen",
@@ -5405,6 +6833,90 @@
     "desc": "通关指定足球关卡",
     "format": "finishFootballGame sn 进入关卡执行",
     "example": "finishFootballGame 1"
+  },
+  {
+    "sn": "footballFire",
+    "type": 1,
+    "group": [
+      "社团"
+    ],
+    "orderGroup": [
+      16007
+    ],
+    "name": "足球关卡必定进球",
+    "desc": "足球关卡必定进球",
+    "format": "footballFire 0",
+    "example": "footballFire 0"
+  },
+  {
+    "sn": "thiefDispatchAddTask",
+    "type": 0,
+    "group": [
+      "委托派遣"
+    ],
+    "orderGroup": [
+      17001
+    ],
+    "name": "创建派遣任务",
+    "desc": "创建新的派遣任务",
+    "format": "thiefDispatchAddTask taskSn",
+    "example": "thiefDispatchAddTask taskSn"
+  },
+  {
+    "sn": "thiefDispatchFinishTask",
+    "type": 0,
+    "group": [
+      "委托派遣"
+    ],
+    "orderGroup": [
+      17002
+    ],
+    "name": "完成派遣任务",
+    "desc": "完成派遣任务",
+    "format": "thiefDispatchFinishTask taskSn",
+    "example": "thiefDispatchFinishTask taskSn"
+  },
+  {
+    "sn": "thiefDispatchDelTask",
+    "type": 0,
+    "group": [
+      "委托派遣"
+    ],
+    "orderGroup": [
+      17003
+    ],
+    "name": "删除派遣任务",
+    "desc": "删除已有的某个派遣任务",
+    "format": "thiefDispatchDelTask taskSn",
+    "example": "thiefDispatchDelTask taskSn"
+  },
+  {
+    "sn": "thiefDispatchClearTask",
+    "type": 0,
+    "group": [
+      "委托派遣"
+    ],
+    "orderGroup": [
+      17004
+    ],
+    "name": "清空派遣任务",
+    "desc": "清空派遣任务",
+    "format": "thiefDispatchClearTask",
+    "example": "thiefDispatchClearTask"
+  },
+  {
+    "sn": "thiefDispatchAddExp",
+    "type": 0,
+    "group": [
+      "委托派遣"
+    ],
+    "orderGroup": [
+      17005
+    ],
+    "name": "添加派遣经验",
+    "desc": "添加派遣经验",
+    "format": "thiefDispatchAddExp num",
+    "example": "thiefDispatchAddExp num"
   },
   {
     "sn": "gm1",
@@ -5785,6 +7297,20 @@
     "example": "SetIsGMSetRatio true"
   },
   {
+    "sn": "EnterSleepTime",
+    "type": 1,
+    "group": [
+      "测试"
+    ],
+    "orderGroup": [
+      30010
+    ],
+    "name": "进入省电模式时长",
+    "desc": "进入省电模式时长",
+    "format": "enterSleepTime 10",
+    "example": "enterSleepTime 10"
+  },
+  {
     "sn": "GMSetResolutionByWH",
     "type": 1,
     "group": [
@@ -5895,6 +7421,20 @@
     "desc": "开启关闭HDR",
     "format": "sm OpenHDR true/false",
     "example": "sm OpenHDR true"
+  },
+  {
+    "sn": "UseI18NUI",
+    "type": 1,
+    "group": [
+      "测试"
+    ],
+    "orderGroup": [
+      30011
+    ],
+    "name": "使用国际化UI",
+    "desc": "使用国际化UI",
+    "format": "UseI18NUI JP",
+    "example": "UseI18NUI JP"
   },
   {
     "sn": "PVRoleGetReady",
@@ -6146,6 +7686,48 @@
     "name": "完成所有目标",
     "desc": "完成所有目标",
     "format": "finishActivityGoalGroup [目标组]",
-    "example": "finishActivityGoalGroup"
+    "example": "finishActivityGoalGroup 301100"
+  },
+  {
+    "sn": "finishActivityGoalGroup12",
+    "type": 3,
+    "group": [
+      "活动"
+    ],
+    "orderGroup": [
+      60002
+    ],
+    "name": "完成1期2期目标",
+    "desc": "完成1期2期目标",
+    "format": "levelup 89,finishActivityGoalGroup 301100,finishActivityGoalGroup 301200,finishActivityGoalGroup 301300,finishActivityGoalGroup 301400,finishActivityGoalGroup 301500,finishActivityGoalGroup 301600,finishActivityGoalGroup 301700,finishActivityGoalGroup 301800,finishActivityGoalGroup 301900,finishActivityGoalGroup 302000,finishActivityGoalGroup 302100,finishActivityGoalGroup 302200,finishActivityGoalGroup 302300,finishActivityGoalGroup 302400,getFinishActivityGoalAward 300002 301100,getFinishActivityGoalAward 300002 301200,getFinishActivityGoalAward 300002 301300,getFinishActivityGoalAward 300002 301400,getFinishActivityGoalAward 300002 301500,getFinishActivityGoalAward 300002 301600,getFinishActivityGoalAward 300002 301700,getFinishActivityGoalAward 300002 301800,getFinishActivityGoalAward 300002 301900,getFinishActivityGoalAward 300002 302000,getFinishActivityGoalAward 300002 302100,getFinishActivityGoalAward 300002 302200,getFinishActivityGoalAward 300002 302300,getFinishActivityGoalAward 300002 302400,getActivityOptionalAward 300002  302400 302413 210104,getActivityOptionalAward 300002  301700 301711 1021",
+    "example": "finishActivityGoalGroup12"
+  },
+  {
+    "sn": "chessOpen",
+    "type": 0,
+    "group": [
+      "活动"
+    ],
+    "orderGroup": [
+      60003
+    ],
+    "name": "完成推兵棋策略关卡",
+    "desc": "完成推兵棋策略关卡",
+    "format": "chessOpen [关卡sn]",
+    "example": "chessOpen"
+  },
+  {
+    "sn": "addChessBuff",
+    "type": 0,
+    "group": [
+      "活动"
+    ],
+    "orderGroup": [
+      60004
+    ],
+    "name": "添加推兵棋所有buff",
+    "desc": "添加推兵棋所有buff",
+    "format": "addItem 3010306 1",
+    "example": "addItem 3010306 1"
   }
 ]

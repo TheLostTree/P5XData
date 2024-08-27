@@ -72,6 +72,16 @@
   {
     "sn": 8,
     "resultType": 1,
+    "playTL": "TL_battle_common_guankajiesuan_velvetTrial_normal.prefab",
+    "tlInScene": 1,
+    "hideSelfModel": 1,
+    "SpecifyLoading": 11,
+    "isNeedCapture": 0,
+    "waitMaxTime": 100
+  },
+  {
+    "sn": 9,
+    "resultType": 1,
     "playTL": "TL_battle_common_guankajiesuan_velvetTrial_sad.prefab",
     "tlInScene": 1,
     "hideSelfModel": 1,
@@ -143,6 +153,26 @@
     "sn": 25,
     "resultType": 4,
     "playTL": "TL_battle_common_guankajiesuan_unionBoss.prefab",
+    "tlInScene": 1,
+    "hideSelfModel": 1,
+    "SpecifyLoading": 0,
+    "isNeedCapture": 0,
+    "waitMaxTime": 100
+  },
+  {
+    "sn": 26,
+    "resultType": 1,
+    "playTL": "TL_battle_common_guankajiesuan_acBoss.prefab",
+    "tlInScene": 1,
+    "hideSelfModel": 1,
+    "SpecifyLoading": 0,
+    "isNeedCapture": 1,
+    "waitMaxTime": 100
+  },
+  {
+    "sn": 27,
+    "resultType": 1,
+    "playTL": "TL_battle_common_guankajiesuan_thiefChallenge.prefab",
     "tlInScene": 1,
     "hideSelfModel": 1,
     "SpecifyLoading": 0,

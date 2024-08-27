@@ -149,7 +149,7 @@
   },
   {
     "sn": 1000040,
-    "textContent": "本物品将在%s月%s日 %s:%s到期"
+    "textContent": "本物品将在%s年%s月%s日 %s:%s到期"
   },
   {
     "sn": 1000041,
@@ -317,7 +317,7 @@
   },
   {
     "sn": 1000082,
-    "textContent": "%s月%s日 %s:%s后可使用。"
+    "textContent": "%s年%s月%s日 %s:%s后可使用。"
   },
   {
     "sn": 1000083,
@@ -370,6 +370,114 @@
   {
     "sn": 1000095,
     "textContent": "道具不在使用期内"
+  },
+  {
+    "sn": 1000096,
+    "textContent": "监测到您的客户端版本号过低，请重启游戏更新版本。"
+  },
+  {
+    "sn": 1000097,
+    "textContent": "监测到您的客户端版本号过低，请下载安装新的客户端。"
+  },
+  {
+    "sn": 1000098,
+    "textContent": "本周不再提示，关闭后可在商城购买"
+  },
+  {
+    "sn": 1000099,
+    "textContent": "{0}/<color=#828282>{1}</color>"
+  },
+  {
+    "sn": 1000100,
+    "textContent": "立即获得佐原海夕+既定之命运*3"
+  },
+  {
+    "sn": 1000101,
+    "textContent": "第2天可得佐原海夕培养材料"
+  },
+  {
+    "sn": 1000102,
+    "textContent": "第3天可得佐原海夕培养材料"
+  },
+  {
+    "sn": 1000103,
+    "textContent": "第4天可得佐原海夕专属金色启示"
+  },
+  {
+    "sn": 1000104,
+    "textContent": "立即获得佐原海夕+既定之命运*5"
+  },
+  {
+    "sn": 1000105,
+    "textContent": "第2天可得佐原海夕培养材料"
+  },
+  {
+    "sn": 1000106,
+    "textContent": "第3天可得浓缩咖啡*3"
+  },
+  {
+    "sn": 1000107,
+    "textContent": "第4天可得佐原海夕培养材料"
+  },
+  {
+    "sn": 1000108,
+    "textContent": "第5天可得能量饮料*3"
+  },
+  {
+    "sn": 1000109,
+    "textContent": "第6天可得日升*30"
+  },
+  {
+    "sn": 1000110,
+    "textContent": "第7天可得佐原海夕专属金色宙卡"
+  },
+  {
+    "sn": 1000111,
+    "textContent": "限购："
+  },
+  {
+    "sn": 1000112,
+    "textContent": "恭喜呐~！客人已经抽到本期最高大奖啦，需要玛奇姆为您准备新一批奖品吗？现在就可以更新奖池哦~也可以等客人您准备好之后再告诉玛奇姆呢~"
+  },
+  {
+    "sn": 1000113,
+    "textContent": "恭喜呐~！客人已经获得本期全部奖品啦，玛奇姆马上为您准备新一批奖品~祝客人好运当头，一发入魂哟~！"
+  },
+  {
+    "sn": 1000114,
+    "textContent": "委托、消费大酬宾等奖励或者购买<link=\"mqm\"><u>%s</u></link>可获得神乐铃"
+  },
+  {
+    "sn": 1000115,
+    "textContent": "立得4星自选怪盗和十连"
+  },
+  {
+    "sn": 1000116,
+    "textContent": "第2天可得4星自选武器"
+  },
+  {
+    "sn": 1000117,
+    "textContent": "第3天可得一套金色力量启示卡"
+  },
+  {
+    "sn": 1000118,
+    "textContent": "客人~本店中任意消费都能累计进度哦~"
+  },
+  {
+    "sn": 1000120,
+    "textContent": "%s小时%s分钟"
+  },
+  {
+    "sn": 1000121,
+    "textContent": "%s小时"
+  },
+  {
+    "sn": 1000122,
+    "textContent": "%s分钟"
+  },
+  {
+    "sn": 1000123,
+    "textContent": "%s：%s：%s"
   },
   {
     "sn": 1011001,
@@ -773,7 +881,7 @@
   },
   {
     "sn": 1018005,
-    "textContent": "有效期：%s"
+    "textContent": "时间：%s"
   },
   {
     "sn": 1018006,
@@ -1245,11 +1353,11 @@
   },
   {
     "sn": 1020102,
-    "textContent": "三星"
+    "textContent": "二星"
   },
   {
     "sn": 1020103,
-    "textContent": "四星"
+    "textContent": "三星"
   },
   {
     "sn": 1020104,
@@ -1266,6 +1374,10 @@
   {
     "sn": 1020107,
     "textContent": "渲染加速引擎启动独显芯片实现低功耗 120帧游戏体验"
+  },
+  {
+    "sn": 1020108,
+    "textContent": "此处可调整<color=#fbff37>极速模式</color>加速对话剧情"
   },
   {
     "sn": 1020201,
@@ -1557,11 +1669,11 @@
   },
   {
     "sn": 1022029,
-    "textContent": "为<color=#EADE10>「限定武器」</color>，活动结束后不会加入<color=#EADE10>「武器自选」</color>。"
+    "textContent": "<color=#EADE10>「{0}」</color>为<color=#EADE10>「限定武器」</color>，活动结束后不会加入<color=#EADE10>「武器自选」</color>。"
   },
   {
     "sn": 1022030,
-    "textContent": "为<color=#EADE10>「非限定武器」</color>，活动结束后加入<color=#EADE10>「武器自选」</color>。"
+    "textContent": "<color=#EADE10>「{0}」</color>为<color=#EADE10>「非限定武器」</color>，活动结束后加入<color=#EADE10>「武器自选」</color>。"
   },
   {
     "sn": 1022031,
@@ -1668,6 +1780,14 @@
     "textContent": "当前必出5星进度%s/%s"
   },
   {
+    "sn": 1022063,
+    "textContent": "剩余{0}折次数:{1}"
+  },
+  {
+    "sn": 1022064,
+    "textContent": "请在以下物品中自选一种"
+  },
+  {
     "sn": 1023001,
     "textContent": "每日05:00恢复d%点体力值。"
   },
@@ -1682,6 +1802,10 @@
   {
     "sn": 1023004,
     "textContent": "达成进度"
+  },
+  {
+    "sn": 1023005,
+    "textContent": "<size=30>({0}/{1})</size>"
   },
   {
     "sn": 1024001,
@@ -1889,7 +2013,7 @@
   },
   {
     "sn": 1026051,
-    "textContent": "周限次："
+    "textContent": "周领奖次数：<color=#0665ca>%s/%s</color>"
   },
   {
     "sn": 1026052,
@@ -1897,7 +2021,7 @@
   },
   {
     "sn": 1026053,
-    "textContent": "本周限定次数：<color=#ff0000>0</color>"
+    "textContent": "周领奖次数：<color=#0665ca>%s/%s</color>"
   },
   {
     "sn": 1026054,
@@ -2256,6 +2380,14 @@
     "textContent": "视角自动修正"
   },
   {
+    "sn": 1030067,
+    "textContent": "网络环境异常，请队长重新登录。\n（错误码：1030067）"
+  },
+  {
+    "sn": 1030068,
+    "textContent": "简化战斗表现"
+  },
+  {
     "sn": 1030080,
     "textContent": "第%s题/共%s题"
   },
@@ -2374,6 +2506,18 @@
   {
     "sn": 1033020,
     "textContent": "选择与协同者成为进一步的关系"
+  },
+  {
+    "sn": 1033021,
+    "textContent": "{0}与您当前关系为「{1}」，是否改变与{2}的关系？\n注意：确认改变关系后{3}天内不能再次改变。"
+  },
+  {
+    "sn": 1033022,
+    "textContent": "亲密挚友"
+  },
+  {
+    "sn": 1033023,
+    "textContent": "心灵伴侣"
   },
   {
     "sn": 1034000,
@@ -2884,6 +3028,22 @@
     "textContent": "需要<size=46><color=#ffffff><sprite=2 tint=1></size>%d</color>和<size=46><color=#ffffff><sprite=17 tint=1></size>%d</color>升级天赋。"
   },
   {
+    "sn": 1035017,
+    "textContent": "需要<size=46><color=#ffffff><sprite=30 tint=1></size>%d</color>激活天赋。"
+  },
+  {
+    "sn": 1035018,
+    "textContent": "需要<size=46><color=#ffffff><sprite=30 tint=1></size>%d</color>升级天赋。"
+  },
+  {
+    "sn": 1035019,
+    "textContent": "需要<size=46><color=#ffffff><sprite=30 tint=1></size>%d</color>激活天赋。"
+  },
+  {
+    "sn": 1035020,
+    "textContent": "需要<size=46><color=#ffffff><sprite=30 tint=1></size>%d</color>升级天赋。"
+  },
+  {
     "sn": 1035077,
     "textContent": "当前强化素材中包含<color=#FF0000>高品质</color>道具。\n"
   },
@@ -3321,19 +3481,19 @@
   },
   {
     "sn": 1043014,
-    "textContent": "请在以下列表中点击选择一位%s星怪盗。"
+    "textContent": "请在以下列表中点击选择一位%s星怪盗"
   },
   {
     "sn": 1043015,
-    "textContent": "请在以下列表中点击选择一把%s星武器。"
+    "textContent": "请在以下列表中点击选择一把%s星武器"
   },
   {
     "sn": 1043016,
-    "textContent": "以下角色在活动契约中获得。"
+    "textContent": "以下角色在活动契约中获得"
   },
   {
     "sn": 1043017,
-    "textContent": "以下角色在普通契约中获得。"
+    "textContent": "以下角色在普通契约中获得"
   },
   {
     "sn": 1043018,
@@ -3345,7 +3505,7 @@
   },
   {
     "sn": 1043020,
-    "textContent": "累积签到7日，即可获得"
+    "textContent": "累计签到7日，即可获得"
   },
   {
     "sn": 1043021,
@@ -3441,15 +3601,15 @@
   },
   {
     "sn": 1043044,
-    "textContent": "休闲"
+    "textContent": "休闲·已通关"
   },
   {
     "sn": 1043045,
-    "textContent": "普通"
+    "textContent": "普通·已通关"
   },
   {
     "sn": 1043046,
-    "textContent": "困难"
+    "textContent": "困难·已通关"
   },
   {
     "sn": 1043047,
@@ -3477,7 +3637,7 @@
   },
   {
     "sn": 1043053,
-    "textContent": "每携带1台，「自爆机器人」数量+1，「自爆机器人」造成的「万能伤害」提升200点。"
+    "textContent": "每携带1台，「自爆机器人」数量+1，「自爆机器人」造成的「万能伤害」提升100%。"
   },
   {
     "sn": 1043054,
@@ -3521,7 +3681,7 @@
   },
   {
     "sn": 1043064,
-    "textContent": "通关前置关卡及棋棋大作战第%s关后解锁"
+    "textContent": "通关前置关卡及棋棋追逐秀第%s关后解锁"
   },
   {
     "sn": 1043065,
@@ -3562,6 +3722,74 @@
   {
     "sn": 1043074,
     "textContent": "请在以下列表中点击选择一把%s星武器。"
+  },
+  {
+    "sn": 1043075,
+    "textContent": "完成目标<sprite=0 tint=1>所有任务"
+  },
+  {
+    "sn": 1043076,
+    "textContent": "完成目标<sprite=1 tint=1>所有任务"
+  },
+  {
+    "sn": 1043077,
+    "textContent": "完成目标<sprite=2 tint=1>所有任务"
+  },
+  {
+    "sn": 1043078,
+    "textContent": "完成目标<sprite=3 tint=1>所有任务"
+  },
+  {
+    "sn": 1043079,
+    "textContent": "自选新手五★怪盗"
+  },
+  {
+    "sn": 1043080,
+    "textContent": "自选新手五★武器"
+  },
+  {
+    "sn": 1043081,
+    "textContent": "自选指定五★残识"
+  },
+  {
+    "sn": 1043082,
+    "textContent": "自选指定五★武器"
+  },
+  {
+    "sn": 1043083,
+    "textContent": "奖励全部领取后，开启「Ⅲ期目标」"
+  },
+  {
+    "sn": 1043084,
+    "textContent": "每日领取补给\n能量饮料<color=#FFEC00>x1</color>"
+  },
+  {
+    "sn": 1043085,
+    "textContent": "每日领取补给\n浓缩咖啡<color=#FFEC00>x1</color>"
+  },
+  {
+    "sn": 1043086,
+    "textContent": "统计活动中核心道具的获得情况\n显示为：已获得数量/总数量"
+  },
+  {
+    "sn": 1043094,
+    "textContent": "营业额达到{0}"
+  },
+  {
+    "sn": 1043095,
+    "textContent": "流失顾客小于{0}名"
+  },
+  {
+    "sn": 1043096,
+    "textContent": "{0}/{1}（流失30名顾客关卡结束）"
+  },
+  {
+    "sn": 1043097,
+    "textContent": "游玩此活动建议完成主线「{0}」，否则剧透会影响游玩剧情体验"
+  },
+  {
+    "sn": 1043098,
+    "textContent": "营业结束触发{0}点餐"
   },
   {
     "sn": 1044001,
@@ -3686,6 +3914,14 @@
   {
     "sn": 1045030,
     "textContent": "网络环境异常，请队长重新登录。\n（错误码：1045030）"
+  },
+  {
+    "sn": 1045031,
+    "textContent": "游戏内容有更新，请重启游戏。"
+  },
+  {
+    "sn": 1045099,
+    "textContent": "上传日志可以帮助快速定位反馈的问题。\n※若处于移动网络，将消耗少量流量。\n是否确认上传？"
   },
   {
     "sn": 1046001,
@@ -4297,7 +4533,7 @@
   },
   {
     "sn": 1058009,
-    "textContent": "京ICP备2021015964号-3A"
+    "textContent": "<link=\"htp|https://beian.miit.gov.cn/\"><u>京ICP备2021015964号-3A</u></link>"
   },
   {
     "sn": 1058010,
@@ -4338,6 +4574,10 @@
   {
     "sn": 1060004,
     "textContent": "%s"
+  },
+  {
+    "sn": 1060005,
+    "textContent": "进入新频道：%s"
   },
   {
     "sn": 1060099,
@@ -4445,7 +4685,7 @@
   },
   {
     "sn": 1063003,
-    "textContent": "协助好友可以获得友情点数。"
+    "textContent": "每日最多可获取<color=#FF0000>%s</color>点<link=\"s|1002\"><u>助战积分</u></link>。"
   },
   {
     "sn": 1070001,
@@ -4733,7 +4973,7 @@
   },
   {
     "sn": 1070073,
-    "textContent": "仅展示当前段位前999名怪盗团信息"
+    "textContent": "仅展示当前段位前2000名怪盗信息"
   },
   {
     "sn": 1070074,
@@ -4764,6 +5004,14 @@
     "textContent": "我的排名："
   },
   {
+    "sn": 1070081,
+    "textContent": "<color=#FFFFFF>(当前<color=#FFF000>第%s名</color>)</color>"
+  },
+  {
+    "sn": 1070082,
+    "textContent": "只有对带有BOSS标记的敌方造成伤害才会进行积分累计"
+  },
+  {
     "sn": 1071001,
     "textContent": "累计获得星数（%s/%s）"
   },
@@ -4792,6 +5040,10 @@
     "textContent": "已获得"
   },
   {
+    "sn": 1071008,
+    "textContent": "分"
+  },
+  {
     "sn": 1072001,
     "textContent": "%s级解锁"
   },
@@ -4813,7 +5065,7 @@
   },
   {
     "sn": 1072006,
-    "textContent": "周限次：%s"
+    "textContent": "周领奖次数：<color=#0665ca>%s/%s</color>"
   },
   {
     "sn": 1072007,
@@ -5100,6 +5352,10 @@
     "textContent": "挑战结算中"
   },
   {
+    "sn": 1075064,
+    "textContent": "积分统计进度会记录本期分数<color=#ef0000>最高</color>的<color=#ef0000>%s个</color>首领的积分总和"
+  },
+  {
     "sn": 1080001,
     "textContent": "请输入激活码。"
   },
@@ -5182,6 +5438,14 @@
   {
     "sn": 1081018,
     "textContent": "请在以下宙位启示卡中自选一张"
+  },
+  {
+    "sn": 1081019,
+    "textContent": "持有数量:{0}"
+  },
+  {
+    "sn": 1081020,
+    "textContent": "请选择主属性"
   },
   {
     "sn": 1082001,
@@ -5281,7 +5545,7 @@
   },
   {
     "sn": 1083017,
-    "textContent": "购买奇物"
+    "textContent": "购买遗失物"
   },
   {
     "sn": 1083018,
@@ -5325,7 +5589,7 @@
   },
   {
     "sn": 1083028,
-    "textContent": "点击查看已收集奇物信息"
+    "textContent": "点击查看已收集遗失物信息"
   },
   {
     "sn": 1083029,
@@ -5369,7 +5633,7 @@
   },
   {
     "sn": 1083039,
-    "textContent": "获得奇物: %d"
+    "textContent": "获得遗失物: %d"
   },
   {
     "sn": 1083040,
@@ -5429,7 +5693,7 @@
   },
   {
     "sn": 1083054,
-    "textContent": "%s难度%s解锁。"
+    "textContent": "%s解锁"
   },
   {
     "sn": 1083056,
@@ -5453,11 +5717,11 @@
   },
   {
     "sn": 1083061,
-    "textContent": "激活前置技能后解锁。"
+    "textContent": "激活全部前置技能后解锁。"
   },
   {
     "sn": 1083062,
-    "textContent": "%s级可激活"
+    "textContent": "调度指标%s级后解锁。"
   },
   {
     "sn": 1083063,
@@ -5518,6 +5782,22 @@
   {
     "sn": 1083077,
     "textContent": "<color=#ccb009>选择御守时，必定包含「%s」。\n长按站台可查看御守套装效果。</color>"
+  },
+  {
+    "sn": 1083078,
+    "textContent": "请选择遗失物放弃"
+  },
+  {
+    "sn": 1083079,
+    "textContent": "没有遗失物可以失去"
+  },
+  {
+    "sn": 1083080,
+    "textContent": "挑战进度："
+  },
+  {
+    "sn": 1083081,
+    "textContent": "全部线路"
   },
   {
     "sn": 1084001,
@@ -5628,6 +5908,14 @@
     "textContent": "ms"
   },
   {
+    "sn": 1084028,
+    "textContent": "坂井绫香协同者%s级解锁。"
+  },
+  {
+    "sn": 1084029,
+    "textContent": "Miss修正为Perfect判定"
+  },
+  {
     "sn": 1084101,
     "textContent": "进球数："
   },
@@ -5692,6 +5980,10 @@
     "textContent": "下载中"
   },
   {
+    "sn": 1086015,
+    "textContent": "游玩时间已达到%d小时，过度使用游戏将干扰日常生活"
+  },
+  {
     "sn": 1086101,
     "textContent": "中文配音"
   },
@@ -5722,6 +6014,18 @@
   {
     "sn": 1086204,
     "textContent": "<color=#ff9c00>%s</color>"
+  },
+  {
+    "sn": 1086205,
+    "textContent": "请输入姓氏"
+  },
+  {
+    "sn": 1086206,
+    "textContent": "请输入名字"
+  },
+  {
+    "sn": 1086207,
+    "textContent": "请使用键盘输入"
   },
   {
     "sn": 1087001,
@@ -5772,6 +6076,10 @@
     "textContent": "似乎掌握了服务的心得"
   },
   {
+    "sn": 1087013,
+    "textContent": "似乎掌握了在书店打工的心得"
+  },
+  {
     "sn": 1087502,
     "textContent": "似乎还没有掌握便利店打工的心得"
   },
@@ -5789,7 +6097,7 @@
   },
   {
     "sn": 1087506,
-    "textContent": "似乎还没有掌握药店打工的心得"
+    "textContent": "似乎还没有掌握药妆店打工的心得"
   },
   {
     "sn": 1087507,
@@ -5806,6 +6114,34 @@
   {
     "sn": 1087510,
     "textContent": "似乎还没有掌握健身房锻炼的心得"
+  },
+  {
+    "sn": 1087511,
+    "textContent": "似乎还没有掌握书店打工的心得"
+  },
+  {
+    "sn": 1088001,
+    "textContent": "保底进度：<color=#0665ca>%s/%s</color>"
+  },
+  {
+    "sn": 1088002,
+    "textContent": "保底进度：<color=#0665ca>%s/%s</color>"
+  },
+  {
+    "sn": 1088003,
+    "textContent": "领取 <color=#0665ca>%s</color> 次必得"
+  },
+  {
+    "sn": 1088004,
+    "textContent": "本次领取必得"
+  },
+  {
+    "sn": 1088005,
+    "textContent": "%s"
+  },
+  {
+    "sn": 1089001,
+    "textContent": "已获得梅花绳结：%s"
   },
   {
     "sn": 2001001,
@@ -5913,7 +6249,7 @@
   },
   {
     "sn": 2001027,
-    "textContent": "请输入房间号（0-999）"
+    "textContent": "请输入频道号（0-999）"
   },
   {
     "sn": 2001028,
@@ -7593,7 +7929,7 @@
   },
   {
     "sn": 2001450,
-    "textContent": "请选择以下一个奇物"
+    "textContent": "请选择以下一个遗失物"
   },
   {
     "sn": 2001451,
@@ -7977,7 +8313,7 @@
   },
   {
     "sn": 2001550,
-    "textContent": "聊天信息缩略"
+    "textContent": "主界面聊天信息缩略"
   },
   {
     "sn": 2001551,
@@ -9221,7 +9557,7 @@
   },
   {
     "sn": 2001861,
-    "textContent": "总价"
+    "textContent": "总价："
   },
   {
     "sn": 2001862,
@@ -9733,7 +10069,7 @@
   },
   {
     "sn": 2001989,
-    "textContent": "礼包获取后，可选择物品包括"
+    "textContent": "礼包获取后，可选择奖励包括"
   },
   {
     "sn": 2001990,
@@ -9781,7 +10117,7 @@
   },
   {
     "sn": 2002001,
-    "textContent": "喜多川佑介"
+    "textContent": "喜多川祐介"
   },
   {
     "sn": 2002002,
@@ -9953,11 +10289,11 @@
   },
   {
     "sn": 2002044,
-    "textContent": "4月26日 即将上映"
+    "textContent": "爱与被爱的交锋"
   },
   {
     "sn": 2002045,
-    "textContent": "味道·对决"
+    "textContent": "规则·破坏者"
   },
   {
     "sn": 2002046,
@@ -9969,7 +10305,7 @@
   },
   {
     "sn": 2002048,
-    "textContent": "最终章"
+    "textContent": "激战篇"
   },
   {
     "sn": 2002049,
@@ -9988,16 +10324,48 @@
     "textContent": "本期剩余时间："
   },
   {
+    "sn": 2002053,
+    "textContent": "使用效果：%s"
+  },
+  {
+    "sn": 2002054,
+    "textContent": "使用效果：%s"
+  },
+  {
+    "sn": 2002055,
+    "textContent": "在自宅通过烹饪制作；\n街边的小吃店、餐馆、药妆店也可以快速获取。"
+  },
+  {
+    "sn": 2002056,
+    "textContent": "探索"
+  },
+  {
+    "sn": 2002057,
+    "textContent": "餐饮"
+  },
+  {
+    "sn": 2002058,
+    "textContent": "使用"
+  },
+  {
+    "sn": 2002059,
+    "textContent": "获取"
+  },
+  {
+    "sn": 2002060,
+    "textContent": "暂无可使用的道具"
+  },
+  {
     "sn": 2002061,
     "textContent": "剩余："
   },
   {
     "sn": 2002062,
-    "textContent": "限时委托每日05:00刷新。"
+    "textContent": "领取进度："
   },
   {
     "sn": 2002063,
-    "textContent": "新玩法开放"
+    "textContent": "新线路开放"
   },
   {
     "sn": 2002064,
@@ -10020,6 +10388,10 @@
     "textContent": "购买立即获得<size=44><sprite=27 tint=1></size>*%s"
   },
   {
+    "sn": 2002069,
+    "textContent": "开启此活动建议完成主线「加纳骏觉醒」，否则会影响游玩体验。"
+  },
+  {
     "sn": 2002070,
     "textContent": "每日5:00重置任务"
   },
@@ -10029,11 +10401,43 @@
   },
   {
     "sn": 2002072,
-    "textContent": "在「天鹅绒试炼」、「心之海试炼」、「阏凶梦之扉」中无法生效"
+    "textContent": "宫殿、异世界探索及「厄抑之境」挑战可生效"
   },
   {
     "sn": 2002073,
     "textContent": "排行信息"
+  },
+  {
+    "sn": 2002074,
+    "textContent": "最高通关等级："
+  },
+  {
+    "sn": 2002075,
+    "textContent": "总积分："
+  },
+  {
+    "sn": 2002076,
+    "textContent": "通关积分："
+  },
+  {
+    "sn": 2002077,
+    "textContent": "每次通关可获得挑战积分："
+  },
+  {
+    "sn": 2002078,
+    "textContent": "敌方阵容："
+  },
+  {
+    "sn": 2002079,
+    "textContent": "首领词缀："
+  },
+  {
+    "sn": 2002080,
+    "textContent": "扭曲等级"
+  },
+  {
+    "sn": 2002081,
+    "textContent": "新解锁等级："
   },
   {
     "sn": 2002082,
@@ -10092,6 +10496,22 @@
     "textContent": "特殊作业"
   },
   {
+    "sn": 2002096,
+    "textContent": "拼图进度"
+  },
+  {
+    "sn": 2002097,
+    "textContent": "拖动右侧碎片，完成拼图"
+  },
+  {
+    "sn": 2002098,
+    "textContent": "每日任务于每天5:00重置"
+  },
+  {
+    "sn": 2002099,
+    "textContent": "动态难度已开启\n敌人等级会随着主角等级的提升而改变"
+  },
+  {
     "sn": 2002100,
     "textContent": "等 级"
   },
@@ -10114,6 +10534,934 @@
   {
     "sn": 2002105,
     "textContent": "<keySn>1004</keySn>"
+  },
+  {
+    "sn": 2002106,
+    "textContent": "通关当前选择难度，即自动通关该难度以下的挑战"
+  },
+  {
+    "sn": 2002107,
+    "textContent": "每次寻找宝藏，必定获得以下奖励中的4个"
+  },
+  {
+    "sn": 2002108,
+    "textContent": "完成任务，获得更多猫罐头"
+  },
+  {
+    "sn": 2002109,
+    "textContent": "每日5:00刷新任务"
+  },
+  {
+    "sn": 2002111,
+    "textContent": "折"
+  },
+  {
+    "sn": 2002112,
+    "textContent": "烹饪"
+  },
+  {
+    "sn": 2002113,
+    "textContent": "咖啡硬糖"
+  },
+  {
+    "sn": 2002114,
+    "textContent": "挑战目标"
+  },
+  {
+    "sn": 2002115,
+    "textContent": "总积分："
+  },
+  {
+    "sn": 2002116,
+    "textContent": "{0}生效中"
+  },
+  {
+    "sn": 2002117,
+    "textContent": "第三只眼"
+  },
+  {
+    "sn": 2002118,
+    "textContent": "切换鱼饵"
+  },
+  {
+    "sn": 2002119,
+    "textContent": "选择方向"
+  },
+  {
+    "sn": 2002120,
+    "textContent": "控制方向"
+  },
+  {
+    "sn": 2002121,
+    "textContent": "已获得所有拼图碎片，请前往启动游戏界面，进行拼图游戏"
+  },
+  {
+    "sn": 2002122,
+    "textContent": "积分统计进度"
+  },
+  {
+    "sn": 2002123,
+    "textContent": "通关画境迷廊所有关卡后可领奖"
+  },
+  {
+    "sn": 2002124,
+    "textContent": "专属时装&头像框&名片"
+  },
+  {
+    "sn": 2002125,
+    "textContent": "幸运之硬币"
+  },
+  {
+    "sn": 2002126,
+    "textContent": "西森阳菜"
+  },
+  {
+    "sn": 2002127,
+    "textContent": "收集所有心愿玻璃珠，即可开启任务「猫的报恩」。"
+  },
+  {
+    "sn": 2002128,
+    "textContent": "当前已获得心愿玻璃珠："
+  },
+  {
+    "sn": 2002129,
+    "textContent": "每次完成今日计划可领奖，剩余   次"
+  },
+  {
+    "sn": 2002130,
+    "textContent": "<link=\"s|1001\"><u>S等级追赶</u></link>"
+  },
+  {
+    "sn": 2002131,
+    "textContent": "生效中"
+  },
+  {
+    "sn": 2002132,
+    "textContent": "打工现金双份次数："
+  },
+  {
+    "sn": 2002133,
+    "textContent": "追赶"
+  },
+  {
+    "sn": 2002134,
+    "textContent": "+%s%%"
+  },
+  {
+    "sn": 2002135,
+    "textContent": "<link=\"s|1001\"><u>第一档追赶</u></link>"
+  },
+  {
+    "sn": 2002136,
+    "textContent": "<link=\"s|1003\"><u>第二档追赶</u></link>"
+  },
+  {
+    "sn": 2002137,
+    "textContent": "<link=\"s|1004\"><u>第三档追赶</u></link>"
+  },
+  {
+    "sn": 2002138,
+    "textContent": "<link=\"s|1005\"><u>第四档追赶</u></link>"
+  },
+  {
+    "sn": 2002139,
+    "textContent": "<link=\"s|1006\"><u>第五档追赶</u></link>"
+  },
+  {
+    "sn": 2002140,
+    "textContent": "本周累计「今日计划」领奖次数\n「%s」领取对应「补给礼包」"
+  },
+  {
+    "sn": 2002141,
+    "textContent": "以上"
+  },
+  {
+    "sn": 2002142,
+    "textContent": "<link=\"s|1007\"><u>第六档追赶</u></link>"
+  },
+  {
+    "sn": 2002143,
+    "textContent": "追赶Ⅰ"
+  },
+  {
+    "sn": 2002144,
+    "textContent": "追赶Ⅱ"
+  },
+  {
+    "sn": 2002145,
+    "textContent": "追赶Ⅲ"
+  },
+  {
+    "sn": 2002146,
+    "textContent": "追赶Ⅳ"
+  },
+  {
+    "sn": 2002147,
+    "textContent": "追赶Ⅴ"
+  },
+  {
+    "sn": 2002148,
+    "textContent": "追赶Ⅵ"
+  },
+  {
+    "sn": 2002149,
+    "textContent": "改位置的启示主属性固定，无法定制"
+  },
+  {
+    "sn": 2002150,
+    "textContent": "主属性定制："
+  },
+  {
+    "sn": 2002151,
+    "textContent": "位置定制："
+  },
+  {
+    "sn": 2002152,
+    "textContent": "持有数量：￥%s"
+  },
+  {
+    "sn": 2002153,
+    "textContent": "版本快讯正在投递，请稍候……"
+  },
+  {
+    "sn": 2002154,
+    "textContent": "己方行动次数："
+  },
+  {
+    "sn": 2002155,
+    "textContent": "挑战难度："
+  },
+  {
+    "sn": 2002156,
+    "textContent": "武器分解"
+  },
+  {
+    "sn": 2002157,
+    "textContent": "分解信息"
+  },
+  {
+    "sn": 2002158,
+    "textContent": "获得道具"
+  },
+  {
+    "sn": 2002159,
+    "textContent": "角色养成评级："
+  },
+  {
+    "sn": 2002160,
+    "textContent": "请选择一个需要丢弃的遗失物"
+  },
+  {
+    "sn": 2002161,
+    "textContent": "体力模式："
+  },
+  {
+    "sn": 2002162,
+    "textContent": "通关奖励："
+  },
+  {
+    "sn": 2002163,
+    "textContent": "当前未携带武器"
+  },
+  {
+    "sn": 2002164,
+    "textContent": "暂未激活套装效果"
+  },
+  {
+    "sn": 2002165,
+    "textContent": "【{0}】"
+  },
+  {
+    "sn": 2002166,
+    "textContent": "【{0}】&【{1}】"
+  },
+  {
+    "sn": 2002167,
+    "textContent": "快来看看我的{0}评级{1}！点击查看"
+  },
+  {
+    "sn": 2002168,
+    "textContent": "暂未加入乐园"
+  },
+  {
+    "sn": 2002169,
+    "textContent": "分享失败"
+  },
+  {
+    "sn": 2002170,
+    "textContent": "快来看看我的{0}评级{1}！点击查看"
+  },
+  {
+    "sn": 2002171,
+    "textContent": "距离下次领取剩余："
+  },
+  {
+    "sn": 2002172,
+    "textContent": "椎名悠美"
+  },
+  {
+    "sn": 2002173,
+    "textContent": "未解锁"
+  },
+  {
+    "sn": 2002174,
+    "textContent": "战斗聊天信息缩略"
+  },
+  {
+    "sn": 2002175,
+    "textContent": "消耗："
+  },
+  {
+    "sn": 2002176,
+    "textContent": "挑战模式"
+  },
+  {
+    "sn": 2002177,
+    "textContent": "首次通关后解锁当前难度<color=#173CCAff>体力模式</color>"
+  },
+  {
+    "sn": 2002178,
+    "textContent": "未解锁新的扭曲等级"
+  },
+  {
+    "sn": 2002179,
+    "textContent": "通关奖励"
+  },
+  {
+    "sn": 2002180,
+    "textContent": "长尾千津子"
+  },
+  {
+    "sn": 2002181,
+    "textContent": "反抗"
+  },
+  {
+    "sn": 2002182,
+    "textContent": "屈从"
+  },
+  {
+    "sn": 2002183,
+    "textContent": "[评级分享]"
+  },
+  {
+    "sn": 2002184,
+    "textContent": "我的怪盗评级\n（点击查看）"
+  },
+  {
+    "sn": 2002185,
+    "textContent": "切换当前奖池"
+  },
+  {
+    "sn": 2002186,
+    "textContent": "请输入名字"
+  },
+  {
+    "sn": 2002187,
+    "textContent": "请签下6个字符以内的名字"
+  },
+  {
+    "sn": 2002188,
+    "textContent": "没有遗失物可以丢弃"
+  },
+  {
+    "sn": 2002189,
+    "textContent": "该位置的启示主属性固定，无法定制"
+  },
+  {
+    "sn": 2002190,
+    "textContent": "无法瞬杀"
+  },
+  {
+    "sn": 2002191,
+    "textContent": "部分瞬杀"
+  },
+  {
+    "sn": 2002192,
+    "textContent": "一路瞬杀"
+  },
+  {
+    "sn": 2002193,
+    "textContent": "属性选择"
+  },
+  {
+    "sn": 2002194,
+    "textContent": "定制"
+  },
+  {
+    "sn": 2002195,
+    "textContent": "可接委托数："
+  },
+  {
+    "sn": 2002196,
+    "textContent": "可领奖"
+  },
+  {
+    "sn": 2002197,
+    "textContent": "已领取"
+  },
+  {
+    "sn": 2002198,
+    "textContent": "当前委派"
+  },
+  {
+    "sn": 2002199,
+    "textContent": "选择委派"
+  },
+  {
+    "sn": 2002200,
+    "textContent": "领取奖励"
+  },
+  {
+    "sn": 2002201,
+    "textContent": "派遣"
+  },
+  {
+    "sn": 2002202,
+    "textContent": "派遣条件"
+  },
+  {
+    "sn": 2002203,
+    "textContent": "委托奖励"
+  },
+  {
+    "sn": 2002204,
+    "textContent": "一键委派"
+  },
+  {
+    "sn": 2002205,
+    "textContent": "已派遣"
+  },
+  {
+    "sn": 2002206,
+    "textContent": "已设置"
+  },
+  {
+    "sn": 2002207,
+    "textContent": "不符合"
+  },
+  {
+    "sn": 2002208,
+    "textContent": "委托等级"
+  },
+  {
+    "sn": 2002209,
+    "textContent": "同时可接委托数量："
+  },
+  {
+    "sn": 2002210,
+    "textContent": "刷出常规委托数量："
+  },
+  {
+    "sn": 2002211,
+    "textContent": "升级获得奖励："
+  },
+  {
+    "sn": 2002212,
+    "textContent": "Rank{0}获得能力：\n{1}"
+  },
+  {
+    "sn": 2002213,
+    "textContent": "{0}协同能力"
+  },
+  {
+    "sn": 2002214,
+    "textContent": "结识奖励："
+  },
+  {
+    "sn": 2002215,
+    "textContent": "获得{0}"
+  },
+  {
+    "sn": 2002216,
+    "textContent": "S-Lv.{0}"
+  },
+  {
+    "sn": 2002217,
+    "textContent": "接取"
+  },
+  {
+    "sn": 2002218,
+    "textContent": "加分"
+  },
+  {
+    "sn": 2002219,
+    "textContent": "最小行动次数：本难度尚未挑战"
+  },
+  {
+    "sn": 2002220,
+    "textContent": "最小行动次数：   %s"
+  },
+  {
+    "sn": 2002221,
+    "textContent": "挑战倒计时："
+  },
+  {
+    "sn": 2002222,
+    "textContent": "最高通关难度："
+  },
+  {
+    "sn": 2002223,
+    "textContent": "最小行动次数："
+  },
+  {
+    "sn": 2002224,
+    "textContent": "展示前1000名怪盗团信息"
+  },
+  {
+    "sn": 2002225,
+    "textContent": "挑战结束后通过邮件发放排名奖励"
+  },
+  {
+    "sn": 2002226,
+    "textContent": "希冀之轨"
+  },
+  {
+    "sn": 2002227,
+    "textContent": "解明"
+  },
+  {
+    "sn": 2002228,
+    "textContent": "椎名悠美"
+  },
+  {
+    "sn": 2002233,
+    "textContent": "通关{0}{1}后解锁"
+  },
+  {
+    "sn": 2002234,
+    "textContent": "消耗"
+  },
+  {
+    "sn": 2002235,
+    "textContent": "x{0}解锁"
+  },
+  {
+    "sn": 2002236,
+    "textContent": "是否消耗{0}x{1}，解锁{2}章节?"
+  },
+  {
+    "sn": 2002237,
+    "textContent": "{0}数量不足"
+  },
+  {
+    "sn": 2002238,
+    "textContent": "限时关卡中，携带指定怪盗可额外获得一定比例的通关奖励，同时携带多名指定怪盗时，额外比例相加。"
+  },
+  {
+    "sn": 2002239,
+    "textContent": "通关{0}-{1}后解锁"
+  },
+  {
+    "sn": 2002240,
+    "textContent": "关卡已关闭。"
+  },
+  {
+    "sn": 2002241,
+    "textContent": "专属客服"
+  },
+  {
+    "sn": 2002242,
+    "textContent": "超我等级"
+  },
+  {
+    "sn": 2002246,
+    "textContent": "主角%s级开放"
+  },
+  {
+    "sn": 2002247,
+    "textContent": "尚未有受邀玩家绑定邀请码，可前往邀请玩家绑定！"
+  },
+  {
+    "sn": 2002248,
+    "textContent": "召集好友"
+  },
+  {
+    "sn": 2002249,
+    "textContent": "前往召集"
+  },
+  {
+    "sn": 2002250,
+    "textContent": "绑定邀请码"
+  },
+  {
+    "sn": 2002251,
+    "textContent": "需要主角超我等级达到{0}级。"
+  },
+  {
+    "sn": 2002252,
+    "textContent": "上传日志"
+  },
+  {
+    "sn": 2002253,
+    "textContent": "希冀之轨"
+  },
+  {
+    "sn": 2002254,
+    "textContent": "已绑定"
+  },
+  {
+    "sn": 2002257,
+    "textContent": "等级已达上限，请待后续版本更新"
+  },
+  {
+    "sn": 2002258,
+    "textContent": "每日首次免费"
+  },
+  {
+    "sn": 2002260,
+    "textContent": "优越"
+  },
+  {
+    "sn": 2002261,
+    "textContent": "坂井绫香"
+  },
+  {
+    "sn": 2002262,
+    "textContent": "多祢村理子"
+  },
+  {
+    "sn": 2002263,
+    "textContent": "寿司卷卷的冰原生活"
+  },
+  {
+    "sn": 2002264,
+    "textContent": "打工人战队"
+  },
+  {
+    "sn": 2002266,
+    "textContent": "尊敬的队长，喜欢P5X请点击前往留下好评吧，非常期待您的建议和肯定！"
+  },
+  {
+    "sn": 2002267,
+    "textContent": "目标"
+  },
+  {
+    "sn": 2002268,
+    "textContent": "截图保存并微信扫一扫，添加您的专属客服！"
+  },
+  {
+    "sn": 2002269,
+    "textContent": "相约\n%s/%s"
+  },
+  {
+    "sn": 2002270,
+    "textContent": "%s后解锁"
+  },
+  {
+    "sn": 2002271,
+    "textContent": "需先完成任务「结局前置任务」"
+  },
+  {
+    "sn": 2002272,
+    "textContent": "完成上一段落解锁剧情"
+  },
+  {
+    "sn": 2002273,
+    "textContent": "活动结束后未领取奖励将会通过邮件发放。"
+  },
+  {
+    "sn": 2002274,
+    "textContent": "玛奇姆大酬宾"
+  },
+  {
+    "sn": 2002275,
+    "textContent": "经验：%s"
+  },
+  {
+    "sn": 2002276,
+    "textContent": "%s评价达到%s"
+  },
+  {
+    "sn": 2002277,
+    "textContent": "总积分"
+  },
+  {
+    "sn": 2002278,
+    "textContent": "连击加成"
+  },
+  {
+    "sn": 2002279,
+    "textContent": "历史最高"
+  },
+  {
+    "sn": 2002280,
+    "textContent": "当前波次"
+  },
+  {
+    "sn": 2002281,
+    "textContent": "击倒个数：%s"
+  },
+  {
+    "sn": 2002282,
+    "textContent": "最高连击：%s"
+  },
+  {
+    "sn": 2002283,
+    "textContent": "今日已达上限"
+  },
+  {
+    "sn": 2002284,
+    "textContent": "完成前置剧情"
+  },
+  {
+    "sn": 2002285,
+    "textContent": "我的邀请码："
+  },
+  {
+    "sn": 2002286,
+    "textContent": "未来之命运"
+  },
+  {
+    "sn": 2002287,
+    "textContent": "异界晶珀"
+  },
+  {
+    "sn": 2002288,
+    "textContent": "邀请好友参与活动，领取<color=#FAFD68>丰厚奖励</color>！"
+  },
+  {
+    "sn": 2002289,
+    "textContent": "怪盗邀请函"
+  },
+  {
+    "sn": 2002290,
+    "textContent": "受邀的怪盗请在下方填写有效邀请码，即可获得奖励！"
+  },
+  {
+    "sn": 2002291,
+    "textContent": "邀请好友绑定邀请码并完成活跃任务，获得未来之命运、异界晶珀等丰厚奖励！"
+  },
+  {
+    "sn": 2002292,
+    "textContent": "未来之命运"
+  },
+  {
+    "sn": 2002293,
+    "textContent": "4星怪盗自选"
+  },
+  {
+    "sn": 2002294,
+    "textContent": "4星武器自选"
+  },
+  {
+    "sn": 2002295,
+    "textContent": "橙色力量启示"
+  },
+  {
+    "sn": 2002296,
+    "textContent": "关卡暂停"
+  },
+  {
+    "sn": 2002297,
+    "textContent": "准星灵敏度"
+  },
+  {
+    "sn": 2002298,
+    "textContent": "靶子详情"
+  },
+  {
+    "sn": 2002299,
+    "textContent": "请输入邀请码"
+  },
+  {
+    "sn": 2002300,
+    "textContent": "～己刮学园临海教学 夺回海边的欲望~"
+  },
+  {
+    "sn": 2002301,
+    "textContent": "热夏狂欢"
+  },
+  {
+    "sn": 2002302,
+    "textContent": "激浪庆典"
+  },
+  {
+    "sn": 2002303,
+    "textContent": "击倒分数：%s"
+  },
+  {
+    "sn": 2002305,
+    "textContent": "挑<size=60>战"
+  },
+  {
+    "sn": 2002306,
+    "textContent": "限<size=60>时"
+  },
+  {
+    "sn": 2002307,
+    "textContent": "通关奖励"
+  },
+  {
+    "sn": 2002308,
+    "textContent": "敌方阵容"
+  },
+  {
+    "sn": 2002309,
+    "textContent": "关卡描述"
+  },
+  {
+    "sn": 2002310,
+    "textContent": "限时关每日挑战："
+  },
+  {
+    "sn": 2002311,
+    "textContent": "限时关今日剩余次数："
+  },
+  {
+    "sn": 2002312,
+    "textContent": "限时关每周挑战："
+  },
+  {
+    "sn": 2002313,
+    "textContent": "限时关本周剩余次数："
+  },
+  {
+    "sn": 2002314,
+    "textContent": "邀请码："
+  },
+  {
+    "sn": 2002315,
+    "textContent": "尚未选择声援伙伴"
+  },
+  {
+    "sn": 2002316,
+    "textContent": "请选择形状"
+  },
+  {
+    "sn": 2002317,
+    "textContent": "黄色"
+  },
+  {
+    "sn": 2002318,
+    "textContent": "绿色"
+  },
+  {
+    "sn": 2002319,
+    "textContent": "粉色"
+  },
+  {
+    "sn": 2002320,
+    "textContent": "相约"
+  },
+  {
+    "sn": 2002321,
+    "textContent": "等级已达上限，请待后续版本更新"
+  },
+  {
+    "sn": 2002322,
+    "textContent": "<size=48>领</size>奖"
+  },
+  {
+    "sn": 2002323,
+    "textContent": "完成制作"
+  },
+  {
+    "sn": 2002327,
+    "textContent": "已达最大等级"
+  },
+  {
+    "sn": 2002328,
+    "textContent": "背包内暂无烟花，前往制作烟花吧！"
+  },
+  {
+    "sn": 2002329,
+    "textContent": "领取雏鸟计划-周一赠礼可获得秘闻钥匙，解锁秘闻章节。"
+  },
+  {
+    "sn": 2002330,
+    "textContent": "挑战关通关进度："
+  },
+  {
+    "sn": 2002333,
+    "textContent": "保存"
+  },
+  {
+    "sn": 2002334,
+    "textContent": "正在使用"
+  },
+  {
+    "sn": 2002335,
+    "textContent": "获取途径"
+  },
+  {
+    "sn": 2002336,
+    "textContent": "???"
+  },
+  {
+    "sn": 2002337,
+    "textContent": "独自观看烟火"
+  },
+  {
+    "sn": 2002338,
+    "textContent": "材料不足"
+  },
+  {
+    "sn": 2002339,
+    "textContent": "为了方便您及时领取派遣奖励。建议开启游戏推送。\n推送条件：有可领取的派遣奖励\n推送时间：10:00、12:00、18:00、20:00"
+  },
+  {
+    "sn": 2002340,
+    "textContent": "开启委托奖励推送。"
+  },
+  {
+    "sn": 2002341,
+    "textContent": "消耗<size=50><sprite=32></size><color=#00BEFF>X1</color>解锁"
+  },
+  {
+    "sn": 2002342,
+    "textContent": "这是某个夏日所发生的事件……\n己刮学园举办了校外活动，带领学生们前往代里海岸参与临海教学。\n在那里，怪盗团经历了意想不到的「海滩异变」……"
+  },
+  {
+    "sn": 2002343,
+    "textContent": "您即将开启非当前主线剧情时间线内容，是否前往？"
+  },
+  {
+    "sn": 2002346,
+    "textContent": "选择背包内的烟花，即可定制专属燃放方案"
+  },
+  {
+    "sn": 2002347,
+    "textContent": "解锁回忆"
+  },
+  {
+    "sn": 2002348,
+    "textContent": "新井素羽·夏日"
+  },
+  {
+    "sn": 2002349,
+    "textContent": "支配"
+  },
+  {
+    "sn": 2002350,
+    "textContent": "当前阵容额外奖励加成："
+  },
+  {
+    "sn": 2002351,
+    "textContent": "每日挑战："
+  },
+  {
+    "sn": 2002352,
+    "textContent": "本周挑战："
+  },
+  {
+    "sn": 2002353,
+    "textContent": "开启"
+  },
+  {
+    "sn": 2002354,
+    "textContent": "限时挑战倒计时："
+  },
+  {
+    "sn": 2102142,
+    "textContent": "城堡篇"
+  },
+  {
+    "sn": 2102143,
+    "textContent": "美术馆与银行篇"
+  },
+  {
+    "sn": 2102144,
+    "textContent": "敬请期待"
   },
   {
     "sn": 3000001,

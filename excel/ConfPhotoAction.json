@@ -155,17 +155,6 @@
   },
   {
     "sn": 302,
-    "name": "抱胸站立",
-    "pic": "paizhao-dongzuo-07.png",
-    "CharacterSn": 3,
-    "action": "wind_uniform@stand_story",
-    "method": 0,
-    "param": 0,
-    "description": "",
-    "sort": 2
-  },
-  {
-    "sn": 303,
     "name": "抱胸",
     "pic": "paizhao-dongzuo-07.png",
     "CharacterSn": 3,
@@ -173,10 +162,10 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 3
+    "sort": 2
   },
   {
-    "sn": 304,
+    "sn": 303,
     "name": "思考",
     "pic": "paizhao-action22.png",
     "CharacterSn": 3,
@@ -184,10 +173,10 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 4
+    "sort": 3
   },
   {
-    "sn": 305,
+    "sn": 304,
     "name": "害羞",
     "pic": "paizhao-action7.png",
     "CharacterSn": 3,
@@ -195,7 +184,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 5
+    "sort": 4
   },
   {
     "sn": 401,
@@ -279,11 +268,55 @@
     "name": "站立",
     "pic": "paizhao-dongzuo-11.png",
     "CharacterSn": 7,
-    "action": "",
+    "action": "bui_uniform@stand_story",
     "method": 0,
     "param": 0,
     "description": "",
     "sort": 1
+  },
+  {
+    "sn": 702,
+    "name": "惊讶",
+    "pic": "paizhao-action12.png",
+    "CharacterSn": 7,
+    "action": "bui_uniform@amanzing_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 703,
+    "name": "哭",
+    "pic": "paizhao-action13.png",
+    "CharacterSn": 7,
+    "action": "bui_uniform@cry_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 704,
+    "name": "害羞",
+    "pic": "paizhao-action7.png",
+    "CharacterSn": 7,
+    "action": "bui_uniform@shy_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 705,
+    "name": "思考",
+    "pic": "paizhao-action22.png",
+    "CharacterSn": 7,
+    "action": "bui_uniform@think_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 5
   },
   {
     "sn": 801,
@@ -757,5 +790,258 @@
     "param": 0,
     "description": "",
     "sort": 2
+  },
+  {
+    "sn": 2801,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 28,
+    "action": "marian_uniform@stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 2901,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 29,
+    "action": "why_normal@stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 2902,
+    "name": "惊讶",
+    "pic": "paizhao-action12.png",
+    "CharacterSn": 29,
+    "action": "why_normal@amazing_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 2903,
+    "name": "哭",
+    "pic": "paizhao-action13.png",
+    "CharacterSn": 29,
+    "action": "why_normal@cry_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 2904,
+    "name": "叉腰",
+    "pic": "paizhao-action4.png",
+    "CharacterSn": 29,
+    "action": "why_normal@proud_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 3001,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 30,
+    "action": "phoebe_normal@stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 3002,
+    "name": "惊讶",
+    "pic": "paizhao-action12.png",
+    "CharacterSn": 30,
+    "action": "phoebe_normal@amazing_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 3003,
+    "name": "害羞",
+    "pic": "paizhao-action7.png",
+    "CharacterSn": 30,
+    "action": "phoebe_normal@shy_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 3004,
+    "name": "思考",
+    "pic": "paizhao-action22.png",
+    "CharacterSn": 30,
+    "action": "phoebe_normal@think_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 3101,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 31,
+    "action": "closer_uniform_swimsuit@stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 3102,
+    "name": "思考",
+    "pic": "paizhao-action22.png",
+    "CharacterSn": 31,
+    "action": "closer_uniform_swimsuit@stand_think_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 3103,
+    "name": "加油",
+    "pic": "paizhao-action8.png",
+    "CharacterSn": 31,
+    "action": "closer_uniform_swimsuit@jiayou_loop_story",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 3104,
+    "name": "说悄悄话",
+    "pic": "paizhao-action21.png",
+    "CharacterSn": 31,
+    "action": "closer_uniform_swimsuit@qiaoqiaohua_loop_story",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 3105,
+    "name": "惊喜",
+    "pic": "paizhao-action19.png",
+    "CharacterSn": 31,
+    "action": "closer_uniform_swimsuit@surprised_loop_story",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 5
+  },
+  {
+    "sn": 3201,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 32,
+    "action": "soy_uniform_swimsuit@swim_stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 3202,
+    "name": "抱胸站立",
+    "pic": "paizhao-dongzuo-07.png",
+    "CharacterSn": 32,
+    "action": "soy_uniform_swimsuit@swim_baoxiong_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 3203,
+    "name": "弯腰",
+    "pic": "paizhao-action27.png",
+    "CharacterSn": 32,
+    "action": "soy_uniform_swimsuit@swim_sangqi_stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 3301,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 33,
+    "action": "wind_uniform_swimsuit@stand01",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 3302,
+    "name": "生气",
+    "pic": "paizhao-action4.png",
+    "CharacterSn": 33,
+    "action": "wind_uniform_swimsuit@angry_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 3303,
+    "name": "思考",
+    "pic": "paizhao-action22.png",
+    "CharacterSn": 33,
+    "action": "wind_uniform_swimsuit@think_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 3401,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 34,
+    "action": "n_zhushou_swimsuit@stand",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 3402,
+    "name": "叉腰",
+    "pic": "paizhao-action4.png",
+    "CharacterSn": 34,
+    "action": "n_zhushou_swimsuit@chayao_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 3403,
+    "name": "思考",
+    "pic": "paizhao-action22.png",
+    "CharacterSn": 34,
+    "action": "n_zhushou_swimsuit@stand_think_loop",
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
   }
 ]

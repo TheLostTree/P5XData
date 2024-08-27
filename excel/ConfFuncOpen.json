@@ -382,6 +382,50 @@
     "closeOnIOS": 1
   },
   {
+    "sn": 35,
+    "func_Name": "wonder怪盗时装",
+    "UIs": [
+      34
+    ],
+    "level": 1,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      10260
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 0
+  },
+  {
+    "sn": 98,
+    "func_Name": "快速跳过模式",
+    "UIs": [],
+    "level": 1,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      -1
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 0
+  },
+  {
+    "sn": 99,
+    "func_Name": "冷却模式",
+    "UIs": [],
+    "level": 1,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      -1
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 0
+  },
+  {
     "sn": 200,
     "func_Name": "阵容设置",
     "UIs": [
@@ -578,6 +622,22 @@
     "closeOnIOS": 0
   },
   {
+    "sn": 216,
+    "func_Name": "精算机按钮",
+    "UIs": [
+      216
+    ],
+    "level": 1,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      11132
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 0
+  },
+  {
     "sn": 301,
     "func_Name": "天鹅绒试炼",
     "UIs": [],
@@ -727,7 +787,7 @@
     "reserveQuest": 0,
     "reserveFuncOpenShowSn": 0,
     "quest": [
-      10008
+      10269
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -756,6 +816,51 @@
     "reserveFuncOpenShowSn": 0,
     "quest": [
       -1
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 0
+  },
+  {
+    "sn": 340,
+    "func_Name": "一键派遣",
+    "UIs": [],
+    "level": 99,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      -1
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 0
+  },
+  {
+    "sn": 341,
+    "func_Name": "委托派遣",
+    "UIs": [
+      341,
+      342
+    ],
+    "level": 20,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      -1
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 0
+  },
+  {
+    "sn": 342,
+    "func_Name": "怪盗秘闻",
+    "UIs": [],
+    "level": 20,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      10442
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -853,10 +958,10 @@
       410
     ],
     "level": 1,
-    "reserveQuest": 10080,
-    "reserveFuncOpenShowSn": 401,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
     "quest": [
-      10250
+      10080
     ],
     "activityType": 0,
     "unOpenedStrSn": 0,
@@ -967,6 +1072,141 @@
     "activityType": 20,
     "unOpenedStrSn": 0,
     "closeOnIOS": 1
+  },
+  {
+    "sn": 411,
+    "func_Name": "命运交错之时·美术馆与银行篇",
+    "UIs": [],
+    "level": 16,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      10442
+    ],
+    "activityType": 20,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 1
+  },
+  {
+    "sn": 412,
+    "func_Name": "挑战",
+    "UIs": [
+      412
+    ],
+    "level": 999,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      -1
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 1
+  },
+  {
+    "sn": 413,
+    "func_Name": "命运交错之时·美术馆与银行篇",
+    "UIs": [],
+    "level": 16,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      20460
+    ],
+    "activityType": 20,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 1
+  },
+  {
+    "sn": 414,
+    "func_Name": "快讯",
+    "UIs": [
+      414
+    ],
+    "level": 1,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      10448
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 1
+  },
+  {
+    "sn": 415,
+    "func_Name": "礼包拍脸",
+    "UIs": [],
+    "level": 1,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      -1
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 1
+  },
+  {
+    "sn": 416,
+    "func_Name": "挑战",
+    "UIs": [],
+    "level": 999,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      -1
+    ],
+    "activityType": 33,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 1
+  },
+  {
+    "sn": 417,
+    "func_Name": "专属",
+    "UIs": [
+      417
+    ],
+    "level": 1,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      -1
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 1
+  },
+  {
+    "sn": 418,
+    "func_Name": "日志",
+    "UIs": [
+      416,
+      418
+    ],
+    "level": 1,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      -1
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 0,
+    "closeOnIOS": 1
+  },
+  {
+    "sn": 419,
+    "func_Name": "燃放烟花",
+    "UIs": [],
+    "level": 1,
+    "reserveQuest": 0,
+    "reserveFuncOpenShowSn": 0,
+    "quest": [
+      22001
+    ],
+    "activityType": 0,
+    "unOpenedStrSn": 1212010,
+    "closeOnIOS": 0
   },
   {
     "sn": 500,

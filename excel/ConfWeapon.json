@@ -184,7 +184,8 @@
       ]
     ],
     "skillName": "尖利",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 101
   },
   {
     "sn": 200102,
@@ -371,7 +372,8 @@
       ]
     ],
     "skillName": "解离",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 101
   },
   {
     "sn": 200103,
@@ -572,7 +574,8 @@
       ]
     ],
     "skillName": "迁移效应",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 101
   },
   {
     "sn": 200104,
@@ -795,7 +798,8 @@
       ]
     ],
     "skillName": "熔岩腐蚀",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 101
   },
   {
     "sn": 200105,
@@ -1011,14 +1015,15 @@
       ]
     ],
     "skillName": "肾上腺素",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 101
   },
   {
     "sn": 200106,
     "name": "远古力场",
     "quality": 6,
     "developPic": "wuqi-lihui-bishou-02.png",
-    "gachaPic": "wonder-5-01.png",
+    "gachaPic": "wonder-5-03.png",
     "gachaResultPicOffset": [
       0.2,
       -0.21
@@ -1060,7 +1065,7 @@
     "gachaSound": "",
     "evolveName": "wuqi-guaidaoming-wonder.png",
     "namePic": "",
-    "model": 200104,
+    "model": 200106,
     "weaponmodelUI": "cattle_weapon_03_UI.prefab",
     "weaponmodelAnim": "",
     "weaponmodelSize": [
@@ -1080,49 +1085,49 @@
       271
     ],
     "initialPropertyValue": [
-      172.8,
-      48,
+      155.52,
+      52.8,
       32
     ],
     "initialUpPropertyValue": [
-      19.44,
-      5.4,
+      17.5,
+      5.94,
       3.6
     ],
     "BreachPropertyValue": [
       [
-        61.71,
-        17.14,
+        55.54,
+        18.86,
         11.43
       ],
       [
-        61.71,
-        17.14,
+        55.54,
+        18.86,
         11.43
       ],
       [
-        61.71,
-        17.14,
+        55.54,
+        18.86,
         11.43
       ],
       [
-        61.71,
-        17.14,
+        55.54,
+        18.86,
         11.43
       ],
       [
-        61.71,
-        17.14,
+        55.54,
+        18.86,
         11.43
       ],
       [
-        61.71,
-        17.14,
+        55.54,
+        18.86,
         11.43
       ],
       [
-        61.71,
-        17.14,
+        55.54,
+        18.86,
         11.43
       ]
     ],
@@ -1173,12 +1178,12 @@
       ]
     ],
     "reformMaterial": [
-      200106,
-      0,
-      200106,
-      0,
-      200106,
-      0
+      302913,
+      302913,
+      302913,
+      302913,
+      302913,
+      302913
     ],
     "reformCount": [
       1,
@@ -1188,39 +1193,597 @@
       1,
       1
     ],
-    "wonderReform": 0,
+    "wonderReform": 302913,
     "skill": [
       [
-        50071,
-        50072
+        50071
       ],
       [
-        50071,
-        50072
+        50071
       ],
       [
-        50071,
-        50072
+        50071
       ],
       [
-        50071,
-        50072
+        50071
       ],
       [
-        50071,
-        50072
+        50071
       ],
       [
-        50071,
-        50072
+        50071
       ],
       [
-        50071,
-        50072
+        50071
       ]
     ],
-    "skillName": "地脉震荡",
-    "collectionExp": 0
+    "skillName": "自然之力",
+    "collectionExp": 80,
+    "belongingThief": 101
+  },
+  {
+    "sn": 200107,
+    "name": "机械处刑者",
+    "quality": 6,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "wonder-5-04.png",
+    "gachaResultPicOffset": [
+      0.2,
+      -0.21
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_wonder.prefab",
+    "gachaPicOffset": [
+      -20,
+      0
+    ],
+    "gachaPicTiling": 0.71,
+    "collectionPicOffset": [
+      -20,
+      0
+    ],
+    "collectionPicTiling": 0.71,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-wonder.png",
+    "namePic": "",
+    "model": 200108,
+    "weaponmodelUI": "cattle_weapon_03_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 999,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      165.6,
+      52.8,
+      28.8
+    ],
+    "initialUpPropertyValue": [
+      18.63,
+      5.94,
+      3.24
+    ],
+    "BreachPropertyValue": [
+      [
+        59.14,
+        18.86,
+        10.29
+      ],
+      [
+        59.14,
+        18.86,
+        10.29
+      ],
+      [
+        59.14,
+        18.86,
+        10.29
+      ],
+      [
+        59.14,
+        18.86,
+        10.29
+      ],
+      [
+        59.14,
+        18.86,
+        10.29
+      ],
+      [
+        59.14,
+        18.86,
+        10.29
+      ],
+      [
+        59.14,
+        18.86,
+        10.29
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      302916,
+      302916,
+      302916,
+      302916,
+      302916,
+      302916
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 302916,
+    "skill": [
+      [
+        50081
+      ],
+      [
+        50081
+      ],
+      [
+        50081
+      ],
+      [
+        50081
+      ],
+      [
+        50081
+      ],
+      [
+        50081
+      ],
+      [
+        50081
+      ]
+    ],
+    "skillName": "超频爆发",
+    "collectionExp": 80,
+    "belongingThief": 101
+  },
+  {
+    "sn": 200108,
+    "name": "结晶遗藏",
+    "quality": 6,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "wonder-5-05.png",
+    "gachaResultPicOffset": [
+      0.2,
+      -0.21
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_wonder.prefab",
+    "gachaPicOffset": [
+      -20,
+      0
+    ],
+    "gachaPicTiling": 0.71,
+    "collectionPicOffset": [
+      -20,
+      0
+    ],
+    "collectionPicTiling": 0.71,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-wonder.png",
+    "namePic": "",
+    "model": 200107,
+    "weaponmodelUI": "cattle_weapon_03_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 999,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      155.52,
+      52.8,
+      32
+    ],
+    "initialUpPropertyValue": [
+      17.5,
+      5.94,
+      3.6
+    ],
+    "BreachPropertyValue": [
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      302917,
+      302917,
+      302917,
+      302917,
+      302917,
+      302917
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 302917,
+    "skill": [
+      [
+        50091
+      ],
+      [
+        50091
+      ],
+      [
+        50091
+      ],
+      [
+        50091
+      ],
+      [
+        50091
+      ],
+      [
+        50091
+      ],
+      [
+        50091
+      ]
+    ],
+    "skillName": "圣眷余音",
+    "collectionExp": 80,
+    "belongingThief": 101
+  },
+  {
+    "sn": 200109,
+    "name": "葬送之眼",
+    "quality": 6,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "wonder-5-06.png",
+    "gachaResultPicOffset": [
+      0.2,
+      -0.21
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_wonder.prefab",
+    "gachaPicOffset": [
+      -20,
+      0
+    ],
+    "gachaPicTiling": 0.71,
+    "collectionPicOffset": [
+      -20,
+      0
+    ],
+    "collectionPicTiling": 0.71,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-wonder.png",
+    "namePic": "",
+    "model": 200106,
+    "weaponmodelUI": "cattle_weapon_03_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 999,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      155.52,
+      52.8,
+      32
+    ],
+    "initialUpPropertyValue": [
+      17.5,
+      5.94,
+      3.6
+    ],
+    "BreachPropertyValue": [
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ],
+      [
+        55.54,
+        18.86,
+        11.43
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      302918,
+      302918,
+      302918,
+      302918,
+      302918,
+      302918
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 302918,
+    "skill": [
+      [
+        50071
+      ],
+      [
+        50071
+      ],
+      [
+        50071
+      ],
+      [
+        50071
+      ],
+      [
+        50071
+      ],
+      [
+        50071
+      ],
+      [
+        50071
+      ]
+    ],
+    "skillName": "自然之力",
+    "collectionExp": 0,
+    "belongingThief": 101
   },
   {
     "sn": 210101,
@@ -1407,7 +1970,8 @@
       ]
     ],
     "skillName": "强力",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1011
   },
   {
     "sn": 210102,
@@ -1594,7 +2158,8 @@
       ]
     ],
     "skillName": "尖刺",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1011
   },
   {
     "sn": 210103,
@@ -1788,7 +2353,8 @@
       ]
     ],
     "skillName": "爆裂先锋",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1011
   },
   {
     "sn": 210104,
@@ -2004,7 +2570,8 @@
       ]
     ],
     "skillName": "叛逆之子",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1011
   },
   {
     "sn": 210201,
@@ -2191,7 +2758,8 @@
       ]
     ],
     "skillName": "护命",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1021
   },
   {
     "sn": 210202,
@@ -2378,7 +2946,8 @@
       ]
     ],
     "skillName": "修身",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1021
   },
   {
     "sn": 210203,
@@ -2572,7 +3141,8 @@
       ]
     ],
     "skillName": "月夜医者",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1021
   },
   {
     "sn": 210204,
@@ -2788,7 +3358,8 @@
       ]
     ],
     "skillName": "狂暴医者",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1021
   },
   {
     "sn": 210205,
@@ -2975,7 +3546,8 @@
       ]
     ],
     "skillName": "咚！",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1021
   },
   {
     "sn": 210301,
@@ -3162,7 +3734,8 @@
       ]
     ],
     "skillName": "钝重",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1031
   },
   {
     "sn": 210302,
@@ -3349,7 +3922,8 @@
       ]
     ],
     "skillName": "过载",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1031
   },
   {
     "sn": 210303,
@@ -3543,7 +4117,8 @@
       ]
     ],
     "skillName": "电磁爆发",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1031
   },
   {
     "sn": 210304,
@@ -3759,7 +4334,797 @@
       ]
     ],
     "skillName": "雷暴天象",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1031
+  },
+  {
+    "sn": 210311,
+    "name": "水球",
+    "quality": 3,
+    "developPic": "wuqi-lihui-liuxingchui-02.png",
+    "gachaPic": "closerS-2-01.png",
+    "gachaResultPicOffset": [
+      0.08,
+      -0.31
+    ],
+    "gachaResultPicTiling": [
+      0.745,
+      1.5
+    ],
+    "gachaEffect": "P5_UI_wuqi_closerS.prefab",
+    "gachaPicOffset": [
+      -5,
+      0
+    ],
+    "gachaPicTiling": 0.56,
+    "collectionPicOffset": [
+      -5,
+      0
+    ],
+    "collectionPicTiling": 0.56,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-closer.png",
+    "namePic": "",
+    "model": 210311,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 3,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      105.6,
+      28.53,
+      14.58
+    ],
+    "initialUpPropertyValue": [
+      11.88,
+      3.21,
+      1.64
+    ],
+    "BreachPropertyValue": [
+      [
+        37.71,
+        10.19,
+        5.21
+      ],
+      [
+        37.71,
+        10.19,
+        5.21
+      ],
+      [
+        37.71,
+        10.19,
+        5.21
+      ],
+      [
+        37.71,
+        10.19,
+        5.21
+      ],
+      [
+        37.71,
+        10.19,
+        5.21
+      ],
+      [
+        37.71,
+        10.19,
+        5.21
+      ],
+      [
+        37.71,
+        10.19,
+        5.21
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      210311,
+      0,
+      210311,
+      0,
+      210311,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        50325
+      ],
+      [
+        50325
+      ],
+      [
+        50325
+      ],
+      [
+        50325
+      ],
+      [
+        50325
+      ],
+      [
+        50325
+      ],
+      [
+        50325
+      ]
+    ],
+    "skillName": "纯水",
+    "collectionExp": 5,
+    "belongingThief": 1032
+  },
+  {
+    "sn": 210312,
+    "name": "花漾水球",
+    "quality": 4,
+    "developPic": "wuqi-lihui-liuxingchui-03.png",
+    "gachaPic": "closerS-3-01.png",
+    "gachaResultPicOffset": [
+      0.08,
+      -0.31
+    ],
+    "gachaResultPicTiling": [
+      0.745,
+      1.5
+    ],
+    "gachaEffect": "P5_UI_wuqi_closerS.prefab",
+    "gachaPicOffset": [
+      -5,
+      0
+    ],
+    "gachaPicTiling": 0.56,
+    "collectionPicOffset": [
+      -5,
+      0
+    ],
+    "collectionPicTiling": 0.56,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-closer.png",
+    "namePic": "",
+    "model": 210312,
+    "weaponmodelUI": "cattle_weapon_05_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 3,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      126.72,
+      34.24,
+      17.49
+    ],
+    "initialUpPropertyValue": [
+      14.26,
+      3.85,
+      1.97
+    ],
+    "BreachPropertyValue": [
+      [
+        45.26,
+        12.23,
+        6.25
+      ],
+      [
+        45.26,
+        12.23,
+        6.25
+      ],
+      [
+        45.26,
+        12.23,
+        6.25
+      ],
+      [
+        45.26,
+        12.23,
+        6.25
+      ],
+      [
+        45.26,
+        12.23,
+        6.25
+      ],
+      [
+        45.26,
+        12.23,
+        6.25
+      ],
+      [
+        45.26,
+        12.23,
+        6.25
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      210312,
+      0,
+      210312,
+      0,
+      210312,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        50335
+      ],
+      [
+        50335
+      ],
+      [
+        50335
+      ],
+      [
+        50335
+      ],
+      [
+        50335
+      ],
+      [
+        50335
+      ],
+      [
+        50335,
+        0
+      ]
+    ],
+    "skillName": "涤荡",
+    "collectionExp": 10,
+    "belongingThief": 1032
+  },
+  {
+    "sn": 210313,
+    "name": "嘟嘟星",
+    "quality": 5,
+    "developPic": "wuqi-lihui-liuxingchui-01.png",
+    "gachaPic": "closerS-4-01.png",
+    "gachaResultPicOffset": [
+      0.08,
+      -0.31
+    ],
+    "gachaResultPicTiling": [
+      0.745,
+      1.5
+    ],
+    "gachaEffect": "P5_UI_wuqi_closerS.prefab",
+    "gachaPicOffset": [
+      -5,
+      0
+    ],
+    "gachaPicTiling": 0.56,
+    "collectionPicOffset": [
+      -5,
+      0
+    ],
+    "collectionPicTiling": 0.56,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "sys13_003_2",
+    "evolveName": "wuqi-guaidaoming-closer.png",
+    "namePic": "",
+    "model": 210313,
+    "weaponmodelUI": "cattle_weapon_02_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 3,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      168.96,
+      45.65,
+      23.32
+    ],
+    "initialUpPropertyValue": [
+      19.01,
+      5.14,
+      2.62
+    ],
+    "BreachPropertyValue": [
+      [
+        60.34,
+        16.3,
+        8.33
+      ],
+      [
+        60.34,
+        16.3,
+        8.33
+      ],
+      [
+        60.34,
+        16.3,
+        8.33
+      ],
+      [
+        60.34,
+        16.3,
+        8.33
+      ],
+      [
+        60.34,
+        16.3,
+        8.33
+      ],
+      [
+        60.34,
+        16.3,
+        8.33
+      ],
+      [
+        60.34,
+        16.3,
+        8.33
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      210313,
+      0,
+      210313,
+      0,
+      210313,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        50345,
+        50346
+      ],
+      [
+        50345,
+        50346
+      ],
+      [
+        50345,
+        50346
+      ],
+      [
+        50345,
+        50346
+      ],
+      [
+        50345,
+        50346
+      ],
+      [
+        50345,
+        50346
+      ],
+      [
+        50345,
+        50346
+      ]
+    ],
+    "skillName": "日光浴",
+    "collectionExp": 30,
+    "belongingThief": 1032
+  },
+  {
+    "sn": 210314,
+    "name": "缤纷海岸",
+    "quality": 6,
+    "developPic": "wuqi-lihui-liuxingchui-01.png",
+    "gachaPic": "closerS-5-01.png",
+    "gachaResultPicOffset": [
+      0.08,
+      -0.31
+    ],
+    "gachaResultPicTiling": [
+      0.745,
+      1.5
+    ],
+    "gachaEffect": "P5_UI_wuqi_closerS.prefab",
+    "gachaPicOffset": [
+      -5,
+      0
+    ],
+    "gachaPicTiling": 0.56,
+    "collectionPicOffset": [
+      -5,
+      0
+    ],
+    "collectionPicTiling": 0.56,
+    "gachaMainPicTilingL": [
+      65,
+      115,
+      0.45,
+      5
+    ],
+    "gachaMainPicTilingM": [
+      228,
+      46,
+      0.7,
+      0
+    ],
+    "gachaMainPicTilingR": [
+      437,
+      -91,
+      0.45,
+      0
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "sys13_003_2",
+    "evolveName": "wuqi-guaidaoming-closer.png",
+    "namePic": "",
+    "model": 210314,
+    "weaponmodelUI": "cattle_weapon_03_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 3,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      211.2,
+      57.07,
+      29.16
+    ],
+    "initialUpPropertyValue": [
+      23.76,
+      6.42,
+      3.28
+    ],
+    "BreachPropertyValue": [
+      [
+        75.43,
+        20.38,
+        10.41
+      ],
+      [
+        75.43,
+        20.38,
+        10.41
+      ],
+      [
+        75.43,
+        20.38,
+        10.41
+      ],
+      [
+        75.43,
+        20.38,
+        10.41
+      ],
+      [
+        75.43,
+        20.38,
+        10.41
+      ],
+      [
+        75.43,
+        20.38,
+        10.41
+      ],
+      [
+        75.43,
+        20.38,
+        10.41
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      210314,
+      0,
+      210314,
+      0,
+      210314,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        50355,
+        50356,
+        50357
+      ],
+      [
+        50355,
+        50356,
+        50357
+      ],
+      [
+        50355,
+        50356,
+        50357
+      ],
+      [
+        50355,
+        50356,
+        50357
+      ],
+      [
+        50355,
+        50356,
+        50357
+      ],
+      [
+        50355,
+        50356,
+        50357
+      ],
+      [
+        50355,
+        50356,
+        50357
+      ]
+    ],
+    "skillName": "灼灼炎夏",
+    "collectionExp": 80,
+    "belongingThief": 1032
   },
   {
     "sn": 210401,
@@ -3946,7 +5311,8 @@
       ]
     ],
     "skillName": "合金",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1041
   },
   {
     "sn": 210402,
@@ -4133,7 +5499,8 @@
       ]
     ],
     "skillName": "热疗",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1041
   },
   {
     "sn": 210403,
@@ -4327,7 +5694,8 @@
       ]
     ],
     "skillName": "浴火重生",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1041
   },
   {
     "sn": 210404,
@@ -4536,33 +5904,34 @@
       ]
     ],
     "skillName": "鸮之火羽",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1041
   },
   {
     "sn": 210501,
     "name": "蛇眼伞",
     "quality": 3,
     "developPic": "wuqi-lihui-bishou-01.png",
-    "gachaPic": "joker-2-01.png",
+    "gachaPic": "wind-2-01.png",
     "gachaResultPicOffset": [
-      0.205,
-      -0.195
+      0.21,
+      -0.18
     ],
     "gachaResultPicTiling": [
       0.64,
       1.27
     ],
-    "gachaEffect": "P5_UI_wuqi_joker.prefab",
+    "gachaEffect": "P5_UI_wuqi_wind.prefab",
     "gachaPicOffset": [
-      0.205,
-      -0.195
+      -20,
+      0
     ],
-    "gachaPicTiling": 0.71,
+    "gachaPicTiling": 0.6,
     "collectionPicOffset": [
-      0.205,
-      -0.195
+      -20,
+      0
     ],
-    "collectionPicTiling": 0.71,
+    "collectionPicTiling": 0.6,
     "gachaMainPicTilingL": [],
     "gachaMainPicTilingM": [],
     "gachaMainPicTilingR": [],
@@ -4590,50 +5959,50 @@
       271
     ],
     "initialPropertyValue": [
-      96,
-      26.67,
-      17.78
+      92.8,
+      27.73,
+      16.18
     ],
     "initialUpPropertyValue": [
-      10.8,
-      3,
-      2
+      10.44,
+      3.12,
+      1.82
     ],
     "BreachPropertyValue": [
       [
-        34.29,
-        9.52,
-        6.35
+        33.14,
+        9.9,
+        5.78
       ],
       [
-        34.29,
-        9.52,
-        6.35
+        33.14,
+        9.9,
+        5.78
       ],
       [
-        34.29,
-        9.52,
-        6.35
+        33.14,
+        9.9,
+        5.78
       ],
       [
-        34.29,
-        9.52,
-        6.35
+        33.14,
+        9.9,
+        5.78
       ],
       [
-        34.29,
-        9.52,
-        6.35
+        33.14,
+        9.9,
+        5.78
       ],
       [
-        34.29,
-        9.52,
-        6.35
+        33.14,
+        9.9,
+        5.78
       ],
       [
-        34.29,
-        9.52,
-        6.35
+        33.14,
+        9.9,
+        5.78
       ]
     ],
     "breachItem": [
@@ -4701,55 +6070,56 @@
     "wonderReform": 0,
     "skill": [
       [
-        52721
+        50521
       ],
       [
-        52721
+        50521
       ],
       [
-        52721
+        50521
       ],
       [
-        52721
+        50521
       ],
       [
-        52721
+        50521
       ],
       [
-        52721
+        50521
       ],
       [
-        52721
+        50521
       ]
     ],
-    "skillName": "锐利",
-    "collectionExp": 0
+    "skillName": "花与刃",
+    "collectionExp": 5,
+    "belongingThief": 1051
   },
   {
     "sn": 210502,
     "name": "刀藏伞",
     "quality": 4,
     "developPic": "wuqi-lihui-bishou-01.png",
-    "gachaPic": "joker-2-01.png",
+    "gachaPic": "wind-3-01.png",
     "gachaResultPicOffset": [
-      0.205,
-      -0.195
+      0.2,
+      -0.18
     ],
     "gachaResultPicTiling": [
       0.64,
       1.27
     ],
-    "gachaEffect": "P5_UI_wuqi_joker.prefab",
+    "gachaEffect": "P5_UI_wuqi_wind.prefab",
     "gachaPicOffset": [
-      0.205,
-      -0.195
+      -20,
+      0
     ],
-    "gachaPicTiling": 0.71,
+    "gachaPicTiling": 0.6,
     "collectionPicOffset": [
-      0.205,
-      -0.195
+      -20,
+      0
     ],
-    "collectionPicTiling": 0.71,
+    "collectionPicTiling": 0.6,
     "gachaMainPicTilingL": [],
     "gachaMainPicTilingM": [],
     "gachaMainPicTilingR": [],
@@ -4777,50 +6147,50 @@
       271
     ],
     "initialPropertyValue": [
-      115.2,
-      32,
-      21.33
+      111.36,
+      33.28,
+      19.41
     ],
     "initialUpPropertyValue": [
-      12.96,
-      3.6,
-      2.4
+      12.53,
+      3.74,
+      2.18
     ],
     "BreachPropertyValue": [
       [
-        41.14,
-        11.43,
-        7.62
+        39.77,
+        11.89,
+        6.93
       ],
       [
-        41.14,
-        11.43,
-        7.62
+        39.77,
+        11.89,
+        6.93
       ],
       [
-        41.14,
-        11.43,
-        7.62
+        39.77,
+        11.89,
+        6.93
       ],
       [
-        41.14,
-        11.43,
-        7.62
+        39.77,
+        11.89,
+        6.93
       ],
       [
-        41.14,
-        11.43,
-        7.62
+        39.77,
+        11.89,
+        6.93
       ],
       [
-        41.14,
-        11.43,
-        7.62
+        39.77,
+        11.89,
+        6.93
       ],
       [
-        41.14,
-        11.43,
-        7.62
+        39.77,
+        11.89,
+        6.93
       ]
     ],
     "breachItem": [
@@ -4888,55 +6258,56 @@
     "wonderReform": 0,
     "skill": [
       [
-        52731
+        50531
       ],
       [
-        52731
+        50531
       ],
       [
-        52731
+        50531
       ],
       [
-        52731
+        50531
       ],
       [
-        52731
+        50531
       ],
       [
-        52731
+        50531
       ],
       [
-        52731
+        50531
       ]
     ],
-    "skillName": "锐利",
-    "collectionExp": 0
+    "skillName": "散华",
+    "collectionExp": 10,
+    "belongingThief": 1051
   },
   {
     "sn": 210503,
     "name": "霁月银勾",
     "quality": 5,
     "developPic": "wuqi-lihui-bishou-01.png",
-    "gachaPic": "joker-2-01.png",
+    "gachaPic": "wind-4-01.png",
     "gachaResultPicOffset": [
-      0.205,
-      -0.195
+      0.21,
+      -0.18
     ],
     "gachaResultPicTiling": [
       0.64,
       1.27
     ],
-    "gachaEffect": "P5_UI_wuqi_joker.prefab",
+    "gachaEffect": "P5_UI_wuqi_wind.prefab",
     "gachaPicOffset": [
-      0.205,
-      -0.195
+      -20,
+      0
     ],
-    "gachaPicTiling": 0.71,
+    "gachaPicTiling": 0.6,
     "collectionPicOffset": [
-      0.205,
-      -0.195
+      -20,
+      0
     ],
-    "collectionPicTiling": 0.71,
+    "collectionPicTiling": 0.6,
     "gachaMainPicTilingL": [],
     "gachaMainPicTilingM": [],
     "gachaMainPicTilingR": [],
@@ -4964,50 +6335,50 @@
       271
     ],
     "initialPropertyValue": [
-      153.6,
-      42.67,
-      28.44
+      148.48,
+      44.37,
+      25.88
     ],
     "initialUpPropertyValue": [
-      17.28,
-      4.8,
-      3.2
+      16.7,
+      4.99,
+      2.91
     ],
     "BreachPropertyValue": [
       [
-        54.86,
-        15.24,
-        10.16
+        53.03,
+        15.85,
+        9.24
       ],
       [
-        54.86,
-        15.24,
-        10.16
+        53.03,
+        15.85,
+        9.24
       ],
       [
-        54.86,
-        15.24,
-        10.16
+        53.03,
+        15.85,
+        9.24
       ],
       [
-        54.86,
-        15.24,
-        10.16
+        53.03,
+        15.85,
+        9.24
       ],
       [
-        54.86,
-        15.24,
-        10.16
+        53.03,
+        15.85,
+        9.24
       ],
       [
-        54.86,
-        15.24,
-        10.16
+        53.03,
+        15.85,
+        9.24
       ],
       [
-        54.86,
-        15.24,
-        10.16
+        53.03,
+        15.85,
+        9.24
       ]
     ],
     "breachItem": [
@@ -5075,72 +6446,80 @@
     "wonderReform": 0,
     "skill": [
       [
-        52741
+        50541,
+        50542
       ],
       [
-        52741
+        50541,
+        50542
       ],
       [
-        52741
+        50541,
+        50542
       ],
       [
-        52741
+        50541,
+        50542
       ],
       [
-        52741
+        50541,
+        50542
       ],
       [
-        52741
+        50541,
+        50542
       ],
       [
-        52741
+        50541,
+        50542
       ]
     ],
-    "skillName": "锐利",
-    "collectionExp": 0
+    "skillName": "水中月",
+    "collectionExp": 30,
+    "belongingThief": 1051
   },
   {
     "sn": 210504,
     "name": "忍具·天与刃翼",
     "quality": 6,
     "developPic": "wuqi-lihui-bishou-01.png",
-    "gachaPic": "joker-2-01.png",
+    "gachaPic": "wind-5-01.png",
     "gachaResultPicOffset": [
-      0.205,
-      -0.195
+      0.21,
+      -0.18
     ],
     "gachaResultPicTiling": [
-      0.64,
-      1.27
+      0.58,
+      1.15
     ],
-    "gachaEffect": "P5_UI_wuqi_joker.prefab",
+    "gachaEffect": "P5_UI_wuqi_wind.prefab",
     "gachaPicOffset": [
-      0.205,
-      -0.195
+      -8,
+      -4
     ],
-    "gachaPicTiling": 0.71,
+    "gachaPicTiling": 0.6,
     "collectionPicOffset": [
-      0.205,
-      -0.195
+      -20,
+      0
     ],
-    "collectionPicTiling": 0.71,
+    "collectionPicTiling": 0.6,
     "gachaMainPicTilingL": [
-      65,
+      52,
       115,
-      0.45,
+      0.4,
       5
     ],
     "gachaMainPicTilingM": [
-      255,
+      266,
       46,
-      0.8,
-      0
+      0.7,
+      -3
     ],
     "gachaMainPicTilingR": [
-      437,
+      450,
       -91,
-      0.45,
-      -5
+      0.4,
+      0
     ],
     "gachaResultPicRotation": 0,
     "gachaSound": "",
@@ -5166,50 +6545,50 @@
       271
     ],
     "initialPropertyValue": [
-      192,
-      53.33,
-      35.56
+      185.6,
+      55.47,
+      32.36
     ],
     "initialUpPropertyValue": [
-      21.6,
-      6,
-      4
+      20.88,
+      6.24,
+      3.64
     ],
     "BreachPropertyValue": [
       [
-        68.57,
-        19.05,
-        12.7
+        66.29,
+        19.81,
+        11.56
       ],
       [
-        68.57,
-        19.05,
-        12.7
+        66.29,
+        19.81,
+        11.56
       ],
       [
-        68.57,
-        19.05,
-        12.7
+        66.29,
+        19.81,
+        11.56
       ],
       [
-        68.57,
-        19.05,
-        12.7
+        66.29,
+        19.81,
+        11.56
       ],
       [
-        68.57,
-        19.05,
-        12.7
+        66.29,
+        19.81,
+        11.56
       ],
       [
-        68.57,
-        19.05,
-        12.7
+        66.29,
+        19.81,
+        11.56
       ],
       [
-        68.57,
-        19.05,
-        12.7
+        66.29,
+        19.81,
+        11.56
       ]
     ],
     "breachItem": [
@@ -5277,29 +6656,239 @@
     "wonderReform": 0,
     "skill": [
       [
-        52751
+        50551,
+        50552,
+        50553
       ],
       [
-        52751
+        50551,
+        50552,
+        50553
       ],
       [
-        52751
+        50551,
+        50552,
+        50553
       ],
       [
-        52751
+        50551,
+        50552,
+        50553
       ],
       [
-        52751
+        50551,
+        50552,
+        50553
       ],
       [
-        52751
+        50551,
+        50552,
+        50553
       ],
       [
-        52751
+        50551,
+        50552,
+        50553
       ]
     ],
-    "skillName": "锐利",
-    "collectionExp": 0
+    "skillName": "影舞",
+    "collectionExp": 80,
+    "belongingThief": 1051
+  },
+  {
+    "sn": 210505,
+    "name": "花见绯梅",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "wind-4-02.png",
+    "gachaResultPicOffset": [
+      0.21,
+      -0.18
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_wind.prefab",
+    "gachaPicOffset": [
+      -20,
+      0
+    ],
+    "gachaPicTiling": 0.6,
+    "collectionPicOffset": [
+      -20,
+      0
+    ],
+    "collectionPicTiling": 0.6,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 210505,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 5,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      160,
+      44.37,
+      23.04
+    ],
+    "initialUpPropertyValue": [
+      18,
+      4.99,
+      2.59
+    ],
+    "BreachPropertyValue": [
+      [
+        57.14,
+        15.85,
+        8.23
+      ],
+      [
+        57.14,
+        15.85,
+        8.23
+      ],
+      [
+        57.14,
+        15.85,
+        8.23
+      ],
+      [
+        57.14,
+        15.85,
+        8.23
+      ],
+      [
+        57.14,
+        15.85,
+        8.23
+      ],
+      [
+        57.14,
+        15.85,
+        8.23
+      ],
+      [
+        57.14,
+        15.85,
+        8.23
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      302915,
+      302915,
+      302915,
+      302915,
+      302915,
+      302915
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 302915,
+    "skill": [
+      [
+        50561,
+        50562
+      ],
+      [
+        50561,
+        50562
+      ],
+      [
+        50561,
+        50562
+      ],
+      [
+        50561,
+        50562
+      ],
+      [
+        50561,
+        50562
+      ],
+      [
+        50561,
+        50562
+      ],
+      [
+        50561,
+        50562
+      ]
+    ],
+    "skillName": "含苞",
+    "collectionExp": 30,
+    "belongingThief": 1051
   },
   {
     "sn": 210601,
@@ -5486,7 +7075,8 @@
       ]
     ],
     "skillName": "陨铁",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1061
   },
   {
     "sn": 210602,
@@ -5673,7 +7263,8 @@
       ]
     ],
     "skillName": "碎冰",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1061
   },
   {
     "sn": 210603,
@@ -5860,7 +7451,8 @@
       ]
     ],
     "skillName": "坚固利刃",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1061
   },
   {
     "sn": 210604,
@@ -6062,7 +7654,8 @@
       ]
     ],
     "skillName": "冰原礼赞",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1061
   },
   {
     "sn": 210701,
@@ -6249,7 +7842,8 @@
       ]
     ],
     "skillName": "无畏",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1071
   },
   {
     "sn": 210702,
@@ -6436,7 +8030,8 @@
       ]
     ],
     "skillName": "援护",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1071
   },
   {
     "sn": 210703,
@@ -6630,7 +8225,8 @@
       ]
     ],
     "skillName": "伙伴意志",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1071
   },
   {
     "sn": 210704,
@@ -6839,7 +8435,8 @@
       ]
     ],
     "skillName": "英雄光环",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1071
   },
   {
     "sn": 210801,
@@ -7026,7 +8623,8 @@
       ]
     ],
     "skillName": "热点",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1081
   },
   {
     "sn": 210802,
@@ -7213,7 +8811,8 @@
       ]
     ],
     "skillName": "万人迷",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1081
   },
   {
     "sn": 210803,
@@ -7400,7 +8999,8 @@
       ]
     ],
     "skillName": "和弦彩铃",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1081
   },
   {
     "sn": 210804,
@@ -7602,7 +9202,8 @@
       ]
     ],
     "skillName": "潮流焦点",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1081
   },
   {
     "sn": 210901,
@@ -7789,7 +9390,8 @@
       ]
     ],
     "skillName": "坚硬",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1091
   },
   {
     "sn": 210902,
@@ -7976,7 +9578,8 @@
       ]
     ],
     "skillName": "失忆",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1091
   },
   {
     "sn": 210903,
@@ -8163,7 +9766,7 @@
       [
         50941,
         50942,
-        50973
+        50943
       ],
       [
         50941,
@@ -8177,7 +9780,8 @@
       ]
     ],
     "skillName": "临战之意",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1091
   },
   {
     "sn": 210904,
@@ -8386,7 +9990,8 @@
       ]
     ],
     "skillName": "轮回之触",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1091
   },
   {
     "sn": 211001,
@@ -8573,7 +10178,8 @@
       ]
     ],
     "skillName": "精准",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1101
   },
   {
     "sn": 211002,
@@ -8760,7 +10366,8 @@
       ]
     ],
     "skillName": "安眠",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1101
   },
   {
     "sn": 211003,
@@ -8954,7 +10561,8 @@
       ]
     ],
     "skillName": "梦魇缠绕",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1101
   },
   {
     "sn": 211004,
@@ -9170,7 +10778,796 @@
       ]
     ],
     "skillName": "幻梦交响",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1101
+  },
+  {
+    "sn": 211011,
+    "name": "双短剑",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "kotomoS-2-01.png",
+    "gachaResultPicOffset": [
+      0.21,
+      -0.18
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_kotomoS.prefab",
+    "gachaPicOffset": [
+      0,
+      0
+    ],
+    "gachaPicTiling": 0.64,
+    "collectionPicOffset": [
+      0,
+      0
+    ],
+    "collectionPicTiling": 0.64,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 211001,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 10,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      95.2,
+      26.67,
+      17.24
+    ],
+    "initialUpPropertyValue": [
+      10.71,
+      3,
+      1.94
+    ],
+    "BreachPropertyValue": [
+      [
+        34,
+        9.52,
+        6.16
+      ],
+      [
+        34,
+        9.52,
+        6.16
+      ],
+      [
+        34,
+        9.52,
+        6.16
+      ],
+      [
+        34,
+        9.52,
+        6.16
+      ],
+      [
+        34,
+        9.52,
+        6.16
+      ],
+      [
+        34,
+        9.52,
+        6.16
+      ],
+      [
+        34,
+        9.52,
+        6.16
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      211011,
+      0,
+      211011,
+      0,
+      211011,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        51021
+      ],
+      [
+        51021
+      ],
+      [
+        51021
+      ],
+      [
+        51021
+      ],
+      [
+        51021
+      ],
+      [
+        51021
+      ],
+      [
+        51021
+      ]
+    ],
+    "skillName": "精准",
+    "collectionExp": 0,
+    "belongingThief": 1102
+  },
+  {
+    "sn": 211012,
+    "name": "咏颂双刃",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "kotomoS-3-01.png",
+    "gachaResultPicOffset": [
+      0.21,
+      -0.18
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_kotomoS.prefab",
+    "gachaPicOffset": [
+      -20,
+      0
+    ],
+    "gachaPicTiling": 0.64,
+    "collectionPicOffset": [
+      -20,
+      0
+    ],
+    "collectionPicTiling": 0.64,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 211002,
+    "weaponmodelUI": "cattle_weapon_05_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 10,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      114.24,
+      32,
+      20.69
+    ],
+    "initialUpPropertyValue": [
+      12.85,
+      3.6,
+      2.33
+    ],
+    "BreachPropertyValue": [
+      [
+        40.8,
+        11.43,
+        7.39
+      ],
+      [
+        40.8,
+        11.43,
+        7.39
+      ],
+      [
+        40.8,
+        11.43,
+        7.39
+      ],
+      [
+        40.8,
+        11.43,
+        7.39
+      ],
+      [
+        40.8,
+        11.43,
+        7.39
+      ],
+      [
+        40.8,
+        11.43,
+        7.39
+      ],
+      [
+        40.8,
+        11.43,
+        7.39
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      211012,
+      0,
+      211012,
+      0,
+      211012,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        51031
+      ],
+      [
+        51031
+      ],
+      [
+        51031
+      ],
+      [
+        51031
+      ],
+      [
+        51031
+      ],
+      [
+        51031
+      ],
+      [
+        51031
+      ]
+    ],
+    "skillName": "安眠",
+    "collectionExp": 0,
+    "belongingThief": 1102
+  },
+  {
+    "sn": 211013,
+    "name": "影舞双冠",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "kotomoS-4-01.png",
+    "gachaResultPicOffset": [
+      0.21,
+      -0.18
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_kotomoS.prefab",
+    "gachaPicOffset": [
+      -22,
+      0
+    ],
+    "gachaPicTiling": 0.64,
+    "collectionPicOffset": [
+      -22,
+      0
+    ],
+    "collectionPicTiling": 0.64,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "sys33_003_3",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 211003,
+    "weaponmodelUI": "cattle_weapon_02_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 10,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      152.32,
+      42.67,
+      27.59
+    ],
+    "initialUpPropertyValue": [
+      17.14,
+      4.8,
+      3.1
+    ],
+    "BreachPropertyValue": [
+      [
+        54.4,
+        15.24,
+        9.85
+      ],
+      [
+        54.4,
+        15.24,
+        9.85
+      ],
+      [
+        54.4,
+        15.24,
+        9.85
+      ],
+      [
+        54.4,
+        15.24,
+        9.85
+      ],
+      [
+        54.4,
+        15.24,
+        9.85
+      ],
+      [
+        54.4,
+        15.24,
+        9.85
+      ],
+      [
+        54.4,
+        15.24,
+        9.85
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      211013,
+      0,
+      211013,
+      0,
+      211013,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        51041,
+        51042
+      ],
+      [
+        51041,
+        51042
+      ],
+      [
+        51041,
+        51042
+      ],
+      [
+        51041,
+        51042
+      ],
+      [
+        51041,
+        51042
+      ],
+      [
+        51041,
+        51042
+      ],
+      [
+        51041,
+        51042
+      ]
+    ],
+    "skillName": "梦魇缠绕",
+    "collectionExp": 0,
+    "belongingThief": 1102
+  },
+  {
+    "sn": 211014,
+    "name": "织梦者",
+    "quality": 6,
+    "developPic": "wuqi-lihui-bishou-02.png",
+    "gachaPic": "kotomoS-5-01.png",
+    "gachaResultPicOffset": [
+      0.19,
+      -0.18
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_kotomoS.prefab",
+    "gachaPicOffset": [
+      -22,
+      0
+    ],
+    "gachaPicTiling": 0.64,
+    "collectionPicOffset": [
+      -22,
+      0
+    ],
+    "collectionPicTiling": 0.64,
+    "gachaMainPicTilingL": [
+      50,
+      115,
+      0.45,
+      5
+    ],
+    "gachaMainPicTilingM": [
+      228,
+      46,
+      0.8,
+      0
+    ],
+    "gachaMainPicTilingR": [
+      454,
+      -91,
+      0.45,
+      0
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "sys33_003_3",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 211004,
+    "weaponmodelUI": "cattle_weapon_03_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 10,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      190.4,
+      53.33,
+      34.49
+    ],
+    "initialUpPropertyValue": [
+      21.42,
+      6,
+      3.88
+    ],
+    "BreachPropertyValue": [
+      [
+        68,
+        19.05,
+        12.32
+      ],
+      [
+        68,
+        19.05,
+        12.32
+      ],
+      [
+        68,
+        19.05,
+        12.32
+      ],
+      [
+        68,
+        19.05,
+        12.32
+      ],
+      [
+        68,
+        19.05,
+        12.32
+      ],
+      [
+        68,
+        19.05,
+        12.32
+      ],
+      [
+        68,
+        19.05,
+        12.32
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      211014,
+      0,
+      211014,
+      0,
+      211014,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        51052,
+        51051,
+        51053
+      ],
+      [
+        51052,
+        51051,
+        51053
+      ],
+      [
+        51052,
+        51051,
+        51053
+      ],
+      [
+        51052,
+        51051,
+        51053
+      ],
+      [
+        51052,
+        51051,
+        51053
+      ],
+      [
+        51052,
+        51051,
+        51053
+      ],
+      [
+        51052,
+        51051,
+        51053
+      ]
+    ],
+    "skillName": "幻梦交响",
+    "collectionExp": 0,
+    "belongingThief": 1102
   },
   {
     "sn": 211101,
@@ -9357,7 +11754,8 @@
       ]
     ],
     "skillName": "磁感",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1111
   },
   {
     "sn": 211102,
@@ -9544,7 +11942,8 @@
       ]
     ],
     "skillName": "除颤仪",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1111
   },
   {
     "sn": 211103,
@@ -9738,7 +12137,8 @@
       ]
     ],
     "skillName": "编码重构",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1111
   },
   {
     "sn": 211104,
@@ -9954,7 +12354,8 @@
       ]
     ],
     "skillName": "人工智能",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1111
   },
   {
     "sn": 211201,
@@ -10141,7 +12542,8 @@
       ]
     ],
     "skillName": "洗礼",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1121
   },
   {
     "sn": 211202,
@@ -10328,7 +12730,8 @@
       ]
     ],
     "skillName": "焚心",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1121
   },
   {
     "sn": 211203,
@@ -10515,7 +12918,8 @@
       ]
     ],
     "skillName": "涤罪业火",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1121
   },
   {
     "sn": 211204,
@@ -10717,7 +13121,8 @@
       ]
     ],
     "skillName": "圣灵碎片",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1121
   },
   {
     "sn": 211301,
@@ -10904,7 +13309,8 @@
       ]
     ],
     "skillName": "专注",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1131
   },
   {
     "sn": 211302,
@@ -11091,7 +13497,8 @@
       ]
     ],
     "skillName": "祈祷",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1131
   },
   {
     "sn": 211303,
@@ -11285,7 +13692,8 @@
       ]
     ],
     "skillName": "罪业克星",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1131
   },
   {
     "sn": 211304,
@@ -11494,7 +13902,8 @@
       ]
     ],
     "skillName": "救赎锁链",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1131
   },
   {
     "sn": 211401,
@@ -11681,7 +14090,8 @@
       ]
     ],
     "skillName": "誓言",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1141
   },
   {
     "sn": 211402,
@@ -11868,7 +14278,8 @@
       ]
     ],
     "skillName": "轻灵",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1141
   },
   {
     "sn": 211403,
@@ -12069,7 +14480,8 @@
       ]
     ],
     "skillName": "骑士精神",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1141
   },
   {
     "sn": 211404,
@@ -12285,7 +14697,8 @@
       ]
     ],
     "skillName": "风暴来临",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1141
   },
   {
     "sn": 211501,
@@ -12472,7 +14885,8 @@
       ]
     ],
     "skillName": "共振",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1151
   },
   {
     "sn": 211502,
@@ -12659,7 +15073,8 @@
       ]
     ],
     "skillName": "光晶体",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1151
   },
   {
     "sn": 211503,
@@ -12853,7 +15268,8 @@
       ]
     ],
     "skillName": "相位融合",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1151
   },
   {
     "sn": 211504,
@@ -13069,7 +15485,8 @@
       ]
     ],
     "skillName": "神佑赐福",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1151
   },
   {
     "sn": 211601,
@@ -13256,7 +15673,8 @@
       ]
     ],
     "skillName": "刀魂",
-    "collectionExp": 0
+    "collectionExp": 5,
+    "belongingThief": 1161
   },
   {
     "sn": 211602,
@@ -13443,7 +15861,8 @@
       ]
     ],
     "skillName": "心剑",
-    "collectionExp": 0
+    "collectionExp": 10,
+    "belongingThief": 1161
   },
   {
     "sn": 211603,
@@ -13637,7 +16056,8 @@
       ]
     ],
     "skillName": "无心空刃",
-    "collectionExp": 0
+    "collectionExp": 30,
+    "belongingThief": 1161
   },
   {
     "sn": 211604,
@@ -13860,7 +16280,8 @@
       ]
     ],
     "skillName": "冰之演武",
-    "collectionExp": 0
+    "collectionExp": 80,
+    "belongingThief": 1161
   },
   {
     "sn": 211701,
@@ -14047,7 +16468,8 @@
       ]
     ],
     "skillName": "强效",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1171
   },
   {
     "sn": 211702,
@@ -14234,7 +16656,8 @@
       ]
     ],
     "skillName": "高性能",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1171
   },
   {
     "sn": 211703,
@@ -14428,7 +16851,8 @@
       ]
     ],
     "skillName": "修复代码",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1171
   },
   {
     "sn": 211704,
@@ -14644,7 +17068,8 @@
       ]
     ],
     "skillName": "万能芯片",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1171
   },
   {
     "sn": 211801,
@@ -14831,7 +17256,8 @@
       ]
     ],
     "skillName": "优雅",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1181
   },
   {
     "sn": 211802,
@@ -15018,7 +17444,8 @@
       ]
     ],
     "skillName": "悲怆",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1181
   },
   {
     "sn": 211803,
@@ -15212,7 +17639,8 @@
       ]
     ],
     "skillName": "鲜血之触",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1181
   },
   {
     "sn": 211804,
@@ -15421,7 +17849,8 @@
       ]
     ],
     "skillName": "轮回符文",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1181
   },
   {
     "sn": 211901,
@@ -15608,7 +18037,8 @@
       ]
     ],
     "skillName": "柔韧",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1191
   },
   {
     "sn": 211902,
@@ -15795,7 +18225,8 @@
       ]
     ],
     "skillName": "炽心",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1191
   },
   {
     "sn": 211903,
@@ -15989,7 +18420,8 @@
       ]
     ],
     "skillName": "焰火之舞",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1191
   },
   {
     "sn": 211904,
@@ -16198,7 +18630,8 @@
       ]
     ],
     "skillName": "噬身爱火",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1191
   },
   {
     "sn": 212001,
@@ -16252,50 +18685,50 @@
       271
     ],
     "initialPropertyValue": [
-      84.8,
-      29.07,
-      19.38
+      83.2,
+      30.93,
+      18.13
     ],
     "initialUpPropertyValue": [
-      9.54,
-      3.27,
-      2.18
+      9.36,
+      3.48,
+      2.04
     ],
     "BreachPropertyValue": [
       [
-        30.29,
-        10.38,
-        6.92
+        29.71,
+        11.05,
+        6.48
       ],
       [
-        30.29,
-        10.38,
-        6.92
+        29.71,
+        11.05,
+        6.48
       ],
       [
-        30.29,
-        10.38,
-        6.92
+        29.71,
+        11.05,
+        6.48
       ],
       [
-        30.29,
-        10.38,
-        6.92
+        29.71,
+        11.05,
+        6.48
       ],
       [
-        30.29,
-        10.38,
-        6.92
+        29.71,
+        11.05,
+        6.48
       ],
       [
-        30.29,
-        10.38,
-        6.92
+        29.71,
+        11.05,
+        6.48
       ],
       [
-        30.29,
-        10.38,
-        6.92
+        29.71,
+        11.05,
+        6.48
       ]
     ],
     "breachItem": [
@@ -16385,7 +18818,8 @@
       ]
     ],
     "skillName": "坚壁",
-    "collectionExp": 0
+    "collectionExp": 5,
+    "belongingThief": 1201
   },
   {
     "sn": 212002,
@@ -16439,50 +18873,50 @@
       271
     ],
     "initialPropertyValue": [
-      101.76,
-      34.88,
-      23.25
+      99.84,
+      37.12,
+      21.76
     ],
     "initialUpPropertyValue": [
-      11.45,
-      3.92,
-      2.62
+      11.23,
+      4.18,
+      2.45
     ],
     "BreachPropertyValue": [
       [
-        36.34,
-        12.46,
-        8.3
+        35.66,
+        13.26,
+        7.77
       ],
       [
-        36.34,
-        12.46,
-        8.3
+        35.66,
+        13.26,
+        7.77
       ],
       [
-        36.34,
-        12.46,
-        8.3
+        35.66,
+        13.26,
+        7.77
       ],
       [
-        36.34,
-        12.46,
-        8.3
+        35.66,
+        13.26,
+        7.77
       ],
       [
-        36.34,
-        12.46,
-        8.3
+        35.66,
+        13.26,
+        7.77
       ],
       [
-        36.34,
-        12.46,
-        8.3
+        35.66,
+        13.26,
+        7.77
       ],
       [
-        36.34,
-        12.46,
-        8.3
+        35.66,
+        13.26,
+        7.77
       ]
     ],
     "breachItem": [
@@ -16572,7 +19006,8 @@
       ]
     ],
     "skillName": "正义",
-    "collectionExp": 0
+    "collectionExp": 10,
+    "belongingThief": 1201
   },
   {
     "sn": 212003,
@@ -16626,50 +19061,50 @@
       271
     ],
     "initialPropertyValue": [
-      135.68,
-      46.51,
-      31
+      133.12,
+      49.49,
+      29.01
     ],
     "initialUpPropertyValue": [
-      15.26,
-      5.23,
-      3.49
+      14.98,
+      5.57,
+      3.26
     ],
     "BreachPropertyValue": [
       [
-        48.46,
-        16.61,
-        11.07
+        47.54,
+        17.68,
+        10.36
       ],
       [
-        48.46,
-        16.61,
-        11.07
+        47.54,
+        17.68,
+        10.36
       ],
       [
-        48.46,
-        16.61,
-        11.07
+        47.54,
+        17.68,
+        10.36
       ],
       [
-        48.46,
-        16.61,
-        11.07
+        47.54,
+        17.68,
+        10.36
       ],
       [
-        48.46,
-        16.61,
-        11.07
+        47.54,
+        17.68,
+        10.36
       ],
       [
-        48.46,
-        16.61,
-        11.07
+        47.54,
+        17.68,
+        10.36
       ],
       [
-        48.46,
-        16.61,
-        11.07
+        47.54,
+        17.68,
+        10.36
       ]
     ],
     "breachItem": [
@@ -16738,45 +19173,36 @@
     "skill": [
       [
         52041,
-        52042,
-        52043
+        52042
       ],
       [
         52041,
-        52042,
-        52043
+        52042
       ],
       [
         52041,
-        52042,
-        52043
+        52042
       ],
       [
         52041,
-        52042,
-        52043
+        52042
       ],
       [
         52041,
-        52042,
-        52043
+        52042
       ],
       [
         52041,
-        52042,
-        52043
+        52042
       ],
       [
         52041,
-        52042,
-        52043
-      ],
-      [
-        0
+        52042
       ]
     ],
     "skillName": "不熄心火",
-    "collectionExp": 0
+    "collectionExp": 30,
+    "belongingThief": 1201
   },
   {
     "sn": 212004,
@@ -16845,50 +19271,50 @@
       271
     ],
     "initialPropertyValue": [
-      169.6,
-      58.13,
-      38.76
+      166.4,
+      61.87,
+      36.27
     ],
     "initialUpPropertyValue": [
-      19.08,
-      6.54,
-      4.36
+      18.72,
+      6.96,
+      4.08
     ],
     "BreachPropertyValue": [
       [
-        60.57,
-        20.76,
-        13.84
+        59.43,
+        22.1,
+        12.95
       ],
       [
-        60.57,
-        20.76,
-        13.84
+        59.43,
+        22.1,
+        12.95
       ],
       [
-        60.57,
-        20.76,
-        13.84
+        59.43,
+        22.1,
+        12.95
       ],
       [
-        60.57,
-        20.76,
-        13.84
+        59.43,
+        22.1,
+        12.95
       ],
       [
-        60.57,
-        20.76,
-        13.84
+        59.43,
+        22.1,
+        12.95
       ],
       [
-        60.57,
-        20.76,
-        13.84
+        59.43,
+        22.1,
+        12.95
       ],
       [
-        60.57,
-        20.76,
-        13.84
+        59.43,
+        22.1,
+        12.95
       ]
     ],
     "breachItem": [
@@ -16960,53 +19386,61 @@
         52052,
         52053,
         52054,
-        52055
+        52055,
+        52056
       ],
       [
         52051,
         52052,
         52053,
         52054,
-        52055
+        52055,
+        52056
       ],
       [
         52051,
         52052,
         52053,
         52054,
-        52055
+        52055,
+        52056
       ],
       [
         52051,
         52052,
         52053,
         52054,
-        52055
+        52055,
+        52056
       ],
       [
         52051,
         52052,
         52053,
         52054,
-        52055
+        52055,
+        52056
       ],
       [
         52051,
         52052,
         52053,
         52054,
-        52055
+        52055,
+        52056
       ],
       [
         52051,
         52052,
         52053,
         52054,
-        52055
+        52055,
+        52056
       ]
     ],
     "skillName": "湮灭意志",
-    "collectionExp": 0
+    "collectionExp": 80,
+    "belongingThief": 1201
   },
   {
     "sn": 212101,
@@ -17193,7 +19627,8 @@
       ]
     ],
     "skillName": "会心",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1211
   },
   {
     "sn": 212102,
@@ -17380,7 +19815,8 @@
       ]
     ],
     "skillName": "极寒",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1211
   },
   {
     "sn": 212103,
@@ -17574,7 +20010,8 @@
       ]
     ],
     "skillName": "冰之馈赠",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1211
   },
   {
     "sn": 212104,
@@ -17783,7 +20220,8 @@
       ]
     ],
     "skillName": "永恒冬夜",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1211
   },
   {
     "sn": 212301,
@@ -17969,8 +20407,9 @@
         52321
       ]
     ],
-    "skillName": "锐利",
-    "collectionExp": 5
+    "skillName": "体能管理",
+    "collectionExp": 5,
+    "belongingThief": 1231
   },
   {
     "sn": 212302,
@@ -18156,8 +20595,9 @@
         52331
       ]
     ],
-    "skillName": "锐利",
-    "collectionExp": 10
+    "skillName": "输液",
+    "collectionExp": 10,
+    "belongingThief": 1231
   },
   {
     "sn": 212303,
@@ -18357,8 +20797,9 @@
         52343
       ]
     ],
-    "skillName": "锐利",
-    "collectionExp": 30
+    "skillName": "全面护理",
+    "collectionExp": 30,
+    "belongingThief": 1231
   },
   {
     "sn": 212304,
@@ -18573,8 +21014,9 @@
         52353
       ]
     ],
-    "skillName": "锐利",
-    "collectionExp": 80
+    "skillName": "治愈誓言",
+    "collectionExp": 80,
+    "belongingThief": 1231
   },
   {
     "sn": 212501,
@@ -18761,7 +21203,8 @@
       ]
     ],
     "skillName": "沉重",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1251
   },
   {
     "sn": 212502,
@@ -18948,7 +21391,8 @@
       ]
     ],
     "skillName": "攻心",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1251
   },
   {
     "sn": 212503,
@@ -19142,7 +21586,8 @@
       ]
     ],
     "skillName": "趁敌不备",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1251
   },
   {
     "sn": 212504,
@@ -19351,7 +21796,8 @@
       ]
     ],
     "skillName": "精准磨砺",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1251
   },
   {
     "sn": 212601,
@@ -19538,7 +21984,8 @@
       ]
     ],
     "skillName": "锐利",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1261
   },
   {
     "sn": 212602,
@@ -19725,7 +22172,8 @@
       ]
     ],
     "skillName": "索命",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1261
   },
   {
     "sn": 212603,
@@ -19919,7 +22367,8 @@
       ]
     ],
     "skillName": "恶兆将至",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1261
   },
   {
     "sn": 212604,
@@ -20128,7 +22577,8 @@
       ]
     ],
     "skillName": "咒杀万物",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1261
   },
   {
     "sn": 212701,
@@ -20315,7 +22765,8 @@
       ]
     ],
     "skillName": "音波",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1271
   },
   {
     "sn": 212702,
@@ -20502,7 +22953,8 @@
       ]
     ],
     "skillName": "声呐",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1271
   },
   {
     "sn": 212703,
@@ -20689,7 +23141,8 @@
       ]
     ],
     "skillName": "回声屏障",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1271
   },
   {
     "sn": 212704,
@@ -20891,7 +23344,8 @@
       ]
     ],
     "skillName": "深海共鸣",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1271
   },
   {
     "sn": 212801,
@@ -21078,7 +23532,8 @@
       ]
     ],
     "skillName": "尖锐",
-    "collectionExp": 5
+    "collectionExp": 5,
+    "belongingThief": 1281
   },
   {
     "sn": 212802,
@@ -21265,7 +23720,8 @@
       ]
     ],
     "skillName": "破拆",
-    "collectionExp": 10
+    "collectionExp": 10,
+    "belongingThief": 1281
   },
   {
     "sn": 212803,
@@ -21459,7 +23915,8 @@
       ]
     ],
     "skillName": "啾不可挡",
-    "collectionExp": 30
+    "collectionExp": 30,
+    "belongingThief": 1281
   },
   {
     "sn": 212804,
@@ -21675,7 +24132,8 @@
       ]
     ],
     "skillName": "糖果探测",
-    "collectionExp": 80
+    "collectionExp": 80,
+    "belongingThief": 1281
   },
   {
     "sn": 212901,
@@ -21862,7 +24320,8 @@
       ]
     ],
     "skillName": "锐利",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1291
   },
   {
     "sn": 212902,
@@ -22049,7 +24508,8 @@
       ]
     ],
     "skillName": "锐利",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1291
   },
   {
     "sn": 212903,
@@ -22236,7 +24696,8 @@
       ]
     ],
     "skillName": "锐利",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1291
   },
   {
     "sn": 212904,
@@ -22438,6 +24899,3109 @@
       ]
     ],
     "skillName": "锐利",
-    "collectionExp": 0
+    "collectionExp": 0,
+    "belongingThief": 1291
+  },
+  {
+    "sn": 213001,
+    "name": "三棱军刺",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "vino-2-01.png",
+    "gachaResultPicOffset": [
+      0.085,
+      -0.34
+    ],
+    "gachaResultPicTiling": [
+      0.745,
+      1.5
+    ],
+    "gachaEffect": "P5_UI_wuqi_vino.prefab",
+    "gachaPicOffset": [
+      -20,
+      0
+    ],
+    "gachaPicTiling": 0.6,
+    "collectionPicOffset": [
+      -20,
+      0
+    ],
+    "collectionPicTiling": 0.6,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213501,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 30,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      88,
+      28,
+      17.96
+    ],
+    "initialUpPropertyValue": [
+      9.9,
+      3.15,
+      2.02
+    ],
+    "BreachPropertyValue": [
+      [
+        31.43,
+        10,
+        6.41
+      ],
+      [
+        31.43,
+        10,
+        6.41
+      ],
+      [
+        31.43,
+        10,
+        6.41
+      ],
+      [
+        31.43,
+        10,
+        6.41
+      ],
+      [
+        31.43,
+        10,
+        6.41
+      ],
+      [
+        31.43,
+        10,
+        6.41
+      ],
+      [
+        31.43,
+        10,
+        6.41
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213001,
+      0,
+      213001,
+      0,
+      213001,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53021
+      ],
+      [
+        53021
+      ],
+      [
+        53021
+      ],
+      [
+        53021
+      ],
+      [
+        53021
+      ],
+      [
+        53021
+      ],
+      [
+        53021
+      ]
+    ],
+    "skillName": "撕裂",
+    "collectionExp": 5,
+    "belongingThief": 1301
+  },
+  {
+    "sn": 213002,
+    "name": "战略军刺",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "vino-3-01.png",
+    "gachaResultPicOffset": [
+      0.085,
+      -0.34
+    ],
+    "gachaResultPicTiling": [
+      0.745,
+      1.5
+    ],
+    "gachaEffect": "P5_UI_wuqi_vino.prefab",
+    "gachaPicOffset": [
+      -20,
+      0
+    ],
+    "gachaPicTiling": 0.6,
+    "collectionPicOffset": [
+      -20,
+      0
+    ],
+    "collectionPicTiling": 0.6,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213502,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 30,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      105.6,
+      33.6,
+      21.55
+    ],
+    "initialUpPropertyValue": [
+      11.88,
+      3.78,
+      2.42
+    ],
+    "BreachPropertyValue": [
+      [
+        37.71,
+        12,
+        7.7
+      ],
+      [
+        37.71,
+        12,
+        7.7
+      ],
+      [
+        37.71,
+        12,
+        7.7
+      ],
+      [
+        37.71,
+        12,
+        7.7
+      ],
+      [
+        37.71,
+        12,
+        7.7
+      ],
+      [
+        37.71,
+        12,
+        7.7
+      ],
+      [
+        37.71,
+        12,
+        7.7
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213002,
+      0,
+      213002,
+      0,
+      213002,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53031
+      ],
+      [
+        53031
+      ],
+      [
+        53031
+      ],
+      [
+        53031
+      ],
+      [
+        53031
+      ],
+      [
+        53031
+      ],
+      [
+        53031
+      ]
+    ],
+    "skillName": "淬毒",
+    "collectionExp": 10,
+    "belongingThief": 1301
+  },
+  {
+    "sn": 213003,
+    "name": "航域引力",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "vino-4-01.png",
+    "gachaResultPicOffset": [
+      0.085,
+      -0.34
+    ],
+    "gachaResultPicTiling": [
+      0.745,
+      1.5
+    ],
+    "gachaEffect": "P5_UI_wuqi_vino.prefab",
+    "gachaPicOffset": [
+      -20,
+      0
+    ],
+    "gachaPicTiling": 0.6,
+    "collectionPicOffset": [
+      -20,
+      0
+    ],
+    "collectionPicTiling": 0.6,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213503,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 30,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      140.8,
+      44.8,
+      28.73
+    ],
+    "initialUpPropertyValue": [
+      15.84,
+      5.04,
+      3.23
+    ],
+    "BreachPropertyValue": [
+      [
+        50.29,
+        16,
+        10.26
+      ],
+      [
+        50.29,
+        16,
+        10.26
+      ],
+      [
+        50.29,
+        16,
+        10.26
+      ],
+      [
+        50.29,
+        16,
+        10.26
+      ],
+      [
+        50.29,
+        16,
+        10.26
+      ],
+      [
+        50.29,
+        16,
+        10.26
+      ],
+      [
+        50.29,
+        16,
+        10.26
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213003,
+      0,
+      213003,
+      0,
+      213003,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53041,
+        53042,
+        53043
+      ],
+      [
+        53041,
+        53042,
+        53043
+      ],
+      [
+        53041,
+        53042,
+        53043
+      ],
+      [
+        53041,
+        53042,
+        53043
+      ],
+      [
+        53041,
+        53042,
+        53043
+      ],
+      [
+        53041,
+        53042,
+        53043
+      ],
+      [
+        53041,
+        53042,
+        53043
+      ]
+    ],
+    "skillName": "量子辐射",
+    "collectionExp": 30,
+    "belongingThief": 1301
+  },
+  {
+    "sn": 213004,
+    "name": "超频脉冲",
+    "quality": 6,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "vino-5-01.png",
+    "gachaResultPicOffset": [
+      0.085,
+      -0.34
+    ],
+    "gachaResultPicTiling": [
+      0.745,
+      1.5
+    ],
+    "gachaEffect": "P5_UI_wuqi_vino.prefab",
+    "gachaPicOffset": [
+      -8,
+      -4
+    ],
+    "gachaPicTiling": 0.6,
+    "collectionPicOffset": [
+      -20,
+      0
+    ],
+    "collectionPicTiling": 0.6,
+    "gachaMainPicTilingL": [
+      52,
+      115,
+      0.4,
+      5
+    ],
+    "gachaMainPicTilingM": [
+      266,
+      46,
+      0.7,
+      -3
+    ],
+    "gachaMainPicTilingR": [
+      450,
+      -91,
+      0.4,
+      0
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213504,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 30,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      176,
+      56,
+      35.91
+    ],
+    "initialUpPropertyValue": [
+      19.8,
+      6.3,
+      4.04
+    ],
+    "BreachPropertyValue": [
+      [
+        62.86,
+        20,
+        12.83
+      ],
+      [
+        62.86,
+        20,
+        12.83
+      ],
+      [
+        62.86,
+        20,
+        12.83
+      ],
+      [
+        62.86,
+        20,
+        12.83
+      ],
+      [
+        62.86,
+        20,
+        12.83
+      ],
+      [
+        62.86,
+        20,
+        12.83
+      ],
+      [
+        62.86,
+        20,
+        12.83
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213004,
+      0,
+      213004,
+      0,
+      213004,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53051,
+        53052,
+        53053
+      ],
+      [
+        53051,
+        53052,
+        53053
+      ],
+      [
+        53051,
+        53052,
+        53053
+      ],
+      [
+        53051,
+        53052,
+        53053
+      ],
+      [
+        53051,
+        53052,
+        53053
+      ],
+      [
+        53051,
+        53052,
+        53053
+      ],
+      [
+        53051,
+        53052,
+        53053
+      ]
+    ],
+    "skillName": "湮灭震荡",
+    "collectionExp": 80,
+    "belongingThief": 1301
+  },
+  {
+    "sn": 213101,
+    "name": "舞杖",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "phoebe-2-01.png",
+    "gachaResultPicOffset": [
+      0.17,
+      -0.19
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_phoebe.prefab",
+    "gachaPicOffset": [
+      0,
+      0
+    ],
+    "gachaPicTiling": 0.64,
+    "collectionPicOffset": [
+      0,
+      0
+    ],
+    "collectionPicTiling": 0.64,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213601,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 31,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      92,
+      29.6,
+      16.18
+    ],
+    "initialUpPropertyValue": [
+      10.35,
+      3.33,
+      1.82
+    ],
+    "BreachPropertyValue": [
+      [
+        32.86,
+        10.57,
+        5.78
+      ],
+      [
+        32.86,
+        10.57,
+        5.78
+      ],
+      [
+        32.86,
+        10.57,
+        5.78
+      ],
+      [
+        32.86,
+        10.57,
+        5.78
+      ],
+      [
+        32.86,
+        10.57,
+        5.78
+      ],
+      [
+        32.86,
+        10.57,
+        5.78
+      ],
+      [
+        32.86,
+        10.57,
+        5.78
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213101,
+      0,
+      213101,
+      0,
+      213101,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53121
+      ],
+      [
+        53121
+      ],
+      [
+        53121
+      ],
+      [
+        53121
+      ],
+      [
+        53121
+      ],
+      [
+        53121
+      ],
+      [
+        53121
+      ]
+    ],
+    "skillName": "鼓舞",
+    "collectionExp": 5,
+    "belongingThief": 1311
+  },
+  {
+    "sn": 213102,
+    "name": "雀头舞杖",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "phoebe-3-01.png",
+    "gachaResultPicOffset": [
+      0.17,
+      -0.19
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_phoebe.prefab",
+    "gachaPicOffset": [
+      0,
+      0
+    ],
+    "gachaPicTiling": 0.64,
+    "collectionPicOffset": [
+      0,
+      0
+    ],
+    "collectionPicTiling": 0.64,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213602,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 31,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      110.4,
+      35.52,
+      19.41
+    ],
+    "initialUpPropertyValue": [
+      12.42,
+      4,
+      2.18
+    ],
+    "BreachPropertyValue": [
+      [
+        39.43,
+        12.69,
+        6.93
+      ],
+      [
+        39.43,
+        12.69,
+        6.93
+      ],
+      [
+        39.43,
+        12.69,
+        6.93
+      ],
+      [
+        39.43,
+        12.69,
+        6.93
+      ],
+      [
+        39.43,
+        12.69,
+        6.93
+      ],
+      [
+        39.43,
+        12.69,
+        6.93
+      ],
+      [
+        39.43,
+        12.69,
+        6.93
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213102,
+      0,
+      213102,
+      0,
+      213102,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53131
+      ],
+      [
+        53131
+      ],
+      [
+        53131
+      ],
+      [
+        53131
+      ],
+      [
+        53131
+      ],
+      [
+        53131
+      ],
+      [
+        53131
+      ]
+    ],
+    "skillName": "微醺",
+    "collectionExp": 10,
+    "belongingThief": 1311
+  },
+  {
+    "sn": 213103,
+    "name": "星夜卜者",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "phoebe-4-01.png",
+    "gachaResultPicOffset": [
+      0.17,
+      -0.19
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_phoebe.prefab",
+    "gachaPicOffset": [
+      0,
+      0
+    ],
+    "gachaPicTiling": 0.64,
+    "collectionPicOffset": [
+      0,
+      0
+    ],
+    "collectionPicTiling": 0.64,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "sys47_003_2",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213603,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 31,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      147.2,
+      47.36,
+      25.88
+    ],
+    "initialUpPropertyValue": [
+      16.56,
+      5.33,
+      2.91
+    ],
+    "BreachPropertyValue": [
+      [
+        52.57,
+        16.91,
+        9.24
+      ],
+      [
+        52.57,
+        16.91,
+        9.24
+      ],
+      [
+        52.57,
+        16.91,
+        9.24
+      ],
+      [
+        52.57,
+        16.91,
+        9.24
+      ],
+      [
+        52.57,
+        16.91,
+        9.24
+      ],
+      [
+        52.57,
+        16.91,
+        9.24
+      ],
+      [
+        52.57,
+        16.91,
+        9.24
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213103,
+      0,
+      213103,
+      0,
+      213103,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53141
+      ],
+      [
+        53141
+      ],
+      [
+        53141
+      ],
+      [
+        53141
+      ],
+      [
+        53141
+      ],
+      [
+        53141
+      ],
+      [
+        53141
+      ]
+    ],
+    "skillName": "魅惑之吻",
+    "collectionExp": 30,
+    "belongingThief": 1311
+  },
+  {
+    "sn": 213104,
+    "name": "月下翎",
+    "quality": 6,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "phoebe-5-01.png",
+    "gachaResultPicOffset": [
+      0.17,
+      -0.19
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_phoebe.prefab",
+    "gachaPicOffset": [
+      0,
+      0
+    ],
+    "gachaPicTiling": 0.64,
+    "collectionPicOffset": [
+      0,
+      0
+    ],
+    "collectionPicTiling": 0.64,
+    "gachaMainPicTilingL": [
+      55,
+      115,
+      0.5,
+      5
+    ],
+    "gachaMainPicTilingM": [
+      228,
+      46,
+      0.9,
+      0
+    ],
+    "gachaMainPicTilingR": [
+      437,
+      -91,
+      0.5,
+      0
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "sys47_003_2",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213604,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 31,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      184,
+      59.2,
+      32.36
+    ],
+    "initialUpPropertyValue": [
+      20.7,
+      6.66,
+      3.64
+    ],
+    "BreachPropertyValue": [
+      [
+        65.71,
+        21.14,
+        11.56
+      ],
+      [
+        65.71,
+        21.14,
+        11.56
+      ],
+      [
+        65.71,
+        21.14,
+        11.56
+      ],
+      [
+        65.71,
+        21.14,
+        11.56
+      ],
+      [
+        65.71,
+        21.14,
+        11.56
+      ],
+      [
+        65.71,
+        21.14,
+        11.56
+      ],
+      [
+        65.71,
+        21.14,
+        11.56
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213104,
+      0,
+      213104,
+      0,
+      213104,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53151
+      ],
+      [
+        53151
+      ],
+      [
+        53151
+      ],
+      [
+        53151
+      ],
+      [
+        53151
+      ],
+      [
+        53151
+      ],
+      [
+        53151
+      ]
+    ],
+    "skillName": "酣歌醉舞",
+    "collectionExp": 80,
+    "belongingThief": 1311
+  },
+  {
+    "sn": 213201,
+    "name": "吉他斧",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "chord-2-01.png",
+    "gachaResultPicOffset": [
+      0.235,
+      -0.13
+    ],
+    "gachaResultPicTiling": [
+      0.58,
+      1.15
+    ],
+    "gachaEffect": "P5_UI_wuqi_chord.prefab",
+    "gachaPicOffset": [
+      -14,
+      -18
+    ],
+    "gachaPicTiling": 0.78,
+    "collectionPicOffset": [
+      0,
+      0
+    ],
+    "collectionPicTiling": 0.6,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213801,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 32,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      92,
+      28.8,
+      15.64
+    ],
+    "initialUpPropertyValue": [
+      10.35,
+      3.24,
+      1.76
+    ],
+    "BreachPropertyValue": [
+      [
+        32.86,
+        10.29,
+        5.59
+      ],
+      [
+        32.86,
+        10.29,
+        5.59
+      ],
+      [
+        32.86,
+        10.29,
+        5.59
+      ],
+      [
+        32.86,
+        10.29,
+        5.59
+      ],
+      [
+        32.86,
+        10.29,
+        5.59
+      ],
+      [
+        32.86,
+        10.29,
+        5.59
+      ],
+      [
+        32.86,
+        10.29,
+        5.59
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213201,
+      0,
+      213201,
+      0,
+      213201,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53221
+      ],
+      [
+        53221
+      ],
+      [
+        53221
+      ],
+      [
+        53221
+      ],
+      [
+        53221
+      ],
+      [
+        53221
+      ],
+      [
+        53221
+      ]
+    ],
+    "skillName": "鸣弦",
+    "collectionExp": 5,
+    "belongingThief": 1321
+  },
+  {
+    "sn": 213202,
+    "name": "电音吉他斧",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "chord-3-01.png",
+    "gachaResultPicOffset": [
+      0.235,
+      -0.13
+    ],
+    "gachaResultPicTiling": [
+      0.58,
+      1.15
+    ],
+    "gachaEffect": "P5_UI_wuqi_chord.prefab",
+    "gachaPicOffset": [
+      -14,
+      -18
+    ],
+    "gachaPicTiling": 0.78,
+    "collectionPicOffset": [
+      0,
+      0
+    ],
+    "collectionPicTiling": 0.6,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213802,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 32,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      110.4,
+      34.56,
+      18.77
+    ],
+    "initialUpPropertyValue": [
+      12.42,
+      3.89,
+      2.11
+    ],
+    "BreachPropertyValue": [
+      [
+        39.43,
+        12.34,
+        6.7
+      ],
+      [
+        39.43,
+        12.34,
+        6.7
+      ],
+      [
+        39.43,
+        12.34,
+        6.7
+      ],
+      [
+        39.43,
+        12.34,
+        6.7
+      ],
+      [
+        39.43,
+        12.34,
+        6.7
+      ],
+      [
+        39.43,
+        12.34,
+        6.7
+      ],
+      [
+        39.43,
+        12.34,
+        6.7
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213202,
+      0,
+      213202,
+      0,
+      213202,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53231
+      ],
+      [
+        53231
+      ],
+      [
+        53231
+      ],
+      [
+        53231
+      ],
+      [
+        53231
+      ],
+      [
+        53231
+      ],
+      [
+        53231
+      ]
+    ],
+    "skillName": "鼓舞",
+    "collectionExp": 10,
+    "belongingThief": 1321
+  },
+  {
+    "sn": 213203,
+    "name": "独唱摇滚",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "chord-4-01.png",
+    "gachaResultPicOffset": [
+      0.235,
+      -0.13
+    ],
+    "gachaResultPicTiling": [
+      0.58,
+      1.15
+    ],
+    "gachaEffect": "P5_UI_wuqi_chord.prefab",
+    "gachaPicOffset": [
+      -14,
+      -18
+    ],
+    "gachaPicTiling": 0.78,
+    "collectionPicOffset": [
+      0,
+      0
+    ],
+    "collectionPicTiling": 0.6,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "VO_Sys_Weapon_Chord_02",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213803,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 32,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      147.2,
+      46.08,
+      25.03
+    ],
+    "initialUpPropertyValue": [
+      16.56,
+      5.18,
+      2.82
+    ],
+    "BreachPropertyValue": [
+      [
+        52.57,
+        16.46,
+        8.94
+      ],
+      [
+        52.57,
+        16.46,
+        8.94
+      ],
+      [
+        52.57,
+        16.46,
+        8.94
+      ],
+      [
+        52.57,
+        16.46,
+        8.94
+      ],
+      [
+        52.57,
+        16.46,
+        8.94
+      ],
+      [
+        52.57,
+        16.46,
+        8.94
+      ],
+      [
+        52.57,
+        16.46,
+        8.94
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213203,
+      0,
+      213203,
+      0,
+      213203,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53241,
+        53242
+      ],
+      [
+        53241,
+        53242
+      ],
+      [
+        53241,
+        53242
+      ],
+      [
+        53241,
+        53242
+      ],
+      [
+        53241,
+        53242
+      ],
+      [
+        53241,
+        53242
+      ],
+      [
+        53241,
+        53242
+      ]
+    ],
+    "skillName": "节奏风暴",
+    "collectionExp": 30,
+    "belongingThief": 1321
+  },
+  {
+    "sn": 213204,
+    "name": "万众瞩目之星",
+    "quality": 6,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "chord-5-01.png",
+    "gachaResultPicOffset": [
+      0.235,
+      -0.13
+    ],
+    "gachaResultPicTiling": [
+      0.58,
+      1.15
+    ],
+    "gachaEffect": "P5_UI_wuqi_chord.prefab",
+    "gachaPicOffset": [
+      -14,
+      -18
+    ],
+    "gachaPicTiling": 0.78,
+    "collectionPicOffset": [
+      0,
+      0
+    ],
+    "collectionPicTiling": 0.6,
+    "gachaMainPicTilingL": [
+      54,
+      141,
+      0.5,
+      0
+    ],
+    "gachaMainPicTilingM": [
+      248,
+      24,
+      0.9,
+      -5
+    ],
+    "gachaMainPicTilingR": [
+      480,
+      -40,
+      0.5,
+      -10
+    ],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "VO_Sys_Weapon_Chord_02",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 213804,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 32,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      184,
+      57.6,
+      31.29
+    ],
+    "initialUpPropertyValue": [
+      20.7,
+      6.48,
+      3.52
+    ],
+    "BreachPropertyValue": [
+      [
+        65.71,
+        20.57,
+        11.17
+      ],
+      [
+        65.71,
+        20.57,
+        11.17
+      ],
+      [
+        65.71,
+        20.57,
+        11.17
+      ],
+      [
+        65.71,
+        20.57,
+        11.17
+      ],
+      [
+        65.71,
+        20.57,
+        11.17
+      ],
+      [
+        65.71,
+        20.57,
+        11.17
+      ],
+      [
+        65.71,
+        20.57,
+        11.17
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213204,
+      0,
+      213204,
+      0,
+      213204,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        53251,
+        53252,
+        53253
+      ],
+      [
+        53251,
+        53252,
+        53253
+      ],
+      [
+        53251,
+        53252,
+        53253
+      ],
+      [
+        53251,
+        53252,
+        53253
+      ],
+      [
+        53251,
+        53252,
+        53253
+      ],
+      [
+        53251,
+        53252,
+        53253
+      ],
+      [
+        53251,
+        53252,
+        53253
+      ]
+    ],
+    "skillName": "狂热皈依",
+    "collectionExp": 80,
+    "belongingThief": 1321
+  },
+  {
+    "sn": 213301,
+    "name": "芦谷真咲二星武器",
+    "quality": 3,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "joker-2-01.png",
+    "gachaResultPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_joker.prefab",
+    "gachaPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "gachaPicTiling": 0.71,
+    "collectionPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "collectionPicTiling": 0.71,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 212601,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 33,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      193.6,
+      60.27,
+      28.8
+    ],
+    "initialUpPropertyValue": [
+      21.78,
+      6.78,
+      3.24
+    ],
+    "BreachPropertyValue": [
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213301,
+      0,
+      213301,
+      0,
+      213301,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ]
+    ],
+    "skillName": "",
+    "collectionExp": 0,
+    "belongingThief": 1331
+  },
+  {
+    "sn": 213302,
+    "name": "芦谷真咲三星武器",
+    "quality": 4,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "joker-2-01.png",
+    "gachaResultPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_joker.prefab",
+    "gachaPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "gachaPicTiling": 0.71,
+    "collectionPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "collectionPicTiling": 0.71,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 212601,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 33,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      193.6,
+      60.27,
+      28.8
+    ],
+    "initialUpPropertyValue": [
+      21.78,
+      6.78,
+      3.24
+    ],
+    "BreachPropertyValue": [
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213302,
+      0,
+      213302,
+      0,
+      213302,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ]
+    ],
+    "skillName": "",
+    "collectionExp": 0,
+    "belongingThief": 1331
+  },
+  {
+    "sn": 213303,
+    "name": "芦谷真咲四星武器",
+    "quality": 5,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "joker-2-01.png",
+    "gachaResultPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_joker.prefab",
+    "gachaPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "gachaPicTiling": 0.71,
+    "collectionPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "collectionPicTiling": 0.71,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 212601,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 33,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      193.6,
+      60.27,
+      28.8
+    ],
+    "initialUpPropertyValue": [
+      21.78,
+      6.78,
+      3.24
+    ],
+    "BreachPropertyValue": [
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213303,
+      0,
+      213303,
+      0,
+      213303,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ]
+    ],
+    "skillName": "",
+    "collectionExp": 0,
+    "belongingThief": 1331
+  },
+  {
+    "sn": 213304,
+    "name": "芦谷真咲五星武器",
+    "quality": 6,
+    "developPic": "wuqi-lihui-bishou-01.png",
+    "gachaPic": "joker-2-01.png",
+    "gachaResultPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "gachaResultPicTiling": [
+      0.64,
+      1.27
+    ],
+    "gachaEffect": "P5_UI_wuqi_joker.prefab",
+    "gachaPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "gachaPicTiling": 0.71,
+    "collectionPicOffset": [
+      0.205,
+      -0.195
+    ],
+    "collectionPicTiling": 0.71,
+    "gachaMainPicTilingL": [],
+    "gachaMainPicTilingM": [],
+    "gachaMainPicTilingR": [],
+    "gachaResultPicRotation": 0,
+    "gachaSound": "",
+    "evolveName": "wuqi-guaidaoming-joker.png",
+    "namePic": "",
+    "model": 212601,
+    "weaponmodelUI": "cattle_weapon_04_UI.prefab",
+    "weaponmodelAnim": "",
+    "weaponmodelSize": [
+      1,
+      1,
+      1
+    ],
+    "weaponmodelPosition": [
+      0,
+      0,
+      0
+    ],
+    "typeSN": 33,
+    "property": [
+      241,
+      261,
+      271
+    ],
+    "initialPropertyValue": [
+      193.6,
+      60.27,
+      28.8
+    ],
+    "initialUpPropertyValue": [
+      21.78,
+      6.78,
+      3.24
+    ],
+    "BreachPropertyValue": [
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ],
+      [
+        69.14,
+        21.52,
+        10.29
+      ]
+    ],
+    "breachItem": [
+      [
+        302601
+      ],
+      [
+        302601
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302602
+      ],
+      [
+        302603
+      ],
+      [
+        302603
+      ]
+    ],
+    "breachItemCount": [
+      [
+        5
+      ],
+      [
+        12
+      ],
+      [
+        6
+      ],
+      [
+        10
+      ],
+      [
+        18
+      ],
+      [
+        12
+      ],
+      [
+        24
+      ]
+    ],
+    "reformMaterial": [
+      213304,
+      0,
+      213304,
+      0,
+      213304,
+      0
+    ],
+    "reformCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "wonderReform": 0,
+    "skill": [
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ],
+      [
+        52951
+      ]
+    ],
+    "skillName": "",
+    "collectionExp": 0,
+    "belongingThief": 1331
   }
 ]

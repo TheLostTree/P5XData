@@ -1,14 +1,218 @@
 [
   {
     "sn": 1,
-    "titlePic": "UI_ActivityTokenQuest",
-    "characterPic": "",
-    "funcEnter": []
+    "maintemplate": "UI_ActivityTokenQuest",
+    "title": "",
+    "introduction": [],
+    "background": "",
+    "maindecoration1": "",
+    "maincoordinate1": [],
+    "maindecoration2": "",
+    "maincoordinate2": [],
+    "maindecoration3": "",
+    "maincoordinate3": [],
+    "maindecoration4": "",
+    "maincoordinate4": [],
+    "awardnormal": "",
+    "awardclaim": "",
+    "awardnum": 0,
+    "spawardnormal": "",
+    "spawardclaim": "",
+    "spawardnum": 0,
+    "bottommask": ""
   },
   {
     "sn": 2,
-    "titlePic": "UI-huodong-huigui-qiri",
-    "characterPic": "",
-    "funcEnter": []
+    "maintemplate": "UI-huodong-huigui-qiri",
+    "title": "",
+    "introduction": [],
+    "background": "",
+    "maindecoration1": "",
+    "maincoordinate1": [],
+    "maindecoration2": "",
+    "maincoordinate2": [],
+    "maindecoration3": "",
+    "maincoordinate3": [],
+    "maindecoration4": "",
+    "maincoordinate4": [],
+    "awardnormal": "",
+    "awardclaim": "",
+    "awardnum": 0,
+    "spawardnormal": "",
+    "spawardclaim": "",
+    "spawardnum": 0,
+    "bottommask": ""
+  },
+  {
+    "sn": 3,
+    "maintemplate": "UI-huodong-commonSignIn1",
+    "title": "huodong-4100001-title-i18n.png",
+    "introduction": [],
+    "background": "huodong-4100001-background.png",
+    "maindecoration1": "huodong-4100001-maindecoration.png",
+    "maincoordinate1": [
+      0,
+      0
+    ],
+    "maindecoration2": "",
+    "maincoordinate2": [],
+    "maindecoration3": "",
+    "maincoordinate3": [],
+    "maindecoration4": "",
+    "maincoordinate4": [],
+    "awardnormal": "huodong-4100001-awardnormal-%d.png",
+    "awardclaim": "huodong-4100001-awardclaim-%d.png",
+    "awardnum": 1,
+    "spawardnormal": "huodong-4100001-spawardnormal-%d.png",
+    "spawardclaim": "huodong-4100001-spawardclaim-%d.png",
+    "spawardnum": 1,
+    "bottommask": "huodong-4100001-bottommask.png"
+  },
+  {
+    "sn": 4,
+    "maintemplate": "UI-summerActivity-sign",
+    "title": "summerActivity-sign-title1-i18n.png",
+    "introduction": [
+      0,
+      0,
+      0
+    ],
+    "background": "summerActivity-sign-bg01.png",
+    "maindecoration1": "summerActivity-sign-role1.png",
+    "maincoordinate1": [
+      -162,
+      74
+    ],
+    "maindecoration2": "",
+    "maincoordinate2": [],
+    "maindecoration3": "",
+    "maincoordinate3": [],
+    "maindecoration4": "",
+    "maincoordinate4": [],
+    "awardnormal": "",
+    "awardclaim": "",
+    "awardnum": 0,
+    "spawardnormal": "",
+    "spawardclaim": "",
+    "spawardnum": 0,
+    "bottommask": ""
+  },
+  {
+    "sn": 5,
+    "maintemplate": "UI-huodong-commonSignIn1",
+    "title": "huodong-4100003-title-i18n.png",
+    "introduction": [
+      5,
+      40,
+      2.5
+    ],
+    "background": "huodong-4100003-background.png",
+    "maindecoration1": "huodong-4100003-maindecoration-1.png",
+    "maincoordinate1": [
+      -662,
+      -81
+    ],
+    "maindecoration2": "huodong-4100003-maindecoration-2.png",
+    "maincoordinate2": [
+      -255,
+      115
+    ],
+    "maindecoration3": "huodong-4100003-maindecoration-3.png",
+    "maincoordinate3": [
+      -513,
+      -92
+    ],
+    "maindecoration4": "huodong-4100003-maindecoration-4.png",
+    "maincoordinate4": [
+      57,
+      -334
+    ],
+    "awardnormal": "huodong-4100003-awardnormal-%d.png",
+    "awardclaim": "huodong-4100001-awardclaim-%d.png",
+    "awardnum": 1,
+    "spawardnormal": "huodong-4100003-spawardnormal-%d.png",
+    "spawardclaim": "huodong-4100003-spawardclaim-%d.png",
+    "spawardnum": 1,
+    "bottommask": "huodong-4100001-bottommask.png"
+  },
+  {
+    "sn": 6,
+    "maintemplate": "UI-huodong-commonSignIn1",
+    "title": "huodong-4100003-title-i18n.png",
+    "introduction": [
+      5,
+      40,
+      2.5
+    ],
+    "background": "huodong-standby-background.png",
+    "maindecoration1": "",
+    "maincoordinate1": [],
+    "maindecoration2": "",
+    "maincoordinate2": [],
+    "maindecoration3": "",
+    "maincoordinate3": [],
+    "maindecoration4": "",
+    "maincoordinate4": [],
+    "awardnormal": "huodong-4100003-awardnormal-%d.png",
+    "awardclaim": "huodong-4100001-awardclaim-%d.png",
+    "awardnum": 1,
+    "spawardnormal": "huodong-4100003-spawardnormal-%d.png",
+    "spawardclaim": "huodong-4100003-spawardclaim-%d.png",
+    "spawardnum": 1,
+    "bottommask": "huodong-4100001-bottommask.png"
+  },
+  {
+    "sn": 7,
+    "maintemplate": "UI-huodong-liziPlan-signIn",
+    "title": "liziPlan-signIn-title1-i18n.png",
+    "introduction": [],
+    "background": "liziPlan-reward-bg01.png",
+    "maindecoration1": "liziPlan-signIn-bg03.png",
+    "maincoordinate1": [
+      0,
+      0
+    ],
+    "maindecoration2": "liziPlan-signIn-bg02.png",
+    "maincoordinate2": [
+      0,
+      0
+    ],
+    "maindecoration3": "",
+    "maincoordinate3": [],
+    "maindecoration4": "",
+    "maincoordinate4": [],
+    "awardnormal": "",
+    "awardclaim": "",
+    "awardnum": 0,
+    "spawardnormal": "",
+    "spawardclaim": "",
+    "spawardnum": 0,
+    "bottommask": ""
+  },
+  {
+    "sn": 8,
+    "maintemplate": "UI-huodong-commonSignIn1",
+    "title": "huodong-4100007-title-i18n.png",
+    "introduction": [
+      0,
+      0,
+      0
+    ],
+    "background": "huodong-4100007-background.png",
+    "maindecoration1": "",
+    "maincoordinate1": [],
+    "maindecoration2": "",
+    "maincoordinate2": [],
+    "maindecoration3": "",
+    "maincoordinate3": [],
+    "maindecoration4": "",
+    "maincoordinate4": [],
+    "awardnormal": "huodong-4100003-awardnormal-%d.png",
+    "awardclaim": "huodong-4100001-awardclaim-%d.png",
+    "awardnum": 1,
+    "spawardnormal": "huodong-4100003-spawardnormal-%d.png",
+    "spawardclaim": "huodong-4100003-spawardclaim-%d.png",
+    "spawardnum": 1,
+    "bottommask": "huodong-4100001-bottommask.png"
   }
 ]

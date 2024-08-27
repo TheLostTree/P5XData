@@ -20,7 +20,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5510206,
@@ -43,7 +44,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5510207,
@@ -66,7 +68,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5511205,
@@ -89,7 +92,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5511206,
@@ -112,7 +116,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5511208,
@@ -135,7 +140,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5513210,
@@ -158,7 +164,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5513211,
@@ -181,7 +188,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5513212,
@@ -204,7 +212,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5513213,
@@ -227,7 +236,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5514206,
@@ -250,7 +260,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5514207,
@@ -273,7 +284,8 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   },
   {
     "sn": 5514208,
@@ -296,6 +308,103 @@
       3
     ],
     "chaseR": 10,
-    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout"
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
+  },
+  {
+    "sn": 5520206,
+    "Des": "节制1隐形阴影01",
+    "PathPoint1": "335.2,54.22,175.29|384.7599,56.53,175.4701|364.92,52.42,113.79|329.33,50.50747,123.6",
+    "PatrolSpeed1": 500,
+    "patrolType": 3,
+    "chaseSpeed": 40,
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0,
+      0,
+      0
+    ],
+    "feelingR": [
+      12,
+      3
+    ],
+    "chaseR": 10,
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
+  },
+  {
+    "sn": 5520207,
+    "Des": "节制1隐形阴影02",
+    "PathPoint1": "264.08,64.52,379.91|274.7,66.93,400.961|339.7399,67.46,402.1501|378.4299,70.34,402.1501",
+    "PatrolSpeed1": 500,
+    "patrolType": 3,
+    "chaseSpeed": 40,
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0,
+      0,
+      0
+    ],
+    "feelingR": [
+      12,
+      3
+    ],
+    "chaseR": 10,
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
+  },
+  {
+    "sn": 5521044,
+    "Des": "节制2隐形阴影01",
+    "PathPoint1": "468.16,55.33,334.93|374.86,49.51,342.5499|373.1,46.37,287|427.907,52.357,278.4804",
+    "PatrolSpeed1": 500,
+    "patrolType": 3,
+    "chaseSpeed": 40,
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0,
+      0,
+      0
+    ],
+    "feelingR": [
+      12,
+      3
+    ],
+    "chaseR": 10,
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
+  },
+  {
+    "sn": 5522028,
+    "Des": "节制3隐形阴影01",
+    "PathPoint1": "319.5999,46.00027,524.4001|343.6599,49.3504,524.4003|366.93,49.3504,524.4003|364.45,49.3504,544.02|364.45,49.3504,568.25|364.45,49.3504,584.46|344.64,49.3504,588.3|337.68,49.3504,578.04",
+    "PatrolSpeed1": 500,
+    "patrolType": 3,
+    "chaseSpeed": 40,
+    "restTime": [
+      0,
+      0
+    ],
+    "sightR": [
+      0,
+      0,
+      0
+    ],
+    "feelingR": [
+      12,
+      3
+    ],
+    "chaseR": 10,
+    "TimeLinesn": "TL_yxkj_InvisibleShadow_Fadeout",
+    "IsIgnoreNavmesh": 1
   }
 ]

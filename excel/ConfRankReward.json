@@ -411,5 +411,477 @@
     "rankShow": "60%",
     "lastRank": 1,
     "reward": 208475
+  },
+  {
+    "sn": 36,
+    "rankText": "1等星5阶",
+    "rankGroup": 10,
+    "rankInterval": [
+      1
+    ],
+    "rankShow": "1%",
+    "lastRank": 0,
+    "reward": 208511
+  },
+  {
+    "sn": 37,
+    "rankText": "1等星4阶",
+    "rankGroup": 10,
+    "rankInterval": [
+      2,
+      10
+    ],
+    "rankShow": "2%-10%",
+    "lastRank": 0,
+    "reward": 208512
+  },
+  {
+    "sn": 38,
+    "rankText": "1等星3阶",
+    "rankGroup": 10,
+    "rankInterval": [
+      11,
+      30
+    ],
+    "rankShow": "11%-30%",
+    "lastRank": 0,
+    "reward": 208513
+  },
+  {
+    "sn": 39,
+    "rankText": "1等星2阶",
+    "rankGroup": 10,
+    "rankInterval": [
+      31,
+      60
+    ],
+    "rankShow": "31%-60%",
+    "lastRank": 0,
+    "reward": 208514
+  },
+  {
+    "sn": 40,
+    "rankText": "1等星1阶",
+    "rankGroup": 10,
+    "rankInterval": [
+      61,
+      100
+    ],
+    "rankShow": "60%",
+    "lastRank": 1,
+    "reward": 208515
+  },
+  {
+    "sn": 41,
+    "rankText": "2等星5阶",
+    "rankGroup": 20,
+    "rankInterval": [
+      1
+    ],
+    "rankShow": "1%",
+    "lastRank": 0,
+    "reward": 208521
+  },
+  {
+    "sn": 42,
+    "rankText": "2等星4阶",
+    "rankGroup": 20,
+    "rankInterval": [
+      2,
+      10
+    ],
+    "rankShow": "2%-10%",
+    "lastRank": 0,
+    "reward": 208522
+  },
+  {
+    "sn": 43,
+    "rankText": "2等星3阶",
+    "rankGroup": 20,
+    "rankInterval": [
+      11,
+      30
+    ],
+    "rankShow": "11%-30%",
+    "lastRank": 0,
+    "reward": 208523
+  },
+  {
+    "sn": 44,
+    "rankText": "2等星2阶",
+    "rankGroup": 20,
+    "rankInterval": [
+      31,
+      60
+    ],
+    "rankShow": "31%-60%",
+    "lastRank": 0,
+    "reward": 208524
+  },
+  {
+    "sn": 45,
+    "rankText": "2等星1阶",
+    "rankGroup": 20,
+    "rankInterval": [
+      61,
+      100
+    ],
+    "rankShow": "60%",
+    "lastRank": 1,
+    "reward": 208525
+  },
+  {
+    "sn": 46,
+    "rankText": "3等星5阶",
+    "rankGroup": 30,
+    "rankInterval": [
+      1
+    ],
+    "rankShow": "1%",
+    "lastRank": 0,
+    "reward": 208531
+  },
+  {
+    "sn": 47,
+    "rankText": "3等星4阶",
+    "rankGroup": 30,
+    "rankInterval": [
+      2,
+      10
+    ],
+    "rankShow": "2%-10%",
+    "lastRank": 0,
+    "reward": 208532
+  },
+  {
+    "sn": 48,
+    "rankText": "3等星3阶",
+    "rankGroup": 30,
+    "rankInterval": [
+      11,
+      30
+    ],
+    "rankShow": "11%-30%",
+    "lastRank": 0,
+    "reward": 208533
+  },
+  {
+    "sn": 49,
+    "rankText": "3等星2阶",
+    "rankGroup": 30,
+    "rankInterval": [
+      31,
+      60
+    ],
+    "rankShow": "31%-60%",
+    "lastRank": 0,
+    "reward": 208534
+  },
+  {
+    "sn": 50,
+    "rankText": "3等星1阶",
+    "rankGroup": 30,
+    "rankInterval": [
+      61,
+      100
+    ],
+    "rankShow": "60%",
+    "lastRank": 1,
+    "reward": 208535
+  },
+  {
+    "sn": 51,
+    "rankText": "4等星5阶",
+    "rankGroup": 40,
+    "rankInterval": [
+      1
+    ],
+    "rankShow": "1%",
+    "lastRank": 0,
+    "reward": 208541
+  },
+  {
+    "sn": 52,
+    "rankText": "4等星4阶",
+    "rankGroup": 40,
+    "rankInterval": [
+      2,
+      10
+    ],
+    "rankShow": "2%-10%",
+    "lastRank": 0,
+    "reward": 208542
+  },
+  {
+    "sn": 53,
+    "rankText": "4等星3阶",
+    "rankGroup": 40,
+    "rankInterval": [
+      11,
+      30
+    ],
+    "rankShow": "11%-30%",
+    "lastRank": 0,
+    "reward": 208543
+  },
+  {
+    "sn": 54,
+    "rankText": "4等星2阶",
+    "rankGroup": 40,
+    "rankInterval": [
+      31,
+      60
+    ],
+    "rankShow": "31%-60%",
+    "lastRank": 0,
+    "reward": 208544
+  },
+  {
+    "sn": 55,
+    "rankText": "4等星1阶",
+    "rankGroup": 40,
+    "rankInterval": [
+      61,
+      100
+    ],
+    "rankShow": "60%",
+    "lastRank": 1,
+    "reward": 208545
+  },
+  {
+    "sn": 56,
+    "rankText": "5等星5阶",
+    "rankGroup": 50,
+    "rankInterval": [
+      1
+    ],
+    "rankShow": "1%",
+    "lastRank": 0,
+    "reward": 208551
+  },
+  {
+    "sn": 57,
+    "rankText": "5等星4阶",
+    "rankGroup": 50,
+    "rankInterval": [
+      2,
+      10
+    ],
+    "rankShow": "2%-10%",
+    "lastRank": 0,
+    "reward": 208552
+  },
+  {
+    "sn": 58,
+    "rankText": "5等星3阶",
+    "rankGroup": 50,
+    "rankInterval": [
+      11,
+      30
+    ],
+    "rankShow": "11%-30%",
+    "lastRank": 0,
+    "reward": 208553
+  },
+  {
+    "sn": 59,
+    "rankText": "5等星2阶",
+    "rankGroup": 50,
+    "rankInterval": [
+      31,
+      60
+    ],
+    "rankShow": "31%-60%",
+    "lastRank": 0,
+    "reward": 208554
+  },
+  {
+    "sn": 60,
+    "rankText": "5等星1阶",
+    "rankGroup": 50,
+    "rankInterval": [
+      61,
+      100
+    ],
+    "rankShow": "60%",
+    "lastRank": 1,
+    "reward": 208555
+  },
+  {
+    "sn": 61,
+    "rankText": "6等星5阶",
+    "rankGroup": 60,
+    "rankInterval": [
+      1
+    ],
+    "rankShow": "1%",
+    "lastRank": 0,
+    "reward": 208561
+  },
+  {
+    "sn": 62,
+    "rankText": "6等星4阶",
+    "rankGroup": 60,
+    "rankInterval": [
+      2,
+      10
+    ],
+    "rankShow": "2%-10%",
+    "lastRank": 0,
+    "reward": 208562
+  },
+  {
+    "sn": 63,
+    "rankText": "6等星3阶",
+    "rankGroup": 60,
+    "rankInterval": [
+      11,
+      30
+    ],
+    "rankShow": "11%-30%",
+    "lastRank": 0,
+    "reward": 208563
+  },
+  {
+    "sn": 64,
+    "rankText": "6等星2阶",
+    "rankGroup": 60,
+    "rankInterval": [
+      31,
+      60
+    ],
+    "rankShow": "31%-60%",
+    "lastRank": 0,
+    "reward": 208564
+  },
+  {
+    "sn": 65,
+    "rankText": "6等星1阶",
+    "rankGroup": 60,
+    "rankInterval": [
+      61,
+      100
+    ],
+    "rankShow": "60%",
+    "lastRank": 1,
+    "reward": 208565
+  },
+  {
+    "sn": 66,
+    "rankText": "7等星5阶",
+    "rankGroup": 70,
+    "rankInterval": [
+      1
+    ],
+    "rankShow": "1%",
+    "lastRank": 0,
+    "reward": 208571
+  },
+  {
+    "sn": 67,
+    "rankText": "7等星4阶",
+    "rankGroup": 70,
+    "rankInterval": [
+      2,
+      10
+    ],
+    "rankShow": "2%-10%",
+    "lastRank": 0,
+    "reward": 208572
+  },
+  {
+    "sn": 68,
+    "rankText": "7等星3阶",
+    "rankGroup": 70,
+    "rankInterval": [
+      11,
+      30
+    ],
+    "rankShow": "11%-30%",
+    "lastRank": 0,
+    "reward": 208573
+  },
+  {
+    "sn": 69,
+    "rankText": "7等星2阶",
+    "rankGroup": 70,
+    "rankInterval": [
+      31,
+      60
+    ],
+    "rankShow": "31%-60%",
+    "lastRank": 0,
+    "reward": 208574
+  },
+  {
+    "sn": 70,
+    "rankText": "7等星1阶",
+    "rankGroup": 70,
+    "rankInterval": [
+      61,
+      100
+    ],
+    "rankShow": "60%",
+    "lastRank": 1,
+    "reward": 208575
+  },
+  {
+    "sn": 71,
+    "rankText": "8等星5阶",
+    "rankGroup": 80,
+    "rankInterval": [
+      1
+    ],
+    "rankShow": "1%",
+    "lastRank": 0,
+    "reward": 208581
+  },
+  {
+    "sn": 72,
+    "rankText": "8等星4阶",
+    "rankGroup": 80,
+    "rankInterval": [
+      2,
+      10
+    ],
+    "rankShow": "2%-10%",
+    "lastRank": 0,
+    "reward": 208582
+  },
+  {
+    "sn": 73,
+    "rankText": "8等星3阶",
+    "rankGroup": 80,
+    "rankInterval": [
+      11,
+      30
+    ],
+    "rankShow": "11%-30%",
+    "lastRank": 0,
+    "reward": 208583
+  },
+  {
+    "sn": 74,
+    "rankText": "8等星2阶",
+    "rankGroup": 80,
+    "rankInterval": [
+      31,
+      50
+    ],
+    "rankShow": "31%-50%",
+    "lastRank": 0,
+    "reward": 208584
+  },
+  {
+    "sn": 75,
+    "rankText": "8等星1阶",
+    "rankGroup": 80,
+    "rankInterval": [
+      51,
+      100
+    ],
+    "rankShow": "50%",
+    "lastRank": 1,
+    "reward": 208585
   }
 ]

@@ -14,6 +14,62 @@
     "isMain": 0
   },
   {
+    "sn": 200,
+    "monsterGroup": 800,
+    "position": 1,
+    "monster": [
+      2014
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 300,
+    "monsterGroup": 800,
+    "position": 2,
+    "monster": [
+      2015
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 400,
+    "monsterGroup": 800,
+    "position": 3,
+    "monster": [
+      2016
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 500,
+    "monsterGroup": 800,
+    "position": 4,
+    "monster": [
+      2017
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
     "sn": 600,
     "monsterGroup": 801,
     "position": 1,
@@ -2802,9 +2858,9 @@
   {
     "sn": 20500,
     "monsterGroup": 1006,
-    "position": 1,
+    "position": 3,
     "monster": [
-      112
+      10061
     ],
     "weight": [
       1
@@ -2816,9 +2872,9 @@
   {
     "sn": 20600,
     "monsterGroup": 1006,
-    "position": 2,
+    "position": 4,
     "monster": [
-      113
+      10062
     ],
     "weight": [
       1
@@ -2830,9 +2886,37 @@
   {
     "sn": 20700,
     "monsterGroup": 1006,
-    "position": 3,
+    "position": 5,
     "monster": [
-      114
+      10062
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 20701,
+    "monsterGroup": 1006,
+    "position": 1,
+    "monster": [
+      10062
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 20702,
+    "monsterGroup": 1006,
+    "position": 2,
+    "monster": [
+      10061
     ],
     "weight": [
       1
@@ -37562,6 +37646,20 @@
     "isMain": 0
   },
   {
+    "sn": 268705,
+    "monsterGroup": 60011,
+    "position": 1,
+    "monster": [
+      600111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
     "sn": 268800,
     "monsterGroup": 70101,
     "position": 1,
@@ -39592,6 +39690,34 @@
     "isMain": 0
   },
   {
+    "sn": 283210,
+    "monsterGroup": 73311,
+    "position": 2,
+    "monster": [
+      733131
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 283220,
+    "monsterGroup": 73311,
+    "position": 3,
+    "monster": [
+      733132
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
     "sn": 283300,
     "monsterGroup": 73411,
     "position": 1,
@@ -39611,6 +39737,48 @@
     "position": 1,
     "monster": [
       735111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 283405,
+    "monsterGroup": 73611,
+    "position": 1,
+    "monster": [
+      736111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 283410,
+    "monsterGroup": 73711,
+    "position": 1,
+    "monster": [
+      737111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 283415,
+    "monsterGroup": 73811,
+    "position": 1,
+    "monster": [
+      738111
     ],
     "weight": [
       1
@@ -61894,6 +62062,90 @@
     "isMain": 0
   },
   {
+    "sn": 440521,
+    "monsterGroup": 75311,
+    "position": 1,
+    "monster": [
+      753111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 440522,
+    "monsterGroup": 75311,
+    "position": 2,
+    "monster": [
+      753112
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 440523,
+    "monsterGroup": 75312,
+    "position": 1,
+    "monster": [
+      753121
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 440524,
+    "monsterGroup": 75313,
+    "position": 1,
+    "monster": [
+      753133
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 440525,
+    "monsterGroup": 75313,
+    "position": 2,
+    "monster": [
+      753131
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 440526,
+    "monsterGroup": 75313,
+    "position": 3,
+    "monster": [
+      753132
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
     "sn": 440600,
     "monsterGroup": 90011,
     "position": 1,
@@ -71778,6 +72030,426 @@
     "isMain": 0
   },
   {
+    "sn": 515000,
+    "monsterGroup": 91250,
+    "position": 1,
+    "monster": [
+      912501
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515010,
+    "monsterGroup": 91250,
+    "position": 2,
+    "monster": [
+      912502
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515020,
+    "monsterGroup": 91250,
+    "position": 3,
+    "monster": [
+      912503
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515030,
+    "monsterGroup": 91250,
+    "position": 4,
+    "monster": [
+      912504
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515500,
+    "monsterGroup": 91291,
+    "position": 1,
+    "monster": [
+      912911
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515510,
+    "monsterGroup": 91291,
+    "position": 2,
+    "monster": [
+      912912
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515520,
+    "monsterGroup": 91291,
+    "position": 3,
+    "monster": [
+      912913
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515530,
+    "monsterGroup": 91291,
+    "position": 4,
+    "monster": [
+      912914
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515540,
+    "monsterGroup": 91292,
+    "position": 1,
+    "monster": [
+      912921
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515550,
+    "monsterGroup": 91292,
+    "position": 2,
+    "monster": [
+      912922
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515560,
+    "monsterGroup": 91292,
+    "position": 3,
+    "monster": [
+      912923
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515570,
+    "monsterGroup": 91292,
+    "position": 4,
+    "monster": [
+      912924
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515580,
+    "monsterGroup": 91293,
+    "position": 1,
+    "monster": [
+      912931
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515590,
+    "monsterGroup": 91293,
+    "position": 2,
+    "monster": [
+      912932
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515600,
+    "monsterGroup": 91293,
+    "position": 3,
+    "monster": [
+      912933
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515610,
+    "monsterGroup": 91293,
+    "position": 4,
+    "monster": [
+      912934
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515620,
+    "monsterGroup": 91294,
+    "position": 1,
+    "monster": [
+      912941
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515630,
+    "monsterGroup": 91294,
+    "position": 2,
+    "monster": [
+      912942
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515640,
+    "monsterGroup": 91294,
+    "position": 3,
+    "monster": [
+      912943
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515650,
+    "monsterGroup": 91294,
+    "position": 4,
+    "monster": [
+      912944
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515660,
+    "monsterGroup": 91295,
+    "position": 1,
+    "monster": [
+      912951
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515670,
+    "monsterGroup": 91295,
+    "position": 2,
+    "monster": [
+      912952
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515680,
+    "monsterGroup": 91295,
+    "position": 3,
+    "monster": [
+      912953
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515690,
+    "monsterGroup": 91295,
+    "position": 4,
+    "monster": [
+      912954
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515700,
+    "monsterGroup": 91296,
+    "position": 1,
+    "monster": [
+      912961
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515710,
+    "monsterGroup": 91296,
+    "position": 2,
+    "monster": [
+      912962
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515720,
+    "monsterGroup": 91296,
+    "position": 3,
+    "monster": [
+      912963
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515730,
+    "monsterGroup": 91296,
+    "position": 4,
+    "monster": [
+      912964
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515740,
+    "monsterGroup": 91205,
+    "position": 2,
+    "monster": [
+      912052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 515750,
+    "monsterGroup": 91205,
+    "position": 3,
+    "monster": [
+      912053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
     "sn": 516010,
     "monsterGroup": 92001,
     "position": 1,
@@ -71825,6 +72497,11346 @@
     "position": 1,
     "monster": [
       920021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 516050,
+    "monsterGroup": 92011,
+    "position": 1,
+    "monster": [
+      920111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 516060,
+    "monsterGroup": 92011,
+    "position": 2,
+    "monster": [
+      920112
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 516070,
+    "monsterGroup": 92011,
+    "position": 3,
+    "monster": [
+      920113
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 516080,
+    "monsterGroup": 92011,
+    "position": 4,
+    "monster": [
+      920114
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 516090,
+    "monsterGroup": 92011,
+    "position": 5,
+    "monster": [
+      920115
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517010,
+    "monsterGroup": 91201,
+    "position": 1,
+    "monster": [
+      912011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517020,
+    "monsterGroup": 91202,
+    "position": 1,
+    "monster": [
+      912021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517030,
+    "monsterGroup": 91202,
+    "position": 2,
+    "monster": [
+      912022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517040,
+    "monsterGroup": 91202,
+    "position": 3,
+    "monster": [
+      912023
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517050,
+    "monsterGroup": 91203,
+    "position": 1,
+    "monster": [
+      912031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517080,
+    "monsterGroup": 91204,
+    "position": 1,
+    "monster": [
+      912041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517090,
+    "monsterGroup": 91204,
+    "position": 2,
+    "monster": [
+      912042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517100,
+    "monsterGroup": 91205,
+    "position": 1,
+    "monster": [
+      912051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517110,
+    "monsterGroup": 91208,
+    "position": 1,
+    "monster": [
+      912081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517120,
+    "monsterGroup": 91208,
+    "position": 2,
+    "monster": [
+      912082
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517130,
+    "monsterGroup": 91209,
+    "position": 1,
+    "monster": [
+      912091
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517140,
+    "monsterGroup": 91216,
+    "position": 1,
+    "monster": [
+      912161
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517150,
+    "monsterGroup": 91216,
+    "position": 2,
+    "monster": [
+      912162
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517160,
+    "monsterGroup": 91217,
+    "position": 1,
+    "monster": [
+      912171
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517170,
+    "monsterGroup": 91217,
+    "position": 2,
+    "monster": [
+      912172
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517180,
+    "monsterGroup": 91217,
+    "position": 3,
+    "monster": [
+      912173
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517190,
+    "monsterGroup": 91218,
+    "position": 1,
+    "monster": [
+      912181
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517200,
+    "monsterGroup": 91218,
+    "position": 2,
+    "monster": [
+      912182
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517210,
+    "monsterGroup": 91219,
+    "position": 1,
+    "monster": [
+      912191
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517220,
+    "monsterGroup": 91219,
+    "position": 2,
+    "monster": [
+      912192
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517230,
+    "monsterGroup": 91220,
+    "position": 1,
+    "monster": [
+      912201
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517240,
+    "monsterGroup": 91220,
+    "position": 2,
+    "monster": [
+      912202
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517250,
+    "monsterGroup": 91231,
+    "position": 1,
+    "monster": [
+      912311
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517260,
+    "monsterGroup": 91231,
+    "position": 2,
+    "monster": [
+      912312
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517270,
+    "monsterGroup": 91231,
+    "position": 3,
+    "monster": [
+      912313
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517280,
+    "monsterGroup": 91232,
+    "position": 1,
+    "monster": [
+      912321
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517290,
+    "monsterGroup": 91232,
+    "position": 2,
+    "monster": [
+      912322
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517300,
+    "monsterGroup": 91232,
+    "position": 3,
+    "monster": [
+      912323
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517310,
+    "monsterGroup": 91233,
+    "position": 1,
+    "monster": [
+      912331
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517320,
+    "monsterGroup": 91233,
+    "position": 2,
+    "monster": [
+      912332
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517330,
+    "monsterGroup": 91234,
+    "position": 1,
+    "monster": [
+      912341
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517340,
+    "monsterGroup": 91234,
+    "position": 2,
+    "monster": [
+      912342
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517350,
+    "monsterGroup": 91234,
+    "position": 3,
+    "monster": [
+      912343
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517360,
+    "monsterGroup": 91235,
+    "position": 1,
+    "monster": [
+      912351
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517370,
+    "monsterGroup": 91235,
+    "position": 2,
+    "monster": [
+      912352
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517380,
+    "monsterGroup": 91235,
+    "position": 3,
+    "monster": [
+      912353
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517390,
+    "monsterGroup": 91236,
+    "position": 1,
+    "monster": [
+      912361
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517400,
+    "monsterGroup": 91237,
+    "position": 1,
+    "monster": [
+      912371
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517410,
+    "monsterGroup": 91237,
+    "position": 2,
+    "monster": [
+      912372
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517420,
+    "monsterGroup": 91238,
+    "position": 1,
+    "monster": [
+      912381
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517430,
+    "monsterGroup": 91238,
+    "position": 2,
+    "monster": [
+      912382
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517440,
+    "monsterGroup": 91239,
+    "position": 1,
+    "monster": [
+      912391
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517450,
+    "monsterGroup": 91251,
+    "position": 1,
+    "monster": [
+      912511
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517460,
+    "monsterGroup": 91251,
+    "position": 2,
+    "monster": [
+      912512
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517470,
+    "monsterGroup": 91251,
+    "position": 3,
+    "monster": [
+      912513
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517480,
+    "monsterGroup": 91251,
+    "position": 4,
+    "monster": [
+      912514
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517490,
+    "monsterGroup": 91251,
+    "position": 5,
+    "monster": [
+      912515
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517500,
+    "monsterGroup": 91252,
+    "position": 1,
+    "monster": [
+      912521
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517510,
+    "monsterGroup": 91252,
+    "position": 2,
+    "monster": [
+      912522
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517520,
+    "monsterGroup": 91252,
+    "position": 3,
+    "monster": [
+      912523
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517530,
+    "monsterGroup": 91253,
+    "position": 1,
+    "monster": [
+      912531
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517540,
+    "monsterGroup": 91253,
+    "position": 2,
+    "monster": [
+      912532
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517550,
+    "monsterGroup": 91253,
+    "position": 3,
+    "monster": [
+      912533
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517560,
+    "monsterGroup": 91254,
+    "position": 1,
+    "monster": [
+      912541
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517570,
+    "monsterGroup": 91254,
+    "position": 2,
+    "monster": [
+      912542
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517580,
+    "monsterGroup": 91255,
+    "position": 1,
+    "monster": [
+      912551
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517590,
+    "monsterGroup": 91255,
+    "position": 2,
+    "monster": [
+      912552
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517600,
+    "monsterGroup": 91256,
+    "position": 1,
+    "monster": [
+      912561
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517610,
+    "monsterGroup": 91257,
+    "position": 1,
+    "monster": [
+      912571
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517620,
+    "monsterGroup": 91257,
+    "position": 2,
+    "monster": [
+      912572
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517630,
+    "monsterGroup": 91258,
+    "position": 1,
+    "monster": [
+      912581
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517640,
+    "monsterGroup": 91258,
+    "position": 2,
+    "monster": [
+      912582
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517650,
+    "monsterGroup": 91258,
+    "position": 3,
+    "monster": [
+      912583
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517660,
+    "monsterGroup": 91259,
+    "position": 1,
+    "monster": [
+      912591
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517670,
+    "monsterGroup": 91259,
+    "position": 2,
+    "monster": [
+      912592
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517680,
+    "monsterGroup": 91260,
+    "position": 1,
+    "monster": [
+      912601
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517690,
+    "monsterGroup": 91261,
+    "position": 1,
+    "monster": [
+      912611
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517700,
+    "monsterGroup": 91261,
+    "position": 2,
+    "monster": [
+      912612
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517710,
+    "monsterGroup": 91262,
+    "position": 1,
+    "monster": [
+      912621
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517720,
+    "monsterGroup": 91262,
+    "position": 2,
+    "monster": [
+      912622
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517730,
+    "monsterGroup": 91263,
+    "position": 1,
+    "monster": [
+      912631
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517740,
+    "monsterGroup": 91263,
+    "position": 2,
+    "monster": [
+      912632
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517750,
+    "monsterGroup": 91264,
+    "position": 1,
+    "monster": [
+      912641
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517760,
+    "monsterGroup": 91264,
+    "position": 2,
+    "monster": [
+      912642
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517770,
+    "monsterGroup": 91264,
+    "position": 3,
+    "monster": [
+      912643
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517780,
+    "monsterGroup": 91265,
+    "position": 1,
+    "monster": [
+      912651
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517790,
+    "monsterGroup": 91265,
+    "position": 2,
+    "monster": [
+      912652
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517800,
+    "monsterGroup": 91265,
+    "position": 3,
+    "monster": [
+      912653
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517810,
+    "monsterGroup": 91266,
+    "position": 1,
+    "monster": [
+      912661
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517820,
+    "monsterGroup": 91266,
+    "position": 2,
+    "monster": [
+      912662
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517830,
+    "monsterGroup": 91267,
+    "position": 1,
+    "monster": [
+      912671
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517840,
+    "monsterGroup": 91267,
+    "position": 2,
+    "monster": [
+      912672
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517850,
+    "monsterGroup": 91268,
+    "position": 1,
+    "monster": [
+      912681
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517860,
+    "monsterGroup": 91268,
+    "position": 2,
+    "monster": [
+      912682
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517870,
+    "monsterGroup": 91268,
+    "position": 3,
+    "monster": [
+      912683
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517880,
+    "monsterGroup": 91269,
+    "position": 1,
+    "monster": [
+      912691
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517890,
+    "monsterGroup": 91269,
+    "position": 2,
+    "monster": [
+      912692
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517900,
+    "monsterGroup": 91269,
+    "position": 3,
+    "monster": [
+      912693
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517910,
+    "monsterGroup": 91270,
+    "position": 1,
+    "monster": [
+      912701
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517920,
+    "monsterGroup": 91270,
+    "position": 2,
+    "monster": [
+      912702
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517930,
+    "monsterGroup": 91271,
+    "position": 1,
+    "monster": [
+      912711
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517940,
+    "monsterGroup": 91271,
+    "position": 2,
+    "monster": [
+      912712
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517950,
+    "monsterGroup": 91271,
+    "position": 3,
+    "monster": [
+      912713
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517980,
+    "monsterGroup": 91272,
+    "position": 1,
+    "monster": [
+      912721
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 517990,
+    "monsterGroup": 91272,
+    "position": 2,
+    "monster": [
+      912722
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518000,
+    "monsterGroup": 91273,
+    "position": 1,
+    "monster": [
+      912731
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518010,
+    "monsterGroup": 91273,
+    "position": 2,
+    "monster": [
+      912732
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518020,
+    "monsterGroup": 91273,
+    "position": 3,
+    "monster": [
+      912733
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518030,
+    "monsterGroup": 91274,
+    "position": 1,
+    "monster": [
+      912741
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518040,
+    "monsterGroup": 91274,
+    "position": 2,
+    "monster": [
+      912742
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518050,
+    "monsterGroup": 91275,
+    "position": 1,
+    "monster": [
+      912751
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518060,
+    "monsterGroup": 91275,
+    "position": 2,
+    "monster": [
+      912752
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518070,
+    "monsterGroup": 91275,
+    "position": 3,
+    "monster": [
+      912753
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518080,
+    "monsterGroup": 91276,
+    "position": 1,
+    "monster": [
+      912761
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518090,
+    "monsterGroup": 91276,
+    "position": 2,
+    "monster": [
+      912762
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518100,
+    "monsterGroup": 91276,
+    "position": 3,
+    "monster": [
+      912763
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518110,
+    "monsterGroup": 91277,
+    "position": 1,
+    "monster": [
+      912771
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518120,
+    "monsterGroup": 91277,
+    "position": 2,
+    "monster": [
+      912772
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518130,
+    "monsterGroup": 91278,
+    "position": 1,
+    "monster": [
+      912781
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518140,
+    "monsterGroup": 91278,
+    "position": 2,
+    "monster": [
+      912782
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518150,
+    "monsterGroup": 91279,
+    "position": 1,
+    "monster": [
+      912791
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518160,
+    "monsterGroup": 91280,
+    "position": 1,
+    "monster": [
+      912801
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518170,
+    "monsterGroup": 91280,
+    "position": 2,
+    "monster": [
+      912802
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518180,
+    "monsterGroup": 91288,
+    "position": 1,
+    "monster": [
+      912881
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518190,
+    "monsterGroup": 91288,
+    "position": 2,
+    "monster": [
+      912882
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518200,
+    "monsterGroup": 91288,
+    "position": 3,
+    "monster": [
+      912883
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518210,
+    "monsterGroup": 91288,
+    "position": 4,
+    "monster": [
+      912884
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518220,
+    "monsterGroup": 91288,
+    "position": 5,
+    "monster": [
+      912885
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518230,
+    "monsterGroup": 91281,
+    "position": 1,
+    "monster": [
+      912811
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518240,
+    "monsterGroup": 91281,
+    "position": 2,
+    "monster": [
+      912812
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518250,
+    "monsterGroup": 91282,
+    "position": 1,
+    "monster": [
+      912821
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518260,
+    "monsterGroup": 91283,
+    "position": 1,
+    "monster": [
+      912831
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518270,
+    "monsterGroup": 91283,
+    "position": 2,
+    "monster": [
+      912832
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518280,
+    "monsterGroup": 91283,
+    "position": 3,
+    "monster": [
+      912833
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518290,
+    "monsterGroup": 91286,
+    "position": 4,
+    "monster": [
+      912864
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518300,
+    "monsterGroup": 91286,
+    "position": 5,
+    "monster": [
+      912865
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518310,
+    "monsterGroup": 91284,
+    "position": 1,
+    "monster": [
+      912841
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518320,
+    "monsterGroup": 91284,
+    "position": 2,
+    "monster": [
+      912842
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518330,
+    "monsterGroup": 91284,
+    "position": 3,
+    "monster": [
+      912843
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518340,
+    "monsterGroup": 91285,
+    "position": 1,
+    "monster": [
+      912851
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518350,
+    "monsterGroup": 91285,
+    "position": 2,
+    "monster": [
+      912852
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518360,
+    "monsterGroup": 91286,
+    "position": 1,
+    "monster": [
+      912861
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518370,
+    "monsterGroup": 91286,
+    "position": 2,
+    "monster": [
+      912862
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518380,
+    "monsterGroup": 91286,
+    "position": 3,
+    "monster": [
+      912863
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518390,
+    "monsterGroup": 91287,
+    "position": 1,
+    "monster": [
+      912871
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518400,
+    "monsterGroup": 91287,
+    "position": 2,
+    "monster": [
+      912872
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518410,
+    "monsterGroup": 91287,
+    "position": 3,
+    "monster": [
+      912873
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518420,
+    "monsterGroup": 91240,
+    "position": 1,
+    "monster": [
+      912401
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518430,
+    "monsterGroup": 91240,
+    "position": 2,
+    "monster": [
+      912402
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518440,
+    "monsterGroup": 91241,
+    "position": 1,
+    "monster": [
+      912411
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518450,
+    "monsterGroup": 91242,
+    "position": 1,
+    "monster": [
+      912421
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518510,
+    "monsterGroup": 50401,
+    "position": 1,
+    "monster": [
+      504011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518520,
+    "monsterGroup": 50401,
+    "position": 2,
+    "monster": [
+      504012
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518530,
+    "monsterGroup": 50401,
+    "position": 3,
+    "monster": [
+      504013
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518540,
+    "monsterGroup": 50401,
+    "position": 4,
+    "monster": [
+      504014
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518550,
+    "monsterGroup": 50402,
+    "position": 1,
+    "monster": [
+      504021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518560,
+    "monsterGroup": 50402,
+    "position": 2,
+    "monster": [
+      504022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518570,
+    "monsterGroup": 50402,
+    "position": 3,
+    "monster": [
+      504023
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518580,
+    "monsterGroup": 50402,
+    "position": 4,
+    "monster": [
+      504024
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518590,
+    "monsterGroup": 50403,
+    "position": 1,
+    "monster": [
+      504031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518600,
+    "monsterGroup": 50404,
+    "position": 1,
+    "monster": [
+      504041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518610,
+    "monsterGroup": 50404,
+    "position": 2,
+    "monster": [
+      504042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518620,
+    "monsterGroup": 50404,
+    "position": 3,
+    "monster": [
+      504043
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518630,
+    "monsterGroup": 50404,
+    "position": 4,
+    "monster": [
+      504044
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518640,
+    "monsterGroup": 50405,
+    "position": 1,
+    "monster": [
+      504051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518650,
+    "monsterGroup": 50405,
+    "position": 2,
+    "monster": [
+      504052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518660,
+    "monsterGroup": 50405,
+    "position": 3,
+    "monster": [
+      504053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518670,
+    "monsterGroup": 50405,
+    "position": 4,
+    "monster": [
+      504054
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518680,
+    "monsterGroup": 50406,
+    "position": 1,
+    "monster": [
+      504061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518690,
+    "monsterGroup": 50407,
+    "position": 1,
+    "monster": [
+      504071
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518700,
+    "monsterGroup": 50408,
+    "position": 1,
+    "monster": [
+      504081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518710,
+    "monsterGroup": 50409,
+    "position": 1,
+    "monster": [
+      504091
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518720,
+    "monsterGroup": 50410,
+    "position": 1,
+    "monster": [
+      504101
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518730,
+    "monsterGroup": 50410,
+    "position": 2,
+    "monster": [
+      504102
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518740,
+    "monsterGroup": 50410,
+    "position": 3,
+    "monster": [
+      504103
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518750,
+    "monsterGroup": 50410,
+    "position": 4,
+    "monster": [
+      504104
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518760,
+    "monsterGroup": 50411,
+    "position": 1,
+    "monster": [
+      504111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518770,
+    "monsterGroup": 63214,
+    "position": 1,
+    "monster": [
+      632141
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518810,
+    "monsterGroup": 91301,
+    "position": 1,
+    "monster": [
+      913011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518830,
+    "monsterGroup": 91302,
+    "position": 1,
+    "monster": [
+      913021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518840,
+    "monsterGroup": 91302,
+    "position": 2,
+    "monster": [
+      913022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518850,
+    "monsterGroup": 91302,
+    "position": 3,
+    "monster": [
+      913023
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518860,
+    "monsterGroup": 91303,
+    "position": 1,
+    "monster": [
+      913031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518870,
+    "monsterGroup": 91303,
+    "position": 2,
+    "monster": [
+      913032
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518880,
+    "monsterGroup": 91303,
+    "position": 3,
+    "monster": [
+      913033
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518890,
+    "monsterGroup": 91304,
+    "position": 1,
+    "monster": [
+      913041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518900,
+    "monsterGroup": 91304,
+    "position": 2,
+    "monster": [
+      913042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518910,
+    "monsterGroup": 91304,
+    "position": 3,
+    "monster": [
+      913043
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518920,
+    "monsterGroup": 91305,
+    "position": 1,
+    "monster": [
+      913051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518930,
+    "monsterGroup": 91305,
+    "position": 2,
+    "monster": [
+      913052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518940,
+    "monsterGroup": 91305,
+    "position": 3,
+    "monster": [
+      913053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518950,
+    "monsterGroup": 91306,
+    "position": 1,
+    "monster": [
+      913061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518960,
+    "monsterGroup": 91306,
+    "position": 2,
+    "monster": [
+      913062
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518970,
+    "monsterGroup": 91306,
+    "position": 3,
+    "monster": [
+      913063
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518980,
+    "monsterGroup": 91307,
+    "position": 1,
+    "monster": [
+      913071
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 518990,
+    "monsterGroup": 91307,
+    "position": 2,
+    "monster": [
+      913072
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519000,
+    "monsterGroup": 91307,
+    "position": 3,
+    "monster": [
+      913073
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519010,
+    "monsterGroup": 91308,
+    "position": 1,
+    "monster": [
+      913081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519020,
+    "monsterGroup": 91308,
+    "position": 2,
+    "monster": [
+      913082
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519030,
+    "monsterGroup": 91308,
+    "position": 3,
+    "monster": [
+      913083
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519040,
+    "monsterGroup": 91309,
+    "position": 1,
+    "monster": [
+      913091
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519050,
+    "monsterGroup": 91350,
+    "position": 1,
+    "monster": [
+      913501
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519060,
+    "monsterGroup": 91350,
+    "position": 2,
+    "monster": [
+      913502
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519080,
+    "monsterGroup": 91321,
+    "position": 1,
+    "monster": [
+      913211
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519090,
+    "monsterGroup": 91321,
+    "position": 2,
+    "monster": [
+      913212
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519100,
+    "monsterGroup": 91322,
+    "position": 1,
+    "monster": [
+      913221
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519110,
+    "monsterGroup": 91322,
+    "position": 2,
+    "monster": [
+      913222
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519120,
+    "monsterGroup": 91323,
+    "position": 1,
+    "monster": [
+      913231
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519130,
+    "monsterGroup": 91323,
+    "position": 2,
+    "monster": [
+      913232
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519140,
+    "monsterGroup": 91323,
+    "position": 3,
+    "monster": [
+      913233
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519150,
+    "monsterGroup": 91324,
+    "position": 1,
+    "monster": [
+      913241
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519160,
+    "monsterGroup": 91324,
+    "position": 2,
+    "monster": [
+      913242
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519170,
+    "monsterGroup": 91324,
+    "position": 3,
+    "monster": [
+      913243
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519180,
+    "monsterGroup": 91325,
+    "position": 1,
+    "monster": [
+      913251
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519190,
+    "monsterGroup": 91325,
+    "position": 2,
+    "monster": [
+      913252
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519200,
+    "monsterGroup": 91325,
+    "position": 3,
+    "monster": [
+      913253
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519210,
+    "monsterGroup": 91331,
+    "position": 1,
+    "monster": [
+      913311
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519220,
+    "monsterGroup": 91332,
+    "position": 1,
+    "monster": [
+      913321
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519230,
+    "monsterGroup": 91333,
+    "position": 1,
+    "monster": [
+      913331
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519240,
+    "monsterGroup": 91334,
+    "position": 1,
+    "monster": [
+      913341
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519250,
+    "monsterGroup": 91335,
+    "position": 1,
+    "monster": [
+      913351
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519260,
+    "monsterGroup": 91351,
+    "position": 1,
+    "monster": [
+      913511
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519270,
+    "monsterGroup": 91351,
+    "position": 2,
+    "monster": [
+      913512
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519280,
+    "monsterGroup": 91351,
+    "position": 3,
+    "monster": [
+      913513
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519290,
+    "monsterGroup": 91352,
+    "position": 1,
+    "monster": [
+      913521
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519300,
+    "monsterGroup": 91352,
+    "position": 2,
+    "monster": [
+      913522
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519310,
+    "monsterGroup": 91352,
+    "position": 3,
+    "monster": [
+      913523
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519320,
+    "monsterGroup": 91353,
+    "position": 1,
+    "monster": [
+      913531
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519330,
+    "monsterGroup": 91353,
+    "position": 2,
+    "monster": [
+      913532
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519340,
+    "monsterGroup": 91353,
+    "position": 3,
+    "monster": [
+      913533
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519350,
+    "monsterGroup": 91354,
+    "position": 1,
+    "monster": [
+      913541
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519360,
+    "monsterGroup": 91354,
+    "position": 2,
+    "monster": [
+      913542
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519370,
+    "monsterGroup": 91354,
+    "position": 3,
+    "monster": [
+      913543
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519380,
+    "monsterGroup": 91355,
+    "position": 1,
+    "monster": [
+      913551
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519390,
+    "monsterGroup": 91355,
+    "position": 2,
+    "monster": [
+      913552
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519400,
+    "monsterGroup": 91356,
+    "position": 1,
+    "monster": [
+      913561
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519410,
+    "monsterGroup": 91356,
+    "position": 2,
+    "monster": [
+      913562
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519420,
+    "monsterGroup": 91356,
+    "position": 3,
+    "monster": [
+      913563
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519430,
+    "monsterGroup": 91357,
+    "position": 1,
+    "monster": [
+      913571
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519440,
+    "monsterGroup": 91357,
+    "position": 2,
+    "monster": [
+      913572
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519450,
+    "monsterGroup": 91357,
+    "position": 3,
+    "monster": [
+      913573
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519460,
+    "monsterGroup": 91358,
+    "position": 1,
+    "monster": [
+      913581
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519470,
+    "monsterGroup": 91358,
+    "position": 2,
+    "monster": [
+      913582
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519480,
+    "monsterGroup": 91359,
+    "position": 1,
+    "monster": [
+      913591
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519490,
+    "monsterGroup": 91359,
+    "position": 2,
+    "monster": [
+      913592
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519500,
+    "monsterGroup": 91359,
+    "position": 3,
+    "monster": [
+      913593
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519510,
+    "monsterGroup": 91359,
+    "position": 4,
+    "monster": [
+      913594
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519520,
+    "monsterGroup": 91360,
+    "position": 1,
+    "monster": [
+      913601
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519530,
+    "monsterGroup": 91360,
+    "position": 2,
+    "monster": [
+      913602
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519540,
+    "monsterGroup": 91361,
+    "position": 1,
+    "monster": [
+      913611
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519550,
+    "monsterGroup": 91361,
+    "position": 2,
+    "monster": [
+      913612
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519560,
+    "monsterGroup": 91361,
+    "position": 3,
+    "monster": [
+      913613
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519570,
+    "monsterGroup": 91362,
+    "position": 1,
+    "monster": [
+      913621
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519580,
+    "monsterGroup": 91362,
+    "position": 2,
+    "monster": [
+      913622
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519590,
+    "monsterGroup": 91362,
+    "position": 3,
+    "monster": [
+      913623
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519600,
+    "monsterGroup": 91363,
+    "position": 1,
+    "monster": [
+      913631
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519610,
+    "monsterGroup": 91363,
+    "position": 2,
+    "monster": [
+      913632
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519620,
+    "monsterGroup": 91363,
+    "position": 3,
+    "monster": [
+      913633
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519630,
+    "monsterGroup": 91364,
+    "position": 1,
+    "monster": [
+      913641
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519640,
+    "monsterGroup": 91364,
+    "position": 2,
+    "monster": [
+      913642
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519650,
+    "monsterGroup": 91365,
+    "position": 1,
+    "monster": [
+      913651
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519660,
+    "monsterGroup": 91365,
+    "position": 2,
+    "monster": [
+      913652
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519670,
+    "monsterGroup": 91365,
+    "position": 3,
+    "monster": [
+      913653
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519680,
+    "monsterGroup": 91366,
+    "position": 1,
+    "monster": [
+      913661
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519690,
+    "monsterGroup": 91366,
+    "position": 2,
+    "monster": [
+      913662
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519700,
+    "monsterGroup": 91366,
+    "position": 3,
+    "monster": [
+      913663
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519710,
+    "monsterGroup": 91367,
+    "position": 1,
+    "monster": [
+      913671
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519720,
+    "monsterGroup": 91367,
+    "position": 2,
+    "monster": [
+      913672
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519730,
+    "monsterGroup": 91368,
+    "position": 1,
+    "monster": [
+      913681
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519740,
+    "monsterGroup": 91368,
+    "position": 2,
+    "monster": [
+      913682
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519750,
+    "monsterGroup": 91369,
+    "position": 1,
+    "monster": [
+      913691
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519760,
+    "monsterGroup": 91369,
+    "position": 2,
+    "monster": [
+      913692
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519770,
+    "monsterGroup": 91369,
+    "position": 3,
+    "monster": [
+      913693
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519780,
+    "monsterGroup": 91370,
+    "position": 1,
+    "monster": [
+      913701
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519790,
+    "monsterGroup": 91370,
+    "position": 2,
+    "monster": [
+      913702
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519800,
+    "monsterGroup": 91370,
+    "position": 3,
+    "monster": [
+      913703
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519810,
+    "monsterGroup": 91371,
+    "position": 1,
+    "monster": [
+      913711
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519820,
+    "monsterGroup": 91371,
+    "position": 2,
+    "monster": [
+      913712
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519830,
+    "monsterGroup": 91371,
+    "position": 3,
+    "monster": [
+      913713
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519840,
+    "monsterGroup": 91372,
+    "position": 1,
+    "monster": [
+      913721
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519850,
+    "monsterGroup": 91372,
+    "position": 2,
+    "monster": [
+      913722
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519860,
+    "monsterGroup": 91372,
+    "position": 3,
+    "monster": [
+      913723
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519870,
+    "monsterGroup": 91372,
+    "position": 4,
+    "monster": [
+      913724
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519880,
+    "monsterGroup": 91373,
+    "position": 1,
+    "monster": [
+      913731
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519890,
+    "monsterGroup": 91373,
+    "position": 2,
+    "monster": [
+      913732
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519900,
+    "monsterGroup": 91373,
+    "position": 3,
+    "monster": [
+      913733
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519910,
+    "monsterGroup": 91374,
+    "position": 1,
+    "monster": [
+      913741
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519920,
+    "monsterGroup": 91374,
+    "position": 2,
+    "monster": [
+      913742
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519930,
+    "monsterGroup": 91375,
+    "position": 1,
+    "monster": [
+      913751
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519940,
+    "monsterGroup": 91375,
+    "position": 2,
+    "monster": [
+      913752
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519950,
+    "monsterGroup": 91375,
+    "position": 3,
+    "monster": [
+      913753
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519960,
+    "monsterGroup": 91375,
+    "position": 4,
+    "monster": [
+      913754
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519970,
+    "monsterGroup": 91376,
+    "position": 1,
+    "monster": [
+      913761
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519980,
+    "monsterGroup": 91376,
+    "position": 2,
+    "monster": [
+      913762
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 519990,
+    "monsterGroup": 91376,
+    "position": 3,
+    "monster": [
+      913763
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520000,
+    "monsterGroup": 91376,
+    "position": 4,
+    "monster": [
+      913764
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520010,
+    "monsterGroup": 91377,
+    "position": 1,
+    "monster": [
+      913771
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520020,
+    "monsterGroup": 91377,
+    "position": 2,
+    "monster": [
+      913772
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520030,
+    "monsterGroup": 91377,
+    "position": 3,
+    "monster": [
+      913773
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520040,
+    "monsterGroup": 91377,
+    "position": 4,
+    "monster": [
+      913774
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520050,
+    "monsterGroup": 91377,
+    "position": 5,
+    "monster": [
+      913775
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520060,
+    "monsterGroup": 91378,
+    "position": 1,
+    "monster": [
+      913781
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520070,
+    "monsterGroup": 91378,
+    "position": 2,
+    "monster": [
+      913782
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520080,
+    "monsterGroup": 91378,
+    "position": 3,
+    "monster": [
+      913783
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520090,
+    "monsterGroup": 91379,
+    "position": 1,
+    "monster": [
+      913791
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520100,
+    "monsterGroup": 91379,
+    "position": 2,
+    "monster": [
+      913792
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520110,
+    "monsterGroup": 91379,
+    "position": 3,
+    "monster": [
+      913793
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520120,
+    "monsterGroup": 91380,
+    "position": 1,
+    "monster": [
+      913801
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520130,
+    "monsterGroup": 91380,
+    "position": 2,
+    "monster": [
+      913802
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520140,
+    "monsterGroup": 91380,
+    "position": 3,
+    "monster": [
+      913803
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520150,
+    "monsterGroup": 91380,
+    "position": 4,
+    "monster": [
+      913804
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520160,
+    "monsterGroup": 91381,
+    "position": 1,
+    "monster": [
+      913811
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520170,
+    "monsterGroup": 91381,
+    "position": 2,
+    "monster": [
+      913812
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520180,
+    "monsterGroup": 91381,
+    "position": 3,
+    "monster": [
+      913813
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520190,
+    "monsterGroup": 91381,
+    "position": 4,
+    "monster": [
+      913814
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520200,
+    "monsterGroup": 91382,
+    "position": 1,
+    "monster": [
+      913821
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520210,
+    "monsterGroup": 91382,
+    "position": 2,
+    "monster": [
+      913822
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520220,
+    "monsterGroup": 91382,
+    "position": 3,
+    "monster": [
+      913823
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520230,
+    "monsterGroup": 91383,
+    "position": 1,
+    "monster": [
+      913831
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520240,
+    "monsterGroup": 91383,
+    "position": 2,
+    "monster": [
+      913832
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520250,
+    "monsterGroup": 91383,
+    "position": 3,
+    "monster": [
+      913833
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520260,
+    "monsterGroup": 91383,
+    "position": 4,
+    "monster": [
+      913834
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520270,
+    "monsterGroup": 92021,
+    "position": 1,
+    "monster": [
+      920211
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520280,
+    "monsterGroup": 92021,
+    "position": 2,
+    "monster": [
+      920212
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520290,
+    "monsterGroup": 92021,
+    "position": 3,
+    "monster": [
+      920213
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520300,
+    "monsterGroup": 92021,
+    "position": 4,
+    "monster": [
+      920214
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520310,
+    "monsterGroup": 92021,
+    "position": 5,
+    "monster": [
+      920215
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520320,
+    "monsterGroup": 92031,
+    "position": 1,
+    "monster": [
+      920311
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520330,
+    "monsterGroup": 50501,
+    "position": 1,
+    "monster": [
+      505011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520340,
+    "monsterGroup": 50501,
+    "position": 2,
+    "monster": [
+      505012
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520350,
+    "monsterGroup": 50501,
+    "position": 3,
+    "monster": [
+      505013
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520360,
+    "monsterGroup": 50501,
+    "position": 4,
+    "monster": [
+      505014
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520370,
+    "monsterGroup": 50502,
+    "position": 1,
+    "monster": [
+      505021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520380,
+    "monsterGroup": 50502,
+    "position": 2,
+    "monster": [
+      505022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520390,
+    "monsterGroup": 50502,
+    "position": 3,
+    "monster": [
+      505023
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520400,
+    "monsterGroup": 50502,
+    "position": 4,
+    "monster": [
+      505024
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520410,
+    "monsterGroup": 50503,
+    "position": 1,
+    "monster": [
+      505031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520420,
+    "monsterGroup": 50504,
+    "position": 1,
+    "monster": [
+      505041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520430,
+    "monsterGroup": 50504,
+    "position": 2,
+    "monster": [
+      505042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520440,
+    "monsterGroup": 50504,
+    "position": 3,
+    "monster": [
+      505043
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520450,
+    "monsterGroup": 50504,
+    "position": 4,
+    "monster": [
+      505044
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520460,
+    "monsterGroup": 50505,
+    "position": 1,
+    "monster": [
+      505051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520470,
+    "monsterGroup": 50505,
+    "position": 2,
+    "monster": [
+      505052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520480,
+    "monsterGroup": 50505,
+    "position": 3,
+    "monster": [
+      505053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520490,
+    "monsterGroup": 50505,
+    "position": 4,
+    "monster": [
+      505054
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520500,
+    "monsterGroup": 50506,
+    "position": 1,
+    "monster": [
+      505061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520510,
+    "monsterGroup": 50507,
+    "position": 1,
+    "monster": [
+      505071
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520520,
+    "monsterGroup": 50508,
+    "position": 1,
+    "monster": [
+      505081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520530,
+    "monsterGroup": 50509,
+    "position": 1,
+    "monster": [
+      505091
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520540,
+    "monsterGroup": 50510,
+    "position": 1,
+    "monster": [
+      505101
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520550,
+    "monsterGroup": 50511,
+    "position": 1,
+    "monster": [
+      505111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520560,
+    "monsterGroup": 50511,
+    "position": 2,
+    "monster": [
+      505112
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520570,
+    "monsterGroup": 50511,
+    "position": 3,
+    "monster": [
+      505113
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520580,
+    "monsterGroup": 50511,
+    "position": 4,
+    "monster": [
+      505114
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520590,
+    "monsterGroup": 92041,
+    "position": 1,
+    "monster": [
+      920411
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520600,
+    "monsterGroup": 91391,
+    "position": 1,
+    "monster": [
+      913911
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520610,
+    "monsterGroup": 91391,
+    "position": 2,
+    "monster": [
+      913912
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520620,
+    "monsterGroup": 91392,
+    "position": 1,
+    "monster": [
+      913921
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520630,
+    "monsterGroup": 91392,
+    "position": 2,
+    "monster": [
+      913922
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520640,
+    "monsterGroup": 91393,
+    "position": 1,
+    "monster": [
+      913931
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520650,
+    "monsterGroup": 91393,
+    "position": 2,
+    "monster": [
+      913932
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520660,
+    "monsterGroup": 91394,
+    "position": 1,
+    "monster": [
+      913941
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520670,
+    "monsterGroup": 91394,
+    "position": 2,
+    "monster": [
+      913942
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520680,
+    "monsterGroup": 91395,
+    "position": 1,
+    "monster": [
+      913951
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520690,
+    "monsterGroup": 91395,
+    "position": 2,
+    "monster": [
+      913952
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520700,
+    "monsterGroup": 91396,
+    "position": 1,
+    "monster": [
+      913961
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520710,
+    "monsterGroup": 91396,
+    "position": 2,
+    "monster": [
+      913962
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520720,
+    "monsterGroup": 50601,
+    "position": 1,
+    "monster": [
+      506011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520730,
+    "monsterGroup": 50601,
+    "position": 2,
+    "monster": [
+      506012
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520740,
+    "monsterGroup": 50601,
+    "position": 3,
+    "monster": [
+      506013
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520750,
+    "monsterGroup": 50601,
+    "position": 4,
+    "monster": [
+      506014
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520760,
+    "monsterGroup": 50602,
+    "position": 1,
+    "monster": [
+      506021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520770,
+    "monsterGroup": 50602,
+    "position": 2,
+    "monster": [
+      506022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520780,
+    "monsterGroup": 50602,
+    "position": 3,
+    "monster": [
+      506023
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520790,
+    "monsterGroup": 50602,
+    "position": 4,
+    "monster": [
+      506024
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520800,
+    "monsterGroup": 50603,
+    "position": 1,
+    "monster": [
+      506031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520810,
+    "monsterGroup": 50604,
+    "position": 1,
+    "monster": [
+      506041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520820,
+    "monsterGroup": 50604,
+    "position": 2,
+    "monster": [
+      506042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520830,
+    "monsterGroup": 50604,
+    "position": 3,
+    "monster": [
+      506043
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520840,
+    "monsterGroup": 50604,
+    "position": 4,
+    "monster": [
+      506044
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520850,
+    "monsterGroup": 50605,
+    "position": 1,
+    "monster": [
+      506051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520860,
+    "monsterGroup": 50605,
+    "position": 2,
+    "monster": [
+      506052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520870,
+    "monsterGroup": 50605,
+    "position": 3,
+    "monster": [
+      506053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520880,
+    "monsterGroup": 50605,
+    "position": 4,
+    "monster": [
+      506054
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520890,
+    "monsterGroup": 50606,
+    "position": 1,
+    "monster": [
+      506061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520900,
+    "monsterGroup": 50607,
+    "position": 1,
+    "monster": [
+      506071
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520910,
+    "monsterGroup": 50608,
+    "position": 1,
+    "monster": [
+      506081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520920,
+    "monsterGroup": 50609,
+    "position": 1,
+    "monster": [
+      506091
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520930,
+    "monsterGroup": 50610,
+    "position": 1,
+    "monster": [
+      506101
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520940,
+    "monsterGroup": 50611,
+    "position": 1,
+    "monster": [
+      506111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520950,
+    "monsterGroup": 50611,
+    "position": 2,
+    "monster": [
+      506112
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520960,
+    "monsterGroup": 50611,
+    "position": 3,
+    "monster": [
+      506113
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520970,
+    "monsterGroup": 50611,
+    "position": 4,
+    "monster": [
+      506114
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520975,
+    "monsterGroup": 22601,
+    "position": 1,
+    "monster": [
+      226011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520980,
+    "monsterGroup": 22602,
+    "position": 1,
+    "monster": [
+      226021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 520990,
+    "monsterGroup": 92051,
+    "position": 1,
+    "monster": [
+      920511
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521000,
+    "monsterGroup": 50701,
+    "position": 1,
+    "monster": [
+      507011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521010,
+    "monsterGroup": 50701,
+    "position": 2,
+    "monster": [
+      507012
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521020,
+    "monsterGroup": 50701,
+    "position": 3,
+    "monster": [
+      507013
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521030,
+    "monsterGroup": 50701,
+    "position": 4,
+    "monster": [
+      507014
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521040,
+    "monsterGroup": 50702,
+    "position": 1,
+    "monster": [
+      507021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521050,
+    "monsterGroup": 50702,
+    "position": 2,
+    "monster": [
+      507022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521060,
+    "monsterGroup": 50702,
+    "position": 3,
+    "monster": [
+      507023
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521070,
+    "monsterGroup": 50702,
+    "position": 4,
+    "monster": [
+      507024
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521080,
+    "monsterGroup": 50703,
+    "position": 1,
+    "monster": [
+      507031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521090,
+    "monsterGroup": 50704,
+    "position": 1,
+    "monster": [
+      507041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521100,
+    "monsterGroup": 50704,
+    "position": 2,
+    "monster": [
+      507042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521110,
+    "monsterGroup": 50704,
+    "position": 3,
+    "monster": [
+      507043
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521120,
+    "monsterGroup": 50704,
+    "position": 4,
+    "monster": [
+      507044
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521130,
+    "monsterGroup": 50705,
+    "position": 1,
+    "monster": [
+      507051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521140,
+    "monsterGroup": 50705,
+    "position": 2,
+    "monster": [
+      507052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521150,
+    "monsterGroup": 50705,
+    "position": 3,
+    "monster": [
+      507053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521160,
+    "monsterGroup": 50705,
+    "position": 4,
+    "monster": [
+      507054
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521170,
+    "monsterGroup": 50706,
+    "position": 1,
+    "monster": [
+      507061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521180,
+    "monsterGroup": 50707,
+    "position": 1,
+    "monster": [
+      507071
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521190,
+    "monsterGroup": 50708,
+    "position": 1,
+    "monster": [
+      507081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521200,
+    "monsterGroup": 50709,
+    "position": 1,
+    "monster": [
+      507091
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521210,
+    "monsterGroup": 50710,
+    "position": 1,
+    "monster": [
+      507101
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521250,
+    "monsterGroup": 50711,
+    "position": 1,
+    "monster": [
+      507111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521260,
+    "monsterGroup": 90111,
+    "position": 1,
+    "monster": [
+      901111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521270,
+    "monsterGroup": 90112,
+    "position": 1,
+    "monster": [
+      901121
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521280,
+    "monsterGroup": 90113,
+    "position": 1,
+    "monster": [
+      901131
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521290,
+    "monsterGroup": 90114,
+    "position": 1,
+    "monster": [
+      901141
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521300,
+    "monsterGroup": 90115,
+    "position": 1,
+    "monster": [
+      901151
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521310,
+    "monsterGroup": 90116,
+    "position": 1,
+    "monster": [
+      901161
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521320,
+    "monsterGroup": 90121,
+    "position": 1,
+    "monster": [
+      901211
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521330,
+    "monsterGroup": 90122,
+    "position": 1,
+    "monster": [
+      901221
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521340,
+    "monsterGroup": 90123,
+    "position": 1,
+    "monster": [
+      901231
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521350,
+    "monsterGroup": 90124,
+    "position": 1,
+    "monster": [
+      901241
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521360,
+    "monsterGroup": 90125,
+    "position": 1,
+    "monster": [
+      901251
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521370,
+    "monsterGroup": 90126,
+    "position": 1,
+    "monster": [
+      901261
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521380,
+    "monsterGroup": 22001,
+    "position": 1,
+    "monster": [
+      220011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521390,
+    "monsterGroup": 22001,
+    "position": 2,
+    "monster": [
+      220012
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521400,
+    "monsterGroup": 22002,
+    "position": 1,
+    "monster": [
+      220021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521410,
+    "monsterGroup": 22002,
+    "position": 2,
+    "monster": [
+      220022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521420,
+    "monsterGroup": 22003,
+    "position": 1,
+    "monster": [
+      220031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521430,
+    "monsterGroup": 22004,
+    "position": 1,
+    "monster": [
+      220041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521440,
+    "monsterGroup": 22004,
+    "position": 2,
+    "monster": [
+      220042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521450,
+    "monsterGroup": 22004,
+    "position": 3,
+    "monster": [
+      220043
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521460,
+    "monsterGroup": 22005,
+    "position": 1,
+    "monster": [
+      220051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521470,
+    "monsterGroup": 22005,
+    "position": 2,
+    "monster": [
+      220052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521480,
+    "monsterGroup": 22005,
+    "position": 3,
+    "monster": [
+      220053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521490,
+    "monsterGroup": 22006,
+    "position": 1,
+    "monster": [
+      220061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521500,
+    "monsterGroup": 22006,
+    "position": 2,
+    "monster": [
+      220062
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521510,
+    "monsterGroup": 22006,
+    "position": 3,
+    "monster": [
+      220063
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521520,
+    "monsterGroup": 22007,
+    "position": 1,
+    "monster": [
+      220071
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521530,
+    "monsterGroup": 22007,
+    "position": 2,
+    "monster": [
+      220072
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521540,
+    "monsterGroup": 22007,
+    "position": 3,
+    "monster": [
+      220073
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521550,
+    "monsterGroup": 22008,
+    "position": 1,
+    "monster": [
+      220081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521560,
+    "monsterGroup": 22008,
+    "position": 2,
+    "monster": [
+      220082
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521570,
+    "monsterGroup": 22008,
+    "position": 3,
+    "monster": [
+      220083
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521580,
+    "monsterGroup": 22008,
+    "position": 4,
+    "monster": [
+      220084
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521590,
+    "monsterGroup": 22009,
+    "position": 1,
+    "monster": [
+      220091
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521600,
+    "monsterGroup": 22009,
+    "position": 2,
+    "monster": [
+      220092
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521610,
+    "monsterGroup": 22009,
+    "position": 3,
+    "monster": [
+      220093
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521620,
+    "monsterGroup": 22010,
+    "position": 1,
+    "monster": [
+      220101
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521630,
+    "monsterGroup": 22010,
+    "position": 2,
+    "monster": [
+      220102
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521640,
+    "monsterGroup": 22011,
+    "position": 1,
+    "monster": [
+      220111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521650,
+    "monsterGroup": 22011,
+    "position": 2,
+    "monster": [
+      220112
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521660,
+    "monsterGroup": 22011,
+    "position": 3,
+    "monster": [
+      220113
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521670,
+    "monsterGroup": 22012,
+    "position": 1,
+    "monster": [
+      220121
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521680,
+    "monsterGroup": 22012,
+    "position": 2,
+    "monster": [
+      220122
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521690,
+    "monsterGroup": 22012,
+    "position": 3,
+    "monster": [
+      220123
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521700,
+    "monsterGroup": 22013,
+    "position": 1,
+    "monster": [
+      220131
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521710,
+    "monsterGroup": 22013,
+    "position": 2,
+    "monster": [
+      220132
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521720,
+    "monsterGroup": 22013,
+    "position": 3,
+    "monster": [
+      220133
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521730,
+    "monsterGroup": 22014,
+    "position": 1,
+    "monster": [
+      220141
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521740,
+    "monsterGroup": 22014,
+    "position": 2,
+    "monster": [
+      220142
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521750,
+    "monsterGroup": 22014,
+    "position": 3,
+    "monster": [
+      220143
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521760,
+    "monsterGroup": 22014,
+    "position": 4,
+    "monster": [
+      220144
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521770,
+    "monsterGroup": 22015,
+    "position": 1,
+    "monster": [
+      220151
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521780,
+    "monsterGroup": 22015,
+    "position": 2,
+    "monster": [
+      220152
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521790,
+    "monsterGroup": 22015,
+    "position": 3,
+    "monster": [
+      220153
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521800,
+    "monsterGroup": 22015,
+    "position": 4,
+    "monster": [
+      220154
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521810,
+    "monsterGroup": 22016,
+    "position": 1,
+    "monster": [
+      220161
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521820,
+    "monsterGroup": 22016,
+    "position": 2,
+    "monster": [
+      220162
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521830,
+    "monsterGroup": 22016,
+    "position": 3,
+    "monster": [
+      220163
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521840,
+    "monsterGroup": 22016,
+    "position": 4,
+    "monster": [
+      220164
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521850,
+    "monsterGroup": 22017,
+    "position": 1,
+    "monster": [
+      220171
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521860,
+    "monsterGroup": 22017,
+    "position": 2,
+    "monster": [
+      220172
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521870,
+    "monsterGroup": 22017,
+    "position": 3,
+    "monster": [
+      220173
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521880,
+    "monsterGroup": 22017,
+    "position": 4,
+    "monster": [
+      220174
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521890,
+    "monsterGroup": 22018,
+    "position": 1,
+    "monster": [
+      220181
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521900,
+    "monsterGroup": 22018,
+    "position": 2,
+    "monster": [
+      220182
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521910,
+    "monsterGroup": 22018,
+    "position": 3,
+    "monster": [
+      220183
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521920,
+    "monsterGroup": 22019,
+    "position": 1,
+    "monster": [
+      220191
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521930,
+    "monsterGroup": 22019,
+    "position": 2,
+    "monster": [
+      220192
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521940,
+    "monsterGroup": 22019,
+    "position": 3,
+    "monster": [
+      220193
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521950,
+    "monsterGroup": 22020,
+    "position": 1,
+    "monster": [
+      220201
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521960,
+    "monsterGroup": 22020,
+    "position": 2,
+    "monster": [
+      220202
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521970,
+    "monsterGroup": 22020,
+    "position": 3,
+    "monster": [
+      220203
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521980,
+    "monsterGroup": 22021,
+    "position": 1,
+    "monster": [
+      220211
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 521990,
+    "monsterGroup": 22021,
+    "position": 2,
+    "monster": [
+      220212
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522000,
+    "monsterGroup": 22021,
+    "position": 3,
+    "monster": [
+      220213
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522010,
+    "monsterGroup": 22021,
+    "position": 4,
+    "monster": [
+      220214
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522020,
+    "monsterGroup": 22022,
+    "position": 1,
+    "monster": [
+      220221
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522030,
+    "monsterGroup": 22022,
+    "position": 2,
+    "monster": [
+      220222
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522040,
+    "monsterGroup": 22022,
+    "position": 3,
+    "monster": [
+      220223
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522050,
+    "monsterGroup": 22022,
+    "position": 4,
+    "monster": [
+      220224
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522060,
+    "monsterGroup": 22023,
+    "position": 1,
+    "monster": [
+      220231
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522070,
+    "monsterGroup": 22023,
+    "position": 2,
+    "monster": [
+      220232
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522080,
+    "monsterGroup": 22023,
+    "position": 3,
+    "monster": [
+      220233
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522090,
+    "monsterGroup": 22024,
+    "position": 1,
+    "monster": [
+      220241
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522100,
+    "monsterGroup": 22024,
+    "position": 2,
+    "monster": [
+      220242
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522110,
+    "monsterGroup": 22025,
+    "position": 1,
+    "monster": [
+      220251
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522120,
+    "monsterGroup": 22025,
+    "position": 2,
+    "monster": [
+      220252
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522130,
+    "monsterGroup": 22025,
+    "position": 3,
+    "monster": [
+      220253
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522140,
+    "monsterGroup": 22026,
+    "position": 1,
+    "monster": [
+      220261
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522150,
+    "monsterGroup": 22026,
+    "position": 2,
+    "monster": [
+      220262
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522160,
+    "monsterGroup": 22026,
+    "position": 3,
+    "monster": [
+      220263
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522170,
+    "monsterGroup": 22027,
+    "position": 1,
+    "monster": [
+      220271
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522180,
+    "monsterGroup": 22027,
+    "position": 2,
+    "monster": [
+      220272
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522190,
+    "monsterGroup": 22028,
+    "position": 1,
+    "monster": [
+      220281
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522200,
+    "monsterGroup": 22028,
+    "position": 2,
+    "monster": [
+      220282
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522210,
+    "monsterGroup": 22028,
+    "position": 3,
+    "monster": [
+      220283
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522220,
+    "monsterGroup": 22029,
+    "position": 1,
+    "monster": [
+      220291
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522230,
+    "monsterGroup": 22029,
+    "position": 2,
+    "monster": [
+      220292
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522240,
+    "monsterGroup": 22029,
+    "position": 3,
+    "monster": [
+      220293
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522250,
+    "monsterGroup": 22029,
+    "position": 4,
+    "monster": [
+      220294
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522260,
+    "monsterGroup": 22030,
+    "position": 1,
+    "monster": [
+      220301
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522270,
+    "monsterGroup": 22030,
+    "position": 2,
+    "monster": [
+      220302
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522280,
+    "monsterGroup": 22030,
+    "position": 3,
+    "monster": [
+      220303
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522290,
+    "monsterGroup": 22030,
+    "position": 4,
+    "monster": [
+      220304
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522300,
+    "monsterGroup": 22031,
+    "position": 1,
+    "monster": [
+      220311
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522310,
+    "monsterGroup": 22031,
+    "position": 2,
+    "monster": [
+      220312
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522320,
+    "monsterGroup": 22032,
+    "position": 1,
+    "monster": [
+      220321
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522330,
+    "monsterGroup": 22032,
+    "position": 2,
+    "monster": [
+      220322
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522340,
+    "monsterGroup": 22032,
+    "position": 3,
+    "monster": [
+      220323
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522350,
+    "monsterGroup": 22033,
+    "position": 1,
+    "monster": [
+      220331
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522360,
+    "monsterGroup": 22033,
+    "position": 2,
+    "monster": [
+      220332
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522370,
+    "monsterGroup": 22033,
+    "position": 3,
+    "monster": [
+      220333
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522380,
+    "monsterGroup": 22034,
+    "position": 1,
+    "monster": [
+      220341
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522390,
+    "monsterGroup": 22034,
+    "position": 2,
+    "monster": [
+      220342
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522400,
+    "monsterGroup": 22035,
+    "position": 1,
+    "monster": [
+      220351
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522410,
+    "monsterGroup": 22035,
+    "position": 2,
+    "monster": [
+      220352
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522420,
+    "monsterGroup": 22036,
+    "position": 1,
+    "monster": [
+      220361
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522430,
+    "monsterGroup": 22036,
+    "position": 2,
+    "monster": [
+      220362
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522440,
+    "monsterGroup": 22036,
+    "position": 3,
+    "monster": [
+      220363
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522450,
+    "monsterGroup": 22036,
+    "position": 4,
+    "monster": [
+      220364
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522460,
+    "monsterGroup": 22036,
+    "position": 5,
+    "monster": [
+      220365
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522470,
+    "monsterGroup": 82701,
+    "position": 1,
+    "monster": [
+      827011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522480,
+    "monsterGroup": 82702,
+    "position": 1,
+    "monster": [
+      827021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522490,
+    "monsterGroup": 82703,
+    "position": 1,
+    "monster": [
+      827031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522500,
+    "monsterGroup": 22603,
+    "position": 1,
+    "monster": [
+      226031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522510,
+    "monsterGroup": 22604,
+    "position": 1,
+    "monster": [
+      226041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522520,
+    "monsterGroup": 22604,
+    "position": 1,
+    "monster": [
+      226042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522525,
+    "monsterGroup": 22605,
+    "position": 1,
+    "monster": [
+      226051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522526,
+    "monsterGroup": 22605,
+    "position": 2,
+    "monster": [
+      226052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522527,
+    "monsterGroup": 22605,
+    "position": 3,
+    "monster": [
+      226053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522530,
+    "monsterGroup": 22801,
+    "position": 1,
+    "monster": [
+      228011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522531,
+    "monsterGroup": 22801,
+    "position": 2,
+    "monster": [
+      228012
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522532,
+    "monsterGroup": 22801,
+    "position": 3,
+    "monster": [
+      228013
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522540,
+    "monsterGroup": 22802,
+    "position": 1,
+    "monster": [
+      228021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522541,
+    "monsterGroup": 22802,
+    "position": 1,
+    "monster": [
+      228022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522542,
+    "monsterGroup": 22802,
+    "position": 1,
+    "monster": [
+      228022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522550,
+    "monsterGroup": 22803,
+    "position": 1,
+    "monster": [
+      228031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522560,
+    "monsterGroup": 22804,
+    "position": 1,
+    "monster": [
+      228041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522561,
+    "monsterGroup": 22804,
+    "position": 1,
+    "monster": [
+      228042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522562,
+    "monsterGroup": 22804,
+    "position": 1,
+    "monster": [
+      228042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522570,
+    "monsterGroup": 22805,
+    "position": 1,
+    "monster": [
+      228051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522571,
+    "monsterGroup": 22805,
+    "position": 2,
+    "monster": [
+      228052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522572,
+    "monsterGroup": 22805,
+    "position": 3,
+    "monster": [
+      228052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522573,
+    "monsterGroup": 22805,
+    "position": 4,
+    "monster": [
+      228052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522574,
+    "monsterGroup": 22805,
+    "position": 5,
+    "monster": [
+      228052
+    ],
+    "weight": [
+      2
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522580,
+    "monsterGroup": 22806,
+    "position": 1,
+    "monster": [
+      228061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522581,
+    "monsterGroup": 22806,
+    "position": 1,
+    "monster": [
+      228062
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522582,
+    "monsterGroup": 22806,
+    "position": 1,
+    "monster": [
+      228062
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522590,
+    "monsterGroup": 22807,
+    "position": 1,
+    "monster": [
+      228071
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522600,
+    "monsterGroup": 22808,
+    "position": 1,
+    "monster": [
+      228081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522610,
+    "monsterGroup": 82121,
+    "position": 1,
+    "monster": [
+      821211
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522620,
+    "monsterGroup": 82122,
+    "position": 1,
+    "monster": [
+      821221
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522630,
+    "monsterGroup": 82122,
+    "position": 2,
+    "monster": [
+      821222
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522640,
+    "monsterGroup": 82122,
+    "position": 3,
+    "monster": [
+      821223
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522650,
+    "monsterGroup": 82123,
+    "position": 1,
+    "monster": [
+      821231
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522660,
+    "monsterGroup": 82123,
+    "position": 2,
+    "monster": [
+      821232
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522670,
+    "monsterGroup": 82123,
+    "position": 3,
+    "monster": [
+      821233
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522680,
+    "monsterGroup": 82124,
+    "position": 1,
+    "monster": [
+      821241
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522690,
+    "monsterGroup": 82124,
+    "position": 2,
+    "monster": [
+      821242
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522700,
+    "monsterGroup": 82124,
+    "position": 3,
+    "monster": [
+      821243
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522710,
+    "monsterGroup": 82125,
+    "position": 1,
+    "monster": [
+      821251
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522720,
+    "monsterGroup": 82125,
+    "position": 2,
+    "monster": [
+      821252
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522730,
+    "monsterGroup": 82126,
+    "position": 1,
+    "monster": [
+      821261
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522740,
+    "monsterGroup": 82126,
+    "position": 2,
+    "monster": [
+      821262
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522750,
+    "monsterGroup": 82131,
+    "position": 1,
+    "monster": [
+      821311
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522760,
+    "monsterGroup": 82132,
+    "position": 1,
+    "monster": [
+      821321
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522770,
+    "monsterGroup": 82132,
+    "position": 2,
+    "monster": [
+      821322
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522780,
+    "monsterGroup": 82132,
+    "position": 3,
+    "monster": [
+      821323
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522790,
+    "monsterGroup": 82133,
+    "position": 1,
+    "monster": [
+      821331
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522800,
+    "monsterGroup": 82133,
+    "position": 2,
+    "monster": [
+      821332
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522810,
+    "monsterGroup": 82133,
+    "position": 3,
+    "monster": [
+      821333
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522820,
+    "monsterGroup": 82134,
+    "position": 1,
+    "monster": [
+      821341
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522830,
+    "monsterGroup": 82134,
+    "position": 2,
+    "monster": [
+      821342
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522840,
+    "monsterGroup": 82134,
+    "position": 3,
+    "monster": [
+      821343
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522850,
+    "monsterGroup": 82135,
+    "position": 1,
+    "monster": [
+      821351
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522860,
+    "monsterGroup": 82135,
+    "position": 2,
+    "monster": [
+      821352
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522870,
+    "monsterGroup": 82136,
+    "position": 1,
+    "monster": [
+      821361
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522880,
+    "monsterGroup": 82136,
+    "position": 2,
+    "monster": [
+      821362
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522890,
+    "monsterGroup": 82221,
+    "position": 1,
+    "monster": [
+      822211
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522900,
+    "monsterGroup": 82221,
+    "position": 2,
+    "monster": [
+      822212
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522910,
+    "monsterGroup": 82221,
+    "position": 3,
+    "monster": [
+      822213
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522920,
+    "monsterGroup": 82222,
+    "position": 1,
+    "monster": [
+      822221
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522930,
+    "monsterGroup": 82223,
+    "position": 1,
+    "monster": [
+      822231
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522940,
+    "monsterGroup": 82223,
+    "position": 2,
+    "monster": [
+      822232
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522950,
+    "monsterGroup": 82223,
+    "position": 3,
+    "monster": [
+      822233
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522960,
+    "monsterGroup": 82224,
+    "position": 1,
+    "monster": [
+      822241
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522970,
+    "monsterGroup": 82224,
+    "position": 2,
+    "monster": [
+      822242
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522980,
+    "monsterGroup": 82224,
+    "position": 3,
+    "monster": [
+      822243
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 522990,
+    "monsterGroup": 82225,
+    "position": 1,
+    "monster": [
+      822251
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523000,
+    "monsterGroup": 82225,
+    "position": 2,
+    "monster": [
+      822252
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523010,
+    "monsterGroup": 82225,
+    "position": 3,
+    "monster": [
+      822253
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523020,
+    "monsterGroup": 82225,
+    "position": 4,
+    "monster": [
+      822254
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523030,
+    "monsterGroup": 82226,
+    "position": 1,
+    "monster": [
+      822261
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523040,
+    "monsterGroup": 82226,
+    "position": 2,
+    "monster": [
+      822262
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523050,
+    "monsterGroup": 82226,
+    "position": 3,
+    "monster": [
+      822263
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523060,
+    "monsterGroup": 82226,
+    "position": 4,
+    "monster": [
+      822264
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523070,
+    "monsterGroup": 82231,
+    "position": 1,
+    "monster": [
+      822311
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523080,
+    "monsterGroup": 82231,
+    "position": 2,
+    "monster": [
+      822312
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523090,
+    "monsterGroup": 82231,
+    "position": 3,
+    "monster": [
+      822313
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523100,
+    "monsterGroup": 82232,
+    "position": 1,
+    "monster": [
+      822321
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523110,
+    "monsterGroup": 82233,
+    "position": 1,
+    "monster": [
+      822331
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523120,
+    "monsterGroup": 82233,
+    "position": 2,
+    "monster": [
+      822332
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523130,
+    "monsterGroup": 82233,
+    "position": 3,
+    "monster": [
+      822333
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523140,
+    "monsterGroup": 82234,
+    "position": 1,
+    "monster": [
+      822341
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523150,
+    "monsterGroup": 82234,
+    "position": 2,
+    "monster": [
+      822342
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523160,
+    "monsterGroup": 82234,
+    "position": 3,
+    "monster": [
+      822343
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523170,
+    "monsterGroup": 82235,
+    "position": 1,
+    "monster": [
+      822351
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523180,
+    "monsterGroup": 82235,
+    "position": 2,
+    "monster": [
+      822352
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523190,
+    "monsterGroup": 82235,
+    "position": 3,
+    "monster": [
+      822353
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523200,
+    "monsterGroup": 82235,
+    "position": 4,
+    "monster": [
+      822354
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523210,
+    "monsterGroup": 82236,
+    "position": 1,
+    "monster": [
+      822361
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523220,
+    "monsterGroup": 82236,
+    "position": 2,
+    "monster": [
+      822362
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523230,
+    "monsterGroup": 82236,
+    "position": 3,
+    "monster": [
+      822363
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523240,
+    "monsterGroup": 82236,
+    "position": 4,
+    "monster": [
+      822364
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523250,
+    "monsterGroup": 82321,
+    "position": 1,
+    "monster": [
+      823211
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523260,
+    "monsterGroup": 82322,
+    "position": 1,
+    "monster": [
+      823221
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523270,
+    "monsterGroup": 82322,
+    "position": 2,
+    "monster": [
+      823222
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523280,
+    "monsterGroup": 82323,
+    "position": 1,
+    "monster": [
+      823231
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523290,
+    "monsterGroup": 82323,
+    "position": 2,
+    "monster": [
+      823232
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523300,
+    "monsterGroup": 82324,
+    "position": 1,
+    "monster": [
+      823241
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523310,
+    "monsterGroup": 82324,
+    "position": 2,
+    "monster": [
+      823242
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523320,
+    "monsterGroup": 82324,
+    "position": 3,
+    "monster": [
+      823243
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523330,
+    "monsterGroup": 82325,
+    "position": 1,
+    "monster": [
+      823251
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523340,
+    "monsterGroup": 82325,
+    "position": 2,
+    "monster": [
+      823252
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523350,
+    "monsterGroup": 82325,
+    "position": 3,
+    "monster": [
+      823253
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523360,
+    "monsterGroup": 82325,
+    "position": 4,
+    "monster": [
+      823254
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523370,
+    "monsterGroup": 82326,
+    "position": 1,
+    "monster": [
+      823261
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523380,
+    "monsterGroup": 82326,
+    "position": 2,
+    "monster": [
+      823262
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523390,
+    "monsterGroup": 82326,
+    "position": 3,
+    "monster": [
+      823263
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523400,
+    "monsterGroup": 82331,
+    "position": 1,
+    "monster": [
+      823311
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523410,
+    "monsterGroup": 82332,
+    "position": 1,
+    "monster": [
+      823321
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523420,
+    "monsterGroup": 82332,
+    "position": 2,
+    "monster": [
+      823322
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523430,
+    "monsterGroup": 82333,
+    "position": 1,
+    "monster": [
+      823331
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523440,
+    "monsterGroup": 82333,
+    "position": 2,
+    "monster": [
+      823332
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523450,
+    "monsterGroup": 82334,
+    "position": 1,
+    "monster": [
+      823341
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523460,
+    "monsterGroup": 82334,
+    "position": 2,
+    "monster": [
+      823342
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523470,
+    "monsterGroup": 82334,
+    "position": 3,
+    "monster": [
+      823343
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523480,
+    "monsterGroup": 82335,
+    "position": 1,
+    "monster": [
+      823351
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523490,
+    "monsterGroup": 82335,
+    "position": 2,
+    "monster": [
+      823352
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523500,
+    "monsterGroup": 82335,
+    "position": 3,
+    "monster": [
+      823353
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523510,
+    "monsterGroup": 82335,
+    "position": 4,
+    "monster": [
+      823354
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523520,
+    "monsterGroup": 82336,
+    "position": 1,
+    "monster": [
+      823361
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523530,
+    "monsterGroup": 82336,
+    "position": 2,
+    "monster": [
+      823362
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523540,
+    "monsterGroup": 82336,
+    "position": 3,
+    "monster": [
+      823363
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523550,
+    "monsterGroup": 82971,
+    "position": 1,
+    "monster": [
+      829711
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523600,
+    "monsterGroup": 82971,
+    "position": 2,
+    "monster": [
+      829712
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523650,
+    "monsterGroup": 82971,
+    "position": 3,
+    "monster": [
+      829713
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523700,
+    "monsterGroup": 82972,
+    "position": 1,
+    "monster": [
+      829721
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523750,
+    "monsterGroup": 82972,
+    "position": 2,
+    "monster": [
+      829722
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523800,
+    "monsterGroup": 82972,
+    "position": 3,
+    "monster": [
+      829723
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523850,
+    "monsterGroup": 82973,
+    "position": 1,
+    "monster": [
+      829731
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523900,
+    "monsterGroup": 82973,
+    "position": 2,
+    "monster": [
+      829732
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 523950,
+    "monsterGroup": 82973,
+    "position": 3,
+    "monster": [
+      829733
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524000,
+    "monsterGroup": 82973,
+    "position": 4,
+    "monster": [
+      829734
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524050,
+    "monsterGroup": 82973,
+    "position": 5,
+    "monster": [
+      829735
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524100,
+    "monsterGroup": 22606,
+    "position": 1,
+    "monster": [
+      226061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524150,
+    "monsterGroup": 22606,
+    "position": 2,
+    "monster": [
+      226062
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524160,
+    "monsterGroup": 22606,
+    "position": 3,
+    "monster": [
+      226063
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524200,
+    "monsterGroup": 92061,
+    "position": 1,
+    "monster": [
+      920611
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524250,
+    "monsterGroup": 92061,
+    "position": 2,
+    "monster": [
+      920612
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524300,
+    "monsterGroup": 92061,
+    "position": 3,
+    "monster": [
+      920613
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524350,
+    "monsterGroup": 92071,
+    "position": 1,
+    "monster": [
+      920711
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524400,
+    "monsterGroup": 92071,
+    "position": 2,
+    "monster": [
+      920712
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524450,
+    "monsterGroup": 92071,
+    "position": 3,
+    "monster": [
+      920713
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524500,
+    "monsterGroup": 92071,
+    "position": 4,
+    "monster": [
+      920714
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524550,
+    "monsterGroup": 92071,
+    "position": 5,
+    "monster": [
+      920715
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524600,
+    "monsterGroup": 22607,
+    "position": 1,
+    "monster": [
+      226071
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524650,
+    "monsterGroup": 22607,
+    "position": 2,
+    "monster": [
+      226072
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524700,
+    "monsterGroup": 22608,
+    "position": 1,
+    "monster": [
+      226081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524750,
+    "monsterGroup": 22608,
+    "position": 2,
+    "monster": [
+      226082
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524800,
+    "monsterGroup": 22608,
+    "position": 3,
+    "monster": [
+      226083
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524810,
+    "monsterGroup": 50801,
+    "position": 1,
+    "monster": [
+      508011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524820,
+    "monsterGroup": 50801,
+    "position": 2,
+    "monster": [
+      508012
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524830,
+    "monsterGroup": 50801,
+    "position": 3,
+    "monster": [
+      508013
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524840,
+    "monsterGroup": 50801,
+    "position": 4,
+    "monster": [
+      508014
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524850,
+    "monsterGroup": 50802,
+    "position": 1,
+    "monster": [
+      508021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524860,
+    "monsterGroup": 50802,
+    "position": 2,
+    "monster": [
+      508022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524870,
+    "monsterGroup": 50802,
+    "position": 3,
+    "monster": [
+      508023
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524880,
+    "monsterGroup": 50802,
+    "position": 4,
+    "monster": [
+      508024
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524890,
+    "monsterGroup": 50803,
+    "position": 1,
+    "monster": [
+      508031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524900,
+    "monsterGroup": 50804,
+    "position": 1,
+    "monster": [
+      508041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524910,
+    "monsterGroup": 50804,
+    "position": 2,
+    "monster": [
+      508042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524920,
+    "monsterGroup": 50804,
+    "position": 3,
+    "monster": [
+      508043
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524930,
+    "monsterGroup": 50804,
+    "position": 4,
+    "monster": [
+      508044
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524940,
+    "monsterGroup": 50805,
+    "position": 1,
+    "monster": [
+      508051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524950,
+    "monsterGroup": 50805,
+    "position": 2,
+    "monster": [
+      508052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524960,
+    "monsterGroup": 50805,
+    "position": 3,
+    "monster": [
+      508053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524970,
+    "monsterGroup": 50805,
+    "position": 4,
+    "monster": [
+      508054
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524980,
+    "monsterGroup": 50806,
+    "position": 1,
+    "monster": [
+      508061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 524990,
+    "monsterGroup": 50807,
+    "position": 1,
+    "monster": [
+      508071
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525000,
+    "monsterGroup": 50808,
+    "position": 1,
+    "monster": [
+      508081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525010,
+    "monsterGroup": 50809,
+    "position": 1,
+    "monster": [
+      508091
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525020,
+    "monsterGroup": 50810,
+    "position": 1,
+    "monster": [
+      508101
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525030,
+    "monsterGroup": 50811,
+    "position": 1,
+    "monster": [
+      508111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525040,
+    "monsterGroup": 82901,
+    "position": 1,
+    "monster": [
+      829011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525050,
+    "monsterGroup": 82901,
+    "position": 2,
+    "monster": [
+      829012
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525060,
+    "monsterGroup": 82902,
+    "position": 1,
+    "monster": [
+      829021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525070,
+    "monsterGroup": 82902,
+    "position": 2,
+    "monster": [
+      829022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525080,
+    "monsterGroup": 82902,
+    "position": 3,
+    "monster": [
+      829022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525090,
+    "monsterGroup": 82902,
+    "position": 4,
+    "monster": [
+      829022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525100,
+    "monsterGroup": 82902,
+    "position": 5,
+    "monster": [
+      829022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525110,
+    "monsterGroup": 82903,
+    "position": 1,
+    "monster": [
+      829031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525120,
+    "monsterGroup": 82903,
+    "position": 2,
+    "monster": [
+      829032
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525130,
+    "monsterGroup": 82903,
+    "position": 3,
+    "monster": [
+      829034
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525140,
+    "monsterGroup": 82904,
+    "position": 1,
+    "monster": [
+      829041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525150,
+    "monsterGroup": 82904,
+    "position": 2,
+    "monster": [
+      829042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525160,
+    "monsterGroup": 82904,
+    "position": 3,
+    "monster": [
+      829043
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525170,
+    "monsterGroup": 82904,
+    "position": 4,
+    "monster": [
+      829044
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525180,
+    "monsterGroup": 82904,
+    "position": 5,
+    "monster": [
+      829045
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525190,
+    "monsterGroup": 82905,
+    "position": 1,
+    "monster": [
+      829051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525200,
+    "monsterGroup": 82905,
+    "position": 2,
+    "monster": [
+      829052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525210,
+    "monsterGroup": 82905,
+    "position": 3,
+    "monster": [
+      829053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525220,
+    "monsterGroup": 82905,
+    "position": 4,
+    "monster": [
+      829053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525230,
+    "monsterGroup": 82905,
+    "position": 5,
+    "monster": [
+      829053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525240,
+    "monsterGroup": 82906,
+    "position": 1,
+    "monster": [
+      829061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525250,
+    "monsterGroup": 82906,
+    "position": 2,
+    "monster": [
+      829062
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525260,
+    "monsterGroup": 82906,
+    "position": 3,
+    "monster": [
+      829063
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525270,
+    "monsterGroup": 82341,
+    "position": 1,
+    "monster": [
+      823411
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525280,
+    "monsterGroup": 82342,
+    "position": 1,
+    "monster": [
+      823421
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525290,
+    "monsterGroup": 82343,
+    "position": 1,
+    "monster": [
+      823431
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525300,
+    "monsterGroup": 82344,
+    "position": 1,
+    "monster": [
+      823441
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525310,
+    "monsterGroup": 82345,
+    "position": 1,
+    "monster": [
+      823451
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525320,
+    "monsterGroup": 82346,
+    "position": 1,
+    "monster": [
+      823461
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525330,
+    "monsterGroup": 82347,
+    "position": 1,
+    "monster": [
+      823471
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525340,
+    "monsterGroup": 50901,
+    "position": 1,
+    "monster": [
+      509011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525350,
+    "monsterGroup": 50901,
+    "position": 2,
+    "monster": [
+      509012
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525360,
+    "monsterGroup": 50901,
+    "position": 3,
+    "monster": [
+      509013
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525370,
+    "monsterGroup": 50901,
+    "position": 4,
+    "monster": [
+      509014
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525380,
+    "monsterGroup": 50902,
+    "position": 1,
+    "monster": [
+      509021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525390,
+    "monsterGroup": 50902,
+    "position": 2,
+    "monster": [
+      509022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525400,
+    "monsterGroup": 50902,
+    "position": 3,
+    "monster": [
+      509023
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525410,
+    "monsterGroup": 50902,
+    "position": 4,
+    "monster": [
+      509024
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525420,
+    "monsterGroup": 50903,
+    "position": 1,
+    "monster": [
+      509031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525430,
+    "monsterGroup": 50904,
+    "position": 1,
+    "monster": [
+      509041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525440,
+    "monsterGroup": 50904,
+    "position": 2,
+    "monster": [
+      509042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525450,
+    "monsterGroup": 50904,
+    "position": 3,
+    "monster": [
+      509043
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525460,
+    "monsterGroup": 50904,
+    "position": 4,
+    "monster": [
+      509044
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525470,
+    "monsterGroup": 50905,
+    "position": 1,
+    "monster": [
+      509051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525480,
+    "monsterGroup": 50905,
+    "position": 2,
+    "monster": [
+      509052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525490,
+    "monsterGroup": 50905,
+    "position": 3,
+    "monster": [
+      509053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525500,
+    "monsterGroup": 50905,
+    "position": 4,
+    "monster": [
+      509054
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525510,
+    "monsterGroup": 50906,
+    "position": 1,
+    "monster": [
+      509061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525520,
+    "monsterGroup": 50907,
+    "position": 1,
+    "monster": [
+      509071
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525530,
+    "monsterGroup": 50908,
+    "position": 1,
+    "monster": [
+      509081
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525540,
+    "monsterGroup": 50909,
+    "position": 1,
+    "monster": [
+      509091
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525550,
+    "monsterGroup": 50910,
+    "position": 1,
+    "monster": [
+      509101
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525560,
+    "monsterGroup": 50911,
+    "position": 1,
+    "monster": [
+      509111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525570,
+    "monsterGroup": 93001,
+    "position": 1,
+    "monster": [
+      930011
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525571,
+    "monsterGroup": 93001,
+    "position": 2,
+    "monster": [
+      930012
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525572,
+    "monsterGroup": 93001,
+    "position": 3,
+    "monster": [
+      930013
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525580,
+    "monsterGroup": 93002,
+    "position": 1,
+    "monster": [
+      930021
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525581,
+    "monsterGroup": 93002,
+    "position": 2,
+    "monster": [
+      930022
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525582,
+    "monsterGroup": 93002,
+    "position": 3,
+    "monster": [
+      930023
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525583,
+    "monsterGroup": 93002,
+    "position": 4,
+    "monster": [
+      930024
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525590,
+    "monsterGroup": 93003,
+    "position": 1,
+    "monster": [
+      930031
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525591,
+    "monsterGroup": 93003,
+    "position": 2,
+    "monster": [
+      930032
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525592,
+    "monsterGroup": 93003,
+    "position": 3,
+    "monster": [
+      930033
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525600,
+    "monsterGroup": 93004,
+    "position": 1,
+    "monster": [
+      930041
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525601,
+    "monsterGroup": 93004,
+    "position": 2,
+    "monster": [
+      930042
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525602,
+    "monsterGroup": 93004,
+    "position": 3,
+    "monster": [
+      930043
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525610,
+    "monsterGroup": 93005,
+    "position": 1,
+    "monster": [
+      930051
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525611,
+    "monsterGroup": 93005,
+    "position": 2,
+    "monster": [
+      930052
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525612,
+    "monsterGroup": 93005,
+    "position": 3,
+    "monster": [
+      930053
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525613,
+    "monsterGroup": 93005,
+    "position": 4,
+    "monster": [
+      930054
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525620,
+    "monsterGroup": 93006,
+    "position": 1,
+    "monster": [
+      930061
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525621,
+    "monsterGroup": 93006,
+    "position": 2,
+    "monster": [
+      930062
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525622,
+    "monsterGroup": 93006,
+    "position": 3,
+    "monster": [
+      930063
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525623,
+    "monsterGroup": 93006,
+    "position": 4,
+    "monster": [
+      930064
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525624,
+    "monsterGroup": 93006,
+    "position": 5,
+    "monster": [
+      930065
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525630,
+    "monsterGroup": 93011,
+    "position": 1,
+    "monster": [
+      930111
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525631,
+    "monsterGroup": 93011,
+    "position": 2,
+    "monster": [
+      930112
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525632,
+    "monsterGroup": 93011,
+    "position": 3,
+    "monster": [
+      930113
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525633,
+    "monsterGroup": 93011,
+    "position": 4,
+    "monster": [
+      930114
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525634,
+    "monsterGroup": 93011,
+    "position": 5,
+    "monster": [
+      930115
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525640,
+    "monsterGroup": 93012,
+    "position": 1,
+    "monster": [
+      930121
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525641,
+    "monsterGroup": 93012,
+    "position": 2,
+    "monster": [
+      930122
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525642,
+    "monsterGroup": 93012,
+    "position": 3,
+    "monster": [
+      930123
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525643,
+    "monsterGroup": 93012,
+    "position": 4,
+    "monster": [
+      930124
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525650,
+    "monsterGroup": 93013,
+    "position": 1,
+    "monster": [
+      930131
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525651,
+    "monsterGroup": 93013,
+    "position": 2,
+    "monster": [
+      930132
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525652,
+    "monsterGroup": 93013,
+    "position": 3,
+    "monster": [
+      930133
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525653,
+    "monsterGroup": 93013,
+    "position": 4,
+    "monster": [
+      930134
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525654,
+    "monsterGroup": 93013,
+    "position": 5,
+    "monster": [
+      930135
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525660,
+    "monsterGroup": 93021,
+    "position": 1,
+    "monster": [
+      930211
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525670,
+    "monsterGroup": 93022,
+    "position": 1,
+    "monster": [
+      930221
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525680,
+    "monsterGroup": 93023,
+    "position": 1,
+    "monster": [
+      930231
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525690,
+    "monsterGroup": 93024,
+    "position": 1,
+    "monster": [
+      930241
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525700,
+    "monsterGroup": 93025,
+    "position": 1,
+    "monster": [
+      930251
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525710,
+    "monsterGroup": 93031,
+    "position": 1,
+    "monster": [
+      930311
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525720,
+    "monsterGroup": 93031,
+    "position": 2,
+    "monster": [
+      930312
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525730,
+    "monsterGroup": 93031,
+    "position": 3,
+    "monster": [
+      930313
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525740,
+    "monsterGroup": 93031,
+    "position": 4,
+    "monster": [
+      930314
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525750,
+    "monsterGroup": 92081,
+    "position": 1,
+    "monster": [
+      920811
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525760,
+    "monsterGroup": 92081,
+    "position": 2,
+    "monster": [
+      920812
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525770,
+    "monsterGroup": 92081,
+    "position": 3,
+    "monster": [
+      920813
+    ],
+    "weight": [
+      1
+    ],
+    "randMons": 0,
+    "dynamicNum": 0,
+    "isMain": 0
+  },
+  {
+    "sn": 525780,
+    "monsterGroup": 92081,
+    "position": 4,
+    "monster": [
+      920814
     ],
     "weight": [
       1

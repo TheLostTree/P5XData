@@ -12,7 +12,8 @@
       1101,
       1201,
       1401
-    ]
+    ],
+    "displayParam2": []
   },
   {
     "sn": 1200002,
@@ -26,7 +27,8 @@
       1500,
       1600,
       1700
-    ]
+    ],
+    "displayParam2": []
   },
   {
     "sn": 1200003,
@@ -76,7 +78,8 @@
       3036,
       3037,
       3038
-    ]
+    ],
+    "displayParam2": []
   },
   {
     "sn": 1200004,
@@ -87,12 +90,36 @@
     "displayType": 1,
     "order": 4,
     "displayParam": [
+      1801,
       1802,
       1803,
       1804,
       1805,
+      1808,
       1809,
       1901
+    ],
+    "displayParam2": []
+  },
+  {
+    "sn": 1200010,
+    "changeNum": 5,
+    "changeNumTotal": -1,
+    "limitRefresh": 1,
+    "changeType": 1,
+    "displayType": 2,
+    "order": 5,
+    "displayParam": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "displayParam2": [
+      22
     ]
   },
   {
@@ -111,6 +138,7 @@
       1500,
       1600,
       1700
-    ]
+    ],
+    "displayParam2": []
   }
 ]

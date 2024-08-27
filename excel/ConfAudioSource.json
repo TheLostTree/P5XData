@@ -1213,5 +1213,35 @@
     ],
     "useWether": 0,
     "useTime": 0
+  },
+  {
+    "sn": 87,
+    "sceneSN": 300,
+    "type": 0,
+    "fileName": "EFX_Amb_2D_Play_JXS",
+    "position": [
+      299.579,
+      29.959,
+      309.964
+    ],
+    "volume": 1,
+    "minDistance": 500,
+    "maxDistance": 500.01,
+    "rolloffMode": 0,
+    "useSwitch": 0,
+    "switchPosition": [
+      0,
+      0,
+      0
+    ],
+    "switchAreaType": 0,
+    "switchParam": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "useWether": 0,
+    "useTime": 0
   }
 ]

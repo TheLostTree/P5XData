@@ -8,10 +8,11 @@
       "6"
     ],
     "funcName": "武器",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "选择合适的武器，通过强化、改造，发挥出它全部的力量吧！",
-    "showPic": "shouji-wuqi01.png"
+    "showPic": "shouji-wuqi01.png",
+    "showName": ""
   },
   {
     "sn": 9,
@@ -24,10 +25,11 @@
       "UI_MainMenu_Right"
     ],
     "funcName": "启示",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "策略搭配启示卡，发掘丰富的套装效果，寻找最佳组合方式！",
-    "showPic": "shouji-qishi01.png"
+    "showPic": "shouji-qishi01.png",
+    "showName": ""
   },
   {
     "sn": 10,
@@ -40,10 +42,11 @@
       "UI_MainUI"
     ],
     "funcName": "灵感",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "激活不同灵感技能，让多种被动效果成为战斗中的绝佳助力！",
-    "showPic": "shouji-linggan01.png"
+    "showPic": "shouji-linggan01.png",
+    "showName": ""
   },
   {
     "sn": 16,
@@ -54,10 +57,11 @@
       "16"
     ],
     "funcName": "面具-全书",
-    "dialog": [],
+    "type": 1,
     "strSn": 1050053,
     "tipsText": "",
-    "showPic": ""
+    "showPic": "",
+    "showName": ""
   },
   {
     "sn": 301,
@@ -70,10 +74,11 @@
       "UI_MainMenu_Right"
     ],
     "funcName": "天鹅绒试炼",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "在天鹅绒房间中磨炼自身战斗技巧，获得更高战斗评价！",
-    "showPic": "shouji-tianerong.png"
+    "showPic": "shouji-tianerong.png",
+    "showName": ""
   },
   {
     "sn": 302,
@@ -84,10 +89,11 @@
       "302"
     ],
     "funcName": "厄抑之境",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "在厄抑之境中挑战，获取养成材料，快速增强怪盗团实力！",
-    "showPic": "shouji-eyizhijing.png"
+    "showPic": "shouji-eyizhijing.png",
+    "showName": ""
   },
   {
     "sn": 312,
@@ -98,10 +104,11 @@
       "312"
     ],
     "funcName": "心轨择行",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "选择心之列车前进方向，解决遭遇的随机事件，最终抵达终点！",
-    "showPic": "shouji-xinjizexing.png"
+    "showPic": "shouji-xinjizexing.png",
+    "showName": ""
   },
   {
     "sn": 330,
@@ -114,10 +121,41 @@
       "UI_MainMenu_Right"
     ],
     "funcName": "阏凶梦之扉",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "与乐园成员共同挑战，提高乐园活跃度！",
-    "showPic": "shouji-xiongmeng.png"
+    "showPic": "shouji-xiongmeng.png",
+    "showName": ""
+  },
+  {
+    "sn": 341,
+    "trigger": [
+      5
+    ],
+    "triggerValue": [
+      "341"
+    ],
+    "funcName": "委托派遣",
+    "type": 2,
+    "strSn": 0,
+    "tipsText": "完成玛奇姆的委托任务，领取相应派遣奖励！",
+    "showPic": "shouji-dispatch01.png",
+    "showName": ""
+  },
+  {
+    "sn": 342,
+    "trigger": [
+      5
+    ],
+    "triggerValue": [
+      "342"
+    ],
+    "funcName": "怪盗秘闻",
+    "type": 2,
+    "strSn": 0,
+    "tipsText": "完成怪盗专属试炼挑战，领取挑战奖励！",
+    "showPic": "shouji-thiefFight01.png",
+    "showName": ""
   },
   {
     "sn": 351,
@@ -132,10 +170,11 @@
       "UI_MainMenu_Right"
     ],
     "funcName": "棒球",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "进行棒球练习，获得更高积分，兑换稀有个性装饰。",
-    "showPic": "shouji-bangqiu.png"
+    "showPic": "shouji-bangqiu.png",
+    "showName": ""
   },
   {
     "sn": 352,
@@ -146,10 +185,11 @@
       "11092"
     ],
     "funcName": "钓鱼",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "提高垂钓技巧，钓鱼手册中解锁更多鱼类。",
-    "showPic": "shouji-diaoyu.png"
+    "showPic": "shouji-diaoyu.png",
+    "showName": ""
   },
   {
     "sn": 353,
@@ -160,10 +200,11 @@
       "20026"
     ],
     "funcName": "扭蛋",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "投入硬币，就有机会获得心仪的扭蛋款式。",
-    "showPic": "shouji-niudan.png"
+    "showPic": "shouji-niudan.png",
+    "showName": ""
   },
   {
     "sn": 360,
@@ -174,24 +215,28 @@
       "40325"
     ],
     "funcName": "社团",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "学校中庭的布告栏张贴着不同社团的海报，可以前往参与社团活动。",
-    "showPic": "shouji-shetuan.png"
+    "showPic": "shouji-shetuan.png",
+    "showName": ""
   },
   {
     "sn": 401,
     "trigger": [
-      4
+      5,
+      20
     ],
     "triggerValue": [
-      "10263"
+      "401",
+      "402"
     ],
     "funcName": "契约",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "签订命运的契约，与注定的伙伴在此相遇！",
-    "showPic": "shouji-zhanbu01.png"
+    "showPic": "shouji-zhanbu01.png",
+    "showName": ""
   },
   {
     "sn": 402,
@@ -204,10 +249,11 @@
       "906"
     ],
     "funcName": "活动",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "立刻参与限时活动，获取大量异界晶珀、契约凭证以及个性化装饰！",
-    "showPic": "shouji-huodong01.png"
+    "showPic": "shouji-huodong01-2.0.png",
+    "showName": ""
   },
   {
     "sn": 403,
@@ -220,10 +266,11 @@
       "0"
     ],
     "funcName": "计划",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "完成计划清单，获得成长奖励，领取成长等级回馈！",
-    "showPic": "shouji-jihua01.png"
+    "showPic": "shouji-jihua01.png",
+    "showName": ""
   },
   {
     "sn": 407,
@@ -234,10 +281,11 @@
       "407"
     ],
     "funcName": "目标",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "达成每日商业目标，获取对应稀有奖励！",
-    "showPic": "shouji-mubiao01.png"
+    "showPic": "shouji-mubiao01.png",
+    "showName": ""
   },
   {
     "sn": 503,
@@ -248,10 +296,11 @@
       "13003"
     ],
     "funcName": "卢布朗咖啡",
-    "dialog": [],
+    "type": 1,
     "strSn": 1050056,
     "tipsText": "",
-    "showPic": ""
+    "showPic": "",
+    "showName": ""
   },
   {
     "sn": 605,
@@ -262,10 +311,11 @@
       "605"
     ],
     "funcName": "都市日程",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "以高中生身份，体验丰富多彩的校园及都市生活！",
-    "showPic": "shouji-dushi01.png"
+    "showPic": "shouji-dushi01.png",
+    "showName": ""
   },
   {
     "sn": 609,
@@ -276,10 +326,11 @@
       "609"
     ],
     "funcName": "异世界",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "化身怪盗，与伙伴一起在印象空间和欲望宫殿中展开探险！",
-    "showPic": "shouji-yishijie01.png"
+    "showPic": "shouji-yishijie01.png",
+    "showName": ""
   },
   {
     "sn": 701,
@@ -290,10 +341,11 @@
       "701"
     ],
     "funcName": "自宅",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "经历了不可思议的一天！休息一下，享受家居生活吧！",
-    "showPic": "shouji-zizhai01.png"
+    "showPic": "shouji-zizhai01.png",
+    "showName": ""
   },
   {
     "sn": 702,
@@ -304,10 +356,11 @@
       "702"
     ],
     "funcName": "种植",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "在庭院的花盆中撒下种子，等待收获多样食材与花卉！",
-    "showPic": "shouji-zhongzhi01.png"
+    "showPic": "shouji-zhongzhi01.png",
+    "showName": ""
   },
   {
     "sn": 703,
@@ -318,10 +371,11 @@
       "703"
     ],
     "funcName": "烹饪",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "使用新鲜食材烹制，随熟练度提升更能获得美味菜肴！",
-    "showPic": "shouji-pengren01.png"
+    "showPic": "shouji-pengren01.png",
+    "showName": ""
   },
   {
     "sn": 704,
@@ -332,10 +386,11 @@
       "704"
     ],
     "funcName": "工作台",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "使用工作台，制作潜入道具以及各种素材，协助探险！",
-    "showPic": "shouji-gongzuotai01.png"
+    "showPic": "shouji-gongzuotai01.png",
+    "showName": ""
   },
   {
     "sn": 705,
@@ -346,10 +401,11 @@
       "705"
     ],
     "funcName": "自宅",
-    "dialog": [],
+    "type": 1,
     "strSn": 1050054,
     "tipsText": "",
-    "showPic": ""
+    "showPic": "",
+    "showName": ""
   },
   {
     "sn": 706,
@@ -362,10 +418,11 @@
       "2130004"
     ],
     "funcName": "衣柜",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "搭配服装，为不同的生活状态搭配个性化时装。",
-    "showPic": "shouji-yigui01.png"
+    "showPic": "shouji-yigui01.png",
+    "showName": ""
   },
   {
     "sn": 707,
@@ -376,10 +433,11 @@
       "20027"
     ],
     "funcName": "展示柜",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "摆放收集的扭蛋，展示更多个性化收集！",
-    "showPic": "shouji-zhanshigui.png"
+    "showPic": "shouji-zhanshigui.png",
+    "showName": ""
   },
   {
     "sn": 903,
@@ -390,10 +448,11 @@
       "903"
     ],
     "funcName": "怪盗",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "训练技能、强化武器、提升灵感，成长为更优秀的怪盗吧！",
-    "showPic": "shouji-guaidao01.png"
+    "showPic": "shouji-guaidao01.png",
+    "showName": ""
   },
   {
     "sn": 905,
@@ -404,10 +463,11 @@
       "905"
     ],
     "funcName": "协同者",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "与伙伴亲密互动，随着关系加深解锁更多协同效果！",
-    "showPic": "shouji-huoban01.png"
+    "showPic": "shouji-huoban01.png",
+    "showName": ""
   },
   {
     "sn": 906,
@@ -418,10 +478,11 @@
       "906"
     ],
     "funcName": "商店",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "刚刚遇到的神秘阴影，似乎想向我们兜售商品，现在就去看看吧。",
-    "showPic": "shouji-shangcheng01.png"
+    "showPic": "shouji-shangcheng01.png",
+    "showName": ""
   },
   {
     "sn": 908,
@@ -432,10 +493,11 @@
       "908"
     ],
     "funcName": "通讯录",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "添加更多好友，共同体验都市生活；协作进行异界探险！",
-    "showPic": "shouji-tongxunlu01.png"
+    "showPic": "shouji-tongxunlu01.png",
+    "showName": ""
   },
   {
     "sn": 910,
@@ -446,10 +508,11 @@
       "910"
     ],
     "funcName": "异闻",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "收集欲望的线索，探寻某个未知世界的故事！",
-    "showPic": "shouji-yiwen01.png"
+    "showPic": "shouji-yiwen01.png",
+    "showName": ""
   },
   {
     "sn": 913,
@@ -460,10 +523,11 @@
       "913"
     ],
     "funcName": "教程",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "查看教程，学习已解锁的教学内容！",
-    "showPic": "shouji-jiaocheng01.png"
+    "showPic": "shouji-jiaocheng01.png",
+    "showName": ""
   },
   {
     "sn": 915,
@@ -474,10 +538,11 @@
       "915"
     ],
     "funcName": "乐园",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "加入乐园，与更多伙伴共同体验和交流！",
-    "showPic": "shouji-lianmeng01.png"
+    "showPic": "shouji-lianmeng01.png",
+    "showName": ""
   },
   {
     "sn": 990,
@@ -490,9 +555,85 @@
       "0"
     ],
     "funcName": "人格面具",
-    "dialog": [],
+    "type": 2,
     "strSn": 0,
     "tipsText": "直面内心的欲望，对觉醒的人格面具进行训练与重构！",
-    "showPic": "shouji-mianju01.png"
+    "showPic": "shouji-mianju01.png",
+    "showName": ""
+  },
+  {
+    "sn": 1001,
+    "trigger": [
+      2
+    ],
+    "triggerValue": [
+      "22002"
+    ],
+    "funcName": "水枪大乱斗",
+    "type": 3,
+    "strSn": 0,
+    "tipsText": "在临海教学期间，可以随时参与水枪打靶游戏了。\n与伙伴一起拯救濒临倒闭的店铺，以满分为目标挽回客人！",
+    "showPic": "summerActivity-guide-pic1.png",
+    "showName": "summerActivity-guide-title1-i18n.png"
+  },
+  {
+    "sn": 1002,
+    "trigger": [
+      2
+    ],
+    "triggerValue": [
+      "22006"
+    ],
+    "funcName": "刨冰叠叠乐",
+    "type": 3,
+    "strSn": 0,
+    "tipsText": "通过朋子的介绍，现在可以在海之家进行刨冰打工了。\n努力制作客人喜欢的刨冰口味，完成店铺的营业要求吧！",
+    "showPic": "summerActivity-guide-pic4.png",
+    "showName": "summerActivity-guide-title4-i18n.png"
+  },
+  {
+    "sn": 1003,
+    "trigger": [
+      2
+    ],
+    "triggerValue": [
+      "22009"
+    ],
+    "funcName": "海滩的异变",
+    "type": 3,
+    "strSn": 0,
+    "tipsText": "异变出现！现在可以随时「前往」异世界的代里海岸了。\n消灭盘踞在沙滩上的阴影，让代里海岸再次热闹起来！",
+    "showPic": "summerActivity-guide-pic3.png",
+    "showName": "summerActivity-guide-title3-i18n.png"
+  },
+  {
+    "sn": 1004,
+    "trigger": [
+      20
+    ],
+    "triggerValue": [
+      "1003"
+    ],
+    "funcName": "夏日的回忆",
+    "type": 3,
+    "strSn": 0,
+    "tipsText": "在解决异变的同时，沙滩上经营着各种有趣的店铺。\n机会难得，与伙伴们好好享受一下悠闲的海边时光吧！",
+    "showPic": "summerActivity-guide-pic2.png",
+    "showName": "summerActivity-guide-title2-i18n.png"
+  },
+  {
+    "sn": 1005,
+    "trigger": [
+      20
+    ],
+    "triggerValue": [
+      "1004"
+    ],
+    "funcName": "烟火大会",
+    "type": 3,
+    "strSn": 0,
+    "tipsText": "代里海岸举办了烟火燃放体验活动，\n选择你喜欢的烟花，邀请伙伴一起留下珍贵的回忆！",
+    "showPic": "summerActivity-guide-pic5.png",
+    "showName": "summerActivity-guide-title5-i18n.png"
   }
 ]

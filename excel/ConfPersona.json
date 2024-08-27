@@ -4152,7 +4152,7 @@
     "obtainWayFunc": [],
     "theifTimeLine": "P4",
     "dissolutionType": 0,
-    "collectionExp": 0,
+    "collectionExp": 50,
     "rankupItem": 0,
     "rankupTitle": [],
     "rankupDesc": [],
@@ -4233,13 +4233,13 @@
       0
     ],
     "positionPersona": [
-      -0.38,
-      -0.54,
-      -1.23
+      -0.005,
+      -0.277,
+      0.51
     ],
     "rotatePersona": [
       0,
-      0,
+      -17.376,
       0
     ],
     "positionFeature": [
@@ -5044,10 +5044,10 @@
     "sn": 127,
     "coop": 0,
     "name": "霜精之王",
-    "visiableinroom": 0,
-    "visiableInIndex": 0,
+    "visiableinroom": 1,
+    "visiableInIndex": 1,
     "rank": 7,
-    "grade": 5,
+    "grade": 6,
     "model": "kingfrost",
     "role": 4,
     "stagelvl": 61,
@@ -5057,23 +5057,23 @@
     ],
     "Material": "Unlit_Persona_RimLight",
     "guaidaoAnim": "fight",
-    "PScale": 0.3,
+    "PScale": 0.25,
     "jinjiePersonaScale": 0,
-    "UIScale": 0.28,
+    "UIScale": 0.3,
     "TLPosition": [
+      0.18,
       0.35,
-      0.24,
-      0
+      -0.27
     ],
     "TLRotation": [
       16.53,
       6,
-      8.25
+      8.52
     ],
     "TLPositionSub": [
-      0.61,
-      0.83,
-      0.42
+      0.55,
+      0.62,
+      0
     ],
     "TLRotationSub": [
       0,
@@ -5109,9 +5109,9 @@
       0
     ],
     "positionPersona": [
-      -1.2,
-      -2.7,
-      -10.5
+      -0.2,
+      -0.41,
+      -1.96
     ],
     "rotatePersona": [
       0,
@@ -5155,7 +5155,7 @@
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
     "story": "拥有巨大的雪人身躯，是杰克霜精的王者。\n它统领着无数的杰克霜精，拥有以白雪与冰霜冻结整个世界的力量，但是性格却同下属们一样非常天真无邪。",
-    "fixedSkills": 1408,
+    "fixedSkills": 12711,
     "oneMoreSkill": 1804,
     "innateSkills": [
       [
@@ -5218,39 +5218,39 @@
       251
     ],
     "initialProperty": [
-      201.66,
-      44.81,
-      37.34,
+      208.86,
+      74.02,
+      49.35,
       0
     ],
     "levelupProperty": [
       [
-        4.89,
-        1.09,
-        0.9,
+        5.06,
+        1.79,
+        1.2,
         0
       ]
     ],
     "awakeProperty": [
       [
-        "241:40.32",
-        "261:8.96",
-        "271:7.47"
+        "241:41.76",
+        "261:14.8",
+        "271:9.87"
       ],
       [
-        "241:80.64",
-        "261:17.92",
-        "271:14.94"
+        "241:83.52",
+        "261:29.6",
+        "271:19.74"
       ],
       [
-        "241:120.96",
-        "261:26.88",
-        "271:22.41"
+        "241:125.28",
+        "261:44.4",
+        "271:29.61"
       ],
       [
-        "241:161.28",
-        "261:35.84",
-        "271:29.88"
+        "241:167.04",
+        "261:59.2",
+        "271:39.48"
       ]
     ],
     "rankupProperty": [
@@ -5311,7 +5311,7 @@
     "labelpic": "4,冰冻坦克",
     "itemsn": 510127,
     "chipsn": 520127,
-    "trainFailAward": 233020,
+    "trainFailAward": 233019,
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
@@ -5320,11 +5320,15 @@
     "dialog": 3892032,
     "dialog2": 3892254,
     "blueLightAlphaFix": 0.8,
-    "obtainWay": [],
-    "obtainWayFunc": [],
+    "obtainWay": [
+      5
+    ],
+    "obtainWayFunc": [
+      33061
+    ],
     "theifTimeLine": "P131",
     "dissolutionType": 0,
-    "collectionExp": 0,
+    "collectionExp": 50,
     "rankupItem": 0,
     "rankupTitle": [],
     "rankupDesc": [],
@@ -8054,9 +8058,9 @@
       0
     ],
     "positionPersona": [
-      -0.77,
-      -0.27,
-      0.47
+      0.057,
+      0.296,
+      0.977
     ],
     "rotatePersona": [
       0,
@@ -8582,8 +8586,8 @@
     "sn": 139,
     "coop": 0,
     "name": "义经",
-    "visiableinroom": 0,
-    "visiableInIndex": 0,
+    "visiableinroom": 1,
+    "visiableInIndex": 1,
     "rank": 8,
     "grade": 6,
     "model": "yoshitune",
@@ -8657,14 +8661,14 @@
       0
     ],
     "positionFeature": [
-      0.1,
-      -0.29,
-      -0.56
+      -0.02,
+      -0.2,
+      0.02
     ],
     "positionFeatureB": [
-      0.1,
-      -0.29,
-      -0.56
+      -0.06,
+      -0.43,
+      0.01
     ],
     "rotateFeature": [
       0,
@@ -8692,34 +8696,35 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "活跃于平安末期至镰仓初期的武将，作为源平合战的传奇英雄而知名。\n他依靠大胆的谋略与奔放的剑术立下诸多战功，后来却被兄长赖朝追杀，其一生波澜壮阔，至今仍是一位让人们心潮澎湃的英灵。",
-    "fixedSkills": 1008,
+    "story": "活跃于平安末期至镰仓初期的武将，作为源平合战的传奇英雄而知名。\n他依靠大胆的谋略与奔放的剑术立下诸多战功，后来却被兄长赖朝追杀。\n其一生波澜壮阔，至今仍是一位让人们心潮澎湃的英灵。",
+    "fixedSkills": 13911,
     "oneMoreSkill": 1601,
     "innateSkills": [
       [
-        8011,
-        1
+        1008,
+        10
       ],
       [
-        8031,
+        303,
+        20
+      ],
+      [
+        8094,
         30
       ],
       [
-        8051,
-        50
+        1403,
+        40
       ]
     ],
     "innateSkillsLearnWeight": [
       10,
       10,
+      10,
       10
     ],
-    "positiveSkills": [
-      201
-    ],
-    "PersonaAIPriority": [
-      1
-    ],
+    "positiveSkills": [],
+    "PersonaAIPriority": [],
     "showtimeSkill": 10171,
     "skillItems": [
       302401,
@@ -8815,13 +8820,10 @@
       0
     ],
     "feature": [
-      13940,
       13941,
       13942,
       13943,
-      13944,
-      13945,
-      13946
+      13944
     ],
     "autoFightAI": [
       1129
@@ -8852,11 +8854,15 @@
     "dialog": 3892056,
     "dialog2": 3892278,
     "blueLightAlphaFix": 0.8,
-    "obtainWay": [],
-    "obtainWayFunc": [],
+    "obtainWay": [
+      5
+    ],
+    "obtainWayFunc": [
+      33064
+    ],
     "theifTimeLine": "P13",
     "dissolutionType": 0,
-    "collectionExp": 0,
+    "collectionExp": 50,
     "rankupItem": 0,
     "rankupTitle": [],
     "rankupDesc": [],
@@ -12221,13 +12227,13 @@
       0
     ],
     "positionPersona": [
-      -0.38,
-      -0.54,
-      -1.23
+      0.024,
+      0.109,
+      0.552
     ],
     "rotatePersona": [
       0,
-      0,
+      -43.357,
       0
     ],
     "positionFeature": [
@@ -12517,13 +12523,13 @@
       0
     ],
     "positionPersona": [
-      -0.38,
-      -0.54,
-      -1.23
+      -1.59,
+      -0.65,
+      -5.02
     ],
     "rotatePersona": [
       0,
-      0,
+      -23.989,
       0
     ],
     "positionFeature": [
@@ -14899,9 +14905,9 @@
       0
     ],
     "positionPersona": [
-      -0.22,
-      -0.5,
-      -2.46
+      0.055,
+      0.101,
+      -0.535
     ],
     "rotatePersona": [
       0,
@@ -17600,7 +17606,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "四大天王之一，受帝释天之命守护须弥山的东方。\n被认为是可以使国泰民安的神，据说除了位于东方的东胜身洲之外，也能守护位于其他方位的三洲。",
+    "story": "四大天王之一，受帝释天之命守护须弥山的东方。\n被认为是可以使国泰民安的神，据说除了位于东方的东胜神洲之外，也能守护位于其他方位的三洲。",
     "fixedSkills": 1404,
     "oneMoreSkill": 1801,
     "innateSkills": [
@@ -24600,7 +24606,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_112_1"
     ],
     "dialog": 3892164,
     "dialog2": 3892384,
@@ -24902,7 +24908,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_123_1"
     ],
     "dialog": 3892166,
     "dialog2": 3892386,
@@ -25206,7 +25212,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_073_1"
     ],
     "dialog": 3892168,
     "dialog2": 3892388,
@@ -25499,7 +25505,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_033_1"
     ],
     "dialog": 3892170,
     "dialog2": 3892390,
@@ -25793,7 +25799,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_105_1"
     ],
     "dialog": 3892172,
     "dialog2": 3892392,
@@ -26087,7 +26093,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_047_1"
     ],
     "dialog": 3892176,
     "dialog2": 3892394,
@@ -26381,7 +26387,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_074_1"
     ],
     "dialog": 3892178,
     "dialog2": 3892396,
@@ -26675,7 +26681,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_131_1"
     ],
     "dialog": 3892180,
     "dialog2": 3892398,
@@ -26969,7 +26975,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_096_1"
     ],
     "dialog": 3892182,
     "dialog2": 3892400,
@@ -27266,7 +27272,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_110_1"
     ],
     "dialog": 3892184,
     "dialog2": 3892402,
@@ -27563,7 +27569,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_108_1"
     ],
     "dialog": 3892186,
     "dialog2": 3892404,
@@ -27860,7 +27866,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_143_1"
     ],
     "dialog": 3892188,
     "dialog2": 3892406,
@@ -28155,7 +28161,7 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_146_1"
     ],
     "dialog": 3892190,
     "dialog2": 3892408,
@@ -28450,7 +28456,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_092_1"
     ],
     "dialog": 3892192,
     "dialog2": 3892410,
@@ -28745,7 +28751,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_148_1"
     ],
     "dialog": 3892194,
     "dialog2": 3892412,
@@ -29042,7 +29048,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_147_1"
     ],
     "dialog": 3892196,
     "dialog2": 3892414,
@@ -29337,7 +29343,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_041_1"
     ],
     "dialog": 3892198,
     "dialog2": 3892416,
@@ -29633,7 +29639,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_026_1"
     ],
     "dialog": 3892200,
     "dialog2": 3892418,
@@ -29924,7 +29930,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_102_1"
     ],
     "dialog": 3892202,
     "dialog2": 3892420,
@@ -30215,7 +30221,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_176_1"
     ],
     "dialog": 3892204,
     "dialog2": 3892422,
@@ -30513,7 +30519,7 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_190_1"
     ],
     "dialog": 3892206,
     "dialog2": 3892424,
@@ -30811,7 +30817,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_158_1"
     ],
     "dialog": 3892208,
     "dialog2": 3892426,
@@ -31109,7 +31115,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_129_1"
     ],
     "dialog": 3892210,
     "dialog2": 3892428,
@@ -31405,7 +31411,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_130_1"
     ],
     "dialog": 3892212,
     "dialog2": 3892430,
@@ -31703,7 +31709,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_040_1"
     ],
     "dialog": 3892214,
     "dialog2": 3892432,
@@ -32001,7 +32007,7 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_162_1"
     ],
     "dialog": 3892216,
     "dialog2": 3892434,
@@ -32591,7 +32597,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_027_1"
     ],
     "dialog": 3892220,
     "dialog2": 3892438,
@@ -32884,7 +32890,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_109_1"
     ],
     "dialog": 3892501,
     "dialog2": 3892502,
@@ -33181,7 +33187,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_135_1"
     ],
     "dialog": 3892441,
     "dialog2": 3892504,
@@ -33753,7 +33759,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_181_1"
     ],
     "dialog": 3892445,
     "dialog2": 3892508,
@@ -34046,7 +34052,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_113_1"
     ],
     "dialog": 3892447,
     "dialog2": 3892510,
@@ -34645,7 +34651,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_132_1"
     ],
     "dialog": 3892451,
     "dialog2": 3892514,
@@ -34943,7 +34949,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_106_1"
     ],
     "dialog": 3892453,
     "dialog2": 3892516,
@@ -35239,7 +35245,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_079_1"
     ],
     "dialog": 3892455,
     "dialog2": 3892518,
@@ -35533,7 +35539,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_050_1"
     ],
     "dialog": 3892457,
     "dialog2": 3892520,
@@ -35827,7 +35833,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_119_1"
     ],
     "dialog": 3892459,
     "dialog2": 3892522,
@@ -36124,7 +36130,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_134_1"
     ],
     "dialog": 3892461,
     "dialog2": 3892524,
@@ -36421,7 +36427,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_182_1"
     ],
     "dialog": 3892463,
     "dialog2": 3892526,
@@ -36715,7 +36721,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_184_1"
     ],
     "dialog": 3892465,
     "dialog2": 3892528,
@@ -37010,7 +37016,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_175_1"
     ],
     "dialog": 3892467,
     "dialog2": 3892530,
@@ -37305,7 +37311,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_090_1"
     ],
     "dialog": 3892469,
     "dialog2": 3892532,
@@ -37600,7 +37606,7 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_191_1"
     ],
     "dialog": 3892471,
     "dialog2": 3892534,
@@ -37895,7 +37901,7 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_101_1"
     ],
     "dialog": 3892473,
     "dialog2": 3892536,
@@ -38192,7 +38198,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_070_1"
     ],
     "dialog": 3892475,
     "dialog2": 3892538,
@@ -38487,7 +38493,7 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_p_32"
     ],
     "dialog": 3892477,
     "dialog2": 3892540,
@@ -38782,7 +38788,7 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_038_1"
     ],
     "dialog": 3892479,
     "dialog2": 3892542,
@@ -39667,7 +39673,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_043_1"
     ],
     "dialog": 3892485,
     "dialog2": 3892548,
@@ -39962,7 +39968,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_116_1"
     ],
     "dialog": 3892487,
     "dialog2": 3892550,
@@ -40260,7 +40266,7 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_177_1"
     ],
     "dialog": 3892489,
     "dialog2": 3892552,
@@ -40852,7 +40858,7 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_192_1"
     ],
     "dialog": 3892493,
     "dialog2": 3892556,
@@ -41445,7 +41451,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_121_1"
     ],
     "dialog": 3892497,
     "dialog2": 3892560,
@@ -41745,7 +41751,7 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_133_1"
     ],
     "dialog": 3892499,
     "dialog2": 3892562,
@@ -42045,10 +42051,10 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_p_075"
     ],
-    "dialog": 3892499,
-    "dialog2": 3892562,
+    "dialog": 3892564,
+    "dialog2": 3892578,
     "blueLightAlphaFix": 0,
     "obtainWay": [
       3
@@ -42074,12 +42080,12 @@
     "sn": 252,
     "coop": 0,
     "name": "毘沙门天",
-    "visiableinroom": 0,
-    "visiableInIndex": 0,
+    "visiableinroom": 1,
+    "visiableInIndex": 1,
     "rank": 7,
     "grade": 6,
     "model": "bishamonten",
-    "role": 2,
+    "role": 1,
     "stagelvl": 67,
     "AwardTalent": [
       12,
@@ -42165,15 +42171,15 @@
     ],
     "decomposeAward": 233019,
     "bigHead": "B-guaiwutouxiang-bishamonten.png",
-    "gachaBigCard": "",
+    "gachaBigCard": "lihui-persona-bishamonten.png",
     "cardPosition": [
-      -40,
-      8
+      27,
+      -59
     ],
-    "cardScale": 0.62,
+    "cardScale": 0.88,
     "personaBigCardPos": [
-      -58,
-      -13
+      0,
+      -92
     ],
     "entryCardPosition": [
       -40,
@@ -42217,7 +42223,7 @@
       10113
     ],
     "PersonaAIPriority": [],
-    "showtimeSkill": 10178,
+    "showtimeSkill": 10158,
     "skillItems": [
       302401,
       302402,
@@ -42312,10 +42318,10 @@
       2
     ],
     "feature": [
-      10140,
-      10141,
-      10142,
-      10143
+      25240,
+      25241,
+      25242,
+      25243
     ],
     "autoFightAI": [
       101
@@ -42341,16 +42347,20 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_p_168"
     ],
-    "dialog": 3892499,
-    "dialog2": 3892562,
+    "dialog": 3892566,
+    "dialog2": 3892580,
     "blueLightAlphaFix": 0,
-    "obtainWay": [],
-    "obtainWayFunc": [],
+    "obtainWay": [
+      5
+    ],
+    "obtainWayFunc": [
+      33062
+    ],
     "theifTimeLine": "P115",
     "dissolutionType": 0,
-    "collectionExp": 0,
+    "collectionExp": 50,
     "rankupItem": 0,
     "rankupTitle": [],
     "rankupDesc": [],
@@ -42633,10 +42643,10 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_p_094"
     ],
-    "dialog": 3892499,
-    "dialog2": 3892562,
+    "dialog": 3892568,
+    "dialog2": 3892582,
     "blueLightAlphaFix": 0,
     "obtainWay": [
       1,
@@ -42931,10 +42941,10 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_111_1"
     ],
-    "dialog": 3892499,
-    "dialog2": 3892562,
+    "dialog": 3892570,
+    "dialog2": 3892584,
     "blueLightAlphaFix": 0,
     "obtainWay": [
       1,
@@ -42962,8 +42972,8 @@
     "sn": 255,
     "coop": 0,
     "name": "默基瑟德",
-    "visiableinroom": 0,
-    "visiableInIndex": 0,
+    "visiableinroom": 1,
+    "visiableInIndex": 1,
     "rank": 6,
     "grade": 6,
     "model": "melkisedec",
@@ -43195,10 +43205,10 @@
       2
     ],
     "feature": [
-      10140,
-      10141,
-      10142,
-      10143
+      25540,
+      25541,
+      25542,
+      25543
     ],
     "autoFightAI": [
       101
@@ -43224,16 +43234,20 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_128_1"
     ],
-    "dialog": 3892499,
-    "dialog2": 3892562,
+    "dialog": 3892572,
+    "dialog2": 3892586,
     "blueLightAlphaFix": 0,
-    "obtainWay": [],
-    "obtainWayFunc": [],
+    "obtainWay": [
+      5
+    ],
+    "obtainWayFunc": [
+      33063
+    ],
     "theifTimeLine": "P118",
     "dissolutionType": 0,
-    "collectionExp": 0,
+    "collectionExp": 50,
     "rankupItem": 0,
     "rankupTitle": [],
     "rankupDesc": [],
@@ -43511,10 +43525,10 @@
     "demonCan": 1,
     "personaplace": 2,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_174_1"
     ],
-    "dialog": 3892499,
-    "dialog2": 3892562,
+    "dialog": 3892574,
+    "dialog2": 3892588,
     "blueLightAlphaFix": 0,
     "obtainWay": [],
     "obtainWayFunc": [],
@@ -43803,10 +43817,10 @@
     "demonCan": 1,
     "personaplace": 1,
     "personaSound": [
-      "bp11_006_1"
+      "bp11_089_1"
     ],
-    "dialog": 3892499,
-    "dialog2": 3892562,
+    "dialog": 3892576,
+    "dialog2": 3892590,
     "blueLightAlphaFix": 0,
     "obtainWay": [
       3
@@ -43817,6 +43831,590 @@
     "theifTimeLine": "P120",
     "dissolutionType": 0,
     "collectionExp": 20,
+    "rankupItem": 0,
+    "rankupTitle": [],
+    "rankupDesc": [],
+    "uniqueBuff": [],
+    "uniqueBuffUI": "",
+    "uniqueBuffIcon": [],
+    "uniqueBuffSeq": [],
+    "iconOverlayMode": [],
+    "iconHideMode": [],
+    "isCombineSearch": 1
+  },
+  {
+    "sn": 258,
+    "coop": 0,
+    "name": "切尔诺伯格",
+    "visiableinroom": 1,
+    "visiableInIndex": 1,
+    "rank": 7,
+    "grade": 6,
+    "model": "chernobog",
+    "role": 6,
+    "stagelvl": 62,
+    "AwardTalent": [
+      12,
+      500
+    ],
+    "Material": "Unlit_Persona_RimLight",
+    "guaidaoAnim": "fight",
+    "PScale": 1,
+    "jinjiePersonaScale": 0,
+    "UIScale": 1,
+    "TLPosition": [
+      0.2,
+      0.14,
+      0
+    ],
+    "TLRotation": [
+      5,
+      -32.96,
+      5.57
+    ],
+    "TLPositionSub": [
+      0.57,
+      0.39,
+      0
+    ],
+    "TLRotationSub": [
+      0,
+      -31.77,
+      0
+    ],
+    "UIScaleCombine": 1,
+    "combineScale": 1,
+    "combinePosition": [
+      0,
+      0,
+      0
+    ],
+    "combineRotation": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleII": 0.9,
+    "TLPositionII": [
+      2.34,
+      -0.57,
+      -0.3
+    ],
+    "TLRotationII": [
+      9.16,
+      -52,
+      -15.2
+    ],
+    "collisionPersona": [
+      0,
+      0,
+      0
+    ],
+    "positionPersona": [
+      0,
+      0,
+      -0.09
+    ],
+    "rotatePersona": [
+      0,
+      -57.76,
+      0
+    ],
+    "positionFeature": [
+      -0.12,
+      -0.3,
+      0.21
+    ],
+    "positionFeatureB": [
+      -0.14,
+      -0.42,
+      0.1
+    ],
+    "rotateFeature": [
+      0,
+      -45,
+      0
+    ],
+    "decomposeAward": 233016,
+    "bigHead": "B-guaiwutouxiang-chernobog.png",
+    "gachaBigCard": "lihui-persona-chernobog.png",
+    "cardPosition": [
+      6,
+      -131
+    ],
+    "cardScale": 0.8,
+    "personaBigCardPos": [
+      1,
+      -184
+    ],
+    "entryCardPosition": [
+      -40,
+      8
+    ],
+    "personaBigCardMaterial": "",
+    "gachaResultPic": "",
+    "gachaResultPicOffset": [],
+    "gachaResultPicTiling": [],
+    "gachaResultPicAdapter": [],
+    "story": "斯拉夫神话中的死神。名字的意思是「黑之神」。\n他居住于地底，掌管黑夜、邪恶与死亡。\n和掌管着光明与善良的「白之神」贝尔博格彼此对立。\n也有许多人因为他的诅咒之力而崇拜他。",
+    "fixedSkills": 25811,
+    "oneMoreSkill": 1601,
+    "innateSkills": [
+      [
+        810,
+        10
+      ],
+      [
+        1040,
+        20
+      ],
+      [
+        9173,
+        30
+      ],
+      [
+        1011,
+        40
+      ]
+    ],
+    "innateSkillsLearnWeight": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "positiveSkills": [],
+    "PersonaAIPriority": [],
+    "showtimeSkill": 10191,
+    "skillItems": [
+      302401,
+      302402,
+      302403,
+      302411,
+      302490
+    ],
+    "dynamicSkills": [
+      5016,
+      5046
+    ],
+    "dynamicSkillsLv": [
+      3,
+      7,
+      15,
+      20,
+      30,
+      35
+    ],
+    "property": [
+      241,
+      261,
+      271,
+      251
+    ],
+    "initialProperty": [
+      240.07,
+      66.69,
+      44.46,
+      0
+    ],
+    "levelupProperty": [
+      [
+        5.82,
+        1.62,
+        1.08,
+        0
+      ]
+    ],
+    "awakeProperty": [
+      [
+        "241:48",
+        "261:13.33",
+        "271:8.89"
+      ],
+      [
+        "241:96",
+        "261:26.66",
+        "271:17.78"
+      ],
+      [
+        "241:144",
+        "261:39.99",
+        "271:26.67"
+      ],
+      [
+        "241:192",
+        "261:53.32",
+        "271:35.56"
+      ]
+    ],
+    "rankupProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "levelupGroup": 14,
+    "nature": 1,
+    "inheritNature": 1,
+    "adaptType": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "adaptValue": [
+      0,
+      2,
+      1,
+      2,
+      2,
+      0,
+      0,
+      0,
+      1,
+      2
+    ],
+    "feature": [
+      25841,
+      25842,
+      25843,
+      25844
+    ],
+    "autoFightAI": [
+      101
+    ],
+    "autoFightTitle": [
+      "全力输出"
+    ],
+    "autoFightImg": [
+      "shouji-shezhi01.png"
+    ],
+    "infocomment": [
+      2,
+      3,
+      3,
+      5,
+      4,
+      1
+    ],
+    "labelpic": "1,物理减益",
+    "itemsn": 510258,
+    "chipsn": 520258,
+    "trainFailAward": 233019,
+    "demonCan": 1,
+    "personaplace": 1,
+    "personaSound": [
+      "bp11_078_1"
+    ],
+    "dialog": 3892572,
+    "dialog2": 3892586,
+    "blueLightAlphaFix": 0,
+    "obtainWay": [
+      5
+    ],
+    "obtainWayFunc": [
+      33065
+    ],
+    "theifTimeLine": "P133",
+    "dissolutionType": 0,
+    "collectionExp": 50,
+    "rankupItem": 0,
+    "rankupTitle": [],
+    "rankupDesc": [],
+    "uniqueBuff": [],
+    "uniqueBuffUI": "",
+    "uniqueBuffIcon": [],
+    "uniqueBuffSeq": [],
+    "iconOverlayMode": [],
+    "iconHideMode": [],
+    "isCombineSearch": 1
+  },
+  {
+    "sn": 259,
+    "coop": 0,
+    "name": "莉莉丝",
+    "visiableinroom": 1,
+    "visiableInIndex": 1,
+    "rank": 7,
+    "grade": 6,
+    "model": "lilith",
+    "role": 2,
+    "stagelvl": 60,
+    "AwardTalent": [
+      12,
+      500
+    ],
+    "Material": "Unlit_Persona_RimLight",
+    "guaidaoAnim": "fight",
+    "PScale": 1,
+    "jinjiePersonaScale": 0,
+    "UIScale": 1.5,
+    "TLPosition": [
+      0.38,
+      -0.02,
+      0
+    ],
+    "TLRotation": [
+      0.4,
+      18.03,
+      10
+    ],
+    "TLPositionSub": [
+      0.66,
+      0.19,
+      0
+    ],
+    "TLRotationSub": [
+      0,
+      6,
+      0
+    ],
+    "UIScaleCombine": 1,
+    "combineScale": 1,
+    "combinePosition": [
+      0,
+      0,
+      0
+    ],
+    "combineRotation": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleII": 0.9,
+    "TLPositionII": [
+      2.34,
+      -0.57,
+      -0.3
+    ],
+    "TLRotationII": [
+      9.16,
+      -52,
+      -15.2
+    ],
+    "collisionPersona": [
+      0,
+      0,
+      0
+    ],
+    "positionPersona": [
+      0.12,
+      0.03,
+      0.18
+    ],
+    "rotatePersona": [
+      0,
+      -18.049,
+      0
+    ],
+    "positionFeature": [
+      -0.12,
+      -0.09,
+      0.21
+    ],
+    "positionFeatureB": [
+      -0.14,
+      -0.42,
+      0.1
+    ],
+    "rotateFeature": [
+      0,
+      0,
+      0
+    ],
+    "decomposeAward": 233016,
+    "bigHead": "B-guaiwutouxiang-lilith.png",
+    "gachaBigCard": "lihui-persona-lilith.png",
+    "cardPosition": [
+      -81,
+      -241
+    ],
+    "cardScale": 0.9,
+    "personaBigCardPos": [
+      -17,
+      -250
+    ],
+    "entryCardPosition": [
+      -40,
+      8
+    ],
+    "personaBigCardMaterial": "",
+    "gachaResultPic": "",
+    "gachaResultPicOffset": [],
+    "gachaResultPicTiling": [],
+    "gachaResultPicAdapter": [],
+    "story": "旧约圣经中成为亚当第一位妻子的女性。后来离开了伊甸园并化为夜魔。\n关于她的堕落和被流放有着许多种说法，但基本上都被描述为不忠贞的象征。\n据说原本是巴比伦的一位地母神。",
+    "fixedSkills": 25911,
+    "oneMoreSkill": 1611,
+    "innateSkills": [
+      [
+        207,
+        10
+      ],
+      [
+        810,
+        20
+      ],
+      [
+        407,
+        30
+      ],
+      [
+        8984,
+        40
+      ]
+    ],
+    "innateSkillsLearnWeight": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "positiveSkills": [],
+    "PersonaAIPriority": [],
+    "showtimeSkill": 10170,
+    "skillItems": [
+      302401,
+      302402,
+      302403,
+      302411,
+      302490
+    ],
+    "dynamicSkills": [
+      5016,
+      5046
+    ],
+    "dynamicSkillsLv": [
+      3,
+      7,
+      15,
+      20,
+      30,
+      35
+    ],
+    "property": [
+      241,
+      261,
+      271,
+      251
+    ],
+    "initialProperty": [
+      208.86,
+      74.02,
+      49.35,
+      0
+    ],
+    "levelupProperty": [
+      [
+        5.06,
+        1.79,
+        1.2,
+        0
+      ]
+    ],
+    "awakeProperty": [
+      [
+        "241:41.76",
+        "261:14.8",
+        "271:9.87"
+      ],
+      [
+        "241:83.52",
+        "261:29.6",
+        "271:19.74"
+      ],
+      [
+        "241:125.28",
+        "261:44.4",
+        "271:29.61"
+      ],
+      [
+        "241:167.04",
+        "261:59.2",
+        "271:39.48"
+      ]
+    ],
+    "rankupProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "levelupGroup": 14,
+    "nature": 11,
+    "inheritNature": 11,
+    "adaptType": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "adaptValue": [
+      0,
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "feature": [
+      25941,
+      25942,
+      25943,
+      25944
+    ],
+    "autoFightAI": [
+      101
+    ],
+    "autoFightTitle": [
+      "全力输出"
+    ],
+    "autoFightImg": [
+      "shouji-shezhi01.png"
+    ],
+    "infocomment": [
+      3,
+      1,
+      4,
+      5,
+      4,
+      3
+    ],
+    "labelpic": "11,万能群攻",
+    "itemsn": 510259,
+    "chipsn": 520259,
+    "trainFailAward": 233019,
+    "demonCan": 1,
+    "personaplace": 1,
+    "personaSound": [
+      "bp11_054_1"
+    ],
+    "dialog": 3892572,
+    "dialog2": 3892586,
+    "blueLightAlphaFix": 0,
+    "obtainWay": [
+      5
+    ],
+    "obtainWayFunc": [
+      33066
+    ],
+    "theifTimeLine": "P134",
+    "dissolutionType": 0,
+    "collectionExp": 50,
     "rankupItem": 0,
     "rankupTitle": [],
     "rankupDesc": [],
@@ -44542,7 +45140,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "斯堪的纳维亚半岛地区传说中的史上首位女海盗。\n传说她是哥德一族的公主，为了逃避政治婚姻而扬帆出海。\n她率领着一群年轻的女性船员，带领手下的舰队叱咤波罗的海。后来她主动选择嫁给了打败过自己的丹麦王子。",
+    "story": "斯堪的纳维亚半岛地区传说中的史上首位女海盗。\n传说她是哥德一族的公主，为了逃避政治婚姻而扬帆出海。\n她率领着一群年轻的女性船员，带领手下的舰队叱咤波罗的海。\n后来她主动选择嫁给了打败过自己的丹麦王子。",
     "fixedSkills": 103112,
     "oneMoreSkill": 103151,
     "innateSkills": [
@@ -44748,6 +45346,313 @@
     "isCombineSearch": 0
   },
   {
+    "sn": 1032,
+    "coop": 0,
+    "name": "阿尔维达",
+    "visiableinroom": 0,
+    "visiableInIndex": 0,
+    "rank": 1,
+    "grade": 6,
+    "model": "alwilda_swimsuit",
+    "role": 2,
+    "stagelvl": 0,
+    "AwardTalent": [
+      12,
+      1
+    ],
+    "Material": "Unlit_Persona_RimLight",
+    "guaidaoAnim": "guaidaojiemian",
+    "PScale": 1,
+    "jinjiePersonaScale": 0,
+    "UIScale": 1,
+    "TLPosition": [
+      0,
+      0,
+      0
+    ],
+    "TLRotation": [
+      0,
+      0,
+      0
+    ],
+    "TLPositionSub": [
+      0,
+      0,
+      0
+    ],
+    "TLRotationSub": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleCombine": 1,
+    "combineScale": 1,
+    "combinePosition": [
+      0,
+      0,
+      0
+    ],
+    "combineRotation": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleII": 0.9,
+    "TLPositionII": [
+      2.37,
+      -0.38,
+      0.54
+    ],
+    "TLRotationII": [
+      0,
+      1.68,
+      0
+    ],
+    "collisionPersona": [
+      0,
+      0,
+      0
+    ],
+    "positionPersona": [
+      0.16,
+      -0.62,
+      -0.59
+    ],
+    "rotatePersona": [
+      0,
+      -7.47,
+      0
+    ],
+    "positionFeature": [],
+    "positionFeatureB": [],
+    "rotateFeature": [],
+    "decomposeAward": 233001,
+    "bigHead": "B-guaiwutouxiang-zhuanshu-alwilda.png",
+    "gachaBigCard": "lihui-guaidao-closerS-02.png",
+    "cardPosition": [
+      0,
+      0
+    ],
+    "cardScale": 1,
+    "personaBigCardPos": [
+      4,
+      -91
+    ],
+    "entryCardPosition": [
+      0,
+      0
+    ],
+    "personaBigCardMaterial": "",
+    "gachaResultPic": "",
+    "gachaResultPicOffset": [],
+    "gachaResultPicTiling": [],
+    "gachaResultPicAdapter": [],
+    "story": "斯堪的纳维亚半岛地区传说中的史上首位女海盗。\n传说她是哥德一族的公主，为了逃避政治婚姻而扬帆出海。\n她率领着一群年轻的女性船员，带领手下的舰队叱咤波罗的海。\n后来她主动选择嫁给了打败过自己的丹麦王子。",
+    "fixedSkills": 103212,
+    "oneMoreSkill": 103251,
+    "innateSkills": [
+      [
+        0
+      ]
+    ],
+    "innateSkillsLearnWeight": [],
+    "positiveSkills": [
+      103211,
+      103212,
+      103213
+    ],
+    "PersonaAIPriority": [],
+    "showtimeSkill": 103252,
+    "skillItems": [
+      302401,
+      302402,
+      302403,
+      302411,
+      302490
+    ],
+    "dynamicSkills": [],
+    "dynamicSkillsLv": [],
+    "property": [
+      241,
+      261,
+      271,
+      251,
+      281,
+      291,
+      321,
+      331,
+      341
+    ],
+    "initialProperty": [
+      316.8,
+      85.6,
+      43.73,
+      100,
+      0.05,
+      1.5,
+      0,
+      1,
+      96
+    ],
+    "levelupProperty": [
+      [
+        35.64,
+        9.63,
+        4.92,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        36.53,
+        9.87,
+        5.04,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        37.42,
+        10.11,
+        5.17,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        38.31,
+        10.35,
+        5.29,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        39.2,
+        10.59,
+        5.41,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        40.1,
+        10.83,
+        5.54,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        40.99,
+        11.07,
+        5.66,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "awakeProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "rankupProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "levelupGroup": 14,
+    "nature": 9,
+    "inheritNature": 9,
+    "adaptType": [
+      9,
+      8
+    ],
+    "adaptValue": [
+      2,
+      1
+    ],
+    "feature": [
+      103240,
+      103241,
+      103242,
+      103243,
+      103244,
+      103245,
+      103246
+    ],
+    "autoFightAI": [
+      101
+    ],
+    "autoFightTitle": [
+      "全力输出"
+    ],
+    "autoFightImg": [
+      "shouji-renwu01.png"
+    ],
+    "infocomment": [],
+    "labelpic": "",
+    "itemsn": 0,
+    "chipsn": 510111,
+    "trainFailAward": 233001,
+    "demonCan": 0,
+    "personaplace": 1,
+    "personaSound": [
+      "bp13_032_1",
+      "bp13_032_1"
+    ],
+    "dialog": 3798835,
+    "dialog2": 3798835,
+    "blueLightAlphaFix": 0.8,
+    "obtainWay": [],
+    "obtainWayFunc": [],
+    "theifTimeLine": "",
+    "dissolutionType": 0,
+    "collectionExp": 0,
+    "rankupItem": 0,
+    "rankupTitle": [],
+    "rankupDesc": [],
+    "uniqueBuff": [
+      144
+    ],
+    "uniqueBuffUI": "cell-zhandou-buff-common",
+    "uniqueBuffIcon": [
+      "SequenceFrame-buff1-closer-summer-1.png"
+    ],
+    "uniqueBuffSeq": [
+      "SequenceFrame-buff1-closer-summer"
+    ],
+    "iconOverlayMode": [
+      1
+    ],
+    "iconHideMode": [
+      2
+    ],
+    "isCombineSearch": 0
+  },
+  {
     "sn": 1041,
     "coop": 0,
     "name": "罗布罗伊",
@@ -44849,7 +45754,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "苏格兰的侠盗。\n他本是事业成功的养牛人，但被某位卑劣的贵族逼得破产。他作为快意江湖的复仇者，为取回属于自己的财富而持续抗争。\n之后他因被指控叛国罪而锒铛入狱，但由于民众们的支持爱戴，他最终获得特赦出狱。",
+    "story": "苏格兰的侠盗。\n他本是事业成功的养牛人，但被某位卑劣的贵族逼得破产。\n他作为快意江湖的复仇者，为取回属于自己的财富而持续抗争。\n之后他因被指控叛国罪而锒铛入狱，但由于民众们的支持爱戴，他最终获得特赦出狱。",
     "fixedSkills": 104112,
     "oneMoreSkill": 104151,
     "innateSkills": [
@@ -45047,7 +45952,7 @@
   {
     "sn": 1051,
     "coop": 0,
-    "name": "望月千代女",
+    "name": "千代女",
     "visiableinroom": 0,
     "visiableInIndex": 0,
     "rank": 1,
@@ -45113,13 +46018,13 @@
       0
     ],
     "positionPersona": [
-      0,
-      -1.37,
-      -2.44
+      0.035,
+      -0.472,
+      -0.93
     ],
     "rotatePersona": [
       0,
-      -10,
+      0,
       0
     ],
     "positionFeature": [],
@@ -45127,15 +46032,15 @@
     "rotateFeature": [],
     "decomposeAward": 233001,
     "bigHead": "B-guaiwutouxiang-chiyome.png",
-    "gachaBigCard": "lihui-guaidao-joker-02-new.png",
+    "gachaBigCard": "lihui-guaidao-wind-02.png",
     "cardPosition": [
       0,
       0
     ],
     "cardScale": 1,
     "personaBigCardPos": [
-      46,
-      72
+      -1171,
+      -275
     ],
     "entryCardPosition": [
       0,
@@ -45146,9 +46051,9 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "",
-    "fixedSkills": 127111,
-    "oneMoreSkill": 127151,
+    "story": "望月盛时的妻子，本名为望月千代女。\n战国时期，被武田信玄任命为甲斐和信浓二国巫女的头领，于祢津村培养在全国各地活动的云游巫女。\n也有传闻，这些巫女是在全国各地搜集情报的女忍者。",
+    "fixedSkills": 105111,
+    "oneMoreSkill": 105151,
     "innateSkills": [
       [
         0
@@ -45156,9 +46061,9 @@
     ],
     "innateSkillsLearnWeight": [],
     "positiveSkills": [
-      127111,
-      127112,
-      127113
+      105111,
+      105112,
+      105113
     ],
     "PersonaAIPriority": [],
     "showtimeSkill": 0,
@@ -45166,7 +46071,7 @@
       302401,
       302402,
       302403,
-      302411,
+      302412,
       302490
     ],
     "dynamicSkills": [],
@@ -45183,21 +46088,21 @@
       341
     ],
     "initialProperty": [
-      216,
-      60,
-      40,
+      208.8,
+      62.4,
+      36.4,
       100,
-      0.05,
-      1.5,
+      0,
+      0,
       0,
       1,
-      100
+      105
     ],
     "levelupProperty": [
       [
-        24.3,
-        6.75,
-        4.5,
+        23.49,
+        7.02,
+        4.1,
         0,
         0,
         0,
@@ -45206,9 +46111,9 @@
         0
       ],
       [
-        24.69,
-        6.86,
-        4.57,
+        23.87,
+        7.13,
+        4.17,
         0,
         0,
         0,
@@ -45217,9 +46122,9 @@
         0
       ],
       [
-        25.08,
-        6.97,
-        4.64,
+        24.24,
+        7.24,
+        4.23,
         0,
         0,
         0,
@@ -45228,9 +46133,9 @@
         0
       ],
       [
-        25.47,
-        7.07,
-        4.72,
+        24.62,
+        7.36,
+        4.3,
         0,
         0,
         0,
@@ -45239,9 +46144,9 @@
         0
       ],
       [
-        25.86,
-        7.18,
-        4.79,
+        25,
+        7.47,
+        4.36,
         0,
         0,
         0,
@@ -45250,9 +46155,9 @@
         0
       ],
       [
-        26.25,
-        7.29,
-        4.86,
+        25.37,
+        7.58,
+        4.43,
         0,
         0,
         0,
@@ -45261,9 +46166,9 @@
         0
       ],
       [
-        26.64,
-        7.4,
-        4.93,
+        25.75,
+        7.69,
+        4.49,
         0,
         0,
         0,
@@ -45283,18 +46188,18 @@
       ]
     ],
     "levelupGroup": 14,
-    "nature": 10,
-    "inheritNature": 10,
+    "nature": 13,
+    "inheritNature": 13,
     "adaptType": [],
     "adaptValue": [],
     "feature": [
-      127140,
-      127141,
-      127142,
-      127143,
-      127144,
-      127145,
-      127146
+      105140,
+      105141,
+      105142,
+      105143,
+      105144,
+      105145,
+      105146
     ],
     "autoFightAI": [
       101
@@ -45324,12 +46229,20 @@
     "rankupItem": 0,
     "rankupTitle": [],
     "rankupDesc": [],
-    "uniqueBuff": [],
-    "uniqueBuffUI": "",
-    "uniqueBuffIcon": [],
+    "uniqueBuff": [
+      136
+    ],
+    "uniqueBuffUI": "cell-zhandou-buff-common",
+    "uniqueBuffIcon": [
+      "zhandou-buff-wind.png"
+    ],
     "uniqueBuffSeq": [],
-    "iconOverlayMode": [],
-    "iconHideMode": [],
+    "iconOverlayMode": [
+      2
+    ],
+    "iconHideMode": [
+      3
+    ],
     "isCombineSearch": 0
   },
   {
@@ -45741,7 +46654,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "神话中居住在果园的宁芙，赫斯珀里得斯之一。\n她们的职责是与百头巨龙拉冬一同守护天后赫拉的金苹果树。\n她名字的含义是「红色的晚霞」。",
+    "story": "希腊神话中居住在果园的宁芙，赫斯珀里得斯之一。\n在世界西端的天堂赫斯珀里得斯中，一边守护金苹果树一边生活。\n她名字的含义是「红色的女人」。",
     "fixedSkills": 107111,
     "oneMoreSkill": 107151,
     "innateSkills": [
@@ -46046,7 +46959,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "占卜未来的宁芙三姐妹，特里埃之一。\n据说她深受波塞冬的爱慕，在帕尔纳索斯建立了一座城市。\n又被称为「蜜蜂少女」，她拥有女性的头部和躯干，下半身和翅膀有时表现为蜜蜂的姿态。",
+    "story": "通过扔小石子来占卜未来的宁芙，特里埃之一。\n和父亲河神凯菲索斯、姐妹梅莱纳、达芙尼斯共同生活在帕尔纳索斯山。\n她和波塞冬所生的孩子，在帕尔纳索斯山建立了一座重要城市。",
     "fixedSkills": 108111,
     "oneMoreSkill": 108151,
     "innateSkills": [
@@ -46345,7 +47258,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "神话中的冥府女神，象征着忘却。\n她在奈何桥上，负责让灵魂喝下忘记一切的汤。\n喝了这碗汤的灵魂会遗忘生前的因缘和冥府的记忆，走向下一个生命的轮回。",
+    "story": "神话中的冥府女神。\n在冥界收集草药熬制「孟婆汤」，喝下汤的人会失去记忆。\n从冥界转生的人必须喝下这种汤。据说没喝孟婆汤就转生的人，会带着前世的记忆出生。",
     "fixedSkills": 109111,
     "oneMoreSkill": 109151,
     "innateSkills": [
@@ -46649,7 +47562,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "神话中的水之精灵，那伊阿得斯之一。\n她和姐妹阿克莱尔、欧博伊一起抚养宙斯的妻子，女神赫拉。\n她名字的含义是「以歌庆祝」。",
+    "story": "希腊神话中的水之精灵，那伊阿得斯之一。\n做为乳母之一，她和姐妹阿克莱尔、欧博伊一起抚养宙斯的妻子，女神赫拉。\n她名字的含义是「以歌庆祝」。",
     "fixedSkills": 126113,
     "oneMoreSkill": 110151,
     "innateSkills": [
@@ -46855,6 +47768,313 @@
     "isCombineSearch": 0
   },
   {
+    "sn": 1102,
+    "coop": 0,
+    "name": "普罗西姆纳",
+    "visiableinroom": 0,
+    "visiableInIndex": 0,
+    "rank": 1,
+    "grade": 6,
+    "model": "prosymna",
+    "role": 5,
+    "stagelvl": 0,
+    "AwardTalent": [
+      12,
+      1
+    ],
+    "Material": "Unlit_Persona_RimLight",
+    "guaidaoAnim": "fight",
+    "PScale": 1,
+    "jinjiePersonaScale": 0,
+    "UIScale": 1,
+    "TLPosition": [
+      0,
+      0,
+      0
+    ],
+    "TLRotation": [
+      0,
+      0,
+      0
+    ],
+    "TLPositionSub": [
+      0,
+      0,
+      0
+    ],
+    "TLRotationSub": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleCombine": 1,
+    "combineScale": 1,
+    "combinePosition": [
+      0,
+      0,
+      0
+    ],
+    "combineRotation": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleII": 0.9,
+    "TLPositionII": [
+      1.99,
+      -0.08,
+      0.12
+    ],
+    "TLRotationII": [
+      1.95,
+      67.01,
+      0
+    ],
+    "collisionPersona": [
+      0,
+      0,
+      0
+    ],
+    "positionPersona": [
+      0,
+      -1.07,
+      -0.98
+    ],
+    "rotatePersona": [
+      0,
+      -9.26,
+      0
+    ],
+    "positionFeature": [],
+    "positionFeatureB": [],
+    "rotateFeature": [],
+    "decomposeAward": 233001,
+    "bigHead": "B-guaiwutouxiang-zhuanshu-puluoximuna.png",
+    "gachaBigCard": "lihui-guaidao-kotomo-02.png",
+    "cardPosition": [
+      0,
+      0
+    ],
+    "cardScale": 1,
+    "personaBigCardPos": [
+      -522,
+      -58
+    ],
+    "entryCardPosition": [
+      0,
+      0
+    ],
+    "personaBigCardMaterial": "",
+    "gachaResultPic": "",
+    "gachaResultPicOffset": [],
+    "gachaResultPicTiling": [],
+    "gachaResultPicAdapter": [],
+    "story": "希腊神话中的水之精灵，那伊阿得斯之一。\n做为乳母之一，她和姐妹阿克莱尔、欧博伊一起抚养宙斯的妻子，女神赫拉。\n她名字的含义是「以歌庆祝」。",
+    "fixedSkills": 126113,
+    "oneMoreSkill": 110151,
+    "innateSkills": [
+      [
+        0
+      ]
+    ],
+    "innateSkillsLearnWeight": [],
+    "positiveSkills": [
+      110111,
+      110112,
+      110113
+    ],
+    "PersonaAIPriority": [],
+    "showtimeSkill": 110152,
+    "skillItems": [
+      302401,
+      302402,
+      302403,
+      302412,
+      302490
+    ],
+    "dynamicSkills": [],
+    "dynamicSkillsLv": [],
+    "property": [
+      241,
+      261,
+      271,
+      251,
+      281,
+      291,
+      321,
+      331,
+      341
+    ],
+    "initialProperty": [
+      316.8,
+      85.6,
+      43.73,
+      100,
+      0.05,
+      1.5,
+      0,
+      1,
+      96
+    ],
+    "levelupProperty": [
+      [
+        35.64,
+        9.63,
+        4.92,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        36.53,
+        9.87,
+        5.04,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        37.42,
+        10.11,
+        5.17,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        38.31,
+        10.35,
+        5.29,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        39.2,
+        10.59,
+        5.41,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        40.1,
+        10.83,
+        5.54,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        40.99,
+        11.07,
+        5.66,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "awakeProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "rankupProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "levelupGroup": 14,
+    "nature": 7,
+    "inheritNature": 7,
+    "adaptType": [
+      7,
+      10
+    ],
+    "adaptValue": [
+      2,
+      1
+    ],
+    "feature": [
+      110140,
+      110141,
+      110142,
+      110143,
+      110144,
+      110145,
+      110146
+    ],
+    "autoFightAI": [
+      101
+    ],
+    "autoFightTitle": [
+      "全力输出"
+    ],
+    "autoFightImg": [
+      "shouji-renwu01.png"
+    ],
+    "infocomment": [],
+    "labelpic": "",
+    "itemsn": 0,
+    "chipsn": 510111,
+    "trainFailAward": 233001,
+    "demonCan": 0,
+    "personaplace": 1,
+    "personaSound": [
+      "bp33_032_4",
+      "bp33_032_4"
+    ],
+    "dialog": 3798835,
+    "dialog2": 3798835,
+    "blueLightAlphaFix": 0.8,
+    "obtainWay": [],
+    "obtainWayFunc": [],
+    "theifTimeLine": "",
+    "dissolutionType": 0,
+    "collectionExp": 0,
+    "rankupItem": 0,
+    "rankupTitle": [],
+    "rankupDesc": [],
+    "uniqueBuff": [
+      73
+    ],
+    "uniqueBuffUI": "cell-zhandou-buff-common",
+    "uniqueBuffIcon": [
+      "zhandou-buff-kotomo1.png"
+    ],
+    "uniqueBuffSeq": [
+      "zhandou-buff-kotomo"
+    ],
+    "iconOverlayMode": [
+      1
+    ],
+    "iconHideMode": [
+      2
+    ],
+    "isCombineSearch": 0
+  },
+  {
     "sn": 1111,
     "coop": 0,
     "name": "艾普苏黛丝",
@@ -46956,7 +48176,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "神话中的海之精灵，涅瑞伊得斯之一。\n从父亲奈琉斯那里继承了讲真话的神性，和妹妹一起总是讲真话，从不说谎。\n她的名字意味着真实，或是闪耀。",
+    "story": "希腊神话中的海之精灵，涅瑞伊得斯之一。\n她是奈琉斯和俄刻阿尼斯的女儿之一，从父亲奈琉斯那里继承了「讲真话的神性」。\n她的名字意味着真实，或是闪耀。",
     "fixedSkills": 126113,
     "oneMoreSkill": 111151,
     "innateSkills": [
@@ -47263,7 +48483,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "神话中的树之精灵，哈玛德律阿得斯之一，栖息在无花果树上的宁芙。\n哈玛德律阿得斯与树共同诞生，在自己栖息的树枯萎后就会消失。\n因此，无意间伤害到树木的人将会受到惩罚。",
+    "story": "希腊神话中的树之精灵，哈玛德律阿得斯之一。\n有八个姐妹。\n名字的含义是「无花果树」。",
     "fixedSkills": 112111,
     "oneMoreSkill": 112151,
     "innateSkills": [
@@ -47568,7 +48788,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "神话中的水之精灵，俄刻阿尼得斯之一。\n作为冥河的神格化象征，分割了生者与死者的边界。\n饮下斯堤克斯之水即为许下誓言，即使是众神也无法轻易违背。",
+    "story": "希腊神话中的水之精灵，俄刻阿尼得斯之一。\n作为流经地下之大河的神格化象征，分割了生者与死者的边界。\n据说居住在奥林匹斯山的众神在宣誓时都会饮下斯堤克斯之水。",
     "fixedSkills": 113111,
     "oneMoreSkill": 113151,
     "innateSkills": [
@@ -47875,7 +49095,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "神话中的海之精灵。守护着出海水手的女神。\n原本是底比斯的公主，死后被宙斯封为女神。\n据说她在暴风雨中帮助了奥德修斯，因此被认为可以拯救船员免受海难之苦。",
+    "story": "希腊神话中的海之精灵，守护着出海水手的女神。\n她原本是底比斯的公主，死后被宙斯封为女神。\n据说她救助了遇难的奥德修斯，因此被信仰为水手们的守护神。\n她名字的含义是「白色女神」。",
     "fixedSkills": 114113,
     "oneMoreSkill": 114151,
     "innateSkills": [
@@ -48384,7 +49604,7 @@
     "rank": 1,
     "grade": 6,
     "model": "goemon",
-    "role": 4,
+    "role": 2,
     "stagelvl": 0,
     "AwardTalent": [
       12,
@@ -48497,7 +49717,7 @@
       302401,
       302402,
       302403,
-      302411,
+      302412,
       302490
     ],
     "dynamicSkills": [],
@@ -49075,7 +50295,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "在冥界之门作为赫卡忒的侍女出现的精灵。手持能够让人发狂的火把。\n她长久地站在迎接死者的大门前，迎接故事结束的人类。\n她的名字意味着黑暗、夜晚。",
+    "story": "希腊神话中的冥界宁芙，侍奉住在冥界的女神赫卡忒和珀尔塞福涅。\n其手持的火把被认为具有能够有让人发狂的力量。",
     "fixedSkills": 0,
     "oneMoreSkill": 118151,
     "innateSkills": [
@@ -49651,8 +50871,8 @@
       0
     ],
     "positionPersona": [
-      -0.63,
-      0.22,
+      -0.252,
+      0.339,
       -0.47
     ],
     "rotatePersona": [
@@ -49704,7 +50924,7 @@
       302401,
       302402,
       302403,
-      302411,
+      302412,
       302490
     ],
     "dynamicSkills": [],
@@ -49721,21 +50941,21 @@
       341
     ],
     "initialProperty": [
-      254.4,
-      87.2,
-      58.13,
+      249.6,
+      92.8,
+      54.4,
       100,
       0.05,
       1.5,
       0,
       1,
-      98
+      96
     ],
     "levelupProperty": [
       [
-        28.62,
-        9.81,
-        6.54,
+        28.08,
+        10.44,
+        6.12,
         0,
         0,
         0,
@@ -49744,9 +50964,9 @@
         0
       ],
       [
-        29.34,
-        10.06,
-        6.7,
+        28.78,
+        10.7,
+        6.27,
         0,
         0,
         0,
@@ -49755,9 +50975,9 @@
         0
       ],
       [
-        30.05,
-        10.3,
-        6.87,
+        29.48,
+        10.96,
+        6.43,
         0,
         0,
         0,
@@ -49766,9 +50986,9 @@
         0
       ],
       [
-        30.77,
-        10.55,
-        7.03,
+        30.19,
+        11.22,
+        6.58,
         0,
         0,
         0,
@@ -49777,9 +50997,9 @@
         0
       ],
       [
-        31.48,
-        10.79,
-        7.19,
+        30.89,
+        11.48,
+        6.73,
         0,
         0,
         0,
@@ -49788,9 +51008,9 @@
         0
       ],
       [
-        32.2,
-        11.04,
-        7.36,
+        31.59,
+        11.75,
+        6.89,
         0,
         0,
         0,
@@ -49799,9 +51019,9 @@
         0
       ],
       [
-        32.91,
-        11.28,
-        7.52,
+        32.29,
+        12.01,
+        7.04,
         0,
         0,
         0,
@@ -49872,13 +51092,15 @@
     "rankupTitle": [],
     "rankupDesc": [],
     "uniqueBuff": [
-      17
+      106
     ],
     "uniqueBuffUI": "cell-zhandou-buff-common",
     "uniqueBuffIcon": [
-      "zhandou-buff-queen.png"
+      "SequenceFrame-buff1-queen-1.png"
     ],
-    "uniqueBuffSeq": [],
+    "uniqueBuffSeq": [
+      "SequenceFrame-buff1-queen"
+    ],
     "iconOverlayMode": [
       2
     ],
@@ -49993,7 +51215,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "神话中主司舞蹈的宁芙，九位缪斯之一。\n曾经心甘情愿地追随着狄俄尼索斯，并在战争中使用舞蹈驱逐敌方士兵。\n她名字的含义是「舞蹈的乐趣」。",
+    "story": "希腊神话中主司舞蹈的宁芙，九位缪斯之一。\n经常被描绘为拿着竖琴的姿态。\n她名字的含义是「舞蹈的乐趣」。",
     "fixedSkills": 121111,
     "oneMoreSkill": 121151,
     "innateSkills": [
@@ -50300,7 +51522,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "希腊神话中主司喜剧的宁芙，九位缪斯之一。\n宙斯与记忆女神之女，因手持喜剧面具而闻名。\n与手持悲剧面具的墨尔波墨涅一同被认为是戏剧的象征。\n她名字的含义是「开花」。",
+    "story": "希腊神话中主司喜剧和牧歌的宁芙，九位缪斯之一。\n宙斯与记忆女神谟涅摩叙涅之女，经常被描述为手持喜剧面具的姿态。\n她名字的含义是「开花」。",
     "fixedSkills": 0,
     "oneMoreSkill": 123151,
     "innateSkills": [
@@ -51208,7 +52430,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "神话中的海洋女神，涅瑞伊得斯之一。\n海神与仙女多里斯之女，因帮助在风暴中驶船的水手而被人所知。\n她名字的含义是「给予者」。",
+    "story": "希腊神话中的海洋女神，涅瑞伊得斯之一。\n她是海神与海洋女神多里斯的女儿之一，以诚实著称。\n因此，她的名字有时被用作强调语言真实性和正确性的形容词。",
     "fixedSkills": 127111,
     "oneMoreSkill": 127151,
     "innateSkills": [
@@ -51498,7 +52720,7 @@
     "gachaResultPicOffset": [],
     "gachaResultPicTiling": [],
     "gachaResultPicAdapter": [],
-    "story": "神话中的水之精灵，俄刻阿尼得斯之一。\n她是泉水的化身，据说与古希腊时期的神秘仪式有关。\n她名字的含义是「知晓之人」。",
+    "story": "希腊神话中的水之精灵，俄刻阿尼斯之一。\n她是主司大海、泉水和地下水的女神之一。\n和赫尔墨斯生有儿子厄琉西斯。",
     "fixedSkills": 128111,
     "oneMoreSkill": 128151,
     "innateSkills": [
@@ -51939,6 +53161,1198 @@
     "levelupGroup": 14,
     "nature": 1,
     "inheritNature": 1,
+    "adaptType": [
+      1,
+      2
+    ],
+    "adaptValue": [
+      2,
+      1
+    ],
+    "feature": [
+      129140,
+      129141,
+      129142,
+      129143,
+      129144,
+      129145,
+      129146
+    ],
+    "autoFightAI": [
+      101
+    ],
+    "autoFightTitle": [
+      "全力输出"
+    ],
+    "autoFightImg": [
+      "shouji-renwu01.png"
+    ],
+    "infocomment": [],
+    "labelpic": "",
+    "itemsn": 0,
+    "chipsn": 510111,
+    "trainFailAward": 233001,
+    "demonCan": 0,
+    "personaplace": 1,
+    "personaSound": [],
+    "dialog": 3798835,
+    "dialog2": 3798835,
+    "blueLightAlphaFix": 0.8,
+    "obtainWay": [],
+    "obtainWayFunc": [],
+    "theifTimeLine": "",
+    "dissolutionType": 0,
+    "collectionExp": 0,
+    "rankupItem": 0,
+    "rankupTitle": [],
+    "rankupDesc": [],
+    "uniqueBuff": [],
+    "uniqueBuffUI": "",
+    "uniqueBuffIcon": [],
+    "uniqueBuffSeq": [],
+    "iconOverlayMode": [],
+    "iconHideMode": [],
+    "isCombineSearch": 0
+  },
+  {
+    "sn": 1301,
+    "coop": 0,
+    "name": "安珀罗丝",
+    "visiableinroom": 0,
+    "visiableInIndex": 0,
+    "rank": 1,
+    "grade": 5,
+    "model": "ampelus",
+    "role": 6,
+    "stagelvl": 0,
+    "AwardTalent": [
+      12,
+      1
+    ],
+    "Material": "Unlit_Persona_RimLight",
+    "guaidaoAnim": "fight",
+    "PScale": 1,
+    "jinjiePersonaScale": 0,
+    "UIScale": 1,
+    "TLPosition": [
+      0,
+      0,
+      0
+    ],
+    "TLRotation": [
+      0,
+      0,
+      0
+    ],
+    "TLPositionSub": [
+      0,
+      0,
+      0
+    ],
+    "TLRotationSub": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleCombine": 1,
+    "combineScale": 1,
+    "combinePosition": [
+      0,
+      0,
+      0
+    ],
+    "combineRotation": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleII": 0.7,
+    "TLPositionII": [
+      1.43,
+      -0.08,
+      -0.4
+    ],
+    "TLRotationII": [
+      3.9,
+      22.68,
+      0
+    ],
+    "collisionPersona": [
+      0,
+      0,
+      0
+    ],
+    "positionPersona": [
+      0,
+      1.119,
+      -0.514
+    ],
+    "rotatePersona": [
+      0,
+      0,
+      0
+    ],
+    "positionFeature": [],
+    "positionFeatureB": [],
+    "rotateFeature": [],
+    "decomposeAward": 233001,
+    "bigHead": "B-guaiwutouxiang-zhuanshu-ampelus.png",
+    "gachaBigCard": "lihui-guaidao-vino-02.png",
+    "cardPosition": [
+      0,
+      0
+    ],
+    "cardScale": 1,
+    "personaBigCardPos": [
+      126,
+      -189
+    ],
+    "entryCardPosition": [
+      0,
+      0
+    ],
+    "personaBigCardMaterial": "",
+    "gachaResultPic": "",
+    "gachaResultPicOffset": [],
+    "gachaResultPicTiling": [],
+    "gachaResultPicAdapter": [],
+    "story": "希腊神话中的树之精灵，哈玛德律阿得斯之一。\n有八个姐妹。\n她名字的含义是「葡萄树」。",
+    "fixedSkills": 130111,
+    "oneMoreSkill": 130151,
+    "innateSkills": [
+      [
+        0
+      ]
+    ],
+    "innateSkillsLearnWeight": [],
+    "positiveSkills": [
+      130111,
+      130112,
+      130113
+    ],
+    "PersonaAIPriority": [],
+    "showtimeSkill": 130152,
+    "skillItems": [
+      302401,
+      302402,
+      302403,
+      302412,
+      302490
+    ],
+    "dynamicSkills": [],
+    "dynamicSkillsLv": [],
+    "property": [
+      241,
+      261,
+      271,
+      251,
+      281,
+      291,
+      321,
+      331,
+      341
+    ],
+    "initialProperty": [
+      198,
+      63,
+      40.4,
+      100,
+      0.05,
+      1.5,
+      0,
+      1,
+      103
+    ],
+    "levelupProperty": [
+      [
+        22.28,
+        7.09,
+        4.55,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        22.64,
+        7.2,
+        4.62,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        22.99,
+        7.32,
+        4.7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        23.35,
+        7.43,
+        4.77,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        23.71,
+        7.54,
+        4.84,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        24.06,
+        7.66,
+        4.91,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        24.42,
+        7.77,
+        4.99,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "awakeProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "rankupProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "levelupGroup": 14,
+    "nature": 8,
+    "inheritNature": 8,
+    "adaptType": [
+      8,
+      3
+    ],
+    "adaptValue": [
+      2,
+      1
+    ],
+    "feature": [
+      130140,
+      130141,
+      130142,
+      130143,
+      130144,
+      130145,
+      130146
+    ],
+    "autoFightAI": [
+      101
+    ],
+    "autoFightTitle": [
+      "全力输出"
+    ],
+    "autoFightImg": [
+      "shouji-renwu01.png"
+    ],
+    "infocomment": [],
+    "labelpic": "",
+    "itemsn": 0,
+    "chipsn": 510111,
+    "trainFailAward": 233001,
+    "demonCan": 0,
+    "personaplace": 1,
+    "personaSound": [],
+    "dialog": 3798835,
+    "dialog2": 3798835,
+    "blueLightAlphaFix": 0.8,
+    "obtainWay": [],
+    "obtainWayFunc": [],
+    "theifTimeLine": "",
+    "dissolutionType": 0,
+    "collectionExp": 0,
+    "rankupItem": 0,
+    "rankupTitle": [],
+    "rankupDesc": [],
+    "uniqueBuff": [],
+    "uniqueBuffUI": "",
+    "uniqueBuffIcon": [],
+    "uniqueBuffSeq": [],
+    "iconOverlayMode": [],
+    "iconHideMode": [],
+    "isCombineSearch": 0
+  },
+  {
+    "sn": 1311,
+    "coop": 0,
+    "name": "乌剌尼亚",
+    "visiableinroom": 0,
+    "visiableInIndex": 0,
+    "rank": 1,
+    "grade": 6,
+    "model": "urania",
+    "role": 7,
+    "stagelvl": 0,
+    "AwardTalent": [
+      12,
+      1
+    ],
+    "Material": "Unlit_Persona_RimLight",
+    "guaidaoAnim": "fight",
+    "PScale": 1,
+    "jinjiePersonaScale": 0,
+    "UIScale": 1,
+    "TLPosition": [
+      0,
+      0,
+      0
+    ],
+    "TLRotation": [
+      0,
+      0,
+      0
+    ],
+    "TLPositionSub": [
+      0,
+      0,
+      0
+    ],
+    "TLRotationSub": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleCombine": 1,
+    "combineScale": 1,
+    "combinePosition": [
+      0,
+      0,
+      0
+    ],
+    "combineRotation": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleII": 0.7,
+    "TLPositionII": [
+      1.43,
+      -0.08,
+      -0.4
+    ],
+    "TLRotationII": [
+      3.9,
+      22.68,
+      0
+    ],
+    "collisionPersona": [
+      0,
+      0,
+      0
+    ],
+    "positionPersona": [
+      0,
+      -0.6,
+      -1.5
+    ],
+    "rotatePersona": [
+      0,
+      39.919,
+      0
+    ],
+    "positionFeature": [],
+    "positionFeatureB": [],
+    "rotateFeature": [],
+    "decomposeAward": 233001,
+    "bigHead": "B-guaiwutouxiang-urania.png",
+    "gachaBigCard": "lihui-guaidao-phoebe-02.png",
+    "cardPosition": [
+      0,
+      0
+    ],
+    "cardScale": 1,
+    "personaBigCardPos": [
+      -226,
+      -171
+    ],
+    "entryCardPosition": [
+      0,
+      0
+    ],
+    "personaBigCardMaterial": "",
+    "gachaResultPic": "",
+    "gachaResultPicOffset": [],
+    "gachaResultPicTiling": [],
+    "gachaResultPicAdapter": [],
+    "story": "希腊神话中九位缪斯之一，主司「占星术」和「天文」的宁芙。\n手里拿着手杖、罗盘和天球仪。\n通晓未来，很多人前来寻求她的力量。\n她名字的含义是「天上的女人」。",
+    "fixedSkills": 131111,
+    "oneMoreSkill": 131151,
+    "innateSkills": [
+      [
+        0
+      ]
+    ],
+    "innateSkillsLearnWeight": [],
+    "positiveSkills": [
+      131111,
+      131112,
+      131113
+    ],
+    "PersonaAIPriority": [],
+    "showtimeSkill": 0,
+    "skillItems": [
+      302401,
+      302402,
+      302403,
+      302412,
+      302490
+    ],
+    "dynamicSkills": [],
+    "dynamicSkillsLv": [],
+    "property": [
+      241,
+      261,
+      271,
+      251,
+      281,
+      291,
+      321,
+      331,
+      341
+    ],
+    "initialProperty": [
+      276,
+      88.8,
+      48.53,
+      100,
+      0,
+      0,
+      0,
+      1,
+      100
+    ],
+    "levelupProperty": [
+      [
+        31.05,
+        9.99,
+        5.46,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        31.83,
+        10.24,
+        5.6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        32.6,
+        10.49,
+        5.73,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        33.38,
+        10.74,
+        5.87,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        34.16,
+        10.99,
+        6.01,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        34.93,
+        11.24,
+        6.14,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        35.71,
+        11.49,
+        6.28,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "awakeProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "rankupProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "levelupGroup": 14,
+    "nature": 13,
+    "inheritNature": 13,
+    "adaptType": [],
+    "adaptValue": [],
+    "feature": [
+      131140,
+      131141,
+      131142,
+      131143,
+      131144,
+      131145,
+      131146
+    ],
+    "autoFightAI": [
+      101
+    ],
+    "autoFightTitle": [
+      "全力输出"
+    ],
+    "autoFightImg": [
+      "shouji-renwu01.png"
+    ],
+    "infocomment": [],
+    "labelpic": "",
+    "itemsn": 0,
+    "chipsn": 510111,
+    "trainFailAward": 233001,
+    "demonCan": 0,
+    "personaplace": 1,
+    "personaSound": [],
+    "dialog": 3798835,
+    "dialog2": 3798835,
+    "blueLightAlphaFix": 0.8,
+    "obtainWay": [],
+    "obtainWayFunc": [],
+    "theifTimeLine": "",
+    "dissolutionType": 0,
+    "collectionExp": 0,
+    "rankupItem": 0,
+    "rankupTitle": [],
+    "rankupDesc": [],
+    "uniqueBuff": [
+      110,
+      109,
+      108
+    ],
+    "uniqueBuffUI": "cell-zhandou-buff-phoebe",
+    "uniqueBuffIcon": [
+      "zhandou-buff-phoebe01.png",
+      "zhandou-buff-phoebe02.png",
+      "zhandou-buff-phoebe03.png"
+    ],
+    "uniqueBuffSeq": [],
+    "iconOverlayMode": [
+      2,
+      2,
+      2
+    ],
+    "iconHideMode": [
+      3,
+      1,
+      1
+    ],
+    "isCombineSearch": 0
+  },
+  {
+    "sn": 1321,
+    "coop": 0,
+    "name": "卡利俄佩",
+    "visiableinroom": 0,
+    "visiableInIndex": 0,
+    "rank": 1,
+    "grade": 6,
+    "model": "calliopei",
+    "role": 5,
+    "stagelvl": 0,
+    "AwardTalent": [
+      12,
+      1
+    ],
+    "Material": "Unlit_Persona_RimLight",
+    "guaidaoAnim": "fight",
+    "PScale": 1,
+    "jinjiePersonaScale": 0,
+    "UIScale": 1,
+    "TLPosition": [
+      0,
+      0,
+      0
+    ],
+    "TLRotation": [
+      0,
+      0,
+      0
+    ],
+    "TLPositionSub": [
+      0,
+      0,
+      0
+    ],
+    "TLRotationSub": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleCombine": 1,
+    "combineScale": 1,
+    "combinePosition": [
+      0,
+      0,
+      0
+    ],
+    "combineRotation": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleII": 0.7,
+    "TLPositionII": [
+      1.43,
+      -0.08,
+      -0.4
+    ],
+    "TLRotationII": [
+      3.9,
+      22.68,
+      0
+    ],
+    "collisionPersona": [
+      0,
+      0,
+      0
+    ],
+    "positionPersona": [
+      -0.16,
+      -0.71,
+      -0.99
+    ],
+    "rotatePersona": [
+      0,
+      0,
+      0
+    ],
+    "positionFeature": [],
+    "positionFeatureB": [],
+    "rotateFeature": [],
+    "decomposeAward": 233001,
+    "bigHead": "B-guaiwutouxiang-zhuanshu-calliope.png",
+    "gachaBigCard": "lihui-guaidao-chord-02.png",
+    "cardPosition": [
+      0,
+      0
+    ],
+    "cardScale": 1,
+    "personaBigCardPos": [
+      -168,
+      -430
+    ],
+    "entryCardPosition": [
+      0,
+      0
+    ],
+    "personaBigCardMaterial": "",
+    "gachaResultPic": "",
+    "gachaResultPicOffset": [],
+    "gachaResultPicTiling": [],
+    "gachaResultPicAdapter": [],
+    "story": "希腊神话中九位缪斯之一，主司「史诗」。\n手里拿着书板和铁笔，是一位能言善辩的聪慧女神。\n她活跃在众多场合，比如仲裁其他女神间的争吵。\n她名字的含义是「悦耳之声」。",
+    "fixedSkills": 132111,
+    "oneMoreSkill": 132151,
+    "innateSkills": [
+      [
+        0
+      ]
+    ],
+    "innateSkillsLearnWeight": [],
+    "positiveSkills": [
+      132111,
+      132112,
+      132113
+    ],
+    "PersonaAIPriority": [],
+    "showtimeSkill": 132152,
+    "skillItems": [
+      302401,
+      302402,
+      302403,
+      302412,
+      302490
+    ],
+    "dynamicSkills": [],
+    "dynamicSkillsLv": [],
+    "property": [
+      241,
+      261,
+      271,
+      251,
+      281,
+      291,
+      321,
+      331,
+      341
+    ],
+    "initialProperty": [
+      276,
+      86.4,
+      46.93,
+      100,
+      0.05,
+      1.5,
+      0,
+      1,
+      100
+    ],
+    "levelupProperty": [
+      [
+        31.05,
+        9.72,
+        5.28,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        31.83,
+        9.96,
+        5.41,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        32.6,
+        10.21,
+        5.54,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        33.38,
+        10.45,
+        5.68,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        34.16,
+        10.69,
+        5.81,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        34.93,
+        10.94,
+        5.94,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        35.71,
+        11.18,
+        6.07,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "awakeProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "rankupProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "levelupGroup": 14,
+    "nature": 5,
+    "inheritNature": 5,
+    "adaptType": [
+      5,
+      4
+    ],
+    "adaptValue": [
+      2,
+      1
+    ],
+    "feature": [
+      132140,
+      132141,
+      132142,
+      132143,
+      132144,
+      132145,
+      132146
+    ],
+    "autoFightAI": [
+      101
+    ],
+    "autoFightTitle": [
+      "全力输出"
+    ],
+    "autoFightImg": [
+      "shouji-renwu01.png"
+    ],
+    "infocomment": [],
+    "labelpic": "",
+    "itemsn": 0,
+    "chipsn": 510111,
+    "trainFailAward": 233001,
+    "demonCan": 0,
+    "personaplace": 1,
+    "personaSound": [],
+    "dialog": 3798835,
+    "dialog2": 3798835,
+    "blueLightAlphaFix": 0.8,
+    "obtainWay": [],
+    "obtainWayFunc": [],
+    "theifTimeLine": "",
+    "dissolutionType": 0,
+    "collectionExp": 0,
+    "rankupItem": 0,
+    "rankupTitle": [],
+    "rankupDesc": [],
+    "uniqueBuff": [
+      132113
+    ],
+    "uniqueBuffUI": "cell-zhandou-buff-cd",
+    "uniqueBuffIcon": [
+      "SequenceFrame-buff1-chord-1.png"
+    ],
+    "uniqueBuffSeq": [
+      "SequenceFrame-buff1-chord"
+    ],
+    "iconOverlayMode": [],
+    "iconHideMode": [],
+    "isCombineSearch": 0
+  },
+  {
+    "sn": 1331,
+    "coop": 0,
+    "name": "",
+    "visiableinroom": 0,
+    "visiableInIndex": 0,
+    "rank": 1,
+    "grade": 6,
+    "model": "calliopei",
+    "role": 5,
+    "stagelvl": 0,
+    "AwardTalent": [
+      12,
+      1
+    ],
+    "Material": "Unlit_Persona_RimLight",
+    "guaidaoAnim": "fight",
+    "PScale": 1,
+    "jinjiePersonaScale": 0,
+    "UIScale": 1,
+    "TLPosition": [
+      0,
+      0,
+      0
+    ],
+    "TLRotation": [
+      0,
+      0,
+      0
+    ],
+    "TLPositionSub": [
+      0,
+      0,
+      0
+    ],
+    "TLRotationSub": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleCombine": 1,
+    "combineScale": 1,
+    "combinePosition": [
+      0,
+      0,
+      0
+    ],
+    "combineRotation": [
+      0,
+      0,
+      0
+    ],
+    "UIScaleII": 0.7,
+    "TLPositionII": [
+      1.43,
+      -0.08,
+      -0.4
+    ],
+    "TLRotationII": [
+      3.9,
+      22.68,
+      0
+    ],
+    "collisionPersona": [
+      0,
+      0,
+      0
+    ],
+    "positionPersona": [
+      0,
+      -1.37,
+      -2.44
+    ],
+    "rotatePersona": [
+      0,
+      -10,
+      0
+    ],
+    "positionFeature": [],
+    "positionFeatureB": [],
+    "rotateFeature": [],
+    "decomposeAward": 233001,
+    "bigHead": "B-guaiwutouxiang-zhuanshu-calliope.png",
+    "gachaBigCard": "lihui-guaidao-closerS-02.png",
+    "cardPosition": [
+      0,
+      0
+    ],
+    "cardScale": 1,
+    "personaBigCardPos": [
+      0,
+      -89
+    ],
+    "entryCardPosition": [
+      0,
+      0
+    ],
+    "personaBigCardMaterial": "",
+    "gachaResultPic": "",
+    "gachaResultPicOffset": [],
+    "gachaResultPicTiling": [],
+    "gachaResultPicAdapter": [],
+    "story": "",
+    "fixedSkills": 129111,
+    "oneMoreSkill": 129151,
+    "innateSkills": [
+      [
+        0
+      ]
+    ],
+    "innateSkillsLearnWeight": [],
+    "positiveSkills": [
+      129111,
+      129112,
+      129113
+    ],
+    "PersonaAIPriority": [],
+    "showtimeSkill": 129152,
+    "skillItems": [
+      302401,
+      302402,
+      302403,
+      302412,
+      302490
+    ],
+    "dynamicSkills": [],
+    "dynamicSkillsLv": [],
+    "property": [
+      241,
+      261,
+      271,
+      251,
+      281,
+      291,
+      321,
+      331,
+      341
+    ],
+    "initialProperty": [
+      290.4,
+      90.4,
+      43.2,
+      100,
+      0.05,
+      1.5,
+      0,
+      1,
+      99
+    ],
+    "levelupProperty": [
+      [
+        32.67,
+        10.17,
+        4.86,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        33.49,
+        10.42,
+        4.98,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        34.3,
+        10.68,
+        5.1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        35.12,
+        10.93,
+        5.22,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        35.94,
+        11.19,
+        5.35,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        36.75,
+        11.44,
+        5.47,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        37.57,
+        11.7,
+        5.59,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "awakeProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "rankupProperty": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "levelupGroup": 14,
+    "nature": 5,
+    "inheritNature": 5,
     "adaptType": [
       1,
       2

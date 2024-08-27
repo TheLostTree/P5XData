@@ -297,6 +297,28 @@
     "hideObject": []
   },
   {
+    "sn": "TL_UI_Explore_jingsuanji_UI",
+    "asset": "TL_UI_Explore_jingsuanji_UI",
+    "playMode": 0,
+    "canPressRush": 0,
+    "canSkip": -1,
+    "hideHero": 1,
+    "hideOthers": 1,
+    "hideNPC": 1,
+    "hideObject": []
+  },
+  {
+    "sn": "TL_UI_Explore_jingsuanji_1_UI",
+    "asset": "TL_UI_Explore_jingsuanji_1_UI",
+    "playMode": 0,
+    "canPressRush": 0,
+    "canSkip": -1,
+    "hideHero": 0,
+    "hideOthers": 1,
+    "hideNPC": 0,
+    "hideObject": []
+  },
+  {
     "sn": "TL_UI_Jiesuan_Richangben_lan",
     "asset": "TL_UI_Jiesuan_Richangben_03",
     "playMode": 0,
@@ -455,8 +477,8 @@
     "asset": "TL_Eyzj_meishuguan01_opening",
     "playMode": 0,
     "canPressRush": 0,
-    "canSkip": -1,
-    "hideHero": 0,
+    "canSkip": 0,
+    "hideHero": 1,
     "hideOthers": 1,
     "hideNPC": 1,
     "hideObject": []
@@ -474,18 +496,18 @@
   },
   {
     "sn": "TL_ONE_TIME_COPY_21012_OPEN",
-    "asset": "TL_Eyzj_meishuguan02_opening",
+    "asset": "TL_Eyzj_meishuguan01_2_opening",
     "playMode": 0,
     "canPressRush": 0,
-    "canSkip": -1,
-    "hideHero": 0,
+    "canSkip": 0,
+    "hideHero": 1,
     "hideOthers": 1,
     "hideNPC": 1,
     "hideObject": []
   },
   {
     "sn": "TL_ONE_TIME_COPY_21012_FINAL",
-    "asset": "TL_Eyzj_meishuguan02_final",
+    "asset": "TL_Eyzj_meishuguan01_2_final",
     "playMode": 0,
     "canPressRush": 0,
     "canSkip": -1,
@@ -496,7 +518,18 @@
   },
   {
     "sn": "TL_ONE_TIME_COPY_21013_OPEN",
-    "asset": "TL_Eyzj_meishuguan03_opening",
+    "asset": "TL_Eyzj_meishuguan02_opening",
+    "playMode": 0,
+    "canPressRush": 0,
+    "canSkip": 0,
+    "hideHero": 1,
+    "hideOthers": 1,
+    "hideNPC": 1,
+    "hideObject": []
+  },
+  {
+    "sn": "TL_ONE_TIME_COPY_21013_FINAL",
+    "asset": "TL_Eyzj_meishuguan02_final",
     "playMode": 0,
     "canPressRush": 0,
     "canSkip": -1,
@@ -506,7 +539,18 @@
     "hideObject": []
   },
   {
-    "sn": "TL_ONE_TIME_COPY_21013_FINAL",
+    "sn": "TL_ONE_TIME_COPY_21014_OPEN",
+    "asset": "TL_Eyzj_meishuguan03_opening",
+    "playMode": 0,
+    "canPressRush": 0,
+    "canSkip": 0,
+    "hideHero": 1,
+    "hideOthers": 1,
+    "hideNPC": 1,
+    "hideObject": []
+  },
+  {
+    "sn": "TL_ONE_TIME_COPY_21014_FINAL",
     "asset": "TL_Eyzj_meishuguan03_final",
     "playMode": 0,
     "canPressRush": 0,

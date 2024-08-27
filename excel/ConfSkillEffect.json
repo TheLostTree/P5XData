@@ -1005,6 +1005,36 @@
     "missText": ""
   },
   {
+    "sn": 1491,
+    "effectType": 1,
+    "effectValue": "5f",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1492,
+    "effectType": 1,
+    "effectValue": "-20f",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 2011,
     "effectType": 7,
     "effectValue": "1.062|f1000",
@@ -1495,8 +1525,8 @@
       2
     ],
     "technicalDisplay": 1,
-    "performance": 98,
-    "counterPerformance": 98,
+    "performance": 463,
+    "counterPerformance": 463,
     "hitText": "",
     "missText": ""
   },
@@ -1631,8 +1661,8 @@
       1
     ],
     "technicalDisplay": 1,
-    "performance": 102,
-    "counterPerformance": 102,
+    "performance": 463,
+    "counterPerformance": 463,
     "hitText": "",
     "missText": ""
   },
@@ -10276,8 +10306,8 @@
     "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 350,
-    "counterPerformance": 350,
+    "performance": 351,
+    "counterPerformance": 351,
     "hitText": "",
     "missText": ""
   },
@@ -10364,6 +10394,21 @@
       "1"
     ],
     "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 24367,
+    "effectType": 1,
+    "effectValue": "0.3|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
     "performance": 0,
@@ -10544,6 +10589,36 @@
       "1"
     ],
     "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 24451,
+    "effectType": 2,
+    "effectValue": "24451",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 24461,
+    "effectType": 1,
+    "effectValue": "0.1|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
     "performance": 0,
@@ -10749,7 +10824,7 @@
   {
     "sn": 26011,
     "effectType": 7,
-    "effectValue": "1.140|f1000",
+    "effectValue": "0.80|f1000",
     "effectTimes": [
       "1"
     ],
@@ -10764,7 +10839,7 @@
   {
     "sn": 26021,
     "effectType": 7,
-    "effectValue": "1.140|f1000",
+    "effectValue": "0.80|f1000",
     "effectTimes": [
       "1"
     ],
@@ -10779,7 +10854,7 @@
   {
     "sn": 26031,
     "effectType": 7,
-    "effectValue": "1.140|f1000",
+    "effectValue": "0.80|f1000",
     "effectTimes": [
       "1"
     ],
@@ -10794,7 +10869,7 @@
   {
     "sn": 26041,
     "effectType": 7,
-    "effectValue": "1.140|f1000",
+    "effectValue": "0.80|f1000",
     "effectTimes": [
       "1"
     ],
@@ -10809,15 +10884,15 @@
   {
     "sn": 26051,
     "effectType": 7,
-    "effectValue": "0.570|f1000",
+    "effectValue": "0.600|f1000",
     "effectTimes": [
       "1"
     ],
     "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 146,
-    "counterPerformance": 146,
+    "performance": 924,
+    "counterPerformance": 924,
     "hitText": "",
     "missText": ""
   },
@@ -10837,32 +10912,47 @@
     "missText": ""
   },
   {
+    "sn": 26062,
+    "effectType": 2,
+    "effectValue": "26061",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 26101,
     "effectType": 7,
-    "effectValue": "1.140|f1000",
+    "effectValue": "1.20|f1000",
     "effectTimes": [
       "1"
     ],
     "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 168,
-    "counterPerformance": 168,
+    "performance": 929,
+    "counterPerformance": 929,
     "hitText": "",
     "missText": ""
   },
   {
     "sn": 26111,
     "effectType": 7,
-    "effectValue": "0.570|f1000",
+    "effectValue": "0.300|f1000",
     "effectTimes": [
       "1"
     ],
     "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 146,
-    "counterPerformance": 146,
+    "performance": 463,
+    "counterPerformance": 463,
     "hitText": "",
     "missText": ""
   },
@@ -10876,8 +10966,8 @@
     "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 61,
-    "counterPerformance": 61,
+    "performance": 925,
+    "counterPerformance": 925,
     "hitText": "转眼间就被修复了…",
     "missText": ""
   },
@@ -10891,9 +10981,39 @@
     "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 61,
-    "counterPerformance": 61,
+    "performance": 925,
+    "counterPerformance": 925,
     "hitText": "转眼间就被修复了…",
+    "missText": ""
+  },
+  {
+    "sn": 26172,
+    "effectType": 2,
+    "effectValue": "26172",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 26178,
+    "effectType": 2,
+    "effectValue": "26178",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
     "missText": ""
   },
   {
@@ -10960,6 +11080,1054 @@
     "sn": 26363,
     "effectType": 2,
     "effectValue": "26363",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 26401,
+    "effectType": 9,
+    "effectValue": "0.45|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 214,
+    "counterPerformance": 214,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 26431,
+    "effectType": 7,
+    "effectValue": "0.9|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 38,
+    "counterPerformance": 38,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 26441,
+    "effectType": 2,
+    "effectValue": "26441",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 999,
+    "counterPerformance": 999,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 26471,
+    "effectType": 7,
+    "effectValue": "0.85|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1002,
+    "counterPerformance": 1002,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 26481,
+    "effectType": 7,
+    "effectValue": "0.85|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 463,
+    "counterPerformance": 463,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 26491,
+    "effectType": 1,
+    "effectValue": "0.6|f153",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 463,
+    "counterPerformance": 463,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 26501,
+    "effectType": 1,
+    "effectValue": "0.01|f153",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 999,
+    "counterPerformance": 999,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 26511,
+    "effectType": 7,
+    "effectValue": "1.75|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1004,
+    "counterPerformance": 1004,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 26525,
+    "effectType": 2,
+    "effectValue": "26525",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27000,
+    "effectType": 3,
+    "effectValue": "115",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "<color=#FF0000>%s</color>消耗了所有<color=#FF0000>「金钱」</color>",
+    "missText": ""
+  },
+  {
+    "sn": 27001,
+    "effectType": 3,
+    "effectValue": "115",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "<color=#FF0000>%s</color>消耗了4层<color=#FF0000>「金钱」</color>",
+    "missText": ""
+  },
+  {
+    "sn": 27002,
+    "effectType": 3,
+    "effectValue": "115",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "<color=#FF0000>%s</color>消耗了1层<color=#FF0000>「金钱」</color>",
+    "missText": ""
+  },
+  {
+    "sn": 27005,
+    "effectType": 3,
+    "effectValue": "116",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "<color=#FF0000>%s</color>消耗了1层<color=#FF0000>「仿制钱」</color>",
+    "missText": ""
+  },
+  {
+    "sn": 27006,
+    "effectType": 3,
+    "effectValue": "116",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "<color=#FF0000>%s</color>消耗了所有<color=#FF0000>「仿制钱」</color>",
+    "missText": ""
+  },
+  {
+    "sn": 27011,
+    "effectType": 7,
+    "effectValue": "0.1|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 241,
+    "counterPerformance": 241,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27021,
+    "effectType": 7,
+    "effectValue": "1|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 132,
+    "counterPerformance": 132,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27022,
+    "effectType": 8,
+    "effectValue": "-0.3f|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 954,
+    "counterPerformance": 954,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27023,
+    "effectType": 2,
+    "effectValue": "27023",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27024,
+    "effectType": 8,
+    "effectValue": "-0.4f|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 954,
+    "counterPerformance": 954,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27029,
+    "effectType": 2,
+    "effectValue": "27029",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27031,
+    "effectType": 3,
+    "effectValue": "116",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 964,
+    "counterPerformance": 964,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27041,
+    "effectType": 7,
+    "effectValue": "0.8|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 964,
+    "counterPerformance": 964,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27051,
+    "effectType": 7,
+    "effectValue": "1.1|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 963,
+    "counterPerformance": 963,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27061,
+    "effectType": 7,
+    "effectValue": "1.6|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 964,
+    "counterPerformance": 964,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27071,
+    "effectType": 2,
+    "effectValue": "27071",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27072,
+    "effectType": 10,
+    "effectValue": "27071",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 964,
+    "counterPerformance": 964,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27091,
+    "effectType": 25,
+    "effectValue": "9135063",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27092,
+    "effectType": 25,
+    "effectValue": "9135069",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27093,
+    "effectType": 25,
+    "effectValue": "9135071",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27094,
+    "effectType": 25,
+    "effectValue": "9139169",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27095,
+    "effectType": 25,
+    "effectValue": "9139171",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27096,
+    "effectType": 25,
+    "effectValue": "9139569",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27097,
+    "effectType": 25,
+    "effectValue": "9139571",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27303,
+    "effectType": 1,
+    "effectValue": "0.6f|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 67,
+    "counterPerformance": 67,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27311,
+    "effectType": 2,
+    "effectValue": "27301",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27312,
+    "effectType": 2,
+    "effectValue": "27302",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27322,
+    "effectType": 8,
+    "effectValue": "-0.2f|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 71,
+    "counterPerformance": 71,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27421,
+    "effectType": 8,
+    "effectValue": "-1.0f|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 238,
+    "counterPerformance": 238,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27431,
+    "effectType": 1,
+    "effectValue": "f27431",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1018,
+    "counterPerformance": 1018,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27461,
+    "effectType": 7,
+    "effectValue": "f27461",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1019,
+    "counterPerformance": 1019,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27511,
+    "effectType": 0,
+    "effectValue": "",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 240,
+    "counterPerformance": 240,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27601,
+    "effectType": 7,
+    "effectValue": "f27601",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 463,
+    "counterPerformance": 463,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27631,
+    "effectType": 1,
+    "effectValue": "f27631",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27642,
+    "effectType": 2,
+    "effectValue": "27601",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27644,
+    "effectType": 2,
+    "effectValue": "27611",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27646,
+    "effectType": 2,
+    "effectValue": "27621",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27651,
+    "effectType": 8,
+    "effectValue": "-0.2f|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 238,
+    "counterPerformance": 238,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27652,
+    "effectType": 8,
+    "effectValue": "-0.2f|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 238,
+    "counterPerformance": 238,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27653,
+    "effectType": 8,
+    "effectValue": "-0.4f|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 238,
+    "counterPerformance": 238,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 27655,
+    "effectType": 8,
+    "effectValue": "-0.6f|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 238,
+    "counterPerformance": 238,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28011,
+    "effectType": 1,
+    "effectValue": "0.2f|f154",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28150,
+    "effectType": 2,
+    "effectValue": "28150",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28171,
+    "effectType": 1,
+    "effectValue": "0.8f|f154",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 826,
+    "counterPerformance": 826,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28172,
+    "effectType": 1,
+    "effectValue": "1.1f|f154",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 877,
+    "counterPerformance": 877,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28211,
+    "effectType": 9,
+    "effectValue": "0.24f|f154",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 140,
+    "counterPerformance": 140,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28212,
+    "effectType": 9,
+    "effectValue": "-20f",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 141,
+    "counterPerformance": 141,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28221,
+    "effectType": 1,
+    "effectValue": "0.075|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 45,
+    "counterPerformance": 45,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28251,
+    "effectType": 8,
+    "effectValue": "-0.1|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 297,
+    "counterPerformance": 297,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28261,
+    "effectType": 8,
+    "effectValue": "-0.2|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 297,
+    "counterPerformance": 297,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28281,
+    "effectType": 7,
+    "effectValue": "1f|f21",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 80,
+    "counterPerformance": 653,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28282,
+    "effectType": 6,
+    "effectValue": "",
+    "effectTimes": [],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 80,
+    "counterPerformance": 80,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28291,
+    "effectType": 2,
+    "effectValue": "28291",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "<color=#FF0000>%s</color>受到了冰冻伤害，从「地狱燃烧」状态恢复了",
+    "missText": ""
+  },
+  {
+    "sn": 28311,
+    "effectType": 7,
+    "effectValue": "-300f",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 41,
+    "counterPerformance": 41,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28321,
+    "effectType": 7,
+    "effectValue": "-300f",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 41,
+    "counterPerformance": 41,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28331,
+    "effectType": 7,
+    "effectValue": "1.75|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 107,
+    "counterPerformance": 107,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28332,
+    "effectType": 8,
+    "effectValue": "-1|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1021,
+    "counterPerformance": 1021,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28341,
+    "effectType": 2,
+    "effectValue": "28341",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28342,
+    "effectType": 2,
+    "effectValue": "28341",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28343,
+    "effectType": 2,
+    "effectValue": "28341",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 28344,
+    "effectType": 2,
+    "effectValue": "28341",
     "effectTimes": [
       "1"
     ],
@@ -11617,6 +12785,21 @@
     "missText": ""
   },
   {
+    "sn": 30615,
+    "effectType": 2,
+    "effectValue": "30615",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 30631,
     "effectType": 2,
     "effectValue": "30631",
@@ -11934,6 +13117,186 @@
     "missText": ""
   },
   {
+    "sn": 31051,
+    "effectType": 2,
+    "effectValue": "31051",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 31081,
+    "effectType": 3,
+    "effectValue": "70",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 32001,
+    "effectType": 1,
+    "effectValue": "1",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "获得1点部署值",
+    "missText": ""
+  },
+  {
+    "sn": 32002,
+    "effectType": 1,
+    "effectValue": "2",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "获得2点部署值",
+    "missText": ""
+  },
+  {
+    "sn": 32003,
+    "effectType": 1,
+    "effectValue": "3",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "获得3点部署值",
+    "missText": ""
+  },
+  {
+    "sn": 32004,
+    "effectType": 1,
+    "effectValue": "4",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "获得4点部署值",
+    "missText": ""
+  },
+  {
+    "sn": 32005,
+    "effectType": 1,
+    "effectValue": "5",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "获得5点部署值",
+    "missText": ""
+  },
+  {
+    "sn": 32006,
+    "effectType": 1,
+    "effectValue": "6",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "获得6点部署值",
+    "missText": ""
+  },
+  {
+    "sn": 32007,
+    "effectType": 1,
+    "effectValue": "7",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "获得7点部署值",
+    "missText": ""
+  },
+  {
+    "sn": 32008,
+    "effectType": 1,
+    "effectValue": "8",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "获得8点部署值",
+    "missText": ""
+  },
+  {
+    "sn": 32009,
+    "effectType": 1,
+    "effectValue": "9",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "获得9点部署值",
+    "missText": ""
+  },
+  {
+    "sn": 32010,
+    "effectType": 1,
+    "effectValue": "10",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "获得10点部署值",
+    "missText": ""
+  },
+  {
     "sn": 32011,
     "effectType": 1,
     "effectValue": "f32011",
@@ -11968,67 +13331,7 @@
     "effectType": 3,
     "effectValue": "63",
     "effectTimes": [
-      "1"
-    ],
-    "hitDisplay": 4,
-    "technicalTags": [],
-    "technicalDisplay": 0,
-    "performance": 775,
-    "counterPerformance": 775,
-    "hitText": "",
-    "missText": ""
-  },
-  {
-    "sn": 32072,
-    "effectType": 3,
-    "effectValue": "63",
-    "effectTimes": [
-      "1"
-    ],
-    "hitDisplay": 4,
-    "technicalTags": [],
-    "technicalDisplay": 0,
-    "performance": 775,
-    "counterPerformance": 775,
-    "hitText": "",
-    "missText": ""
-  },
-  {
-    "sn": 32073,
-    "effectType": 3,
-    "effectValue": "63",
-    "effectTimes": [
-      "1"
-    ],
-    "hitDisplay": 4,
-    "technicalTags": [],
-    "technicalDisplay": 0,
-    "performance": 775,
-    "counterPerformance": 775,
-    "hitText": "",
-    "missText": ""
-  },
-  {
-    "sn": 32074,
-    "effectType": 3,
-    "effectValue": "63",
-    "effectTimes": [
-      "1"
-    ],
-    "hitDisplay": 4,
-    "technicalTags": [],
-    "technicalDisplay": 0,
-    "performance": 775,
-    "counterPerformance": 775,
-    "hitText": "",
-    "missText": ""
-  },
-  {
-    "sn": 32075,
-    "effectType": 3,
-    "effectValue": "63",
-    "effectTimes": [
-      "1"
+      "f32071"
     ],
     "hitDisplay": 4,
     "technicalTags": [],
@@ -12040,8 +13343,8 @@
   },
   {
     "sn": 32215,
-    "effectType": 3,
-    "effectValue": "62",
+    "effectType": 1,
+    "effectValue": "-20",
     "effectTimes": [
       "1"
     ],
@@ -12087,21 +13390,6 @@
     "sn": 32245,
     "effectType": 2,
     "effectValue": "32247",
-    "effectTimes": [
-      "1"
-    ],
-    "hitDisplay": 4,
-    "technicalTags": [],
-    "technicalDisplay": 0,
-    "performance": 0,
-    "counterPerformance": 0,
-    "hitText": "",
-    "missText": ""
-  },
-  {
-    "sn": 32411,
-    "effectType": 10,
-    "effectValue": "32041,32042,32043,32044,32045,32046,32047,32048,32049,32050",
     "effectTimes": [
       "1"
     ],
@@ -12166,6 +13454,21 @@
       "1"
     ],
     "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 32663,
+    "effectType": 10,
+    "effectValue": "1000,2000,3000,4000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
     "technicalTags": [],
     "technicalDisplay": 0,
     "performance": 0,
@@ -13554,6 +14857,398 @@
     "missText": ""
   },
   {
+    "sn": 34801,
+    "effectType": 7,
+    "effectValue": "0.45|f1000",
+    "effectTimes": [
+      "2"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 174,
+    "counterPerformance": 174,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34811,
+    "effectType": 2,
+    "effectValue": "34801",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34831,
+    "effectType": 7,
+    "effectValue": "0.4|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 976,
+    "counterPerformance": 976,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34841,
+    "effectType": 7,
+    "effectValue": "0.7|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 974,
+    "counterPerformance": 974,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34851,
+    "effectType": 1,
+    "effectValue": "f34853",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34852,
+    "effectType": 8,
+    "effectValue": "f34852",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 978,
+    "counterPerformance": 978,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34853,
+    "effectType": 1,
+    "effectValue": "2",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 439,
+    "counterPerformance": 439,
+    "hitText": "造成的伤害被防壁吸收，阴影的能量获得了回复",
+    "missText": ""
+  },
+  {
+    "sn": 34854,
+    "effectType": 1,
+    "effectValue": "100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 439,
+    "counterPerformance": 439,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34855,
+    "effectType": 2,
+    "effectValue": "34851",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34856,
+    "effectType": 10,
+    "effectValue": "34891,34892,34893,34894,34895,34896,34897,34898,34899,34900",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34871,
+    "effectType": 7,
+    "effectValue": "0.8|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 984,
+    "counterPerformance": 984,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34872,
+    "effectType": 2,
+    "effectValue": "34861",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34884,
+    "effectType": 2,
+    "effectValue": "34884",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34885,
+    "effectType": 2,
+    "effectValue": "34885",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34891,
+    "effectType": 1,
+    "effectValue": "f34853",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34892,
+    "effectType": 8,
+    "effectValue": "f34852",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 982,
+    "counterPerformance": 982,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34901,
+    "effectType": 3,
+    "effectValue": "131",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "<color=#FF0000>%s</color>失去了1层<color=#FF0000>「牧神庇佑」</color>",
+    "missText": ""
+  },
+  {
+    "sn": 34902,
+    "effectType": 8,
+    "effectValue": "-0.15|f23",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 481,
+    "counterPerformance": 481,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34903,
+    "effectType": 2,
+    "effectValue": "34421",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34904,
+    "effectType": 2,
+    "effectValue": "34422",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34905,
+    "effectType": 3,
+    "effectValue": "130",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "<color=#FF0000>%s</color>失去了1层<color=#FF0000>「爱神庇佑」</color>",
+    "missText": ""
+  },
+  {
+    "sn": 34931,
+    "effectType": 2,
+    "effectValue": "34921",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 61,
+    "counterPerformance": 61,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34932,
+    "effectType": 9,
+    "effectValue": "1.1f|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 505,
+    "counterPerformance": 505,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34933,
+    "effectType": 9,
+    "effectValue": "0.65f|f1000",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 505,
+    "counterPerformance": 505,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34934,
+    "effectType": 3,
+    "effectValue": "133",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 34941,
+    "effectType": 7,
+    "effectValue": "f34941",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [
+      2
+    ],
+    "technicalDisplay": 1,
+    "performance": 96,
+    "counterPerformance": 96,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 40011,
     "effectType": 7,
     "effectValue": "1.6|f21",
@@ -13629,6 +15324,951 @@
     "missText": ""
   },
   {
+    "sn": 42021,
+    "effectType": 2,
+    "effectValue": "42021",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42022,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42023,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42031,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42032,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42033,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42041,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42042,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42043,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42051,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42052,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42053,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42061,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42062,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42063,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42071,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42072,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42073,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42081,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42082,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42083,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42091,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42092,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42093,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42101,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42102,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42103,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42111,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42112,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42113,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42121,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42122,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42123,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42131,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42132,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42133,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42141,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42142,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42143,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42151,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42152,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42153,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42161,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42162,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42163,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42171,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42172,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42173,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42181,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42182,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42183,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42191,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42192,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42193,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42201,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42202,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42203,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42211,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42212,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42213,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42221,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42222,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 42223,
+    "effectType": 1,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 46,
+    "counterPerformance": 46,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 52221,
     "effectType": 25,
     "effectValue": "52221",
@@ -13686,6 +16326,21 @@
     "performance": 700,
     "counterPerformance": 700,
     "hitText": "触发【真谛】套装效果的额外伤害",
+    "missText": ""
+  },
+  {
+    "sn": 53520,
+    "effectType": 2,
+    "effectValue": "53520",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
     "missText": ""
   },
   {
@@ -15607,6 +18262,21 @@
     "missText": ""
   },
   {
+    "sn": 101502,
+    "effectType": 9,
+    "effectValue": "0.5|f101",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 78,
+    "counterPerformance": 78,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 101511,
     "effectType": 7,
     "effectValue": "f101",
@@ -15745,6 +18415,21 @@
     "sn": 101601,
     "effectType": 7,
     "effectValue": "f101",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 78,
+    "counterPerformance": 78,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 101701,
+    "effectType": 9,
+    "effectValue": "0.5|f101711",
     "effectTimes": [
       "1"
     ],
@@ -16828,6 +19513,51 @@
     "missText": ""
   },
   {
+    "sn": 127112,
+    "effectType": 2,
+    "effectValue": "127112",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 127401,
+    "effectType": 10,
+    "effectValue": "127401,127411",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 61,
+    "counterPerformance": 61,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 127411,
+    "effectType": 10,
+    "effectValue": "127401,127412",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 61,
+    "counterPerformance": 61,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 135011,
     "effectType": 8,
     "effectValue": "f135011",
@@ -17139,6 +19869,36 @@
     "technicalDisplay": 0,
     "performance": 637,
     "counterPerformance": 637,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 139111,
+    "effectType": 7,
+    "effectValue": "f139112",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1039,
+    "counterPerformance": 1039,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 139112,
+    "effectType": 7,
+    "effectValue": "f139112",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1039,
+    "counterPerformance": 1039,
     "hitText": "",
     "missText": ""
   },
@@ -18657,7 +21417,7 @@
   {
     "sn": 252111,
     "effectType": 7,
-    "effectValue": "0.48|f21",
+    "effectValue": "f252112",
     "effectTimes": [
       "1"
     ],
@@ -18670,9 +21430,24 @@
     "missText": ""
   },
   {
+    "sn": 252400,
+    "effectType": 2,
+    "effectValue": "252400",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 255111,
     "effectType": 7,
-    "effectValue": "0.48|f21",
+    "effectValue": "f255112",
     "effectTimes": [
       "1"
     ],
@@ -18681,6 +21456,36 @@
     "technicalDisplay": 0,
     "performance": 858,
     "counterPerformance": 858,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 255401,
+    "effectType": 2,
+    "effectValue": "255401",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 255411,
+    "effectType": 2,
+    "effectValue": "255411",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
     "hitText": "",
     "missText": ""
   },
@@ -18696,6 +21501,171 @@
     "technicalDisplay": 0,
     "performance": 851,
     "counterPerformance": 851,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 258111,
+    "effectType": 7,
+    "effectValue": "f258113",
+    "effectTimes": [
+      "3"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1023,
+    "counterPerformance": 1023,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 258414,
+    "effectType": 2,
+    "effectValue": "258414",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 259111,
+    "effectType": 9,
+    "effectValue": "f259115",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1040,
+    "counterPerformance": 1040,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 259112,
+    "effectType": 7,
+    "effectValue": "f259116",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 426,
+    "counterPerformance": 426,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 259120,
+    "effectType": 9,
+    "effectValue": "f259117",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1040,
+    "counterPerformance": 1040,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 259121,
+    "effectType": 7,
+    "effectValue": "f259118",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 426,
+    "counterPerformance": 426,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 259131,
+    "effectType": 7,
+    "effectValue": "f259118",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 426,
+    "counterPerformance": 426,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 259141,
+    "effectType": 7,
+    "effectValue": "f259118",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 426,
+    "counterPerformance": 426,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 259453,
+    "effectType": 2,
+    "effectValue": "259453",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 259463,
+    "effectType": 2,
+    "effectValue": "259463",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 259473,
+    "effectType": 2,
+    "effectValue": "259473",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
     "hitText": "",
     "missText": ""
   },
@@ -19144,8 +22114,8 @@
     "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 61,
-    "counterPerformance": 61,
+    "performance": 918,
+    "counterPerformance": 918,
     "hitText": "",
     "missText": ""
   },
@@ -19159,8 +22129,8 @@
     "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 432,
-    "counterPerformance": 432,
+    "performance": 918,
+    "counterPerformance": 918,
     "hitText": "",
     "missText": ""
   },
@@ -19899,7 +22869,7 @@
   },
   {
     "sn": 402851,
-    "effectType": 9,
+    "effectType": 1,
     "effectValue": "f402851",
     "effectTimes": [
       "1"
@@ -19931,6 +22901,441 @@
     "sn": 402911,
     "effectType": 10,
     "effectValue": "402911,402912,402913",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403111,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403112,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403113,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403114,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403115,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403116,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403117,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403118,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403119,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403120,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403121,
+    "effectType": 9,
+    "effectValue": "f403111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 987,
+    "counterPerformance": 987,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403124,
+    "effectType": 3,
+    "effectValue": "121",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403125,
+    "effectType": 2,
+    "effectValue": "403115",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403126,
+    "effectType": 10,
+    "effectValue": "403121,403122,403123,403124,403125,403126,403127,403128,403129,403130,403131",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403131,
+    "effectType": 1,
+    "effectValue": "1",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403132,
+    "effectType": 1,
+    "effectValue": "-10",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403211,
+    "effectType": 1,
+    "effectValue": "f403211",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 918,
+    "counterPerformance": 918,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403221,
+    "effectType": 21,
+    "effectValue": "-1",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403295,
+    "effectType": 2,
+    "effectValue": "403295",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403311,
+    "effectType": 1,
+    "effectValue": "f403311",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 918,
+    "counterPerformance": 918,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403321,
+    "effectType": 21,
+    "effectValue": "-1",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403395,
+    "effectType": 2,
+    "effectValue": "403395",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 403398,
+    "effectType": 10,
+    "effectValue": "403398,403399,403400,403401,403402,403403,403404,403405,403406,403407",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 410011,
+    "effectType": 10,
+    "effectValue": "410011,410012,410013,410014,410015,410016,410017,410018",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 410021,
+    "effectType": 10,
+    "effectValue": "410021,410022,410023,410024,410025,410026,410027,410028",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 410031,
+    "effectType": 10,
+    "effectValue": "410031,410032,410033,410034,410035,410036,410037,410038",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 410041,
+    "effectType": 10,
+    "effectValue": "410041,410042,410043,410044,410045,410046,410047,410048",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 410051,
+    "effectType": 3,
+    "effectValue": "118",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 410061,
+    "effectType": 3,
+    "effectValue": "119",
     "effectTimes": [
       "1"
     ],
@@ -20025,6 +23430,36 @@
       "1"
     ],
     "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 503575,
+    "effectType": 2,
+    "effectValue": "503571",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 505621,
+    "effectType": 10,
+    "effectValue": "505622,505623,505624",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
     "technicalTags": [],
     "technicalDisplay": 0,
     "performance": 0,
@@ -20164,6 +23599,51 @@
     "missText": ""
   },
   {
+    "sn": 520541,
+    "effectType": 2,
+    "effectValue": "520532",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 520544,
+    "effectType": 2,
+    "effectValue": "520541",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 520545,
+    "effectType": 2,
+    "effectValue": "520542",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 526311,
     "effectType": 10,
     "effectValue": "8001,8002,8003,8004,8005,8006,8007,8008,8009",
@@ -20242,6 +23722,111 @@
     "sn": 529535,
     "effectType": 2,
     "effectValue": "529535",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 530423,
+    "effectType": 2,
+    "effectValue": "530421",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 530531,
+    "effectType": 10,
+    "effectValue": "1301113,1301114,1301115,1301116",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 531451,
+    "effectType": 2,
+    "effectValue": "531451",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 531531,
+    "effectType": 10,
+    "effectValue": "531531,531534,531537",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 531532,
+    "effectType": 10,
+    "effectValue": "531532,531535,531538",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 531533,
+    "effectType": 10,
+    "effectValue": "531533,531536,531539",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 532521,
+    "effectType": 28,
+    "effectValue": "f532521",
     "effectTimes": [
       "1"
     ],
@@ -20458,8 +24043,8 @@
     "hitDisplay": 4,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 0,
-    "counterPerformance": 0,
+    "performance": 433,
+    "counterPerformance": 433,
     "hitText": "",
     "missText": ""
   },
@@ -21025,6 +24610,261 @@
     "missText": ""
   },
   {
+    "sn": 1032022,
+    "effectType": 17,
+    "effectValue": "-1f",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032023,
+    "effectType": 2,
+    "effectValue": "1032021",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032073,
+    "effectType": 2,
+    "effectValue": "1032072",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032111,
+    "effectType": 7,
+    "effectValue": "f1032111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1028,
+    "counterPerformance": 1028,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032113,
+    "effectType": 7,
+    "effectValue": "f1032113",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1047,
+    "counterPerformance": 1047,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032115,
+    "effectType": 1,
+    "effectValue": "f1032115",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032116,
+    "effectType": 7,
+    "effectValue": "f1032116",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1028,
+    "counterPerformance": 1028,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032121,
+    "effectType": 7,
+    "effectValue": "f1032121",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1029,
+    "counterPerformance": 1029,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032123,
+    "effectType": 8,
+    "effectValue": "f1032123",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1030,
+    "counterPerformance": 1030,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032125,
+    "effectType": 7,
+    "effectValue": "f1032125",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1029,
+    "counterPerformance": 1029,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032127,
+    "effectType": 8,
+    "effectValue": "f1032123",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1030,
+    "counterPerformance": 1030,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032131,
+    "effectType": 1,
+    "effectValue": "f1032140",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032132,
+    "effectType": 7,
+    "effectValue": "f1032138",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1042,
+    "counterPerformance": 1042,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032511,
+    "effectType": 7,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 720,
+    "counterPerformance": 720,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032521,
+    "effectType": 7,
+    "effectValue": "f1032521",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 78,
+    "counterPerformance": 78,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032523,
+    "effectType": 8,
+    "effectValue": "f1032525",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1030,
+    "counterPerformance": 1030,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1032611,
+    "effectType": 15,
+    "effectValue": "0.296|f1011611",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1036,
+    "counterPerformance": 1036,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 1041021,
     "effectType": 8,
     "effectValue": "-1.008|f21",
@@ -21160,6 +25000,186 @@
     "missText": ""
   },
   {
+    "sn": 1051011,
+    "effectType": 2,
+    "effectValue": "1051011",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051012,
+    "effectType": 1,
+    "effectValue": "-1",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 439,
+    "counterPerformance": 439,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051013,
+    "effectType": 2,
+    "effectValue": "1051012",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051014,
+    "effectType": 2,
+    "effectValue": "1051013",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051015,
+    "effectType": 2,
+    "effectValue": "1051014",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051016,
+    "effectType": 2,
+    "effectValue": "1051015",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051021,
+    "effectType": 0,
+    "effectValue": "",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1041,
+    "counterPerformance": 1041,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051022,
+    "effectType": 2,
+    "effectValue": "1051022",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051027,
+    "effectType": 2,
+    "effectValue": "1051027",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051081,
+    "effectType": 21,
+    "effectValue": "f1051081",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051131,
+    "effectType": 8,
+    "effectValue": "f1051135",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 426,
+    "counterPerformance": 426,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1051132,
+    "effectType": 3,
+    "effectValue": "136",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 1061021,
     "effectType": 8,
     "effectValue": "f1061021",
@@ -21237,15 +25257,15 @@
   {
     "sn": 1061131,
     "effectType": 8,
-    "effectValue": "f1061133",
+    "effectValue": "f1061131",
     "effectTimes": [
       "1"
     ],
     "hitDisplay": 4,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 552,
-    "counterPerformance": 552,
+    "performance": 61,
+    "counterPerformance": 61,
     "hitText": "",
     "missText": ""
   },
@@ -21490,6 +25510,21 @@
     "missText": ""
   },
   {
+    "sn": 1071324,
+    "effectType": 2,
+    "effectValue": "1071321",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 1071511,
     "effectType": 7,
     "effectValue": "f100",
@@ -21581,7 +25616,7 @@
   },
   {
     "sn": 1081121,
-    "effectType": 9,
+    "effectType": 1,
     "effectValue": "f1081124",
     "effectTimes": [
       "1"
@@ -23036,27 +27071,27 @@
     "effectTimes": [
       "1"
     ],
-    "hitDisplay": 4,
+    "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 413,
-    "counterPerformance": 413,
-    "hitText": "<color=#FF0000>喜多川祐介</color>使用了游龙展布…",
+    "performance": 463,
+    "counterPerformance": 463,
+    "hitText": "",
     "missText": ""
   },
   {
     "sn": 1161042,
     "effectType": 7,
-    "effectValue": "1.35|f1161041",
+    "effectValue": "f1161040",
     "effectTimes": [
       "1"
     ],
-    "hitDisplay": 4,
+    "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 413,
-    "counterPerformance": 413,
-    "hitText": "<color=#FF0000>喜多川祐介</color>使用了游龙展布…",
+    "performance": 463,
+    "counterPerformance": 463,
+    "hitText": "",
     "missText": ""
   },
   {
@@ -23081,27 +27116,27 @@
     "effectTimes": [
       "2"
     ],
-    "hitDisplay": 4,
+    "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 414,
-    "counterPerformance": 414,
-    "hitText": "<color=#FF0000>喜多川祐介</color>使用了游龙展布…",
+    "performance": 463,
+    "counterPerformance": 463,
+    "hitText": "",
     "missText": ""
   },
   {
     "sn": 1161102,
     "effectType": 7,
-    "effectValue": "1.35|f1161101",
+    "effectValue": "f1161102",
     "effectTimes": [
       "2"
     ],
-    "hitDisplay": 4,
+    "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 414,
-    "counterPerformance": 414,
-    "hitText": "<color=#FF0000>喜多川祐介</color>使用了游龙展布…",
+    "performance": 463,
+    "counterPerformance": 463,
+    "hitText": "",
     "missText": ""
   },
   {
@@ -23143,7 +27178,7 @@
     ],
     "hitDisplay": 3,
     "technicalTags": [
-      84
+      104
     ],
     "technicalDisplay": 0,
     "performance": 397,
@@ -23182,24 +27217,39 @@
     "missText": ""
   },
   {
-    "sn": 1161130,
-    "effectType": 1,
-    "effectValue": "1",
+    "sn": 1161133,
+    "effectType": 2,
+    "effectValue": "1161133",
     "effectTimes": [
       "1"
     ],
-    "hitDisplay": 4,
+    "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 0,
-    "counterPerformance": 0,
+    "performance": 439,
+    "counterPerformance": 439,
     "hitText": "",
     "missText": ""
   },
   {
-    "sn": 1161133,
+    "sn": 1161134,
     "effectType": 2,
-    "effectValue": "1161133",
+    "effectValue": "1161134",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 439,
+    "counterPerformance": 439,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1161135,
+    "effectType": 2,
+    "effectValue": "1161135",
     "effectTimes": [
       "1"
     ],
@@ -23578,7 +27628,7 @@
     "effectType": 7,
     "effectValue": "f1181135",
     "effectTimes": [
-      "4"
+      "5"
     ],
     "hitDisplay": 3,
     "technicalTags": [],
@@ -23814,6 +27864,51 @@
     "missText": ""
   },
   {
+    "sn": 1201031,
+    "effectType": 3,
+    "effectValue": "17",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201061,
+    "effectType": 10,
+    "effectValue": "1201521,1201522,1201523,1201524",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201065,
+    "effectType": 2,
+    "effectValue": "1201063",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 1201111,
     "effectType": 7,
     "effectValue": "f1201111",
@@ -23825,6 +27920,36 @@
     "technicalDisplay": 0,
     "performance": 555,
     "counterPerformance": 555,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201112,
+    "effectType": 7,
+    "effectValue": "f1201112",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 555,
+    "counterPerformance": 555,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201113,
+    "effectType": 2,
+    "effectValue": "1201112",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
     "hitText": "",
     "missText": ""
   },
@@ -23846,30 +27971,248 @@
   {
     "sn": 1201131,
     "effectType": 7,
-    "effectValue": "-1|f1201131",
+    "effectValue": "f1201131",
     "effectTimes": [
       "1"
     ],
     "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 284,
-    "counterPerformance": 284,
+    "performance": 439,
+    "counterPerformance": 439,
     "hitText": "",
     "missText": ""
   },
   {
-    "sn": 1201311,
+    "sn": 1201132,
+    "effectType": 7,
+    "effectValue": "f1201132",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 439,
+    "counterPerformance": 439,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201133,
     "effectType": 2,
-    "effectValue": "1201311",
+    "effectValue": "1201132",
     "effectTimes": [
       "1"
     ],
     "hitDisplay": 4,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 61,
-    "counterPerformance": 61,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201141,
+    "effectType": 7,
+    "effectValue": "f1201141",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 439,
+    "counterPerformance": 439,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201142,
+    "effectType": 7,
+    "effectValue": "f1201142",
+    "effectTimes": [
+      "f1201143"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 439,
+    "counterPerformance": 439,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201151,
+    "effectType": 2,
+    "effectValue": "1201091",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201161,
+    "effectType": 2,
+    "effectValue": "1201035",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201171,
+    "effectType": 7,
+    "effectValue": "f1201171",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 555,
+    "counterPerformance": 441,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201172,
+    "effectType": 7,
+    "effectValue": "f1201172",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [
+      125
+    ],
+    "technicalDisplay": 0,
+    "performance": 555,
+    "counterPerformance": 479,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201173,
+    "effectType": 7,
+    "effectValue": "f1201172",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [
+      125
+    ],
+    "technicalDisplay": 0,
+    "performance": 555,
+    "counterPerformance": 480,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201174,
+    "effectType": 7,
+    "effectValue": "f1201172",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [
+      125
+    ],
+    "technicalDisplay": 0,
+    "performance": 555,
+    "counterPerformance": 479,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201175,
+    "effectType": 7,
+    "effectValue": "f1201172",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [
+      125
+    ],
+    "technicalDisplay": 0,
+    "performance": 555,
+    "counterPerformance": 480,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201176,
+    "effectType": 7,
+    "effectValue": "f1201172",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 555,
+    "counterPerformance": 479,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201177,
+    "effectType": 7,
+    "effectValue": "f1201172",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 555,
+    "counterPerformance": 480,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201178,
+    "effectType": 7,
+    "effectValue": "f1201172",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 555,
+    "counterPerformance": 479,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201179,
+    "effectType": 7,
+    "effectValue": "f1201172",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 555,
+    "counterPerformance": 480,
     "hitText": "",
     "missText": ""
   },
@@ -23915,6 +28258,21 @@
     "technicalDisplay": 0,
     "performance": 61,
     "counterPerformance": 61,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1201523,
+    "effectType": 2,
+    "effectValue": "1201526",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
     "hitText": "",
     "missText": ""
   },
@@ -24641,6 +28999,21 @@
     "missText": ""
   },
   {
+    "sn": 1261082,
+    "effectType": 7,
+    "effectValue": "f1261083",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 487,
+    "counterPerformance": 487,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 1261091,
     "effectType": 20,
     "effectValue": "",
@@ -24974,7 +29347,7 @@
   },
   {
     "sn": 1271112,
-    "effectType": 9,
+    "effectType": 1,
     "effectValue": "4f",
     "effectTimes": [
       "1"
@@ -25102,8 +29475,8 @@
     "hitDisplay": 3,
     "technicalTags": [],
     "technicalDisplay": 0,
-    "performance": 690,
-    "counterPerformance": 690,
+    "performance": 815,
+    "counterPerformance": 815,
     "hitText": "",
     "missText": ""
   },
@@ -25618,6 +29991,756 @@
     "missText": ""
   },
   {
+    "sn": 1301023,
+    "effectType": 2,
+    "effectValue": "1301024",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 0,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1301111,
+    "effectType": 7,
+    "effectValue": "f1301111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 935,
+    "counterPerformance": 935,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1301112,
+    "effectType": 10,
+    "effectValue": "1301113,1301114,1301115,1301116",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1301121,
+    "effectType": 7,
+    "effectValue": "f1301121",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 936,
+    "counterPerformance": 936,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1301122,
+    "effectType": 10,
+    "effectValue": "1301113,1301114,1301115,1301116",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1301131,
+    "effectType": 7,
+    "effectValue": "f1301131",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 937,
+    "counterPerformance": 937,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1301511,
+    "effectType": 7,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 754,
+    "counterPerformance": 754,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1301521,
+    "effectType": 7,
+    "effectValue": "f1301521",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 78,
+    "counterPerformance": 78,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1301522,
+    "effectType": 10,
+    "effectValue": "1301113,1301114,1301115,1301116",
+    "effectTimes": [
+      "2"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1301611,
+    "effectType": 15,
+    "effectValue": "0.3703|f1011611",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 941,
+    "counterPerformance": 941,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311001,
+    "effectType": 3,
+    "effectValue": "107",
+    "effectTimes": [
+      "f1311001"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311002,
+    "effectType": 3,
+    "effectValue": "107",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311003,
+    "effectType": 3,
+    "effectValue": "111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311021,
+    "effectType": 3,
+    "effectValue": "108",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311022,
+    "effectType": 3,
+    "effectValue": "109",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311023,
+    "effectType": 3,
+    "effectValue": "110",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311026,
+    "effectType": 1,
+    "effectValue": "6f",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311029,
+    "effectType": 2,
+    "effectValue": "1311029",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311036,
+    "effectType": 2,
+    "effectValue": "1311036",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311051,
+    "effectType": 21,
+    "effectValue": "-1",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311053,
+    "effectType": 2,
+    "effectValue": "1311053",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311112,
+    "effectType": 3,
+    "effectValue": "108",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311113,
+    "effectType": 3,
+    "effectValue": "109",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311114,
+    "effectType": 3,
+    "effectValue": "110",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311118,
+    "effectType": 2,
+    "effectValue": "1311118",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311122,
+    "effectType": 3,
+    "effectValue": "109",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311123,
+    "effectType": 3,
+    "effectValue": "110",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1311128,
+    "effectType": 2,
+    "effectValue": "1311128",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321021,
+    "effectType": 17,
+    "effectValue": "f1321021",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321081,
+    "effectType": 17,
+    "effectValue": "-1f",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321111,
+    "effectType": 7,
+    "effectValue": "f1321111",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 463,
+    "counterPerformance": 463,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321112,
+    "effectType": 7,
+    "effectValue": "f1321113",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1012,
+    "counterPerformance": 1012,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321121,
+    "effectType": 2,
+    "effectValue": "1321121",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321122,
+    "effectType": 2,
+    "effectValue": "1321122",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321123,
+    "effectType": 2,
+    "effectValue": "1321123",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321124,
+    "effectType": 2,
+    "effectValue": "1321124",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321125,
+    "effectType": 2,
+    "effectValue": "1321125",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321126,
+    "effectType": 2,
+    "effectValue": "1321126",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321131,
+    "effectType": 27,
+    "effectValue": "",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321132,
+    "effectType": 2,
+    "effectValue": "1321131",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321133,
+    "effectType": 2,
+    "effectValue": "1321132",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321134,
+    "effectType": 0,
+    "effectValue": "",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 426,
+    "counterPerformance": 426,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321135,
+    "effectType": 2,
+    "effectValue": "1321135",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321321,
+    "effectType": 8,
+    "effectValue": "f1321321",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321511,
+    "effectType": 7,
+    "effectValue": "f100",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 696,
+    "counterPerformance": 696,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321521,
+    "effectType": 2,
+    "effectValue": "1321521",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321522,
+    "effectType": 2,
+    "effectValue": "1321522",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321523,
+    "effectType": 17,
+    "effectValue": "-1f",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321524,
+    "effectType": 2,
+    "effectValue": "1321526",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 1321611,
+    "effectType": 15,
+    "effectValue": "0.2533|f1011611",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 3,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 1008,
+    "counterPerformance": 1008,
+    "hitText": "",
+    "missText": ""
+  },
+  {
     "sn": 5011017,
     "effectType": 2,
     "effectValue": "75014",
@@ -25635,7 +30758,7 @@
   {
     "sn": 5011301,
     "effectType": 1,
-    "effectValue": "f5011301",
+    "effectValue": "10f",
     "effectTimes": [
       "1"
     ],
@@ -25664,8 +30787,8 @@
   },
   {
     "sn": 5021013,
-    "effectType": 2,
-    "effectValue": "5021012",
+    "effectType": 3,
+    "effectValue": "123",
     "effectTimes": [
       "1"
     ],
@@ -25674,7 +30797,7 @@
     "technicalDisplay": 0,
     "performance": 208,
     "counterPerformance": 208,
-    "hitText": "成功驱散掉了1层<color=#FF0000>『金刚护体』</color>！",
+    "hitText": "成功驱散掉了1层<color=#FF0000>『青龙鳞甲』</color>！",
     "missText": ""
   },
   {
@@ -25690,6 +30813,36 @@
     "performance": 208,
     "counterPerformance": 208,
     "hitText": "召唤消耗1层<color=#FF0000>『妖精之力』</color>",
+    "missText": ""
+  },
+  {
+    "sn": 5041010,
+    "effectType": 2,
+    "effectValue": "5041010",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
+    "missText": ""
+  },
+  {
+    "sn": 5041012,
+    "effectType": 2,
+    "effectValue": "5041012",
+    "effectTimes": [
+      "1"
+    ],
+    "hitDisplay": 4,
+    "technicalTags": [],
+    "technicalDisplay": 0,
+    "performance": 0,
+    "counterPerformance": 0,
+    "hitText": "",
     "missText": ""
   }
 ]

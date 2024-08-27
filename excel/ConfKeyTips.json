@@ -666,11 +666,19 @@
         "1011"
       ],
       [
+        "2001"
+      ],
+      [
+        "1009"
+      ],
+      [
         "411"
       ]
     ],
     "GamePadKeyDes": [
       "PC-Text-xuanzedidian-i18n.png",
+      "PC-Text-chakan-i18n.png",
+      "PC-Text-tuijinshijue-i18n.png",
       "PC-Text-fanhui-i18n.png"
     ]
   },
@@ -1098,6 +1106,86 @@
     ],
     "GamePadKeyDes": [
       "PC-Text-guanchamoshi-i18n.png",
+      "PC-Text-ditu-i18n.png",
+      "PC-Text-lunpan-i18n.png",
+      "PC-Text-fanhui-i18n.png"
+    ]
+  },
+  {
+    "sn": 1003,
+    "Type": 1,
+    "Deviation": [
+      "0",
+      "0"
+    ],
+    "KeyName": [
+      [
+        "103"
+      ],
+      [
+        "101"
+      ],
+      [
+        "3"
+      ],
+      [
+        "2"
+      ]
+    ],
+    "KeyDes": [
+      "PC-Text-guanchamoshi-i18n.png",
+      "PC-Text-benpao-i18n.png",
+      "PC-Text-caidan-i18n.png",
+      "PC-Text-ditu-i18n.png"
+    ],
+    "rpgKeyName": [
+      [
+        "103"
+      ],
+      [
+        "101"
+      ],
+      [
+        "32"
+      ],
+      [
+        "3"
+      ],
+      [
+        "2"
+      ],
+      [
+        "20000"
+      ]
+    ],
+    "rpgKeyDes": [
+      "PC-Text-guanchamoshi-i18n.png",
+      "PC-Text-benpao-i18n.png",
+      "PC-Text-huanqishubiao-i18n.png",
+      "PC-Text-caidan-i18n.png",
+      "PC-Text-ditu-i18n.png",
+      "PC-Text-lunpan-i18n.png"
+    ],
+    "GamePadKeyName": [
+      [
+        "103"
+      ],
+      [
+        "3"
+      ],
+      [
+        "2"
+      ],
+      [
+        "20000"
+      ],
+      [
+        "106"
+      ]
+    ],
+    "GamePadKeyDes": [
+      "PC-Text-guanchamoshi-i18n.png",
+      "PC-Text-caidan-i18n.png",
       "PC-Text-ditu-i18n.png",
       "PC-Text-lunpan-i18n.png",
       "PC-Text-fanhui-i18n.png"

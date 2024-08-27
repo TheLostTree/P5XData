@@ -521,7 +521,7 @@
     "showPos": 1,
     "showType": 0,
     "name": "生日",
-    "desc": "??月??日",
+    "desc": "12月26日",
     "unlockSn": [
       206
     ],
@@ -533,7 +533,7 @@
     "showPos": 2,
     "showType": 0,
     "name": "星座",
-    "desc": "??",
+    "desc": "摩羯座",
     "unlockSn": [
       206
     ],
@@ -590,18 +590,6 @@
   {
     "sn": 607,
     "coopSn": 6,
-    "showPos": 7,
-    "showType": 0,
-    "name": "血型",
-    "desc": "??",
-    "unlockSn": [
-      309
-    ],
-    "conditionType": 0
-  },
-  {
-    "sn": 608,
-    "coopSn": 6,
     "showPos": 9,
     "showType": 1,
     "name": "兴趣",
@@ -612,7 +600,7 @@
     "conditionType": 0
   },
   {
-    "sn": 609,
+    "sn": 608,
     "coopSn": 6,
     "showPos": 11,
     "showType": 1,
@@ -1026,6 +1014,174 @@
     "showType": 1,
     "name": "特长",
     "desc": "种田、编程",
+    "unlockSn": [
+      313
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1201,
+    "coopSn": 12,
+    "showPos": 1,
+    "showType": 0,
+    "name": "生日",
+    "desc": "12月20日",
+    "unlockSn": [
+      2012
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1202,
+    "coopSn": 12,
+    "showPos": 2,
+    "showType": 0,
+    "name": "星座",
+    "desc": "射手座",
+    "unlockSn": [
+      303
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1203,
+    "coopSn": 12,
+    "showPos": 3,
+    "showType": 0,
+    "name": "年龄",
+    "desc": "18岁",
+    "unlockSn": [
+      305
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1204,
+    "coopSn": 12,
+    "showPos": 4,
+    "showType": 0,
+    "name": "身高",
+    "desc": "154cm",
+    "unlockSn": [
+      307
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1205,
+    "coopSn": 12,
+    "showPos": 5,
+    "showType": 0,
+    "name": "体重",
+    "desc": "43kg",
+    "unlockSn": [
+      309
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1206,
+    "coopSn": 12,
+    "showPos": 6,
+    "showType": 1,
+    "name": "兴趣",
+    "desc": "编曲，收集经典唱片",
+    "unlockSn": [
+      311
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1207,
+    "coopSn": 12,
+    "showPos": 7,
+    "showType": 1,
+    "name": "特长",
+    "desc": "吉他演奏",
+    "unlockSn": [
+      313
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1301,
+    "coopSn": 13,
+    "showPos": 1,
+    "showType": 0,
+    "name": "生日",
+    "desc": "6月21日",
+    "unlockSn": [
+      2013
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1302,
+    "coopSn": 13,
+    "showPos": 2,
+    "showType": 0,
+    "name": "星座",
+    "desc": "双子座",
+    "unlockSn": [
+      303
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1303,
+    "coopSn": 13,
+    "showPos": 3,
+    "showType": 0,
+    "name": "年龄",
+    "desc": "26岁",
+    "unlockSn": [
+      305
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1304,
+    "coopSn": 13,
+    "showPos": 4,
+    "showType": 0,
+    "name": "身高",
+    "desc": "168cm",
+    "unlockSn": [
+      307
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1305,
+    "coopSn": 13,
+    "showPos": 5,
+    "showType": 0,
+    "name": "体重",
+    "desc": "保密",
+    "unlockSn": [
+      309
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1306,
+    "coopSn": 13,
+    "showPos": 6,
+    "showType": 1,
+    "name": "兴趣",
+    "desc": "听大家讲故事",
+    "unlockSn": [
+      311
+    ],
+    "conditionType": 0
+  },
+  {
+    "sn": 1307,
+    "coopSn": 13,
+    "showPos": 7,
+    "showType": 1,
+    "name": "特长",
+    "desc": "花式调酒，舞蹈",
     "unlockSn": [
       313
     ],

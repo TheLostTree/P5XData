@@ -463,6 +463,62 @@
     "positionOffset": []
   },
   {
+    "sn": "map_jixiangsi",
+    "msg": "吉祥寺",
+    "rotate": 180,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-dushi-jixiangsi-i18n.png",
+    "mapBgName": "map-jixiangsi-01.png",
+    "map_param": "204.41,30.46924,240.5948|378,93|300.5523,29.94996,280.8967|-443,-246|912,736",
+    "miniScale": 0.8,
+    "normalScale": 0.9,
+    "zoomRange": [
+      0.63,
+      1.35
+    ],
+    "iconRange": [
+      1
+    ],
+    "playerIconScale": 2.22,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 1,
+    "iconNearDist": -1,
+    "isCommonMap": 0,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_dailihaian",
+    "msg": "代里海岸",
+    "rotate": 0,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-dushi-dailihaian-i18n.png",
+    "mapBgName": "map_dailihaian.png",
+    "map_param": "26.84251,99.72184,81.92657|567,414|134.8695,99.99996,154.0433|-580,-348|1264,952",
+    "miniScale": 0.6,
+    "normalScale": 0.8,
+    "zoomRange": [
+      0.56,
+      1.2
+    ],
+    "iconRange": [
+      1
+    ],
+    "playerIconScale": 2.5,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 1,
+    "iconNearDist": 0,
+    "isCommonMap": 0,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
     "sn": "map_union",
     "msg": "乐园场景",
     "rotate": 180,
@@ -2004,7 +2060,7 @@
     "height": "8,15",
     "mapTitleName": "ditu-yishijie-munei-i18n.png",
     "mapBgName": "",
-    "map_param": "121.2,1.5,94.89|363,196|204.97,1.5,149.45|-608,-436|1810,1781",
+    "map_param": "121.2,1.5,94.89|363,196|204.97,1.5,149.45|-608,-436|2830,1508",
     "miniScale": 0.5,
     "normalScale": 0.5,
     "zoomRange": [
@@ -2509,6 +2565,180 @@
       1.2
     ],
     "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_sb_rukou",
+    "msg": "水坝 入口",
+    "rotate": 0,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-yishijie-pianshan-i18n.png",
+    "mapBgName": "map_sb_rukou.png",
+    "map_param": "227.4443,86.87138,82.60938|380,330|322.5986,74.56786,171.0611|-370,-360|856,860",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_sb_bading",
+    "msg": "水坝 坝顶",
+    "rotate": 0,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-yishijie-pianshan-i18n.png",
+    "mapBgName": "map_sb_bading.png",
+    "map_param": "265.799,108.8013,266.3191|137,168|309.9153,107.9542,298.0436|-203,-78|568,544",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_sb_shuichang_suidao",
+    "msg": "水坝 行车隧道",
+    "rotate": 0,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-yishijie-pianshan-i18n.png",
+    "mapBgName": "",
+    "map_param": "240.9779,115.5343,324.5543|692,1141|365.728,137.826,552.6298|-549,-1123|1800,2500",
+    "miniScale": 0.5,
+    "normalScale": 0.5,
+    "zoomRange": [
+      0.35,
+      0.75
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 4,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_sb_shuichang_diceng",
+    "msg": "水坝 水处理厂底层",
+    "rotate": 0,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-yishijie-pianshan-i18n.png",
+    "mapBgName": "",
+    "map_param": "188.64,63.06,188.73|1020,1003|377.29,51.04,339.88|-856,-490|4368,2795",
+    "miniScale": 0.7,
+    "normalScale": 0.7,
+    "zoomRange": [
+      0.49,
+      1.05
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2.9,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_sb_shuichang_zhongceng",
+    "msg": "水坝 水处理厂中层",
+    "rotate": 0,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-yishijie-pianshan-i18n.png",
+    "mapBgName": "",
+    "map_param": "382.18,80.11,368.81|216,725|586.57,88.21,443.61|-1812,-13|4371,2535",
+    "miniScale": 0.7,
+    "normalScale": 0.7,
+    "zoomRange": [
+      0.49,
+      1.05
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2.9,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_sb_shuichang_shangceng",
+    "msg": "水坝 水处理厂上层",
+    "rotate": 0,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-yishijie-pianshan-i18n.png",
+    "mapBgName": "",
+    "map_param": "161.64,87.62,428.7|666,805|305.43,87.5,569.05|-763,-591|2512,2255",
+    "miniScale": 0.7,
+    "normalScale": 0.7,
+    "zoomRange": [
+      0.49,
+      1.05
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2.9,
     "specialIconScale": 0,
     "npcIconScale": 1,
     "coopIconScale": 0,
@@ -3825,6 +4055,847 @@
     "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
     "mapBgName": "gb05_3Fbiedong_sj_2.png",
     "map_param": "463.7242,335.3651,567.0553|340,205|550.0255,335.3653,660.3867|-342,-191|752,484",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_baowudianhualang_down",
+    "msg": "联动活动二期宝物殿主厅下层",
+    "rotate": 180,
+    "floor": 0,
+    "height": "1,15",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg08_baowudianzhuting_wt_down.png",
+    "map_param": "12.175,16.02,9.87|284,278|96.71,16.02,93.41|-284,-278|588,576",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_baowudianhualang_middle",
+    "msg": "联动活动二期宝物殿主厅中层",
+    "rotate": 180,
+    "floor": 0,
+    "height": "15,21",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg08_baowudianzhuting_wt_middle.png",
+    "map_param": "12.175,16.02,9.87|284,278|96.71,16.02,93.41|-284,-278|588,576",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_baowudianhualang_up",
+    "msg": "联动活动二期宝物殿主厅上层",
+    "rotate": 180,
+    "floor": 0,
+    "height": "21,200",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg08_baowudianzhuting_wt_up.png",
+    "map_param": "12.175,16.02,9.87|284,278|96.71,16.02,93.41|-284,-278|588,576",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_xiuxiting_down",
+    "msg": "联动活动二期宝物殿休息厅下层",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,20",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg05_xiuxiting2_wt_down.png",
+    "map_param": "36.65,100,42.64|370,424|149.58,100,173.54|-370,-424|760,868",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_xiuxiting_up",
+    "msg": "联动活动二期宝物殿休息厅上层",
+    "rotate": 180,
+    "floor": 0,
+    "height": "20,100",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg05_xiuxiting2_wt_up.png",
+    "map_param": "36.65,100,42.64|370,424|149.58,100,173.54|-370,-424|760,868",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_msg_tebiezhanshiting",
+    "msg": "联动活动二期特别展示厅",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,150",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg01_tebiezhanshiting_oybw.png",
+    "map_param": "1.302,100,1.26|322,244|94.736,100,75.199|-322,-244|664,508",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_msg_zhanshiting1",
+    "msg": "联动活动二期第一展示厅",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,150",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg03_zhanting1_wt.png",
+    "map_param": "10.231,17,3.941|196,208|69.742,17,70.77|-196,-208|412,436",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_msg_zhanshiting2",
+    "msg": "联动活动二期第二展示厅",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,150",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg03_zhanting2_wt.png",
+    "map_param": "36.27,6,44.24|522,428|197.04,6,174.37|-522,-428|1064,876",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_msg_meishuguanqian_down",
+    "msg": "联动活动二期美术馆前下层",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,150",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg10_meishuguanqian_down.png",
+    "map_param": "57.41,100,69.798|290,272|148.202,100,151.27|-290,-272|600,564",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_msg_meishuguanqian_up",
+    "msg": "联动活动二期美术馆前上层",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,150",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg10_meishuguanqian_up.png",
+    "map_param": "57.41,69.798|290,272|148.202,151.27|-290,-272|600,564",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_msg_baowudianhualang_down",
+    "msg": "联动活动二期宝物殿画廊下层",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,16",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg06_baowudianhualang_sj_down.png",
+    "map_param": "16,100,17.78|390,208|136,100,81.99|-390,-208|800,436",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_msg_baowudianhualang_up",
+    "msg": "联动活动二期宝物殿画廊上层",
+    "rotate": 180,
+    "floor": 0,
+    "height": "16,100",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg06_baowudianhualang_sj_up.png",
+    "map_param": "16,100,17.78|390,208|136,100,81.99|-390,-208|800,436",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_msg_zhongyangtingyuan",
+    "msg": "联动活动二期宝物殿中央庭院",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,150",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "msg04_zhongyangtingyuan_wt.png",
+    "map_param": "71.857,10.60003,266.653|192.5,-283.6|124.06,10.60001,174.012|-142.74,322.6|424,720",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-jinchengyinhang-qian",
+    "msg": "联动活动二期银行-金城银行前",
+    "rotate": 180,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-jinchengyinhang-qian.png",
+    "map_param": "37.28,13,36.5|144,160|76.63,13,87.06|-144,-160|308,340",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-zhengmiandating-1f",
+    "msg": "联动活动二期银行-员工通道1F",
+    "rotate": 0,
+    "floor": 0,
+    "height": "0,63",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-zhengmiandating-1f.png",
+    "map_param": "26.14,50,31.77|376,354|141.89,50,140.55|-376,-354|772,728",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-zhengmiandating-2f",
+    "msg": "联动活动二期银行-员工通道2F",
+    "rotate": 0,
+    "floor": 0,
+    "height": "63,150",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-zhengmiandating-2f.png",
+    "map_param": "26.14,50,31.77|376,354|141.89,50,140.55|-376,-354|772,728",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-yuangongtongdao-diceng",
+    "msg": "联动活动二期银行-职员通道1F",
+    "rotate": 0,
+    "floor": 0,
+    "height": "0,99",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-yuangongtongdao-diceng.png",
+    "map_param": "13.51,20,17.3|390,372|134.67,20,132.68|-390,-372|800,764",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-yuangongtongdao-zhongceng",
+    "msg": "联动活动二期银行-职员通道2F",
+    "rotate": 0,
+    "floor": 0,
+    "height": "99,107.",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-yuangongtongdao-zhongceng.png",
+    "map_param": "13.51,20,17.3|390,372|134.67,20,132.68|-390,-372|800,764",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-yuangongtongdao-shangceng",
+    "msg": "联动活动二期银行-职员通道3F",
+    "rotate": 0,
+    "floor": 0,
+    "height": "107,150",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-yuangongtongdao-shangceng.png",
+    "map_param": "13.51,20,17.3|390,372|134.67,20,132.68|-390,-372|800,764",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-bangongshi-shangceng",
+    "msg": "联动活动二期银行-洗钱办公室上层2F",
+    "rotate": 180,
+    "floor": 0,
+    "height": "15,100",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-bangongshi-shangceng.png",
+    "map_param": "27.3,20,-11.32|162,300|76.79,20,80.6|-162,-300|344,620",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-bangongshi-zhongceng",
+    "msg": "联动活动二期银行-洗钱办公室上层1F",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,15",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-bangongshi-zhongceng.png",
+    "map_param": "27.3,20,-11.32|162,300|76.79,20,80.6|-162,-300|344,620",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-bangongshi-xiaceng",
+    "msg": "联动活动二期银行-洗钱办公室下层2F",
+    "rotate": 180,
+    "floor": 0,
+    "height": "9,100",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-bangongshi-xiaceng.png",
+    "map_param": "38.35,20,11|154,234|81.77,20,79.78|-154,-234|328,488",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-bangongshi-diceng",
+    "msg": "联动活动二期银行-洗钱办公室下层1F",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,9",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-bangongshi-diceng.png",
+    "map_param": "38.35,20,11|154,234|81.77,20,79.78|-154,-234|328,488",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-jinku-rukou",
+    "msg": "联动活动二期银行-地下大金库",
+    "rotate": 0,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-jinku-rukou.png",
+    "map_param": "19,33.93,13.89|662,643.5|219,33.93,214.54|-662,-643.5|1344,1307",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-jinku-1f-xiaceng",
+    "msg": "联动活动二期银行-地下金库一层底",
+    "rotate": 180,
+    "floor": 0,
+    "height": "0,9",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-jinku-1f-xiaceng.png",
+    "map_param": "3.19,20,3.12|206,408|63.66,0,128.29|-206,-408|432,836",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-jinku-1f-shangceng",
+    "msg": "联动活动二期银行-地下金库一层上",
+    "rotate": 180,
+    "floor": 0,
+    "height": "9,100",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-jinku-1f-shangceng.png",
+    "map_param": "3.19,20,3.12|206,408|63.66,0,128.29|-206,-408|432,836",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-jinku-2f-xiaceng",
+    "msg": "联动活动二期银行-地下金库二层底",
+    "rotate": 0,
+    "floor": 0,
+    "height": "0,15",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-jinku-2f-shangceng.png",
+    "map_param": "14.93,20,13.85|170,312|65.04,20,109.31|-170,-312|360,644",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-jinku-2f-shangceng",
+    "msg": "联动活动二期银行-地下金库二层上",
+    "rotate": 0,
+    "floor": 0,
+    "height": "15,100",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-jinku-2f-xiaceng.png",
+    "map_param": "14.93,20,13.85|170,312|65.04,20,109.31|-170,-312|360,644",
+    "miniScale": 1,
+    "normalScale": 1,
+    "zoomRange": [
+      0.7,
+      1.5
+    ],
+    "iconRange": [
+      0.7,
+      1.2
+    ],
+    "playerIconScale": 2,
+    "specialIconScale": 0,
+    "npcIconScale": 1,
+    "coopIconScale": 0,
+    "iconNearDist": 0,
+    "isCommonMap": 1,
+    "chooseRate": 0,
+    "miniMapBgBorderWidth": 24,
+    "positionOffset": []
+  },
+  {
+    "sn": "map_ld_2_yh-jinku-3f",
+    "msg": "联动活动二期银行-地下金库三层",
+    "rotate": 0,
+    "floor": 0,
+    "height": "",
+    "mapTitleName": "ditu-yishijie-sixiang-i18n.png",
+    "mapBgName": "yh-jinku-3f.png",
+    "map_param": "8.87,20,98.77|202,308|69.24,20,193.26|-202,-308|424,636",
     "miniScale": 1,
     "normalScale": 1,
     "zoomRange": [

@@ -312,7 +312,8 @@
     "weatherType": 1,
     "eventType": 6,
     "eventParam": [
-      50301
+      50301,
+      504
     ],
     "toLastScene": 0
   },
@@ -1025,7 +1026,8 @@
     "weatherType": 1,
     "eventType": 6,
     "eventParam": [
-      50301
+      50301,
+      504
     ],
     "toLastScene": 0
   },
@@ -1311,7 +1313,8 @@
     "weatherType": 1,
     "eventType": 6,
     "eventParam": [
-      50301
+      50301,
+      504
     ],
     "toLastScene": 0
   },
@@ -1554,6 +1557,685 @@
   },
   {
     "sn": 1075,
+    "nextSn": -1,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 1,
+    "eventParam": [
+      70000
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1110,
+    "nextSn": 1111,
+    "phaseType": 1,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      701
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1111,
+    "nextSn": 1112,
+    "phaseType": 2,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1112,
+    "nextSn": 1113,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 4,
+    "eventParam": [
+      310
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1113,
+    "nextSn": 1114,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      9,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1114,
+    "nextSn": 1115,
+    "phaseType": 6,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      10,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1115,
+    "nextSn": 1116,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      1,
+      11,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1116,
+    "nextSn": 1117,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 3,
+    "eventParam": [
+      0
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1117,
+    "nextSn": -1,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 1,
+    "eventParam": [
+      70000
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1120,
+    "nextSn": 1121,
+    "phaseType": 1,
+    "weatherType": 1,
+    "eventType": 6,
+    "eventParam": [
+      50301,
+      504
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1121,
+    "nextSn": 1122,
+    "phaseType": 2,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1122,
+    "nextSn": 1123,
+    "phaseType": 5,
+    "weatherType": 3,
+    "eventType": 4,
+    "eventParam": [
+      310
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1123,
+    "nextSn": 1124,
+    "phaseType": 5,
+    "weatherType": 3,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      9,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1124,
+    "nextSn": 1125,
+    "phaseType": 6,
+    "weatherType": 3,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      10,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1125,
+    "nextSn": 1126,
+    "phaseType": 7,
+    "weatherType": 3,
+    "eventType": 2,
+    "eventParam": [
+      1,
+      11,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1126,
+    "nextSn": 1127,
+    "phaseType": 7,
+    "weatherType": 3,
+    "eventType": 3,
+    "eventParam": [
+      0
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1127,
+    "nextSn": -1,
+    "phaseType": 7,
+    "weatherType": 3,
+    "eventType": 1,
+    "eventParam": [
+      70000
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1130,
+    "nextSn": 1131,
+    "phaseType": 1,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      701
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1131,
+    "nextSn": 1132,
+    "phaseType": 2,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1132,
+    "nextSn": 1133,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 4,
+    "eventParam": [
+      310
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1133,
+    "nextSn": 1134,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      9,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1134,
+    "nextSn": 1135,
+    "phaseType": 6,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      10,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1135,
+    "nextSn": 1136,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      1,
+      11,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1136,
+    "nextSn": 1137,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 3,
+    "eventParam": [
+      0
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1137,
+    "nextSn": -1,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 1,
+    "eventParam": [
+      70000
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1140,
+    "nextSn": 1141,
+    "phaseType": 1,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      701
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1141,
+    "nextSn": 1142,
+    "phaseType": 2,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1142,
+    "nextSn": 1143,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 4,
+    "eventParam": [
+      310
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1143,
+    "nextSn": 1144,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      9,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1144,
+    "nextSn": 1145,
+    "phaseType": 6,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      10,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1145,
+    "nextSn": 1146,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      1,
+      11,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1146,
+    "nextSn": 1147,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 3,
+    "eventParam": [
+      0
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1147,
+    "nextSn": -1,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 1,
+    "eventParam": [
+      70000
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1150,
+    "nextSn": 1151,
+    "phaseType": 1,
+    "weatherType": 1,
+    "eventType": 6,
+    "eventParam": [
+      50301,
+      504
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1151,
+    "nextSn": 1152,
+    "phaseType": 2,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1152,
+    "nextSn": 1153,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 4,
+    "eventParam": [
+      310
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1153,
+    "nextSn": 1154,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      9,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1154,
+    "nextSn": 1155,
+    "phaseType": 6,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      10,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1155,
+    "nextSn": 1156,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      1,
+      11,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1156,
+    "nextSn": 1157,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 3,
+    "eventParam": [
+      0
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1157,
+    "nextSn": -1,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 1,
+    "eventParam": [
+      70000
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1160,
+    "nextSn": 1161,
+    "phaseType": 2,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      701
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1161,
+    "nextSn": 1162,
+    "phaseType": 2,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      400,
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1162,
+    "nextSn": 1163,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 4,
+    "eventParam": [
+      310
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1163,
+    "nextSn": 1164,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      9,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1164,
+    "nextSn": 1165,
+    "phaseType": 6,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      10,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1165,
+    "nextSn": 1166,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      1,
+      11,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1166,
+    "nextSn": 1167,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 3,
+    "eventParam": [
+      0
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1167,
+    "nextSn": -1,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 1,
+    "eventParam": [
+      70000
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1170,
+    "nextSn": 1171,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 7,
+    "eventParam": [
+      702
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1171,
+    "nextSn": 1172,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 4,
+    "eventParam": [
+      311
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1172,
+    "nextSn": 1173,
+    "phaseType": 5,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      9,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1173,
+    "nextSn": 1174,
+    "phaseType": 6,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      2,
+      10,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1174,
+    "nextSn": 1175,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 2,
+    "eventParam": [
+      1,
+      11,
+      -1
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1175,
+    "nextSn": 1176,
+    "phaseType": 7,
+    "weatherType": 1,
+    "eventType": 3,
+    "eventParam": [
+      0
+    ],
+    "toLastScene": 0
+  },
+  {
+    "sn": 1176,
     "nextSn": -1,
     "phaseType": 7,
     "weatherType": 1,

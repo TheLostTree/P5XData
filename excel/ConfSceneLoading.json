@@ -1480,6 +1480,26 @@
     "loadingTipType": 0
   },
   {
+    "sn": 1827,
+    "oldType": 20,
+    "newType": 20,
+    "condition": 1,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 1828,
+    "oldType": 20,
+    "newType": 20,
+    "condition": 2,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 26,
+    "loadingTipType": 0
+  },
+  {
     "sn": 1901,
     "oldType": 71,
     "newType": 72,
@@ -1657,6 +1677,86 @@
     "goToBattle": 0,
     "battleMeeting": 0,
     "animation": 1,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2801,
+    "oldType": -1,
+    "newType": 21,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2802,
+    "oldType": 1,
+    "newType": 21,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2803,
+    "oldType": 2,
+    "newType": 21,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2804,
+    "oldType": 7,
+    "newType": 21,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2805,
+    "oldType": 71,
+    "newType": 21,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2806,
+    "oldType": 72,
+    "newType": 21,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2807,
+    "oldType": 13,
+    "newType": 21,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
+    "loadingTipType": 0
+  },
+  {
+    "sn": 2808,
+    "oldType": 21,
+    "newType": 1,
+    "condition": 3,
+    "goToBattle": 0,
+    "battleMeeting": 0,
+    "animation": 2,
     "loadingTipType": 0
   }
 ]

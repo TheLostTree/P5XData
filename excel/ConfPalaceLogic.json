@@ -4,7 +4,7 @@
     "name": "木内雄之·宫殿",
     "brokenName": "认知·棒球馆",
     "brokenEnName": "Cognitive Place",
-    "lordName": "木内雄之",
+    "lordName": "木内雄之·宫殿",
     "engName": "Takeyuki Kiuchi",
     "palacePic": "zuozhanjidi-gongdian-munei-i18n.png",
     "combatRoomPic": "zuozhanjidi-gongdian-munei.png",
@@ -51,22 +51,21 @@
     "unlockPic": "tansuodu-icon-zhangjie-bangqiu.png",
     "trainModel": "scni46_thing_huoche01",
     "trainEffect": "clb03_yinhang_shanliang_06.prefab",
-    "changeBGMMission": [
-      11051,
-      11052,
-      11053,
-      11054
-    ],
-    "palaceGroup": 0,
-    "lockPic": ""
+    "changeBGMMission": [],
+    "palaceGroup": 1,
+    "lockPic": "tansuodu-icon-zhangjie-lock.png",
+    "exploreName": [],
+    "exploreGroup": [
+      1
+    ]
   },
   {
     "sn": 2,
     "name": "宫泽博梦·宫殿",
     "brokenName": "认知·影视城",
     "brokenEnName": "Cognitive Place",
-    "lordName": "宫泽博梦",
-    "engName": "Miyazawa Hiromu",
+    "lordName": "宫泽博梦·宫殿",
+    "engName": "Hiromu Miyazawa",
     "palacePic": "zuozhanjidi-gongdian-gongze-i18n.png",
     "combatRoomPic": "zuozhanjidi-gongdian-gongze.png",
     "uiName": "gongdian02",
@@ -116,10 +115,75 @@
     "unlockPic": "tansuodu-icon-zhangjie-gongze.png",
     "trainModel": "scni46_thing_huoche01 (1)",
     "trainEffect": "clb03_yinhang_shanliang_07.prefab",
-    "changeBGMMission": [
-      11903
+    "changeBGMMission": [],
+    "palaceGroup": 2,
+    "lockPic": "tansuodu-icon-zhangjie-gongze-lock.png",
+    "exploreName": [],
+    "exploreGroup": [
+      2
+    ]
+  },
+  {
+    "sn": 3,
+    "name": "片山久未·宫殿",
+    "brokenName": "认知·水坝",
+    "brokenEnName": "Cognitive Place",
+    "lordName": "片山久未·宫殿",
+    "engName": "Kumi Katayama",
+    "palacePic": "zuozhanjidi-gongdian-pianshan-i18n.png",
+    "combatRoomPic": "zuozhanjidi-gongdian-pianshan.png",
+    "uiName": "gongdian03",
+    "uiBGName": "Image-gongdianxian03",
+    "npcSn": 5520003,
+    "brokenSn": 5520008,
+    "unlockType": 2,
+    "unlockParam": 120036,
+    "brokenQuest": 0,
+    "childPalace": [
+      301,
+      302,
+      311,
+      312,
+      313,
+      314
     ],
-    "palaceGroup": 0,
-    "lockPic": ""
+    "awardShow": [
+      [
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-操作员",
+        "311012"
+      ],
+      [
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-维修工",
+        "311013"
+      ],
+      [
+        "yishijie-icon-xiaoguai-bai-new.png",
+        "阴影-监工",
+        "311014"
+      ]
+    ],
+    "shading": "",
+    "shopSn": 15,
+    "moneyType": 24,
+    "namePic": "gongdian-mingzi-bangqiuguan-i18n.png",
+    "nameWorldPic": "ditu-yishijie-pianshan-i18n.png",
+    "brokenWorldPic": "wangrirenzhi-side-name01-i18n.png",
+    "cognitionPic": "wangrirenzhi-stage-name02-i18n.png",
+    "unlockPic": "tansuodu-icon-zhangjie-shuiba.png",
+    "trainModel": "scni46_thing_huoche01 (1)",
+    "trainEffect": "clb03_yinhang_shanliang_07.prefab",
+    "changeBGMMission": [],
+    "palaceGroup": 3,
+    "lockPic": "tansuodu-icon-zhangjie-shuiba-lock.png",
+    "exploreName": [
+      "水处理厂",
+      "发电厂"
+    ],
+    "exploreGroup": [
+      3,
+      4
+    ]
   }
 ]

@@ -17,7 +17,8 @@
     "strenExp": 100,
     "strenExpType0": 100,
     "convertItem": 0,
-    "consumeMoney": 1000
+    "consumeMoney": 1000,
+    "cardRecallLevel": 5
   },
   {
     "sn": 3,
@@ -38,7 +39,8 @@
     "strenExp": 300,
     "strenExpType0": 300,
     "convertItem": 0,
-    "consumeMoney": 2000
+    "consumeMoney": 2000,
+    "cardRecallLevel": 5
   },
   {
     "sn": 4,
@@ -62,7 +64,8 @@
     "strenExp": 800,
     "strenExpType0": 800,
     "convertItem": 302304,
-    "consumeMoney": 4000
+    "consumeMoney": 4000,
+    "cardRecallLevel": 5
   },
   {
     "sn": 5,
@@ -87,6 +90,7 @@
     "strenExp": 1000,
     "strenExpType0": 1000,
     "convertItem": 302305,
-    "consumeMoney": 5000
+    "consumeMoney": 5000,
+    "cardRecallLevel": 5
   }
 ]

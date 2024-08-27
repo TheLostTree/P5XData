@@ -2246,5 +2246,76 @@
     ],
     "indoor": 0,
     "ai": 0
+  },
+  {
+    "sn": 21107,
+    "scene": 300,
+    "positions": [
+      [
+        377.4,
+        29.765,
+        366.756
+      ],
+      [
+        246.839,
+        29.765,
+        372.242
+      ]
+    ],
+    "radiuses": [
+      0,
+      0
+    ],
+    "curve": [
+      true,
+      true
+    ],
+    "point": 0,
+    "directionType": 3,
+    "nodePointSn": 0,
+    "modelGroup": [
+      7600,
+      7601,
+      7800,
+      7801
+    ],
+    "indoor": 0,
+    "ai": 0
+  },
+  {
+    "sn": 21108,
+    "scene": 300,
+    "positions": [
+      [
+        241.101,
+        29.765,
+        381.679
+      ],
+      [
+        383.076,
+        29.765,
+        381.679
+      ]
+    ],
+    "radiuses": [
+      0,
+      0
+    ],
+    "curve": [
+      true,
+      true
+    ],
+    "point": 0,
+    "directionType": 3,
+    "nodePointSn": 0,
+    "modelGroup": [
+      7200,
+      7600,
+      7700,
+      7801,
+      7601
+    ],
+    "indoor": 0,
+    "ai": 0
   }
 ]

@@ -3,754 +3,796 @@
     "sn": 1,
     "devicemodel": "RTX4090",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 2,
-    "devicemodel": "RX7900XTX",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX4090D",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 3,
-    "devicemodel": "RTX4080",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX7900XTX",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 4,
-    "devicemodel": "RX7900XT",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX4080",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 5,
-    "devicemodel": "RTX3090TI",
+    "devicemodel": "RTX4080SUPER",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 6,
-    "devicemodel": "RTX4070TI",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX7900XT",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 7,
-    "devicemodel": "RTX4070",
+    "devicemodel": "RTX3090TI",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 8,
-    "devicemodel": "RTX3090",
+    "devicemodel": "RTX4070TISUPER",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 9,
-    "devicemodel": "RX6950XT",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX4070TI",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 10,
-    "devicemodel": "RX6900XT",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX4070",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 11,
-    "devicemodel": "RTX3080TI",
+    "devicemodel": "RTX3090",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 12,
-    "devicemodel": "TITANRTX",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX6950XT",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 13,
-    "devicemodel": "RTX308012GB",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX6900XT",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 14,
-    "devicemodel": "RTX3080",
+    "devicemodel": "RTX3080TI",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 15,
-    "devicemodel": "RX6800XT",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "TITANRTX",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 16,
-    "devicemodel": "RX6800",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX308012GB",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 17,
-    "devicemodel": "RTX3070TI",
+    "devicemodel": "RTX3080",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 18,
-    "devicemodel": "RTX2080TI",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX6800XT",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 19,
-    "devicemodel": "RTX3070",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX6800",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 20,
-    "devicemodel": "RX6750XT",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX3070TI",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 21,
-    "devicemodel": "RX6700XT",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX2080TI",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 22,
-    "devicemodel": "RTX3060TI",
+    "devicemodel": "RTX3070",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 23,
-    "devicemodel": "TITANV",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX6750XT",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 24,
-    "devicemodel": "RTX2080SUPER",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX6700XT",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 25,
-    "devicemodel": "TITANXP",
+    "devicemodel": "RTX4060TI16GB",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 26,
-    "devicemodel": "RTX2080",
+    "devicemodel": "RTX4060TI",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 27,
-    "devicemodel": "GTX1080TI",
+    "devicemodel": "RTX3060TI",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 28,
-    "devicemodel": "RTX2070SUPER",
+    "devicemodel": "TITANV",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 29,
-    "devicemodel": "RX6650XT",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX4060",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 30,
-    "devicemodel": "RADEONVII",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX4050",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 31,
-    "devicemodel": "RX6600XT",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX2080SUPER",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 32,
-    "devicemodel": "R9295X2",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "TITANXP",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 33,
-    "devicemodel": "GTXTITANZ",
+    "devicemodel": "RTX2080",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 34,
-    "devicemodel": "RX5700XT",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "GTX1080TI",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 35,
-    "devicemodel": "TITANX",
+    "devicemodel": "RTX2070SUPER",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 36,
-    "devicemodel": "RTX3060",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX6650XT",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 37,
-    "devicemodel": "RX5700XT",
+    "devicemodel": "RADEONVII",
     "Type": "AMD",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 38,
-    "devicemodel": "RTX2070",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX6600XT",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 39,
-    "devicemodel": "RXVEGA64",
+    "devicemodel": "R9295X2",
     "Type": "AMD",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 40,
-    "devicemodel": "RTX2060SUPER",
+    "devicemodel": "GTXTITANZ",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 41,
-    "devicemodel": "GTX1080",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RX5700XT",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 42,
-    "devicemodel": "RTX2060SUPER",
+    "devicemodel": "TITANX",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 43,
-    "devicemodel": "RX6600",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX3060",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 44,
-    "devicemodel": "RX5700",
+    "devicemodel": "RX5700XT",
     "Type": "AMD",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 45,
-    "devicemodel": "RTX2060",
+    "devicemodel": "RTX2070",
     "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "GraphicLevel": 5
   },
   {
     "sn": 46,
-    "devicemodel": "GTX1070TI",
-    "Type": "NVIDIA",
-    "GraphicLevel": 4
+    "devicemodel": "RXVEGA64",
+    "Type": "AMD",
+    "GraphicLevel": 5
   },
   {
     "sn": 47,
-    "devicemodel": "RX5600XT",
-    "Type": "AMD",
-    "GraphicLevel": 4
+    "devicemodel": "RTX2060SUPER",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
   },
   {
     "sn": 48,
+    "devicemodel": "GTX1080",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
+  },
+  {
+    "sn": 49,
+    "devicemodel": "RTX2060SUPER",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
+  },
+  {
+    "sn": 50,
+    "devicemodel": "RX6600",
+    "Type": "AMD",
+    "GraphicLevel": 5
+  },
+  {
+    "sn": 51,
+    "devicemodel": "RX5700",
+    "Type": "AMD",
+    "GraphicLevel": 5
+  },
+  {
+    "sn": 52,
+    "devicemodel": "RTX2060",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
+  },
+  {
+    "sn": 53,
+    "devicemodel": "GTX1070TI",
+    "Type": "NVIDIA",
+    "GraphicLevel": 5
+  },
+  {
+    "sn": 54,
+    "devicemodel": "RX5600XT",
+    "Type": "AMD",
+    "GraphicLevel": 5
+  },
+  {
+    "sn": 55,
     "devicemodel": "RTX3050",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 49,
+    "sn": 56,
     "devicemodel": "GTXTITANX",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 50,
+    "sn": 57,
     "devicemodel": "GTX1070",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 51,
+    "sn": 58,
     "devicemodel": "GTX1660TI",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 52,
+    "sn": 59,
     "devicemodel": "GTX980TI",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 53,
+    "sn": 60,
     "devicemodel": "GTX1660SUPER",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 54,
+    "sn": 61,
     "devicemodel": "GTX1660",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 55,
+    "sn": 62,
     "devicemodel": "GTX690",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 56,
+    "sn": 63,
     "devicemodel": "GTXTITANBLACK",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 57,
+    "sn": 64,
     "devicemodel": "GTX980",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 58,
+    "sn": 65,
     "devicemodel": "GTX1650SUPER",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 59,
+    "sn": 66,
     "devicemodel": "GTX780TI",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 60,
+    "sn": 67,
     "devicemodel": "GTX10606GB",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 61,
+    "sn": 68,
     "devicemodel": "GTXTITAN",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 62,
+    "sn": 69,
     "devicemodel": "GTX780",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 63,
+    "sn": 70,
     "devicemodel": "GTX970",
     "Type": "NVIDIA",
     "GraphicLevel": 3
   },
   {
-    "sn": 64,
+    "sn": 71,
     "devicemodel": "RXVEGA56",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
-    "sn": 65,
+    "sn": 72,
     "devicemodel": "RX5600",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
-    "sn": 66,
+    "sn": 73,
     "devicemodel": "R9FURYX",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
-    "sn": 67,
+    "sn": 74,
     "devicemodel": "R9NANO",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
-    "sn": 68,
+    "sn": 75,
     "devicemodel": "RX6500XT",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
-    "sn": 69,
+    "sn": 76,
     "devicemodel": "HD7990",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
-    "sn": 70,
+    "sn": 77,
     "devicemodel": "RX5500XT",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
-    "sn": 71,
+    "sn": 78,
     "devicemodel": "RX590",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
-    "sn": 72,
+    "sn": 79,
     "devicemodel": "R9FURY",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
-    "sn": 73,
-    "devicemodel": "RX580",
-    "Type": "AMD",
-    "GraphicLevel": 3
-  },
-  {
-    "sn": 74,
-    "devicemodel": "RX480",
-    "Type": "AMD",
-    "GraphicLevel": 3
-  },
-  {
-    "sn": 75,
-    "devicemodel": "R9390X",
-    "Type": "AMD",
-    "GraphicLevel": 3
-  },
-  {
-    "sn": 76,
-    "devicemodel": "RX580",
-    "Type": "AMD",
-    "GraphicLevel": 3
-  },
-  {
-    "sn": 77,
-    "devicemodel": "RX570",
-    "Type": "AMD",
-    "GraphicLevel": 3
-  },
-  {
-    "sn": 78,
-    "devicemodel": "R9390",
-    "Type": "AMD",
-    "GraphicLevel": 3
-  },
-  {
-    "sn": 79,
-    "devicemodel": "R9290X",
-    "Type": "AMD",
-    "GraphicLevel": 3
-  },
-  {
     "sn": 80,
-    "devicemodel": "RX470",
+    "devicemodel": "RX580",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
     "sn": 81,
-    "devicemodel": "R9290",
+    "devicemodel": "RX480",
     "Type": "AMD",
     "GraphicLevel": 3
   },
   {
     "sn": 82,
+    "devicemodel": "R9390X",
+    "Type": "AMD",
+    "GraphicLevel": 3
+  },
+  {
+    "sn": 83,
+    "devicemodel": "RX580",
+    "Type": "AMD",
+    "GraphicLevel": 3
+  },
+  {
+    "sn": 84,
+    "devicemodel": "RX570",
+    "Type": "AMD",
+    "GraphicLevel": 3
+  },
+  {
+    "sn": 85,
+    "devicemodel": "R9390",
+    "Type": "AMD",
+    "GraphicLevel": 3
+  },
+  {
+    "sn": 86,
+    "devicemodel": "R9290X",
+    "Type": "AMD",
+    "GraphicLevel": 3
+  },
+  {
+    "sn": 87,
+    "devicemodel": "RX470",
+    "Type": "AMD",
+    "GraphicLevel": 3
+  },
+  {
+    "sn": 88,
+    "devicemodel": "R9290",
+    "Type": "AMD",
+    "GraphicLevel": 3
+  },
+  {
+    "sn": 89,
     "devicemodel": "GTX590",
     "Type": "NVIDIA",
     "GraphicLevel": 2
   },
   {
-    "sn": 83,
+    "sn": 90,
     "devicemodel": "GTX770",
     "Type": "NVIDIA",
     "GraphicLevel": 2
   },
   {
-    "sn": 84,
+    "sn": 91,
     "devicemodel": "GTX680",
     "Type": "NVIDIA",
     "GraphicLevel": 2
   },
   {
-    "sn": 85,
+    "sn": 92,
     "devicemodel": "GTX1050TI",
     "Type": "NVIDIA",
     "GraphicLevel": 2
   },
   {
-    "sn": 86,
+    "sn": 93,
     "devicemodel": "GTX1630",
     "Type": "NVIDIA",
     "GraphicLevel": 2
   },
   {
-    "sn": 87,
+    "sn": 94,
     "devicemodel": "GTX760",
     "Type": "NVIDIA",
     "GraphicLevel": 2
   },
   {
-    "sn": 88,
+    "sn": 95,
     "devicemodel": "GTX960",
     "Type": "NVIDIA",
     "GraphicLevel": 2
   },
   {
-    "sn": 89,
+    "sn": 96,
     "devicemodel": "GTX670",
     "Type": "NVIDIA",
     "GraphicLevel": 2
   },
   {
-    "sn": 90,
+    "sn": 97,
     "devicemodel": "GTX660TI",
     "Type": "NVIDIA",
     "GraphicLevel": 2
   },
   {
-    "sn": 91,
+    "sn": 98,
     "devicemodel": "GTX1050",
     "Type": "NVIDIA",
     "GraphicLevel": 2
   },
   {
-    "sn": 92,
+    "sn": 99,
     "devicemodel": "RX470D",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 93,
+    "sn": 100,
     "devicemodel": "HD6990",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 94,
+    "sn": 101,
     "devicemodel": "R9380",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 95,
+    "sn": 102,
     "devicemodel": "R9280X",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 96,
+    "sn": 103,
     "devicemodel": "HD7970GE",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 97,
+    "sn": 104,
     "devicemodel": "R9285",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 98,
+    "sn": 105,
     "devicemodel": "HD7970",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 99,
+    "sn": 106,
     "devicemodel": "R9280",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 100,
+    "sn": 107,
     "devicemodel": "HD7950BOOST",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 101,
+    "sn": 108,
     "devicemodel": "HD7950",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 102,
+    "sn": 109,
     "devicemodel": "RX560",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 103,
+    "sn": 110,
     "devicemodel": "R9370X",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 104,
+    "sn": 111,
     "devicemodel": "HD5970",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 105,
+    "sn": 112,
     "devicemodel": "R9270X",
     "Type": "AMD",
     "GraphicLevel": 2
   },
   {
-    "sn": 106,
+    "sn": 113,
     "devicemodel": "GTX580",
     "Type": "NVIDIA",
     "GraphicLevel": 1
   },
   {
-    "sn": 107,
+    "sn": 114,
     "devicemodel": "GTX950",
     "Type": "NVIDIA",
     "GraphicLevel": 1
   },
   {
-    "sn": 108,
+    "sn": 115,
     "devicemodel": "GTX660",
     "Type": "NVIDIA",
     "GraphicLevel": 1
   },
   {
-    "sn": 109,
+    "sn": 116,
     "devicemodel": "GTX570",
     "Type": "NVIDIA",
     "GraphicLevel": 1
   },
   {
-    "sn": 110,
+    "sn": 117,
     "devicemodel": "GTX480",
     "Type": "NVIDIA",
     "GraphicLevel": 1
   },
   {
-    "sn": 111,
+    "sn": 118,
     "devicemodel": "GTX560TI",
     "Type": "NVIDIA",
     "GraphicLevel": 1
   },
   {
-    "sn": 112,
+    "sn": 119,
     "devicemodel": "GTX650TI",
     "Type": "NVIDIA",
     "GraphicLevel": 1
   },
   {
-    "sn": 113,
+    "sn": 120,
     "devicemodel": "GTX750TI",
     "Type": "NVIDIA",
     "GraphicLevel": 1
   },
   {
-    "sn": 114,
+    "sn": 121,
     "devicemodel": "GTX560TI",
     "Type": "NVIDIA",
     "GraphicLevel": 1
   },
   {
-    "sn": 115,
+    "sn": 122,
     "devicemodel": "GT1030",
     "Type": "NVIDIA",
     "GraphicLevel": 1
   },
   {
-    "sn": 116,
+    "sn": 123,
     "devicemodel": "HD7870",
     "Type": "AMD",
     "GraphicLevel": 1
   },
   {
-    "sn": 117,
+    "sn": 124,
     "devicemodel": "RX460",
     "Type": "AMD",
     "GraphicLevel": 1
   },
   {
-    "sn": 118,
+    "sn": 125,
     "devicemodel": "R7370",
     "Type": "AMD",
     "GraphicLevel": 1
   },
   {
-    "sn": 119,
+    "sn": 126,
     "devicemodel": "R9270",
     "Type": "AMD",
     "GraphicLevel": 1
   },
   {
-    "sn": 120,
+    "sn": 127,
     "devicemodel": "HD6970",
     "Type": "AMD",
     "GraphicLevel": 1
   },
   {
-    "sn": 121,
+    "sn": 128,
     "devicemodel": "R7265",
     "Type": "AMD",
     "GraphicLevel": 1
   },
   {
-    "sn": 122,
+    "sn": 129,
     "devicemodel": "RX550",
     "Type": "AMD",
     "GraphicLevel": 1
   },
   {
-    "sn": 123,
+    "sn": 130,
     "devicemodel": "HD7850",
     "Type": "AMD",
     "GraphicLevel": 1
   },
   {
-    "sn": 124,
+    "sn": 131,
     "devicemodel": "HD6950",
     "Type": "AMD",
     "GraphicLevel": 1
   },
   {
-    "sn": 125,
+    "sn": 132,
     "devicemodel": "HD5870",
     "Type": "AMD",
     "GraphicLevel": 1
   },
   {
-    "sn": 126,
+    "sn": 133,
     "devicemodel": "R7260X",
     "Type": "AMD",
     "GraphicLevel": 1

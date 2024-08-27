@@ -5,10 +5,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0.5,
     "finishTime": 0.1,
-    "audio": "UI0136",
+    "inAudio": "UI0136",
     "enablePhaseChange": 1,
     "enableDayChange": 1,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 2,
@@ -16,10 +17,11 @@
     "prepareTime": 1.5,
     "loadingTime": 0.1,
     "finishTime": 1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 1,
     "enableDayChange": 1,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 3,
@@ -27,10 +29,11 @@
     "prepareTime": 1,
     "loadingTime": 0.1,
     "finishTime": 0.5,
-    "audio": "UI0046",
+    "inAudio": "UI0046",
     "enablePhaseChange": 1,
     "enableDayChange": 1,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 4,
@@ -38,10 +41,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0.1,
     "finishTime": 0.1,
-    "audio": "UI0047",
+    "inAudio": "UI0047",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 5,
@@ -49,10 +53,11 @@
     "prepareTime": 1,
     "loadingTime": 0.1,
     "finishTime": 0.5,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 1,
     "enableDayChange": 1,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 6,
@@ -60,10 +65,11 @@
     "prepareTime": 1,
     "loadingTime": 0.1,
     "finishTime": 1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 1,
     "enableDayChange": 1,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 7,
@@ -71,10 +77,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0.1,
     "finishTime": 0.1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 8,
@@ -82,10 +89,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0.1,
     "finishTime": 0.1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 9,
@@ -93,10 +101,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0,
     "finishTime": 1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 10,
@@ -104,10 +113,11 @@
     "prepareTime": 1,
     "loadingTime": 0.1,
     "finishTime": 0.7,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 1
+    "useRealTime": 1,
+    "outAudio": ""
   },
   {
     "sn": 11,
@@ -115,10 +125,11 @@
     "prepareTime": 0.5,
     "loadingTime": 0.5,
     "finishTime": 2,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 13,
@@ -126,10 +137,11 @@
     "prepareTime": 0.2,
     "loadingTime": 6,
     "finishTime": 1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 15,
@@ -137,10 +149,11 @@
     "prepareTime": 0.1,
     "loadingTime": 3.5,
     "finishTime": 2,
-    "audio": "UE0014",
+    "inAudio": "UE0014",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 16,
@@ -148,10 +161,11 @@
     "prepareTime": 0.1,
     "loadingTime": 3.5,
     "finishTime": 2,
-    "audio": "UE0014",
+    "inAudio": "UE0014",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 17,
@@ -159,10 +173,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0.1,
     "finishTime": 1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 18,
@@ -170,10 +185,11 @@
     "prepareTime": 0.75,
     "loadingTime": 1,
     "finishTime": 0.75,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 1
+    "useRealTime": 1,
+    "outAudio": ""
   },
   {
     "sn": 19,
@@ -181,10 +197,11 @@
     "prepareTime": 0.1,
     "loadingTime": 1,
     "finishTime": 0.1,
-    "audio": "UI0154",
+    "inAudio": "UI0154",
     "enablePhaseChange": 1,
     "enableDayChange": 1,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 21,
@@ -192,10 +209,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0.1,
     "finishTime": 1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 22,
@@ -203,10 +221,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0,
     "finishTime": 1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 23,
@@ -214,10 +233,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0,
     "finishTime": 1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 24,
@@ -225,10 +245,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0.1,
     "finishTime": 0.1,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 25,
@@ -236,10 +257,11 @@
     "prepareTime": 0.1,
     "loadingTime": 1,
     "finishTime": 0.1,
-    "audio": "UI0136",
+    "inAudio": "UI0136",
     "enablePhaseChange": 1,
     "enableDayChange": 1,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 26,
@@ -247,10 +269,11 @@
     "prepareTime": 0.1,
     "loadingTime": 1,
     "finishTime": 0.1,
-    "audio": "UI0136",
+    "inAudio": "UI0136",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 28,
@@ -258,10 +281,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0.1,
     "finishTime": 0.1,
-    "audio": "UI0047",
+    "inAudio": "UI0047",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 29,
@@ -269,10 +293,11 @@
     "prepareTime": 0.1,
     "loadingTime": 0.1,
     "finishTime": 2,
-    "audio": "",
+    "inAudio": "",
     "enablePhaseChange": 0,
     "enableDayChange": 0,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
   },
   {
     "sn": 30,
@@ -280,9 +305,34 @@
     "prepareTime": 0.1,
     "loadingTime": 1,
     "finishTime": 0.1,
-    "audio": "UI0136",
+    "inAudio": "UI0136",
     "enablePhaseChange": 0,
     "enableDayChange": 1,
-    "useRealTime": 0
+    "useRealTime": 0,
+    "outAudio": ""
+  },
+  {
+    "sn": 31,
+    "UI": "UI_LoadingClock",
+    "prepareTime": 0.75,
+    "loadingTime": 0.1,
+    "finishTime": 0.75,
+    "inAudio": "",
+    "enablePhaseChange": 0,
+    "enableDayChange": 0,
+    "useRealTime": 0,
+    "outAudio": ""
+  },
+  {
+    "sn": 32,
+    "UI": "UI_LoadingQuickSkip",
+    "prepareTime": 1,
+    "loadingTime": 2.5,
+    "finishTime": 0.1,
+    "inAudio": "",
+    "enablePhaseChange": 0,
+    "enableDayChange": 0,
+    "useRealTime": 1,
+    "outAudio": ""
   }
 ]

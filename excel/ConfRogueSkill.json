@@ -5,7 +5,10 @@
     "icon": "icon-rogue-skill-gongjili.png",
     "text": "所有角色攻击力+2%。",
     "unlock": 0,
-    "consume": 100
+    "consume": 100,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1012,
@@ -13,7 +16,10 @@
     "icon": "icon-rogue-skill-fangyuli.png",
     "text": "所有角色防御力+2%。",
     "unlock": 0,
-    "consume": 100
+    "consume": 100,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1013,
@@ -21,7 +27,10 @@
     "icon": "icon-rogue-skill-shengmingshangxian.png",
     "text": "所有角色生命值上限+2%。",
     "unlock": 0,
-    "consume": 100
+    "consume": 100,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1021,
@@ -29,7 +38,10 @@
     "icon": "icon-rogue-skill-baojilv.png",
     "text": "所有角色暴击率+2%。",
     "unlock": 0,
-    "consume": 100
+    "consume": 100,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1022,
@@ -37,7 +49,10 @@
     "icon": "icon-rogue-skill-ditiebi.png",
     "text": "开局时，携带地铁硬币+10",
     "unlock": 0,
-    "consume": 100
+    "consume": 100,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1023,
@@ -45,7 +60,10 @@
     "icon": "icon-rogue-skill-baojishanghai.png",
     "text": "所有角色暴击伤害+4%。",
     "unlock": 0,
-    "consume": 100
+    "consume": 100,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1030,
@@ -53,7 +71,21 @@
     "icon": "icon-rogue-bigskill-gouyushu.png",
     "text": "开局时，获得一个「勾玉」（战斗结束后复活1名不能战斗的同伴）。",
     "unlock": 5,
-    "consume": 300
+    "consume": 300,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1033,
+    "name": "秒杀等级",
+    "icon": "icon-rogue-skill-gongjili.png",
+    "text": "阵容秒杀等级+3",
+    "unlock": 5,
+    "consume": 100,
+    "killedNum": 3,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1041,
@@ -61,7 +93,10 @@
     "icon": "icon-rogue-skill-gongjili.png",
     "text": "所有角色攻击力+2%。",
     "unlock": 5,
-    "consume": 200
+    "consume": 200,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1042,
@@ -69,7 +104,10 @@
     "icon": "icon-rogue-skill-fangyuli.png",
     "text": "所有角色防御力+2%。",
     "unlock": 5,
-    "consume": 200
+    "consume": 200,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1043,
@@ -77,7 +115,10 @@
     "icon": "icon-rogue-skill-shengmingshangxian.png",
     "text": "所有角色生命值上限+2%。",
     "unlock": 5,
-    "consume": 200
+    "consume": 200,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1051,
@@ -85,7 +126,10 @@
     "icon": "icon-rogue-skill-xiaoguodikangtisheng.png",
     "text": "所有角色效果抵抗+5%。",
     "unlock": 5,
-    "consume": 200
+    "consume": 200,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1052,
@@ -93,7 +137,10 @@
     "icon": "icon-rogue-skill-huoqujifen.png",
     "text": "获得积分效率+5%。",
     "unlock": 5,
-    "consume": 200
+    "consume": 200,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1053,
@@ -101,7 +148,10 @@
     "icon": "icon-rogue-skill-xiaoguomingzhong.png",
     "text": "所有角色效果命中+5%。",
     "unlock": 5,
-    "consume": 200
+    "consume": 200,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1060,
@@ -109,7 +159,21 @@
     "icon": "icon-rogue-bigskill-shuxincishu.png",
     "text": "商店购买时，免费刷新次数+1。",
     "unlock": 10,
-    "consume": 600
+    "consume": 600,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1063,
+    "name": "秒杀等级",
+    "icon": "icon-rogue-skill-gongjili.png",
+    "text": "阵容秒杀等级+3",
+    "unlock": 10,
+    "consume": 200,
+    "killedNum": 3,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1071,
@@ -117,7 +181,10 @@
     "icon": "icon-rogue-skill-gongjili.png",
     "text": "所有角色攻击力+2%。",
     "unlock": 10,
-    "consume": 300
+    "consume": 300,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1072,
@@ -125,7 +192,10 @@
     "icon": "icon-rogue-skill-fangyuli.png",
     "text": "所有角色防御力+2%。",
     "unlock": 10,
-    "consume": 300
+    "consume": 300,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1073,
@@ -133,7 +203,10 @@
     "icon": "icon-rogue-skill-shengmingshangxian.png",
     "text": "所有角色生命值上限+2%。",
     "unlock": 10,
-    "consume": 300
+    "consume": 300,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1081,
@@ -141,7 +214,10 @@
     "icon": "icon-rogue-skill-baojilv.png",
     "text": "所有角色暴击率+2%。",
     "unlock": 10,
-    "consume": 300
+    "consume": 300,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1082,
@@ -149,7 +225,10 @@
     "icon": "icon-rogue-skill-zhandouhouhuixue.png",
     "text": "战斗后，所有角色回复5%生命值。",
     "unlock": 10,
-    "consume": 300
+    "consume": 300,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1083,
@@ -157,7 +236,10 @@
     "icon": "icon-rogue-skill-baojishanghai.png",
     "text": "所有角色暴击伤害+4%。",
     "unlock": 10,
-    "consume": 300
+    "consume": 300,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1090,
@@ -165,7 +247,21 @@
     "icon": "icon-rogue-bigskill-huowulan.png",
     "text": "商店购买时，售卖的御守数+2。",
     "unlock": 15,
-    "consume": 1200
+    "consume": 1200,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1093,
+    "name": "秒杀等级",
+    "icon": "icon-rogue-skill-gongjili.png",
+    "text": "阵容秒杀等级+3",
+    "unlock": 15,
+    "consume": 300,
+    "killedNum": 3,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1101,
@@ -173,7 +269,10 @@
     "icon": "icon-rogue-skill-gongjili.png",
     "text": "所有角色攻击力+2%。",
     "unlock": 15,
-    "consume": 400
+    "consume": 400,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1102,
@@ -181,7 +280,10 @@
     "icon": "icon-rogue-skill-fangyuli.png",
     "text": "所有角色防御力+2%。",
     "unlock": 15,
-    "consume": 400
+    "consume": 400,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1103,
@@ -189,7 +291,10 @@
     "icon": "icon-rogue-skill-shengmingshangxian.png",
     "text": "所有角色生命值上限+2%。",
     "unlock": 15,
-    "consume": 400
+    "consume": 400,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1111,
@@ -197,7 +302,10 @@
     "icon": "icon-rogue-skill-xiaoguodikangtisheng.png",
     "text": "所有角色效果抵抗+5%。",
     "unlock": 15,
-    "consume": 400
+    "consume": 400,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1112,
@@ -205,7 +313,10 @@
     "icon": "icon-rogue-skill-huoqujifen.png",
     "text": "获得积分效率+5%。",
     "unlock": 15,
-    "consume": 400
+    "consume": 400,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1113,
@@ -213,7 +324,10 @@
     "icon": "icon-rogue-skill-xiaoguomingzhong.png",
     "text": "所有角色效果命中+5%。",
     "unlock": 15,
-    "consume": 400
+    "consume": 400,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   },
   {
     "sn": 1120,
@@ -221,6 +335,97 @@
     "icon": "icon-rogue-bigskill-bosshpsp.png",
     "text": "挑战最终BOSS前，回复满HP，SP，HL能量。",
     "unlock": 20,
-    "consume": 1500
+    "consume": 1500,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1123,
+    "name": "秒杀等级",
+    "icon": "icon-rogue-skill-gongjili.png",
+    "text": "阵容秒杀等级+3",
+    "unlock": 20,
+    "consume": 300,
+    "killedNum": 3,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1131,
+    "name": "攻击力",
+    "icon": "icon-rogue-skill-gongjili.png",
+    "text": "所有角色攻击力+2%。",
+    "unlock": 20,
+    "consume": 500,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1132,
+    "name": "防御力",
+    "icon": "icon-rogue-skill-fangyuli.png",
+    "text": "所有角色防御力+2%。",
+    "unlock": 20,
+    "consume": 500,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1133,
+    "name": "生命上限",
+    "icon": "icon-rogue-skill-shengmingshangxian.png",
+    "text": "所有角色生命值上限+2%。",
+    "unlock": 20,
+    "consume": 500,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1141,
+    "name": "伤害",
+    "icon": "icon-rogue-skill-zaochengshanghai.png",
+    "text": "所有角色造成的伤害+3%。",
+    "unlock": 20,
+    "consume": 500,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1142,
+    "name": "地铁硬币",
+    "icon": "icon-rogue-skill-ditiebi.png",
+    "text": "开局时，携带地铁硬币+20",
+    "unlock": 20,
+    "consume": 500,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1143,
+    "name": "减少伤害",
+    "icon": "icon-rogue-skill-mianshanglv.png",
+    "text": "所有角色受到的伤害-3%。",
+    "unlock": 20,
+    "consume": 500,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
+  },
+  {
+    "sn": 1150,
+    "name": "积分效率",
+    "icon": "icon-rogue-skill-huoqujifen.png",
+    "text": "获得积分效率+15%。",
+    "unlock": 20,
+    "consume": 500,
+    "killedNum": 0,
+    "Param2": 0,
+    "Param3": 0
   }
 ]

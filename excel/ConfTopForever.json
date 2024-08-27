@@ -145,7 +145,8 @@
     "sn": 1023,
     "moneyTypes": [
       12,
-      302908
+      302908,
+      302914
     ],
     "canBuyStates": [
       0
@@ -294,9 +295,12 @@
     "sn": 1038,
     "moneyTypes": [
       23,
-      24
+      24,
+      26
     ],
     "canBuyStates": [
+      0,
+      0,
       0
     ],
     "hook_ui": []
@@ -698,7 +702,149 @@
   {
     "sn": 1079,
     "moneyTypes": [
-      58
+      63
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1080,
+    "moneyTypes": [
+      59
+    ],
+    "canBuyStates": [
+      1
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1081,
+    "moneyTypes": [
+      47
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1082,
+    "moneyTypes": [
+      302305
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1083,
+    "moneyTypes": [
+      48
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1085,
+    "moneyTypes": [
+      7
+    ],
+    "canBuyStates": [
+      1
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1086,
+    "moneyTypes": [
+      302310
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1087,
+    "moneyTypes": [
+      49
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1088,
+    "moneyTypes": [
+      49
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1089,
+    "moneyTypes": [
+      20001,
+      3
+    ],
+    "canBuyStates": [
+      0,
+      1
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1090,
+    "moneyTypes": [
+      300088
+    ],
+    "canBuyStates": [
+      0
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1091,
+    "moneyTypes": [
+      400032
+    ],
+    "canBuyStates": [
+      1
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1092,
+    "moneyTypes": [
+      1010
+    ],
+    "canBuyStates": [
+      1
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1093,
+    "moneyTypes": [
+      1012
+    ],
+    "canBuyStates": [
+      1
+    ],
+    "hook_ui": []
+  },
+  {
+    "sn": 1094,
+    "moneyTypes": [
+      102001
     ],
     "canBuyStates": [
       0

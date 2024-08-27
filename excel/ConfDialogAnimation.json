@@ -3119,6 +3119,36 @@
     "interval": 0.036
   },
   {
+    "sn": "96",
+    "type": 3,
+    "frameImage": "jidaotexie",
+    "startSequence": [
+      1,
+      2,
+      3,
+      271,
+      271,
+      272,
+      272,
+      272,
+      272,
+      272,
+      272,
+      272,
+      273,
+      273,
+      274,
+      274,
+      274,
+      275,
+      275,
+      4
+    ],
+    "loopSequence": [],
+    "endSequence": [],
+    "interval": 0.036
+  },
+  {
     "sn": "44",
     "type": 1,
     "frameImage": "yazhitian-shadow01-mu",
@@ -3154,6 +3184,186 @@
       1
     ],
     "interval": 0.18
+  },
+  {
+    "sn": "98",
+    "type": 3,
+    "frameImage": "jidaotexie",
+    "startSequence": [
+      1,
+      2,
+      3,
+      291,
+      291,
+      292,
+      292,
+      292,
+      292,
+      292,
+      292,
+      292,
+      293,
+      293,
+      294,
+      294,
+      294,
+      295,
+      295,
+      4
+    ],
+    "loopSequence": [],
+    "endSequence": [],
+    "interval": 0.036
+  },
+  {
+    "sn": "99",
+    "type": 3,
+    "frameImage": "jidaotexie",
+    "startSequence": [
+      1,
+      2,
+      3,
+      281,
+      281,
+      282,
+      282,
+      282,
+      282,
+      282,
+      282,
+      282,
+      283,
+      283,
+      284,
+      284,
+      284,
+      285,
+      285,
+      4
+    ],
+    "loopSequence": [],
+    "endSequence": [],
+    "interval": 0.036
+  },
+  {
+    "sn": "100",
+    "type": 3,
+    "frameImage": "jidaotexie",
+    "startSequence": [
+      1,
+      2,
+      3,
+      311,
+      311,
+      312,
+      312,
+      312,
+      312,
+      312,
+      312,
+      312,
+      313,
+      313,
+      314,
+      314,
+      314,
+      315,
+      315,
+      4
+    ],
+    "loopSequence": [],
+    "endSequence": [],
+    "interval": 0.036
+  },
+  {
+    "sn": "101",
+    "type": 3,
+    "frameImage": "jidaotexie",
+    "startSequence": [
+      1,
+      2,
+      3,
+      301,
+      301,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      303,
+      303,
+      304,
+      304,
+      304,
+      305,
+      305,
+      4
+    ],
+    "loopSequence": [],
+    "endSequence": [],
+    "interval": 0.036
+  },
+  {
+    "sn": "102",
+    "type": 3,
+    "frameImage": "jidaotexie",
+    "startSequence": [
+      1,
+      2,
+      3,
+      321,
+      321,
+      322,
+      322,
+      322,
+      322,
+      322,
+      322,
+      322,
+      323,
+      323,
+      324,
+      324,
+      324,
+      325,
+      325,
+      4
+    ],
+    "loopSequence": [],
+    "endSequence": [],
+    "interval": 0.036
+  },
+  {
+    "sn": "97",
+    "type": 3,
+    "frameImage": "jidaotexie",
+    "startSequence": [
+      1,
+      2,
+      3,
+      261,
+      261,
+      262,
+      262,
+      262,
+      262,
+      262,
+      262,
+      262,
+      263,
+      263,
+      264,
+      264,
+      264,
+      265,
+      265,
+      4
+    ],
+    "loopSequence": [],
+    "endSequence": [],
+    "interval": 0.036
   },
   {
     "sn": "45",
@@ -6352,6 +6562,63 @@
     "interval": 0.18
   },
   {
+    "sn": "mona-texie6",
+    "type": 3,
+    "frameImage": "B-texie-moerjiana-beitong-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mona-texie7",
+    "type": 3,
+    "frameImage": "B-texie-moerjiana-jingya-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mona-texie8",
+    "type": 3,
+    "frameImage": "B-texie-moerjiana-renzhen-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "1",
     "type": 2,
     "frameImage": "gaojuanxing-guaidao-zui",
@@ -7146,6 +7413,139 @@
     "sn": "gaojuanxing-texie1",
     "type": 3,
     "frameImage": "B-texie-gaojuanxing-qitu-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "gaojuanxing-texie2",
+    "type": 3,
+    "frameImage": "B-texie-gaojuanxing-beitong-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "gaojuanxing-texie3",
+    "type": 3,
+    "frameImage": "B-texie-gaojuanxing-fennu-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "gaojuanxing-texie4",
+    "type": 3,
+    "frameImage": "B-texie-gaojuanxing-jingya-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "gaojuanxing-texie5",
+    "type": 3,
+    "frameImage": "B-texie-gaojuanxing-kutong-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "gaojuanxing-texie6",
+    "type": 3,
+    "frameImage": "B-texie-gaojuanxing-renzhen-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "gaojuanxing-texie7",
+    "type": 3,
+    "frameImage": "B-texie-gaojuanxing-xiyue-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "gaojuanxing-texie8",
+    "type": 3,
+    "frameImage": "B-texie-gaojuanxing-yihuo-00",
     "startSequence": [
       1,
       1,
@@ -8226,6 +8626,101 @@
     "interval": 0.18
   },
   {
+    "sn": "longsi-texie4",
+    "type": 3,
+    "frameImage": "B-texie-banbenlongsi-beitong-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "longsi-texie5",
+    "type": 3,
+    "frameImage": "B-texie-banbenlongsi-kutong-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "longsi-texie6",
+    "type": 3,
+    "frameImage": "B-texie-banbenlongsi-pilao-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "longsi-texie7",
+    "type": 3,
+    "frameImage": "B-texie-banbenlongsi-renzhen-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "longsi-texie8",
+    "type": 3,
+    "frameImage": "B-texie-banbenlongsi-xiao-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "xiduochuanyoujie1",
     "type": 1,
     "frameImage": "xiduochuanyoujie-guaidao-beiai-yan",
@@ -8966,6 +9461,158 @@
     "interval": 0.18
   },
   {
+    "sn": "xiduochuanyoujie-texie1",
+    "type": 3,
+    "frameImage": "B-texie-xiduochuanyoujie-aohui-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xiduochuanyoujie-texie2",
+    "type": 3,
+    "frameImage": "B-texie-xiduochuanyoujie-beiai-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xiduochuanyoujie-texie3",
+    "type": 3,
+    "frameImage": "B-texie-xiduochuanyoujie-fennu-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xiduochuanyoujie-texie4",
+    "type": 3,
+    "frameImage": "B-texie-xiduochuanyoujie-huaiyi-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xiduochuanyoujie-texie5",
+    "type": 3,
+    "frameImage": "B-texie-xiduochuanyoujie-jingya-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xiduochuanyoujie-texie6",
+    "type": 3,
+    "frameImage": "B-texie-xiduochuanyoujie-qitu-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xiduochuanyoujie-texie7",
+    "type": 3,
+    "frameImage": "B-texie-xiduochuanyoujie-tongku-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xiduochuanyoujie-texie8",
+    "type": 3,
+    "frameImage": "B-texie-xiduochuanyoujie-xiyue-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "zhen01",
     "type": 1,
     "frameImage": "zhen-guaidao01-beiai-yan",
@@ -9614,6 +10261,158 @@
       2,
       1
     ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xindaozhen-texie1",
+    "type": 3,
+    "frameImage": "B-texie-xindaozhen-aohui-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xindaozhen-texie2",
+    "type": 3,
+    "frameImage": "B-texie-xindaozhen-beishang-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xindaozhen-texie3",
+    "type": 3,
+    "frameImage": "B-texie-xindaozhen-fennu-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xindaozhen-texie4",
+    "type": 3,
+    "frameImage": "B-texie-xindaozhen-huaiyi-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xindaozhen-texie5",
+    "type": 3,
+    "frameImage": "B-texie-xindaozhen-jingya-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xindaozhen-texie6",
+    "type": 3,
+    "frameImage": "B-texie-xindaozhen-qitu-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xindaozhen-texie7",
+    "type": 3,
+    "frameImage": "B-texie-xindaozhen-tongku-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xindaozhen-texie8",
+    "type": 3,
+    "frameImage": "B-texie-xindaozhen-xiyue-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
     "endSequence": [
       1
     ],
@@ -12190,6 +12989,792 @@
     "interval": 0.18
   },
   {
+    "sn": "lufeierowl11",
+    "type": 1,
+    "frameImage": "lufeier-changfu-wuyu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "lufeierowl12",
+    "type": 2,
+    "frameImage": "lufeier-changfu-wuyu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit1",
+    "type": 1,
+    "frameImage": "lufeier-yongzhuang-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit2",
+    "type": 2,
+    "frameImage": "lufeier-yongzhuang-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit3",
+    "type": 1,
+    "frameImage": "lufeier-yongzhuang-gaoxing-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit4",
+    "type": 2,
+    "frameImage": "lufeier-yongzhuang-gaoxing-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit5",
+    "type": 1,
+    "frameImage": "lufeier-yongzhuang-buman-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit6",
+    "type": 2,
+    "frameImage": "lufeier-yongzhuang-buman-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit7",
+    "type": 1,
+    "frameImage": "lufeier-yongzhuang-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit8",
+    "type": 2,
+    "frameImage": "lufeier-yongzhuang-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit9",
+    "type": 1,
+    "frameImage": "lufeier-yongzhuang-zhiyi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit10",
+    "type": 2,
+    "frameImage": "lufeier-yongzhuang-zhiyi-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit11",
+    "type": 1,
+    "frameImage": "lufeier-yongzhuang-wuyu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "owl-swimsuit12",
+    "type": 2,
+    "frameImage": "lufeier-yongzhuang-wuyu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "lufeiertexie-owl01",
+    "type": 3,
+    "frameImage": "B-texie-lufeier-owl-jingya-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "lufeiertexie-owl02",
+    "type": 3,
+    "frameImage": "B-texie-lufeier-owl-qingmie-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "lufeiertexie-owl03",
+    "type": 3,
+    "frameImage": "B-texie-lufeier-owl-renzhen-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "lufeiertexie-owl04",
+    "type": 3,
+    "frameImage": "B-texie-lufeier-owl-wuyu-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "lufeiertexie-owl05",
+    "type": 3,
+    "frameImage": "B-texie-lufeier-owl-xiyue-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "lufeiertexie-owl06",
+    "type": 3,
+    "frameImage": "B-texie-lufeier-owl-zhiyi-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "lufeier-owl-tipsyan1",
     "type": 1,
     "frameImage": "lufeier-owl-tipsyan",
@@ -14195,6 +15780,607 @@
     "interval": 0.18
   },
   {
+    "sn": "suyu-swimsuit1",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit2",
+    "type": 2,
+    "frameImage": "xinjingsuyu-yongzhuang-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit3",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-tongchang(2)-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit4",
+    "type": 2,
+    "frameImage": "xinjingsuyu-yongzhuang-tongchang(2)-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit5",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-xiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit6",
+    "type": 2,
+    "frameImage": "xinjingsuyu-yongzhuang-xiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit7",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-xiaohaixiu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit8",
+    "type": 2,
+    "frameImage": "xinjingsuyu-yongzhuang-xiaohaixiu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit9",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-shengqi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit10",
+    "type": 2,
+    "frameImage": "xinjingsuyu-yongzhuang-shengqi-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit11",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-beiai-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit12",
+    "type": 2,
+    "frameImage": "xinjingsuyu-yongzhuang-beiai-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit13",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit14",
+    "type": 2,
+    "frameImage": "xinjingsuyu-yongzhuang-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit15",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-jingyahaixiu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit16",
+    "type": 2,
+    "frameImage": "xinjingsuyu-yongzhuang-jingyahaixiu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit17",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-tongku-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit18",
+    "type": 2,
+    "frameImage": "xinjingsuyu-yongzhuang-tongku-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit19",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-renzhen-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit20",
+    "type": 2,
+    "frameImage": "xinjingsuyu-yongzhuang-renzhen-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "suyu-swimsuit21",
+    "type": 1,
+    "frameImage": "xinjingsuyu-yongzhuang-beiai-yan",
+    "startSequence": [
+      3
+    ],
+    "loopSequence": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "endSequence": [
+      3
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "jianajun1",
     "type": 1,
     "frameImage": "jianajun-changfu-beiai-yan",
@@ -15509,6 +17695,646 @@
     "interval": 0.18
   },
   {
+    "sn": "jianajun-swimsuit1",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit2",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit3",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-weixiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit4",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-weixiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit5",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-daxiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit6",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-daxiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit7",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-beiai-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit8",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-beiai-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit9",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-fennu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit10",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-fennu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit11",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-juewangtongku-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit12",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-juewangtongku-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit13",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-zhenjing-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit14",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-zhenjing-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit15",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-tongku-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit16",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-tongku-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit17",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-bunaifan-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit18",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-bunaifan-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit19",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-qiangyanhuanxiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit20",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-qiangyanhuanxiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit21",
+    "type": 1,
+    "frameImage": "jianajun-yongzhuang-yihuo-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "jianajun-swimsuit22",
+    "type": 2,
+    "frameImage": "jianajun-yongzhuang-yihuo-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "jianajun44",
     "type": 2,
     "frameImage": "jianajun-yundongfu-tongchang-zui",
@@ -16262,6 +19088,157 @@
     "interval": 0.18
   },
   {
+    "sn": "duomicunlizi21",
+    "type": 1,
+    "frameImage": "duomicunlizi-changfu-beishang1-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizi22",
+    "type": 2,
+    "frameImage": "duomicunlizi-changfu-beishang1-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizi23",
+    "type": 1,
+    "frameImage": "duomicunlizi-changfu-beishang2-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizi24",
+    "type": 2,
+    "frameImage": "duomicunlizi-changfu-beishang2-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizi25",
+    "type": 1,
+    "frameImage": "duomicunlizi-changfu-tongku2-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizi26",
+    "type": 2,
+    "frameImage": "duomicunlizi-changfu-tongku2-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "duomicunlizitexie01",
     "type": 3,
     "frameImage": "B-texie-duomicunlizi-beishang-00",
@@ -16585,6 +19562,25 @@
       2,
       1
     ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizitexie09",
+    "type": 3,
+    "frameImage": "B-texie-duomicunlizi-zhenjing-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
     "endSequence": [
       1
     ],
@@ -17627,6 +20623,183 @@
     "interval": 0.18
   },
   {
+    "sn": "duomicunlizi-gaoyi1",
+    "type": 1,
+    "frameImage": "xiaolizi-changfu-shengqi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizi-gaoyi2",
+    "type": 2,
+    "frameImage": "xiaolizi-changfu-shengqi-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizi-gaoyi3",
+    "type": 1,
+    "frameImage": "xiaolizi-changfu-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizi-gaoyi4",
+    "type": 2,
+    "frameImage": "xiaolizi-changfu-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizi-gaoyi5",
+    "type": 1,
+    "frameImage": "xiaolizi-changfu-wuyu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "duomicunlizi-gaoyi6",
+    "type": 2,
+    "frameImage": "xiaolizi-changfu-wuyu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "heiguqing7",
     "type": 1,
     "frameImage": "heiguqing-guaidaofu-shengqi-yan",
@@ -17918,6 +21091,30 @@
     ],
     "endSequence": [
       1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "heiguqing17",
+    "type": 1,
+    "frameImage": "heiguqing-guaidaofu-jingya2-yan",
+    "startSequence": [
+      3
+    ],
+    "loopSequence": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "endSequence": [
+      3
     ],
     "interval": 0.18
   },
@@ -19190,7 +22387,7 @@
   {
     "sn": "pengzi-binghaofu1",
     "type": 1,
-    "frameImage": "yemaopengzi-bingfu-tongchang-yan",
+    "frameImage": "yemaopengz-bingfu-tongchang-yan",
     "startSequence": [
       1
     ],
@@ -19224,21 +22421,32 @@
   },
   {
     "sn": "pengzi-binghaofu2",
-    "type": 2,
-    "frameImage": "yemaopengzi-bingfu-tongchang-zui",
+    "type": 1,
+    "frameImage": "yemaopengz-bingfu-weixiao-yan",
     "startSequence": [
-      1,
-      2
+      1
     ],
     "loopSequence": [
-      3,
-      2,
-      3,
-      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
       1,
       2,
       3,
       2,
+      3,
       1
     ],
     "endSequence": [
@@ -19249,7 +22457,7 @@
   {
     "sn": "pengzi-binghaofu3",
     "type": 1,
-    "frameImage": "yemaopengzi-bingfu-weixiao-yan",
+    "frameImage": "yemaopengz-bingfu-beiai-yan",
     "startSequence": [
       1
     ],
@@ -19283,21 +22491,32 @@
   },
   {
     "sn": "pengzi-binghaofu4",
-    "type": 2,
-    "frameImage": "yemaopengzi-bingfu-weixiao-zui",
+    "type": 1,
+    "frameImage": "yemaopengz-bingfu-haixiu-yan",
     "startSequence": [
-      1,
-      2
+      1
     ],
     "loopSequence": [
-      3,
-      2,
-      3,
-      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
       1,
       2,
       3,
       2,
+      3,
       1
     ],
     "endSequence": [
@@ -19308,7 +22527,7 @@
   {
     "sn": "pengzi-binghaofu5",
     "type": 1,
-    "frameImage": "yemaopengzi-bingfu-beiai-yan",
+    "frameImage": "yemaopengz-bingfu-jingya-yan",
     "startSequence": [
       1
     ],
@@ -19342,21 +22561,20 @@
   },
   {
     "sn": "pengzi-binghaofu6",
-    "type": 2,
-    "frameImage": "yemaopengzi-bingfu-beiai-zui",
+    "type": 1,
+    "frameImage": "yemaopengz-bingfu-deyi-yan",
     "startSequence": [
-      1,
-      2
+      1
     ],
     "loopSequence": [
-      3,
-      2,
-      3,
-      2,
       1,
-      2,
-      3,
-      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
       1
     ],
     "endSequence": [
@@ -19367,7 +22585,7 @@
   {
     "sn": "pengzi-binghaofu7",
     "type": 1,
-    "frameImage": "yemaopengzi-bingfu-haixiu-yan",
+    "frameImage": "yemaopengz-bingfu-renzhen-yan",
     "startSequence": [
       1
     ],
@@ -19401,21 +22619,32 @@
   },
   {
     "sn": "pengzi-binghaofu8",
-    "type": 2,
-    "frameImage": "yemaopengzi-bingfu-haixiu-zui",
+    "type": 1,
+    "frameImage": "yemaopengz-bingfu-tongchang2-yan",
     "startSequence": [
-      1,
-      2
+      1
     ],
     "loopSequence": [
-      3,
-      2,
-      3,
-      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
       1,
       2,
       3,
       2,
+      3,
       1
     ],
     "endSequence": [
@@ -19425,161 +22654,8 @@
   },
   {
     "sn": "pengzi-binghaofu9",
-    "type": 1,
-    "frameImage": "yemaopengzi-bingfu-jingya-yan",
-    "startSequence": [
-      1
-    ],
-    "loopSequence": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      2,
-      3,
-      2,
-      3,
-      1
-    ],
-    "endSequence": [
-      1
-    ],
-    "interval": 0.18
-  },
-  {
-    "sn": "pengzi-binghaofu10",
     "type": 2,
-    "frameImage": "yemaopengzi-bingfu-jingya-zui",
-    "startSequence": [
-      1,
-      2
-    ],
-    "loopSequence": [
-      3,
-      2,
-      3,
-      2,
-      1,
-      2,
-      3,
-      2,
-      1
-    ],
-    "endSequence": [
-      1
-    ],
-    "interval": 0.18
-  },
-  {
-    "sn": "pengzi-binghaofu11",
-    "type": 1,
-    "frameImage": "yemaopengzi-bingfu-deyi-yan",
-    "startSequence": [
-      1
-    ],
-    "loopSequence": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      2,
-      3,
-      2,
-      3,
-      1
-    ],
-    "endSequence": [
-      1
-    ],
-    "interval": 0.18
-  },
-  {
-    "sn": "pengzi-binghaofu12",
-    "type": 2,
-    "frameImage": "yemaopengzi-bingfu-deyi-zui",
-    "startSequence": [
-      1,
-      2
-    ],
-    "loopSequence": [
-      3,
-      2,
-      3,
-      2,
-      1,
-      2,
-      3,
-      2,
-      1
-    ],
-    "endSequence": [
-      1
-    ],
-    "interval": 0.18
-  },
-  {
-    "sn": "pengzi-binghaofu13",
-    "type": 1,
-    "frameImage": "yemaopengzi-bingfu-renzhen-yan",
-    "startSequence": [
-      1
-    ],
-    "loopSequence": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      2,
-      3,
-      2,
-      3,
-      1
-    ],
-    "endSequence": [
-      1
-    ],
-    "interval": 0.18
-  },
-  {
-    "sn": "pengzi-binghaofu14",
-    "type": 2,
-    "frameImage": "yemaopengzi-bingfu-renzhen-zui",
+    "frameImage": "yemaopengz-bingfu-tongchang2-zui",
     "startSequence": [
       1,
       2
@@ -21418,6 +24494,853 @@
       1
     ],
     "interval": 0.13
+  },
+  {
+    "sn": "zhuiming1",
+    "type": 1,
+    "frameImage": "zhuimingyoumei-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming2",
+    "type": 2,
+    "frameImage": "zhuimingyoumei-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming3",
+    "type": 1,
+    "frameImage": "zhuimingyoumei-xiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming4",
+    "type": 2,
+    "frameImage": "zhuimingyoumei-xiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming5",
+    "type": 1,
+    "frameImage": "zhuimingyoumei-haixiu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming6",
+    "type": 2,
+    "frameImage": "zhuimingyoumei-haixiu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming7",
+    "type": 1,
+    "frameImage": "zhuimingyoumei-huaixiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming8",
+    "type": 2,
+    "frameImage": "zhuimingyoumei-huaixiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying1",
+    "type": 1,
+    "frameImage": "mingshi-yinying-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying2",
+    "type": 2,
+    "frameImage": "mingshi-yinying-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying3",
+    "type": 1,
+    "frameImage": "mingshi-yinying-huaixiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying4",
+    "type": 2,
+    "frameImage": "mingshi-yinying-huaixiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying5",
+    "type": 1,
+    "frameImage": "mingshi-yinying-daxiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying6",
+    "type": 2,
+    "frameImage": "mingshi-yinying-daxiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying7",
+    "type": 1,
+    "frameImage": "mingshi-yinying-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying8",
+    "type": 2,
+    "frameImage": "mingshi-yinying-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying9",
+    "type": 1,
+    "frameImage": "mingshi-yinying-xianqi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying10",
+    "type": 2,
+    "frameImage": "mingshi-yinying-xianqi-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying11",
+    "type": 1,
+    "frameImage": "mingshi-yinying-shengqi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying12",
+    "type": 2,
+    "frameImage": "mingshi-yinying-shengqi-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying13",
+    "type": 1,
+    "frameImage": "mingshi-yinying-tongku-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying14",
+    "type": 2,
+    "frameImage": "mingshi-yinying-tongku-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming9",
+    "type": 1,
+    "frameImage": "zhuimingyoumei-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming10",
+    "type": 2,
+    "frameImage": "zhuimingyoumei-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming11",
+    "type": 1,
+    "frameImage": "zhuimingyoumei-beiai",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming12",
+    "type": 2,
+    "frameImage": "zhuimingyoumei-beiai-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming13",
+    "type": 1,
+    "frameImage": "zhuimingyoumei-zuijiu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming14",
+    "type": 2,
+    "frameImage": "zhuimingyoumei-zuijiu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming-texie1",
+    "type": 3,
+    "frameImage": "B-texie-zhuimingyoumei-xiyue-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming-texie2",
+    "type": 3,
+    "frameImage": "B-texie-zhuimingyoumei-sikao-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "zhuiming-texie3",
+    "type": 3,
+    "frameImage": "B-texie-zhuimingyoumei-jingya-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
   },
   {
     "sn": "tengchuanxueshi7",
@@ -23614,6 +27537,759 @@
     "sn": "xisenyangcai10",
     "type": 2,
     "frameImage": "xisenyangcai-changfu-huangzhanghaipa-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi1",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-changfu-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi2",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-changfu-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi3",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-changfu-xiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi4",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-changfu-xiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi5",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-changfu-xiao2-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi6",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-changfu-xiao2-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi7",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-changfu-beiai-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi8",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-changfu-beiai-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi9",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-changfu-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi10",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-changfu-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi11",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-changfu-shengqi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi12",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-changfu-shengqi-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi13",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-changfu-zuijiu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi14",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-changfu-zuijiu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao1",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-guaidaofu-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao2",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-guaidaofu-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao3",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-guaidaofu-xiao1-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao4",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-guaidaofu-xiao1-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao5",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-guaidaofu-xiao2-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao6",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-guaidaofu-xiao2-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao7",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-guaidaofu-beiai-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao8",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-guaidaofu-beiai-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao9",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-guaidaofu-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao10",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-guaidaofu-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao11",
+    "type": 1,
+    "frameImage": "changweiqianjinzi-guaidaofu-fennu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "qianjinzi-guaidao12",
+    "type": 2,
+    "frameImage": "changweiqianjinzi-guaidaofu-fennu-zui",
     "startSequence": [
       1,
       2
@@ -26184,6 +30860,296 @@
       1,
       1,
       1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "meiluopu11",
+    "type": 1,
+    "frameImage": "meiluopu-yongzhuang-weixiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "meiluopu12",
+    "type": 2,
+    "frameImage": "meiluopu-yongzhuang-weixiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "meiluopu13",
+    "type": 1,
+    "frameImage": "meiluopu-yongzhuang-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "meiluopu14",
+    "type": 2,
+    "frameImage": "meiluopu-yongzhuang-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "meiluopu15",
+    "type": 1,
+    "frameImage": "meiluopu-yongzhuang-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "meiluopu16",
+    "type": 2,
+    "frameImage": "meiluopu-yongzhuang-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "meiluopu17",
+    "type": 1,
+    "frameImage": "meiluopu-yongzhuang-yihuo-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "meiluopu18",
+    "type": 2,
+    "frameImage": "meiluopu-yongzhuang-yihuo-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "meiluopu19",
+    "type": 1,
+    "frameImage": "meiluopu-yongzhuang-xingfen-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "meiluopu20",
+    "type": 2,
+    "frameImage": "meiluopu-yongzhuang-xingfen-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
       1
     ],
     "endSequence": [
@@ -29549,6 +34515,183 @@
     "interval": 0.18
   },
   {
+    "sn": "banjinglingxiang11",
+    "type": 1,
+    "frameImage": "banjinglingxiang-changfu-beiai2-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "banjinglingxiang12",
+    "type": 2,
+    "frameImage": "banjinglingxiang-changfu-beiai2-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "banjinglingxiang13",
+    "type": 1,
+    "frameImage": "banjinglingxiang-changfu-jingya2-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "banjinglingxiang14",
+    "type": 2,
+    "frameImage": "banjinglingxiang-changfu-jingya2-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "banjinglingxiang15",
+    "type": 1,
+    "frameImage": "banjinglingxiang-changfu-haixiu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "banjinglingxiang16",
+    "type": 2,
+    "frameImage": "banjinglingxiang-changfu-haixiu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "yingshanhui8",
     "type": 2,
     "frameImage": "yingshanhuina-weixiao-zui",
@@ -29916,7 +35059,7 @@
   {
     "sn": "banjinglingxiang1",
     "type": 1,
-    "frameImage": "banjinlinxiang-changfu-tongchang-yan",
+    "frameImage": "banjinglingxiang-changfu-tongchang-yan",
     "startSequence": [
       1
     ],
@@ -29951,7 +35094,7 @@
   {
     "sn": "banjinglingxiang2",
     "type": 2,
-    "frameImage": "banjinlinxiang-changfu-tongchang-zui",
+    "frameImage": "banjinglingxiang-changfu-tongchang-zui",
     "startSequence": [
       1,
       2
@@ -29975,7 +35118,7 @@
   {
     "sn": "banjinglingxiang3",
     "type": 1,
-    "frameImage": "banjinlinxiang-changfu-kaixin-yan",
+    "frameImage": "banjinglingxiang-changfu-xiyue-yan",
     "startSequence": [
       1
     ],
@@ -30002,7 +35145,7 @@
   {
     "sn": "banjinglingxiang4",
     "type": 2,
-    "frameImage": "banjinlinxiang-changfu-kaixin-zui",
+    "frameImage": "banjinglingxiang-changfu-xiyue-zui",
     "startSequence": [
       1,
       2
@@ -30026,7 +35169,7 @@
   {
     "sn": "banjinglingxiang5",
     "type": 1,
-    "frameImage": "banjinlinxiang-changfu-jingya-yan",
+    "frameImage": "banjinglingxiang-changfu-jingya-yan",
     "startSequence": [
       1
     ],
@@ -30061,7 +35204,7 @@
   {
     "sn": "banjinglingxiang6",
     "type": 2,
-    "frameImage": "banjinlinxiang-changfu-jingya-zui",
+    "frameImage": "banjinglingxiang-changfu-jingya-zui",
     "startSequence": [
       1,
       2
@@ -30085,7 +35228,7 @@
   {
     "sn": "banjinglingxiang7",
     "type": 1,
-    "frameImage": "banjinlinxiang-changfu-beiai-yan",
+    "frameImage": "banjinglingxiang-changfu-beiai-yan",
     "startSequence": [
       1
     ],
@@ -30120,7 +35263,7 @@
   {
     "sn": "banjinglingxiang8",
     "type": 2,
-    "frameImage": "banjinlinxiang-changfu-beiai-zui",
+    "frameImage": "banjinglingxiang-changfu-beiai-zui",
     "startSequence": [
       1,
       2
@@ -30144,7 +35287,7 @@
   {
     "sn": "banjinglingxiang9",
     "type": 1,
-    "frameImage": "banjinlinxiang-changfu-fennu-yan",
+    "frameImage": "banjinglingxiang-changfu-fennu-yan",
     "startSequence": [
       1
     ],
@@ -30179,7 +35322,7 @@
   {
     "sn": "banjinglingxiang10",
     "type": 2,
-    "frameImage": "banjinlinxiang-changfu-fennu-zui",
+    "frameImage": "banjinglingxiang-changfu-fennu-zui",
     "startSequence": [
       1,
       2
@@ -30415,6 +35558,82 @@
       2,
       1
     ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "banjinglingxiang-texie-1",
+    "type": 3,
+    "frameImage": "B-texie-chord-xiyue-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "banjinglingxiang-texie-2",
+    "type": 3,
+    "frameImage": "B-texie-chord-beiai-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "banjinglingxiang-texie-3",
+    "type": 3,
+    "frameImage": "B-texie-chord-jingya-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "banjinglingxiang-texie-4",
+    "type": 3,
+    "frameImage": "B-texie-chord-renzhen-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
     "endSequence": [
       1
     ],
@@ -31853,6 +37072,340 @@
     "sn": "heizeyangtai12",
     "type": 2,
     "frameImage": "heizeyangtai-changfu-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang1",
+    "type": 1,
+    "frameImage": "xufangbushi-changfu-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang2",
+    "type": 2,
+    "frameImage": "xufangbushi-changfu-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang3",
+    "type": 1,
+    "frameImage": "xufangbushi-changfu-weixiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang4",
+    "type": 2,
+    "frameImage": "xufangbushi-changfu-weixiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang5",
+    "type": 1,
+    "frameImage": "xufangbushi-changfu-shengqi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang6",
+    "type": 2,
+    "frameImage": "xufangbushi-changfu-shengqi-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang7",
+    "type": 1,
+    "frameImage": "xufangbushi-changfu-beiai-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang8",
+    "type": 2,
+    "frameImage": "xufangbushi-changfu-beiai-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang9",
+    "type": 1,
+    "frameImage": "xufangbushi-changfu-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang10",
+    "type": 2,
+    "frameImage": "xufangbushi-changfu-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang11",
+    "type": 1,
+    "frameImage": "xufangbushi-changfu-tiaopi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "xufang12",
+    "type": 2,
+    "frameImage": "xufangbushi-changfu-tiaopi-zui",
     "startSequence": [
       1,
       2
@@ -33813,6 +39366,291 @@
     "interval": 0.18
   },
   {
+    "sn": "haris1",
+    "type": 1,
+    "frameImage": "halisi-changfu-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "haris2",
+    "type": 2,
+    "frameImage": "halisi-changfu-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "haris3",
+    "type": 1,
+    "frameImage": "halisi-changfu-xiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "haris4",
+    "type": 2,
+    "frameImage": "halisi-changfu-xiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "haris5",
+    "type": 1,
+    "frameImage": "halisi-changfu-fennu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "haris6",
+    "type": 2,
+    "frameImage": "halisi-changfu-fennu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "haris7",
+    "type": 1,
+    "frameImage": "halisi-changfu-beishang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "haris8",
+    "type": 2,
+    "frameImage": "halisi-changfu-beishang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "haris9",
+    "type": 1,
+    "frameImage": "halisi-changfu-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "haris10",
+    "type": 2,
+    "frameImage": "halisi-changfu-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "muneixiongzhitexie02",
     "type": 3,
     "frameImage": "muneixiong-changfu-zuo-xiao-00",
@@ -35384,6 +41222,686 @@
     "interval": 0.18
   },
   {
+    "sn": "mingshi-richang1",
+    "type": 1,
+    "frameImage": "mingshi-changfu-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang2",
+    "type": 2,
+    "frameImage": "mingshi-changfu-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang3",
+    "type": 1,
+    "frameImage": "mingshi-changfu-tongchang2-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang4",
+    "type": 2,
+    "frameImage": "mingshi-changfu-tongchang2-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang5",
+    "type": 1,
+    "frameImage": "mingshi-changfu-xiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang6",
+    "type": 2,
+    "frameImage": "mingshi-changfu-xiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang7",
+    "type": 1,
+    "frameImage": "mingshi-changfu-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang8",
+    "type": 2,
+    "frameImage": "mingshi-changfu-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang9",
+    "type": 1,
+    "frameImage": "mingshi-changfu-shengqi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang10",
+    "type": 2,
+    "frameImage": "mingshi-changfu-shengqi-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang11",
+    "type": 1,
+    "frameImage": "mingshi-changfu-lengxiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang12",
+    "type": 2,
+    "frameImage": "mingshi-changfu-lengxiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang13",
+    "type": 1,
+    "frameImage": "mingshi-changfu-beiai-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang14",
+    "type": 2,
+    "frameImage": "mingshi-changfu-beiai-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang15",
+    "type": 1,
+    "frameImage": "mingshi-changfu-wuyu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang16",
+    "type": 2,
+    "frameImage": "mingshi-changfu-wuyu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang17",
+    "type": 1,
+    "frameImage": "mingshi-changfu-jiaoji-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang18",
+    "type": 2,
+    "frameImage": "mingshi-changfu-jiaoji-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang19",
+    "type": 1,
+    "frameImage": "mingshi-changfu-yinxian-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang20",
+    "type": 2,
+    "frameImage": "mingshi-changfu-yinxian-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang21",
+    "type": 1,
+    "frameImage": "mingshi-changfu-huanghu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang22",
+    "type": 2,
+    "frameImage": "mingshi-changfu-huanghu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang23",
+    "type": 1,
+    "frameImage": "mingshi-changfu-juewang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      2,
+      3,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-richang24",
+    "type": 2,
+    "frameImage": "mingshi-changfu-juewang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "gongze-richang-texie2",
     "type": 3,
     "frameImage": "B-texie-gongzebomeng-xiyue-00",
@@ -35595,6 +42113,513 @@
     "interval": 0.18
   },
   {
+    "sn": "pianshan-yinying1",
+    "type": 1,
+    "frameImage": "pianshan-yinying-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying2",
+    "type": 2,
+    "frameImage": "pianshan-yinying-tongchang-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying3",
+    "type": 1,
+    "frameImage": "pianshan-yinying-weixiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying4",
+    "type": 2,
+    "frameImage": "pianshan-yinying-weixiao-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying5",
+    "type": 1,
+    "frameImage": "pianshan-yinying-jingya-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying6",
+    "type": 2,
+    "frameImage": "pianshan-yinying-jingya-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying7",
+    "type": 1,
+    "frameImage": "pianshan-yinying-xijierqi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying8",
+    "type": 2,
+    "frameImage": "pianshan-yinying-xijierqi-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying9",
+    "type": 1,
+    "frameImage": "pianshan-yinying-beiai-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying10",
+    "type": 2,
+    "frameImage": "pianshan-yinying-beiai-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying11",
+    "type": 1,
+    "frameImage": "pianshan-yinying-aohui-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying12",
+    "type": 2,
+    "frameImage": "pianshan-yinying-aohui-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying13",
+    "type": 1,
+    "frameImage": "pianshan-yinying-fennu-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying14",
+    "type": 2,
+    "frameImage": "pianshan-yinying-fennu-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying15",
+    "type": 1,
+    "frameImage": "pianshan-yinying-tongku-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying16",
+    "type": 2,
+    "frameImage": "pianshan-yinying-tongku-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying17",
+    "type": 1,
+    "frameImage": "pianshan-yinying-tongku2-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "pianshan-yinying18",
+    "type": 2,
+    "frameImage": "pianshan-yinying-tongku2-zui",
+    "startSequence": [
+      1,
+      2
+    ],
+    "loopSequence": [
+      3,
+      2,
+      3,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
     "sn": "pianshanjiuwei3",
     "type": 1,
     "frameImage": "pianshanweijiu-changfu-xiao-yan",
@@ -35752,6 +42777,44 @@
       2,
       1
     ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "wutiantexie-yinying01",
+    "type": 3,
+    "frameImage": "B-texie-pianshan-fennu-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "wutiantexie-yinying02",
+    "type": 3,
+    "frameImage": "B-texie-pianshan-tongku-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
     "endSequence": [
       1
     ],
@@ -35993,6 +43056,8 @@
       1,
       1,
       1,
+      1,
+      1,
       1
     ],
     "endSequence": [
@@ -36157,6 +43222,756 @@
       10
     ],
     "endSequence": [],
+    "interval": 0.18
+  },
+  {
+    "sn": "chess-yinying1",
+    "type": 1,
+    "frameImage": "yinyingguanzhong-changfu-gaoxing-",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "chess-yinying2",
+    "type": 1,
+    "frameImage": "yinyingguanzhong-changfu-buman-",
+    "startSequence": [
+      2
+    ],
+    "loopSequence": [
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "endSequence": [
+      2
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "chess-yinying3",
+    "type": 1,
+    "frameImage": "yinyingguanzhong-changfu-jingya-",
+    "startSequence": [
+      2
+    ],
+    "loopSequence": [
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2
+    ],
+    "endSequence": [
+      2
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "chess-yinying4",
+    "type": 1,
+    "frameImage": "yinyingguanzhong-changfu-shiluo-",
+    "startSequence": [
+      3,
+      2
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "chess-zhuchiren1",
+    "type": 1,
+    "frameImage": "yinyingzhuchi-changfu-tongchang-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "chess-zhuchiren2",
+    "type": 2,
+    "frameImage": "yinyingzhuchi-changfu-tongchang-zui",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "chess-zhuchiren3",
+    "type": 1,
+    "frameImage": "yinyingzhuchi-changfu-xiao-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying-texie-1",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-yinying-lengmo-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying-texie-2",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-yinying-shengqi-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-yinying-texie-3",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-yinying-xiao-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "chess-zhuchiren4",
+    "type": 2,
+    "frameImage": "yinyingzhuchi-changfu-xiao-zui",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "chess-zhuchiren5",
+    "type": 1,
+    "frameImage": "yinyingzhuchi-changfu-shengqi-yan",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "chess-zhuchiren6",
+    "type": 2,
+    "frameImage": "yinyingzhuchi-changfu-shengqi-zui",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "queen-battle-1",
+    "type": 3,
+    "frameImage": "SequenceFrame-battle-queen-",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "endSequence": [
+      6
+    ],
+    "interval": 0.036
+  },
+  {
+    "sn": "queen-battle-2",
+    "type": 3,
+    "frameImage": "SequenceFrame-battle-queen-",
+    "startSequence": [
+      6
+    ],
+    "loopSequence": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "endSequence": [
+      33
+    ],
+    "interval": 0.036
+  },
+  {
+    "sn": "joker-battle-1",
+    "type": 3,
+    "frameImage": "SequenceFrame-battle-",
+    "startSequence": [
+      1
+    ],
+    "loopSequence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "endSequence": [
+      6
+    ],
+    "interval": 0.036
+  },
+  {
+    "sn": "joker-battle-2",
+    "type": 3,
+    "frameImage": "SequenceFrame-battle-",
+    "startSequence": [
+      6
+    ],
+    "loopSequence": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "endSequence": [
+      33
+    ],
+    "interval": 0.036
+  },
+  {
+    "sn": "phoebe-battle-1",
+    "type": 3,
+    "frameImage": "SequenceFrame-battle-phoebe-",
+    "startSequence": [
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      6,
+      6,
+      7,
+      7,
+      8,
+      8,
+      9,
+      9,
+      10,
+      10,
+      11,
+      11,
+      12,
+      12,
+      13,
+      13,
+      14,
+      14,
+      14
+    ],
+    "loopSequence": [
+      15,
+      15,
+      15,
+      15,
+      16,
+      16,
+      16,
+      16,
+      17,
+      17,
+      17,
+      17,
+      18,
+      18,
+      18,
+      18,
+      19,
+      19,
+      19,
+      19,
+      20,
+      20,
+      20,
+      20,
+      21,
+      21,
+      21,
+      21,
+      22,
+      22,
+      22,
+      22,
+      23,
+      23,
+      23,
+      23,
+      24,
+      24,
+      24,
+      24
+    ],
+    "endSequence": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "interval": 0.02
+  },
+  {
+    "sn": "mingshi-changfu1-texie1",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu01-xiao-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu1-texie2",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu01-tongku-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu1-texie3",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu01-jingya-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu1-texie4",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu01-fennu-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu1-texie5",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu01-chayihuaiyi-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu1-texie6",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu01-chayihuaiyi2-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu2-texie1",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu02-xiao-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu2-texie2",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu02-tongku-00",
+    "startSequence": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu2-texie3",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu02-jingya-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu2-texie4",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu02-fennu-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu2-texie5",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu02-chayihuaiyi-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
+    "interval": 0.18
+  },
+  {
+    "sn": "mingshi-changfu2-texie6",
+    "type": 3,
+    "frameImage": "B-texie-mingshi-changfu02-chayihuaiyi2-00",
+    "startSequence": [
+      1,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "loopSequence": [],
+    "endSequence": [
+      1
+    ],
     "interval": 0.18
   }
 ]

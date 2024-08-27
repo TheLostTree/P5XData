@@ -22,12 +22,32 @@
   {
     "sn": 5,
     "type": 1,
-    "name": "显示聊天信息缩略",
+    "name": "主界面聊天信息缩略",
     "autoSelect": 1,
     "Level": [],
     "order": 5,
     "serSave": 1,
     "isAssert": 1
+  },
+  {
+    "sn": 6,
+    "type": 1,
+    "name": "战斗聊天信息缩略",
+    "autoSelect": 1,
+    "Level": [],
+    "order": 6,
+    "serSave": 1,
+    "isAssert": 1
+  },
+  {
+    "sn": 7,
+    "type": 1,
+    "name": "允许推送消息",
+    "autoSelect": 1,
+    "Level": [],
+    "order": 0,
+    "serSave": 1,
+    "isAssert": 0
   },
   {
     "sn": 101,
@@ -154,7 +174,7 @@
     "sn": 305,
     "type": 3,
     "name": "简化HighLight表现",
-    "autoSelect": 3,
+    "autoSelect": 2,
     "Level": [
       1,
       2,
@@ -168,7 +188,7 @@
     "sn": 306,
     "type": 3,
     "name": "简化解明怪盗表现",
-    "autoSelect": 3,
+    "autoSelect": 2,
     "Level": [
       1,
       2,
@@ -206,6 +226,16 @@
     "sn": 309,
     "type": 3,
     "name": "简化战斗结算",
+    "autoSelect": 0,
+    "Level": [],
+    "order": 0,
+    "serSave": 0,
+    "isAssert": 1
+  },
+  {
+    "sn": 310,
+    "type": 3,
+    "name": "简化战斗表现",
     "autoSelect": 0,
     "Level": [],
     "order": 0,

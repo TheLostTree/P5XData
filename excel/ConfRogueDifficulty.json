@@ -23,14 +23,16 @@
     "enemytext": 0,
     "unlock": 1,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 30,
+    "shadowsLvMax": 38
   },
   {
     "sn": 10102,
     "motifSn": 1,
     "line": 101,
     "difficulty": 2,
-    "scoreRatio": 40,
+    "scoreRatio": 50,
     "showtext": [
       "所有敌人生命值+5%。"
     ],
@@ -49,14 +51,16 @@
     "enemytext": 1,
     "unlock": 1,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 38,
+    "shadowsLvMax": 44
   },
   {
     "sn": 10103,
     "motifSn": 1,
     "line": 101,
     "difficulty": 3,
-    "scoreRatio": 90,
+    "scoreRatio": 120,
     "showtext": [
       "所有敌人攻击力+5%；",
       "所有敌人生命值+5%。"
@@ -76,14 +80,16 @@
     "enemytext": 2,
     "unlock": 5,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 48,
+    "shadowsLvMax": 54
   },
   {
     "sn": 10104,
     "motifSn": 1,
     "line": 101,
     "difficulty": 4,
-    "scoreRatio": 150,
+    "scoreRatio": 210,
     "showtext": [
       "所有敌人攻击力+5%；",
       "所有敌人生命值+5%；",
@@ -104,14 +110,16 @@
     "enemytext": 3,
     "unlock": 5,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 58,
+    "shadowsLvMax": 65
   },
   {
     "sn": 10105,
     "motifSn": 1,
     "line": 101,
     "difficulty": 5,
-    "scoreRatio": 220,
+    "scoreRatio": 320,
     "showtext": [
       "所有敌人攻击力+5%；",
       "所有敌人生命值+10%；",
@@ -132,14 +140,16 @@
     "enemytext": 4,
     "unlock": 10,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 68,
+    "shadowsLvMax": 75
   },
   {
     "sn": 10106,
     "motifSn": 1,
     "line": 101,
     "difficulty": 6,
-    "scoreRatio": 300,
+    "scoreRatio": 450,
     "showtext": [
       "所有敌人攻击力+10%；",
       "所有敌人生命值+10%；",
@@ -160,7 +170,9 @@
     "enemytext": 5,
     "unlock": 10,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 78,
+    "shadowsLvMax": 87
   },
   {
     "sn": 10201,
@@ -186,14 +198,16 @@
     "enemytext": 0,
     "unlock": 1,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 30,
+    "shadowsLvMax": 38
   },
   {
     "sn": 10202,
     "motifSn": 1,
     "line": 102,
     "difficulty": 2,
-    "scoreRatio": 40,
+    "scoreRatio": 50,
     "showtext": [
       "所有敌人生命值+5%。"
     ],
@@ -212,14 +226,16 @@
     "enemytext": 1,
     "unlock": 1,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 38,
+    "shadowsLvMax": 44
   },
   {
     "sn": 10203,
     "motifSn": 1,
     "line": 102,
     "difficulty": 3,
-    "scoreRatio": 90,
+    "scoreRatio": 120,
     "showtext": [
       "所有敌人攻击力+5%；",
       "所有敌人生命值+5%。"
@@ -239,14 +255,16 @@
     "enemytext": 2,
     "unlock": 5,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 48,
+    "shadowsLvMax": 54
   },
   {
     "sn": 10204,
     "motifSn": 1,
     "line": 102,
     "difficulty": 4,
-    "scoreRatio": 150,
+    "scoreRatio": 210,
     "showtext": [
       "所有敌人攻击力+5%；",
       "所有敌人生命值+5%；",
@@ -267,14 +285,16 @@
     "enemytext": 3,
     "unlock": 5,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 58,
+    "shadowsLvMax": 65
   },
   {
     "sn": 10205,
     "motifSn": 1,
     "line": 102,
     "difficulty": 5,
-    "scoreRatio": 220,
+    "scoreRatio": 320,
     "showtext": [
       "所有敌人攻击力+5%；",
       "所有敌人生命值+10%；",
@@ -295,14 +315,16 @@
     "enemytext": 4,
     "unlock": 10,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 68,
+    "shadowsLvMax": 75
   },
   {
     "sn": 10206,
     "motifSn": 1,
     "line": 102,
     "difficulty": 6,
-    "scoreRatio": 300,
+    "scoreRatio": 450,
     "showtext": [
       "所有敌人攻击力+10%；",
       "所有敌人生命值+10%；",
@@ -323,6 +345,69 @@
     "enemytext": 5,
     "unlock": 10,
     "bossInst": 75301,
-    "pic": "Texture-rogue-diffcutboss01-new.png"
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 78,
+    "shadowsLvMax": 87
+  },
+  {
+    "sn": 10207,
+    "motifSn": 1,
+    "line": 102,
+    "difficulty": 7,
+    "scoreRatio": 600,
+    "showtext": [
+      "所有敌人攻击力+15%；",
+      "所有敌人生命值+15%；",
+      "所有角色SP消耗提升10%。"
+    ],
+    "RogueBuffMin": 12,
+    "RogueBuffMax": 20,
+    "buyBuffprice": [
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
+    ],
+    "enemytext": 4,
+    "unlock": 10,
+    "bossInst": 75301,
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 80,
+    "shadowsLvMax": 94
+  },
+  {
+    "sn": 10208,
+    "motifSn": 1,
+    "line": 102,
+    "difficulty": 8,
+    "scoreRatio": 750,
+    "showtext": [
+      "所有敌人攻击力+20%；",
+      "所有敌人生命值+20%；",
+      "所有角色SP消耗提升10%；",
+      "所有角色生命值上限降低10%。"
+    ],
+    "RogueBuffMin": 12,
+    "RogueBuffMax": 20,
+    "buyBuffprice": [
+      75,
+      125,
+      175,
+      225,
+      275,
+      325,
+      375,
+      425
+    ],
+    "enemytext": 5,
+    "unlock": 10,
+    "bossInst": 75301,
+    "pic": "Texture-rogue-diffcutboss01-new.png",
+    "shadowsLvmMin": 82,
+    "shadowsLvMax": 104
   }
 ]

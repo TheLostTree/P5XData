@@ -1456,6 +1456,260 @@
     "activitySn": 0
   },
   {
+    "sn": 56,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopNode": [],
+    "strUIPlayRule": 0,
+    "shopName": "宗久-专属武器",
+    "convenientEntrance": [],
+    "convenientEntranceName": [],
+    "funcOpen": 0,
+    "shopTag": 3,
+    "uiCount": 0,
+    "topForeverSnList": [],
+    "topForeverSn": 1083,
+    "bottomPoint": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 0
+  },
+  {
+    "sn": 60,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-zhawu-i18n.png",
+    "shopNode": [],
+    "strUIPlayRule": 0,
+    "shopName": "炸物专卖店",
+    "convenientEntrance": [],
+    "convenientEntranceName": [],
+    "funcOpen": 0,
+    "shopTag": 1,
+    "uiCount": 0,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "bottomPoint": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 0
+  },
+  {
+    "sn": 61,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-wenju-i18n.png",
+    "shopNode": [],
+    "strUIPlayRule": 0,
+    "shopName": "文具店",
+    "convenientEntrance": [],
+    "convenientEntranceName": [],
+    "funcOpen": 0,
+    "shopTag": 1,
+    "uiCount": 0,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "bottomPoint": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 0
+  },
+  {
+    "sn": 62,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-guzhuo-i18n.png",
+    "shopNode": [],
+    "strUIPlayRule": 0,
+    "shopName": "古着店",
+    "convenientEntrance": [],
+    "convenientEntranceName": [],
+    "funcOpen": 0,
+    "shopTag": 1,
+    "uiCount": 0,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "bottomPoint": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 0
+  },
+  {
+    "sn": 63,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-jinkou-i18n.png",
+    "shopNode": [],
+    "strUIPlayRule": 0,
+    "shopName": "进口食品店",
+    "convenientEntrance": [],
+    "convenientEntranceName": [],
+    "funcOpen": 0,
+    "shopTag": 1,
+    "uiCount": 0,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "bottomPoint": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 0
+  },
+  {
+    "sn": 64,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-baozi-i18n.png",
+    "shopNode": [],
+    "strUIPlayRule": 0,
+    "shopName": "中式包子店",
+    "convenientEntrance": [],
+    "convenientEntranceName": [],
+    "funcOpen": 0,
+    "shopTag": 1,
+    "uiCount": 0,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "bottomPoint": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 0
+  },
+  {
+    "sn": 65,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-nengliangshi-i18n.png",
+    "shopNode": [],
+    "strUIPlayRule": 0,
+    "shopName": "能量石专卖店",
+    "convenientEntrance": [],
+    "convenientEntranceName": [],
+    "funcOpen": 0,
+    "shopTag": 1,
+    "uiCount": 0,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "bottomPoint": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 0
+  },
+  {
+    "sn": 66,
+    "dependUnion": 0,
+    "shopTypePic": "shop-title-fanmaiji-i18n.png",
+    "shopNode": [],
+    "strUIPlayRule": 0,
+    "shopName": "自动贩卖机",
+    "convenientEntrance": [],
+    "convenientEntranceName": [],
+    "funcOpen": 0,
+    "shopTag": 1,
+    "uiCount": 0,
+    "topForeverSnList": [
+      22
+    ],
+    "topForeverSn": 0,
+    "bottomPoint": [
+      [
+        "AAAAAA=="
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 0
+  },
+  {
     "sn": 101,
     "dependUnion": 0,
     "shopTypePic": "",
@@ -1653,7 +1907,7 @@
     ],
     "convenientEntranceName": [
       "shop-collective-eyixunli01-i18n.png|shop-collective-eyixunli02-i18n.png|icon-collective-shopbg-eyixunli.png",
-      "超阶印记"
+      "超阶"
     ],
     "funcOpen": 308,
     "shopTag": 7,
@@ -1745,7 +1999,7 @@
     ],
     "convenientEntranceName": [
       "shop-collective-eyixunli01-i18n.png|shop-collective-eyixunli02-i18n.png|icon-collective-shopbg-eyixunli.png",
-      "高阶印记"
+      "高阶"
     ],
     "funcOpen": 308,
     "shopTag": 7,
@@ -1791,7 +2045,7 @@
     ],
     "convenientEntranceName": [
       "shop-collective-eyixunli01-i18n.png|shop-collective-eyixunli02-i18n.png|icon-collective-shopbg-eyixunli.png",
-      "中阶印记"
+      "中阶"
     ],
     "funcOpen": 308,
     "shopTag": 7,
@@ -1837,13 +2091,105 @@
     ],
     "convenientEntranceName": [
       "shop-collective-eyixunli01-i18n.png|shop-collective-eyixunli02-i18n.png|icon-collective-shopbg-eyixunli.png",
-      "初阶印记"
+      "初阶"
     ],
     "funcOpen": 308,
     "shopTag": 7,
     "uiCount": 6,
     "topForeverSnList": [],
     "topForeverSn": 1038,
+    "bottomPoint": [
+      [
+        "FFFFFF",
+        "DE0606"
+      ],
+      [
+        "DE0606",
+        "460100"
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 0
+  },
+  {
+    "sn": 110,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopNode": [
+      "eyixunli-bottom/UIChildMarker-eyixunli-bottom",
+      "eyixunli-top/UIChildMarker-eyixunli-top",
+      "eyixunli/UIChildMarker-eyixunli",
+      "eyixunli"
+    ],
+    "strUIPlayRule": 0,
+    "shopName": "common",
+    "convenientEntrance": [
+      40,
+      50
+    ],
+    "convenientEntranceName": [
+      "shop-collective-eyixunli01-i18n.png|shop-collective-eyixunli02-i18n.png|icon-collective-shopbg-eyixunli.png",
+      "极阶"
+    ],
+    "funcOpen": 308,
+    "shopTag": 7,
+    "uiCount": 6,
+    "topForeverSnList": [],
+    "topForeverSn": 1038,
+    "bottomPoint": [
+      [
+        "FFFFFF",
+        "DE0606"
+      ],
+      [
+        "DE0606",
+        "460100"
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 0
+  },
+  {
+    "sn": 111,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopNode": [
+      "linkageboss-bottom/UIChildMarker-linkageboss-bottom",
+      "linkageboss-top/UIChildMarker-linkageboss-top",
+      "linkageboss/UIChildMarker-linkageboss",
+      "linkageboss"
+    ],
+    "strUIPlayRule": 0,
+    "shopName": "common",
+    "convenientEntrance": [
+      20
+    ],
+    "convenientEntranceName": [
+      "shop-collective-qiyunzhuchang01-i18n.png|shop-collective-qiyunzhuchang02-i18n.png|icon-collective-shopbg-eyixunli.png"
+    ],
+    "funcOpen": 402,
+    "shopTag": 7,
+    "uiCount": 6,
+    "topForeverSnList": [
+      49
+    ],
+    "topForeverSn": 1088,
     "bottomPoint": [
       [
         "FFFFFF",
@@ -1939,6 +2285,178 @@
     "lockDialog": "",
     "unlockfirstDialog": "",
     "activitySn": 1400001
+  },
+  {
+    "sn": 403,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopNode": [
+      "linkageR2-bottom/UIChildMarker-linkageR2-bottom",
+      "linkageR2-top/UIChildMarker-linkageR2-top",
+      "linkageR2/UIChildMarker-linkageR2",
+      "linkageR2"
+    ],
+    "strUIPlayRule": 0,
+    "shopName": "common",
+    "convenientEntrance": [
+      1000,
+      10
+    ],
+    "convenientEntranceName": [
+      "icon-collective-shopbg-zhuzhanhuikui.png",
+      "艺术展馆"
+    ],
+    "funcOpen": 0,
+    "shopTag": 7,
+    "uiCount": 6,
+    "topForeverSnList": [],
+    "topForeverSn": 1081,
+    "bottomPoint": [
+      [
+        "FFFFFF",
+        "0BD1D3"
+      ],
+      [
+        "0AD1D3",
+        "085659"
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 3200001
+  },
+  {
+    "sn": 404,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopNode": [
+      "linkageR2-bottom/UIChildMarker-linkageR2-bottom",
+      "linkageR2-top/UIChildMarker-linkageR2-top",
+      "linkageR2/UIChildMarker-linkageR2",
+      "linkageR2"
+    ],
+    "strUIPlayRule": 0,
+    "shopName": "common",
+    "convenientEntrance": [
+      1000,
+      20
+    ],
+    "convenientEntranceName": [
+      "icon-collective-shopbg-zhuzhanhuikui.png",
+      "奢华金库"
+    ],
+    "funcOpen": 0,
+    "shopTag": 7,
+    "uiCount": 6,
+    "topForeverSnList": [],
+    "topForeverSn": 1081,
+    "bottomPoint": [
+      [
+        "FFFFFF",
+        "0BD1D3"
+      ],
+      [
+        "0AD1D3",
+        "085659"
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 3200001
+  },
+  {
+    "sn": 405,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopNode": [
+      "summer-closer-bottom/UIChildMarker-summer-closer-bottom",
+      "summer-closer/UIChildMarker-summer-closer-top",
+      "summeractivity/UIChildMarker-summeractivity",
+      "summeractivity1"
+    ],
+    "strUIPlayRule": 0,
+    "shopName": "common",
+    "convenientEntrance": [],
+    "convenientEntranceName": [],
+    "funcOpen": 0,
+    "shopTag": 7,
+    "uiCount": 6,
+    "topForeverSnList": [],
+    "topForeverSn": 1092,
+    "bottomPoint": [
+      [
+        "FFFFFF",
+        "0637FD"
+      ],
+      [
+        "10A6CA",
+        "115564"
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 4500001
+  },
+  {
+    "sn": 406,
+    "dependUnion": 0,
+    "shopTypePic": "",
+    "shopNode": [
+      "summer-moko-bottom/UIChildMarker-summer-moko-bottom",
+      "summer-moko/UIChildMarker-summer-moko-top",
+      "summeractivity/UIChildMarker-summeractivity",
+      "summeractivity2"
+    ],
+    "strUIPlayRule": 0,
+    "shopName": "common",
+    "convenientEntrance": [],
+    "convenientEntranceName": [],
+    "funcOpen": 0,
+    "shopTag": 7,
+    "uiCount": 6,
+    "topForeverSnList": [],
+    "topForeverSn": 1093,
+    "bottomPoint": [
+      [
+        "37428F",
+        "616475"
+      ],
+      [
+        "FFFFFF",
+        "37428F"
+      ]
+    ],
+    "open_sound": "",
+    "close_sound": "",
+    "unlockPersonality": [
+      [
+        0
+      ]
+    ],
+    "lockDialog": "",
+    "unlockfirstDialog": "",
+    "activitySn": 4500002
   },
   {
     "sn": 9999,

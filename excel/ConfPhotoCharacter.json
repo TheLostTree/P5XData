@@ -10,7 +10,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 1,
-    "isDisplay": 1
+    "isDisplay": 1,
+    "thiefLimit": 1031
   },
   {
     "sn": 2,
@@ -23,7 +24,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 2,
-    "isDisplay": 1
+    "isDisplay": 1,
+    "thiefLimit": 1061
   },
   {
     "sn": 3,
@@ -36,7 +38,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 3,
-    "isDisplay": 0
+    "isDisplay": 1,
+    "thiefLimit": 1051
   },
   {
     "sn": 4,
@@ -47,7 +50,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 4,
-    "isDisplay": 0
+    "isDisplay": 0,
+    "thiefLimit": 0
   },
   {
     "sn": 5,
@@ -58,7 +62,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 5,
-    "isDisplay": 0
+    "isDisplay": 0,
+    "thiefLimit": 0
   },
   {
     "sn": 6,
@@ -71,7 +76,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 6,
-    "isDisplay": 1
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 7,
@@ -84,7 +90,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 7,
-    "isDisplay": 0
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 8,
@@ -97,7 +104,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 8,
-    "isDisplay": 1
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 9,
@@ -110,7 +118,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 9,
-    "isDisplay": 1
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 10,
@@ -123,7 +132,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 10,
-    "isDisplay": 1
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 11,
@@ -136,7 +146,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 11,
-    "isDisplay": 1
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 12,
@@ -149,7 +160,8 @@
     "questSn": 0,
     "coopLevel": [],
     "sort": 12,
-    "isDisplay": 1
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 13,
@@ -159,8 +171,9 @@
     "thiefSn": [],
     "questSn": 10020,
     "coopLevel": [],
-    "sort": 13,
-    "isDisplay": 1
+    "sort": 101,
+    "isDisplay": 1,
+    "thiefLimit": 10020
   },
   {
     "sn": 14,
@@ -170,8 +183,9 @@
     "thiefSn": [],
     "questSn": 0,
     "coopLevel": [],
-    "sort": 14,
-    "isDisplay": 0
+    "sort": 102,
+    "isDisplay": 0,
+    "thiefLimit": 0
   },
   {
     "sn": 15,
@@ -181,8 +195,9 @@
     "thiefSn": [],
     "questSn": 66010,
     "coopLevel": [],
-    "sort": 15,
-    "isDisplay": 0
+    "sort": 103,
+    "isDisplay": 0,
+    "thiefLimit": 0
   },
   {
     "sn": 16,
@@ -192,8 +207,9 @@
     "thiefSn": [],
     "questSn": 40155,
     "coopLevel": [],
-    "sort": 16,
-    "isDisplay": 0
+    "sort": 104,
+    "isDisplay": 0,
+    "thiefLimit": 0
   },
   {
     "sn": 17,
@@ -203,8 +219,9 @@
     "thiefSn": [],
     "questSn": 40040,
     "coopLevel": [],
-    "sort": 17,
-    "isDisplay": 1
+    "sort": 105,
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 18,
@@ -214,8 +231,9 @@
     "thiefSn": [],
     "questSn": 40199,
     "coopLevel": [],
-    "sort": 18,
-    "isDisplay": 1
+    "sort": 106,
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 19,
@@ -225,8 +243,9 @@
     "thiefSn": [],
     "questSn": 40289,
     "coopLevel": [],
-    "sort": 19,
-    "isDisplay": 1
+    "sort": 107,
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 20,
@@ -236,8 +255,9 @@
     "thiefSn": [],
     "questSn": 40133,
     "coopLevel": [],
-    "sort": 20,
-    "isDisplay": 0
+    "sort": 108,
+    "isDisplay": 0,
+    "thiefLimit": 0
   },
   {
     "sn": 21,
@@ -247,8 +267,9 @@
     "thiefSn": [],
     "questSn": 64034,
     "coopLevel": [],
-    "sort": 21,
-    "isDisplay": 1
+    "sort": 109,
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 22,
@@ -258,8 +279,9 @@
     "thiefSn": [],
     "questSn": 40006,
     "coopLevel": [],
-    "sort": 22,
-    "isDisplay": 0
+    "sort": 110,
+    "isDisplay": 0,
+    "thiefLimit": 0
   },
   {
     "sn": 23,
@@ -269,8 +291,9 @@
     "thiefSn": [],
     "questSn": 65011,
     "coopLevel": [],
-    "sort": 23,
-    "isDisplay": 1
+    "sort": 111,
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 24,
@@ -280,8 +303,9 @@
     "thiefSn": [],
     "questSn": 61001,
     "coopLevel": [],
-    "sort": 24,
-    "isDisplay": 1
+    "sort": 112,
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 25,
@@ -291,19 +315,23 @@
     "thiefSn": [],
     "questSn": 63011,
     "coopLevel": [],
-    "sort": 25,
-    "isDisplay": 1
+    "sort": 113,
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 26,
     "PhotoCharacterModel": "GuitarGirl",
     "modelName": "坂井绫香",
     "modelPic": "Tongyong-touxiang-npc-lingxiang.png",
-    "thiefSn": [],
-    "questSn": 80001,
+    "thiefSn": [
+      1321
+    ],
+    "questSn": 0,
     "coopLevel": [],
-    "sort": 26,
-    "isDisplay": 0
+    "sort": 16,
+    "isDisplay": 1,
+    "thiefLimit": 0
   },
   {
     "sn": 27,
@@ -313,7 +341,104 @@
     "thiefSn": [],
     "questSn": 40173,
     "coopLevel": [],
-    "sort": 27,
-    "isDisplay": 0
+    "sort": 115,
+    "isDisplay": 0,
+    "thiefLimit": 0
+  },
+  {
+    "sn": 28,
+    "PhotoCharacterModel": "marian_uniform",
+    "modelName": "宫下美波",
+    "modelPic": "Tongyong-touxiang-changfu-marian.png",
+    "thiefSn": [
+      1231
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 13,
+    "isDisplay": 1,
+    "thiefLimit": 0
+  },
+  {
+    "sn": 29,
+    "PhotoCharacterModel": "why_uniform",
+    "modelName": "西森阳菜",
+    "modelPic": "Tongyong-touxiang-changfu-riddle.png",
+    "thiefSn": [
+      1281
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 14,
+    "isDisplay": 1,
+    "thiefLimit": 0
+  },
+  {
+    "sn": 30,
+    "PhotoCharacterModel": "phoebe_normal",
+    "modelName": "椎名悠美",
+    "modelPic": "Tongyong-touxiang-changfu-phoebe.png",
+    "thiefSn": [
+      1311
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 15,
+    "isDisplay": 1,
+    "thiefLimit": 0
+  },
+  {
+    "sn": 31,
+    "PhotoCharacterModel": "closer_uniform_swimsuit",
+    "modelName": "新井素羽·夏日",
+    "modelPic": "Tongyong-touxiang-changfu-closerS.png",
+    "thiefSn": [
+      1032
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 17,
+    "isDisplay": 1,
+    "thiefLimit": 1031
+  },
+  {
+    "sn": 32,
+    "PhotoCharacterModel": "soy_uniform_swimsuit",
+    "modelName": "加纳骏·夏日",
+    "modelPic": "Tongyong-touxiang-changfu-soyS.png",
+    "thiefSn": [
+      1061
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 116,
+    "isDisplay": 1,
+    "thiefLimit": 1061
+  },
+  {
+    "sn": 33,
+    "PhotoCharacterModel": "wind_uniform_swimsuit",
+    "modelName": "多祢村理子·夏日",
+    "modelPic": "Tongyong-touxiang-changfu-windS.png",
+    "thiefSn": [
+      1051
+    ],
+    "questSn": 0,
+    "coopLevel": [],
+    "sort": 117,
+    "isDisplay": 1,
+    "thiefLimit": 1051
+  },
+  {
+    "sn": 34,
+    "PhotoCharacterModel": "n_zhushou_swimsuit",
+    "modelName": "梅洛普·夏日",
+    "modelPic": "Tongyong-touxiang-changfu-meiluopuS.png",
+    "thiefSn": [],
+    "questSn": 10020,
+    "coopLevel": [],
+    "sort": 118,
+    "isDisplay": 1,
+    "thiefLimit": 10020
   }
 ]

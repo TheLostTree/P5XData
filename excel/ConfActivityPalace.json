@@ -28,9 +28,11 @@
     ],
     "defeatType": [
       1,
-      4
+      4,
+      5
     ],
     "defeatParam": [
+      "0",
       "0",
       "0"
     ],
@@ -368,9 +370,11 @@
     ],
     "defeatType": [
       1,
-      4
+      4,
+      5
     ],
     "defeatParam": [
+      "0",
       "0",
       "0"
     ],
@@ -596,6 +600,875 @@
       911973,
       911981,
       911972
+    ]
+  },
+  {
+    "sn": 20001,
+    "openTime": "2024-05-23 05:00:00",
+    "activitySn": 3200002,
+    "title": 2,
+    "num": 1,
+    "name": "重逢",
+    "desc": "异界导航似乎又一次发生了异常。这次是被带到了像美术馆一样的地方……在这里，还能再次见到『他们』吗？",
+    "frontPalaceSn": [],
+    "type": 1,
+    "sceneSn": [
+      42011,
+      42012
+    ],
+    "storySn": [],
+    "questSn": 20461,
+    "teleportPointSn": [],
+    "firstAwardSn": 436601,
+    "explorationGroup": 117,
+    "picture": "huodong-linkR2-pic8.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20466
+    ],
+    "defeatType": [
+      1,
+      4,
+      5
+    ],
+    "defeatParam": [
+      "0",
+      "0",
+      "0"
+    ],
+    "victoryText": "成功抵达目标地点",
+    "tryoutTeam": 311,
+    "monsterShow": [
+      912011,
+      912311,
+      912511,
+      912521,
+      912531
+    ]
+  },
+  {
+    "sn": 20002,
+    "openTime": "2024-05-23 05:00:00",
+    "activitySn": 3200002,
+    "title": 2,
+    "num": 2,
+    "name": "第二个『核心』？",
+    "desc": "进入美术馆后，怪盗团遇到了『PANTHER』和『FOX』。看来这次他们似乎又一次与同伴走散了。为了寻找彼此的同伴，几人建立了合作关系。在这期间，路菲尔似乎有些在意的事情。",
+    "frontPalaceSn": [
+      20001
+    ],
+    "type": 1,
+    "sceneSn": [
+      42021
+    ],
+    "storySn": [],
+    "questSn": 20485,
+    "teleportPointSn": [],
+    "firstAwardSn": 436602,
+    "explorationGroup": 118,
+    "picture": "huodong-linkR2-pic5.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20490
+    ],
+    "defeatType": [],
+    "defeatParam": [],
+    "victoryText": "获得美术馆的宝物",
+    "tryoutTeam": 312,
+    "monsterShow": [
+      912021,
+      912321,
+      912401,
+      912541
+    ]
+  },
+  {
+    "sn": 20003,
+    "openTime": "2024-05-23 18:00:00",
+    "activitySn": 3200002,
+    "title": 2,
+    "num": 3,
+    "name": "反抗的决心",
+    "desc": "在寻找同伴的过程中，『FOX』在美术馆墙上的画作前驻足。这个地方与某个宫殿很相似，而他似乎与那个宫殿之主因缘匪浅。",
+    "frontPalaceSn": [
+      20002
+    ],
+    "type": 1,
+    "sceneSn": [
+      42031
+    ],
+    "storySn": [],
+    "questSn": 20510,
+    "teleportPointSn": [],
+    "firstAwardSn": 436603,
+    "explorationGroup": 119,
+    "picture": "huodong-linkR2-pic4.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20517
+    ],
+    "defeatType": [],
+    "defeatParam": [],
+    "victoryText": "获得美术馆的宝物",
+    "tryoutTeam": 313,
+    "monsterShow": [
+      912031,
+      912331,
+      912411,
+      912601,
+      912631
+    ]
+  },
+  {
+    "sn": 20004,
+    "openTime": "2024-05-23 18:00:00",
+    "activitySn": 3200002,
+    "title": 2,
+    "num": 4,
+    "name": "寻找密码吧！",
+    "desc": "怪盗团等人朝着第二展示厅前进。但是，美术馆内的安保系统似乎相当严格……",
+    "frontPalaceSn": [
+      20003
+    ],
+    "type": 1,
+    "sceneSn": [
+      42041
+    ],
+    "storySn": [],
+    "questSn": 20535,
+    "teleportPointSn": [],
+    "firstAwardSn": 436604,
+    "explorationGroup": 120,
+    "picture": "huodong-linkR2-pic5.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20548
+    ],
+    "defeatType": [],
+    "defeatParam": [],
+    "victoryText": "获得美术馆的宝物",
+    "tryoutTeam": 314,
+    "monsterShow": [
+      912041,
+      912161,
+      912341,
+      912661
+    ]
+  },
+  {
+    "sn": 20005,
+    "openTime": "2024-05-24 05:00:00",
+    "activitySn": 3200002,
+    "title": 2,
+    "num": 5,
+    "name": "冷静、强行突破",
+    "desc": "在克服各种安保系统的同时，怪盗团在美术馆内寻找『核心』。在前面等待他们的是……",
+    "frontPalaceSn": [
+      20004
+    ],
+    "type": 1,
+    "sceneSn": [
+      42051,
+      42052,
+      42053
+    ],
+    "storySn": [],
+    "questSn": 20560,
+    "teleportPointSn": [],
+    "firstAwardSn": 436605,
+    "explorationGroup": 121,
+    "picture": "huodong-linkR2-pic4.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20567
+    ],
+    "defeatType": [
+      1,
+      4,
+      5
+    ],
+    "defeatParam": [
+      "0",
+      "0",
+      "0"
+    ],
+    "victoryText": "成功抵达目标地点",
+    "tryoutTeam": 315,
+    "monsterShow": [
+      912051,
+      912691,
+      912701,
+      912721
+    ]
+  },
+  {
+    "sn": 20006,
+    "openTime": "2024-05-24 05:00:00",
+    "activitySn": 3200002,
+    "title": 2,
+    "num": 6,
+    "name": "向更深处前进",
+    "desc": "虽然顺利取得了『核心』，但反应表明似乎这里还存在着一个『核心』。为了获得剩余的『核心』，怪盗团继续向深处前进。",
+    "frontPalaceSn": [
+      20005
+    ],
+    "type": 1,
+    "sceneSn": [
+      42061
+    ],
+    "storySn": [],
+    "questSn": 20585,
+    "teleportPointSn": [],
+    "firstAwardSn": 436606,
+    "explorationGroup": 122,
+    "picture": "huodong-linkR2-pic8.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20590
+    ],
+    "defeatType": [],
+    "defeatParam": [],
+    "victoryText": "获得美术馆的宝物",
+    "tryoutTeam": 316,
+    "monsterShow": [
+      912171,
+      912181,
+      912351,
+      912751
+    ]
+  },
+  {
+    "sn": 20007,
+    "openTime": "2024-05-25 05:00:00",
+    "activitySn": 3200002,
+    "title": 2,
+    "num": 7,
+    "name": "猫鼠游戏",
+    "desc": "为了确认通往美术馆外的道路，怪盗团朝着警备室前进。但是，路上的安保措施和巡逻的阴影都不容小觑。",
+    "frontPalaceSn": [
+      20006
+    ],
+    "type": 1,
+    "sceneSn": [
+      42071
+    ],
+    "storySn": [],
+    "questSn": 20610,
+    "teleportPointSn": [],
+    "firstAwardSn": 436607,
+    "explorationGroup": 123,
+    "picture": "huodong-linkR2-pic5.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20614
+    ],
+    "defeatType": [],
+    "defeatParam": [],
+    "victoryText": "获得美术馆的宝物",
+    "tryoutTeam": 317,
+    "monsterShow": [
+      912191,
+      912361,
+      912761,
+      912771,
+      912781,
+      912881
+    ]
+  },
+  {
+    "sn": 20008,
+    "openTime": "2024-05-26 05:00:00",
+    "activitySn": 3200002,
+    "title": 2,
+    "num": 8,
+    "name": "绘画迷宫",
+    "desc": "就在即将到达美术馆的出口时，怪盗团面临了意想不到的困难。他们能够设法克服难关吗？",
+    "frontPalaceSn": [
+      20007
+    ],
+    "type": 1,
+    "sceneSn": [
+      42081,
+      42082
+    ],
+    "storySn": [],
+    "questSn": 20635,
+    "teleportPointSn": [],
+    "firstAwardSn": 436608,
+    "explorationGroup": 124,
+    "picture": "huodong-linkR2-pic4.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20640
+    ],
+    "defeatType": [],
+    "defeatParam": [],
+    "victoryText": "获得美术馆的宝物",
+    "tryoutTeam": 318,
+    "monsterShow": [
+      912081,
+      912201,
+      912811,
+      912821,
+      912831
+    ]
+  },
+  {
+    "sn": 20009,
+    "openTime": "2024-05-27 05:00:00",
+    "activitySn": 3200002,
+    "title": 2,
+    "num": 9,
+    "name": "奔跑吧！",
+    "desc": "『核心』的气息越来越近了。出口就在眼前。",
+    "frontPalaceSn": [
+      20008
+    ],
+    "type": 1,
+    "sceneSn": [
+      42091,
+      42092,
+      42093
+    ],
+    "storySn": [],
+    "questSn": 20660,
+    "teleportPointSn": [],
+    "firstAwardSn": 436609,
+    "explorationGroup": 125,
+    "picture": "huodong-linkR2-pic5.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20664
+    ],
+    "defeatType": [],
+    "defeatParam": [],
+    "victoryText": "获得美术馆的宝物",
+    "tryoutTeam": 319,
+    "monsterShow": [
+      912091,
+      912381,
+      912851,
+      912861,
+      912871
+    ]
+  },
+  {
+    "sn": 20010,
+    "openTime": "2024-05-28 05:00:00",
+    "activitySn": 3200002,
+    "title": 2,
+    "num": 10,
+    "name": "哪个是本体？",
+    "desc": "几经波折，怪盗团成功离开了美术馆。然而，他们看到了出乎意料的东西……",
+    "frontPalaceSn": [
+      20009
+    ],
+    "type": 1,
+    "sceneSn": [
+      42101,
+      42102
+    ],
+    "storySn": [],
+    "questSn": 20685,
+    "teleportPointSn": [],
+    "firstAwardSn": 436610,
+    "explorationGroup": 126,
+    "picture": "huodong-linkR2-pic6.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20687
+    ],
+    "defeatType": [
+      1,
+      4,
+      5
+    ],
+    "defeatParam": [
+      "0",
+      "0",
+      "0"
+    ],
+    "victoryText": "成功抵达目标地点",
+    "tryoutTeam": 320,
+    "monsterShow": [
+      912501,
+      912502,
+      912503,
+      912504
+    ]
+  },
+  {
+    "sn": 20011,
+    "openTime": "2024-06-20 05:00:00",
+    "activitySn": 3200003,
+    "title": 3,
+    "num": 1,
+    "name": "「QUEEN」登场",
+    "desc": "怪盗团抵达了一个与金城宫殿非常相似的地方。在充斥着金钱欲望的丑陋景象中，所有人都无法掩饰自己的反感。宫殿前，他们遇见了迷路的CLOSER，以及另一个可靠的新成员。",
+    "frontPalaceSn": [],
+    "type": 1,
+    "sceneSn": [
+      42111,
+      42112
+    ],
+    "storySn": [],
+    "questSn": 20710,
+    "teleportPointSn": [],
+    "firstAwardSn": 436611,
+    "explorationGroup": 127,
+    "picture": "huodong-linkR2-pic2.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20716
+    ],
+    "defeatType": [],
+    "defeatParam": [],
+    "victoryText": "前往银行大厅监控室",
+    "tryoutTeam": 411,
+    "monsterShow": [
+      913011,
+      913511,
+      913521
+    ]
+  },
+  {
+    "sn": 20012,
+    "openTime": "2024-06-20 05:00:00",
+    "activitySn": 3200003,
+    "title": 3,
+    "num": 2,
+    "name": "进阶的妄想",
+    "desc": "宫殿内到处散落着纸币以及成捆的钞票。\n如果这些是真的……怪盗团的成员们纷纷想象着各种可能性。",
+    "frontPalaceSn": [
+      20011
+    ],
+    "type": 1,
+    "sceneSn": [
+      42121
+    ],
+    "storySn": [],
+    "questSn": 20735,
+    "teleportPointSn": [],
+    "firstAwardSn": 436612,
+    "explorationGroup": 128,
+    "picture": "huodong-linkR2-pic3.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20748
+    ],
+    "defeatType": [],
+    "defeatParam": [],
+    "victoryText": "调查银行大厅接待室",
+    "tryoutTeam": 412,
+    "monsterShow": [
+      913021,
+      913311,
+      913531,
+      913541,
+      913561
+    ]
+  },
+  {
+    "sn": 20013,
+    "openTime": "2024-06-20 05:00:00",
+    "activitySn": 3200003,
+    "title": 3,
+    "num": 3,
+    "name": "向地下前进",
+    "desc": "看来，银行的地下似乎有『核心』的线索。\n怪盗团开始探索通往地下的路径。",
+    "frontPalaceSn": [
+      20012
+    ],
+    "type": 1,
+    "sceneSn": [
+      42131,
+      42132
+    ],
+    "storySn": [],
+    "questSn": 20760,
+    "teleportPointSn": [],
+    "firstAwardSn": 436613,
+    "explorationGroup": 129,
+    "picture": "huodong-linkR2-pic7.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20766
+    ],
+    "defeatType": [],
+    "defeatParam": [],
+    "victoryText": "前往银行地下层",
+    "tryoutTeam": 0,
+    "monsterShow": [
+      913031,
+      913571,
+      913581,
+      913591,
+      913601
+    ]
+  },
+  {
+    "sn": 20014,
+    "openTime": "2024-06-20 05:00:00",
+    "activitySn": 3200003,
+    "title": 3,
+    "num": 4,
+    "name": "地下探索",
+    "desc": "除了巡逻的阴影外，各种机关陷阱也阻挡着怪盗团的前进。\n为了获得『核心』，怪盗们必须突破这一切才能前进。",
+    "frontPalaceSn": [
+      20013
+    ],
+    "type": 1,
+    "sceneSn": [
+      42141
+    ],
+    "storySn": [],
+    "questSn": 20785,
+    "teleportPointSn": [],
+    "firstAwardSn": 436614,
+    "explorationGroup": 130,
+    "picture": "huodong-linkR2-pic3.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20796
+    ],
+    "defeatType": [
+      2
+    ],
+    "defeatParam": [
+      "99"
+    ],
+    "victoryText": "调查员工通道东侧",
+    "tryoutTeam": 414,
+    "monsterShow": [
+      913041,
+      913211,
+      913621,
+      913631
+    ]
+  },
+  {
+    "sn": 20015,
+    "openTime": "2024-06-21 05:00:00",
+    "activitySn": 3200003,
+    "title": 3,
+    "num": 5,
+    "name": "透过屏幕的引导",
+    "desc": "怪盗团被阴影包围，陷入绝境。\n但是，出现了意外的转机。",
+    "frontPalaceSn": [
+      20014
+    ],
+    "type": 1,
+    "sceneSn": [
+      42151
+    ],
+    "storySn": [],
+    "questSn": 20810,
+    "teleportPointSn": [],
+    "firstAwardSn": 436615,
+    "explorationGroup": 131,
+    "picture": "huodong-linkR2-pic2.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20818
+    ],
+    "defeatType": [
+      2
+    ],
+    "defeatParam": [
+      "99"
+    ],
+    "victoryText": "前往员工通道监控室",
+    "tryoutTeam": 415,
+    "monsterShow": [
+      913051,
+      913221,
+      913331,
+      913641
+    ]
+  },
+  {
+    "sn": 20016,
+    "openTime": "2024-06-21 05:00:00",
+    "activitySn": 3200003,
+    "title": 3,
+    "num": 6,
+    "name": "目标，大金库！",
+    "desc": "摆脱了危机的怪盗团继续展开探索。\n他们将地下大金库定为下一个目标。",
+    "frontPalaceSn": [
+      20015
+    ],
+    "type": 1,
+    "sceneSn": [
+      42161,
+      42162
+    ],
+    "storySn": [],
+    "questSn": 20835,
+    "teleportPointSn": [
+      42161101,
+      42161102,
+      42162101
+    ],
+    "firstAwardSn": 436616,
+    "explorationGroup": 132,
+    "picture": "huodong-linkR2-pic7.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20847
+    ],
+    "defeatType": [
+      2
+    ],
+    "defeatParam": [
+      "99"
+    ],
+    "victoryText": "前往洗钱办公室最下层",
+    "tryoutTeam": 416,
+    "monsterShow": [
+      913061,
+      913231,
+      913671,
+      913681,
+      913701
+    ]
+  },
+  {
+    "sn": 20017,
+    "openTime": "2024-06-22 05:00:00",
+    "activitySn": 3200003,
+    "title": 3,
+    "num": 7,
+    "name": "动员大会",
+    "desc": "怪盗团抵达大金库前。从此处开始，众人将面临更加严峻的战斗。SKULL建议在进入大金库之前进行动员大会。",
+    "frontPalaceSn": [
+      20016
+    ],
+    "type": 1,
+    "sceneSn": [
+      42171,
+      42172
+    ],
+    "storySn": [],
+    "questSn": 20860,
+    "teleportPointSn": [
+      42172101,
+      42172102
+    ],
+    "firstAwardSn": 436617,
+    "explorationGroup": 133,
+    "picture": "huodong-linkR2-pic2.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20871
+    ],
+    "defeatType": [
+      2
+    ],
+    "defeatParam": [
+      "99"
+    ],
+    "victoryText": "调查地下大金库第一层",
+    "tryoutTeam": 417,
+    "monsterShow": [
+      913071,
+      913241,
+      913721
+    ]
+  },
+  {
+    "sn": 20018,
+    "openTime": "2024-06-23 05:00:00",
+    "activitySn": 3200003,
+    "title": 3,
+    "num": 8,
+    "name": "大金库探索",
+    "desc": "大金库区域的探索终于开始了。\n不仅是陷阱和机关，强大的阴影也在等待着怪盗团。",
+    "frontPalaceSn": [
+      20017
+    ],
+    "type": 1,
+    "sceneSn": [
+      42181
+    ],
+    "storySn": [],
+    "questSn": 20885,
+    "teleportPointSn": [
+      42181101
+    ],
+    "firstAwardSn": 436618,
+    "explorationGroup": 134,
+    "picture": "huodong-linkR2-pic7.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20897
+    ],
+    "defeatType": [
+      2
+    ],
+    "defeatParam": [
+      "99"
+    ],
+    "victoryText": "调查地下大金库第二层",
+    "tryoutTeam": 0,
+    "monsterShow": [
+      913081,
+      913251,
+      913741,
+      913751,
+      913761
+    ]
+  },
+  {
+    "sn": 20019,
+    "openTime": "2024-06-24 05:00:00",
+    "activitySn": 3200003,
+    "title": 3,
+    "num": 9,
+    "name": "续・大金库探索",
+    "desc": "『核心』的气息越来越近。\n大金库的最深处似乎就是这次旅程的终点。",
+    "frontPalaceSn": [
+      20018
+    ],
+    "type": 1,
+    "sceneSn": [
+      42191
+    ],
+    "storySn": [],
+    "questSn": 20910,
+    "teleportPointSn": [
+      42191101,
+      42191102,
+      42191103
+    ],
+    "firstAwardSn": 436619,
+    "explorationGroup": 135,
+    "picture": "huodong-linkR2-pic3.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20918
+    ],
+    "defeatType": [
+      2
+    ],
+    "defeatParam": [
+      "99"
+    ],
+    "victoryText": "调查地下大金库第三层",
+    "tryoutTeam": 419,
+    "monsterShow": [
+      913091,
+      913771,
+      913781,
+      913791,
+      913801,
+      913811,
+      913821,
+      913831
+    ]
+  },
+  {
+    "sn": 20020,
+    "openTime": "2024-06-25 05:00:00",
+    "activitySn": 3200003,
+    "title": 3,
+    "num": 10,
+    "name": "最后的决战",
+    "desc": "克服重重难关，怪盗团终于抵达了『核心』的所在地。\n他们能否击败最后的强敌——奇怪的阴影，并成功夺取『核心』呢？",
+    "frontPalaceSn": [
+      20019
+    ],
+    "type": 1,
+    "sceneSn": [
+      42201,
+      42202,
+      42203,
+      42204,
+      42205
+    ],
+    "storySn": [],
+    "questSn": 20935,
+    "teleportPointSn": [],
+    "firstAwardSn": 436620,
+    "explorationGroup": 136,
+    "picture": "huodong-linkR2-pic1.png",
+    "uiType": 2,
+    "victoryType": [
+      1
+    ],
+    "victoryParam": [
+      20941
+    ],
+    "defeatType": [
+      1,
+      4,
+      5
+    ],
+    "defeatParam": [
+      "0",
+      "0",
+      "0"
+    ],
+    "victoryText": "获得银行的宝物",
+    "tryoutTeam": 420,
+    "monsterShow": [
+      913501
     ]
   }
 ]

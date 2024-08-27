@@ -32,7 +32,6 @@
     "nameIcon": "Tongyong-mingzi-28-i18n.png",
     "verticalPainting": "huoban-lihui-01.png",
     "nameCard": [
-      "huoban-name01-i18n.png",
       "huoban-name01-2-i18n.png",
       "huoban-name01-3-i18n.png"
     ],
@@ -59,7 +58,25 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": "协同者成为您的私人接待员"
+    "loverNotice": "协同者成为您的私人接待员",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   },
   {
     "sn": 2,
@@ -94,7 +111,6 @@
     "nameIcon": "Tongyong-mingzi-26-i18n.png",
     "verticalPainting": "huoban-lihui-02.png",
     "nameCard": [
-      "huoban-name02-i18n.png",
       "huoban-name02-2-i18n.png",
       "huoban-name02-3-i18n.png"
     ],
@@ -121,7 +137,25 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": "可选择与协同者成为心灵伴侣"
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 1,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   },
   {
     "sn": 3,
@@ -156,7 +190,6 @@
     "nameIcon": "Tongyong-mingzi-27.png",
     "verticalPainting": "huoban-lihui-03.png",
     "nameCard": [
-      "huoban-name03-i18n.png",
       "huoban-name03-2-i18n.png",
       "huoban-name03-3-i18n.png"
     ],
@@ -183,7 +216,25 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": "可选择与协同者成为心灵伴侣"
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   },
   {
     "sn": 4,
@@ -207,7 +258,6 @@
     "nameIcon": "Tongyong-mingzi-19-i18n.png",
     "verticalPainting": "huoban-lihui-04.png",
     "nameCard": [
-      "huoban-name04-i18n.png",
       "huoban-name04-2-i18n.png",
       "huoban-name04-3-i18n.png"
     ],
@@ -234,7 +284,25 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": ""
+    "loverNotice": "",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   },
   {
     "sn": 5,
@@ -269,7 +337,6 @@
     "nameIcon": "Tongyong-mingzi-32-i18n.png",
     "verticalPainting": "huoban-lihui-08.png",
     "nameCard": [
-      "huoban-name08-i18n.png",
       "huoban-name08-2-i18n.png",
       "huoban-name08-3-i18n.png"
     ],
@@ -296,14 +363,32 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": "与协同者成为亲密挚友"
+    "loverNotice": "与协同者成为亲密挚友",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   },
   {
     "sn": 6,
     "name": "黑谷清",
     "unlockQuest": 12601,
     "lockDisplayType": 2,
-    "isDisplay": 0,
+    "isDisplay": 1,
     "displayColor": [
       0,
       1,
@@ -331,7 +416,6 @@
     "nameIcon": "Tongyong-mingzi-33-i18n.png",
     "verticalPainting": "huoban-lihui-05.png",
     "nameCard": [
-      "huoban-name05-i18n.png",
       "huoban-name05-2-i18n.png",
       "huoban-name05-3-i18n.png"
     ],
@@ -342,7 +426,7 @@
     "cvJpName0": "小林裕介",
     "abilityDes": "<color=#FF0000>黑谷清</color>收集了很多<color=#FF0000>书籍</color>，阅读之后可以增长很多见识。",
     "modelSn": "kii_uniform",
-    "mainTL": "TL_CoopTrain_kii_Main",
+    "mainTL": "TL_CoopTrain_Key_Main",
     "soundOne": "syn32_001_1",
     "soundTwo": "syn32_002_1",
     "soundThree": "syn32_003_1",
@@ -358,7 +442,25 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": "与协同者成为亲密挚友"
+    "loverNotice": "与协同者成为亲密挚友",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   },
   {
     "sn": 7,
@@ -393,7 +495,6 @@
     "nameIcon": "Tongyong-mingzi-34-i18n.png",
     "verticalPainting": "huoban-lihui-09.png",
     "nameCard": [
-      "huoban-name09-i18n.png",
       "huoban-name09-2-i18n.png",
       "huoban-name09-3-i18n.png"
     ],
@@ -420,7 +521,25 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": "可选择与协同者成为心灵伴侣"
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 3,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   },
   {
     "sn": 8,
@@ -455,7 +574,6 @@
     "nameIcon": "Tongyong-mingzi-36-i18n.png",
     "verticalPainting": "huoban-lihui-06.png",
     "nameCard": [
-      "huoban-name06-i18n.png",
       "huoban-name06-2-i18n.png",
       "huoban-name06-3-i18n.png"
     ],
@@ -482,7 +600,25 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": "可选择与协同者成为心灵伴侣"
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 2,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   },
   {
     "sn": 9,
@@ -517,7 +653,6 @@
     "nameIcon": "Tongyong-mingzi-31-i18n.png",
     "verticalPainting": "huoban-lihui-07.png",
     "nameCard": [
-      "huoban-name07-i18n.png",
       "huoban-name07-2-i18n.png",
       "huoban-name07-3-i18n.png"
     ],
@@ -544,7 +679,25 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": "与协同者成为亲密挚友"
+    "loverNotice": "与协同者成为亲密挚友",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   },
   {
     "sn": 10,
@@ -579,7 +732,6 @@
     "nameIcon": "Tongyong-mingzi-27.png",
     "verticalPainting": "huoban-lihui-11.png",
     "nameCard": [
-      "huoban-name11-i18n.png",
       "huoban-name11-2-i18n.png",
       "huoban-name11-3-i18n.png"
     ],
@@ -606,7 +758,25 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": "与协同者成为亲密挚友"
+    "loverNotice": "与协同者成为亲密挚友",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   },
   {
     "sn": 11,
@@ -641,7 +811,6 @@
     "nameIcon": "Tongyong-mingzi-30.png",
     "verticalPainting": "huoban-lihui-10.png",
     "nameCard": [
-      "huoban-name10.png",
       "huoban-name10-2.png",
       "huoban-name10-3.png"
     ],
@@ -668,6 +837,577 @@
       "VO_Syn_CoopMAX_MLP__02",
       "VO_Syn_CoopMAX_MLP__03"
     ],
-    "loverNotice": "与协同者成为亲密挚友"
+    "loverNotice": "与协同者成为亲密挚友",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
+  },
+  {
+    "sn": 12,
+    "name": "坂井绫香",
+    "unlockQuest": 12086,
+    "lockDisplayType": 2,
+    "isDisplay": 1,
+    "displayColor": [
+      0,
+      1,
+      2
+    ],
+    "displayChangeLevel": 15,
+    "like": [
+      303073,
+      303211,
+      303252,
+      303260,
+      303267,
+      303268,
+      303269,
+      303270,
+      303271,
+      305945
+    ],
+    "birthday": "",
+    "npcSn": 0,
+    "homeNpcSn": 0,
+    "eventSN": 0,
+    "gender": "2",
+    "faceIcon": "Tongyong-touxiang-changfu-chord.png",
+    "nameIcon": "Tongyong-mingzi-27.png",
+    "verticalPainting": "huoban-lihui-13.png",
+    "nameCard": [
+      "huoban-name13-2-i18n.png",
+      "huoban-name13-3-i18n.png"
+    ],
+    "snsShow": 0,
+    "snsIcon": "touxiang-liaotian-new-wind.png",
+    "snsColor": "FFA500",
+    "cvCnName0": "孙艳琦",
+    "cvJpName0": "牧野由依",
+    "abilityDes": "<color=#FF0000>坂井绫香</color>能教给你各种<color=#FF0000>演奏技巧</color>，可以帮助你在轻音社的活动中有更好的表现。",
+    "modelSn": "GuitarGirl",
+    "mainTL": "TL_CoopTrain_Chord_Main",
+    "soundOne": "Syn48_001_1",
+    "soundTwo": "Syn48_002_1",
+    "soundThree": "Syn48_003_1",
+    "soundFour": "Syn48_004_1",
+    "soundFavorite": "Syn48_005_1",
+    "unlockSound": [
+      "syn1002_099_1",
+      "syn1002_099_2",
+      "syn1002_099_3"
+    ],
+    "fullLevelSound": [
+      "VO_Syn_CoopMAX_MLP__01",
+      "VO_Syn_CoopMAX_MLP__02",
+      "VO_Syn_CoopMAX_MLP__03"
+    ],
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-2-1.png",
+      "huodong-newcoop-2-2.png",
+      "huodong-newcoop-2-3.png"
+    ],
+    "coopActivityImagePosition": [
+      37.8,
+      -103.13
+    ],
+    "coopActivityImageRotation": -2.7,
+    "coopActivityImageScale": 1.2,
+    "coopActivityDescImagePosition": [
+      163,
+      91
+    ],
+    "coopActivityDescImageRotation": 3.1,
+    "coopActivityDescImageScale": 1
+  },
+  {
+    "sn": 13,
+    "name": "椎名悠美",
+    "unlockQuest": 12081,
+    "lockDisplayType": 2,
+    "isDisplay": 1,
+    "displayColor": [
+      0,
+      1,
+      2
+    ],
+    "displayChangeLevel": 15,
+    "like": [
+      303082,
+      303219,
+      303228,
+      303234,
+      303262,
+      303263,
+      303264,
+      303265,
+      303266,
+      305941
+    ],
+    "birthday": "",
+    "npcSn": 0,
+    "homeNpcSn": 0,
+    "eventSN": 0,
+    "gender": "2",
+    "faceIcon": "Tongyong-touxiang-changfu-phoebe.png",
+    "nameIcon": "Tongyong-mingzi-27.png",
+    "verticalPainting": "huoban-lihui-12.png",
+    "nameCard": [
+      "huoban-name12-2-i18n.png",
+      "huoban-name12-3-i18n.png"
+    ],
+    "snsShow": 0,
+    "snsIcon": "touxiang-liaotian-new-phoebe.png",
+    "snsColor": "FFA500",
+    "cvCnName0": "宋媛媛",
+    "cvJpName0": "原由实",
+    "abilityDes": "<color=#FF0000>椎名悠美</color>能教给你各种<color=#FF0000>饮品</color>的制作方式，帮助你在烹饪时做出更优秀的饮品。",
+    "modelSn": "phoebe_normal",
+    "mainTL": "TL_CoopTrain_Phoebe_Main",
+    "soundOne": "Syn47_001_1",
+    "soundTwo": "Syn47_002_1",
+    "soundThree": "Syn47_003_1",
+    "soundFour": "Syn47_004_1",
+    "soundFavorite": "Syn47_005_1",
+    "unlockSound": [
+      "syn1002_099_1",
+      "syn1002_099_2",
+      "syn1002_099_3"
+    ],
+    "fullLevelSound": [
+      "VO_Syn_CoopMAX_MLP__01",
+      "VO_Syn_CoopMAX_MLP__02",
+      "VO_Syn_CoopMAX_MLP__03"
+    ],
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
+  },
+  {
+    "sn": 14,
+    "name": "佐原海夕",
+    "unlockQuest": 12040,
+    "lockDisplayType": 2,
+    "isDisplay": 0,
+    "displayColor": [
+      0,
+      1,
+      2
+    ],
+    "displayChangeLevel": 15,
+    "like": [
+      303069,
+      303083,
+      303210,
+      303215,
+      303227,
+      303236,
+      303238,
+      303239,
+      303240,
+      303257
+    ],
+    "birthday": "",
+    "npcSn": 0,
+    "homeNpcSn": 0,
+    "eventSN": 0,
+    "gender": "2",
+    "faceIcon": "Tongyong-touxiang-changfu-14.png",
+    "nameIcon": "Tongyong-mingzi-27.png",
+    "verticalPainting": "huoban-lihui-03.png",
+    "nameCard": [
+      "huoban-name03-2-i18n.png",
+      "huoban-name03-3-i18n.png"
+    ],
+    "snsShow": 0,
+    "snsIcon": "touxiang-liaotian-new-wind.png",
+    "snsColor": "FFA500",
+    "cvCnName0": "牧野由依",
+    "cvJpName0": "孙艳琦",
+    "abilityDes": "<color=#FF0000>坂井绫香</color>能教给你各种<color=#FF0000>演奏技巧</color>，可以帮助你在轻音社的活动中有更好的表现。",
+    "modelSn": "GuitarGirl",
+    "mainTL": "TL_CoopTrain_Chord_Main",
+    "soundOne": "Syn_Wind0001",
+    "soundTwo": "Syn_Wind0004",
+    "soundThree": "Syn_Wind0007",
+    "soundFour": "Syn_Wind0010",
+    "soundFavorite": "Syn_Wind0015",
+    "unlockSound": [
+      "syn1002_099_1",
+      "syn1002_099_2",
+      "syn1002_099_3"
+    ],
+    "fullLevelSound": [
+      "VO_Syn_CoopMAX_MLP__01",
+      "VO_Syn_CoopMAX_MLP__02",
+      "VO_Syn_CoopMAX_MLP__03"
+    ],
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
+  },
+  {
+    "sn": 15,
+    "name": "北里基良",
+    "unlockQuest": 12040,
+    "lockDisplayType": 2,
+    "isDisplay": 0,
+    "displayColor": [
+      0,
+      1,
+      2
+    ],
+    "displayChangeLevel": 15,
+    "like": [
+      303069,
+      303083,
+      303210,
+      303215,
+      303227,
+      303236,
+      303238,
+      303239,
+      303240,
+      303257
+    ],
+    "birthday": "",
+    "npcSn": 0,
+    "homeNpcSn": 0,
+    "eventSN": 0,
+    "gender": "2",
+    "faceIcon": "Tongyong-touxiang-changfu-14.png",
+    "nameIcon": "Tongyong-mingzi-27.png",
+    "verticalPainting": "huoban-lihui-03.png",
+    "nameCard": [
+      "huoban-name03-2-i18n.png",
+      "huoban-name03-3-i18n.png"
+    ],
+    "snsShow": 0,
+    "snsIcon": "touxiang-liaotian-new-wind.png",
+    "snsColor": "FFA500",
+    "cvCnName0": "牧野由依",
+    "cvJpName0": "孙艳琦",
+    "abilityDes": "<color=#FF0000>坂井绫香</color>能教给你各种<color=#FF0000>演奏技巧</color>，可以帮助你在轻音社的活动中有更好的表现。",
+    "modelSn": "GuitarGirl",
+    "mainTL": "TL_CoopTrain_Chord_Main",
+    "soundOne": "Syn_Wind0001",
+    "soundTwo": "Syn_Wind0004",
+    "soundThree": "Syn_Wind0007",
+    "soundFour": "Syn_Wind0010",
+    "soundFavorite": "Syn_Wind0015",
+    "unlockSound": [
+      "syn1002_099_1",
+      "syn1002_099_2",
+      "syn1002_099_3"
+    ],
+    "fullLevelSound": [
+      "VO_Syn_CoopMAX_MLP__01",
+      "VO_Syn_CoopMAX_MLP__02",
+      "VO_Syn_CoopMAX_MLP__03"
+    ],
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
+  },
+  {
+    "sn": 16,
+    "name": "芦谷真咲",
+    "unlockQuest": 12040,
+    "lockDisplayType": 2,
+    "isDisplay": 0,
+    "displayColor": [
+      0,
+      1,
+      2
+    ],
+    "displayChangeLevel": 15,
+    "like": [
+      303069,
+      303083,
+      303210,
+      303215,
+      303227,
+      303236,
+      303238,
+      303239,
+      303240,
+      303257
+    ],
+    "birthday": "",
+    "npcSn": 0,
+    "homeNpcSn": 0,
+    "eventSN": 0,
+    "gender": "2",
+    "faceIcon": "Tongyong-touxiang-changfu-14.png",
+    "nameIcon": "Tongyong-mingzi-27.png",
+    "verticalPainting": "huoban-lihui-03.png",
+    "nameCard": [
+      "huoban-name03-2-i18n.png",
+      "huoban-name03-3-i18n.png"
+    ],
+    "snsShow": 0,
+    "snsIcon": "touxiang-liaotian-new-wind.png",
+    "snsColor": "FFA500",
+    "cvCnName0": "牧野由依",
+    "cvJpName0": "孙艳琦",
+    "abilityDes": "<color=#FF0000>坂井绫香</color>能教给你各种<color=#FF0000>演奏技巧</color>，可以帮助你在轻音社的活动中有更好的表现。",
+    "modelSn": "GuitarGirl",
+    "mainTL": "TL_CoopTrain_Chord_Main",
+    "soundOne": "Syn_Wind0001",
+    "soundTwo": "Syn_Wind0004",
+    "soundThree": "Syn_Wind0007",
+    "soundFour": "Syn_Wind0010",
+    "soundFavorite": "Syn_Wind0015",
+    "unlockSound": [
+      "syn1002_099_1",
+      "syn1002_099_2",
+      "syn1002_099_3"
+    ],
+    "fullLevelSound": [
+      "VO_Syn_CoopMAX_MLP__01",
+      "VO_Syn_CoopMAX_MLP__02",
+      "VO_Syn_CoopMAX_MLP__03"
+    ],
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
+  },
+  {
+    "sn": 17,
+    "name": "琴音·蒙塔涅",
+    "unlockQuest": 12040,
+    "lockDisplayType": 2,
+    "isDisplay": 0,
+    "displayColor": [
+      0,
+      1,
+      2
+    ],
+    "displayChangeLevel": 15,
+    "like": [
+      303069,
+      303083,
+      303210,
+      303215,
+      303227,
+      303236,
+      303238,
+      303239,
+      303240,
+      303257
+    ],
+    "birthday": "",
+    "npcSn": 0,
+    "homeNpcSn": 0,
+    "eventSN": 0,
+    "gender": "2",
+    "faceIcon": "Tongyong-touxiang-changfu-14.png",
+    "nameIcon": "Tongyong-mingzi-27.png",
+    "verticalPainting": "huoban-lihui-03.png",
+    "nameCard": [
+      "huoban-name03-2-i18n.png",
+      "huoban-name03-3-i18n.png"
+    ],
+    "snsShow": 0,
+    "snsIcon": "touxiang-liaotian-new-wind.png",
+    "snsColor": "FFA500",
+    "cvCnName0": "牧野由依",
+    "cvJpName0": "孙艳琦",
+    "abilityDes": "<color=#FF0000>坂井绫香</color>能教给你各种<color=#FF0000>演奏技巧</color>，可以帮助你在轻音社的活动中有更好的表现。",
+    "modelSn": "GuitarGirl",
+    "mainTL": "TL_CoopTrain_Chord_Main",
+    "soundOne": "Syn_Wind0001",
+    "soundTwo": "Syn_Wind0004",
+    "soundThree": "Syn_Wind0007",
+    "soundFour": "Syn_Wind0010",
+    "soundFavorite": "Syn_Wind0015",
+    "unlockSound": [
+      "syn1002_099_1",
+      "syn1002_099_2",
+      "syn1002_099_3"
+    ],
+    "fullLevelSound": [
+      "VO_Syn_CoopMAX_MLP__01",
+      "VO_Syn_CoopMAX_MLP__02",
+      "VO_Syn_CoopMAX_MLP__03"
+    ],
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
+  },
+  {
+    "sn": 18,
+    "name": "道玄坂琉七",
+    "unlockQuest": 12040,
+    "lockDisplayType": 2,
+    "isDisplay": 0,
+    "displayColor": [
+      0,
+      1,
+      2
+    ],
+    "displayChangeLevel": 15,
+    "like": [
+      303069,
+      303083,
+      303210,
+      303215,
+      303227,
+      303236,
+      303238,
+      303239,
+      303240,
+      303257
+    ],
+    "birthday": "",
+    "npcSn": 0,
+    "homeNpcSn": 0,
+    "eventSN": 0,
+    "gender": "2",
+    "faceIcon": "Tongyong-touxiang-changfu-14.png",
+    "nameIcon": "Tongyong-mingzi-27.png",
+    "verticalPainting": "huoban-lihui-03.png",
+    "nameCard": [
+      "huoban-name03-2-i18n.png",
+      "huoban-name03-3-i18n.png"
+    ],
+    "snsShow": 0,
+    "snsIcon": "touxiang-liaotian-new-wind.png",
+    "snsColor": "FFA500",
+    "cvCnName0": "牧野由依",
+    "cvJpName0": "孙艳琦",
+    "abilityDes": "<color=#FF0000>坂井绫香</color>能教给你各种<color=#FF0000>演奏技巧</color>，可以帮助你在轻音社的活动中有更好的表现。",
+    "modelSn": "GuitarGirl",
+    "mainTL": "TL_CoopTrain_Chord_Main",
+    "soundOne": "Syn_Wind0001",
+    "soundTwo": "Syn_Wind0004",
+    "soundThree": "Syn_Wind0007",
+    "soundFour": "Syn_Wind0010",
+    "soundFavorite": "Syn_Wind0015",
+    "unlockSound": [
+      "syn1002_099_1",
+      "syn1002_099_2",
+      "syn1002_099_3"
+    ],
+    "fullLevelSound": [
+      "VO_Syn_CoopMAX_MLP__01",
+      "VO_Syn_CoopMAX_MLP__02",
+      "VO_Syn_CoopMAX_MLP__03"
+    ],
+    "loverNotice": "可选择与协同者成为心灵伴侣",
+    "coopReset": 0,
+    "coopActivityImage": [
+      "huodong-newcoop-1-1.png",
+      "huodong-newcoop-1-2.png",
+      "huodong-newcoop-1-3.png"
+    ],
+    "coopActivityImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityImageRotation": 0,
+    "coopActivityImageScale": 1,
+    "coopActivityDescImagePosition": [
+      0,
+      0
+    ],
+    "coopActivityDescImageRotation": 0,
+    "coopActivityDescImageScale": 1
   }
 ]

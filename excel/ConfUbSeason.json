@@ -43,7 +43,8 @@
     "assistaCount": 1,
     "activeGroup": 1,
     "scoreGroup": 1,
-    "rankGroup": 1
+    "rankGroup": 1,
+    "scoreNum": 2
   },
   {
     "sn": 2,
@@ -89,7 +90,8 @@
     "assistaCount": 1,
     "activeGroup": 2,
     "scoreGroup": 2,
-    "rankGroup": 2
+    "rankGroup": 2,
+    "scoreNum": 2
   },
   {
     "sn": 3,
@@ -119,7 +121,8 @@
     "assistaCount": 1,
     "activeGroup": 1,
     "scoreGroup": 1,
-    "rankGroup": 1
+    "rankGroup": 1,
+    "scoreNum": 2
   },
   {
     "sn": 4,
@@ -149,7 +152,8 @@
     "assistaCount": 1,
     "activeGroup": 2,
     "scoreGroup": 2,
-    "rankGroup": 2
+    "rankGroup": 2,
+    "scoreNum": 2
   },
   {
     "sn": 5,
@@ -187,7 +191,8 @@
     "assistaCount": 1,
     "activeGroup": 3,
     "scoreGroup": 3,
-    "rankGroup": 3
+    "rankGroup": 3,
+    "scoreNum": 2
   },
   {
     "sn": 6,
@@ -215,7 +220,8 @@
     "assistaCount": 1,
     "activeGroup": 1,
     "scoreGroup": 1,
-    "rankGroup": 1
+    "rankGroup": 1,
+    "scoreNum": 2
   },
   {
     "sn": 7,
@@ -243,7 +249,8 @@
     "assistaCount": 1,
     "activeGroup": 2,
     "scoreGroup": 2,
-    "rankGroup": 2
+    "rankGroup": 2,
+    "scoreNum": 2
   },
   {
     "sn": 101,
@@ -271,7 +278,8 @@
     "assistaCount": 1,
     "activeGroup": 1,
     "scoreGroup": 1,
-    "rankGroup": 1
+    "rankGroup": 1,
+    "scoreNum": 2
   },
   {
     "sn": 102,
@@ -299,7 +307,8 @@
     "assistaCount": 1,
     "activeGroup": 2,
     "scoreGroup": 2,
-    "rankGroup": 2
+    "rankGroup": 2,
+    "scoreNum": 2
   },
   {
     "sn": 103,
@@ -327,7 +336,8 @@
     "assistaCount": 1,
     "activeGroup": 3,
     "scoreGroup": 3,
-    "rankGroup": 3
+    "rankGroup": 3,
+    "scoreNum": 2
   },
   {
     "sn": 104,
@@ -355,7 +365,8 @@
     "assistaCount": 1,
     "activeGroup": 4,
     "scoreGroup": 4,
-    "rankGroup": 4
+    "rankGroup": 4,
+    "scoreNum": 2
   },
   {
     "sn": 105,
@@ -383,7 +394,8 @@
     "assistaCount": 1,
     "activeGroup": 1,
     "scoreGroup": 5,
-    "rankGroup": 1
+    "rankGroup": 1,
+    "scoreNum": 2
   },
   {
     "sn": 106,
@@ -411,6 +423,425 @@
     "assistaCount": 1,
     "activeGroup": 1,
     "scoreGroup": 6,
-    "rankGroup": 1
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 107,
+    "openTime": "2024-05-23 05:00:00",
+    "endTime": "2024-05-30 04:30:00",
+    "randomNum": 2,
+    "randomBoss": [
+      4,
+      1
+    ],
+    "affixGroup": [
+      [
+        42,
+        4,
+        2004,
+        108
+      ],
+      [
+        41,
+        2005,
+        2101,
+        108
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 7,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 108,
+    "openTime": "2024-05-30 05:00:00",
+    "endTime": "2024-06-06 04:30:00",
+    "randomNum": 2,
+    "randomBoss": [
+      4,
+      6
+    ],
+    "affixGroup": [
+      [
+        42,
+        4,
+        2004,
+        108
+      ],
+      [
+        35,
+        2004,
+        25,
+        107
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 8,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 109,
+    "openTime": "2024-06-06 05:00:00",
+    "endTime": "2024-06-13 04:30:00",
+    "randomNum": 3,
+    "randomBoss": [
+      1,
+      4,
+      2
+    ],
+    "affixGroup": [
+      [
+        10,
+        2001,
+        14,
+        2101
+      ],
+      [
+        42,
+        4,
+        2004,
+        108
+      ],
+      [
+        42,
+        12,
+        13,
+        114
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 9,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 110,
+    "openTime": "2024-06-13 05:00:00",
+    "endTime": "2024-06-20 04:30:00",
+    "randomNum": 3,
+    "randomBoss": [
+      1,
+      6,
+      5
+    ],
+    "affixGroup": [
+      [
+        10,
+        2001,
+        14,
+        2101
+      ],
+      [
+        35,
+        2004,
+        25,
+        107
+      ],
+      [
+        41,
+        2005,
+        21,
+        113
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 10,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 111,
+    "openTime": "2024-06-20 05:00:00",
+    "endTime": "2024-06-27 04:30:00",
+    "randomNum": 3,
+    "randomBoss": [
+      7,
+      4,
+      1
+    ],
+    "affixGroup": [
+      [
+        8,
+        2006,
+        13,
+        107
+      ],
+      [
+        42,
+        4,
+        2004,
+        108
+      ],
+      [
+        10,
+        2001,
+        14,
+        2101
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 11,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 112,
+    "openTime": "2024-06-27 05:00:00",
+    "endTime": "2024-07-04 04:30:00",
+    "randomNum": 3,
+    "randomBoss": [
+      7,
+      4,
+      5
+    ],
+    "affixGroup": [
+      [
+        8,
+        2006,
+        13,
+        107
+      ],
+      [
+        42,
+        4,
+        2004,
+        108
+      ],
+      [
+        14,
+        21,
+        107,
+        113
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 11,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 113,
+    "openTime": "2024-07-04 05:00:00",
+    "endTime": "2024-07-11 04:30:00",
+    "randomNum": 3,
+    "randomBoss": [
+      1,
+      6,
+      2
+    ],
+    "affixGroup": [
+      [
+        10,
+        2001,
+        14,
+        2101
+      ],
+      [
+        35,
+        23,
+        2004,
+        108
+      ],
+      [
+        42,
+        2006,
+        13,
+        114
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 11,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 114,
+    "openTime": "2024-07-11 05:00:00",
+    "endTime": "2024-07-18 04:30:00",
+    "randomNum": 3,
+    "randomBoss": [
+      7,
+      4,
+      5
+    ],
+    "affixGroup": [
+      [
+        8,
+        2006,
+        13,
+        107
+      ],
+      [
+        42,
+        4,
+        2004,
+        108
+      ],
+      [
+        14,
+        21,
+        3,
+        106
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 11,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 115,
+    "openTime": "2024-07-18 05:00:00",
+    "endTime": "2024-07-25 04:30:00",
+    "randomNum": 3,
+    "randomBoss": [
+      1,
+      4,
+      6
+    ],
+    "affixGroup": [
+      [
+        10,
+        2001,
+        43,
+        2101
+      ],
+      [
+        45,
+        42,
+        2004,
+        103
+      ],
+      [
+        45,
+        5,
+        2004,
+        138
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 11,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 116,
+    "openTime": "2024-07-25 05:00:00",
+    "endTime": "2024-08-01 04:30:00",
+    "randomNum": 3,
+    "randomBoss": [
+      1,
+      7,
+      2
+    ],
+    "affixGroup": [
+      [
+        45,
+        10,
+        2001,
+        2101
+      ],
+      [
+        45,
+        43,
+        2006,
+        107
+      ],
+      [
+        45,
+        2008,
+        44,
+        2
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 11,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 117,
+    "openTime": "2024-08-01 05:00:00",
+    "endTime": "2024-08-08 04:30:00",
+    "randomNum": 3,
+    "randomBoss": [
+      9,
+      4,
+      5
+    ],
+    "affixGroup": [
+      [
+        45,
+        2009,
+        9,
+        14
+      ],
+      [
+        45,
+        42,
+        2004,
+        103
+      ],
+      [
+        45,
+        14,
+        21,
+        3
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 11,
+    "rankGroup": 1,
+    "scoreNum": 2
+  },
+  {
+    "sn": 118,
+    "openTime": "2024-08-08 05:00:00",
+    "endTime": "2024-08-15 04:30:00",
+    "randomNum": 3,
+    "randomBoss": [
+      9,
+      7,
+      8
+    ],
+    "affixGroup": [
+      [
+        45,
+        2009,
+        9,
+        14
+      ],
+      [
+        45,
+        2006,
+        8,
+        107
+      ],
+      [
+        45,
+        2007,
+        44,
+        1
+      ]
+    ],
+    "assistaCount": 1,
+    "activeGroup": 1,
+    "scoreGroup": 11,
+    "rankGroup": 1,
+    "scoreNum": 2
   }
 ]

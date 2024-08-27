@@ -19,7 +19,9 @@
     "nameUIPic": "yishijie-yxkj-chepiao-red.png",
     "nameFX": "FX_yxkj02_UI_chepiao.prefab",
     "ticketColour": "#931606",
-    "ticketTxtColour": "#ffff1a"
+    "ticketTxtColour": "#ffff1a",
+    "ticketScene": "yxkj02_anquanxiaowu_UI",
+    "exploreMax": 1
   },
   {
     "sn": 3,
@@ -42,6 +44,31 @@
     "nameUIPic": "yishijie-yxkj-chepiao-blue.png",
     "nameFX": "FX_yxkj01_UI_chepiao.prefab",
     "ticketColour": "#006edf",
-    "ticketTxtColour": "#ffffff"
+    "ticketTxtColour": "#ffffff",
+    "ticketScene": "yxkj01_anquanxiaowu_UI",
+    "exploreMax": 1
+  },
+  {
+    "sn": 4,
+    "Name": "节制剥夺之路",
+    "unlockType": 2,
+    "unlockParam": 120007,
+    "areaSn": [
+      300,
+      301,
+      302
+    ],
+    "childPalace": [
+      3
+    ],
+    "nameWorldPic": "ditu-yishijie-jiezhi-i18n.png",
+    "Item": 421003,
+    "currency": 33,
+    "nameUIPic": "yishijie-yxkj-chepiao-yellow.png",
+    "nameFX": "FX_yxkj03_UI_chepiao.prefab",
+    "ticketColour": "#df9800",
+    "ticketTxtColour": "#fffde3",
+    "ticketScene": "yxkj03_anquanxiaowu_UI",
+    "exploreMax": 0
   }
 ]

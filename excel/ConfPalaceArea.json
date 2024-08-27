@@ -10,7 +10,8 @@
     "isEntrance": 1,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 1
   },
   {
     "sn": 101,
@@ -33,7 +34,8 @@
       8301000,
       8304000
     ],
-    "miniScale": 1
+    "miniScale": 1,
+    "exploreGroup": 1
   },
   {
     "sn": 102,
@@ -46,7 +48,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 1
   },
   {
     "sn": 104,
@@ -71,7 +74,8 @@
       8336000,
       8341000
     ],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 1
   },
   {
     "sn": 105,
@@ -84,7 +88,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 1
   },
   {
     "sn": 106,
@@ -97,7 +102,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 1
   },
   {
     "sn": 107,
@@ -110,7 +116,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 1
   },
   {
     "sn": 200,
@@ -123,7 +130,8 @@
     "isEntrance": 1,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
   },
   {
     "sn": 201,
@@ -136,7 +144,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
   },
   {
     "sn": 202,
@@ -149,7 +158,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
   },
   {
     "sn": 210,
@@ -162,7 +172,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
   },
   {
     "sn": 220,
@@ -175,7 +186,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
   },
   {
     "sn": 221,
@@ -188,7 +200,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
   },
   {
     "sn": 222,
@@ -201,7 +214,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
   },
   {
     "sn": 223,
@@ -214,7 +228,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
   },
   {
     "sn": 224,
@@ -227,7 +242,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
   },
   {
     "sn": 225,
@@ -240,7 +256,8 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
   },
   {
     "sn": 226,
@@ -253,6 +270,119 @@
     "isEntrance": 0,
     "floorName": [],
     "floorTeleportPoint": [],
-    "miniScale": 0
+    "miniScale": 0,
+    "exploreGroup": 2
+  },
+  {
+    "sn": 300,
+    "name": "宫殿外景（临时）",
+    "palaceWorldSn": [
+      8509
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 301,
+    "name": "水坝入口",
+    "palaceWorldSn": [
+      8501
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 1,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 302,
+    "name": "纪念广场",
+    "palaceWorldSn": [
+      8502
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 310,
+    "name": "水处理厂（临时）",
+    "palaceWorldSn": [
+      8519
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 311,
+    "name": "水处理厂底层",
+    "palaceWorldSn": [
+      8511
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 312,
+    "name": "水处理厂中层",
+    "palaceWorldSn": [
+      8512
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 313,
+    "name": "水处理厂上层",
+    "palaceWorldSn": [
+      8513
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0,
+    "exploreGroup": 3
+  },
+  {
+    "sn": 314,
+    "name": "水处理厂隧道",
+    "palaceWorldSn": [
+      8514
+    ],
+    "icon": "",
+    "pic": "",
+    "isEntrance": 0,
+    "floorName": [],
+    "floorTeleportPoint": [],
+    "miniScale": 0,
+    "exploreGroup": 3
   }
 ]

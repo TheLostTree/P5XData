@@ -3,8 +3,9 @@
     "sn": 1,
     "name": "招财猫挂饰",
     "Count": 5,
+    "countShow": 1,
     "reset": 1,
-    "text": "战斗胜利后，\n获得的铁道硬币增加100%，持续5个任意站台。",
+    "text": "战斗胜利后，获得的铁道硬币增加100%，持续5个站台。",
     "text0": "用来祈愿财运亨通的小挂饰，看起来似乎颇为灵验。",
     "text1": "",
     "text2": "",
@@ -12,7 +13,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 1,
@@ -23,8 +25,9 @@
     "sn": 2,
     "name": "余额为0的存折",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "每有100枚铁道硬币，\n就使全体怪盗攻击力提升5.5%。",
+    "text": "每有100枚铁道硬币，就使全体怪盗攻击力提升5.5%。",
     "text0": "泡沫破碎后的老旧存折，上面仅有可怜的0元。",
     "text1": "",
     "text2": "",
@@ -32,7 +35,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 2,
@@ -43,8 +47,9 @@
     "sn": 3,
     "name": "盘氏债券",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "每场战斗后，\n使当前携带的铁道硬币增加2%。",
+    "text": "战斗胜利后，使当前携带的铁道硬币增加3%。",
     "text0": "知名投资人发售的债券，拥有巨大的收益……大概？",
     "text1": "",
     "text2": "",
@@ -52,7 +57,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 3,
@@ -63,8 +69,9 @@
     "sn": 4,
     "name": "小猪储蓄罐",
     "Count": 5,
+    "countShow": 1,
     "reset": 0,
-    "text": "后续5个站台无法获得铁道硬币，然后携带的铁道硬币增加50%。",
+    "text": "后续5个站台无法获得铁道硬币，然后携带的铁道硬币增加100%。",
     "text0": "每个人童年时都拥有的物品，装满了一个又一个小小的梦想。",
     "text1": "",
     "text2": "%s个站台后生效",
@@ -72,7 +79,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 4,
@@ -82,9 +90,10 @@
   {
     "sn": 5,
     "name": "被盗走的名画",
-    "Count": 1,
+    "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "失去身上的所有铁道硬币，\n每失去100枚，全体怪盗造成的伤害提升10%。",
+    "text": "失去身上的所有铁道硬币；每失去100枚，全体怪盗造成的伤害提升10%。",
     "text0": "被盗走出售的世界名画，虽然号称是真品，但总觉得哪里怪怪的。",
     "text1": "",
     "text2": "",
@@ -92,7 +101,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 5,
@@ -103,8 +113,9 @@
     "sn": 6,
     "name": "「大赏」刮刮乐",
     "Count": 1,
+    "countShow": 1,
     "reset": 1,
-    "text": "下一场战斗胜利后，\n一定会获得1个橙色御守。",
+    "text": "下一场战斗胜利后，一定会获得1个橙色御守。",
     "text0": "必中大赏的超级刮刮乐，虽说大赏是随机的，但谁又会在乎呢？",
     "text1": "",
     "text2": "",
@@ -112,7 +123,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 6,
@@ -123,8 +135,9 @@
     "sn": 7,
     "name": "幸运「猫」盒",
     "Count": 1,
+    "countShow": 1,
     "reset": 1,
-    "text": "立刻获得1-2个随机御守。",
+    "text": "立刻获得1-2个蓝色御守。",
     "text0": "薛定谔的幸运，打开之前没人知道里面会有什么。",
     "text1": "",
     "text2": "",
@@ -132,19 +145,21 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 7,
     "award": 215001,
-    "price": 200
+    "price": 100
   },
   {
     "sn": 8,
     "name": "后悔药",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "战斗结束选择御守时，\n增加一次可免费刷新的次数。",
+    "text": "战斗结束选择御守时，增加1次免费刷新机会。",
     "text0": "神奇的绿色小药片，合理利用的话能逆境翻盘。",
     "text1": "",
     "text2": "",
@@ -152,7 +167,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 8,
@@ -163,8 +179,9 @@
     "sn": 9,
     "name": "幸运四叶草",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "战斗结束选择御守时，\n增加一个选择。",
+    "text": "战斗结束选择御守时，额外增加1个选择。",
     "text0": "成千上万的三叶草中才会出现一株，传说中找到它的人将会受到幸运之神的眷顾。",
     "text1": "",
     "text2": "",
@@ -172,7 +189,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 9,
@@ -183,8 +201,9 @@
     "sn": 10,
     "name": "仪式通灵板",
     "Count": 3,
+    "countShow": 1,
     "reset": 1,
-    "text": "接下来的三场战斗后，\n随机强化拥有的某个御守。",
+    "text": "接下来的3场战斗后，「<link=\"s|1013\"><u>随机强化</u></link>」拥有的1个御守。",
     "text0": "完成仪式后，可以召唤出某个禁忌的存在，它会随机帮你实现愿望。",
     "text1": "",
     "text2": "",
@@ -192,19 +211,21 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 10,
     "award": 215001,
-    "price": 200
+    "price": 120
   },
   {
     "sn": 11,
     "name": "阿拉拉茶壶",
     "Count": 1,
+    "countShow": 1,
     "reset": 1,
-    "text": "立刻随机强化1-5个御守。",
+    "text": "立即「<link=\"s|1013\"><u>随机强化</u></link>」1-5个御守。",
     "text0": "看起来像是茶壶，上面写着「擦拭我」。",
     "text1": "",
     "text2": "",
@@ -212,7 +233,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 11,
@@ -223,8 +245,9 @@
     "sn": 12,
     "name": "昂贵的水晶球",
     "Count": 1,
+    "countShow": 1,
     "reset": 1,
-    "text": "获得遗失物时，把1个已有御守随机换成别的御守。",
+    "text": "获得该遗失物时，立刻将1个已有御守随机换成别的御守。",
     "text0": "承载了每个孩子最初的梦想，其内寄宿了纯真的许愿之力。",
     "text1": "",
     "text2": "",
@@ -232,53 +255,19 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 12,
     "award": 215001,
-    "price": 200
-  },
-  {
-    "sn": 13,
-    "name": "“再来一瓶”",
-    "Count": 1,
-    "reset": 1,
-    "text": "下一场战斗胜利后，\n额外增加1次选择遗失物机会。",
-    "text0": "意料之外的惊喜，比起打折更加令人兴奋。",
-    "text1": "",
-    "text2": "",
-    "pic": "icon-rogue-qiwu-zailaiyiping.png",
-    "motifSn": 1,
-    "unlock": 0,
-    "rogueLine": [],
-    "difficulty": 1,
-    "order": 0,
-    "award": 215001,
-    "price": 200
-  },
-  {
-    "sn": 14,
-    "name": "慢性肾上腺素",
-    "Count": -1,
-    "reset": 1,
-    "text": "战斗结束后，\n使我方所有角色攻防+3%。\n可叠加10层。",
-    "text0": "不间断地上吧，你总有机会被强化的！",
-    "text1": "（%s/10）",
-    "text2": "",
-    "pic": "icon-rogue-qiwu-shenshangxiansu.png",
-    "motifSn": 1,
-    "unlock": 0,
-    "rogueLine": [],
-    "difficulty": 1,
-    "order": 0,
-    "award": 215001,
-    "price": 200
+    "price": 100
   },
   {
     "sn": 15,
     "name": "备用钱包",
     "Count": 1,
+    "countShow": 0,
     "reset": 1,
     "text": "立刻获得60枚铁道硬币。",
     "text0": "偶尔会发现自己遗忘的钱币，尽管数额很少，也会让人觉得高兴。",
@@ -288,7 +277,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 15,
@@ -299,8 +289,9 @@
     "sn": 16,
     "name": "铁道便当",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "每场战斗后，\n恢复全体怪盗20%最大生命值。",
+    "text": "每场战斗后，恢复全体怪盗100%最大生命值。",
     "text0": "站内商店中出售的精美便当，可以带上车食用，味道绝赞。",
     "text1": "",
     "text2": "",
@@ -308,7 +299,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 16,
@@ -319,8 +311,9 @@
     "sn": 17,
     "name": "坎特的怀表",
     "Count": 1,
+    "countShow": 1,
     "reset": 1,
-    "text": "战斗失败后不结束并视为胜利，所有怪盗恢复50%最大生命值。\n可生效一次，最终挑战无效。",
+    "text": "战斗失败视为胜利，并将所有怪盗恢复至生命上限。可生效1次。\n最终挑战无效。",
     "text0": "被冰冷海水浸泡过的怀表，指针停滞在某个时刻，凝聚着拥有者的执念。",
     "text1": "",
     "text2": "",
@@ -328,7 +321,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 17,
@@ -336,47 +330,12 @@
     "price": 200
   },
   {
-    "sn": 18,
-    "name": "舒缓的乐章",
-    "Count": -1,
-    "reset": 1,
-    "text": "每次进入一个非战斗站台，\n回复全体怪盗12%最大生命值。",
-    "text0": "记录着悠扬、平和旋律的黑胶唱片，闲暇时听一听，身心都能得到放松。",
-    "text1": "",
-    "text2": "",
-    "pic": "icon-rogue-qiwu-yuezhang.png",
-    "motifSn": 1,
-    "unlock": 0,
-    "rogueLine": [],
-    "difficulty": 1,
-    "order": 0,
-    "award": 215001,
-    "price": 150
-  },
-  {
-    "sn": 19,
-    "name": "躁动的乐章",
-    "Count": -1,
-    "reset": 1,
-    "text": "每次进入一个非战斗站台，\n全体造成的伤害提升4%。\n可叠加10层。",
-    "text0": "刻印着疯狂、激烈旋律的黑胶唱片，只要播放就会让人血液沸腾，脉搏狂颤。",
-    "text1": "（%s/10）",
-    "text2": "",
-    "pic": "icon-rogue-qiwu-zaodongyuezhang.png",
-    "motifSn": 1,
-    "unlock": 0,
-    "rogueLine": [],
-    "difficulty": 1,
-    "order": 0,
-    "award": 215001,
-    "price": 200
-  },
-  {
     "sn": 20,
     "name": "神奇蘑菇",
     "Count": 1,
+    "countShow": 0,
     "reset": 1,
-    "text": "获得一个「勾玉」（战斗结束后复活1名不能战斗的同伴）。",
+    "text": "获得一个「<link=\"rg|1008\"><u>勾玉</u></link>」。",
     "text0": "在一块孤零零的砖头上被发现的蘑菇，吃下去就会获得神奇的力量。",
     "text1": "",
     "text2": "",
@@ -384,7 +343,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 20,
@@ -395,8 +355,9 @@
     "sn": 21,
     "name": "诅咒娃娃",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "失去所有「勾玉」，并使后续无法获得。造成的伤害提升20%。受到的伤害降低20%。",
+    "text": "失去所有「<link=\"rg|1008\"><u>勾玉</u></link>」，并使后续无法获得；造成的伤害提升20%；受到的伤害降低20%。",
     "text0": "可将被施法人灵魂献祭的娃娃，看起来总是面露悲伤。",
     "text1": "",
     "text2": "",
@@ -404,10 +365,11 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
-    "order": 22,
+    "order": 21,
     "award": 215001,
     "price": 200
   },
@@ -415,8 +377,9 @@
     "sn": 22,
     "name": "红色胶囊",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "所有角色最大生命值降低50%，\n造成的伤害提升30%。",
+    "text": "所有角色最大生命值降低25%，造成的伤害提升30%。",
     "text0": "释放自我，摆脱束缚，迎接不确定的未来，面对巨大的挑战。",
     "text1": "",
     "text2": "",
@@ -424,7 +387,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 23,
@@ -435,8 +399,9 @@
     "sn": 23,
     "name": "蓝色胶囊",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "所有角色最大生命值降低50%，\n每回合回复20%自身最大生命。",
+    "text": "所有角色最大生命值降低25%，每回合回复20%自身最大生命。",
     "text0": "接受自我，重回梦境，于残酷的现状中挣扎求生。",
     "text1": "",
     "text2": "",
@@ -444,10 +409,11 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
-    "order": 21,
+    "order": 24,
     "award": 215001,
     "price": 200
   },
@@ -455,8 +421,9 @@
     "sn": 24,
     "name": "变身魔棒",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "战斗开始时，对己方角色生效：\n对随机1个属性变为吸，对随机1个属性变成弱。",
+    "text": "战斗开始时，对己方角色生效：将随机1个属性变为吸；随机1个属性变成弱。",
     "text0": "大喊「变身」就能够进行换装的道具，但效果是随机的。",
     "text1": "",
     "text2": "",
@@ -464,10 +431,11 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
-    "order": 24,
+    "order": 22,
     "award": 215001,
     "price": 150
   },
@@ -475,8 +443,9 @@
     "sn": 25,
     "name": "诡奇骰子",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "战斗开始时，所有己方角色某项属性提升30%。某项属性降低15%。(攻击力、防御力、生命上限、暴击率、暴击效果）",
+    "text": "战斗开始时，所有己方角色「<link=\"s|1012\"><u>某项属性</u></link>」提升30%。「<link=\"s|1012\"><u>某项属性</u></link>」降低15%。",
     "text0": "当你凝视骰子的时候，骰子也在凝视你。",
     "text1": "",
     "text2": "",
@@ -484,7 +453,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 25,
@@ -495,8 +465,9 @@
     "sn": 26,
     "name": "战术目镜",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "战斗开始时，\n给所有敌人添加一个弱点，能被随机我方怪盗克制。但是所有怪盗受到的伤害提升20%。",
+    "text": "战斗开始时，给所有敌人添加一个弱点，能被随机我方怪盗克制。但是所有怪盗受到的伤害提升20%。",
     "text0": "能够看出敌人隐藏的细节，发掘其本人都没能察觉的弱点。",
     "text1": "",
     "text2": "",
@@ -504,7 +475,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 26,
@@ -515,8 +487,9 @@
     "sn": 27,
     "name": "联机游戏手柄",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "每有一个不同职业的怪盗，\n进入战斗时，\n所有怪盗的弱点伤害提升10%。",
+    "text": "每有一个不同职业的怪盗，进入战斗时，所有怪盗的弱点伤害提升10%。",
     "text0": "能够和朋友一起联机配合完成游戏的手柄，曾经引领了时代风潮。",
     "text1": "",
     "text2": "",
@@ -524,7 +497,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 27,
@@ -532,29 +506,12 @@
     "price": 200
   },
   {
-    "sn": 28,
-    "name": "塑料PP弹",
-    "Count": -1,
-    "reset": 1,
-    "text": "每经过三回合，\n重新装填枪械子弹。",
-    "text0": "童年最喜欢的玩具，即使买不起，也可以在地上捡到。",
-    "text1": "",
-    "text2": "",
-    "pic": "icon-rogue-qiwu-ppdan.png",
-    "motifSn": 1,
-    "unlock": 0,
-    "rogueLine": [],
-    "difficulty": 1,
-    "order": 0,
-    "award": 215001,
-    "price": 200
-  },
-  {
     "sn": 29,
     "name": "集换式卡牌#1",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "造成的伤害提升25%，受到的伤害提升15%。集齐3张以上时，不会触发负面效果。",
+    "text": "造成的伤害提升25%，受到的伤害提升15%。集齐3张后，不再触发负面效果。",
     "text0": "广受欢迎的游戏卡包，内含增益型卡牌套装。",
     "text1": "",
     "text2": "",
@@ -562,7 +519,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 29,
@@ -573,8 +531,9 @@
     "sn": 30,
     "name": "集换式卡牌#2",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "生命值提升25%，攻击力降低15%。集齐3张以上时，不会触发负面效果。",
+    "text": "生命值提升25%，攻击力降低15%。集齐3张后，不再触发负面效果。",
     "text0": "广受欢迎的游戏卡包，内含攻击型卡牌套装。",
     "text1": "",
     "text2": "",
@@ -582,7 +541,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 30,
@@ -593,8 +553,9 @@
     "sn": 31,
     "name": "集换式卡牌#3",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "受到的伤害降低25%，造成的伤害降低15%。集齐3张以上时，不会触发负面效果。",
+    "text": "受到的伤害降低25%，造成的伤害降低15%。集齐3张后，不再触发负面效果。",
     "text0": "广受欢迎的游戏卡包，内含干扰型卡牌套装。",
     "text1": "",
     "text2": "",
@@ -602,7 +563,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 31,
@@ -613,8 +575,9 @@
     "sn": 32,
     "name": "集换式卡牌#4",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "攻击力提升25%，生命值降低15%。集齐3张以上时，不会触发负面效果。",
+    "text": "攻击力提升25%，生命值降低15%。集齐3张后，不再触发负面效果。",
     "text0": "广受欢迎的游戏卡包，内含防御型卡牌套装。",
     "text1": "",
     "text2": "",
@@ -622,7 +585,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 32,
@@ -630,29 +594,12 @@
     "price": 200
   },
   {
-    "sn": 33,
-    "name": "集章积分卡",
-    "Count": -1,
-    "reset": 1,
-    "text": "每在商店购买一个物品或强化一次御守，我方所有怪盗攻击力+3%，防御力+3%。可叠加10层。",
-    "text0": "收集的越多，奖励就越好，请多多的消费吧。",
-    "text1": "（%s/10）",
-    "text2": "",
-    "pic": "icon-rogue-qiwu-jizhangka.png",
-    "motifSn": 1,
-    "unlock": 0,
-    "rogueLine": [],
-    "difficulty": 1,
-    "order": 0,
-    "award": 215001,
-    "price": 150
-  },
-  {
     "sn": 34,
     "name": "打折贴纸",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "商店里所有物品降价30%。但是每购买1个物品，涨价5%。（当前站台不生效。）",
+    "text": "下一个「<link=\"s|1010\"><u>交易站台</u></link>」开始：所有物品降价30%；但每购买1个物品，涨价5%。",
     "text0": "一卷贴纸，在晚上10点后出现，想贴哪里就贴哪里。",
     "text1": "",
     "text2": "",
@@ -660,10 +607,11 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
-    "order": 34,
+    "order": 28,
     "award": 215001,
     "price": 200
   },
@@ -671,8 +619,9 @@
     "sn": 35,
     "name": "土豪金会员卡",
     "Count": 1,
+    "countShow": 1,
     "reset": 1,
-    "text": "商店购买的第一个物品免费，仅1次。",
+    "text": "下一个「<link=\"s|1010\"><u>交易站台</u></link>」购买的第1个物品免费。",
     "text0": "非常闪耀的会员卡，好像凝聚了什么不得了的愿望。",
     "text1": "",
     "text2": "",
@@ -680,7 +629,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 35,
@@ -691,8 +641,9 @@
     "sn": 36,
     "name": "返利福袋",
     "Count": 1,
+    "countShow": 1,
     "reset": 1,
-    "text": "在同一个商店中购买3件商品后，随机获得一个遗失物，仅1次。",
+    "text": "同一「<link=\"s|1010\"><u>交易站台</u></link>」购买3件商品，随机获得1个遗失物，可生效1次。",
     "text0": "只提供给老客户的福利，但同时也考验获得者的运气。",
     "text1": "",
     "text2": "",
@@ -700,7 +651,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 36,
@@ -711,6 +663,7 @@
     "sn": 37,
     "name": "全村最好的剑",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
     "text": "所有同伴造成的伤害提升5%。",
     "text0": "为了拯救美丽的公主，勇者手握利剑，从村庄出发踏上了旅途。",
@@ -719,9 +672,11 @@
     "pic": "icon-rogue-qiwu-shizhongjian.png",
     "motifSn": 1,
     "unlock": 0,
-    "rogueLine": [],
+    "rogueLine": [
+      102
+    ],
     "difficulty": 1,
-    "order": 0,
+    "order": 62,
     "award": 215001,
     "price": 150
   },
@@ -729,6 +684,7 @@
     "sn": 38,
     "name": "全村最好的盾",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
     "text": "所有同伴受到的伤害降低3%。",
     "text0": "为了打败邪恶的敌人，勇者手持坚盾，穿过黑暗的丛林和沼泽。",
@@ -737,9 +693,11 @@
     "pic": "icon-rogue-qiwu-shizhongdun.png",
     "motifSn": 1,
     "unlock": 0,
-    "rogueLine": [],
+    "rogueLine": [
+      102
+    ],
     "difficulty": 1,
-    "order": 0,
+    "order": 63,
     "award": 215001,
     "price": 150
   },
@@ -747,6 +705,7 @@
     "sn": 39,
     "name": "勇者之证",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
     "text": "所有同伴受到的伤害降低30%，\n同时造成的伤害提升50%。",
     "text0": "你已经得到了大师的认可，成为了一名真正的勇者。",
@@ -755,9 +714,11 @@
     "pic": "icon-rogue-qiwu-yongzhezhizheng.png",
     "motifSn": 1,
     "unlock": 0,
-    "rogueLine": [],
+    "rogueLine": [
+      102
+    ],
     "difficulty": 1,
-    "order": 0,
+    "order": 64,
     "award": 215001,
     "price": 500
   },
@@ -765,8 +726,9 @@
     "sn": 40,
     "name": "天狗面具",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "每次战斗胜利后使所有同伴攻击力、防御力提升5%。但是无法通过战斗获得铁道硬币。",
+    "text": "每次战斗胜利后使所有同伴攻击力、防御力提升10%。但是无法通过战斗获得铁道硬币。",
     "text0": "祭典的装饰面具，据说带上后可以除魔驱邪，勇气倍增。",
     "text1": "",
     "text2": "",
@@ -774,7 +736,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 40,
@@ -785,8 +748,9 @@
     "sn": 41,
     "name": "祭典团扇",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "每次进入一个残影站台，所有同伴的最大生命值提升5%。但是所有同伴的攻击力降低10%。",
+    "text": "所有同伴的攻击力降低10%。但每进入一个「<link=\"s|1011\"><u>残影站台</u></link>」，所有同伴的最大生命值提升10%。",
     "text0": "遵照祭典的指引，参加快乐的狂欢，避免无谓的争斗。",
     "text1": "",
     "text2": "",
@@ -794,7 +758,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 41,
@@ -805,8 +770,9 @@
     "sn": 42,
     "name": "绘马木牌",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
-    "text": "每进入一个站台，获得以下效果中的一个：获得30枚铁道硬币；全员攻击力+10%；全员恢复5%生命值；全员扣除50%生命值（最低扣除至1%）。",
+    "text": "每进入一个站台，获得以下效果中的一个：获得30枚铁道硬币；全员攻击力+10%；全员恢复20%生命值；全员扣除20%生命值（最低扣除至1%）。",
     "text0": "任何愿望都可以写的祭典绘马，每次实现的时候都令人意外。",
     "text1": "",
     "text2": "",
@@ -814,27 +780,30 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
-    "order": 28,
+    "order": 42,
     "award": 215001,
     "price": 200
   },
   {
     "sn": 43,
     "name": "考验的集章卡",
-    "Count": 4,
+    "Count": 5,
+    "countShow": 0,
     "reset": 0,
-    "text": "接下来4个任意站台内，受到的伤害提升30%。完成后获得150枚铁道硬币。",
+    "text": "后续4个站台，受到的伤害提升30%。完成后获得150枚铁道硬币。",
     "text0": "完成特定要求才能收集的蓝色集章卡，集满印章就能兑换豪华奖励。",
     "text1": "",
-    "text2": "%s个站台后生效",
+    "text2": "",
     "pic": "icon-rogue-qiwu-jizhangka-B.png",
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 44,
@@ -842,27 +811,10 @@
     "price": 50
   },
   {
-    "sn": 44,
-    "name": "平和的集章卡",
-    "Count": 4,
-    "reset": 0,
-    "text": "后续4个站台中，如果经过残影站台，不会触发任何事件。然后一次性获得150枚铁道硬币。",
-    "text0": "完成特定要求才能收集的绿色集章卡，集满印章就能兑换豪华奖励。",
-    "text1": "",
-    "text2": "%s个站台后生效",
-    "pic": "icon-rogue-qiwu-jizhangka-G.png",
-    "motifSn": 1,
-    "unlock": 0,
-    "rogueLine": [],
-    "difficulty": 1,
-    "order": 0,
-    "award": 215001,
-    "price": 50
-  },
-  {
     "sn": 45,
     "name": "“再来半瓶”",
     "Count": 1,
+    "countShow": 0,
     "reset": 1,
     "text": "立刻获得等于当前铁道硬币数量30%的铁道硬币。",
     "text0": "意料之外的惊喜从天而降，但只有一半。",
@@ -872,7 +824,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 43,
@@ -883,6 +836,7 @@
     "sn": 46,
     "name": "硬币漂流瓶",
     "Count": 2,
+    "countShow": 1,
     "reset": 1,
     "text": "接下来的2场战斗胜利后，失去御守选择机会，直接额外获得100枚铁道硬币。",
     "text0": "应该装有愿望与祝福的漂流瓶，里面却装着满满的硬币，真是很朴实的愿望。",
@@ -892,7 +846,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 46,
@@ -903,8 +858,9 @@
     "sn": 47,
     "name": "勾玉标本箱",
     "Count": 1,
+    "countShow": 0,
     "reset": 1,
-    "text": "获得该遗失物时，每有1个「勾玉」，则获得80枚铁道硬币。",
+    "text": "获得该遗失物时，每有1个「<link=\"rg|1008\"><u>勾玉</u></link>」，则获得50枚铁道硬币。",
     "text0": "收集勾玉的展示盒，因其精巧华丽而广受收藏家的喜爱。",
     "text1": "",
     "text2": "",
@@ -912,10 +868,11 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
-    "order": 47,
+    "order": 56,
     "award": 215001,
     "price": 100
   },
@@ -923,6 +880,7 @@
     "sn": 48,
     "name": "绿色唱片",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
     "text": "所有怪盗最大生命值提升15%、攻击力提升15%",
     "text0": "记录着和煦、清亮旋律的黑胶唱片，乐曲宛如春日微风般使聆听之人身心放松。",
@@ -932,7 +890,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 48,
@@ -943,16 +902,18 @@
     "sn": 49,
     "name": "红色唱片",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
     "text": "所有怪盗效果命中提升20%、造成伤害提升10%",
     "text0": "回响着热情、动感旋律的黑胶唱片，爆裂乐曲令人血液沸腾，脉搏狂颤。",
     "text1": "",
     "text2": "",
-    "pic": "icon-rogue-qiwu-zaodongyuezhang.png",
+    "pic": "icon-rogue-qiwu-zaodong.png",
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 49,
@@ -963,6 +924,7 @@
     "sn": 50,
     "name": "蓝色唱片",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
     "text": "所有怪盗暴击率提升10%、暴击效果提升20%",
     "text0": "传颂着悲凉、冷冽旋律的黑胶唱片，乐曲带着壮烈的毁灭之声震撼天地。",
@@ -972,7 +934,8 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 50,
@@ -983,6 +946,7 @@
     "sn": 51,
     "name": "粉色唱片",
     "Count": -1,
+    "countShow": 0,
     "reset": 1,
     "text": "所有怪盗防御力提升30%、受到伤害降低10%",
     "text0": "低吟着诡异、忧郁旋律的黑胶唱片，乐曲如同电流般划过每个人的大脑。",
@@ -992,10 +956,200 @@
     "motifSn": 1,
     "unlock": 0,
     "rogueLine": [
-      101
+      101,
+      102
     ],
     "difficulty": 1,
     "order": 51,
+    "award": 215001,
+    "price": 200
+  },
+  {
+    "sn": 52,
+    "name": "跃动唱片",
+    "Count": -1,
+    "countShow": 0,
+    "reset": 1,
+    "text": "使所有敌人获得火焰、念动属性弱点，但是对随机一种其他属性的适应性变为无。",
+    "text0": "印刷着迷幻图案的唱片，播放后会响起诡谲又热烈的靡靡之音，让听者的大脑忍不住为之震颤。",
+    "text1": "",
+    "text2": "",
+    "pic": "icon-rogue-qiwu-yuedong.png",
+    "motifSn": 1,
+    "unlock": 0,
+    "rogueLine": [
+      102
+    ],
+    "difficulty": 1,
+    "order": 52,
+    "award": 215001,
+    "price": 200
+  },
+  {
+    "sn": 53,
+    "name": "霜冻唱片",
+    "Count": -1,
+    "countShow": 0,
+    "reset": 1,
+    "text": "使所有敌人获得冰冻、核热属性弱点，但是对随机一种其他属性的适应性变为无。",
+    "text0": "摸起来有刺骨阴冷的唱片，播放后会浮现清冷低沉的旋律，不经意间也会发出奇怪的爆裂声。",
+    "text1": "",
+    "text2": "",
+    "pic": "icon-rogue-qiwu-bingfeng.png",
+    "motifSn": 1,
+    "unlock": 0,
+    "rogueLine": [
+      102
+    ],
+    "difficulty": 1,
+    "order": 53,
+    "award": 215001,
+    "price": 200
+  },
+  {
+    "sn": 54,
+    "name": "脉冲唱片",
+    "Count": -1,
+    "countShow": 0,
+    "reset": 1,
+    "text": "使所有敌人获得电击、祝福属性弱点，但是对随机一种其他属性的适应性变为无。",
+    "text0": "似乎有些碎裂的唱片，播放后会爆发刺耳的噪音，背景却似乎隐隐有祈福赞颂之声回荡。",
+    "text1": "",
+    "text2": "",
+    "pic": "icon-rogue-qiwu-maichong.png",
+    "motifSn": 1,
+    "unlock": 0,
+    "rogueLine": [
+      102
+    ],
+    "difficulty": 1,
+    "order": 54,
+    "award": 215001,
+    "price": 200
+  },
+  {
+    "sn": 55,
+    "name": "恐慌唱片",
+    "Count": -1,
+    "countShow": 0,
+    "reset": 1,
+    "text": "使所有敌人获得疾风、诅咒属性弱点，但是对随机一种其他属性的适应性变为无。",
+    "text0": "染满不知名液体的唱片，播放后会传出诡异的狂风低吟之声，让人心生恐惧之情。",
+    "text1": "",
+    "text2": "",
+    "pic": "icon-rogue-qiwu-konghuang.png",
+    "motifSn": 1,
+    "unlock": 0,
+    "rogueLine": [
+      102
+    ],
+    "difficulty": 1,
+    "order": 55,
+    "award": 215001,
+    "price": 200
+  },
+  {
+    "sn": 56,
+    "name": "同频段无线电",
+    "Count": -1,
+    "countShow": 0,
+    "reset": 1,
+    "text": "战斗开始时，怪盗方每有一个相同属性的怪盗，所有怪盗弱点伤害提升8%。",
+    "text0": "只能接受相同频段的无线电对讲机，似乎只有具有同样波长的声音可以相互联络。",
+    "text1": "",
+    "text2": "",
+    "pic": "icon-rogue-qiwu-wudiandian-T.png",
+    "motifSn": 1,
+    "unlock": 0,
+    "rogueLine": [
+      102
+    ],
+    "difficulty": 1,
+    "order": 57,
+    "award": 215001,
+    "price": 200
+  },
+  {
+    "sn": 57,
+    "name": "异频段无线电",
+    "Count": -1,
+    "countShow": 0,
+    "reset": 1,
+    "text": "战斗开始时，怪盗方每有一个不同属性的怪盗，所有怪盗耐性穿透提升8%。",
+    "text0": "只能接受不同频段的无线电对讲机，不同颜色似乎有对应的专属波长。",
+    "text1": "",
+    "text2": "",
+    "pic": "icon-rogue-qiwu-wudiandian-Y.png",
+    "motifSn": 1,
+    "unlock": 0,
+    "rogueLine": [
+      102
+    ],
+    "difficulty": 1,
+    "order": 58,
+    "award": 215001,
+    "price": 200
+  },
+  {
+    "sn": 58,
+    "name": "守护神札",
+    "Count": -1,
+    "countShow": 0,
+    "reset": 1,
+    "text": "战斗开始时，所有怪盗受到伤害降低90%，持续3回合。",
+    "text0": "写满守护祝福的神札，可以短暂的保护持有者避开带有恶意的伤害。",
+    "text1": "",
+    "text2": "",
+    "pic": "icon-rogue-qiwu-shenzha.png",
+    "motifSn": 1,
+    "unlock": 0,
+    "rogueLine": [
+      102
+    ],
+    "difficulty": 1,
+    "order": 59,
+    "award": 215001,
+    "price": 300
+  },
+  {
+    "sn": 59,
+    "name": "玛奇姆的积分卡",
+    "Count": -1,
+    "countShow": 0,
+    "reset": 1,
+    "text": "背包数量超过12时，每多一格背包，所有怪盗造成伤害提升10%。",
+    "text0": "作为玛奇姆品牌化的一部分，被制作出来的积分卡。上面设计了玛奇姆的LOGO。",
+    "text1": "",
+    "text2": "",
+    "pic": "icon-rogue-qiwu-jifen.png",
+    "motifSn": 1,
+    "unlock": 0,
+    "rogueLine": [
+      102
+    ],
+    "difficulty": 1,
+    "order": 60,
+    "award": 215001,
+    "price": 200
+  },
+  {
+    "sn": 60,
+    "name": "玛奇姆的购物袋",
+    "Count": 1,
+    "countShow": 0,
+    "reset": 1,
+    "text": "获得该遗失物时，立刻扩容两格背包。",
+    "text0": "玛奇姆商店限定的购物袋。非常坚固实用，可以装非常多的东西。",
+    "text1": "",
+    "text2": "",
+    "pic": "icon-rogue-qiwu-gouwudai.png",
+    "motifSn": 1,
+    "unlock": 0,
+    "rogueLine": [
+      102
+    ],
+    "difficulty": 1,
+    "order": 61,
     "award": 215001,
     "price": 200
   }

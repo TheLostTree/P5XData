@@ -1113,6 +1113,48 @@
     "visitAwardTwo": 0
   },
   {
+    "sn": 6001,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310125",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120000,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6002,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310126",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120005,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
     "sn": 6003,
     "coopSn": 6,
     "coopLevel": [],
@@ -1122,14 +1164,14 @@
     "visitProbability": 0,
     "visitType": 6,
     "visitTypeParam": [
-      "310008",
+      "310127",
       "1",
       "0"
     ],
     "visitGroup": 0,
     "isOnce": 1,
     "visitAction": 1,
-    "npcSn": 120000,
+    "npcSn": 120012,
     "visitAwardOne": 14,
     "visitAwardTwo": 0
   },
@@ -1143,14 +1185,14 @@
     "visitProbability": 0,
     "visitType": 6,
     "visitTypeParam": [
-      "310009",
+      "310128",
       "1",
       "0"
     ],
     "visitGroup": 0,
     "isOnce": 1,
     "visitAction": 1,
-    "npcSn": 120005,
+    "npcSn": 120018,
     "visitAwardOne": 14,
     "visitAwardTwo": 0
   },
@@ -1164,14 +1206,14 @@
     "visitProbability": 0,
     "visitType": 6,
     "visitTypeParam": [
-      "310010",
+      "310129",
       "1",
       "0"
     ],
     "visitGroup": 0,
     "isOnce": 1,
     "visitAction": 1,
-    "npcSn": 120012,
+    "npcSn": 120028,
     "visitAwardOne": 14,
     "visitAwardTwo": 0
   },
@@ -1185,14 +1227,14 @@
     "visitProbability": 0,
     "visitType": 6,
     "visitTypeParam": [
-      "310021",
+      "310130",
       "1",
       "0"
     ],
     "visitGroup": 0,
     "isOnce": 1,
     "visitAction": 1,
-    "npcSn": 120061,
+    "npcSn": 120040,
     "visitAwardOne": 14,
     "visitAwardTwo": 0
   },
@@ -1206,14 +1248,245 @@
     "visitProbability": 0,
     "visitType": 6,
     "visitTypeParam": [
-      "310022",
+      "310131",
       "1",
       "0"
     ],
     "visitGroup": 0,
     "isOnce": 1,
     "visitAction": 1,
-    "npcSn": 120074,
+    "npcSn": 120050,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6008,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310132",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120061,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6009,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310133",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120072,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6010,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310133",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120086,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6011,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310134",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120097,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6012,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310134",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120110,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6013,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310135",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120122,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6014,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310135",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120133,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6015,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310136",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120147,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6016,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310136",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120161,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6017,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310137",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120174,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 6018,
+    "coopSn": 6,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310137",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 120185,
     "visitAwardOne": 14,
     "visitAwardTwo": 0
   },
@@ -2531,7 +2804,7 @@
     "visitTypeParam": [
       "310120",
       "1",
-      "0"
+      "1"
     ],
     "visitGroup": 0,
     "isOnce": 1,
@@ -2552,7 +2825,7 @@
     "visitTypeParam": [
       "310120",
       "1",
-      "1"
+      "2"
     ],
     "visitGroup": 0,
     "isOnce": 1,
@@ -2726,6 +2999,741 @@
     "isOnce": 1,
     "visitAction": 1,
     "npcSn": 170169,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13001,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310138",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180000,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13002,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310139",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180005,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13003,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310140",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180010,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13004,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310141",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180015,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13005,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310142",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180024,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13006,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310143",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180033,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13007,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310144",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180043,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13008,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310145",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180054,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13009,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310146",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180064,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13010,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310146",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180075,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13011,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310147",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180087,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13012,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310147",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180097,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13013,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310148",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180108,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13014,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310148",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180120,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13015,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310149",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180132,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13016,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310149",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180142,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13017,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310150",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180152,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 13018,
+    "coopSn": 13,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310150",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 180162,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14001,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310151",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190000,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14002,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310152",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190005,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14003,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310153",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190010,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14004,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310154",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190015,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14005,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310155",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190024,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14006,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310156",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190034,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14007,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310157",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190042,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14008,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310158",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190054,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14009,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310158",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190066,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14010,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310159",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190080,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14011,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310159",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190091,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14012,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310160",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190102,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14013,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310160",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190114,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14014,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310161",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190126,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14015,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310161",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190136,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14016,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310162",
+      "1",
+      "0"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190145,
+    "visitAwardOne": 14,
+    "visitAwardTwo": 0
+  },
+  {
+    "sn": 14017,
+    "coopSn": 12,
+    "coopLevel": [],
+    "limitDayType": [],
+    "limitPhaseType": [],
+    "limitWeather": [],
+    "visitProbability": 0,
+    "visitType": 6,
+    "visitTypeParam": [
+      "310162",
+      "1",
+      "1"
+    ],
+    "visitGroup": 0,
+    "isOnce": 1,
+    "visitAction": 1,
+    "npcSn": 190155,
     "visitAwardOne": 14,
     "visitAwardTwo": 0
   }

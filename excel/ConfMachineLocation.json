@@ -348,7 +348,7 @@
     ],
     "slotPosition": [
       12.92902,
-      15.386,
+      15.5,
       36.46498
     ],
     "OpeningSales": 1,
@@ -390,7 +390,7 @@
     ],
     "slotPosition": [
       13.68899,
-      15.386,
+      15.5,
       36.45835
     ],
     "OpeningSales": 1,
@@ -411,7 +411,7 @@
     ],
     "slotPosition": [
       14.07198,
-      15.386,
+      15.5,
       36.45501
     ],
     "OpeningSales": 1,
@@ -1004,6 +1004,258 @@
     ],
     "OpeningSales": 0,
     "type": 1,
+    "reaName": "Gashapon_machine_04a_lod.prefab",
+    "hangPoint": "12"
+  },
+  {
+    "sn": 2001,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.8779,
+      31.857,
+      261.5005
+    ],
+    "OpeningSales": 1,
+    "type": 202,
+    "reaName": "Gashapon_machine_01_lod.prefab",
+    "hangPoint": "01"
+  },
+  {
+    "sn": 2002,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.8626,
+      31.857,
+      261.1198
+    ],
+    "OpeningSales": 1,
+    "type": 4,
+    "reaName": "Gashapon_machine_02_lod.prefab",
+    "hangPoint": "02"
+  },
+  {
+    "sn": 2003,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.8475,
+      31.857,
+      260.7422
+    ],
+    "OpeningSales": 1,
+    "type": 202,
+    "reaName": "Gashapon_machine_03_lod.prefab",
+    "hangPoint": "03"
+  },
+  {
+    "sn": 2004,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.8321,
+      31.857,
+      260.3585
+    ],
+    "OpeningSales": 1,
+    "type": 4,
+    "reaName": "Gashapon_machine_04_lod.prefab",
+    "hangPoint": "04"
+  },
+  {
+    "sn": 2005,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.8779,
+      31.074,
+      261.5005
+    ],
+    "OpeningSales": 1,
+    "type": 201,
+    "reaName": "Gashapon_machine_01a_lod.prefab",
+    "hangPoint": "05"
+  },
+  {
+    "sn": 2006,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.8626,
+      31.185,
+      261.1198
+    ],
+    "OpeningSales": 1,
+    "type": 201,
+    "reaName": "Gashapon_machine_02a_lod.prefab",
+    "hangPoint": "06"
+  },
+  {
+    "sn": 2007,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.8474,
+      31.074,
+      260.7411
+    ],
+    "OpeningSales": 1,
+    "type": 201,
+    "reaName": "Gashapon_machine_03a_lod.prefab",
+    "hangPoint": "07"
+  },
+  {
+    "sn": 2008,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.8321,
+      31.074,
+      260.3585
+    ],
+    "OpeningSales": 1,
+    "type": 201,
+    "reaName": "Gashapon_machine_04a_lod.prefab",
+    "hangPoint": "08"
+  },
+  {
+    "sn": 2009,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.9649,
+      30.292,
+      261.5005
+    ],
+    "OpeningSales": 0,
+    "type": 201,
+    "reaName": "Gashapon_machine_01a_lod.prefab",
+    "hangPoint": "09"
+  },
+  {
+    "sn": 2010,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.9496,
+      30.292,
+      261.1198
+    ],
+    "OpeningSales": 0,
+    "type": 201,
+    "reaName": "Gashapon_machine_02a_lod.prefab",
+    "hangPoint": "10"
+  },
+  {
+    "sn": 2011,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.9344,
+      30.292,
+      260.7411
+    ],
+    "OpeningSales": 0,
+    "type": 201,
+    "reaName": "Gashapon_machine_03a_lod.prefab",
+    "hangPoint": "11"
+  },
+  {
+    "sn": 2012,
+    "npcSn": 300015,
+    "slotClickRange": [
+      0,
+      0,
+      0,
+      0.3853,
+      0.8345,
+      0.4221
+    ],
+    "slotPosition": [
+      284.919,
+      30.292,
+      260.3585
+    ],
+    "OpeningSales": 0,
+    "type": 201,
     "reaName": "Gashapon_machine_04a_lod.prefab",
     "hangPoint": "12"
   }

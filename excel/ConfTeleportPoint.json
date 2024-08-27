@@ -423,6 +423,26 @@
     "cinemaZ": ""
   },
   {
+    "sn": 34001,
+    "sceneSn": 34,
+    "position": [
+      6.58,
+      3.81,
+      6.21
+    ],
+    "direction": 100.4168,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 35000,
+    "sceneSn": 35,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
     "sn": 50000,
     "sceneSn": 50,
     "position": [],
@@ -619,6 +639,21 @@
     "cinemaXY": [
       -97,
       0.45
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 50016,
+    "sceneSn": 50,
+    "position": [
+      216.2,
+      99.29,
+      302.22
+    ],
+    "direction": 148,
+    "cinemaXY": [
+      150.82,
+      0.6
     ],
     "cinemaZ": ""
   },
@@ -1354,6 +1389,21 @@
     "cinemaZ": ""
   },
   {
+    "sn": 281006,
+    "sceneSn": 281,
+    "position": [
+      46.98,
+      99.61,
+      130.15
+    ],
+    "direction": 39.14,
+    "cinemaXY": [
+      40.17,
+      0.64
+    ],
+    "cinemaZ": ""
+  },
+  {
     "sn": 281010,
     "sceneSn": 281,
     "position": [
@@ -1426,13 +1476,182 @@
     "cinemaZ": ""
   },
   {
+    "sn": 281305,
+    "sceneSn": 281,
+    "position": [
+      55.14,
+      99.62,
+      80.11
+    ],
+    "direction": 170,
+    "cinemaXY": [
+      171.29,
+      0.44
+    ],
+    "cinemaZ": ""
+  },
+  {
     "sn": 300000,
     "sceneSn": 300,
     "position": [
-      281.47,
-      0.01,
-      279.33
+      293.1917,
+      29.92996,
+      279.398
     ],
+    "direction": -96.8497,
+    "cinemaXY": [
+      -94.78,
+      0.25
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 300001,
+    "sceneSn": 300,
+    "position": [
+      241.39,
+      29.93,
+      278.11
+    ],
+    "direction": 173.9004,
+    "cinemaXY": [
+      176.97,
+      0.69
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 300002,
+    "sceneSn": 300,
+    "position": [
+      248.5253,
+      30.31017,
+      225.9541
+    ],
+    "direction": 168.8856,
+    "cinemaXY": [
+      174.13,
+      0.65
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 300003,
+    "sceneSn": 300,
+    "position": [
+      235.5279,
+      30.21815,
+      248.2307
+    ],
+    "direction": -121.5123,
+    "cinemaXY": [
+      -121.7,
+      0.64
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 300004,
+    "sceneSn": 300,
+    "position": [
+      225.9656,
+      29.92797,
+      278.7028
+    ],
+    "direction": -128.4213,
+    "cinemaXY": [
+      -127.18,
+      0.42
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 300008,
+    "sceneSn": 300,
+    "position": [
+      221.3546,
+      30.44924,
+      241.1541
+    ],
+    "direction": -164.1105,
+    "cinemaXY": [
+      -150.11,
+      0.73
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 300010,
+    "sceneSn": 300,
+    "position": [
+      229.4337,
+      30.55193,
+      225.6844
+    ],
+    "direction": -164.8052,
+    "cinemaXY": [
+      -165,
+      0.68
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 300200,
+    "sceneSn": 300,
+    "position": [
+      235,
+      30.56,
+      227.33
+    ],
+    "direction": 43.87,
+    "cinemaXY": [
+      45.96,
+      0.65
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 300300,
+    "sceneSn": 300,
+    "position": [
+      220.086,
+      30.45,
+      241.349
+    ],
+    "direction": 63,
+    "cinemaXY": [
+      92,
+      0.6
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 300301,
+    "sceneSn": 300,
+    "position": [
+      291.97,
+      29.95,
+      281.56
+    ],
+    "direction": 259.47,
+    "cinemaXY": [
+      -99.33,
+      0.64
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 301001,
+    "sceneSn": 301,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 304001,
+    "sceneSn": 304,
+    "position": [],
     "direction": 0,
     "cinemaXY": [],
     "cinemaZ": ""
@@ -1450,6 +1669,14 @@
     "cinemaZ": ""
   },
   {
+    "sn": 403001,
+    "sceneSn": 403,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
     "sn": 501000,
     "sceneSn": 5010,
     "position": [
@@ -1457,6 +1684,505 @@
       105.56,
       353.75
     ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998849,
+    "sceneSn": 500,
+    "position": [
+      53,
+      100,
+      98.32
+    ],
+    "direction": 151.58,
+    "cinemaXY": [
+      167.09,
+      0.61
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998850,
+    "sceneSn": 500,
+    "position": [
+      56.89,
+      100,
+      143.21
+    ],
+    "direction": -30.52,
+    "cinemaXY": [
+      -12.84,
+      0.55
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998851,
+    "sceneSn": 500,
+    "position": [
+      109.04,
+      100,
+      117.96
+    ],
+    "direction": 55.35,
+    "cinemaXY": [
+      55.22,
+      0.47
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998852,
+    "sceneSn": 500,
+    "position": [
+      81.68,
+      100,
+      140.76
+    ],
+    "direction": -13.83,
+    "cinemaXY": [
+      -15.65,
+      0.66
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998853,
+    "sceneSn": 500,
+    "position": [
+      55.6,
+      100,
+      96.14
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      -173.85,
+      0.64
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998854,
+    "sceneSn": 500,
+    "position": [
+      58.94,
+      100.06,
+      130.69
+    ],
+    "direction": 1.96,
+    "cinemaXY": [
+      10.09,
+      0.35
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998855,
+    "sceneSn": 8516,
+    "position": [
+      318.88,
+      120.74,
+      379.92
+    ],
+    "direction": 148.48,
+    "cinemaXY": [
+      124.46,
+      0.57
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998856,
+    "sceneSn": 500,
+    "position": [
+      58.09,
+      100.06,
+      143.35
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      1.02,
+      0.64
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998857,
+    "sceneSn": 8512,
+    "position": [
+      425.54,
+      92.3,
+      444.81
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998858,
+    "sceneSn": 8512,
+    "position": [
+      571.85,
+      100.8,
+      394.1
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998859,
+    "sceneSn": 8514,
+    "position": [
+      321.42,
+      120.74,
+      377.24
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998860,
+    "sceneSn": 8502,
+    "position": [
+      280.09,
+      108.82,
+      271.98
+    ],
+    "direction": 40.44,
+    "cinemaXY": [
+      43.16,
+      0.52
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998861,
+    "sceneSn": 504,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998862,
+    "sceneSn": 500,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998863,
+    "sceneSn": 8512,
+    "position": [
+      434.21,
+      92.33,
+      468.64
+    ],
+    "direction": 241.89,
+    "cinemaXY": [
+      -123.02,
+      0.61
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998864,
+    "sceneSn": 8517,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998865,
+    "sceneSn": 8512,
+    "position": [
+      497.15,
+      88.34,
+      465.25
+    ],
+    "direction": 149.9,
+    "cinemaXY": [
+      150.06,
+      0.64
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 998866,
+    "sceneSn": 8518,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999867,
+    "sceneSn": 8512,
+    "position": [
+      574.14,
+      88.26,
+      450.26
+    ],
+    "direction": 209.24,
+    "cinemaXY": [
+      -140.35,
+      0.55
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999868,
+    "sceneSn": 8514,
+    "position": [
+      318.88,
+      120.74,
+      379.92
+    ],
+    "direction": 148.48,
+    "cinemaXY": [
+      124.46,
+      0.57
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999869,
+    "sceneSn": 8502,
+    "position": [
+      274.12,
+      108.82,
+      266.46
+    ],
+    "direction": 44.54,
+    "cinemaXY": [
+      42.72,
+      0.54
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999870,
+    "sceneSn": 3068,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999871,
+    "sceneSn": 8501,
+    "position": [
+      320.96,
+      81.61,
+      130.65
+    ],
+    "direction": 310.43,
+    "cinemaXY": [
+      0,
+      0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999872,
+    "sceneSn": 2102,
+    "position": [
+      200.53,
+      99.55,
+      368.58
+    ],
+    "direction": 261.14,
+    "cinemaXY": [
+      -92.06,
+      0.5
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999873,
+    "sceneSn": 8501,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999874,
+    "sceneSn": 2102,
+    "position": [
+      219.1,
+      99.55,
+      359.08
+    ],
+    "direction": 116.8,
+    "cinemaXY": [
+      117.05,
+      0.64
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999875,
+    "sceneSn": 2102,
+    "position": [
+      213.43,
+      99.55,
+      357.86
+    ],
+    "direction": 222.94,
+    "cinemaXY": [
+      -141.1,
+      0.65
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999876,
+    "sceneSn": 269,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999877,
+    "sceneSn": 281,
+    "position": [
+      55.08,
+      99.62,
+      96.95
+    ],
+    "direction": 65.75,
+    "cinemaXY": [
+      62.31,
+      0.52
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999878,
+    "sceneSn": 3063,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999879,
+    "sceneSn": 263,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999880,
+    "sceneSn": 300,
+    "position": [
+      234.53,
+      30.53,
+      230.56
+    ],
+    "direction": 199.08,
+    "cinemaXY": [
+      -159.2,
+      0.6
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999881,
+    "sceneSn": 300,
+    "position": [
+      251.65,
+      30.17,
+      225.42
+    ],
+    "direction": 276.99,
+    "cinemaXY": [
+      -82.18,
+      0.58
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999882,
+    "sceneSn": 3067,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999883,
+    "sceneSn": 276,
+    "position": [
+      92.22,
+      19.02,
+      75.38
+    ],
+    "direction": 88.3,
+    "cinemaXY": [
+      64.65,
+      0.46
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999884,
+    "sceneSn": 271,
+    "position": [
+      91.06,
+      14.8,
+      109.83
+    ],
+    "direction": 174.73,
+    "cinemaXY": [
+      179.09,
+      0.57
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999885,
+    "sceneSn": 281,
+    "position": [
+      54.31,
+      99.63,
+      96.82
+    ],
+    "direction": 66.68,
+    "cinemaXY": [
+      63.95,
+      0.55
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999886,
+    "sceneSn": 2102,
+    "position": [
+      201.23,
+      99.55,
+      364.33
+    ],
+    "direction": 269.94,
+    "cinemaXY": [
+      -90.68,
+      0.59
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 999887,
+    "sceneSn": 42102,
+    "position": [],
     "direction": 0,
     "cinemaXY": [],
     "cinemaZ": ""
@@ -1496,24 +2222,30 @@
     "sn": 999891,
     "sceneSn": 300,
     "position": [
-      235.72,
-      0.71,
-      242.08
+      229.02,
+      30.55,
+      225.73
     ],
-    "direction": 0,
-    "cinemaXY": [],
+    "direction": 66.85,
+    "cinemaXY": [
+      74.72,
+      0.54
+    ],
     "cinemaZ": ""
   },
   {
     "sn": 999892,
     "sceneSn": 269,
     "position": [
-      64.72,
+      64.84,
       10.61,
-      100.49
+      99.98
     ],
-    "direction": 0,
-    "cinemaXY": [],
+    "direction": 359.43,
+    "cinemaXY": [
+      -1.07,
+      0.68
+    ],
     "cinemaZ": ""
   },
   {
@@ -2607,9 +3339,9 @@
     "sn": 999977,
     "sceneSn": 8300,
     "position": [
-      141.35,
-      28.87,
-      400.37
+      153.03,
+      30.06,
+      363.82
     ],
     "direction": 162,
     "cinemaXY": [],
@@ -3298,6 +4030,21 @@
     "cinemaZ": ""
   },
   {
+    "sn": 2102033,
+    "sceneSn": 2102,
+    "position": [
+      266.57,
+      99.55,
+      265.06
+    ],
+    "direction": 85.2,
+    "cinemaXY": [
+      85.2,
+      0.6
+    ],
+    "cinemaZ": ""
+  },
+  {
     "sn": 2102040,
     "sceneSn": 2102,
     "position": [
@@ -3309,6 +4056,21 @@
     "cinemaXY": [
       -110.72,
       0.43
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102041,
+    "sceneSn": 2102,
+    "position": [
+      280.99,
+      99.55,
+      250.01
+    ],
+    "direction": 56.31,
+    "cinemaXY": [
+      56.32,
+      0.72
     ],
     "cinemaZ": ""
   },
@@ -3515,10 +4277,10 @@
       99.565,
       280.74
     ],
-    "direction": 90,
+    "direction": 104,
     "cinemaXY": [
-      90,
-      0.9
+      117.45,
+      0.66
     ],
     "cinemaZ": ""
   },
@@ -3549,6 +4311,36 @@
     "cinemaXY": [
       34.56,
       0.62
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102117,
+    "sceneSn": 2102,
+    "position": [
+      278.39,
+      99.55,
+      247.19
+    ],
+    "direction": -125.9257,
+    "cinemaXY": [
+      -124.81,
+      0.62
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2102118,
+    "sceneSn": 2102,
+    "position": [
+      278.93,
+      99.55,
+      248.82
+    ],
+    "direction": 56.27354,
+    "cinemaXY": [
+      55.48,
+      0.72
     ],
     "cinemaZ": ""
   },
@@ -3670,6 +4462,36 @@
     ],
     "direction": 212,
     "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2129005,
+    "sceneSn": 2129,
+    "position": [
+      286.354,
+      40.43,
+      127.06
+    ],
+    "direction": -90,
+    "cinemaXY": [
+      -90.48,
+      0.5
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 2129006,
+    "sceneSn": 2129,
+    "position": [
+      289.293,
+      40.39,
+      122.59
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      -178.92,
+      0.54
+    ],
     "cinemaZ": ""
   },
   {
@@ -4167,6 +4989,214 @@
     "cinemaZ": ""
   },
   {
+    "sn": 4201101,
+    "sceneSn": 42011,
+    "position": [
+      102.13,
+      97.021,
+      149.43
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4201201,
+    "sceneSn": 42012,
+    "position": [
+      65.4,
+      97.017,
+      68.28
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4203101,
+    "sceneSn": 42031,
+    "position": [
+      66.938,
+      17.02487,
+      24.987
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4204101,
+    "sceneSn": 42041,
+    "position": [
+      172.7374,
+      0.005373535,
+      55.15368
+    ],
+    "direction": 121.4556,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4205201,
+    "sceneSn": 42052,
+    "position": [
+      88.42385,
+      82.42688,
+      107.0426
+    ],
+    "direction": 45,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4205202,
+    "sceneSn": 42052,
+    "position": [
+      102.692,
+      10.61001,
+      174.476
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4205301,
+    "sceneSn": 42053,
+    "position": [
+      56.24,
+      10.00872,
+      58.48
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4216101,
+    "sceneSn": 42161,
+    "position": [
+      69.69,
+      10.01,
+      65.68706
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4216201,
+    "sceneSn": 42162,
+    "position": [
+      41.11,
+      5.026162,
+      69.56
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4217101,
+    "sceneSn": 42172,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4217201,
+    "sceneSn": 42172,
+    "position": [
+      49.15192,
+      11.67552,
+      12.74
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4217202,
+    "sceneSn": 42172,
+    "position": [
+      32.29,
+      11.67552,
+      106
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4218101,
+    "sceneSn": 42181,
+    "position": [
+      16.69,
+      3.377845,
+      30.55
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4218102,
+    "sceneSn": 42181,
+    "position": [
+      59.84,
+      15.37784,
+      97.05
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4219101,
+    "sceneSn": 42191,
+    "position": [
+      37.46,
+      2.714384,
+      143.6877
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4220101,
+    "sceneSn": 42202,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4220201,
+    "sceneSn": 42205,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4220301,
+    "sceneSn": 42204,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 4220501,
+    "sceneSn": 42203,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
     "sn": 5001000,
     "sceneSn": 5001,
     "position": [],
@@ -4617,6 +5647,21 @@
       469.46,
       52.29,
       323.81
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.9
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5504301,
+    "sceneSn": 5504,
+    "position": [
+      471.57,
+      52.39,
+      324.1
     ],
     "direction": 90,
     "cinemaXY": [
@@ -6056,7 +7101,7 @@
     "position": [
       159.9,
       31.5,
-      194.53
+      199.53
     ],
     "direction": 0,
     "cinemaXY": [
@@ -6084,9 +7129,9 @@
     "sn": 5520001,
     "sceneSn": 5520,
     "position": [
-      199.92,
+      199.978,
       43.287,
-      46.27
+      46.546
     ],
     "direction": 0,
     "cinemaXY": [
@@ -6099,13 +7144,13 @@
     "sn": 5520002,
     "sceneSn": 5520,
     "position": [
-      354.428,
-      74.49,
-      657.974
+      360.259,
+      77.832,
+      658.296
     ],
-    "direction": 0,
+    "direction": 180,
     "cinemaXY": [
-      0,
+      180,
       0.28
     ],
     "cinemaZ": ""
@@ -6114,9 +7159,9 @@
     "sn": 5520010,
     "sceneSn": 5520,
     "position": [
-      206.09,
-      43.30564,
-      113.994
+      200.002,
+      43.265,
+      114.041
     ],
     "direction": 0,
     "cinemaXY": [
@@ -6129,9 +7174,9 @@
     "sn": 5520011,
     "sceneSn": 5520,
     "position": [
-      269.39,
-      55.30243,
-      242.015
+      263.989,
+      55.265,
+      242.036
     ],
     "direction": 0,
     "cinemaXY": [
@@ -6144,9 +7189,9 @@
     "sn": 5520012,
     "sceneSn": 5520,
     "position": [
-      366.4,
-      70.25564,
-      466.251
+      360.26,
+      70.215,
+      466.27
     ],
     "direction": 0,
     "cinemaXY": [
@@ -6192,6 +7237,156 @@
       203.17,
       43.32757,
       59.24
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.28
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5521001,
+    "sceneSn": 5521,
+    "position": [
+      150.08,
+      43.3961,
+      150.8225
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.89
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5521002,
+    "sceneSn": 5521,
+    "position": [
+      630.385,
+      47.901,
+      214.248
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      180,
+      0.28
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5521010,
+    "sceneSn": 5521,
+    "position": [
+      214.254,
+      46.273,
+      182.255
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.28
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5521011,
+    "sceneSn": 5521,
+    "position": [
+      438.375,
+      49.273,
+      182.272
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.28
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5521012,
+    "sceneSn": 5521,
+    "position": [
+      726.398,
+      46.281,
+      214.278
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.28
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5522001,
+    "sceneSn": 5522,
+    "position": [
+      300.07,
+      43.3,
+      299.88
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.89
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5522002,
+    "sceneSn": 5522,
+    "position": [
+      492.313,
+      53.808,
+      619.84
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      180,
+      0.28
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5522101,
+    "sceneSn": 5522,
+    "position": [
+      300.027,
+      43.218,
+      428.203
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.28
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5522102,
+    "sceneSn": 5522,
+    "position": [
+      524.545,
+      49.267,
+      523.729
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.28
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5522103,
+    "sceneSn": 5522,
+    "position": [
+      684.3,
+      49.226,
+      428.23
     ],
     "direction": 0,
     "cinemaXY": [
@@ -6362,6 +7557,21 @@
     "cinemaXY": [
       0,
       0
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 5610001,
+    "sceneSn": 5610,
+    "position": [
+      49.93,
+      0,
+      45
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      25.4389,
+      0.5304
     ],
     "cinemaZ": ""
   },
@@ -9065,9 +10275,9 @@
     "sn": 8460019,
     "sceneSn": 8460,
     "position": [
-      415.59,
-      53.016,
-      500.0051
+      411.2483,
+      53.04079,
+      500.1901
     ],
     "direction": 90,
     "cinemaXY": [],
@@ -9146,6 +10356,1002 @@
     "cinemaZ": ""
   },
   {
+    "sn": 8501000,
+    "sceneSn": 8501,
+    "position": [
+      234.9,
+      86.93,
+      92.78
+    ],
+    "direction": 55,
+    "cinemaXY": [
+      55,
+      0.54
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8501001,
+    "sceneSn": 8501,
+    "position": [
+      317.53,
+      74.55,
+      163.87
+    ],
+    "direction": 118,
+    "cinemaXY": [
+      0,
+      0.65
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8502000,
+    "sceneSn": 8502,
+    "position": [
+      273.38,
+      108.81,
+      265.13
+    ],
+    "direction": 45,
+    "cinemaXY": [
+      45,
+      0.53
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8502001,
+    "sceneSn": 8502,
+    "position": [
+      273.38,
+      108.81,
+      265.13
+    ],
+    "direction": 45,
+    "cinemaXY": [
+      45,
+      0.53
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8509000,
+    "sceneSn": 8509,
+    "position": [
+      234.9,
+      86.93,
+      92.78
+    ],
+    "direction": 55,
+    "cinemaXY": [
+      55,
+      0.54
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8509001,
+    "sceneSn": 8509,
+    "position": [
+      315.74,
+      74.7,
+      165.06
+    ],
+    "direction": 118,
+    "cinemaXY": [
+      0,
+      0.65
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8509100,
+    "sceneSn": 8509,
+    "position": [
+      273.38,
+      108.81,
+      265.13
+    ],
+    "direction": 45,
+    "cinemaXY": [
+      45,
+      0.48
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8509101,
+    "sceneSn": 8509,
+    "position": [
+      273.38,
+      108.81,
+      265.13
+    ],
+    "direction": 45,
+    "cinemaXY": [
+      45,
+      0.48
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511000,
+    "sceneSn": 8511,
+    "position": [
+      310.16,
+      42.63,
+      188.51
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511001,
+    "sceneSn": 8511,
+    "position": [
+      329.2,
+      43.3,
+      188.69
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511005,
+    "sceneSn": 8511,
+    "position": [
+      248.29,
+      55.08,
+      327.8
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      180,
+      0.55
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511007,
+    "sceneSn": 8511,
+    "position": [
+      123.96,
+      47.08,
+      235.94
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511008,
+    "sceneSn": 8511,
+    "position": [
+      123.96,
+      47.08,
+      254.6
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      180,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511009,
+    "sceneSn": 8511,
+    "position": [
+      123.12,
+      39.07,
+      318.3
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511010,
+    "sceneSn": 8511,
+    "position": [
+      156.14,
+      61.35,
+      188.45
+    ],
+    "direction": 135,
+    "cinemaXY": [
+      135,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511020,
+    "sceneSn": 8511,
+    "position": [
+      242.53,
+      115.53,
+      332.73
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      40,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511021,
+    "sceneSn": 8511,
+    "position": [
+      310,
+      120.82,
+      390
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      40,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511022,
+    "sceneSn": 8511,
+    "position": [
+      327.79,
+      48.08,
+      279.07
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.55
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511030,
+    "sceneSn": 8511,
+    "position": [
+      321.36,
+      48.08,
+      281.25
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511101,
+    "sceneSn": 8511,
+    "position": [
+      293.11,
+      55.08,
+      257.27
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      180,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511102,
+    "sceneSn": 8511,
+    "position": [
+      273.92,
+      51.08,
+      317.53
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511103,
+    "sceneSn": 8511,
+    "position": [
+      373.86,
+      51.05367,
+      301.93
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511104,
+    "sceneSn": 8511,
+    "position": [
+      186.03,
+      43.15131,
+      355.59
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511105,
+    "sceneSn": 8511,
+    "position": [
+      210.1,
+      55.071,
+      307.5
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511106,
+    "sceneSn": 8511,
+    "position": [
+      158.226,
+      51.19227,
+      279.5891
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8511107,
+    "sceneSn": 8511,
+    "position": [
+      186.04,
+      59.05,
+      204.58
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512000,
+    "sceneSn": 8512,
+    "position": [
+      411.68,
+      80.256,
+      406.27
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.54
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512001,
+    "sceneSn": 8512,
+    "position": [
+      411.68,
+      80.256,
+      406.27
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.54
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512005,
+    "sceneSn": 8512,
+    "position": [
+      380.26,
+      92.29,
+      466.6
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.55
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512021,
+    "sceneSn": 8512,
+    "position": [
+      411.57,
+      80.25,
+      406.62
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.54
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512023,
+    "sceneSn": 8512,
+    "position": [
+      593.94,
+      93.32,
+      402.37
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      90,
+      0.6
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512024,
+    "sceneSn": 8512,
+    "position": [
+      592.44,
+      75.42,
+      404.19
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      90,
+      0.6
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512025,
+    "sceneSn": 8512,
+    "position": [
+      604.6,
+      92.27,
+      439.59
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      0,
+      0.6
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512030,
+    "sceneSn": 8512,
+    "position": [
+      374.95,
+      132.63,
+      460.3
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      270,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512040,
+    "sceneSn": 8512,
+    "position": [
+      444.04,
+      80.16,
+      415.92
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512045,
+    "sceneSn": 8512,
+    "position": [
+      602.95,
+      93.3,
+      398.85
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512101,
+    "sceneSn": 8512,
+    "position": [
+      394.059,
+      80.25567,
+      401.53
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512102,
+    "sceneSn": 8512,
+    "position": [
+      429.3,
+      92.32999,
+      444.8
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512103,
+    "sceneSn": 8512,
+    "position": [
+      495.73,
+      88.33928,
+      472.68
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512104,
+    "sceneSn": 8512,
+    "position": [
+      558.77,
+      84.27467,
+      390.242
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512105,
+    "sceneSn": 8512,
+    "position": [
+      606.72,
+      92.18584,
+      443.5384
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8512106,
+    "sceneSn": 8512,
+    "position": [
+      409.45,
+      80.19401,
+      382.3536
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8513000,
+    "sceneSn": 8513,
+    "position": [
+      230.78,
+      87.631,
+      419.08
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8513101,
+    "sceneSn": 8513,
+    "position": [
+      152.49,
+      95.6338,
+      514.54
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8513102,
+    "sceneSn": 8513,
+    "position": [
+      183.698,
+      95.59751,
+      537.958
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8513103,
+    "sceneSn": 8513,
+    "position": [
+      204.455,
+      91.634,
+      480.438
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8513104,
+    "sceneSn": 8513,
+    "position": [
+      229.917,
+      87.631,
+      410.57
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8513105,
+    "sceneSn": 8513,
+    "position": [
+      298.554,
+      91.73088,
+      470.035
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8513106,
+    "sceneSn": 8513,
+    "position": [
+      267.9299,
+      91.5208,
+      542.856
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514000,
+    "sceneSn": 8514,
+    "position": [
+      267.54,
+      114.538,
+      324.63
+    ],
+    "direction": 30,
+    "cinemaXY": [
+      30,
+      0.3
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514001,
+    "sceneSn": 8514,
+    "position": [
+      358.08,
+      137.91,
+      553.94
+    ],
+    "direction": 240,
+    "cinemaXY": [
+      240,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514005,
+    "sceneSn": 8514,
+    "position": [
+      248.48,
+      75.2,
+      322.32
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.53
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514007,
+    "sceneSn": 8514,
+    "position": [
+      252.46,
+      115.53,
+      331.81
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      0,
+      0.61
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514011,
+    "sceneSn": 8514,
+    "position": [
+      384.44,
+      92.28,
+      466.46
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.53
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514013,
+    "sceneSn": 8514,
+    "position": [
+      375.66,
+      132.61,
+      470.62
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      270,
+      0.61
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514015,
+    "sceneSn": 8514,
+    "position": [
+      321.42,
+      120.74,
+      377.24
+    ],
+    "direction": 120,
+    "cinemaXY": [
+      120,
+      0.46
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514021,
+    "sceneSn": 8514,
+    "position": [
+      307.48,
+      129.74,
+      461.32
+    ],
+    "direction": 240,
+    "cinemaXY": [
+      240,
+      0.46
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514022,
+    "sceneSn": 8514,
+    "position": [
+      334.37,
+      134.72,
+      519.84
+    ],
+    "direction": 30,
+    "cinemaXY": [
+      30,
+      0.46
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514030,
+    "sceneSn": 8514,
+    "position": [
+      287.62,
+      117.66,
+      372.65
+    ],
+    "direction": 75,
+    "cinemaXY": [
+      65,
+      0.42
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514101,
+    "sceneSn": 8514,
+    "position": [
+      279.44,
+      117.67,
+      371.89
+    ],
+    "direction": 150,
+    "cinemaXY": [
+      150,
+      0.53
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8514102,
+    "sceneSn": 8514,
+    "position": [
+      340.85,
+      134.75,
+      537.61
+    ],
+    "direction": 120,
+    "cinemaXY": [
+      120,
+      0.53
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8519000,
+    "sceneSn": 8519,
+    "position": [
+      307.6,
+      43.06,
+      188.78
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8519001,
+    "sceneSn": 8519,
+    "position": [
+      307.6,
+      43.06,
+      188.78
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8519010,
+    "sceneSn": 8519,
+    "position": [
+      358.08,
+      137.91,
+      553.94
+    ],
+    "direction": 240,
+    "cinemaXY": [
+      240,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8519020,
+    "sceneSn": 8519,
+    "position": [
+      242.53,
+      115.53,
+      332.73
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      40,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8519021,
+    "sceneSn": 8519,
+    "position": [
+      439.97,
+      80.18,
+      417.18
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      90,
+      0.3
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8519025,
+    "sceneSn": 8519,
+    "position": [
+      606.19,
+      92.26,
+      449.35
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      180,
+      0.3
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 8519030,
+    "sceneSn": 8519,
+    "position": [
+      374.95,
+      132.63,
+      460.3
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      270,
+      0.51
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 20011010,
+    "sceneSn": 20011,
+    "position": [
+      133.68,
+      137.14,
+      191.44
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 20012010,
+    "sceneSn": 20012,
+    "position": [
+      105.81,
+      165.55,
+      161.86
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
     "sn": 20012090,
     "sceneSn": 20012,
     "position": [
@@ -9157,6 +11363,36 @@
     "cinemaXY": [
       90,
       0.28
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 20013010,
+    "sceneSn": 20013,
+    "position": [
+      123.77,
+      115.5,
+      156.99
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 20014010,
+    "sceneSn": 20014,
+    "position": [
+      133.68,
+      137.14,
+      191.44
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
     ],
     "cinemaZ": ""
   },
@@ -9842,6 +12078,222 @@
     "cinemaZ": ""
   },
   {
+    "sn": 40001041,
+    "sceneSn": 40039,
+    "position": [
+      59.89,
+      12.02562,
+      42.165
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001042,
+    "sceneSn": 40033,
+    "position": [
+      100.851,
+      54.01572,
+      34.638
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001043,
+    "sceneSn": 40033,
+    "position": [
+      30.425,
+      54.01572,
+      51.223
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001044,
+    "sceneSn": 40034,
+    "position": [
+      86.57447,
+      104.6271,
+      58.856
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001045,
+    "sceneSn": 40034,
+    "position": [
+      103.76,
+      96.61689,
+      122.22
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001046,
+    "sceneSn": 40034,
+    "position": [
+      58.9,
+      104.6271,
+      26.871
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001047,
+    "sceneSn": 40036,
+    "position": [
+      43.25,
+      11.67552,
+      76.69
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001048,
+    "sceneSn": 40036,
+    "position": [
+      4.79,
+      19.68534,
+      5.66
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001049,
+    "sceneSn": 40037,
+    "position": [
+      59.68,
+      15.37784,
+      54.06
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001050,
+    "sceneSn": 40037,
+    "position": [
+      14.657,
+      11.38355,
+      4.166
+    ],
+    "direction": 20,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001051,
+    "sceneSn": 40038,
+    "position": [
+      11.332,
+      13.72108,
+      8.989
+    ],
+    "direction": 37.5,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001052,
+    "sceneSn": 40038,
+    "position": [
+      66.22,
+      2.724365,
+      181.15
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001053,
+    "sceneSn": 40035,
+    "position": [
+      119.23,
+      34.01379,
+      15.56
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001054,
+    "sceneSn": 40035,
+    "position": [
+      119.011,
+      34.01379,
+      113.609
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001055,
+    "sceneSn": 40041,
+    "position": [
+      60.03,
+      0.7307012,
+      77.058
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001056,
+    "sceneSn": 40041,
+    "position": [
+      80.759,
+      16.01319,
+      23.54
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001057,
+    "sceneSn": 40040,
+    "position": [
+      62.7,
+      10.01,
+      75.02
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 40001058,
+    "sceneSn": 40042,
+    "position": [
+      120.016,
+      0.01205814,
+      134.807
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
     "sn": 41011002,
     "sceneSn": 41012,
     "position": [],
@@ -10433,6 +12885,903 @@
     "cinemaZ": ""
   },
   {
+    "sn": 42061001,
+    "sceneSn": 42061,
+    "position": [
+      56.07,
+      10.019,
+      91.74
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      180,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42061002,
+    "sceneSn": 42061,
+    "position": [
+      46.53,
+      22.019,
+      14.96
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42061003,
+    "sceneSn": 42061,
+    "position": [
+      91.97857,
+      25.00872,
+      24.84392
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42071001,
+    "sceneSn": 42071,
+    "position": [
+      109.593,
+      10.61,
+      168.42
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      180,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42071002,
+    "sceneSn": 42071,
+    "position": [
+      128.9861,
+      16.61001,
+      72.429
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42081001,
+    "sceneSn": 42081,
+    "position": [
+      85.59,
+      16.62,
+      49.97
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42081002,
+    "sceneSn": 42081,
+    "position": [
+      39.24,
+      16.62,
+      68.13
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42081003,
+    "sceneSn": 42081,
+    "position": [
+      124.5,
+      16.61,
+      48.46
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42081004,
+    "sceneSn": 42081,
+    "position": [
+      88.84,
+      16.62,
+      49.1
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42082001,
+    "sceneSn": 42082,
+    "position": [
+      134.51,
+      27.112,
+      52.99
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42082002,
+    "sceneSn": 42082,
+    "position": [
+      81.81,
+      27.11238,
+      78.982
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42082101,
+    "sceneSn": 42082,
+    "position": [
+      83.01341,
+      16.356,
+      40.9095
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42082102,
+    "sceneSn": 42082,
+    "position": [
+      85.20094,
+      16.74954,
+      57.47792
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42082103,
+    "sceneSn": 42082,
+    "position": [
+      86.482,
+      26.354,
+      26.511
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42082104,
+    "sceneSn": 42082,
+    "position": [
+      82.81,
+      38.63,
+      46.64
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42082105,
+    "sceneSn": 42082,
+    "position": [
+      85.84482,
+      32.16049,
+      60.68441
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42082106,
+    "sceneSn": 42082,
+    "position": [
+      85.24715,
+      27.16128,
+      36.3991
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      180,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42082107,
+    "sceneSn": 42082,
+    "position": [
+      83,
+      15.5,
+      45.66
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42082108,
+    "sceneSn": 42082,
+    "position": [
+      78.38,
+      22.4,
+      60.74
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42091001,
+    "sceneSn": 42091,
+    "position": [
+      44.258,
+      21.112,
+      70.942
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      180,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092001,
+    "sceneSn": 42092,
+    "position": [
+      185.005,
+      87.294,
+      163.157
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092002,
+    "sceneSn": 42092,
+    "position": [
+      160.778,
+      60.011,
+      135.576
+    ],
+    "direction": 288,
+    "cinemaXY": [
+      288,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092502,
+    "sceneSn": 42092,
+    "position": [
+      128.53,
+      86.29726,
+      138.4722
+    ],
+    "direction": 0,
+    "cinemaXY": [
+      0,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092503,
+    "sceneSn": 42092,
+    "position": [
+      132.3826,
+      98.47578,
+      167.5882
+    ],
+    "direction": 168,
+    "cinemaXY": [
+      168,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092504,
+    "sceneSn": 42092,
+    "position": [
+      128.7,
+      105.6193,
+      170.4
+    ],
+    "direction": 180,
+    "cinemaXY": [
+      180,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092505,
+    "sceneSn": 42092,
+    "position": [
+      140.099,
+      64.26,
+      132.978
+    ],
+    "direction": 105.6,
+    "cinemaXY": [
+      105.6,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092506,
+    "sceneSn": 42092,
+    "position": [
+      181.344,
+      70.249,
+      121.584
+    ],
+    "direction": 283.5,
+    "cinemaXY": [
+      283.5,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092507,
+    "sceneSn": 42092,
+    "position": [
+      164.65,
+      70.29426,
+      146.4
+    ],
+    "direction": 62.129,
+    "cinemaXY": [
+      62.129,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092508,
+    "sceneSn": 42092,
+    "position": [
+      151.4534,
+      70.29426,
+      168.0382
+    ],
+    "direction": 146.319,
+    "cinemaXY": [
+      146.319,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092509,
+    "sceneSn": 42092,
+    "position": [
+      128.7674,
+      85.79426,
+      131.3218
+    ],
+    "direction": 181.75,
+    "cinemaXY": [
+      181.75,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092510,
+    "sceneSn": 42092,
+    "position": [
+      160.344,
+      94.79,
+      104.634
+    ],
+    "direction": 270,
+    "cinemaXY": [
+      270,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092511,
+    "sceneSn": 42092,
+    "position": [
+      143.258,
+      56.46316,
+      140.2654
+    ],
+    "direction": 106.06,
+    "cinemaXY": [
+      106.06,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42092512,
+    "sceneSn": 42092,
+    "position": [
+      169,
+      95.99345,
+      104.6
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42093001,
+    "sceneSn": 42093,
+    "position": [
+      35.983,
+      42.51,
+      49.11
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.7
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42111001,
+    "sceneSn": 42112,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42111002,
+    "sceneSn": 42111,
+    "position": [
+      59.721,
+      12.02785,
+      47.79
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42112001,
+    "sceneSn": 42112,
+    "position": [
+      101.03,
+      66.0278,
+      70.26
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42121001,
+    "sceneSn": 42121,
+    "position": [
+      136.5497,
+      54.02,
+      99.08
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42131001,
+    "sceneSn": 42132,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42131002,
+    "sceneSn": 42131,
+    "position": [
+      55.121,
+      54.016,
+      51.813
+    ],
+    "direction": 11,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42131003,
+    "sceneSn": 42131,
+    "position": [
+      59.13,
+      54.01572,
+      61.58
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42141001,
+    "sceneSn": 42141,
+    "position": [
+      67.79,
+      104.6271,
+      64.94
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42141002,
+    "sceneSn": 42141,
+    "position": [
+      75.85,
+      104.6271,
+      72.66
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42141003,
+    "sceneSn": 42141,
+    "position": [
+      19.85,
+      104.6134,
+      57.2
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42141004,
+    "sceneSn": 42141,
+    "position": [
+      31.09,
+      104.5217,
+      57.394
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42151001,
+    "sceneSn": 42151,
+    "position": [
+      80.513,
+      104.6271,
+      86.867
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42151002,
+    "sceneSn": 42151,
+    "position": [
+      103.888,
+      104.6117,
+      104.54
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42161001,
+    "sceneSn": 42162,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42161011,
+    "sceneSn": 42161,
+    "position": [
+      64.887,
+      19.01,
+      69.05
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42161012,
+    "sceneSn": 42161,
+    "position": [
+      64.887,
+      19.01,
+      71.647
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42161013,
+    "sceneSn": 42161,
+    "position": [
+      64.887,
+      9.89,
+      17.643
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42161014,
+    "sceneSn": 42161,
+    "position": [
+      64.887,
+      9.89,
+      20.24
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42161101,
+    "sceneSn": 42161,
+    "position": [
+      69.456,
+      19.01,
+      16.01886
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42161102,
+    "sceneSn": 42161,
+    "position": [
+      69.496,
+      10.01,
+      15.748
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42162001,
+    "sceneSn": 42162,
+    "position": [
+      59.97,
+      0.01323772,
+      71.911
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42162002,
+    "sceneSn": 42161,
+    "position": [
+      63.99,
+      10.01,
+      75.44
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42162101,
+    "sceneSn": 42162,
+    "position": [
+      59.95,
+      16.013,
+      31.63
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42172001,
+    "sceneSn": 42172,
+    "position": [
+      25.76,
+      5.675524,
+      77.11847
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42172002,
+    "sceneSn": 42172,
+    "position": [
+      10.958,
+      11.68283,
+      62.092
+    ],
+    "direction": 180,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42172003,
+    "sceneSn": 42172,
+    "position": [
+      24,
+      5.675523,
+      76.90929
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42172101,
+    "sceneSn": 42172,
+    "position": [
+      27.11,
+      11.694,
+      23.92
+    ],
+    "direction": 90,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42172102,
+    "sceneSn": 42172,
+    "position": [
+      46.5,
+      6.686,
+      91.22
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42181001,
+    "sceneSn": 42181,
+    "position": [
+      26.39232,
+      3.367845,
+      31.16494
+    ],
+    "direction": 90,
+    "cinemaXY": [
+      90,
+      0.34
+    ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42181101,
+    "sceneSn": 42181,
+    "position": [
+      31.32,
+      9.377843,
+      76.52
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42191101,
+    "sceneSn": 42191,
+    "position": [
+      27.375,
+      2.669,
+      101.902
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42191102,
+    "sceneSn": 42191,
+    "position": [
+      50.51392,
+      5.792793,
+      115.7396
+    ],
+    "direction": 270,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 42191103,
+    "sceneSn": 42191,
+    "position": [
+      11.71,
+      2.714397,
+      135.94
+    ],
+    "direction": 0,
+    "cinemaXY": [],
+    "cinemaZ": ""
+  },
+  {
     "sn": 55020070,
     "sceneSn": 5502,
     "position": [
@@ -10775,6 +14124,14 @@
       0,
       0.7
     ],
+    "cinemaZ": ""
+  },
+  {
+    "sn": 99999001,
+    "sceneSn": 999990,
+    "position": [],
+    "direction": 0,
+    "cinemaXY": [],
     "cinemaZ": ""
   }
 ]

@@ -10,10 +10,10 @@
     "sort": 1,
     "systemeventSn": 0,
     "num": 0,
-    "type": 1,
-    "cuptype": 1,
+    "type": 0,
+    "cuptype": 0,
     "show": "",
-    "boss": 1
+    "boss": 0
   },
   {
     "sn": 10102,
@@ -26,10 +26,10 @@
     "sort": 2,
     "systemeventSn": 0,
     "num": 0,
-    "type": 1,
-    "cuptype": 1,
+    "type": 0,
+    "cuptype": 0,
     "show": "",
-    "boss": 2
+    "boss": 0
   },
   {
     "sn": 10103,
@@ -42,10 +42,10 @@
     "sort": 3,
     "systemeventSn": 0,
     "num": 0,
-    "type": 1,
-    "cuptype": 1,
-    "show": "icon-rogue-rewardteam-changgui-tong.png",
-    "boss": 3
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
   },
   {
     "sn": 10104,
@@ -58,10 +58,10 @@
     "sort": 4,
     "systemeventSn": 0,
     "num": 0,
-    "type": 1,
-    "cuptype": 1,
+    "type": 0,
+    "cuptype": 0,
     "show": "",
-    "boss": 4
+    "boss": 0
   },
   {
     "sn": 10105,
@@ -74,10 +74,10 @@
     "sort": 5,
     "systemeventSn": 0,
     "num": 0,
-    "type": 1,
-    "cuptype": 2,
+    "type": 0,
+    "cuptype": 0,
     "show": "",
-    "boss": 1
+    "boss": 0
   },
   {
     "sn": 10106,
@@ -90,10 +90,10 @@
     "sort": 6,
     "systemeventSn": 0,
     "num": 0,
-    "type": 1,
-    "cuptype": 2,
-    "show": "icon-rogue-rewardteam-changgui-yin.png",
-    "boss": 2
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
   },
   {
     "sn": 10107,
@@ -106,10 +106,10 @@
     "sort": 7,
     "systemeventSn": 0,
     "num": 0,
-    "type": 2,
-    "cuptype": 1,
+    "type": 0,
+    "cuptype": 0,
     "show": "",
-    "boss": 1
+    "boss": 0
   },
   {
     "sn": 10108,
@@ -122,10 +122,10 @@
     "sort": 8,
     "systemeventSn": 0,
     "num": 0,
-    "type": 2,
-    "cuptype": 2,
+    "type": 0,
+    "cuptype": 0,
     "show": "",
-    "boss": 1
+    "boss": 0
   },
   {
     "sn": 10109,
@@ -138,10 +138,10 @@
     "sort": 9,
     "systemeventSn": 0,
     "num": 0,
-    "type": 2,
-    "cuptype": 2,
-    "show": "icon-rogue-rewardteam-baofa-yin.png",
-    "boss": 1
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
   },
   {
     "sn": 10110,
@@ -154,10 +154,10 @@
     "sort": 10,
     "systemeventSn": 0,
     "num": 0,
-    "type": 3,
-    "cuptype": 1,
+    "type": 0,
+    "cuptype": 0,
     "show": "",
-    "boss": 2
+    "boss": 0
   },
   {
     "sn": 10111,
@@ -170,10 +170,10 @@
     "sort": 11,
     "systemeventSn": 0,
     "num": 0,
-    "type": 3,
-    "cuptype": 1,
-    "show": "icon-rogue-rewardteam-baoji-tong.png",
-    "boss": 2
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
   },
   {
     "sn": 10112,
@@ -186,10 +186,10 @@
     "sort": 12,
     "systemeventSn": 0,
     "num": 0,
-    "type": 3,
-    "cuptype": 1,
+    "type": 0,
+    "cuptype": 0,
     "show": "",
-    "boss": 2
+    "boss": 0
   },
   {
     "sn": 10113,
@@ -202,10 +202,10 @@
     "sort": 13,
     "systemeventSn": 0,
     "num": 0,
-    "type": 4,
-    "cuptype": 1,
+    "type": 0,
+    "cuptype": 0,
     "show": "",
-    "boss": 3
+    "boss": 0
   },
   {
     "sn": 10114,
@@ -218,9 +218,249 @@
     "sort": 14,
     "systemeventSn": 0,
     "num": 0,
-    "type": 4,
-    "cuptype": 1,
+    "type": 0,
+    "cuptype": 0,
     "show": "",
-    "boss": 3
+    "boss": 0
+  },
+  {
+    "sn": 10201,
+    "des": "在任意难度中通过「终点站一」",
+    "line": 102,
+    "difficulty": 1,
+    "rogueFloor": 10231,
+    "rogueTeam": 1001,
+    "award": 215115,
+    "sort": 1,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10202,
+    "des": "在任意难度中通过「终点站三」",
+    "line": 102,
+    "difficulty": 1,
+    "rogueFloor": 10233,
+    "rogueTeam": 1001,
+    "award": 215116,
+    "sort": 2,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10203,
+    "des": "在任意难度中通过「终点站二」",
+    "line": 102,
+    "difficulty": 1,
+    "rogueFloor": 10232,
+    "rogueTeam": 1001,
+    "award": 215117,
+    "sort": 3,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10204,
+    "des": "在任意难度中通过「终点站四」",
+    "line": 102,
+    "difficulty": 1,
+    "rogueFloor": 10234,
+    "rogueTeam": 1001,
+    "award": 215118,
+    "sort": 4,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10205,
+    "des": "在「难度6」中通过「任意终点站」",
+    "line": 102,
+    "difficulty": 6,
+    "rogueFloor": -1,
+    "rogueTeam": 1001,
+    "award": 215119,
+    "sort": 5,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10206,
+    "des": "在「难度7」中通过「任意终点站」",
+    "line": 102,
+    "difficulty": 7,
+    "rogueFloor": -1,
+    "rogueTeam": 1001,
+    "award": 215120,
+    "sort": 6,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10207,
+    "des": "在「难度8」中通过「任意终点站」",
+    "line": 102,
+    "difficulty": 8,
+    "rogueFloor": -1,
+    "rogueTeam": 1001,
+    "award": 215121,
+    "sort": 7,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10208,
+    "des": "使用「<link=\"t|1003\"><u>电属性阵容</u></link>」通过「难度4」",
+    "line": 102,
+    "difficulty": 4,
+    "rogueFloor": -1,
+    "rogueTeam": 1003,
+    "award": 215122,
+    "sort": 8,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10209,
+    "des": "使用「<link=\"t|1004\"><u>冰属性阵容</u></link>」通过「难度4」",
+    "line": 102,
+    "difficulty": 4,
+    "rogueFloor": -1,
+    "rogueTeam": 1004,
+    "award": 215123,
+    "sort": 9,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10210,
+    "des": "使用「<link=\"t|1006\"><u>核属性阵容</u></link>」通过「难度4」",
+    "line": 102,
+    "difficulty": 4,
+    "rogueFloor": -1,
+    "rogueTeam": 1006,
+    "award": 215124,
+    "sort": 10,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10211,
+    "des": "使用「<link=\"t|1002\"><u>咒属性阵容</u></link>」通过「难度4」",
+    "line": 102,
+    "difficulty": 4,
+    "rogueFloor": -1,
+    "rogueTeam": 1002,
+    "award": 215125,
+    "sort": 11,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10212,
+    "des": "使用「<link=\"t|1003\"><u>电属性阵容</u></link>」通过「难度6」",
+    "line": 102,
+    "difficulty": 6,
+    "rogueFloor": -1,
+    "rogueTeam": 1003,
+    "award": 215126,
+    "sort": 12,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10213,
+    "des": "使用「<link=\"t|1004\"><u>冰属性阵容</u></link>」通过「难度6」",
+    "line": 102,
+    "difficulty": 6,
+    "rogueFloor": -1,
+    "rogueTeam": 1004,
+    "award": 215127,
+    "sort": 13,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10214,
+    "des": "使用「<link=\"t|1006\"><u>核属性阵容</u></link>」通过「难度6」",
+    "line": 102,
+    "difficulty": 6,
+    "rogueFloor": -1,
+    "rogueTeam": 1006,
+    "award": 215128,
+    "sort": 14,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
+  },
+  {
+    "sn": 10215,
+    "des": "使用「<link=\"t|1002\"><u>咒属性阵容</u></link>」通过「难度6」",
+    "line": 102,
+    "difficulty": 6,
+    "rogueFloor": -1,
+    "rogueTeam": 1002,
+    "award": 215129,
+    "sort": 15,
+    "systemeventSn": 0,
+    "num": 0,
+    "type": 0,
+    "cuptype": 0,
+    "show": "",
+    "boss": 0
   }
 ]

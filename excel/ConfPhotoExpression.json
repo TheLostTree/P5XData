@@ -8,7 +8,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 0
+    "sort": 1
   },
   {
     "sn": 101,
@@ -19,7 +19,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 1000
+    "sort": 1
   },
   {
     "sn": 102,
@@ -30,7 +30,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 1000
+    "sort": 2
   },
   {
     "sn": 103,
@@ -41,7 +41,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 1000
+    "sort": 3
   },
   {
     "sn": 104,
@@ -52,7 +52,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 1000
+    "sort": 4
   },
   {
     "sn": 105,
@@ -63,7 +63,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 1000
+    "sort": 5
   },
   {
     "sn": 201,
@@ -74,7 +74,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 2000
+    "sort": 1
   },
   {
     "sn": 202,
@@ -85,7 +85,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 2000
+    "sort": 2
   },
   {
     "sn": 203,
@@ -96,7 +96,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 2000
+    "sort": 3
   },
   {
     "sn": 204,
@@ -107,7 +107,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 2000
+    "sort": 4
   },
   {
     "sn": 205,
@@ -118,7 +118,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 2000
+    "sort": 5
   },
   {
     "sn": 206,
@@ -129,7 +129,62 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 2000
+    "sort": 6
+  },
+  {
+    "sn": 301,
+    "name": "默认",
+    "pic": "paizhao-biaoqing-default.png",
+    "CharacterSn": 3,
+    "expression": 10301,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 302,
+    "name": "微笑",
+    "pic": "paizhao-biaoqing-happy.png",
+    "CharacterSn": 3,
+    "expression": 10302,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 303,
+    "name": "惊讶",
+    "pic": "paizhao-biaoqing-amaze.png",
+    "CharacterSn": 3,
+    "expression": 10304,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 304,
+    "name": "悲伤",
+    "pic": "paizhao-biaoqing-sad.png",
+    "CharacterSn": 3,
+    "expression": 10305,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 305,
+    "name": "生气",
+    "pic": "paizhao-biaoqing-anger.png",
+    "CharacterSn": 3,
+    "expression": 10306,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 5
   },
   {
     "sn": 401,
@@ -140,7 +195,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 4000
+    "sort": 1
   },
   {
     "sn": 402,
@@ -151,7 +206,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 4000
+    "sort": 2
   },
   {
     "sn": 403,
@@ -162,7 +217,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 4000
+    "sort": 3
   },
   {
     "sn": 601,
@@ -173,7 +228,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 6000
+    "sort": 1
   },
   {
     "sn": 602,
@@ -184,7 +239,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 6000
+    "sort": 2
   },
   {
     "sn": 603,
@@ -195,7 +250,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 6000
+    "sort": 3
   },
   {
     "sn": 604,
@@ -206,7 +261,7 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 6000
+    "sort": 4
   },
   {
     "sn": 605,
@@ -217,6 +272,435 @@
     "method": 0,
     "param": 0,
     "description": "",
-    "sort": 6000
+    "sort": 5
+  },
+  {
+    "sn": 701,
+    "name": "默认",
+    "pic": "paizhao-biaoqing-default.png",
+    "CharacterSn": 7,
+    "expression": 11401,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 702,
+    "name": "惊讶",
+    "pic": "paizhao-biaoqing-amaze.png",
+    "CharacterSn": 7,
+    "expression": 11404,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 703,
+    "name": "愤怒",
+    "pic": "paizhao-biaoqing-anger2.png",
+    "CharacterSn": 7,
+    "expression": 11405,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 704,
+    "name": "悲伤",
+    "pic": "paizhao-biaoqing-sad.png",
+    "CharacterSn": 7,
+    "expression": 11406,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 705,
+    "name": "害怕",
+    "pic": "paizhao-biaoqing-fear.png",
+    "CharacterSn": 7,
+    "expression": 11407,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 5
+  },
+  {
+    "sn": 2601,
+    "name": "默认",
+    "pic": "paizhao-biaoqing-default.png",
+    "CharacterSn": 26,
+    "expression": 70021,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 2602,
+    "name": "笑",
+    "pic": "paizhao-biaoqing-happy.png",
+    "CharacterSn": 26,
+    "expression": 70022,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 2603,
+    "name": "惊讶",
+    "pic": "paizhao-biaoqing-amaze.png",
+    "CharacterSn": 26,
+    "expression": 70023,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 2604,
+    "name": "悲伤",
+    "pic": "paizhao-biaoqing-sad.png",
+    "CharacterSn": 26,
+    "expression": 70024,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 2605,
+    "name": "生气",
+    "pic": "paizhao-biaoqing-anger.png",
+    "CharacterSn": 26,
+    "expression": 70025,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 5
+  },
+  {
+    "sn": 2801,
+    "name": "默认",
+    "pic": "paizhao-biaoqing-default.png",
+    "CharacterSn": 28,
+    "expression": 11701,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 2802,
+    "name": "微笑",
+    "pic": "paizhao-biaoqing-happy.png",
+    "CharacterSn": 28,
+    "expression": 11702,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 2803,
+    "name": "悲伤",
+    "pic": "paizhao-biaoqing-sad.png",
+    "CharacterSn": 28,
+    "expression": 11704,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 2901,
+    "name": "默认",
+    "pic": "paizhao-biaoqing-default.png",
+    "CharacterSn": 29,
+    "expression": 13001,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 2902,
+    "name": "微笑",
+    "pic": "paizhao-biaoqing-happy.png",
+    "CharacterSn": 29,
+    "expression": 13002,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 2903,
+    "name": "惊讶",
+    "pic": "paizhao-biaoqing-amaze.png",
+    "CharacterSn": 29,
+    "expression": 13003,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 2904,
+    "name": "害怕",
+    "pic": "paizhao-biaoqing-fear.png",
+    "CharacterSn": 29,
+    "expression": 13004,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 2905,
+    "name": "悲伤",
+    "pic": "paizhao-biaoqing-sad.png",
+    "CharacterSn": 29,
+    "expression": 13005,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 5
+  },
+  {
+    "sn": 3001,
+    "name": "默认",
+    "pic": "paizhao-biaoqing-default.png",
+    "CharacterSn": 30,
+    "expression": 14001,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 3002,
+    "name": "微笑",
+    "pic": "paizhao-biaoqing-happy.png",
+    "CharacterSn": 30,
+    "expression": 14002,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 3003,
+    "name": "惊讶",
+    "pic": "paizhao-biaoqing-amaze.png",
+    "CharacterSn": 30,
+    "expression": 14004,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 3004,
+    "name": "悲伤",
+    "pic": "paizhao-biaoqing-sad.png",
+    "CharacterSn": 30,
+    "expression": 14005,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 3005,
+    "name": "醉酒",
+    "pic": "paizhao-biaoqing-intoxicated.png",
+    "CharacterSn": 30,
+    "expression": 14006,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 5
+  },
+  {
+    "sn": 3101,
+    "name": "默认",
+    "pic": "paizhao-biaoqing-default.png",
+    "CharacterSn": 31,
+    "expression": 10101,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 3102,
+    "name": "愤怒",
+    "pic": "paizhao-biaoqing-anger2.png",
+    "CharacterSn": 31,
+    "expression": 10104,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 3103,
+    "name": "悲伤",
+    "pic": "paizhao-biaoqing-sad.png",
+    "CharacterSn": 31,
+    "expression": 10105,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 3201,
+    "name": "微笑",
+    "pic": "paizhao-biaoqing-happy.png",
+    "CharacterSn": 32,
+    "expression": 10201,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 3202,
+    "name": "惊讶",
+    "pic": "paizhao-biaoqing-amaze.png",
+    "CharacterSn": 32,
+    "expression": 10202,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 3203,
+    "name": "生气",
+    "pic": "paizhao-biaoqing-anger.png",
+    "CharacterSn": 32,
+    "expression": 10203,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 3204,
+    "name": "悲伤",
+    "pic": "paizhao-biaoqing-sad.png",
+    "CharacterSn": 32,
+    "expression": 10204,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 3205,
+    "name": "陶醉",
+    "pic": "paizhao-biaoqing-intoxicated.png",
+    "CharacterSn": 32,
+    "expression": 10207,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 5
+  },
+  {
+    "sn": 3301,
+    "name": "默认",
+    "pic": "paizhao-biaoqing-default.png",
+    "CharacterSn": 33,
+    "expression": 10301,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 3302,
+    "name": "微笑",
+    "pic": "paizhao-biaoqing-happy.png",
+    "CharacterSn": 33,
+    "expression": 10302,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 3303,
+    "name": "惊讶",
+    "pic": "paizhao-biaoqing-amaze.png",
+    "CharacterSn": 33,
+    "expression": 10304,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
+  },
+  {
+    "sn": 3304,
+    "name": "悲伤",
+    "pic": "paizhao-biaoqing-sad.png",
+    "CharacterSn": 33,
+    "expression": 10305,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 4
+  },
+  {
+    "sn": 3305,
+    "name": "生气",
+    "pic": "paizhao-biaoqing-anger.png",
+    "CharacterSn": 33,
+    "expression": 10306,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 5
+  },
+  {
+    "sn": 3401,
+    "name": "默认",
+    "pic": "paizhao-biaoqing-default.png",
+    "CharacterSn": 34,
+    "expression": 90051,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 1
+  },
+  {
+    "sn": 3402,
+    "name": "微笑",
+    "pic": "paizhao-biaoqing-happy.png",
+    "CharacterSn": 34,
+    "expression": 90052,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 2
+  },
+  {
+    "sn": 3403,
+    "name": "惊讶",
+    "pic": "paizhao-biaoqing-amaze.png",
+    "CharacterSn": 34,
+    "expression": 90054,
+    "method": 0,
+    "param": 0,
+    "description": "",
+    "sort": 3
   }
 ]

@@ -1,0 +1,82 @@
+[
+  {
+    "sn": 1,
+    "name": "沙滩的异变·热夏狂欢",
+    "thiefSn": 1032,
+    "activitySn": 4800001,
+    "thiefAddition": [
+      [
+        1032,
+        0.35
+      ],
+      [
+        1031,
+        0.15
+      ],
+      [
+        1051,
+        0.15
+      ]
+    ],
+    "isOpen": 1,
+    "order": 1,
+    "thiefPosition": [
+      0,
+      0
+    ],
+    "thiefRotation": 0,
+    "thiefScale": 1,
+    "personaPosition": [
+      176,
+      -397
+    ],
+    "personaRotation": 0,
+    "personaScale": 0.7,
+    "timesLimit": 1,
+    "limitRefresh": 1,
+    "limitParam": 0,
+    "challengeTypeLimit": 2,
+    "backgroundImage": "thiefFight-mainBG-closerS.png",
+    "thiefBg": "thiefFight-listIcon-closerS.png"
+  },
+  {
+    "sn": 2,
+    "name": "沙滩的异变·激浪庆典",
+    "thiefSn": 1102,
+    "activitySn": 4800002,
+    "thiefAddition": [
+      [
+        1102,
+        0.5
+      ],
+      [
+        1041,
+        0.2
+      ],
+      [
+        1031,
+        0.2
+      ]
+    ],
+    "isOpen": 0,
+    "order": 2,
+    "thiefPosition": [
+      166,
+      -156
+    ],
+    "thiefRotation": 0,
+    "thiefScale": 0.8,
+    "personaPosition": [
+      -209,
+      -85
+    ],
+    "personaRotation": 0,
+    "personaScale": 0.5,
+    "timesLimit": 1,
+    "limitRefresh": 1,
+    "limitParam": 0,
+    "challengeTypeLimit": 2,
+    "backgroundImage": "chouka-kachi3-bg1.png",
+    "thiefBg": "lihui-guaidao-kotomo.png"
+  }
+]

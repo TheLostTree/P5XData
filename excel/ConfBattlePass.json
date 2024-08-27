@@ -7,6 +7,8 @@
     "type": 0,
     "name": "普通版",
     "paymentAward": -1,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
     "paymentAward0": -1,
     "levelparam": [],
     "awardparam": [],
@@ -31,6 +33,8 @@
     "type": 1,
     "name": "典藏版",
     "paymentAward": 201087,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
     "paymentAward0": -1,
     "levelparam": [],
     "awardparam": [],
@@ -86,6 +90,8 @@
     "type": 2,
     "name": "珍藏版",
     "paymentAward": 201089,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
     "paymentAward0": 201088,
     "levelparam": [],
     "awardparam": [],
@@ -110,6 +116,8 @@
     "type": 0,
     "name": "普通版",
     "paymentAward": -1,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
     "paymentAward0": -1,
     "levelparam": [
       20,
@@ -143,6 +151,8 @@
     "type": 1,
     "name": "典藏版",
     "paymentAward": 201087,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
     "paymentAward0": -1,
     "levelparam": [
       20,
@@ -158,6 +168,10 @@
     ],
     "expCurrency": 100151,
     "extraAwardShow": [
+      [
+        302901,
+        4
+      ],
       [
         190040,
         2
@@ -184,16 +198,16 @@
       ]
     ],
     "awardPicShow": [
-      "battlePass_page_1_1.png",
-      "battlePass_page_1_3.png",
-      "battlePass_page_1_2.png",
-      "battlePass_page_1_4.png"
+      "battlePass_page_2_2.png",
+      "battlePass_page_1_4.png",
+      "battlePass_page_2_1.png",
+      "battlePass_page_1_3.png"
     ],
     "weaponShow": [
+      500098,
+      500099,
       190040,
-      100165,
-      309031,
-      500099
+      100165
     ],
     "Text1": "",
     "Text2": "",
@@ -206,8 +220,10 @@
     "PayCharge0": 200003,
     "type": 2,
     "name": "珍藏版",
-    "paymentAward": 201089,
-    "paymentAward0": 201088,
+    "paymentAward": 201091,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
+    "paymentAward0": 201090,
     "levelparam": [
       20,
       50
@@ -221,6 +237,294 @@
       201302
     ],
     "expCurrency": 100151,
+    "extraAwardShow": [
+      [
+        0
+      ]
+    ],
+    "awardPicShow": [],
+    "weaponShow": [],
+    "Text1": "激活「典藏版」升级奖励权限",
+    "Text2": "立即提升「10级」雏鸟计划等级",
+    "superAward": 0
+  },
+  {
+    "sn": 3000,
+    "Activity": 200003,
+    "PayCharge": -1,
+    "PayCharge0": -1,
+    "type": 0,
+    "name": "普通版",
+    "paymentAward": -1,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
+    "paymentAward0": -1,
+    "levelparam": [
+      20,
+      50
+    ],
+    "awardparam": [
+      -1,
+      -1
+    ],
+    "awardparam1": [
+      201303,
+      201304
+    ],
+    "expCurrency": 100149,
+    "extraAwardShow": [
+      [
+        0
+      ]
+    ],
+    "awardPicShow": [],
+    "weaponShow": [],
+    "Text1": "",
+    "Text2": "",
+    "superAward": 0
+  },
+  {
+    "sn": 3001,
+    "Activity": 200003,
+    "PayCharge": 200001,
+    "PayCharge0": -1,
+    "type": 1,
+    "name": "典藏版",
+    "paymentAward": 201087,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
+    "paymentAward0": -1,
+    "levelparam": [
+      20,
+      50
+    ],
+    "awardparam": [
+      -1,
+      -1
+    ],
+    "awardparam1": [
+      201303,
+      201304
+    ],
+    "expCurrency": 100149,
+    "extraAwardShow": [
+      [
+        302901,
+        4
+      ],
+      [
+        190051,
+        2
+      ],
+      [
+        300002,
+        3
+      ],
+      [
+        300004,
+        3
+      ],
+      [
+        302310,
+        2
+      ],
+      [
+        100165,
+        1
+      ],
+      [
+        302490,
+        3
+      ],
+      [
+        100101,
+        6
+      ]
+    ],
+    "awardPicShow": [
+      "battlePass_page_3_2.png",
+      "battlePass_page_3_1.png",
+      "battlePass_page_1_4.png",
+      "battlePass_page_1_3.png"
+    ],
+    "weaponShow": [
+      500097,
+      190051,
+      500099,
+      100165
+    ],
+    "Text1": "",
+    "Text2": "",
+    "superAward": 0
+  },
+  {
+    "sn": 3002,
+    "Activity": 200003,
+    "PayCharge": 200002,
+    "PayCharge0": 200003,
+    "type": 2,
+    "name": "珍藏版",
+    "paymentAward": 201093,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
+    "paymentAward0": 201092,
+    "levelparam": [
+      20,
+      50
+    ],
+    "awardparam": [
+      -1,
+      -1
+    ],
+    "awardparam1": [
+      201303,
+      201304
+    ],
+    "expCurrency": 100149,
+    "extraAwardShow": [
+      [
+        0
+      ]
+    ],
+    "awardPicShow": [],
+    "weaponShow": [],
+    "Text1": "激活「典藏版」升级奖励权限",
+    "Text2": "立即提升「10级」雏鸟计划等级",
+    "superAward": 0
+  },
+  {
+    "sn": 4000,
+    "Activity": 200004,
+    "PayCharge": -1,
+    "PayCharge0": -1,
+    "type": 0,
+    "name": "普通版",
+    "paymentAward": -1,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
+    "paymentAward0": -1,
+    "levelparam": [
+      20,
+      50
+    ],
+    "awardparam": [
+      -1,
+      -1
+    ],
+    "awardparam1": [
+      201303,
+      201304
+    ],
+    "expCurrency": 100148,
+    "extraAwardShow": [
+      [
+        0
+      ]
+    ],
+    "awardPicShow": [],
+    "weaponShow": [],
+    "Text1": "",
+    "Text2": "",
+    "superAward": 0
+  },
+  {
+    "sn": 4001,
+    "Activity": 200004,
+    "PayCharge": 200001,
+    "PayCharge0": -1,
+    "type": 1,
+    "name": "典藏版",
+    "paymentAward": 201087,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
+    "paymentAward0": -1,
+    "levelparam": [
+      20,
+      50
+    ],
+    "awardparam": [
+      -1,
+      -1
+    ],
+    "awardparam1": [
+      201303,
+      201304
+    ],
+    "expCurrency": 100148,
+    "extraAwardShow": [
+      [
+        302901,
+        4
+      ],
+      [
+        190051,
+        2
+      ],
+      [
+        300002,
+        3
+      ],
+      [
+        300004,
+        3
+      ],
+      [
+        302310,
+        2
+      ],
+      [
+        100165,
+        1
+      ],
+      [
+        302490,
+        3
+      ],
+      [
+        100101,
+        6
+      ]
+    ],
+    "awardPicShow": [
+      "battlePass_page_3_2.png",
+      "battlePass_page_3_1.png",
+      "battlePass_page_1_4.png",
+      "battlePass_page_1_3.png"
+    ],
+    "weaponShow": [
+      500097,
+      190051,
+      500099,
+      100165
+    ],
+    "Text1": "",
+    "Text2": "",
+    "superAward": 0
+  },
+  {
+    "sn": 4002,
+    "Activity": 200004,
+    "PayCharge": 200002,
+    "PayCharge0": 200003,
+    "type": 2,
+    "name": "珍藏版",
+    "paymentAward": 201093,
+    "awardJpShow": [],
+    "jpDetails": "pass形式的话需要追加下述信息\u000b\u000bA　除了签约的时间，该期间内能够利用的次数限制等信息\nB　根据月票种类的不同，针对①～④设定不同进行分别的标注 \nC　如果会自动进行续约的话需要注明\nD　签约后在一定期间内存在免费或者打折的情况，转变成通常价格以及时期的标注\nE　解约的期限，解约的条件以及毁约的赔偿等标注\n\n另外，如果在期间内能够购买复数次的话，针对①分量需要购买的数量。\n※提供文字文件内的ID后直接追加正文进去。",
+    "paymentAward0": 201092,
+    "levelparam": [
+      20,
+      50
+    ],
+    "awardparam": [
+      -1,
+      -1
+    ],
+    "awardparam1": [
+      201303,
+      201304
+    ],
+    "expCurrency": 100148,
     "extraAwardShow": [
       [
         0

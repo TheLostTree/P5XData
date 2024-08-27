@@ -63,10 +63,24 @@
     ],
     "PalaceSn": 2,
     "consume": 0,
-    "sequence": 4,
+    "sequence": 5,
     "cd": 5000,
     "InfiltrationToolsSn": [
       5
+    ]
+  },
+  {
+    "sn": 305623,
+    "open": 10686,
+    "sceneType": [
+      1
+    ],
+    "PalaceSn": 3,
+    "consume": 0,
+    "sequence": 6,
+    "cd": 5000,
+    "InfiltrationToolsSn": [
+      6
     ]
   }
 ]

@@ -468,6 +468,25 @@
     "num": 0
   },
   {
+    "sn": 214,
+    "title": "画境迷廊",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-eyizhijing.png",
+    "sequence": 418,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 1,
+    "icon": "",
+    "steps": 21401,
+    "trigger": [
+      0
+    ],
+    "triggerValue": [],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
     "sn": 217,
     "title": "宝箱",
     "level": 0,
@@ -528,7 +547,7 @@
     "level": 0,
     "type": 4,
     "pic": "shouji-yishijie01.png",
-    "sequence": 405,
+    "sequence": 408,
     "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
@@ -549,7 +568,7 @@
     "level": 0,
     "type": 4,
     "pic": "shouji-yishijie01.png",
-    "sequence": 406,
+    "sequence": 407,
     "popShow": 0,
     "waitOver": 1,
     "isPause": 0,
@@ -577,10 +596,10 @@
     "icon": "",
     "steps": 22201,
     "trigger": [
-      12
+      8
     ],
     "triggerValue": [
-      "3910712"
+      "80015"
     ],
     "systemeventSn": 0,
     "num": 0
@@ -1253,6 +1272,138 @@
     ],
     "triggerValue": [
       "80014"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 256,
+    "title": "风涡涡漩",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 362,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 25601,
+    "trigger": [
+      8
+    ],
+    "triggerValue": [
+      "80016"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 270,
+    "title": "能量收集器",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 821,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 27001,
+    "trigger": [
+      8
+    ],
+    "triggerValue": [
+      "2423"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 271,
+    "title": "能量收集器的操作",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 822,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 27101,
+    "trigger": [
+      2,
+      10
+    ],
+    "triggerValue": [
+      "120858",
+      "UI_EnergyTransferObjectiveOperationView"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 272,
+    "title": "能量的容量",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 823,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 27201,
+    "trigger": [
+      3
+    ],
+    "triggerValue": [
+      "204"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 273,
+    "title": "热能与能量传输器",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 824,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 27301,
+    "trigger": [
+      2,
+      10
+    ],
+    "triggerValue": [
+      "120088",
+      "UI_EnergyTransferObjectiveOperationView"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 274,
+    "title": "动能的使用",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 825,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 27401,
+    "trigger": [
+      2,
+      10
+    ],
+    "triggerValue": [
+      "120103",
+      "UI_EnergyTransferObjectiveOperationView"
     ],
     "systemeventSn": 0,
     "num": 0
@@ -2137,6 +2288,92 @@
     "num": 0
   },
   {
+    "sn": 610,
+    "title": "心轨择行·宝箱",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-xinjizexing.png",
+    "sequence": 415,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 61001,
+    "trigger": [
+      30,
+      10
+    ],
+    "triggerValue": [
+      "9",
+      "UI_RogueliteSceneSchedule"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 611,
+    "title": "虚荣暴食之像·体力模式",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-yishijie01.png",
+    "sequence": 431,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 61101,
+    "trigger": [
+      3
+    ],
+    "triggerValue": [
+      "201"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 612,
+    "title": "委托派遣",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-yishijie01.png",
+    "sequence": 405,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 61201,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_StrangeThiefDispatchMainView"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 613,
+    "title": "怪盗秘闻",
+    "level": 0,
+    "type": 4,
+    "pic": "shouji-yishijie01.png",
+    "sequence": 406,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 61301,
+    "trigger": [
+      10
+    ],
+    "triggerValue": [
+      "UI_ThiefChallengeChapterView"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
     "sn": 701,
     "title": "阵容·角色",
     "level": 0,
@@ -2258,6 +2495,132 @@
     ],
     "triggerValue": [
       "900122"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 805,
+    "title": "摄像机",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 805,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 80108,
+    "trigger": [
+      8
+    ],
+    "triggerValue": [
+      "900292"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 806,
+    "title": "摄像机模组",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 806,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 80109,
+    "trigger": [
+      9
+    ],
+    "triggerValue": [
+      "42041018"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 807,
+    "title": "具现化摄像机",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 807,
+    "popShow": 1,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 80111,
+    "trigger": [
+      8
+    ],
+    "triggerValue": [
+      "900301"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 808,
+    "title": "监控摄像机",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 808,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 80113,
+    "trigger": [
+      8
+    ],
+    "triggerValue": [
+      "900323"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 809,
+    "title": "间隔摄像机",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 809,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 80114,
+    "trigger": [
+      8
+    ],
+    "triggerValue": [
+      "900330"
+    ],
+    "systemeventSn": 0,
+    "num": 0
+  },
+  {
+    "sn": 810,
+    "title": "警戒度升高",
+    "level": 0,
+    "type": 3,
+    "pic": "shouji-daolantishi-mianju-new.png",
+    "sequence": 810,
+    "popShow": 0,
+    "waitOver": 1,
+    "isPause": 0,
+    "icon": "",
+    "steps": 80115,
+    "trigger": [
+      8
+    ],
+    "triggerValue": [
+      "900250"
     ],
     "systemeventSn": 0,
     "num": 0

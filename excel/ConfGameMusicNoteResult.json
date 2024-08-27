@@ -11,6 +11,14 @@
       -120,
       50
     ],
+    "noteTimeEasyCoop": [
+      -170,
+      60
+    ],
+    "noteTimeCoop": [
+      -140,
+      60
+    ],
     "effect": "Music_game_prefect.prefab"
   },
   {
@@ -24,6 +32,14 @@
     "noteTime": [
       -240,
       80
+    ],
+    "noteTimeEasyCoop": [
+      -330,
+      100
+    ],
+    "noteTimeCoop": [
+      -270,
+      100
     ],
     "effect": "Music_game_great.prefab"
   },
@@ -39,6 +55,14 @@
       -500,
       150
     ],
+    "noteTimeEasyCoop": [
+      -500,
+      150
+    ],
+    "noteTimeCoop": [
+      -500,
+      150
+    ],
     "effect": "Music_game_good.prefab"
   },
   {
@@ -50,6 +74,14 @@
       150
     ],
     "noteTime": [
+      -600,
+      150
+    ],
+    "noteTimeEasyCoop": [
+      -600,
+      150
+    ],
+    "noteTimeCoop": [
       -600,
       150
     ],

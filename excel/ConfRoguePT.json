@@ -2,7 +2,10 @@
   {
     "sn": 4,
     "type": 4,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      81
+    ],
+    "rogueEventSn102": [
       81
     ],
     "name": "食梦者",
@@ -13,7 +16,10 @@
   {
     "sn": 5,
     "type": 5,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      1
+    ],
+    "rogueEventSn102": [
       1
     ],
     "name": "心轨启程",
@@ -24,7 +30,10 @@
   {
     "sn": 7,
     "type": 7,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      9
+    ],
+    "rogueEventSn102": [
       9
     ],
     "name": "妄想残影",
@@ -35,7 +44,10 @@
   {
     "sn": 9,
     "type": 9,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      11
+    ],
+    "rogueEventSn102": [
       11
     ],
     "name": "奇迹福引",
@@ -46,7 +58,11 @@
   {
     "sn": 11,
     "type": 1,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      41,
+      301
+    ],
+    "rogueEventSn102": [
       41,
       301
     ],
@@ -58,7 +74,11 @@
   {
     "sn": 12,
     "type": 1,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      42,
+      301
+    ],
+    "rogueEventSn102": [
       42,
       301
     ],
@@ -70,7 +90,11 @@
   {
     "sn": 13,
     "type": 1,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      43,
+      301
+    ],
+    "rogueEventSn102": [
       43,
       301
     ],
@@ -82,7 +106,12 @@
   {
     "sn": 21,
     "type": 2,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      51,
+      302,
+      201
+    ],
+    "rogueEventSn102": [
       51,
       302,
       201
@@ -95,7 +124,12 @@
   {
     "sn": 22,
     "type": 2,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      52,
+      302,
+      201
+    ],
+    "rogueEventSn102": [
       52,
       302,
       201
@@ -108,7 +142,12 @@
   {
     "sn": 23,
     "type": 2,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      53,
+      302,
+      201
+    ],
+    "rogueEventSn102": [
       53,
       302,
       201
@@ -121,7 +160,12 @@
   {
     "sn": 31,
     "type": 3,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      61,
+      303,
+      201
+    ],
+    "rogueEventSn102": [
       61,
       303,
       201
@@ -134,7 +178,12 @@
   {
     "sn": 32,
     "type": 3,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      62,
+      303,
+      201
+    ],
+    "rogueEventSn102": [
       62,
       303,
       201
@@ -145,9 +194,26 @@
     "pic": ""
   },
   {
+    "sn": 41,
+    "type": 4,
+    "rogueEventSn101": [
+      81
+    ],
+    "rogueEventSn102": [
+      81
+    ],
+    "name": "食梦者",
+    "text": "被黑暗气息笼罩的终点站上，阴影庞大的身躯盘踞其上，阻挡着每一位想要完成心愿之人。",
+    "ending": 0,
+    "pic": ""
+  },
+  {
     "sn": 71,
     "type": 7,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      10
+    ],
+    "rogueEventSn102": [
       10
     ],
     "name": "妄想残影",
@@ -158,7 +224,10 @@
   {
     "sn": 72,
     "type": 11,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      10
+    ],
+    "rogueEventSn102": [
       10
     ],
     "name": "妄想残影",
@@ -169,7 +238,10 @@
   {
     "sn": 73,
     "type": 11,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      12
+    ],
+    "rogueEventSn102": [
       12
     ],
     "name": "妄想残影",
@@ -180,7 +252,10 @@
   {
     "sn": 74,
     "type": 11,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      13
+    ],
+    "rogueEventSn102": [
       13
     ],
     "name": "妄想残影",
@@ -191,7 +266,10 @@
   {
     "sn": 75,
     "type": 11,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      14
+    ],
+    "rogueEventSn102": [
       14
     ],
     "name": "妄想残影",
@@ -202,7 +280,10 @@
   {
     "sn": 76,
     "type": 11,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      15
+    ],
+    "rogueEventSn102": [
       15
     ],
     "name": "妄想残影",
@@ -213,7 +294,10 @@
   {
     "sn": 81,
     "type": 6,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      701
+    ],
+    "rogueEventSn102": [
       701
     ],
     "name": "心灵憩所",
@@ -224,7 +308,11 @@
   {
     "sn": 82,
     "type": 8,
-    "rogueEventSn": [
+    "rogueEventSn101": [
+      3,
+      702
+    ],
+    "rogueEventSn102": [
       3,
       702
     ],
@@ -236,8 +324,11 @@
   {
     "sn": 993,
     "type": 10,
-    "rogueEventSn": [
+    "rogueEventSn101": [
       993
+    ],
+    "rogueEventSn102": [
+      10200993
     ],
     "name": "",
     "text": "",
@@ -247,8 +338,11 @@
   {
     "sn": 994,
     "type": 10,
-    "rogueEventSn": [
+    "rogueEventSn101": [
       994
+    ],
+    "rogueEventSn102": [
+      10200994
     ],
     "name": "",
     "text": "",
@@ -258,8 +352,11 @@
   {
     "sn": 995,
     "type": 10,
-    "rogueEventSn": [
+    "rogueEventSn101": [
       995
+    ],
+    "rogueEventSn102": [
+      10200995
     ],
     "name": "",
     "text": "",
@@ -269,8 +366,11 @@
   {
     "sn": 996,
     "type": 10,
-    "rogueEventSn": [
+    "rogueEventSn101": [
       996
+    ],
+    "rogueEventSn102": [
+      10200996
     ],
     "name": "",
     "text": "",
@@ -280,8 +380,11 @@
   {
     "sn": 997,
     "type": 10,
-    "rogueEventSn": [
+    "rogueEventSn101": [
       997
+    ],
+    "rogueEventSn102": [
+      10200997
     ],
     "name": "",
     "text": "",
@@ -291,8 +394,11 @@
   {
     "sn": 998,
     "type": 10,
-    "rogueEventSn": [
+    "rogueEventSn101": [
       998
+    ],
+    "rogueEventSn102": [
+      10200998
     ],
     "name": "",
     "text": "",
@@ -302,8 +408,11 @@
   {
     "sn": 999,
     "type": 10,
-    "rogueEventSn": [
+    "rogueEventSn101": [
       999
+    ],
+    "rogueEventSn102": [
+      10200999
     ],
     "name": "",
     "text": "",

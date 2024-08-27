@@ -234,7 +234,7 @@
   {
     "sn": 30,
     "devicemodel": "iPhone15,2",
-    "GraphicLevel": 3,
+    "GraphicLevel": 4,
     "pixelWork": 0,
     "frames120": 0,
     "HDR": 0
@@ -242,7 +242,7 @@
   {
     "sn": 31,
     "devicemodel": "iPhone15,3",
-    "GraphicLevel": 3,
+    "GraphicLevel": 4,
     "pixelWork": 0,
     "frames120": 0,
     "HDR": 0
@@ -250,7 +250,7 @@
   {
     "sn": 32,
     "devicemodel": "iPhone15,4",
-    "GraphicLevel": 3,
+    "GraphicLevel": 4,
     "pixelWork": 0,
     "frames120": 0,
     "HDR": 0
@@ -258,7 +258,7 @@
   {
     "sn": 33,
     "devicemodel": "iPhone15,5",
-    "GraphicLevel": 3,
+    "GraphicLevel": 4,
     "pixelWork": 0,
     "frames120": 0,
     "HDR": 0
@@ -266,7 +266,7 @@
   {
     "sn": 34,
     "devicemodel": "iPhone16,1",
-    "GraphicLevel": 3,
+    "GraphicLevel": 4,
     "pixelWork": 0,
     "frames120": 0,
     "HDR": 0
@@ -274,7 +274,7 @@
   {
     "sn": 35,
     "devicemodel": "iPhone16,2",
-    "GraphicLevel": 3,
+    "GraphicLevel": 4,
     "pixelWork": 0,
     "frames120": 0,
     "HDR": 0
@@ -739,6 +739,70 @@
     "sn": 93,
     "devicemodel": "iPad14,6",
     "GraphicLevel": 3,
+    "pixelWork": 0,
+    "frames120": 1,
+    "HDR": 1
+  },
+  {
+    "sn": 94,
+    "devicemodel": "iPad14,8",
+    "GraphicLevel": 4,
+    "pixelWork": 0,
+    "frames120": 1,
+    "HDR": 1
+  },
+  {
+    "sn": 95,
+    "devicemodel": "iPad14,9",
+    "GraphicLevel": 4,
+    "pixelWork": 0,
+    "frames120": 1,
+    "HDR": 1
+  },
+  {
+    "sn": 96,
+    "devicemodel": "iPad14,10",
+    "GraphicLevel": 4,
+    "pixelWork": 0,
+    "frames120": 1,
+    "HDR": 1
+  },
+  {
+    "sn": 97,
+    "devicemodel": "iPad14,11",
+    "GraphicLevel": 4,
+    "pixelWork": 0,
+    "frames120": 1,
+    "HDR": 1
+  },
+  {
+    "sn": 98,
+    "devicemodel": "iPad16,3",
+    "GraphicLevel": 3,
+    "pixelWork": 0,
+    "frames120": 0,
+    "HDR": 1
+  },
+  {
+    "sn": 99,
+    "devicemodel": "iPad16,4",
+    "GraphicLevel": 3,
+    "pixelWork": 0,
+    "frames120": 0,
+    "HDR": 1
+  },
+  {
+    "sn": 100,
+    "devicemodel": "iPad16,5",
+    "GraphicLevel": 4,
+    "pixelWork": 0,
+    "frames120": 1,
+    "HDR": 1
+  },
+  {
+    "sn": 101,
+    "devicemodel": "iPad16,6",
+    "GraphicLevel": 4,
     "pixelWork": 0,
     "frames120": 1,
     "HDR": 1

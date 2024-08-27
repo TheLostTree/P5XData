@@ -120,6 +120,11 @@
     "controlType": 1
   },
   {
+    "sn": 34,
+    "UIComponentPath": "UI_StrangeThiefMainInfo/youshangshipei/Button-shizhuang",
+    "controlType": 1
+  },
+  {
     "sn": 201,
     "UIComponentPath": "UI_PalaceWorld/liuhai/shipei/zhengti01/btn-explore-shop/btn-Button-tansuodu",
     "controlType": 1
@@ -180,6 +185,11 @@
     "controlType": 1
   },
   {
+    "sn": 216,
+    "UIComponentPath": "UI_PalaceWorld/liuhai/shipei/zhengti01/btn-explore-shop/cc-btn-Button-jingsuanji",
+    "controlType": 1
+  },
+  {
     "sn": 251,
     "UIComponentPath": "UI_PWSaferoom/animation/Image-di01-1/weijiesuo",
     "controlType": 2
@@ -197,6 +207,16 @@
   {
     "sn": 254,
     "UIComponentPath": "UI_PWSaferoom/Button-fanhui",
+    "controlType": 1
+  },
+  {
+    "sn": 341,
+    "UIComponentPath": "UI_MainUI/youxia/Button-dispatch",
+    "controlType": 1
+  },
+  {
+    "sn": 342,
+    "UIComponentPath": "UI_BattleMeeting/RightBottom/Button-dispatch",
     "controlType": 1
   },
   {
@@ -243,6 +263,31 @@
     "sn": 410,
     "UIComponentPath": "UI_MainMenu_Right/zuoshang/gongneng/rukou/taluo/lock-click",
     "controlType": 3
+  },
+  {
+    "sn": 412,
+    "UIComponentPath": "UI_MainMenu_Right/zuoshang/gongneng/rukou/challenge",
+    "controlType": 1
+  },
+  {
+    "sn": 414,
+    "UIComponentPath": "UI-huodong-push",
+    "controlType": 1
+  },
+  {
+    "sn": 416,
+    "UIComponentPath": "UI_SystemSettingForLoginView/dibuanniu/shangchuanrizhi",
+    "controlType": 1
+  },
+  {
+    "sn": 417,
+    "UIComponentPath": "UI_MainMenu_Right/zuoshang/gongneng/rukou/customerService",
+    "controlType": 1
+  },
+  {
+    "sn": 418,
+    "UIComponentPath": "UI_SystemSettingNew/dibuanniu/shangchuanrizhi",
+    "controlType": 1
   },
   {
     "sn": 601,

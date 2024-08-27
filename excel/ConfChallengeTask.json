@@ -136,7 +136,7 @@
     "sn": 20,
     "taskGroup": 4,
     "taskConditions": 4,
-    "taskParam": 300000,
+    "taskParam": 600000,
     "reward": 208135
   },
   {
@@ -171,7 +171,7 @@
     "sn": 25,
     "taskGroup": 5,
     "taskConditions": 4,
-    "taskParam": 300000,
+    "taskParam": 750000,
     "reward": 208145
   },
   {
@@ -206,7 +206,7 @@
     "sn": 30,
     "taskGroup": 6,
     "taskConditions": 4,
-    "taskParam": 300000,
+    "taskParam": 900000,
     "reward": 208155
   },
   {
@@ -241,7 +241,42 @@
     "sn": 35,
     "taskGroup": 7,
     "taskConditions": 4,
-    "taskParam": 300000,
+    "taskParam": 1050000,
     "reward": 208165
+  },
+  {
+    "sn": 36,
+    "taskGroup": 8,
+    "taskConditions": 3,
+    "taskParam": 9,
+    "reward": 208166
+  },
+  {
+    "sn": 37,
+    "taskGroup": 8,
+    "taskConditions": 3,
+    "taskParam": 15,
+    "reward": 208167
+  },
+  {
+    "sn": 38,
+    "taskGroup": 8,
+    "taskConditions": 3,
+    "taskParam": 21,
+    "reward": 208168
+  },
+  {
+    "sn": 39,
+    "taskGroup": 8,
+    "taskConditions": 3,
+    "taskParam": 27,
+    "reward": 208169
+  },
+  {
+    "sn": 40,
+    "taskGroup": 8,
+    "taskConditions": 4,
+    "taskParam": 1200000,
+    "reward": 208170
   }
 ]
